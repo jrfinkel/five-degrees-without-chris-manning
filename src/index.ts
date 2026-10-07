@@ -14,6 +14,11 @@ app.get("/", (c) => {
     layout({
       title: "5 Degrees Without Chris Manning",
       body: `
+<div class="qrcorner" title="scan to open on your phone">
+  <div class="qr">${qrSvg}</div>
+  <div class="pill">scan me</div>
+</div>
+
 <div class="center">
   <pre class="banner">${esc(BANNER)}</pre>
   <div class="subtitle">without <s>chris manning</s></div>
@@ -54,11 +59,6 @@ app.get("/", (c) => {
 </div>
 
 <div id="out"></div>
-
-<div class="qrblock">
-  <div class="qr">${qrSvg}</div>
-  <div class="pill">scan to summon on your phone</div>
-</div>
 
 <footer>
   Data: Google Scholar profiles of <span id="npeople">?</span> Stanford-NLP-adjacent humans ·

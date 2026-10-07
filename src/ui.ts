@@ -148,12 +148,15 @@ input:focus { outline: none; border-color: var(--honey); }
 .pill { display: inline-block; font-size: 0.82em; font-weight: 700; color: var(--muted); letter-spacing: 0.05em; }
 .pill::before { content: "[ "; }
 .pill::after { content: " ]"; }
-.qrblock { text-align: center; margin: 34px 0 0; }
-.qrblock .qr {
-  display: inline-block; background: #fff; padding: 8px; line-height: 0;
-  border: 1px solid var(--muted); box-shadow: 0 0 18px rgba(43, 255, 111, 0.18);
+/* QR pinned top-right beside the title, like hive-mind's name badge */
+.qrcorner { position: fixed; top: 12px; right: 16px; z-index: 10; text-align: center; }
+.qrcorner .qr {
+  display: inline-block; background: #fff; padding: 6px; line-height: 0;
+  border: 1px solid var(--muted); box-shadow: 0 0 14px rgba(43, 255, 111, 0.18);
 }
-.qrblock .qr svg { width: 132px; height: 132px; display: block; }
-.qrblock .pill { display: block; margin-top: 8px; }
+.qrcorner .qr svg { width: 92px; height: 92px; display: block; }
+.qrcorner .pill { display: block; margin-top: 4px; font-size: 0.72em; }
+/* phones don't scan themselves */
+@media (max-width: 900px) { .qrcorner { display: none; } }
 footer { margin-top: 40px; color: var(--muted); font-size: 0.8em; }
 `;
