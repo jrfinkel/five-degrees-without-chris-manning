@@ -1,0 +1,53 @@
+{
+ "user": "cJe5NN0AAAAJ",
+ "pubs": [
+  {
+   "title": "Semi-supervised recursive autoencoders for predicting sentiment distributions",
+   "authors": "R Socher, J Pennington, EH Huang, AY Ng, CD Manning",
+   "venue": "Proceedings of the 2011 conference on empirical methods in natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Improving word representations via global context and multiple word prototypes",
+   "authors": "EH Huang, R Socher, CD Manning, AY Ng",
+   "venue": "Proceedings of the 50th annual meeting of the association for computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection",
+   "authors": "R Socher, EH Huang, J Pennington, AY Ng, CD Manning",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Toward automatic task design: a progress report",
+   "authors": "E Huang, H Zhang, DC Parkes, KZ Gajos, Y Chen",
+   "venue": "Proceedings of the ACM SIGKDD workshop on human computation, 77-85",
+   "year": "2010"
+  },
+  {
+   "title": "Price manipulation in prediction markets: analysis and mitigation",
+   "authors": "EH Huang, Y Shoham",
+   "venue": "Proceedings of the 2014 international conference on Autonomous agents and …",
+   "year": "2014"
+  },
+  {
+   "title": "Maintaining the ownership of information in the digital age",
+   "authors": "EHC Huang",
+   "venue": "Stanford University",
+   "year": "2016"
+  },
+  {
+   "title": "The Right to Obscure: A Mechanism and Initial Evaluation.",
+   "authors": "EHC Huang, J Lanier, Y Shoham",
+   "venue": "IJCAI, 1156-1162",
+   "year": "2015"
+  },
+  {
+   "title": "Theoretical Analyses of Hyperparameter Selection in Graph-Based Semi-Supervised Learning",
+   "authors": "AY Du, E Huang, D Sharma",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

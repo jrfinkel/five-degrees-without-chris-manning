@@ -25,10 +25,43 @@ TITLE_STOP = {
     "appendix", "index", "abstract", "discussion", "reply", "response",
 }
 
+# Surnames too common for initial+surname matching to be trusted: "D Chen"
+# on some JAMA letter is NOT Danqi. People with these surnames only join a
+# paper via their own Scholar profile or a written-out full-name match.
+COMMON_SURNAMES = {
+    "chen", "wang", "li", "zhang", "liu", "lee", "kim", "park", "wu",
+    "zhou", "yang", "lin", "xu", "sun", "huang", "hu", "he", "gao", "zhao",
+    "smith", "johnson", "jones", "brown", "davis", "wilson", "taylor",
+    "clark", "lewis", "walker", "hall", "young", "king", "cox", "singh",
+    "kumar", "gupta", "shah", "patel", "khan", "ali",
+}
+
+
+JUNK_TAIL = {
+    "arxiv", "doi", "preprint", "org", "url", "https", "http", "vol",
+    "pp", "abs", "corr", "available", "online",
+}
+
 
 def title_key(t: str) -> str | None:
-    k = norm(t)
-    if not k or k in TITLE_STOP or len(k.split()) < 2 or len(k) < 8:
+    # strip a leading citation fragment: "& Liang, P.(2022). Actual title…"
+    t = re.sub(r"^\s*&?\s*[A-Z][\w-]+,\s*[A-Z]\.?,?\s*(\(\d{4}\))?\.?\s*", "", t)
+    toks = norm(t).split()
+    # strip citation cruft off the tail: trailing arXiv/DOI refs and years
+    popped_junk = False
+    while toks:
+        tail = toks[-1]
+        if tail in JUNK_TAIL:
+            popped_junk = True
+            toks.pop()
+        elif re.fullmatch(r"(19|20)\d\d", tail):
+            toks.pop()
+        elif popped_junk and re.fullmatch(r"\d{1,6}", tail):
+            toks.pop()
+        else:
+            break
+    k = " ".join(toks)
+    if not k or k in TITLE_STOP or len(toks) < 2 or len(k) < 8:
         return None
     if k.startswith("proceedings of") or k.startswith("proceedings the"):
         return None
@@ -77,7 +110,10 @@ def main() -> None:
         initial = parts[0][0]
         for surlen in (2, 1):
             if len(parts) >= 1 + surlen:
-                key = (initial, " ".join(parts[-surlen:]))
+                sur = " ".join(parts[-surlen:])
+                if sur in COMMON_SURNAMES:
+                    continue
+                key = (initial, sur)
                 if key in uniq_il:
                     return uniq_il[key]
         return None
@@ -117,6 +153,32 @@ def main() -> None:
                 if m is not None:
                     bucket["participants"].add(m)
 
+    # --- second pass: fold citation-mangled fragments into big papers ------
+    # "& Bernstein, MS (2021). On the opportunities and risks of foundation
+    # models" still contains the real title; if a well-attested paper's key
+    # is a substring of a lesser key, they are the same paper.
+    anchors = [
+        (tk, c)
+        for tk, buckets in clusters.items()
+        for c in buckets
+        if len(c["participants"]) >= 8 and len(tk) >= 25
+    ]
+    for tk, buckets in list(clusters.items()):
+        for c in buckets:
+            for atk, ac in anchors:
+                if c is ac or atk == tk:
+                    continue
+                if atk in tk:
+                    y, ay = (min(c["years"]) if c["years"] else None), (
+                        min(ac["years"]) if ac["years"] else None
+                    )
+                    if y is None or ay is None or abs(y - ay) <= 2:
+                        ac["participants"] |= c["participants"]
+                        ac["years"] |= c["years"]
+                        ac["rows"] += c["rows"]
+                        c["participants"] = set()  # tombstone
+                    break
+
     # --- emit ---------------------------------------------------------------
     papers = []
     deg = defaultdict(int)
@@ -124,16 +186,18 @@ def main() -> None:
         for c in buckets:
             if len(c["participants"]) < 2:
                 continue
-            # best display row: longest author string (least truncated)
-            best = max(c["rows"], key=lambda r: len(r.get("authors", "")))
+            # display title: shortest raw title (citation-mangled variants
+            # run long); authors/venue: longest author string (least truncated)
+            best_t = min(c["rows"], key=lambda r: len(r.get("title", "") or "~" * 999))
+            best_a = max(c["rows"], key=lambda r: len(r.get("authors", "")))
             year = min(c["years"]) if c["years"] else None
             parts = sorted(c["participants"])
             papers.append(
                 {
-                    "t": best["title"],
+                    "t": best_t["title"],
                     "y": year,
-                    "v": best.get("venue") or None,
-                    "a": best.get("authors") or None,
+                    "v": best_a.get("venue") or None,
+                    "a": best_a.get("authors") or None,
                     "p": parts,
                 }
             )

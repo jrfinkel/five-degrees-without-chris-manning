@@ -1,0 +1,935 @@
+{
+ "user": "qBdkqYcAAAAJ",
+ "pubs": [
+  {
+   "title": "Generating typed dependency parses from phrase structure parses",
+   "authors": "MC De Marneffe, B MacCartney, CD Manning",
+   "venue": "Proceedings of the fifth international Conference on Language Resources and …",
+   "year": "2006"
+  },
+  {
+   "title": "Universal dependencies v1: A multilingual treebank collection",
+   "authors": "J Nivre, MC De Marneffe, F Ginter, Y Goldberg, J Hajic, CD Manning, ...",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Universal dependencies",
+   "authors": "MC De Marneffe, CD Manning, J Nivre, D Zeman",
+   "venue": "Computational linguistics 47 (2), 255-308",
+   "year": "2021"
+  },
+  {
+   "title": "The Stanford typed dependencies representation",
+   "authors": "MC De Marneffe, CD Manning",
+   "venue": "Coling 2008: proceedings of the workshop on cross-framework and cross-domain …",
+   "year": "2008"
+  },
+  {
+   "title": "Stanford typed dependencies manual",
+   "authors": "MC De Marneffe, CD Manning",
+   "venue": "Technical report, Stanford University",
+   "year": "2008"
+  },
+  {
+   "title": "Universal Dependencies v2: An evergrowing multilingual treebank collection",
+   "authors": "J Nivre, MC De Marneffe, F Ginter, J Hajic, CD Manning, S Pyysalo, ...",
+   "venue": "Proceedings of the twelfth language resources and evaluation conference …",
+   "year": "2020"
+  },
+  {
+   "title": "Universal Stanford dependencies: A cross-linguistic typology",
+   "authors": "MC De Marneffe, T Dozat, N Silveira, K Haverinen, F Ginter, J Nivre, ...",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "CoNLL 2018 shared task: Multilingual parsing from raw text to universal dependencies",
+   "authors": "D Zeman, J Hajic, M Popel, M Potthast, M Straka, F Ginter, J Nivre, ...",
+   "venue": "Proceedings of the CoNLL 2018 Shared Task: Multilingual parsing from raw …",
+   "year": "2018"
+  },
+  {
+   "title": "The commitmentbank: Investigating projection in naturally occurring discourse",
+   "authors": "MC De Marneffe, M Simons, J Tonhauser",
+   "venue": "proceedings of Sinn und Bedeutung 23 (2), 107-124",
+   "year": "2019"
+  },
+  {
+   "title": "Finding contradictions in text",
+   "authors": "MC De Marneffe, AN Rafferty, CD Manning",
+   "venue": "Proceedings of acl-08: Hlt, 1039-1047",
+   "year": "2008"
+  },
+  {
+   "title": "A gold standard dependency corpus for English",
+   "authors": "N Silveira, T Dozat, MC De Marneffe, S Bowman, M Connor, J Bauer, ...",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: human language technologies",
+   "authors": "K Knight, A Nenkova, O Rambow",
+   "venue": "Proceedings of the 2016 Conference of the North American Chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Shared tasks of the 2015 workshop on noisy user-generated text: Twitter lexical normalization and named entity recognition",
+   "authors": "T Baldwin, MC De Marneffe, B Han, YB Kim, A Ritter, W Xu",
+   "venue": "Proceedings of the workshop on noisy user-generated text, 126-135",
+   "year": "2015"
+  },
+  {
+   "title": "Universal Dependencies 2.2",
+   "authors": "J Nivre, M Abrams, Ž Agić, L Ahrenberg, L Antonsen, MJ Aranzabe, ...",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "The life and death of discourse entities: Identifying singleton mentions",
+   "authors": "M Recasens, MC De Marneffe, C Potts",
+   "venue": "Proceedings of the 2013 conference of the North American chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Did it happen? The pragmatic complexity of veridicality assessment",
+   "authors": "MC De Marneffe, CD Manning, C Potts",
+   "venue": "Computational linguistics 38 (2), 301-333",
+   "year": "2012"
+  },
+  {
+   "title": "Parsing to stanford dependencies: Trade-offs between speed and accuracy",
+   "authors": "D Cer, MC De Marneffe, D Jurafsky, C Manning",
+   "venue": "Proceedings of the Seventh International Conference on Language Resources …",
+   "year": "2010"
+  },
+  {
+   "title": "Results of the wnut16 named entity recognition shared task",
+   "authors": "B Strauss, B Toma, A Ritter, MC De Marneffe, W Xu",
+   "venue": "Proceedings of the 2nd Workshop on Noisy User-generated Text (WNUT), 138-144",
+   "year": "2016"
+  },
+  {
+   "title": "Learning to recognize features of valid textual entailments",
+   "authors": "B MacCartney, T Grenager, MC De Marneffe, D Cer, CD Manning",
+   "venue": "Proceedings of the Human Language Technology Conference of the NAACL, Main …",
+   "year": "2006"
+  },
+  {
+   "title": "Learning alignments and leveraging natural logic",
+   "authors": "N Chambers, D Cer, T Grenager, D Hall, C Kiddon, B MacCartney, ...",
+   "venue": "Proceedings of the ACL-PASCAL workshop on textual entailment and …",
+   "year": "2007"
+  },
+  {
+   "title": "Multiword expression identification with tree substitution grammars: A parsing tour de force with french",
+   "authors": "S Green, MC De Marneffe, J Bauer, CD Manning",
+   "venue": "Proceedings of the 2011 conference on empirical methods in natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Dependency grammar",
+   "authors": "MC De Marneffe, J Nivre",
+   "venue": "Annual Review of Linguistics 5 (1), 197-218",
+   "year": "2019"
+  },
+  {
+   "title": "Investigating reasons for disagreement in natural language inference",
+   "authors": "NJ Jiang, MC Marneffe",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 1357-1374",
+   "year": "2022"
+  },
+  {
+   "title": "A statistical model of the grammatical choices in child production of dative sentences",
+   "authors": "MC de Marneffe, S Grimm, I Arnon, S Kirby, J Bresnan",
+   "venue": "Language and Cognitive Processes 27 (1), 25-61",
+   "year": "2012"
+  },
+  {
+   "title": "Parsing models for identifying multiword expressions",
+   "authors": "S Green, MC de Marneffe, CD Manning",
+   "venue": "Computational Linguistics 39 (1), 195-227",
+   "year": "2013"
+  },
+  {
+   "title": "Universal dependencies 2.8. 1",
+   "authors": "D Zeman, J Nivre, M Abrams, E Ackermann, N Aepli, H Aghaei, Ž Agić, ...",
+   "venue": "LINDAT/CLARIAHCZ digital library at the Institute of Formal and Applied …",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluating BERT for natural language inference: A case study on the CommitmentBank",
+   "authors": "N Jiang, MC de Marneffe",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "“Was it good? It was provocative.” Learning the meaning of scalar adjectives",
+   "authors": "MC De Marneffe, CD Manning, C Potts",
+   "venue": "Proceedings of the 48th annual meeting of the association for computational …",
+   "year": "2010"
+  },
+  {
+   "title": "VariErr NLI: Separating annotation error from human label variation",
+   "authors": "L Weber-Genzel, S Peng, MC De Marneffe, B Plank",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to distinguish valid textual entailments",
+   "authors": "MC De Marneffe, B MacCartney, T Grenager, D Cer, A Rafferty, ...",
+   "venue": "Proceedings of the Second PASCAL Challenges Workshop",
+   "year": "2006"
+  },
+  {
+   "title": "Practical, efficient, and customizable active learning for named entity recognition in the digital humanities",
+   "authors": "A Erdmann, DJ Wrisley, B Allen, C Brown, S Cohen-Bodénès, M Elsner, ...",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Conversion et améliorations de corpus du français annotés en Universal Dependencies [conversion and improvement of Universal Dependencies French corpora]",
+   "authors": "B Guillaume, MC de Marneffe, G Perrier",
+   "venue": "Traitement automatique des langues 60 (2), 71-95",
+   "year": "2019"
+  },
+  {
+   "title": "Constructing verb paradigms in French: adult construals and emerging grammatical contrasts",
+   "authors": "EV Clark, MC De Marneffe",
+   "venue": "Morphology 22 (1), 89-120",
+   "year": "2012"
+  },
+  {
+   "title": "Textual inference for eligibility criteria resolution in clinical trials",
+   "authors": "C Shivade, C Hebert, M Lopetegui, MC De Marneffe, E Fosler-Lussier, ...",
+   "venue": "Journal of biomedical informatics 58, S211-S218",
+   "year": "2015"
+  },
+  {
+   "title": "More constructions, more genres: Extending Stanford dependencies",
+   "authors": "MC De Marneffe, M Connor, N Silveira, SR Bowman, T Dozat, ...",
+   "venue": "Proceedings of the second international conference on dependency linguistics …",
+   "year": "2013"
+  },
+  {
+   "title": "Robust textual inference using diverse knowledge sources",
+   "authors": "R Raina, A Haghighi, C Cox, J Finkel, J Michels, K Toutanova, ...",
+   "venue": "Proceedings of the First PASCAL Challenges Workshop",
+   "year": "2005"
+  },
+  {
+   "title": "Challenges and solutions for Latin named entity recognition",
+   "authors": "A Erdmann, C Brown, B Joseph, M Janse, P Ajaka, M Elsner, ...",
+   "venue": "Proceedings of the Workshop on Language Technology Resources and Tools for …",
+   "year": "2016"
+  },
+  {
+   "title": "Deriving adjectival scales from continuous space word representations",
+   "authors": "JK Kim, MC de Marneffe",
+   "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Aligning semantic graphs for textual inference and machine reading",
+   "authors": "MC De Marneffe, T Grenager, B MacCartney, D Cer, D Ramage, C Kiddon, ...",
+   "venue": "Association for the Advancement of Artificial Intelligence (AAAI) Spring …",
+   "year": "2007"
+  },
+  {
+   "title": "QED: A fact verification system for the FEVER shared task",
+   "authors": "J Luken, N Jiang, MC de Marneffe",
+   "venue": "Proceedings of the First Workshop on Fact Extraction and VERification (FEVER …",
+   "year": "2018"
+  },
+  {
+   "title": "Deciding entailment and contradiction with stochastic and edit distance-based alignment",
+   "authors": "S Padó, MC de Marneffe, B MacCartney, AN Rafferty, E Yeh, CD Manning",
+   "venue": "Proceedings of the Text Analysis Conference",
+   "year": "2008"
+  },
+  {
+   "title": "Not a simple yes or no: Uncertainty in indirect answers",
+   "authors": "MC De Marneffe, S Grimm, C Potts",
+   "venue": "Proceedings of the SIGDIAL 2009 Conference, 136-143",
+   "year": "2009"
+  },
+  {
+   "title": "Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment",
+   "authors": "N Jiang, MC de Marneffe",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Adjusting word embeddings with semantic intensity orders",
+   "authors": "JK Kim, MC de Marneffe, E Fosler-Lussier",
+   "venue": "Proceedings of the 1st Workshop on Representation Learning for NLP, 62-69",
+   "year": "2016"
+  },
+  {
+   "title": "Identifying inherent disagreement in natural language inference",
+   "authors": "XF Zhang, MC de Marneffe",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Inferring meaning from indirect answers to polar questions: the contribution of the rise-fall-rise",
+   "authors": "MC De Marneffe, J Tonhauser",
+   "venue": "Questions in discourse 2, 132-163",
+   "year": "2019"
+  },
+  {
+   "title": "Modeling the lifespan of discourse entities with application to coreference resolution",
+   "authors": "MC De Marneffe, M Recasens, C Potts",
+   "venue": "Journal of Artificial Intelligence Research 52, 445-475",
+   "year": "2015"
+  },
+  {
+   "title": "Breaking NLP: Using morphosyntax, semantics, pragmatics and world knowledge to fool sentiment analysis systems",
+   "authors": "T Mahler, W Cheung, M Elsner, D King, MC de Marneffe, C Shain, ...",
+   "venue": "Proceedings of the First Workshop on Building Linguistically Generalizable …",
+   "year": "2017"
+  },
+  {
+   "title": "Assessing the annotation consistency of the universal dependencies corpora",
+   "authors": "MC de Marneffe, M Grioni, J Kanerva, F Ginter",
+   "venue": "Proceedings of the Fourth International Conference on Dependency Linguistics …",
+   "year": "2017"
+  },
+  {
+   "title": "He thinks he knows better than the doctors: BERT for event factuality fails on pragmatics",
+   "authors": "N Jiang, MC de Marneffe",
+   "venue": "Transactions of the Association for Computational Linguistics 9, 1081-1097",
+   "year": "2021"
+  },
+  {
+   "title": "Rational use of prosody predicts projection in manner adverb utterances",
+   "authors": "JS Stevens, MC de Marneffe, SR Speer, J Tonhauser",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 39",
+   "year": "2017"
+  },
+  {
+   "title": "Ecologically valid explanations for label variation in NLI",
+   "authors": "NJ Jiang, C Tan, MC De Marneffe",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 10622 …",
+   "year": "2023"
+  },
+  {
+   "title": "Corpus-based discovery of semantic intensity scales",
+   "authors": "C Shivade, MC de Marneffe, E Fosler-Lussier, AM Lai",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Extending NegEx with kernel methods for negation detection in clinical text",
+   "authors": "C Shivade, MC de Marneffe, E Fosler-Lussier, AM Lai",
+   "venue": "Proceedings of the Second Workshop on Extra-Propositional Aspects of Meaning …",
+   "year": "2015"
+  },
+  {
+   "title": "Multi-word expressions in textual inference: Much ado about nothing?",
+   "authors": "MC de Marneffe, S Padó, CD Manning",
+   "venue": "Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer), 1-9",
+   "year": "2009"
+  },
+  {
+   "title": "“i have a feeling trump will win..................”: Forecasting Winners and Losers from User Predictions on Twitter",
+   "authors": "S Swamy, A Ritter, MC de Marneffe",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Developing linguistic theories using annotated corpora",
+   "authors": "MC de Marneffe, C Potts",
+   "venue": "Handbook of linguistic annotation, 411-438",
+   "year": "2017"
+  },
+  {
+   "title": "Veridicality and utterance understanding",
+   "authors": "MC de Marneffe, CD Manning, C Potts",
+   "venue": "Semantic Computing (ICSC), 2011 Fifth IEEE International Conference on, 430-437",
+   "year": "2011"
+  },
+  {
+   "title": "Litex: A linguistic taxonomy of explanations for understanding within-label variation in natural language inference",
+   "authors": "P Hong, B Chen, S Peng, MC de Marneffe, B Plank",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "UniDive: A COST action on universality, diversity and idiosyncrasy in language technology",
+   "authors": "A Savary, D Zeman, VB Mititelu, A Barreiro, O Caftanatov, ...",
+   "venue": "Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under …",
+   "year": "2024"
+  },
+  {
+   "title": "The overall markedness of discourse relations",
+   "authors": "L Jin, MC de Marneffe",
+   "venue": "Proceedings of the 2015 conference on empirical methods in natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "TIPECS: A corpus cleaning method using machine learning and qualitative analysis",
+   "authors": "J Bogaert, L Escouflaire, MC de Marneffe, A Descampe, FX Standaert, ...",
+   "venue": "International Conference on Corpus Linguistics (JLC)",
+   "year": "2023"
+  },
+  {
+   "title": "Contextualized embeddings for enriching linguistic analyses on politeness",
+   "authors": "A Aljanaideh, E Fosler-Lussier, MC De Marneffe",
+   "venue": "Proceedings of the 28th International Conference on Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Sensibilité des explications à l’aléa des grands modèles de langage: le cas de la classification de textes journalistiques [sensitivity of explanations to the randomness of …",
+   "authors": "J Bogaert, MC de Marneffe, A Descampe, L Escouflaire, C Fairon, ...",
+   "venue": "Traitement Automatique des Langues 64 (3), 15-40",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluative adjective sentences: A question-based analysis of projection",
+   "authors": "J Tonhauser, MC De Marneffe, J Degen",
+   "venue": "Glossa: a journal of general linguistics 5 (1)",
+   "year": "2020"
+  },
+  {
+   "title": "On the information structure sensitivity of projective content",
+   "authors": "J Tonhauser, MC de Marneffe, SR Speer, J Stevens",
+   "venue": "Proceedings of Sinn und Bedeutung 23 (2), 363-390",
+   "year": "2019"
+  },
+  {
+   "title": "Understanding and predicting human label variation in natural language inference through explanation",
+   "authors": "NJ Jiang, C Tan, MC de Marneffe",
+   "venue": "arXiv preprint arXiv:2304.12443",
+   "year": "2023"
+  },
+  {
+   "title": "The prosody of presupposition projection in naturally-occurring utterances",
+   "authors": "T Mahler, MC de Marneffe, C Lai",
+   "venue": "Proceedings of Sinn und Bedeutung 24",
+   "year": "2020"
+  },
+  {
+   "title": "Identifying Conflicting Information in Texts",
+   "authors": "MC de Marneffe, AN Rafferty, CD Manning",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Comparative study of statistical word sense discrimination techniques",
+   "authors": "MC De Marneffe, P Dupont",
+   "venue": "Actes des 7es Journées internationales d’Analyse statistique des Données …",
+   "year": "2004"
+  },
+  {
+   "title": "The stanford parser: A statistical parser",
+   "authors": "D Klein, C Manning, R Levy, C Manning, T Grenager, G Andrew, ...",
+   "venue": "The Stanford Natural Language Processing Group–http://nlp. stanford. edu …",
+   "year": "2002"
+  },
+  {
+   "title": "A survey of diversity quantification in natural language processing: The why, what, where and how",
+   "authors": "L Estève, MC de Marneffe, N Melnik, A Savary, O Kanishcheva",
+   "venue": "arXiv preprint arXiv:2507.20858",
+   "year": "2025"
+  },
+  {
+   "title": "Automatic and manual detection of generated news: Case study, limitations and challenges",
+   "authors": "J Bogaert, MC de Marneffe, A Descampe, FX Standaert",
+   "venue": "Proceedings of the 1st International Workshop on Multimedia AI against …",
+   "year": "2022"
+  },
+  {
+   "title": "Identification, characterization, and grounding of gradable terms in clinical text",
+   "authors": "C Shivade, MC de Marneffe, E Fosler-Lussier, AM Lai",
+   "venue": "Proceedings of the 15th Workshop on Biomedical Natural Language Processing …",
+   "year": "2016"
+  },
+  {
+   "title": "Visual and linguistic predictors for the definiteness of referring expressions",
+   "authors": "M Duan, M Elsner, MC de Marneffe",
+   "venue": "Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue",
+   "year": "2013"
+  },
+  {
+   "title": "Was it good? It was provocative",
+   "authors": "M Marneffe, C Manning, C Potts",
+   "venue": "Learning the meaning of scalar adjectives. ACL, 167-176",
+   "year": "2010"
+  },
+  {
+   "title": "Stanford typed dependencies manual,[online][retrieved Dec. 14, 2015]",
+   "authors": "MC Marneffe",
+   "venue": "Retrieved from the internet:.(Sep. 2008)",
+   "year": null
+  },
+  {
+   "title": "Explanation sensitivity to the randomness of large language models: the case of journalistic text classification",
+   "authors": "J Bogaert, MC de Marneffe, A Descampe, L Escouflaire, C Fairon, ...",
+   "venue": "arXiv preprint arXiv:2410.05085",
+   "year": "2024"
+  },
+  {
+   "title": "I do not disagree: leveraging monolingual alignment to detect disagreement in dialogue",
+   "authors": "A Gokcen, MC de Marneffe",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Agree, disagree, explain: Decomposing human label variation in NLI through the lens of explanations",
+   "authors": "P Hong, B Chen, S Peng, MC de Marneffe, B Roth, B Plank",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 26922-26934",
+   "year": "2026"
+  },
+  {
+   "title": "Function words in universal dependencies",
+   "authors": "MC De Marneffe, J Nivre, D Zeman",
+   "venue": "Linguistic Analysis 43 (3-4)",
+   "year": "2024"
+  },
+  {
+   "title": "What's that Supposed to Mean? Modeling the Pragmatic Meaning of Utterances",
+   "authors": "MC De Marneffe",
+   "venue": "Stanford University",
+   "year": "2012"
+  },
+  {
+   "title": "CENTAL at TSAR-2022 Shared Task: How Does Context Impact BERT-Generated Substitutions for Lexical Simplification?",
+   "authors": "R Wilkens, D Alfter, R Cardon, I Gribomont, A Bibal, W Patrick, ...",
+   "venue": "Proceedings of the Workshop on Text Simplification, Accessibility, and …",
+   "year": "2022"
+  },
+  {
+   "title": "Goldberg, y., Hajič, J",
+   "authors": "J Nivre, MC de Marneffe, F Ginter",
+   "venue": "Manning, C., McDonald, R., Petrov, S., Pyysalo, S., Silveira, N., Tsarfaty …",
+   "year": "2016"
+  },
+  {
+   "title": "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+   "authors": "M Carpuat, MC de Marneffe, I Meza-Ruiz",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "HERODOTOS",
+   "authors": "C Brown, MC de Marneffe, M Elsner, BD Joseph",
+   "venue": "Pathways",
+   "year": "2018"
+  },
+  {
+   "title": "Negated evaluative adjective sentences: What projects, and why?",
+   "authors": "J Tonhauser, D Beaver, J Degen, MC de Marneffe, C Roberts, M Simons",
+   "venue": "Experimental Pragmatics 2015",
+   "year": "2015"
+  },
+  {
+   "title": "The interaction of lexical frequency and phonetic variation in the perception of accented speech",
+   "authors": "MC de Marneffe, J Tomlinson Jr, M Tice, M Sumner",
+   "venue": "The 33rd Annual Meeting of the Cognitive Science Society [CogSci 2011], 3575 …",
+   "year": "2011"
+  },
+  {
+   "title": "de, & Manning, Christopher. 2008/2015",
+   "authors": "MC Marneffe",
+   "venue": "Stanford Typed Dependencies Manual. See: http://nlp. stanford. edu/software …",
+   "year": null
+  },
+  {
+   "title": "Prosody affects scalar implicature generation",
+   "authors": "MC de Marneffe, J Tonhauser",
+   "venue": "7th CUNY Conference on Human Sentence Processing",
+   "year": "2014"
+  },
+  {
+   "title": "Humans and LLMs Diverge on Probabilistic Inferences",
+   "authors": "G Kamath, S Madathil, S Schuster, MC de Marneffe, S Reddy",
+   "venue": "arXiv preprint arXiv:2602.23546",
+   "year": "2026"
+  },
+  {
+   "title": "Insights of a usability study for kbqa interactive semantic parsing: Generation yields benefits over templates but external validity remains challenging",
+   "authors": "A Lewis, L Mo, MC de Marneffe, H Sun, M White",
+   "venue": "Proceedings of the Fourth Workshop on Human Evaluation of NLP Systems …",
+   "year": "2024"
+  },
+  {
+   "title": "Projection variability: Is the family of sentences really a family?",
+   "authors": "L Hofmann, MC de Marneffe, J Tonhauser",
+   "venue": "Proceedings of Sinn und Bedeutung 28",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on Universal Dependencies (UDW 2018)",
+   "authors": "MC de Marneffe, T Lynn, S Schuster",
+   "venue": "Proceedings of the Second Workshop on Universal Dependencies (UDW 2018)",
+   "year": "2018"
+  },
+  {
+   "title": "Factivity in doubt: Clause-embedding predicates in naturally occurring discourse",
+   "authors": "MC de Marneffe, M Simons, J Tonhauser",
+   "venue": "Sinn und Bedeutung 23 (Poster)",
+   "year": "2018"
+  },
+  {
+   "title": "Universal Dependencies: A cross-linguistic typology",
+   "authors": "MC de Marneffe, T Dozat, N Silveira, K Haverinen, F Ginter, J Nivre, ...",
+   "venue": "Proc. LREC, 1659-1666",
+   "year": "2016"
+  },
+  {
+   "title": "Neural word embeddings with multiplicative feature interactions for tensor-based compositions",
+   "authors": "JK Kim, MC de Marneffe, E Fosler-Lussier",
+   "venue": "Proceedings of the 1st Workshop on Vector Space Modeling for Natural …",
+   "year": "2015"
+  },
+  {
+   "title": "Proceedings of LREC-06",
+   "authors": "M Marneffe, B Maccartney, C Manning",
+   "venue": "Generating typed dependency parses from phrase structure parses, 449-454",
+   "year": "2006"
+  },
+  {
+   "title": "Local vector-based models for sense discrimination",
+   "authors": "MC de Marneffe, C Archambeau, P Dupont, M Verleysen",
+   "venue": "Open Access publications from Université catholique de Louvain",
+   "year": "2005"
+  },
+  {
+   "title": "Label and Explanation Variation in LLM-Based Annotation: a Case Study in Natural Language Inference",
+   "authors": "A Kulmizev, E Lombart, P Watrin, MC de Marneffe",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Are Non-English Papers Reviewed Fairly? Language-of-Study Bias in NLP Peer Reviews",
+   "authors": "E Barkhordar, A Safa, V Blaschke, E Lombart, MC de Marneffe, GG Şahin",
+   "venue": "arXiv preprint arXiv:2604.07119",
+   "year": "2026"
+  },
+  {
+   "title": "Which connective fits best:‘car’or ‘parce que’? A challenge for both humans and LLMs",
+   "authors": "L Escouflaire, J Blochowiak, E Degand, MC de Marneffe",
+   "venue": "JADT 2024: 17th International Conference on Statistical Analysis of Textual Data",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)",
+   "authors": "MC de Marneffe, M de Lhoneux, J Nivre, S Schuster",
+   "venue": "Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)",
+   "year": "2020"
+  },
+  {
+   "title": "On the prosody of presupposition projection: A production experiment",
+   "authors": "E Vaiksnoraite, MC de Marneffe, J Tonhauser",
+   "venue": "North East Linguistic Society 49",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017)",
+   "authors": "MC de Marneffe, J Nivre, S Schuster",
+   "venue": "Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017)",
+   "year": "2017"
+  },
+  {
+   "title": "Predicting projection from rational use of prosody in manner adverb utterances",
+   "authors": "JS Stevens, MC de Marneffe, SR Speer, J Tonhauser",
+   "venue": "Proceedings of the Cognitive Science Society Annual Meeting 2017.",
+   "year": "2017"
+  },
+  {
+   "title": "Top-down lexical tone processing in Mandarin Chinese",
+   "authors": "S Wiener, MC de Marneffe",
+   "venue": "East Asian Psycholinguistics Conference",
+   "year": "2014"
+  },
+  {
+   "title": "Distillation",
+   "authors": "RH Florian, J Olive, C Christianson, J McCary, RH Florian, C Fournelle, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Input and pattern frequencies matter for acquiring French past participle forms",
+   "authors": "MC de Marneffe",
+   "venue": "33rd Stanford Child Language Research Forum",
+   "year": "2009"
+  },
+  {
+   "title": "Re-examining instrumental subjects from an empirical stance",
+   "authors": "S Grimm, MC de Marneffe",
+   "venue": "82nd Annual Meeting of the Linguistic Society of America",
+   "year": "2008"
+  },
+  {
+   "title": "Robust Graph Alignment Methods for Textual Inference and Machine Reading.",
+   "authors": "MC De Marneffe, T Grenager, B MacCartney, DM Cer, D Ramage, ...",
+   "venue": "AAAI Spring Symposium: Machine Reading, 36-42",
+   "year": "2007"
+  },
+  {
+   "title": "Say “No” to Missing Polarity: A Negation Enrichment of the Porttinari UD Treebank",
+   "authors": "IS de Miranda Junior, OA Vale, MC de Marneffe",
+   "venue": "The Ninth Workshop on Universal Dependencies (UDW 2026), 153",
+   "year": "2026"
+  },
+  {
+   "title": "The role of context and age in the use of French causal connectives by humans and LLMs",
+   "authors": "J Blochowiak, RY Zeng, MC de Marneffe, E Degand",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Grille des usages de l’intelligence artificielle générative (IAG) dans les activités d’apprentissage et d’évaluation",
+   "authors": "M Paquot, T François, P Hambye, MC de Marneffe, AC Simon, ...",
+   "venue": "Ecole de langues et lettres (ELAL)-UCLouvain",
+   "year": "2026"
+  },
+  {
+   "title": "C'est kif-kif: Parsing and Multiword Expression Identification for Arabic and French",
+   "authors": "WS Green, MC de Marneffe, CD Manning",
+   "venue": "Computational Linguistics",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on Uncertainty-Aware NLP (UncertaiNLP 2024)",
+   "authors": "W Aziz, J Baan, H Celikkanat, MC de Marneffe, B Plank, S Swayamdipta, ...",
+   "venue": "Workshop on Uncertainty-Aware NLP",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on Uncertainty-Aware NLP (UncertaiNLP 2024)",
+   "authors": "R Vázquez, H Celikkanat, D Ulmer, J Tiedemann, S Swayamdipta, W Aziz, ...",
+   "venue": "Proceedings of the 1st Workshop on Uncertainty-Aware NLP (UncertaiNLP 2024)",
+   "year": "2024"
+  },
+  {
+   "title": "Can humans and large language models predict French causal connectives parce que and car with minimal context?",
+   "authors": "L Escouflaire, J Blochowiak, MC de Marneffe, E Degand",
+   "venue": "XPRAG 2024: 5th Experimental Pragmatics Conference",
+   "year": "2024"
+  },
+  {
+   "title": "Car vs. Parce que: A challenge for both humans and LLMs",
+   "authors": "L Escouflaire, J Blochowiak, E Degand, MC de Marneffe",
+   "venue": "IL&C Poster Day 2024 (Institut Langage & Communication, UCLouvain)",
+   "year": "2024"
+  },
+  {
+   "title": "Why is graph rewriting interesting for computational linguistics?",
+   "authors": "G Perrier",
+   "venue": "GURT/SyntaxFest 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Projection differs across embedding operators--but not like you think",
+   "authors": "L Hofmann, MC de Marneffe, J Tonhauser",
+   "venue": "Proceedings of Sinn und Bedeutung 28",
+   "year": "2023"
+  },
+  {
+   "title": "Projection variability of clausal complements across different operators",
+   "authors": "L Hofmann, MC de Marneffe, J Tonhauser",
+   "venue": "The Tenth Biennial Meeting of Experimental Pragmatics (XPRAG X)",
+   "year": "2023"
+  },
+  {
+   "title": "Findings of the Association for Computational Linguistics: NAACL 2022",
+   "authors": "M Carpuat, MC de Marneffe, I Meza-Ruiz",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "모델을 통한 고전 중국어 정보처리",
+   "authors": "MC de Marneffe, CD Manning, J Nivre, D Zeman",
+   "venue": "Computational Linguistics 47 (2), 255-308",
+   "year": "2021"
+  },
+  {
+   "title": "Factivity, prosody, and at-issueness: Investigating the projection behavior of (non-) factives",
+   "authors": "T Mahler, MC de Marneffe, C Lai",
+   "venue": "MK40: Common Knowledge, Common Ground, and Context in Communication",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the Fourth Workshop on Universal Dependencies",
+   "authors": "MC de Marneffe, M de Lhoneux, J Nivre, S Schuster",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Individual strategies for resolving lexical and prosodic cues to certainty",
+   "authors": "MC de Marneffe, M Dickerman, M Elsner, SR Speer",
+   "venue": "32nd CUNY Conference on Human Sentence Processing",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of ACL 2018, Student Research Workshop",
+   "authors": "V Shwartz, J Tabassum, R Voigt, W Che, MC de Marneffe, M Nissim",
+   "venue": "Proceedings of ACL 2018, Student Research Workshop",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies, 22 May, Gothenburg Sweden",
+   "authors": "MC de Marneffe, J Nivre, S Schuster",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "“I think it’sa tiger”: Does prosody help distinguish different uses of belief verbs?",
+   "authors": "MC de Marneffe, M Elsner, S Speer",
+   "venue": "Conference on Human Sentence Processing",
+   "year": "2017"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Universal Dependencies",
+   "authors": "MC de Marneffe, J Nivre",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Developmental shift in the organization of lexical alternatives",
+   "authors": "K Ito, MC de Marneffe, P Sandels",
+   "venue": "The Mental Lexicon",
+   "year": "2016"
+  },
+  {
+   "title": "\" I think that's enough\": Mental state verbs rarely report beliefs in child-directed speech",
+   "authors": "MC de Marneffe, M Elsner",
+   "venue": "28th CUNY Conference on Human Sentence Processing",
+   "year": "2015"
+  },
+  {
+   "title": "Universal Dependencies Treebanks 1.2 (see http://universaldependencies. org/)",
+   "authors": "J Nivre, Ž Agić, MJ Aranzabe, M Asahara, A Atutxa, M Ballesteros, J Bauer, ...",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Stanford Universal dependencies",
+   "authors": "MC de Marneffe, CD Manning",
+   "venue": "EACL Universal Dependency Meeting",
+   "year": "2014"
+  },
+  {
+   "title": "Indirect answers to polar questions: Scalar inferencing and the rise-fall-rise contour",
+   "authors": "MC de Marneffe, J Tonhauser",
+   "venue": "5th Meeting of the DFG Network on Questions in Discourse",
+   "year": "2014"
+  },
+  {
+   "title": "Modeling the Lifespan of Discourse Entities: Nature or Nurture?",
+   "authors": "MC de Marneffe, M Recasens, C Potts",
+   "venue": "2nd Conference of the American Pragmatics Association",
+   "year": "2014"
+  },
+  {
+   "title": "Child-directed mental state verbs are often assertions",
+   "authors": "P Sandels, MC de Marneffe, M Elsner",
+   "venue": "Midwest Speech and Language Day 2014",
+   "year": "2014"
+  },
+  {
+   "title": "A case study in effectively crowdsourcing long tasks with novel categories",
+   "authors": "MC de Marneffe, C Potts",
+   "venue": "Workshop on Crowdsourcing Technologies for Language and Cognition Studies",
+   "year": "2011"
+  },
+  {
+   "title": "The integration of frequency and phonetic variation in the perception of accented speech",
+   "authors": "MC de Marneffe, J Tomlinson, M Tice, M Sumner",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "Manipulating within‐speaker variation in non‐native speech perception.",
+   "authors": "MC de Marneffe, M Sumner",
+   "venue": "The Journal of the Acoustical Society of America 126, 2313",
+   "year": "2009"
+  },
+  {
+   "title": "Comprehension difficulty reflects an understanding of likely production errors",
+   "authors": "H Tily, MC de Marneffe, R Levy",
+   "venue": "22nd CUNY Conference on Human Sentence Processing",
+   "year": "2009"
+  },
+  {
+   "title": "Learning to recognize features of valid textual entailments",
+   "authors": "T Grenager, MC de Marneffe, B MacCartney, CD Manning",
+   "venue": "Proceedings of the main conference on Human Language Technology Conference …",
+   "year": "2006"
+  },
+  {
+   "title": "The Semantics and Pragmatics of Right Dislocation: Odd thing, that. Undergraduate Research Thesis",
+   "authors": "BE Toma, MC de Marneffe, J Tonhauser",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Registration and coffee",
+   "authors": "E Lombart, P Watrin, MC de Marneffe",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "UDW 2019 Third Workshop on Universal Dependencies (UDW, SyntaxFest 2019) Proceedings 29–30 August, 2019",
+   "authors": "D Cao, NM Courtin, C Dong, NY Dupont, IM Galal, G Guibon, IY Li, C Yan, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A survey of diversity quantification in natural language processing: The why, what, where and how",
+   "authors": "N Melnik, A Savary, L Estève, MC de Marneffe, O Kanishcheva",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "UniDive Tools and Methods for Measuring Linguistic Diversity in NLP Datasets",
+   "authors": "T Samardzic, R van der Goot, L Estève, O Kanishcheva, W Poelman, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "4.5 The (Im) possible Languages Group",
+   "authors": "C Potts, MC de Marneffe, K Demuth, R Frank, J Luis, HB Gastaldi, C Haley, ...",
+   "venue": "Linguistics and Language Models: What Can They Learn from Each Other?, 206",
+   "year": null
+  },
+  {
+   "title": "Remote Participants",
+   "authors": "T Baldwin, VB Mititelu, EM Bender, A Bhatia, I Florida, USB Bohnet, ...",
+   "venue": "Universals of Linguistic Idiosyncrasy in Multilingual Computational …",
+   "year": null
+  },
+  {
+   "title": "Supplementary files for “Evaluative adjective sentences: A question-based analysis of projection”",
+   "authors": "J Tonhauser, MC de Marneffe, J Degen",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "4.3 Working Group 3 (Syntax vs. Semantics)",
+   "authors": "EM Bender, J Hajič, MC de Marneffe, MK Tamm",
+   "venue": "Universals of Linguistic Idiosyncrasy in Multilingual Computational …",
+   "year": null
+  },
+  {
+   "title": "Evaluating state-of-the-art models of speaker commitment",
+   "authors": "N Jiang, MC de Marneffe",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Annotation guidelines for marking contradictions",
+   "authors": "MC de Marneffe, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Multiword Expression Identification with Tree Substitution Grammars",
+   "authors": "S Green, MC de Marneffe, J Bauer, CD Manning",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

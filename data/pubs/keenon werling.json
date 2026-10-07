@@ -1,0 +1,101 @@
+{
+ "user": "hzBTq-sAAAAJ",
+ "pubs": [
+  {
+   "title": "Fast and feature-complete differentiable physics for articulated rigid bodies with contact",
+   "authors": "K Werling, D Omens, J Lee, I Exarchos, CK Liu",
+   "venue": "arXiv preprint arXiv:2103.16021",
+   "year": "2021"
+  },
+  {
+   "title": "From skin to skeleton: Towards biomechanically accurate 3d digital humans",
+   "authors": "M Keller, K Werling, S Shin, S Delp, S Pujades, CK Liu, MJ Black",
+   "venue": "ACM Transactions on Graphics (TOG) 42 (6), 1-12",
+   "year": "2023"
+  },
+  {
+   "title": "AddBiomechanics: Automating model scaling, inverse kinematics, and inverse dynamics from human motion data through sequential optimization",
+   "authors": "K Werling, NA Bianco, M Raitor, J Stingel, JL Hicks, SH Collins, SL Delp, ...",
+   "venue": "Plos one 18 (11), e0295152",
+   "year": "2023"
+  },
+  {
+   "title": "Robust subgraph generation improves abstract meaning representation parsing",
+   "authors": "K Werling, G Angeli, CD Manning",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "GaitDynamics: a generative foundation model for analyzing human walking and running",
+   "authors": "T Tan, T Van Wouwe, KF Werling, CK Liu, SL Delp, JL Hicks, ...",
+   "venue": "Nature biomedical engineering, 1-13",
+   "year": "2026"
+  },
+  {
+   "title": "On-the-job learning with bayesian decision theory",
+   "authors": "K Werling, AT Chaganty, PS Liang, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Rapid bilevel optimization to concurrently solve musculoskeletal scaling, marker registration, and inverse kinematic problems for human motion reconstruction",
+   "authors": "CKL Keenon Werling, Michael Raitor, Jon Stingel, Jennifer L. Hicks, Steve ...",
+   "venue": "https://www.biorxiv.org/content/10.1101/2022.08.22.504896v1",
+   "year": "2022"
+  },
+  {
+   "title": "Addbiomechanics dataset: Capturing the physics of human motion at scale",
+   "authors": "K Werling, J Kaneda, T Tan, R Agarwal, S Skov, T Van Wouwe, S Uhlrich, ...",
+   "venue": "European Conference on Computer Vision, 490-508",
+   "year": "2024"
+  },
+  {
+   "title": "Real-time model predictive control and system identification using differentiable simulation",
+   "authors": "S Chen, K Werling, A Wu, CK Liu",
+   "venue": "IEEE Robotics and Automation Letters 8 (1), 312-319",
+   "year": "2022"
+  },
+  {
+   "title": "Fast and feature-complete differentiable physics for articulated rigid bodies with contact (2021)",
+   "authors": "K Werling, D Omens, J Lee, I Exarchos, CK Liu",
+   "venue": "arXiv preprint arXiv:2103.16021",
+   "year": null
+  },
+  {
+   "title": "Real-time model predictive control and system identification using differentiable physics simulation",
+   "authors": "S Chen, K Werling, A Wu, CK Liu",
+   "venue": "arXiv preprint arXiv:2202.09834",
+   "year": "2022"
+  },
+  {
+   "title": "Estimating Magnetic Field at Joint Centers Reduces Kinematic Errors in Inertial Motion Capture",
+   "authors": "S Skov, K Werling, J O’Day, J Hicks, CK Liu, S Delp",
+   "venue": "Research Square, rs. 3. rs-9337794",
+   "year": "2026"
+  },
+  {
+   "title": "Supplementary Material From Skin to Skeleton: Towards Biomechanically Accurate 3D Digital Humans",
+   "authors": "K MARILYN, K WERLING, S SHIN, S DELP, S PUJADES, CK LIU, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Graphical Real-Valued Multi-Armed Bandit Using SVMs",
+   "authors": "K Werling, A Bearman, B Patel",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Kernel of Truth",
+   "authors": "K Werling",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Recursive OpenIE",
+   "authors": "K Werling",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

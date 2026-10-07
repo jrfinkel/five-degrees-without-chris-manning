@@ -1,0 +1,467 @@
+{
+ "user": "MgzHAPQAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Adversarial Audio Synthesis",
+   "authors": "C Donahue, J McAuley, M Puckette",
+   "venue": "(ICLR 2019) International Conference on Learning Representations",
+   "year": "2019"
+  },
+  {
+   "title": "GANSynth: Adversarial neural audio synthesis",
+   "authors": "J Engel, KK Agrawal, S Chen, I Gulrajani, C Donahue, A Roberts",
+   "venue": "(ICLR 2019) International Conference on Learning Representations",
+   "year": "2019"
+  },
+  {
+   "title": "It's Raw! Audio Generation with State-Space Models",
+   "authors": "K Goel, A Gu, C Donahue, C Ré",
+   "venue": "(ICML 2022) International Conference on Machine Learning",
+   "year": "2022"
+  },
+  {
+   "title": "Exploring Speech Enhancement with Generative Adversarial Networks for Robust Speech Recognition",
+   "authors": "C Donahue, B Li, R Prabhavalkar",
+   "venue": "(ICASSP 2018) International Conference on Acoustics, Speech, and Signal …",
+   "year": "2018"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Enabling Language Models to Fill in the Blanks",
+   "authors": "C Donahue, M Lee, P Liang",
+   "venue": "(ACL 2020) Annual Conference of the Association for Computational Linguistics",
+   "year": "2020"
+  },
+  {
+   "title": "LakhNES: Improving multi-instrumental music generation with cross-domain pre-training",
+   "authors": "C Donahue, HH Mao, YE Li, GW Cottrell, J McAuley",
+   "venue": "(ISMIR 2019) International Society for Music Information Retrieval Conference",
+   "year": "2019"
+  },
+  {
+   "title": "Music controlnet: Multiple time-varying controls for music generation",
+   "authors": "SL Wu, C Donahue, S Watanabe, NJ Bryan",
+   "venue": "(TASLP 2024) IEEE/ACM Transactions on Audio, Speech, and Language Processing …",
+   "year": "2024"
+  },
+  {
+   "title": "Codified audio language modeling learns useful representations for music information retrieval",
+   "authors": "R Castellon, C Donahue, P Liang",
+   "venue": "(ISMIR 2021) International Society for Music Information Retrieval Conference",
+   "year": "2021"
+  },
+  {
+   "title": "Semantically Decomposing the Latent Spaces of Generative Adversarial Networks",
+   "authors": "C Donahue, ZC Lipton, A Balsubramani, J McAuley",
+   "venue": "(ICLR 2018) International Conference on Learning Representations",
+   "year": "2018"
+  },
+  {
+   "title": "SingSong: Generating musical accompaniments from singing",
+   "authors": "C Donahue, A Caillon, A Roberts, E Manilow, P Esling, A Agostinelli, ...",
+   "venue": "arXiv:2301.12662",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Anticipatory music transformer",
+   "authors": "J Thickstun, D Hall, C Donahue, P Liang",
+   "venue": "(TMLR 2024) Transactions on Machine Learning Research",
+   "year": "2023"
+  },
+  {
+   "title": "Foundation models for music: A survey",
+   "authors": "Y Ma, A Øland, A Ragni, BMS Del Sette, C Saitis, C Donahue, C Lin, ...",
+   "venue": "arXiv preprint arXiv:2408.14340",
+   "year": "2024"
+  },
+  {
+   "title": "VERSA: A Versatile Evaluation Toolkit for Speech, Audio, and Music",
+   "authors": "J Shi, H Shim, J Tian, S Arora, H Wu, D Petermann, JQ Yip, Y Zhang, ...",
+   "venue": "NAACL Demo Track 2025",
+   "year": "2024"
+  },
+  {
+   "title": "Dance Dance Convolution",
+   "authors": "C Donahue, ZC Lipton, J McAuley",
+   "venue": "(ICML 2017) International Conference on Machine Learning",
+   "year": "2017"
+  },
+  {
+   "title": "Piano Genie",
+   "authors": "C Donahue, I Simon, S Dieleman",
+   "venue": "(ACM IUI 2019) ACM Conference on Intelligent User Interfaces",
+   "year": "2018"
+  },
+  {
+   "title": "V2Meow: Meowing to the visual beat via music generation",
+   "authors": "K Su, JY Li, Q Huang, D Kuzmin, J Lee, C Donahue, F Sha, A Jansen, ...",
+   "venue": "(AAAI 2024) Association for the Advancement of Artificial Intelligence …",
+   "year": "2023"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Melody transcription via generative pre-training",
+   "authors": "C Donahue, J Thickstun, P Liang",
+   "venue": "(ISMIR 2022) International Society for Music Information Retrieval Conference",
+   "year": "2022"
+  },
+  {
+   "title": "Amuse: Human-AI Collaborative Songwriting with Multimodal Inspirations",
+   "authors": "Y Kim, SJ Lee, C Donahue",
+   "venue": "(CHI 2025) The ACM Conference on Human Factors in Computing Systems",
+   "year": "2024"
+  },
+  {
+   "title": "The NES Music Database: A multi-instrumental dataset with expressive performance attributes",
+   "authors": "C Donahue, HH Mao, J McAuley",
+   "venue": "(ISMIR 2018) International Society for Music Information Retrieval Conference",
+   "year": "2018"
+  },
+  {
+   "title": "Live Music Models",
+   "authors": "A Caillon, B McWilliams, C Tarakajian, I Simon, I Manco, J Engel, ...",
+   "venue": "(NeurIPS 2025) NeurIPS Creative AI Track",
+   "year": "2025"
+  },
+  {
+   "title": "Computational copyright: Towards a royalty model for music generative ai",
+   "authors": "J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, R Gao, C Donahue, ...",
+   "venue": "arXiv preprint arXiv:2312.06646",
+   "year": "2023"
+  },
+  {
+   "title": "Expediting TTS Synthesis with Adversarial Vocoding",
+   "authors": "P Neekhara, C Donahue, M Puckette, S Dubnov, J McAuley",
+   "venue": "INTERSPEECH 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Copilot Arena: A Platform for Code LLM Evaluation in the Wild",
+   "authors": "W Chi, V Chen, AN Angelopoulos, WL Chiang, A Mittal, N Jain, T Zhang, ...",
+   "venue": "(ICML 2025) International Conference on Machine Learning",
+   "year": "2025"
+  },
+  {
+   "title": "SWORDS ⚔️: A Benchmark for Lexical Substitution with Improved Data Coverage and Quality",
+   "authors": "M Lee, C Donahue, R Jia, A Iyabor, P Liang",
+   "venue": "(NAACL 2021) Conference of the North American Chapter of the Association for …",
+   "year": "2021"
+  },
+  {
+   "title": "Adaptive Accompaniment with ReaLchords",
+   "authors": "Y Wu, T Cooijmans, K Kastner, A Roberts, I Simon, A Scarlatos, ...",
+   "venue": "(ICML 2024) International Conference on Machine Learning",
+   "year": "2024"
+  },
+  {
+   "title": "Aligning Text-to-Music Evaluation with Human Preferences",
+   "authors": "Y Huang, Z Novack, K Saito, J Shi, S Watanabe, Y Mitsufuji, J Thickstun, ...",
+   "venue": "(ISMIR 2025) International Society for Music Information Retrieval Conference",
+   "year": "2025"
+  },
+  {
+   "title": "Do Music Generation Models Encode Music Theory?",
+   "authors": "M Wei, M Freeman, C Donahue, C Sun",
+   "venue": "(ISMIR 2024) International Society for Music Information Retrieval Conference",
+   "year": "2024"
+  },
+  {
+   "title": "Vision Language Models Are Few-Shot Audio Spectrogram Classifiers",
+   "authors": "S Dixit, LM Heller, C Donahue",
+   "venue": "NeurIPS Workshop 2024: Audio Imagination",
+   "year": "2024"
+  },
+  {
+   "title": "Sheet Sage: Lead sheets from music audio",
+   "authors": "C Donahue, P Liang",
+   "venue": "(ISMIR LBD 2021) ISMIR Late-breaking demo session",
+   "year": "2021"
+  },
+  {
+   "title": "Towards realistic MIDI instrument synthesizers",
+   "authors": "R Castellon, C Donahue, P Liang",
+   "venue": "(NeurIPS Workshop 2020) NeurIPS Workshop on Machine Learning for Creativity …",
+   "year": "2020"
+  },
+  {
+   "title": "GameDevBench: Evaluating Agentic Capabilities Through Game Development",
+   "authors": "W Chi, Y Fang, A Yayavaram, S Yayavaram, S Karten, QA Wei, R Chen, ...",
+   "venue": "(ICML 2026) International Conference on Machine Learning",
+   "year": "2026"
+  },
+  {
+   "title": "Extended Convolution Techniques for Cross-Synthesis",
+   "authors": "C Donahue, T Erbe, M Puckette",
+   "venue": "(ICMC 2016) International Computer Music Conference",
+   "year": "2016"
+  },
+  {
+   "title": "EDIT-Bench: Evaluating LLM Abilities to Perform Real-World Instructed Code Edits",
+   "authors": "W Chi, V Chen, R Shar, A Mittal, J Liang, WL Chiang, AN Angelopoulos, ...",
+   "venue": "(ICLR 2026) International Conference on Learning Representations",
+   "year": "2025"
+  },
+  {
+   "title": "DeepDrake ft. BTS-GAN and TayloRVC: An Exploratory Analysis of Musical Deepfakes and Hosting Platforms.",
+   "authors": "M Feffer, ZC Lipton, C Donahue",
+   "venue": "(HCMIR 2023) ISMIR Workshop on Human-centered Music Information Retrieval",
+   "year": "2023"
+  },
+  {
+   "title": "Towards Automatic Instrumentation by Learning to Separate Parts in Symbolic Multitrack Music",
+   "authors": "HW Dong, C Donahue, T Berg-Kirkpatrick, J McAuley",
+   "venue": "(ISMIR 2021) International Society for Music Information Retrieval Conference",
+   "year": "2021"
+  },
+  {
+   "title": "Music Arena: Live Evaluation for Text-to-Music",
+   "authors": "Y Kim, W Chi, AN Angelopoulos, WL Chiang, K Saito, S Watanabe, ...",
+   "venue": "(NeurIPS 2025) NeurIPS Creative AI Track",
+   "year": "2025"
+  },
+  {
+   "title": "U-MusT: A Unified Framework for Cross-modal Translation of Score Images, Symbolic Music, and Performance Audio",
+   "authors": "J Jung, D Kim, S Lee, S Cho, H So, I Bukey, C Donahue, D Jeong",
+   "venue": "(TASLP) IEEE Transactions on Audio, Speech and Language Processing",
+   "year": "2025"
+  },
+  {
+   "title": "Hookpad Aria: A Copilot for Songwriters",
+   "authors": "C Donahue, SL Wu, Y Kim, D Carlton, R Miyakawa, J Thickstun",
+   "venue": "(ISMIR LBD 2024) ISMIR Late-breaking demo session",
+   "year": "2025"
+  },
+  {
+   "title": "A Design Space for Live Music Agents",
+   "authors": "Y Kim, S Brade, A Wang, D Zhou, H Kim, B Wang, SJ Lee, ...",
+   "venue": "(CHI 2026) Proceedings of the 2026 CHI Conference on Human Factors in …",
+   "year": "2026"
+  },
+  {
+   "title": "Midi-LLM: Adapting large language models for text-to-midi music generation",
+   "authors": "SL Wu, D Carlton, R Miyakawa, Y Kim, C Donahue, CZA Huang",
+   "venue": "(ISMIR 2026) International Society for Music Information Retrieval Conference",
+   "year": "2025"
+  },
+  {
+   "title": "Towards Codec-LM Co-design for Neural Codec Language Models",
+   "authors": "SL Wu, A Lahoti, AD Desai, K Goel, C Donahue, A Gu",
+   "venue": "(NAACL SRW 2025) NAACL Student Research Workshop",
+   "year": "2025"
+  },
+  {
+   "title": "FoleyBench: A Benchmark For Video-to-Audio Models",
+   "authors": "S Dixit, K Saito, Z Zhong, Y Mitsufuji, C Donahue",
+   "venue": "(ICASSP 2026) International Conference on Acoustics, Speech, and Signal …",
+   "year": "2025"
+  },
+  {
+   "title": "Towards Music-Aware Virtual Assistants",
+   "authors": "A Wang, D Lindlbauer, C Donahue",
+   "venue": "(UIST 2024) ACM Symposium on User Interface Software and Technology, 1-14",
+   "year": "2024"
+  },
+  {
+   "title": "Just Label the Repeats for In-The-Wild Audio-to-Score Alignment",
+   "authors": "I Bukey, M Feffer, C Donahue",
+   "venue": "(ISMIR 2024) International Society for Music Information Retrieval Conference",
+   "year": "2024"
+  },
+  {
+   "title": "Assistive alignment of in-the-wild sheet music and performances",
+   "authors": "M Feffer, C Donahue, Z Lipton",
+   "venue": "(ISMIR LBD 2022) ISMIR Late-breaking demo session",
+   "year": "2022"
+  },
+  {
+   "title": "Local deployment of large-scale music AI models on commodity hardware",
+   "authors": "X Zhou, C Ruan, Z Zhao, T Chen, C Donahue",
+   "venue": "(ISMIR LBD 2024) ISMIR Late-breaking demo session",
+   "year": "2024"
+  },
+  {
+   "title": "Redefining Relationships in Music",
+   "authors": "C Detweiler, B Coleman, F Diaz, L Dom, C Donahue, J Engel, CZA Huang, ...",
+   "venue": "arXiv:2212.08038",
+   "year": "2022"
+  },
+  {
+   "title": "Comparing developer and llm biases in code evaluation",
+   "authors": "A Mittal, R Shar, Z Wu, S Agarwal, T Wu, C Donahue, A Talwalkar, W Chi, ...",
+   "venue": "(COLM 2026) Conference on Language Modeling",
+   "year": "2026"
+  },
+  {
+   "title": "Rethinking Music Captioning with Music Metadata LLMs",
+   "authors": "I Bukey, Z Wang, C Donahue, NJ Bryan",
+   "venue": "(ICASSP 2026) International Conference on Acoustics, Speech, and Signal …",
+   "year": "2026"
+  },
+  {
+   "title": "Disentangled Representations of Style and Content for Visual Art with Generative Adversarial Networks",
+   "authors": "C Donahue, J McAuley",
+   "venue": "(NIPS Workshop 2017) NIPS Workshop on Machine Learning for Creativity and …",
+   "year": "2017"
+  },
+  {
+   "title": "Applications of Genetic Programming to Digital Audio Synthesis",
+   "authors": "C Donahue",
+   "venue": "Undergraduate Thesis, The University of Texas at Austin",
+   "year": "2013"
+  },
+  {
+   "title": "Improving Text-to-Music Generation with Human Preference Rewards",
+   "authors": "Y Kim, J Lee, H Xia, Y Ma, C Donahue",
+   "venue": "(ICME 2026) IEEE International Conference on Multimedia and Expo",
+   "year": "2026"
+  },
+  {
+   "title": "TuneJury: An Open Metric for Improving Music Generation Preference Alignment",
+   "authors": "Y Kim, J Lee, H Xia, Y Ma, J Koo, K Saito, Y Mitsufuji, C Donahue",
+   "venue": "arXiv preprint arXiv:2606.17006",
+   "year": "2026"
+  },
+  {
+   "title": "RISE: Adaptive music playback for Realtime Intensity Synchronization with Exercise",
+   "authors": "A Wang, C Donahue, D Jain",
+   "venue": "(ISMIR 2025) International Society for Music Information Retrieval Conference",
+   "year": "2025"
+  },
+  {
+   "title": "Learning Perceptually Relevant Temporal Envelope Morphing",
+   "authors": "S Dixit, S Park, C Donahue, LM Heller",
+   "venue": "(WASPAA 2025) IEEE Workshop on Applications of Signal Processing to Audio …",
+   "year": "2025"
+  },
+  {
+   "title": "The Impact of Element Ordering on LM Agent Performance",
+   "authors": "W Chi, A Talwalkar, C Donahue",
+   "venue": "NeurIPS Workshop 2024: Open-World Agents",
+   "year": "2024"
+  },
+  {
+   "title": "Audio data defenses: Protecting music and speech data from targeted attacks",
+   "authors": "J Barnett, W Agnew, R Netzorg, P O’Reilly, E Awumey, C Donahue, S Das",
+   "venue": "Late Breaking Session At The 25th Conference of the International Society …",
+   "year": "2024"
+  },
+  {
+   "title": "Contin-U: Full-Score to Performance Audio with Cross-Attentive System-Continuation Inference",
+   "authors": "J Jung, D Kim, S Lee, S Cho, H Soh, I Bukey, C Donahue, D Jeong",
+   "venue": "arXiv preprint arXiv 2408",
+   "year": "2024"
+  },
+  {
+   "title": "Learning the nuance of musical instrument acoustics",
+   "authors": "C Donahue",
+   "venue": "(ASA 2019 Extended Abstract) The Journal of the Acoustical Society of …",
+   "year": "2019"
+  },
+  {
+   "title": "Enabling New Musical Interactions with Machine Learning",
+   "authors": "C Donahue",
+   "venue": "PhD Thesis, UC San Diego",
+   "year": "2019"
+  },
+  {
+   "title": "MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics",
+   "authors": "A Wang, C Donahue, D Lindlbauer",
+   "venue": "(UIST 2026) ACM Symposium on User Interface Software and Technology",
+   "year": "2026"
+  },
+  {
+   "title": "Local Multimodal Music Alignment from Global Supervision",
+   "authors": "I Bukey, Z Novack, J Jung, D Jeong, C Donahue",
+   "venue": "(ISMIR 2026) International Society for Music Information Retrieval Conference",
+   "year": "2026"
+  },
+  {
+   "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
+   "authors": "N Pruyne, B Stoler, W Chen, C Huang, S Watanabe, C Donahue",
+   "venue": "arXiv preprint arXiv:2607.08756",
+   "year": "2026"
+  },
+  {
+   "title": "Decomposer: Learning to Decompile Symbolic Music to Programs",
+   "authors": "Y Kim, A Gandhi, D Chung, G Neubig, C Donahue",
+   "venue": "arXiv preprint arXiv:2607.01849",
+   "year": "2026"
+  },
+  {
+   "title": "What's a Credit Worth? A Market Framework for Attribution-Aware Compensation in Generative Music",
+   "authors": "L Zhang, X Jiang, J Deng, B Li, JW Ma, C Donahue",
+   "venue": "arXiv preprint arXiv:2607.00641",
+   "year": "2026"
+  },
+  {
+   "title": "System and method for creating music-aware virtual assistants",
+   "authors": "A Wang, D Lindbauer, C Donahue",
+   "venue": "US Patent App. 19/343,886",
+   "year": "2026"
+  },
+  {
+   "title": "Benchmarking Language Modeling for Lossless Compression of Full-Fidelity Audio",
+   "authors": "P Long, Z Novack, C Donahue",
+   "venue": "(Interspeech 2026)",
+   "year": "2026"
+  },
+  {
+   "title": "Osu2MIR: Beat Tracking Dataset Derived From Osu! Data",
+   "authors": "Z Liu, C Donahue",
+   "venue": "(ISMIR LBD 2025) ISMIR Late-breaking demo session",
+   "year": "2025"
+  },
+  {
+   "title": "MULTTIPOP: A MULTITRACK TRANSCRIPTION BENCHMARK FOR POP MUSIC",
+   "authors": "N Pruyne, B Stoler, W Chen, C Huang, S Watanabe, C Donahue",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Magic Quill: A Real-time Score Engraving System for Live MIDI Performances",
+   "authors": "L Ye, R Dannenberg, C Donahue",
+   "venue": "The Fortieth Annual Conference on Neural Information Processing Systems …",
+   "year": null
+  },
+  {
+   "title": "Comparing Developer and LLM Biases in Code Evaluation",
+   "authors": "R Shar, A Mittal, Z Wu, S Agarwal, T Wu, C Donahue, A Talwalkar, W Chi, ...",
+   "venue": "Deep Learning for Code: Towards Human-Centered Coding Agents",
+   "year": null
+  },
+  {
+   "title": "GAON: A Cognitive Tool for Student-Led Melody Composition with FIM Transformer",
+   "authors": "H Park, Y Kim, S An, C Donahue, K Kim, D Jeong",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "U-MusT: Unified Cross-modal Translation of Score Images, Symbolic Music, and Performance Audio",
+   "authors": "J Jung, D Kim, S Lee, S Cho, H Soh, I Bukey, C Donahue, D Jeong",
+   "venue": "1st Workshop on Large Language Models for Music {\\&} Audio (LLM4MA)",
+   "year": null
+  }
+ ]
+}

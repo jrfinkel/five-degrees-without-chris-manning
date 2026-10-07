@@ -1,0 +1,797 @@
+{
+ "user": "D0NeJxMAAAAJ",
+ "pubs": [
+  {
+   "title": "Cytoscape: a software environment for integrated models of biomolecular interaction networks",
+   "authors": "P Shannon, A Markiel, O Ozier, NS Baliga, JT Wang, D Ramage, N Amin, ...",
+   "venue": "Genome research 13 (11), 2498-2504",
+   "year": "2003"
+  },
+  {
+   "title": "Communication-efficient learning of deep networks from decentralized data",
+   "authors": "B McMahan, E Moore, D Ramage, S Hampson, BA y Arcas",
+   "venue": "Artificial intelligence and statistics, 1273-1282",
+   "year": "2017"
+  },
+  {
+   "title": "Advances and open problems in federated learning",
+   "authors": "P Kairouz, HB McMahan",
+   "venue": "Foundations and trends in machine learning 14 (1-2), 1-210",
+   "year": "2021"
+  },
+  {
+   "title": "Practical secure aggregation for privacy-preserving machine learning",
+   "authors": "K Bonawitz, V Ivanov, B Kreuter, A Marcedone, HB McMahan, S Patel, ...",
+   "venue": "proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …",
+   "year": "2017"
+  },
+  {
+   "title": "Towards federated learning at scale: System design",
+   "authors": "K Bonawitz, H Eichner, W Grieskamp, D Huba, A Ingerman, V Ivanov, ...",
+   "venue": "Proceedings of machine learning and systems 1, 374-388",
+   "year": "2019"
+  },
+  {
+   "title": "Federated optimization: Distributed machine learning for on-device intelligence",
+   "authors": "J Konečný, HB McMahan, D Ramage, P Richtárik",
+   "venue": "arXiv preprint arXiv:1610.02527",
+   "year": "2016"
+  },
+  {
+   "title": "Federated learning for mobile keyboard prediction",
+   "authors": "A Hard, K Rao, R Mathews, S Ramaswamy, F Beaufays, S Augenstein, ...",
+   "venue": "arXiv preprint arXiv:1811.03604",
+   "year": "2018"
+  },
+  {
+   "title": "Learning differentially private recurrent language models",
+   "authors": "HB McMahan, D Ramage, K Talwar, L Zhang",
+   "venue": "arXiv preprint arXiv:1710.06963",
+   "year": "2017"
+  },
+  {
+   "title": "Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora",
+   "authors": "D Ramage, D Hall, R Nallapati, CD Manning",
+   "venue": "Proceedings of the 2009 conference on empirical methods in natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Characterizing microblogs with topic models",
+   "authors": "D Ramage, S Dumais, D Liebling",
+   "venue": "Proceedings of the international AAAI conference on web and social media 4 …",
+   "year": "2010"
+  },
+  {
+   "title": "Federated optimization: Distributed optimization beyond the datacenter",
+   "authors": "J Konečný, B McMahan, D Ramage",
+   "venue": "arXiv preprint arXiv:1511.03575",
+   "year": "2015"
+  },
+  {
+   "title": "Federated learning: Collaborative machine learning without centralized training data",
+   "authors": "B McMahan, D Ramage",
+   "venue": "Google Research Blog 3, .",
+   "year": "2017"
+  },
+  {
+   "title": "Practical secure aggregation for federated learning on user-held data",
+   "authors": "K Bonawitz, V Ivanov, B Kreuter, A Marcedone, HB McMahan, S Patel, ...",
+   "venue": "arXiv preprint arXiv:1611.04482",
+   "year": "2016"
+  },
+  {
+   "title": "Applied federated learning: Improving google keyboard query suggestions",
+   "authors": "T Yang, G Andrew, H Eichner, H Sun, W Li, N Kong, D Ramage, ...",
+   "venue": "arXiv preprint arXiv:1812.02903",
+   "year": "2018"
+  },
+  {
+   "title": "Back to the drawing board: A critical evaluation of poisoning attacks on production federated learning",
+   "authors": "V Shejwalkar, A Houmansadr, P Kairouz, D Ramage",
+   "venue": "2022 IEEE symposium on security and privacy (SP), 1354-1371",
+   "year": "2022"
+  },
+  {
+   "title": "Discrete distribution estimation under local privacy",
+   "authors": "P Kairouz, K Bonawitz, D Ramage",
+   "venue": "International Conference on Machine Learning, 2436-2444",
+   "year": "2016"
+  },
+  {
+   "title": "Federated evaluation of on-device personalization",
+   "authors": "K Wang, R Mathews, C Kiddon, H Eichner, F Beaufays, D Ramage",
+   "venue": "arXiv preprint arXiv:1910.10252",
+   "year": "2019"
+  },
+  {
+   "title": "Social tag prediction",
+   "authors": "P Heymann, D Ramage, H Garcia-Molina",
+   "venue": "Proceedings of the 31st annual international ACM SIGIR conference on …",
+   "year": "2008"
+  },
+  {
+   "title": "# TwitterSearch: a comparison of microblog search and web search",
+   "authors": "J Teevan, D Ramage, MR Morris",
+   "venue": "Proceedings of the fourth ACM international conference on Web search and …",
+   "year": "2011"
+  },
+  {
+   "title": "Interpretation and trust: Designing model-driven visualizations for text analysis",
+   "authors": "J Chuang, D Ramage, C Manning, J Heer",
+   "venue": "Proceedings of the SIGCHI conference on human factors in computing systems …",
+   "year": "2012"
+  },
+  {
+   "title": "Mariana Raykova, Dawn Song, Weikang Song, Sebastian U",
+   "authors": "P Kairouz, HB McMahan, B Avent, A Bellet, M Bennis, AN Bhagoji, ...",
+   "venue": "Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth …",
+   "year": "2021"
+  },
+  {
+   "title": "y Arcas, BA: Federated learning of deep networks using model averaging",
+   "authors": "HB McMahan, E Moore, D Ramage",
+   "venue": "arXiv preprint arXiv:1602.05629 2 (2), 15-18",
+   "year": "2016"
+  },
+  {
+   "title": "Clustering the tagged web",
+   "authors": "D Ramage, P Heymann, CD Manning, H Garcia-Molina",
+   "venue": "Proceedings of the Second ACM International Conference on Web Search and …",
+   "year": "2009"
+  },
+  {
+   "title": "Partially labeled topic models for interpretable text mining",
+   "authors": "D Ramage, CD Manning, S Dumais",
+   "venue": "Proceedings of the 17th ACM SIGKDD international conference on Knowledge …",
+   "year": "2011"
+  },
+  {
+   "title": "Topic modeling for the social sciences",
+   "authors": "D Ramage, E Rosen, J Chuang, CD Manning, DA McFarland",
+   "venue": "NIPS 2009 workshop on applications for topic models: text and beyond 5 (27), 1-4",
+   "year": "2009"
+  },
+  {
+   "title": "BA y Arcas",
+   "authors": "HB McMahan, E Moore, D Ramage, S Hampson",
+   "venue": "Communication-Efficient Learning of Deep Networks from Decentralized Data,” Feb",
+   "year": "2016"
+  },
+  {
+   "title": "Generative models for effective ML on private, decentralized datasets",
+   "authors": "S Augenstein, HB McMahan, D Ramage, S Ramaswamy, P Kairouz, ...",
+   "venue": "arXiv preprint arXiv:1911.06679",
+   "year": "2019"
+  },
+  {
+   "title": "Lexical semantic relatedness with random graph walks",
+   "authors": "T Hughes, D Ramage",
+   "venue": "Proceedings of the 2007 joint conference on empirical methods in natural …",
+   "year": "2007"
+  },
+  {
+   "title": "WikiWalk: random walks on Wikipedia for semantic relatedness",
+   "authors": "E Yeh, D Ramage, CD Manning, E Agirre, A Soroa",
+   "venue": "Proceedings of the 2009 workshop on graph-based methods for natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Automatic suggestions and other content for messaging applications",
+   "authors": "O Gershony, S Nazarov, R DE CASTRO, E Palmer, D Ramage, ...",
+   "venue": "US Patent 10,757,043",
+   "year": "2020"
+  },
+  {
+   "title": "Differentiating language usage through topic models",
+   "authors": "DA McFarland, D Ramage, J Chuang, J Heer, CD Manning, D Jurafsky",
+   "venue": "Poetics 41 (6), 607-625",
+   "year": "2013"
+  },
+  {
+   "title": "A software environment for integrated models of biomolecular interaction networks., 2003, 13",
+   "authors": "P Shannon, A Markiel, O Ozier, NS Baliga, JT Wang, D Ramage, N Amin, ...",
+   "venue": "DOI: https://doi. org/10.1101/gr 1239303, 2498-2504",
+   "year": null
+  },
+  {
+   "title": "Airgapagent: Protecting privacy-conscious conversational agents",
+   "authors": "E Bagdasarian, R Yi, S Ghalebikesabi, P Kairouz, M Gruteser, S Oh, ...",
+   "venue": "Proceedings of the 2024 on ACM SIGSAC Conference on Computer and …",
+   "year": "2024"
+  },
+  {
+   "title": "Learning alignments and leveraging natural logic",
+   "authors": "N Chambers, D Cer, T Grenager, D Hall, C Kiddon, B MacCartney, ...",
+   "venue": "Proceedings of the ACL-PASCAL workshop on textual entailment and …",
+   "year": "2007"
+  },
+  {
+   "title": "Federated learning and privacy: Building privacy-preserving systems for machine learning and data science on decentralized data",
+   "authors": "K Bonawitz, P Kairouz, B McMahan, D Ramage",
+   "venue": "Queue 19 (5), 87-114",
+   "year": "2021"
+  },
+  {
+   "title": "Random walks for text semantic similarity",
+   "authors": "D Ramage, AN Rafferty, CD Manning",
+   "venue": "Proceedings of the 2009 workshop on graph-based methods for natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Learning differentially private language models without losing accuracy",
+   "authors": "HB McMahan, D Ramage, K Talwar, L Zhang",
+   "venue": "arXiv preprint arXiv:1710.06963, 84",
+   "year": "2017"
+  },
+  {
+   "title": "Advances and open problems in federated learning. arXiv 2019",
+   "authors": "P Kairouz, HB McMahan, B Avent, A Bellet, M Bennis, AN Bhagoji, ...",
+   "venue": "arXiv preprint arXiv:1912.04977",
+   "year": "1912"
+  },
+  {
+   "title": "Hidden Markov models fundamentals",
+   "authors": "D Ramage",
+   "venue": "CS229 Section Notes 1",
+   "year": "2007"
+  },
+  {
+   "title": "Federated learning for mobile keyboard prediction. arXiv 2018",
+   "authors": "A Hard, K Rao, R Mathews, S Ramaswamy, F Beaufays, S Augenstein, ...",
+   "venue": "arXiv preprint arXiv:1811.03604",
+   "year": "2018"
+  },
+  {
+   "title": "Federated learning: collaborative machine learning without centralized training data. 2017",
+   "authors": "B McMahan, D Ramage",
+   "venue": "URL https://ai. googleblog. com/2017/04/federated-learning-collaborative. html",
+   "year": "2017"
+  },
+  {
+   "title": "Context aware local differential privacy",
+   "authors": "J Acharya, K Bonawitz, P Kairouz, D Ramage, Z Sun",
+   "venue": "International Conference on Machine Learning, 52-62",
+   "year": "2020"
+  },
+  {
+   "title": "Learning differentially private language models without losing accuracy",
+   "authors": "HB McMahan, D Ramage, K Talwar, L Zhang",
+   "venue": "arXiv preprint arXiv:1710.06963",
+   "year": "2018"
+  },
+  {
+   "title": "Federated learning in practice: reflections and projections",
+   "authors": "K Daly, H Eichner, P Kairouz, HB McMahan, D Ramage, Z Xu",
+   "venue": "2024 IEEE 6th international conference on trust, privacy and security in …",
+   "year": "2024"
+  },
+  {
+   "title": "Towards federated learning at scale: system design (2019)",
+   "authors": "K Bonawitz, H Eichner, W Grieskamp, D Huba, A Ingerman, V Ivanov, ...",
+   "venue": "arXiv preprint arXiv:1902.01046",
+   "year": "1902"
+  },
+  {
+   "title": "Developing legible visualizations for online social spaces",
+   "authors": "D Boyd, HY Lee, D Ramage, J Donath",
+   "venue": "Proceedings of the 35th Annual Hawaii International Conference on System …",
+   "year": "2002"
+  },
+  {
+   "title": "Training user-level differentially private machine-learned models",
+   "authors": "HB McMahan, K Talwar, L Zhang, D Ramage",
+   "venue": "US Patent 11,475,350",
+   "year": "2022"
+  },
+  {
+   "title": "Federated learning with formal differential privacy guarantees",
+   "authors": "B McMahan, A Thakurta, G Andrew, B Balle, P Kairouz, D Ramage, ...",
+   "venue": "Google AI Blog",
+   "year": "2022"
+  },
+  {
+   "title": "Federated learning and privacy",
+   "authors": "K Bonawitz, P Kairouz, B Mcmahan, D Ramage",
+   "venue": "Communications of the ACM 65 (4), 90-97",
+   "year": "2022"
+  },
+  {
+   "title": "Action suggestions for user-selected content",
+   "authors": "M Sharifi, D Ramage, D Petrou",
+   "venue": "US Patent 10,970,646",
+   "year": "2021"
+  },
+  {
+   "title": "Applied federated learning: Improving google keyboard query suggestions. arXiv 2018",
+   "authors": "T Yang, G Andrew, H Eichner, H Sun, W Li, N Kong, D Ramage, ...",
+   "venue": "arXiv preprint arXiv:1812.02903",
+   "year": "2018"
+  },
+  {
+   "title": "Practical secure aggregation for privacy-preserving machine learning",
+   "authors": "A Segal, A Marcedone, B Kreuter, D Ramage, HB McMahan, K Seth, ...",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Systems and methods of distributed optimization",
+   "authors": "HB McMahan, J Konecny, EB Moore, DR Ramage, BH Aguera-Arcas",
+   "venue": "US Patent 10,402,469",
+   "year": "2019"
+  },
+  {
+   "title": "Federated analytics: Collaborative data science without data collection",
+   "authors": "D Ramage, S Mazzocchi",
+   "venue": "Google Research",
+   "year": "2020"
+  },
+  {
+   "title": "Learning differentially private recurrent language models. arXiv 2017",
+   "authors": "HB McMahan, D Ramage, K Talwar, L Zhang",
+   "venue": "arXiv preprint arXiv:1710.06963",
+   "year": null
+  },
+  {
+   "title": "Systems and methods that leverage deep learning to selectively store images at a mobile image capture device",
+   "authors": "I Bialynicka-Birula, B Aguera-Arcas, D Ramage, HB McMahan, OF Lange, ...",
+   "venue": "US Patent 9,836,484",
+   "year": "2017"
+  },
+  {
+   "title": "Aligning semantic graphs for textual inference and machine reading",
+   "authors": "MC De Marneffe, T Grenager, B MacCartney, D Cer, D Ramage, C Kiddon, ...",
+   "venue": "Association for the Advancement of Artificial Intelligence (AAAI) Spring …",
+   "year": "2007"
+  },
+  {
+   "title": "Stanford topic modeling toolbox",
+   "authors": "D Ramage, E Rosen",
+   "venue": "Dec",
+   "year": "2011"
+  },
+  {
+   "title": "Federated optimization: Distributed optimization beyond the datacenter. arXiv 2015",
+   "authors": "J Konecný, B McMahan, D Ramage",
+   "venue": "arXiv preprint arXiv:1511.03575",
+   "year": null
+  },
+  {
+   "title": "Agüera y Arcas, B",
+   "authors": "HB McMahan, E Moore, D Ramage, S Hampson",
+   "venue": "Federated learning of deep networks using model averaging. CoRR, abs/1602.05629",
+   "year": "2016"
+  },
+  {
+   "title": "y Arcas BA",
+   "authors": "B McMahan, E Moore, D Ramage, S Hampson",
+   "venue": "Artificial intelligence and statistics, 1273-1282",
+   "year": "2023"
+  },
+  {
+   "title": "Learning differentially private recurrent language models",
+   "authors": "H Brendan McMahan, D Ramage, K Talwar, L Zhang",
+   "venue": "ArXiv e-prints, arXiv: 1710.06963",
+   "year": "2017"
+  },
+  {
+   "title": "Localized learning from a global model",
+   "authors": "D Ramage, JG Kahn",
+   "venue": "US Patent 10,824,958",
+   "year": "2020"
+  },
+  {
+   "title": "Low power framework for controlling image sensor mode in a mobile image capture device",
+   "authors": "AM Donsbach, B Vanik, JG Clapper, A Lentz, JD Lovejoy, RD Fritz III, ...",
+   "venue": "US Patent 10,728,489",
+   "year": "2020"
+  },
+  {
+   "title": "Systems and methods for selective retention and editing of images captured by mobile image capture device",
+   "authors": "I Bialynicka-Birula, B Aguera-Arcas, D Ramage, HB McMahan, OF Lange, ...",
+   "venue": "US Patent 10,732,809",
+   "year": "2020"
+  },
+  {
+   "title": "Prompt public large language models to synthesize data for private on-device applications",
+   "authors": "S Wu, Z Xu, Y Zhang, Y Zhang, D Ramage",
+   "venue": "arXiv preprint arXiv:2404.04360",
+   "year": "2024"
+  },
+  {
+   "title": "Tailoring user experience for unrecognized and new users",
+   "authors": "PC Chang, D Ramage",
+   "venue": "US Patent 9,507,830",
+   "year": "2016"
+  },
+  {
+   "title": "Confidential federated computations",
+   "authors": "H Eichner, D Ramage, K Bonawitz, D Huba, T Santoro, B McLarnon, ...",
+   "venue": "arXiv preprint arXiv:2404.10764",
+   "year": "2024"
+  },
+  {
+   "title": "Private federated learning in gboard",
+   "authors": "Y Zhang, D Ramage, Z Xu, Y Zhang, S Zhai, P Kairouz",
+   "venue": "arXiv preprint arXiv:2306.14793",
+   "year": "2023"
+  },
+  {
+   "title": "Management and evaluation of machine-learned models based on locally logged data",
+   "authors": "K Bonawitz, D Ramage",
+   "venue": "US Patent 10,769,549",
+   "year": "2020"
+  },
+  {
+   "title": "Text mining of microblogs using latent topic labels",
+   "authors": "ST Dumais, D Ramage, DJ Liebling, SM Drucker",
+   "venue": "US Patent App. 12/857,518",
+   "year": "2012"
+  },
+  {
+   "title": "A study of academic collaborations in computational linguistics using a latent mixture of authors model",
+   "authors": "N Johri, D Ramage, D McFarland, D Jurafsky",
+   "venue": "Proceedings of the 5th ACL-HLT workshop on language technology for cultural …",
+   "year": "2011"
+  },
+  {
+   "title": "Communication-efficient learning of deep networks from decentralized data. 2016. doi: 10.48550",
+   "authors": "HB McMahan, E Moore, D Ramage, S Hampson, BA y Arcas",
+   "venue": "arXiv preprint ARXIV.1602.05629",
+   "year": null
+  },
+  {
+   "title": "On-device machine learning platform",
+   "authors": "P Sanketi, W Grieskamp, D Ramage, H Aradhye, S Hu",
+   "venue": "US Patent 11,138,517",
+   "year": "2021"
+  },
+  {
+   "title": "On-device machine learning platform",
+   "authors": "P Sanketi, W Grieskamp, D Ramage, H Aradhye",
+   "venue": "US Patent 11,403,540",
+   "year": "2022"
+  },
+  {
+   "title": "Air gap: Protecting privacy-conscious conversational agents",
+   "authors": "E Bagdasaryan, R Yi, S Ghalebikesabi, P Kairouz, M Gruteser, S Oh, ...",
+   "venue": "arXiv preprint arXiv:2405.05175",
+   "year": "2024"
+  },
+  {
+   "title": "Systems and methods for selective retention and editing of images captured by mobile image capture device",
+   "authors": "AM Donsbach, B Vanik, JG Clapper, A Lentz, JD Lovejoy, RD Fritz III, ...",
+   "venue": "US Patent 9,836,819",
+   "year": "2017"
+  },
+  {
+   "title": "Which universities lead and lag? Toward university rankings based on scholarly output",
+   "authors": "D Ramage, CD Manning, DA McFarland",
+   "venue": "Proc. of NIPS Workshop on Computational Social Science and the Wisdom of the …",
+   "year": "2010"
+  },
+  {
+   "title": "Speech and computer vision-based control",
+   "authors": "RM Rifkin, D Ramage",
+   "venue": "US Patent 9,769,367",
+   "year": "2017"
+  },
+  {
+   "title": "Systems and methods for private local sponsored content",
+   "authors": "K Bonawitz, D Ramage, D Petrou",
+   "venue": "US Patent 10,504,154",
+   "year": "2019"
+  },
+  {
+   "title": "Agüera y Arcas B",
+   "authors": "H Brendan McMahan, E Moore, D Ramage, S Hampson",
+   "venue": "Communication-efficient learning of deep networks from decentralized data …",
+   "year": "2016"
+  },
+  {
+   "title": "Emerging markets",
+   "authors": "R Heeks",
+   "venue": "Communications of the ACM 55 (4), 24-26",
+   "year": "2012"
+  },
+  {
+   "title": "732 Schwikowski B, and Ideker T",
+   "authors": "P Shannon, A Markiel, O Ozier, NS Baliga, JT Wang, D Ramage, N Amin",
+   "venue": "Cytoscape: a software environment for integrated models of 733, 2498-2504",
+   "year": null
+  },
+  {
+   "title": "1251 Schwikowski B, and Ideker T",
+   "authors": "P Shannon, A Markiel, O Ozier, NS Baliga, JT Wang, D Ramage, N Amin",
+   "venue": "Cytoscape: a software environment for integrated 1252, 2498-2504",
+   "year": null
+  },
+  {
+   "title": "Automatic suggestions and other content for messaging applications",
+   "authors": "O Gershony, S Nazarov, R DE CASTRO, E Palmer, D Ramage, ...",
+   "venue": "US Patent 11,502,975",
+   "year": "2022"
+  },
+  {
+   "title": "Large-scale examination of academic publications using statistical models",
+   "authors": "J Chuang, D Ramage, DA McFarland, CD Manning, J Heer",
+   "venue": "Proc. AVI Workshop Supporting Asynchronous Collaboration Visual Anal. Syst",
+   "year": "2012"
+  },
+  {
+   "title": "Trusted machine learning models unlock private inference for problems currently infeasible with cryptography",
+   "authors": "I Shumailov, D Ramage, S Meiklejohn, P Kairouz, F Hartmann, B Balle, ...",
+   "venue": "arXiv preprint arXiv:2501.08970",
+   "year": "2025"
+  },
+  {
+   "title": "Mapping three decades of intellectual change in academia",
+   "authors": "D Ramage, CD Manning, DA McFarland",
+   "venue": "arXiv preprint arXiv:2004.01291",
+   "year": "2020"
+  },
+  {
+   "title": "737 Schwikowski B, Ideker T. 2003 Cytoscape: a software environment for 738 integrated models of biomolecular interaction networks",
+   "authors": "P Shannon, A Markiel, O Ozier, NS Baliga, JT Wang, D Ramage, N Amin",
+   "venue": "Genome Res 13, 2498-739",
+   "year": null
+  },
+  {
+   "title": "Low power framework for controlling image sensor mode in a mobile image capture device",
+   "authors": "AM Donsbach, B Vanik, JG Clapper, A Lentz, JD Lovejoy, RD Fritz III, ...",
+   "venue": "US Patent 11,159,763",
+   "year": "2021"
+  },
+  {
+   "title": "Communication-efficient learning of deep networks from decentralized data. arXiv preprint arXiv: 160205629",
+   "authors": "HB McMahan, E Moore, D Ramage, S Hampson, BA Arcas",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "395 cas. Communication-efficient learning of deep networks from decentralized data",
+   "authors": "B McMahan, E Moore, D Ramage, S Hampson, BA y Ar",
+   "venue": "Artificial 396, 1273-1282",
+   "year": null
+  },
+  {
+   "title": "wang JT, Ramage D, Amin N, Schwikowski B, Ideker T. 2003. Cytoscape: a software environment for integrated models of biomolecular interaction networks",
+   "authors": "P Shannon, A Markiel, O Ozier, NS Baliga",
+   "venue": "Genome Res 13, 2498-504",
+   "year": null
+  },
+  {
+   "title": "Synthesizing and adapting error correction data for mobile large language model applications",
+   "authors": "Y Zhang, Z Xu, S Wu, Y Zhang, D Ramage",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "y Arcas, Blaise Aguera",
+   "authors": "B McMahan, E Moore, D Ramage, S Hampson",
+   "venue": "Communication-efficient learning of deep networks from decentralized data 54 …",
+   "year": "2017"
+  },
+  {
+   "title": "ScalaNLP: Breeze",
+   "authors": "D Hall, D Ramage, J Zaugg, A Lehmann, J Merritt, K Stevens, J Baldridge, ...",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "525 Ideker, T",
+   "authors": "P Shannon, A Markiel, O Ozier, NS Baliga, JT Wang, D Ramage, N Amin, ...",
+   "venue": "Cytoscape: a software environment for integrated models of biomolecular …",
+   "year": null
+  },
+  {
+   "title": "Toward provably private analytics and insights into GenAI use",
+   "authors": "A Cheu, A Lagzdin, B McLarnon, D Ramage, K Daly, M Gruteser, ...",
+   "venue": "arXiv preprint arXiv:2510.21684",
+   "year": "2025"
+  },
+  {
+   "title": "Low entropy browsing history for ads quasi-personalization",
+   "authors": "M Kleber, G Wang, D Ramage, C Harrison, J Karlin, M Yung",
+   "venue": "US Patent 11,423,441",
+   "year": "2022"
+  },
+  {
+   "title": "Systems and methods of distributed optimization",
+   "authors": "HB McMahan, J Konecny, EB Moore, D Ramage, BH Aguera-Arcas",
+   "venue": "US Patent 11,120,102",
+   "year": "2021"
+  },
+  {
+   "title": "Studying people, organizations, and the web with statistical text models",
+   "authors": "D Ramage",
+   "venue": "Stanford University, USA",
+   "year": "2011"
+  },
+  {
+   "title": "RA: ResearchAssistant for the computational sciences",
+   "authors": "D Ramage, AJ Oliner",
+   "venue": "Proceedings of the 2007 workshop on Experimental computer science, 19-es",
+   "year": "2007"
+  },
+  {
+   "title": "On-Device Machine Learning Platform",
+   "authors": "P Sanketi, W Grieskamp, D Ramage, H Aradhye, S Hu",
+   "venue": "US Patent App. 17/479,364",
+   "year": "2022"
+  },
+  {
+   "title": "Systems and methods for private local sponsored content",
+   "authors": "K Bonawitz, D Ramage, D Petrou",
+   "venue": "US Patent 11,087,362",
+   "year": "2021"
+  },
+  {
+   "title": "Systems and methods of distributed optimization",
+   "authors": "HB McMahan, J Konecny, EB Moore, DR Ramage, BH Aguera-Arcas",
+   "venue": "US Patent 11,023,561",
+   "year": "2021"
+  },
+  {
+   "title": "Methods and Systems for Input Suggestion",
+   "authors": "T Wantland, J Odell, SY Kim, I Turc, D Ramage, W Huang, K Wang",
+   "venue": "US Patent App. 16/037,418",
+   "year": "2020"
+  },
+  {
+   "title": "y Arcas, BA Communication-Efficient Learning of 1311 Deep Networks from Decentralized Data",
+   "authors": "B McMahan, E Moore, D Ramage, S Hampson",
+   "venue": "Proceedings of the 20th International Conference on Artificial 1312",
+   "year": null
+  },
+  {
+   "title": "y.(2017b), Communication-eﬀicient learning of deep networks from decentralized data",
+   "authors": "B McMahan, E Moore, D Ramage, S Hampson, BA Arcas",
+   "venue": "Proceedings of the 20th International Conference on Artificial Intelligence …",
+   "year": null
+  },
+  {
+   "title": "y Arcas, BA Communication-674 efficient learning of deep networks from decentralized data",
+   "authors": "B McMahan, E Moore, D Ramage, S Hampson",
+   "venue": "Artificial intelligence and 675 statistics, 1273-1282",
+   "year": null
+  },
+  {
+   "title": "Training user-level differentially private machine-learned models",
+   "authors": "HB McMahan, K Talwar, L Zhang, D Ramage",
+   "venue": "US Patent 11,726,769",
+   "year": "2023"
+  },
+  {
+   "title": "Federated evaluation of on-device personalization",
+   "authors": "CM Kiddon, DR Ramage, FS Beaufays, H Eichner, K Wang, R Mathews",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "A supplemental figures and tables",
+   "authors": "HB McMahan, E Moore, D Ramage, S Hampson, BA AŒeraAg, A Arcas",
+   "venue": "tech. rep., ArXiv",
+   "year": "2017"
+  },
+  {
+   "title": "Localized learning from a global model",
+   "authors": "D Ramage, JG Kahn",
+   "venue": "US Patent 11,551,153",
+   "year": "2023"
+  },
+  {
+   "title": "Methods and Systems for Input Suggestion",
+   "authors": "T Wantland, J Odell, SY Kim, I Turc, D Ramage, W Huang, K Wang",
+   "venue": "US Patent App. 17/156,972",
+   "year": "2021"
+  },
+  {
+   "title": "Federated optimization",
+   "authors": "J Konečný, HB McMahan, D Ramage",
+   "venue": "arXiv preprint arXiv:1610.02527",
+   "year": "2016"
+  },
+  {
+   "title": "Robust Graph Alignment Methods for Textual Inference and Machine Reading.",
+   "authors": "MC De Marneffe, T Grenager, B MacCartney, DM Cer, D Ramage, ...",
+   "venue": "AAAI Spring Symposium: Machine Reading, 36-42",
+   "year": "2007"
+  },
+  {
+   "title": "Toward verifiably private learning from federated data",
+   "authors": "K Daly, Y Xiao, Z Garrett, B McLarnon, J Hou, A Ganesh, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2609.31494",
+   "year": "2026"
+  },
+  {
+   "title": "Systems and Methods of Distributed Optimization",
+   "authors": "HB McMahan, J Konecny, EB Moore, D Ramage, BH Aguera-Arcas",
+   "venue": "US Patent App. 19/379,242",
+   "year": "2026"
+  },
+  {
+   "title": "Action suggestions for user-selected content",
+   "authors": "M Sharifi, D Ramage, D Petrou",
+   "venue": "US Patent 12,505,384",
+   "year": "2025"
+  },
+  {
+   "title": "On-Device Machine Learning Platform",
+   "authors": "P Sanketi, W Grieskamp, D Ramage, H Aradhye",
+   "venue": "US Patent App. 19/084,552",
+   "year": "2025"
+  },
+  {
+   "title": "Private Federated Learning",
+   "authors": "K Bonawitz, P Kairouz, B McMahan, D Ramage",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Systems and methods for private local sponsored content",
+   "authors": "K Bonawitz, D Ramage, D Petrou",
+   "venue": "US Patent 12,051,092",
+   "year": "2024"
+  },
+  {
+   "title": "Low entropy browsing history for ads quasi-personalization",
+   "authors": "M Kleber, G Wang, D Ramage, C Harrison, J Karlin, M Yung",
+   "venue": "US Patent App. 18/588,659",
+   "year": "2024"
+  },
+  {
+   "title": "Low entropy browsing history for ads quasi-personalization",
+   "authors": "M Kleber, G Wang, D Ramage, C Harrison, J Karlin, M Yung",
+   "venue": "US Patent 11,954,705",
+   "year": "2024"
+  },
+  {
+   "title": "Methods and Systems for Input Suggestion",
+   "authors": "T Wantland, J Odell, SY Kim, I Turc, D Ramage, W Huang, K Wang",
+   "venue": "US Patent App. 18/471,966",
+   "year": "2024"
+  },
+  {
+   "title": "Systems and methods for private local sponsored content",
+   "authors": "K Bonawitz, D Ramage, D Petrou",
+   "venue": "US Patent 11,610,231",
+   "year": "2023"
+  },
+  {
+   "title": "On-Device Machine Learning Platform",
+   "authors": "P Sanketi, W Grieskamp, D Ramage, H Aradhye",
+   "venue": "US Patent App. 17/874,967",
+   "year": "2022"
+  },
+  {
+   "title": "Systems and Methods of Distributed Optimization",
+   "authors": "HB McMahan, J Konecny, EB Moore, D Ramage, BH Aguera-Arcas",
+   "venue": "US Patent App. 17/406,377",
+   "year": "2021"
+  },
+  {
+   "title": "Action suggestions for user-selected content",
+   "authors": "M Sharifi, D Ramage, D Petrou",
+   "venue": "US Patent App. 17/071,330",
+   "year": "2021"
+  },
+  {
+   "title": "Management and Evaluation of Machine-Learned Models Based on Locally Logged Data",
+   "authors": "K Bonawitz, D Ramage",
+   "venue": "US Patent App. 17/014,126",
+   "year": "2020"
+  },
+  {
+   "title": "Export Citations",
+   "authors": "K Bonawitz, P Kairouz, B McMahan, D Ramage",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Popular Queries",
+   "authors": "J Teevan, D Ramage, MR Morris",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

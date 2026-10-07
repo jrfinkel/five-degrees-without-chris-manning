@@ -1,0 +1,119 @@
+{
+ "user": "9IyAwc4AAAAJ",
+ "pubs": [
+  {
+   "title": "Gender and representation bias in GPT-3 generated stories",
+   "authors": "L Lucy, D Bamman",
+   "venue": "Proceedings of the Third Workshop on Narrative Understanding, 48-55",
+   "year": "2021"
+  },
+  {
+   "title": "Dolma: An open corpus of three trillion tokens for language model pretraining research",
+   "authors": "L Soldaini, R Kinney, A Bhagia, D Schwenk, D Atkinson, R Authur, ...",
+   "venue": "🏆 Proceedings of the 62nd Annual Meeting of the Association for …",
+   "year": "2024"
+  },
+  {
+   "title": "Content analysis of textbooks via natural language processing: Findings on gender, race, and ethnicity in Texas US history textbooks",
+   "authors": "L Lucy*, D Demszky*, P Bromley, D Jurafsky",
+   "venue": "🏆 AERA Open 6 (3), 2332858420940312",
+   "year": "2020"
+  },
+  {
+   "title": "Characterizing English Variation across Social Media Communities with BERT",
+   "authors": "L Lucy, D Bamman",
+   "venue": "Transactions of the Association for Computational Linguistics",
+   "year": "2021"
+  },
+  {
+   "title": "Are distributional representations ready for the real world? Evaluating word vectors for grounded perceptual meaning",
+   "authors": "L Lucy, J Gauthier",
+   "venue": "Proceedings of the First Workshop on Language Grounding for Robotics",
+   "year": "2017"
+  },
+  {
+   "title": "On Classification with Large Language Models in Cultural Analytics",
+   "authors": "D Bamman, KK Chang, L Lucy, N Zhou",
+   "venue": "Computational Humanities Research (CHR)",
+   "year": "2024"
+  },
+  {
+   "title": "Words as Gatekeepers: Measuring Discipline-specific Terms and Meanings in Scholarly Publications",
+   "authors": "L Lucy, J Dodge, D Bamman, KA Keith",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "AboutMe: Using self-descriptions in webpages to document the effects of English pretraining data filters",
+   "authors": "L Lucy, S Gururangan, L Soldaini, E Strubell, D Bamman, L Klein, ...",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "DrawEduMath: Evaluating Vision Language Models with Expert-Annotated Students’ Hand-Drawn Math Images",
+   "authors": "S Baral*, L Lucy*, R Knight, A Ng, L Soldaini, N Heffernan, K Lo",
+   "venue": "🏆 Proceedings of the 2025 Conference of the Nations of the Americas Chapter …",
+   "year": "2025"
+  },
+  {
+   "title": "Discovering differences in the representation of people using contextualized semantic axes",
+   "authors": "L Lucy, D Tadimeti, D Bamman",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "MathFish: Evaluating Language Model Math Reasoning via Grounding in Educational Curricula",
+   "authors": "L Lucy, T August, RE Wang, L Soldaini, C Allison, K Lo",
+   "venue": "Findings of Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2024"
+  },
+  {
+   "title": "\"One-Size-Fits-All\"? Examining Expectations around What Constitute \"Fair\" or \"Good\" NLG System Behaviors",
+   "authors": "L Lucy, SL Blodgett, M Shokouhi, H Wallach, A Olteanu",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Using sentiment induction to understand variation in gendered online communities",
+   "authors": "L Lucy, J Mendelsohn",
+   "venue": "Proceedings of the Society for Computation in Linguistics (SCiL) 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Racial and Ethnic Representation in Literature Taught in US High Schools",
+   "authors": "L Lucy, C Griffiths, C Ying, JJ Kim-Ebio, S Baur, S Levine, JL Eberhardt, ...",
+   "venue": "Journal of Cultural Analytics 10 (1)",
+   "year": "2025"
+  },
+  {
+   "title": "“Othering” Through War: Depiction of Asians/Asian Americans in US History Textbooks",
+   "authors": "M Choi, L Lucy, P Bromley, D Bamman",
+   "venue": "Educational Researcher 54 (6), 318-327",
+   "year": "2025"
+  },
+  {
+   "title": "Tell, Don't Show: Leveraging Language Models' Abstractive Retellings to Model Literary Themes",
+   "authors": "L Lucy, C Griffiths, S Levine, JL Eberhardt, D Demszky, D Bamman",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors",
+   "authors": "L Lucy, A Zhang, N Anderson, R Knight, K Lo",
+   "venue": "21st Workshop on Innovative Use of NLP for Building Educational Applications …",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the Fifth Workshop on Teaching NLP",
+   "authors": "D Jurgens, V Kolhatkar, L Lucy, M Mieskes, T Pedersen",
+   "venue": "Proceedings of the Fifth Workshop on Teaching NLP",
+   "year": "2021"
+  },
+  {
+   "title": "Investigating Causal Effects of Instructions in Crowdsourced Claim Matching",
+   "authors": "E Lurie, L Lucy, M Belyi, S Dewar, D Rincón, J Baldwin, R Oak",
+   "venue": "",
+   "year": "2020"
+  }
+ ]
+}

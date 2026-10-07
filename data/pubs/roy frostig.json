@@ -1,0 +1,143 @@
+{
+ "user": "UoATnWEAAAAJ",
+ "pubs": [
+  {
+   "title": "JAX: composable transformations of Python + NumPy programs",
+   "authors": "J Bradbury, R Frostig, P Hawkins, MJ Johnson, C Leary, D Maclaurin, ...",
+   "venue": "URL http://github.com/google/jax",
+   "year": "2018"
+  },
+  {
+   "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
+   "authors": "G Comanici, E Bieber, M Schaekermann, I Pasupat, N Sachdeva, I Dhillon, ...",
+   "venue": "arXiv preprint arXiv:2507.06261",
+   "year": "2025"
+  },
+  {
+   "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+   "authors": "G Team, P Georgiev, VI Lei, R Burnell, L Bai, A Gulati, G Tanzer, ...",
+   "venue": "arXiv preprint arXiv:2403.05530",
+   "year": "2024"
+  },
+  {
+   "title": "Semantic Parsing on Freebase from Question-Answer Pairs",
+   "authors": "J Berant, A Chou, R Frostig, P Liang",
+   "venue": "Empirical methods in natural language processing (EMNLP)",
+   "year": "2013"
+  },
+  {
+   "title": "Measuring the Effects of Data Parallelism on Neural Network Training",
+   "authors": "CJ Shallue, J Lee, J Antognini, J Sohl-Dickstein, R Frostig, GE Dahl",
+   "venue": "Journal of Machine Learning Research 20 (112), 1-49",
+   "year": "2019"
+  },
+  {
+   "title": "Compiling machine learning programs via high-level tracing",
+   "authors": "R Frostig, MJ Johnson, C Leary",
+   "venue": "SysML",
+   "year": "2018"
+  },
+  {
+   "title": "Efficient and modular implicit differentiation",
+   "authors": "M Blondel, Q Berthet, M Cuturi, R Frostig, S Hoyer, F Llinares-López, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 5230-5242",
+   "year": "2022"
+  },
+  {
+   "title": "Toward deeper understanding of neural networks: The power of initialization and a dual view on expressivity",
+   "authors": "A Daniely, R Frostig, Y Singer",
+   "venue": "Advances In Neural Information Processing Systems 29",
+   "year": "2016"
+  },
+  {
+   "title": "Un-regularizing: approximate proximal point and faster stochastic algorithms for empirical risk minimization",
+   "authors": "R Frostig, R Ge, SM Kakade, A Sidford",
+   "venue": "Proceedings of The 32nd International Conference on Machine Learning, 2540-2548",
+   "year": "2015"
+  },
+  {
+   "title": "Competing with the empirical risk minimizer in a single pass",
+   "authors": "R Frostig, R Ge, SM Kakade, A Sidford",
+   "venue": "Conference on learning theory, 728-763",
+   "year": "2015"
+  },
+  {
+   "title": "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation",
+   "authors": "X Xiao, T Zhang, K Choromanski, E Lee, A Francis, J Varley, S Tu, ...",
+   "venue": "arXiv preprint arXiv:2209.10780",
+   "year": "2022"
+  },
+  {
+   "title": "Learning from many trajectories",
+   "authors": "S Tu, R Frostig, M Soltanolkotabi",
+   "venue": "Journal of Machine Learning Research 25 (216), 1-109",
+   "year": "2024"
+  },
+  {
+   "title": "The advantages of multiple classes for reducing overfitting from test set reuse",
+   "authors": "V Feldman, R Frostig, M Hardt",
+   "venue": "International Conference on Machine Learning, 1892-1900",
+   "year": "2019"
+  },
+  {
+   "title": "Principal component projection without principal component analysis",
+   "authors": "R Frostig, C Musco, C Musco, A Sidford",
+   "venue": "International Conference on Machine Learning, 2349-2357",
+   "year": "2016"
+  },
+  {
+   "title": "You Only Linearize Once: Tangents Transpose to Gradients",
+   "authors": "A Radul, A Paszke, R Frostig, MJ Johnson, D Maclaurin",
+   "venue": "Proceedings of the ACM on Programming Languages 7 (POPL), 1246-1274",
+   "year": "2023"
+  },
+  {
+   "title": "Simple MAP inference via low-rank relaxations",
+   "authors": "R Frostig, S Wang, PS Liang, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "Estimation from Indirect Supervision with Linear Moments",
+   "authors": "A Raghunathan, R Frostig, J Duchi, P Liang",
+   "venue": "arXiv preprint arXiv:1608.03100",
+   "year": "2016"
+  },
+  {
+   "title": "Random Features for Compositional Kernels",
+   "authors": "A Daniely, R Frostig, V Gupta, Y Singer",
+   "venue": "arXiv preprint arXiv:1703.07872",
+   "year": "2017"
+  },
+  {
+   "title": "Decomposing reverse-mode automatic differentiation",
+   "authors": "R Frostig, MJ Johnson, D Maclaurin, A Paszke, A Radul",
+   "venue": "arXiv preprint arXiv:2105.09469",
+   "year": "2021"
+  },
+  {
+   "title": "Parallelism-preserving automatic differentiation for second-order array languages",
+   "authors": "A Paszke, MJ Johnson, R Frostig, D Maclaurin",
+   "venue": "Proceedings of the 9th ACM SIGPLAN International Workshop on Functional High …",
+   "year": "2021"
+  },
+  {
+   "title": "Relaxations for inference in restricted Boltzmann machines",
+   "authors": "SI Wang, R Frostig, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:1312.6205",
+   "year": "2013"
+  },
+  {
+   "title": "Open Problem: How fast can a multiclass test set be overfit?",
+   "authors": "V Feldman, R Frostig, M Hardt",
+   "venue": "Conference on Learning Theory, 3185-3189",
+   "year": "2019"
+  },
+  {
+   "title": "A sub-constant improvement in approximating the positive semidefinite Grothendieck problem",
+   "authors": "R Frostig, SI Wang",
+   "venue": "arXiv preprint arXiv:1408.2270",
+   "year": "2014"
+  }
+ ]
+}

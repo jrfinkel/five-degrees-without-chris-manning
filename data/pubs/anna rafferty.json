@@ -1,0 +1,599 @@
+{
+ "user": "6S0sCwgAAAAJ",
+ "pubs": [
+  {
+   "title": "Finding contradictions in text",
+   "authors": "MC De Marneffe, AN Rafferty, CD Manning",
+   "venue": "Proceedings of acl-08: Hlt, 1039-1047",
+   "year": "2008"
+  },
+  {
+   "title": "Faster teaching via pomdp planning",
+   "authors": "AN Rafferty, E Brunskill, TL Griffiths, P Shafto",
+   "venue": "Cognitive science 40 (6), 1290-1332",
+   "year": "2016"
+  },
+  {
+   "title": "An overview of machine teaching",
+   "authors": "X Zhu, A Singla, S Zilles, AN Rafferty",
+   "venue": "arXiv preprint arXiv:1801.05927",
+   "year": "2018"
+  },
+  {
+   "title": "Axis: Generating explanations at scale with learnersourcing and machine learning",
+   "authors": "JJ Williams, J Kim, A Rafferty, S Maldonado, KZ Gajos, WS Lasecki, ...",
+   "venue": "Proceedings of the third (2016) ACM conference on learning@ scale, 379-388",
+   "year": "2016"
+  },
+  {
+   "title": "A rational model of the Dunning–Kruger effect supports insensitivity to evidence in low performers",
+   "authors": "RA Jansen, AN Rafferty, TL Griffiths",
+   "venue": "Nature Human Behaviour 5 (6), 756-763",
+   "year": "2021"
+  },
+  {
+   "title": "Parsing three German treebanks: Lexicalized and unlexicalized baselines",
+   "authors": "AN Rafferty, CD Manning",
+   "venue": "Proceedings of the workshop on parsing german, 40-46",
+   "year": "2008"
+  },
+  {
+   "title": "Whether and how authentic contexts using a virtual chemistry lab support learning",
+   "authors": "JL Davenport, AN Rafferty, DJ Yaron",
+   "venue": "Journal of Chemical Education 95 (8), 1250-1259",
+   "year": "2018"
+  },
+  {
+   "title": "Computer-guided inquiry to improve science learning",
+   "authors": "MC Linn, L Gerard, K Ryoo, K McElhaney, OL Liu, AN Rafferty",
+   "venue": "Science 344 (6180), 155-156",
+   "year": "2014"
+  },
+  {
+   "title": "Random walks for text semantic similarity",
+   "authors": "D Ramage, AN Rafferty, CD Manning",
+   "venue": "Proceedings of the 2009 workshop on graph-based methods for natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Generative AI for education (GAIED): Advances, opportunities, and challenges",
+   "authors": "P Denny, S Gulwani, NT Heffernan, T Käser, S Moore, AN Rafferty, ...",
+   "venue": "arXiv preprint arXiv:2402.01580",
+   "year": "2024"
+  },
+  {
+   "title": "Explaining constrains causal learning in childhood",
+   "authors": "CM Walker, T Lombrozo, JJ Williams, AN Rafferty, A Gopnik",
+   "venue": "Child development 88 (1), 229-246",
+   "year": "2017"
+  },
+  {
+   "title": "Supporting self-reflection at scale with large language models: Insights from randomized field experiments in classrooms",
+   "authors": "H Kumar, R Xiao, B Lawson, I Musabirov, J Shi, X Wang, H Luo, ...",
+   "venue": "Proceedings of the eleventh ACM conference on learning@ scale, 86-97",
+   "year": "2024"
+  },
+  {
+   "title": "Automated guidance for student inquiry.",
+   "authors": "LF Gerard, K Ryoo, KW McElhaney, OL Liu, AN Rafferty, MC Linn",
+   "venue": "Journal of Educational Psychology 108 (1), 60",
+   "year": "2016"
+  },
+  {
+   "title": "Reinforcement learning for education: Opportunities and challenges",
+   "authors": "A Singla, AN Rafferty, G Radanovic, NT Heffernan",
+   "venue": "arXiv preprint arXiv:2107.08828",
+   "year": "2021"
+  },
+  {
+   "title": "A bounded rationality account of wishful thinking",
+   "authors": "R Neuman, A Rafferty, T Griffiths",
+   "venue": "Proceedings of the annual meeting of the Cognitive Science Society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Learning to distinguish valid textual entailments",
+   "authors": "MC De Marneffe, B MacCartney, T Grenager, D Cer, A Rafferty, ...",
+   "venue": "Proceedings of the Second PASCAL Challenges Workshop",
+   "year": "2006"
+  },
+  {
+   "title": "Inferring learners' knowledge from their actions",
+   "authors": "AN Rafferty, MM LaMar, TL Griffiths",
+   "venue": "Cognitive Science 39 (3), 584-618",
+   "year": "2015"
+  },
+  {
+   "title": "Statistical consequences of using multi-armed bandits to conduct adaptive educational experiments",
+   "authors": "A Rafferty, H Ying, J Williams",
+   "venue": "Journal of Educational Data Mining 11 (1), 47-79",
+   "year": "2019"
+  },
+  {
+   "title": "Linking code readability, structure, and comprehension among novices: it's complicated",
+   "authors": "ES Wiese, AN Rafferty, A Fox",
+   "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering …",
+   "year": "2019"
+  },
+  {
+   "title": "Enhancing online problems through instructor-centered tools for randomized experiments",
+   "authors": "JJ Williams, AN Rafferty, D Tingley, A Ang, WS Lasecki, J Kim",
+   "venue": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2018"
+  },
+  {
+   "title": "Deciding entailment and contradiction with stochastic and edit distance-based alignment",
+   "authors": "S Padó, MC de Marneffe, B MacCartney, AN Rafferty, E Yeh, CD Manning",
+   "venue": "Proceedings of the Text Analysis Conference",
+   "year": "2008"
+  },
+  {
+   "title": "How can email interventions increase students’ completion of online homework? A case study using A/B comparisons",
+   "authors": "A Zavaleta Bernuy, Z Han, H Shaikh, QY Zheng, LA Lim, A Rafferty, ...",
+   "venue": "LAK22: 12th International Learning Analytics and Knowledge Conference, 107-118",
+   "year": "2022"
+  },
+  {
+   "title": "Stanford log-linear part-of-speech tagger",
+   "authors": "K Toutanova, D Klein, C Manning, W Morgan, A Rafferty, M Galley, ...",
+   "venue": "The Stanford Natural Language Processing Group, Stanford University Std.",
+   "year": "2000"
+  },
+  {
+   "title": "The MOOClet framework: unifying experimentation, dynamic improvement, and personalization in online courses",
+   "authors": "M Reza, J Kim, A Bhattacharjee, AN Rafferty, JJ Williams",
+   "venue": "Proceedings of the eighth acm conference on learning@ scale, 15-26",
+   "year": "2021"
+  },
+  {
+   "title": "Replicating novices' struggles with coding style",
+   "authors": "ES Wiese, AN Rafferty, DM Kopta, JM Anderson",
+   "venue": "2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC …",
+   "year": "2019"
+  },
+  {
+   "title": "Optimally designing games for behavioural research",
+   "authors": "AN Rafferty, M Zaharia, TL Griffiths",
+   "venue": "Proceedings. Mathematical, Physical, and Engineering Sciences/The Royal …",
+   "year": "2014"
+  },
+  {
+   "title": "ChemVLab+: Evaluating a virtual lab tutor for high school chemistry",
+   "authors": "J Davenport, A Rafferty, M Timms, D Yaron, M Karabinos",
+   "venue": "International Society of the Learning Sciences (ISLS)",
+   "year": "2012"
+  },
+  {
+   "title": "Bandit assignment for educational experiments: Benefits to students versus statistical power",
+   "authors": "AN Rafferty, H Ying, JJ Williams",
+   "venue": "International Conference on Artificial Intelligence in Education, 286-290",
+   "year": "2018"
+  },
+  {
+   "title": "Using Inverse Planning for Personalized Feedback.",
+   "authors": "AN Rafferty, R Jansen, TL Griffiths",
+   "venue": "EDM 16, 472-477",
+   "year": "2016"
+  },
+  {
+   "title": "Greater learnability is not sufficient to produce cultural universals",
+   "authors": "AN Rafferty, TL Griffiths, M Ettlinger",
+   "venue": "Cognition 129 (1), 70-87",
+   "year": "2013"
+  },
+  {
+   "title": "Using adaptive bandit experiments to increase and investigate engagement in mental health",
+   "authors": "H Kumar, T Li, J Shi, I Musabirov, R Kornfield, J Meyerhoff, ...",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 38 (21), 22906 …",
+   "year": "2024"
+  },
+  {
+   "title": "Designing instruction to improve lifelong inquiry learning",
+   "authors": "MC Linn, BS Eylon, A Rafferty, JM Vitale",
+   "venue": "EURASIA Journal of Mathematics, Science and Technology Education 11 (2), 217-225",
+   "year": "2017"
+  },
+  {
+   "title": "Analyzing the rate at which languages lose the influence of a common ancestor",
+   "authors": "AN Rafferty, TL Griffiths, D Klein",
+   "venue": "Cognitive science 38 (7), 1406-1431",
+   "year": "2014"
+  },
+  {
+   "title": "Estimating student knowledge from paired interaction data",
+   "authors": "A Rafferty, J Davenport, E Brunskill",
+   "venue": "Educational Data Mining 2013",
+   "year": "2013"
+  },
+  {
+   "title": "Applying learning factors analysis to build stereotypic student models",
+   "authors": "AN Rafferty, M Yudelson",
+   "venue": "Frontiers in Artificial Intelligence and Applications 158 (697), 51",
+   "year": "2007"
+  },
+  {
+   "title": "Getting too personal (ized): The importance of feature choice in online adaptive algorithms",
+   "authors": "ZB Li, L Yee, N Sauerberg, I Sakson, JJ Williams, AN Rafferty",
+   "venue": "arXiv preprint arXiv:2309.02856",
+   "year": "2023"
+  },
+  {
+   "title": "Student motivations and goals for cs1: themes and variations",
+   "authors": "D Liben-Nowell, AN Rafferty",
+   "venue": "Proceedings of the 53rd ACM Technical Symposium on Computer Science …",
+   "year": "2022"
+  },
+  {
+   "title": "Convergence bounds for language evolution by iterated learning",
+   "authors": "AN Rafferty, TL Griffiths, D Klein",
+   "venue": "Proceedings of the Thirty-First Annual Conference of the Cognitive Science …",
+   "year": "2009"
+  },
+  {
+   "title": "Challenges in statistical analysis of data collected by a bandit algorithm: An empirical exploration in applications to adaptively randomized experiments",
+   "authors": "JJ Williams, J Nogas, N Deliu, H Shaikh, SS Villar, A Durand, A Rafferty",
+   "venue": "arXiv preprint arXiv:2103.12198",
+   "year": "2021"
+  },
+  {
+   "title": "Balancing Student Success and Inferring Personalized Effects in Dynamic Experiments.",
+   "authors": "H Shaikh, A Modiri, JJ Williams, AN Rafferty",
+   "venue": "EDM",
+   "year": "2019"
+  },
+  {
+   "title": "Platform-based adaptive experimental research in education: Lessons learned from the digital learning challenge",
+   "authors": "I Musabirov, M Reza, H Song, S Moore, P Chen, H Kumar, T Li, J Stamper, ...",
+   "venue": "Proceedings of the 15th International Learning Analytics and Knowledge …",
+   "year": "2025"
+  },
+  {
+   "title": "Growth in knowledge of programming patterns: A comparison study of CS1 vs. CS2 students",
+   "authors": "S Nurollahian, AN Rafferty, N Brown, E Wiese",
+   "venue": "Proceedings of the 55th ACM Technical Symposium on Computer Science …",
+   "year": "2024"
+  },
+  {
+   "title": "Using adaptive experiments to rapidly help students",
+   "authors": "A Zavaleta-Bernuy, QY Zheng, H Shaikh, J Nogas, A Rafferty, A Petersen, ...",
+   "venue": "International Conference on Artificial Intelligence in Education, 422-426",
+   "year": "2021"
+  },
+  {
+   "title": "Assessing mathematics misunderstandings via Bayesian inverse planning",
+   "authors": "AN Rafferty, RA Jansen, TL Griffiths",
+   "venue": "Cognitive science 44 (10), e12900",
+   "year": "2020"
+  },
+  {
+   "title": "Automating Guidance for Students' Chemistry Drawings.",
+   "authors": "AN Rafferty, E Gerard, KW McElhaney, MC Linn",
+   "venue": "AIED Workshops",
+   "year": "2013"
+  },
+  {
+   "title": "Inferring learners’ knowledge from observed actions",
+   "authors": "A Rafferty, M Lamar, T Griffiths",
+   "venue": "Educational Data Mining 2012",
+   "year": "2012"
+  },
+  {
+   "title": "Optimal language learning: The importance of starting representative",
+   "authors": "A Rafferty, T Griffiths",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "Readable vs. writable code: A survey of intermediate students' structure choices",
+   "authors": "E Wiese, AN Rafferty, J Pyper",
+   "venue": "Proceedings of the 53rd ACM Technical Symposium on Computer Science …",
+   "year": "2022"
+  },
+  {
+   "title": "Identifying conflicting information in texts",
+   "authors": "MC de Marneffe, AR Rafferty, CD Manning",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Algorithms for adaptive experiments that trade-off statistical analysis with reward: combining uniform random assignment and reward maximization",
+   "authors": "T Li, J Nogas, H Song, A Rafferty, EM Schwartz, A Durand, H Kumar, ...",
+   "venue": "arXiv preprint arXiv:2112.08507",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring the relationship between learnability and linguistic universals",
+   "authors": "AN Rafferty, TL Griffiths, M Ettlinger",
+   "venue": "Proceedings of the 2nd Workshop on Cognitive Modeling and Computational …",
+   "year": "2011"
+  },
+  {
+   "title": "An agentic framework for real-time pedagogical plot generation",
+   "authors": "ST Christie, AN Rafferty, Z Lee, E Cutler, Y Tian, H Almoubayyed",
+   "venue": "International Conference on Artificial Intelligence in Education, 309-316",
+   "year": "2025"
+  },
+  {
+   "title": "Uncertainty-preserving deep knowledge tracing with state-space models",
+   "authors": "ST Christie, C Cook, AN Rafferty",
+   "venue": "arXiv preprint arXiv:2407.17427",
+   "year": "2024"
+  },
+  {
+   "title": "Increasing Students' Engagement to Reminder Emails Through Multi-Armed Bandits",
+   "authors": "FJ Yanez, A Zavaleta-Bernuy, Z Han, M Liut, A Rafferty, JJ Williams",
+   "venue": "arXiv preprint arXiv:2208.05090",
+   "year": "2022"
+  },
+  {
+   "title": "Students’ misunderstanding of the order of evaluation in conjoined conditions",
+   "authors": "ES Wiese, AN Rafferty, G Moseke",
+   "venue": "2021 IEEE/ACM 29th International Conference on Program Comprehension (ICPC …",
+   "year": "2021"
+  },
+  {
+   "title": "Optimally designing games for cognitive science research",
+   "authors": "A Raffert, M Zaharia, T Griffiths",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "MOOClets: A framework for dynamic experimentation and personalization",
+   "authors": "JJ Williams, AN Rafferty, S Maldonado, A Ang, D Tingley, J Kim",
+   "venue": "Proceedings of the Fourth (2017) ACM Conference on Learning@ Scale, 287-290",
+   "year": "2017"
+  },
+  {
+   "title": "Promoting student learning through automated formative guidance on chemistry drawings",
+   "authors": "AN Rafferty, L Gerard, K McElhaney, MC Linn",
+   "venue": "Boulder, CO: International Society of the Learning Sciences",
+   "year": "2014"
+  },
+  {
+   "title": "Encodings of source syntax: Similarities in NMT representations across target languages",
+   "authors": "TA Chang, AN Rafferty",
+   "venue": "Proceedings of the 5th Workshop on Representation Learning for NLP, 7-16",
+   "year": "2020"
+  },
+  {
+   "title": "Interpreting freeform equation solving",
+   "authors": "AN Rafferty, TL Griffiths",
+   "venue": "International Conference on Artificial Intelligence in Education, 387-397",
+   "year": "2015"
+  },
+  {
+   "title": "Improving assessment of programming pattern knowledge through code editing and revision",
+   "authors": "S Nurollahian, AN Rafferty, E Wiese",
+   "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering …",
+   "year": "2023"
+  },
+  {
+   "title": "FATED 2022: Fairness, accountability, and transparency in educational data",
+   "authors": "C Lynch, M Marras, M Pechenizkiy, A Rafferty, S Ritter, V Swamy, R Yu",
+   "venue": "Proceedings of the 15th international conference on educational data mining, 848",
+   "year": "2022"
+  },
+  {
+   "title": "Connecting instructors and learning scientists via collaborative dynamic experimentation",
+   "authors": "JJ Williams, AN Rafferty, A Ang, D Tingley, WS Lasecki, J Kim",
+   "venue": "Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors …",
+   "year": "2017"
+  },
+  {
+   "title": "Algebra is not like trivia: Evaluating self-assessment in an online math tutor",
+   "authors": "RA Jansen, AN Rafferty, TL Griffiths",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 39",
+   "year": "2017"
+  },
+  {
+   "title": "Applying Probabilistic Models for Knowledge Diagnosis and Educational Game Design",
+   "authors": "AN Rafferty",
+   "venue": "University of California, Berkeley",
+   "year": "2014"
+  },
+  {
+   "title": "A rational model of sequential self-assessment",
+   "authors": "RA Jansen, AN Rafferty, TL Griffiths",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 42",
+   "year": "2020"
+  },
+  {
+   "title": "Eliciting Middle School Students' Ideas About Graphs Supports Their Learning from a Computer Model.",
+   "authors": "E Wiese, AN Rafferty, MC Linn",
+   "venue": "CogSci",
+   "year": "2017"
+  },
+  {
+   "title": "Diagnosing algebra understanding via Bayesian inverse planning",
+   "authors": "A Rafferty, T Griffiths",
+   "venue": "Educational Data Mining 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Knowledge of examples affects conditional reasoning with mathematical content",
+   "authors": "DW Braithwaite, AN Rafferty",
+   "venue": "Thinking & Reasoning 32 (3), 353-388",
+   "year": "2026"
+  },
+  {
+   "title": "Just read the question: Enabling generalization to new assessment items with text awareness",
+   "authors": "A Khan, N Li, T Shen, AN Rafferty",
+   "venue": "arXiv preprint arXiv:2507.08154",
+   "year": "2025"
+  },
+  {
+   "title": "Parameterizing individual differences in fraction and decimal arithmetic",
+   "authors": "DW Braithwaite, AN Rafferty",
+   "venue": "Cognitive Science 49 (5), e70065",
+   "year": "2025"
+  },
+  {
+   "title": "Adaptive experiments under data sparse settings: Applications for educational platforms",
+   "authors": "H Song, I Musabirov, A Bhattacharjee, A Durand, M Franklin, A Rafferty, ...",
+   "venue": "arXiv preprint arXiv:2501.03999",
+   "year": "2025"
+  },
+  {
+   "title": "LENS: Predictive diagnostics for flexible and efficient assessments",
+   "authors": "ST Christie, H Johnson, C Cook, G Gianopulos, AN Rafferty",
+   "venue": "Proceedings of the Tenth ACM Conference on Learning@ Scale, 14-24",
+   "year": "2023"
+  },
+  {
+   "title": "ChemVLab+: Integrating Next Generation Science Standards Practices with Chemistry",
+   "authors": "S McCormick, JL Davenport, AN Rafferty, S Raysor, J Yani, D Yaron",
+   "venue": "Journal of Chemical Education 100 (6), 2116-2131",
+   "year": "2023"
+  },
+  {
+   "title": "Adversarial bandits for drawing generalizable conclusions in non-adversarial experiments: an empirical study",
+   "authors": "Y Zhi-Han, S Zhang, A Rafferty",
+   "venue": "Proceedings of the 15th International Conference on Educational Data Mining, 353",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling the Dunning-Kruger Effect: A Rational Account of Inaccurate Self-Assessment",
+   "authors": "RA Jansen, AN Rafferty, TL Griffiths",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "The Telephone Game: Exploring Inductive Biases In Naturalistic Language Use.",
+   "authors": "SC Meylan, B Goldstein, AN Rafferty, TL Griffiths",
+   "venue": "CogSci",
+   "year": "2014"
+  },
+  {
+   "title": "A Systematic Review of Approaches for Evaluating Students’ Function-Level Code Structure Knowledge with a Catalog of All Discussed Patterns",
+   "authors": "S Nurollahian, N Brown, AN Rafferty, E Wiese",
+   "venue": "ACM Transactions on Computing Education 26 (2), 1-50",
+   "year": "2026"
+  },
+  {
+   "title": "Playing with Matches: Adopting Gale--Shapley for Managing Student Enrollments Beyond CS2",
+   "authors": "AN Rafferty, D Liben-Nowell, DR Musicant, E Farley, A Lyman, A May",
+   "venue": "Proceedings of the 55th ACM Technical Symposium on Computer Science …",
+   "year": "2024"
+  },
+  {
+   "title": "Making CHAPTER 11–Static Lessons Adaptive through Crowdsourcing and Machine Learning",
+   "authors": "JJ Williams, J Kim, E Glassman, A Rafferty, WS Lasecki",
+   "venue": "Design Recommendations for Intelligent Tutoring Systems: Volume 4-Domain …",
+   "year": "2016"
+  },
+  {
+   "title": "Distillation",
+   "authors": "RH Florian, J Olive, C Christianson, J McCary, RH Florian, C Fournelle, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Maximizing the Margin Between Desirable and Undesirable Elements in a Covering Problem",
+   "authors": "S Boileau, A Hong, D Liben-Nowell, A Pattison, AN Rafferty, C Roslansky",
+   "venue": "International Computing and Combinatorics Conference, 107-119",
+   "year": "2026"
+  },
+  {
+   "title": "Likelihood-Based Diagnosis with Generative Models: Confidence-Aware Measurement from Student Writing",
+   "authors": "ST Christie, M Zent, M Hauru, AN Rafferty, S Woodhead",
+   "venue": "International Conference on Artificial Intelligence in Education, 236-244",
+   "year": "2026"
+  },
+  {
+   "title": "Weighted Allocation Probability Thompson Sampling for Response-Adaptive Learnersourcing",
+   "authors": "H Song, I Musabirov, A Bhattacharjee, A Durand, M Franklin, A Rafferty, ...",
+   "venue": "International Conference on Artificial Intelligence in Education, 351-356",
+   "year": "2026"
+  },
+  {
+   "title": "A Statistically Reliable Optimization Framework for Bandit Experiments in Scientific Discovery",
+   "authors": "T Li, T Mandel, G Phillips, A Rafferty, EM Schwartz, D Kong, JJ Williams",
+   "venue": "arXiv preprint arXiv:2603.11267",
+   "year": "2026"
+  },
+  {
+   "title": "Knowledge of Examples Affects Conditional Reasoning About Math",
+   "authors": "DW Braithwaite, A Rafferty",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "HEXED 2024 and L3MNGET 2024 Workshops Joint Proceedings",
+   "authors": "JD Pinto, E Worden, A Botelho, L Cohausz, C Cohn, M Feng, N Heffernan, ...",
+   "venue": "2024 Human-Centric eXplainable AI in Education and the Leveraging Large …",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the International Conference on Educational Data Mining (EDM)(13th, Online, July 10-13, 2020).",
+   "authors": "AN Rafferty, J Whitehill, C Romero, V Cavalli-Sforza",
+   "venue": "International Educational Data Mining Society",
+   "year": "2020"
+  },
+  {
+   "title": "Modeling students’ fraction arithmetic strategies using inverse planning",
+   "authors": "A Rafferty, R Jansen, T Griffiths",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "Eliciting Middle School Students’ Ideas About Graphs Supports Their Learningfrom a",
+   "authors": "ES Wiese, AN Rafferty, MC Linn",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 39 (0)",
+   "year": "2017"
+  },
+  {
+   "title": "Eliciting Middle School Students’ Ideas About Graphs Supports Their Learningfrom a Computer Model",
+   "authors": "ES Wiese, AN Rafferty, MC Linn",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 39",
+   "year": "2017"
+  },
+  {
+   "title": "Tracking Student Understanding of Chemical Reactions in ChemVLab+",
+   "authors": "A Rafferty, J Davenport, D Yaron",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Convergence Bounds for Language Evolution by Iterated Learning",
+   "authors": "T Griffiths, D Klein, A Rafferty",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "AXIS: Scaling Explanation Generation Using Learnersourcing and Machine Learning",
+   "authors": "JJ Williams, J Kim, A Rafferty, N Heffernan, S Maldonado, KZ Gajos, ...",
+   "venue": "< bound method Organization. get_name_with_acronym of< Organization …",
+   "year": null
+  },
+  {
+   "title": "Diagnosing Algebra Understanding via Inverse Planning",
+   "authors": "AN Rafferty, TL Griffiths",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET)| 979-8-3503-2259-0/23/$31.00© 2023 IEEE| DOI: 10 …",
+   "authors": "L Agnez, W Aljedaani, EA AlOmar, SA AlOmar, E Aranha, NN Arony, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Algebra is not like trivia: Self-assessment in an online math tutor",
+   "authors": "RA Jansen, AN Rafferty, TL Griffiths",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Optimally designing games for behavioural",
+   "authors": "AN Rafferty, M Zaharia, TL Griffiths",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Increasing Accuracy While Maintaining Minimal Grammars in CKY Parsing",
+   "authors": "A Rafferty, TK Xue",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

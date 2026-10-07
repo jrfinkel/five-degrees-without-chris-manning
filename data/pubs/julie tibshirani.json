@@ -1,0 +1,137 @@
+{
+ "user": "H-A5KBYAAAAJ",
+ "pubs": [
+  {
+   "title": "Generalized random forests",
+   "authors": "S Athey, J Tibshirani, S Wager",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Multi-instance multi-label learning for relation extraction",
+   "authors": "M Surdeanu, J Tibshirani, R Nallapati, CD Manning",
+   "venue": "Proceedings of the 2012 joint conference on empirical methods in natural …",
+   "year": "2012"
+  },
+  {
+   "title": "grf: Generalized random forests",
+   "authors": "J Tibshirani, S Athey, R Friedberg, V Hadad, D Hirshberg, L Miner, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Local linear forests",
+   "authors": "R Friedberg, J Tibshirani, S Athey, S Wager",
+   "venue": "Journal of Computational and Graphical Statistics 30 (2), 503-517",
+   "year": "2020"
+  },
+  {
+   "title": "Combining Distant and Partial Supervision for Relation Extraction",
+   "authors": "G Angeli, J Tibshirani, J Wu, CD Manning",
+   "venue": "EMNLP, 1556-1567",
+   "year": "2014"
+  },
+  {
+   "title": "A Simple Distant Supervision Approach for the TAC-KBP Slot Filling Task.",
+   "authors": "M Surdeanu, D McClosky, J Tibshirani, J Bauer, AX Chang, VI Spitkovsky, ...",
+   "venue": "TAC",
+   "year": "2010"
+  },
+  {
+   "title": "Robust Logistic Regression using Shift Parameters",
+   "authors": "J Tibshirani, CD Manning",
+   "venue": "Annual Meeting of the Association for Computational Linguistics 52, 124–129",
+   "year": "2014"
+  },
+  {
+   "title": "Data promotion",
+   "authors": "A Chang, J Tibshirani, S Freiberg, T Gordeeva, T Wilson",
+   "venue": "US Patent App. 15/459,843",
+   "year": "2018"
+  },
+  {
+   "title": "Unsupervised sentiment classification of English movie reviews using automatic selection of positive and negative sentiment items",
+   "authors": "J Rothfels, J Tibshirani",
+   "venue": "CS224N-Final Project 43 (2), 52-56",
+   "year": "2010"
+  },
+  {
+   "title": "Stanford’s 2014 slot filling systems",
+   "authors": "G Angeli, S Gupta, M Jose, CD Manning, C Ré, J Tibshirani, JY Wu, S Wu, ...",
+   "venue": "TAC KBP 695",
+   "year": "2014"
+  },
+  {
+   "title": "Techniques for displaying stack graphs",
+   "authors": "JN Tibshirani, RA Beiermeister, DP Cervelli, TJ Slatcher, GDJ Martin, ...",
+   "venue": "US Patent 10,650,558",
+   "year": "2020"
+  },
+  {
+   "title": "Aligning the research and practice of building search applications: Elasticsearch and pyserini",
+   "authors": "J Devins, J Tibshirani, J Lin",
+   "venue": "Proceedings of the Fifteenth ACM International Conference on Web Search and …",
+   "year": "2022"
+  },
+  {
+   "title": "Stanford’s distantly supervised slot filling systems for KBP 2014",
+   "authors": "G Angeli, S Gupta, MJ Premkumar, CD Manning, C Ré, J Tibshirani, ...",
+   "venue": "Text Analysis Conference (TAC) Proceedings",
+   "year": "2014"
+  },
+  {
+   "title": "Stanford's 2013 KBP System.",
+   "authors": "G Angeli, AT Chaganty, AX Chang, K Reschke, J Tibshirani, J Wu, ...",
+   "venue": "TAC",
+   "year": "2013"
+  },
+  {
+   "title": "Framework for developing and deploying applications",
+   "authors": "A Ryan, A Chang, W Bindi, B Lee, J Carrino, J Tibshirani, T Wilson",
+   "venue": "US Patent 10,152,306",
+   "year": "2018"
+  },
+  {
+   "title": "Systems and methods for accessing federated data",
+   "authors": "J Bagdis, J Ossher, J Tibshirani",
+   "venue": "US Patent 10,402,397",
+   "year": "2019"
+  },
+  {
+   "title": "AI-assisted coding with Cody: Lessons from context retrieval and evaluation for code recommendations",
+   "authors": "J Hartman, H Sagtani, J Tibshirani, R Mehrotra",
+   "venue": "Proceedings of the 18th ACM Conference on Recommender Systems, 748-750",
+   "year": "2024"
+  },
+  {
+   "title": "Systems and methods for collaborative data entry and integration",
+   "authors": "T Yousaf, J Martin, J Peterson, J Tibshirani, K Ng, R Brett-Bowen, Y Xing",
+   "venue": "US Patent 11,087,080",
+   "year": "2021"
+  },
+  {
+   "title": "Predicting edit locations on wikipedia using revision history",
+   "authors": "C Colgrove, J Tibshirani, R Wong",
+   "venue": "Journal Staff, 80",
+   "year": "2011"
+  },
+  {
+   "title": "System and methods for object version tracking and read-time/write-time data federation",
+   "authors": "P Wilczynski, A Ryan, A Chang, D CERVELLI, J Tibshirani, T Wilson",
+   "venue": "US Patent App. 19/402,984",
+   "year": "2026"
+  },
+  {
+   "title": "An introduction to grf",
+   "authors": "E Sverdrup, V Hadad, S Athey, J Tibshirani, S Wager",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "System and methods for object version tracking and read-time/write-time data federation",
+   "authors": "P Wilczynski, A Ryan, A Chang, D CERVELLI, J Tibshirani, T Wilson",
+   "venue": "US Patent 11,347,703",
+   "year": "2022"
+  }
+ ]
+}

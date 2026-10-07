@@ -1,0 +1,455 @@
+{
+ "user": "BrT1NW8AAAAJ",
+ "pubs": [
+  {
+   "title": "Universal sentence encoder",
+   "authors": "D Cer, Y Yang, S Kong, N Hua, N Limtiaco, RS John, N Constant, ...",
+   "venue": "arXiv preprint arXiv:1803.11175",
+   "year": "2018"
+  },
+  {
+   "title": "Gemma: Open models based on gemini research and technology",
+   "authors": "G Team, T Mesnard, C Hardin, R Dadashi, S Bhupatiraju, S Pathak, ...",
+   "venue": "arXiv preprint arXiv:2403.08295",
+   "year": "2024"
+  },
+  {
+   "title": "SemEval-2017 Task 1: Semantic Textual Similarity - Multilingual and Crosslingual Focused Evaluation",
+   "authors": "D Cer, M Diab, E Agirre, I Lopez-Gazpio, L Specia",
+   "venue": "11th International Workshop on Semantic Evaluation (SemEval-2017), 14",
+   "year": "2017"
+  },
+  {
+   "title": "Language-agnostic BERT sentence embedding",
+   "authors": "F Feng, Y Yang, D Cer, N Arivazhagan, W Wang",
+   "venue": "Proceedings of the 60th annual meeting of the association for computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Semeval-2016 task 1: Semantic textual similarity, monolingual and cross-lingual evaluation",
+   "authors": "E Agirre, C Banea, D Cer, M Diab, A Gonzalez-Agirre, R Mihalcea, ...",
+   "venue": "Proceedings of the 10th international workshop on semantic evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "SemEval-2015 Task 2: Semantic Textual Similarity, English, Spanish and Pilot on Interpretability",
+   "authors": "E Agirre, C Banea, C Cardie, D Cer, M Diab, A Gonzalez-Agirre, W Guo, ...",
+   "venue": "Proceedings of the 9th International Workshop on Semantic Evaluation …",
+   "year": "2015"
+  },
+  {
+   "title": "Sentence-t5: Scalable sentence encoders from pre-trained text-to-text models",
+   "authors": "J Ni, GH Abrego, N Constant, J Ma, K Hall, D Cer, Y Yang",
+   "venue": "Findings of the association for computational linguistics: ACL 2022, 1864-1874",
+   "year": "2022"
+  },
+  {
+   "title": "Bilingual word embeddings for phrase-based machine translation",
+   "authors": "WY Zou, R Socher, D Cer, CD Manning",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Semeval-2014 task 10: Multilingual semantic textual similarity",
+   "authors": "E Agirre, C Banea, C Cardie, D Cer, M Diab, A Gonzalez-Agirre, W Guo, ...",
+   "venue": "Proceedings of the 8th international workshop on semantic evaluation …",
+   "year": "2014"
+  },
+  {
+   "title": "Multilingual universal sentence encoder for semantic retrieval",
+   "authors": "Y Yang, D Cer, A Ahmad, M Guo, J Law, N Constant, GH Abrego, S Yuan, ...",
+   "venue": "Proceedings of the 58th annual meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Spot: Better frozen model adaptation through soft prompt transfer",
+   "authors": "T Vu, B Lester, N Constant, R Al-Rfou, D Cer",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Gecko: Versatile text embeddings distilled from large language models",
+   "authors": "J Lee, Z Dai, X Ren, B Chen, D Cer, JR Cole, K Hui, M Boratko, ...",
+   "venue": "arXiv preprint arXiv:2403.20327",
+   "year": "2024"
+  },
+  {
+   "title": "Learning semantic textual similarity from conversations",
+   "authors": "Y Yang, S Yuan, D Cer, S Kong, N Constant, P Pilar, H Ge, YH Sung, ...",
+   "venue": "Proceedings of the third workshop on representation learning for NLP, 164-174",
+   "year": "2018"
+  },
+  {
+   "title": "Parsing to stanford dependencies: Trade-offs between speed and accuracy",
+   "authors": "D Cer, MC De Marneffe, D Jurafsky, C Manning",
+   "venue": "Proceedings of the Seventh International Conference on Language Resources …",
+   "year": "2010"
+  },
+  {
+   "title": "Learning to recognize features of valid textual entailments",
+   "authors": "B MacCartney, T Grenager, MC De Marneffe, D Cer, CD Manning",
+   "venue": "Proceedings of the Human Language Technology Conference of the NAACL, Main …",
+   "year": "2006"
+  },
+  {
+   "title": "Learning cross-lingual sentence representations via a multi-task dual-encoder model",
+   "authors": "M Chidambaram, Y Yang, D Cer, S Yuan, Y Sung, B Strope, R Kurzweil",
+   "venue": "Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP …",
+   "year": "2019"
+  },
+  {
+   "title": "Improving multilingual sentence embedding using bi-directional dual encoder with additive margin softmax",
+   "authors": "Y Yang, GH Abrego, S Yuan, M Guo, Q Shen, D Cer, YH Sung, B Strope, ...",
+   "venue": "arXiv preprint arXiv:1902.08564",
+   "year": "2019"
+  },
+  {
+   "title": "Gemini embedding: Generalizable embeddings from gemini",
+   "authors": "J Lee, F Chen, S Dua, D Cer, M Shanbhogue, I Naim, GH Ábrego, Z Li, ...",
+   "venue": "arXiv preprint arXiv:2503.07891",
+   "year": "2025"
+  },
+  {
+   "title": "Effective parallel corpus mining using bilingual sentence embeddings",
+   "authors": "M Guo, Q Shen, Y Yang, H Ge, D Cer, GH Abrego, K Stevens, N Constant, ...",
+   "venue": "Proceedings of the Third Conference on Machine Translation: Research Papers …",
+   "year": "2018"
+  },
+  {
+   "title": "Learning Alignments and Leveraging Natural Logic",
+   "authors": "N Chambers, D Cer, T Grenager, D Hall, C Kiddon, B MacCartney, ...",
+   "venue": "ACL-PASCAL Workshop on Textual Entailment and Paraphrasing, 165-170",
+   "year": "2007"
+  },
+  {
+   "title": "EmbeddingGemma: Powerful and lightweight text representations",
+   "authors": "H Schechter Vera, S Dua, B Zhang, D Salz, R Mullins, ...",
+   "venue": "arXiv e-prints, arXiv: 2509.20354",
+   "year": "2025"
+  },
+  {
+   "title": "Semeval-2015 task 8: Spaceeval",
+   "authors": "J Pustejovsky, P Kordjamshidi, MF Moens, A Levine, S Dworman, ...",
+   "venue": "Proceedings of the 9th International Workshop on Semantic Evaluation …",
+   "year": "2015"
+  },
+  {
+   "title": "Overcoming catastrophic forgetting in zero-shot cross-lingual generation",
+   "authors": "T Vu, A Barua, B Lester, D Cer, M Iyyer, N Constant",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Universal sentence representation learning with conditional masked language model",
+   "authors": "Z Yang, Y Yang, D Cer, J Law, E Darve",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Crisscrossed captions: Extended intramodal and intermodal semantic similarity judgments for MS-COCO",
+   "authors": "Z Parekh, J Baldridge, D Cer, A Waters, Y Yang",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Phrasal: A statistical machine translation toolkit for exploring new model features",
+   "authors": "D Cer, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the NAACL HLT 2010 Demonstration Session, 9-12",
+   "year": "2010"
+  },
+  {
+   "title": "The best lexical metric for phrase-based statistical MT system optimization",
+   "authors": "D Cer, CD Manning, D Jurafsky",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Measuring machine translation quality as semantic equivalence: A metric based on entailment features",
+   "authors": "S Padó, D Cer, M Galley, D Jurafsky, CD Manning",
+   "venue": "Machine Translation 23 (2), 181-193",
+   "year": "2009"
+  },
+  {
+   "title": "ReQA: An evaluation for end-to-end answer retrieval models",
+   "authors": "A Ahmad, N Constant, Y Yang, D Cer",
+   "venue": "Proceedings of the 2nd Workshop on Machine Reading for Question Answering …",
+   "year": "2019"
+  },
+  {
+   "title": "Learning to distinguish valid textual entailments",
+   "authors": "MC De Marneffe, B MacCartney, T Grenager, D Cer, A Rafferty, ...",
+   "venue": "Proceedings of the Second PASCAL Challenges Workshop",
+   "year": "2006"
+  },
+  {
+   "title": "Semeval-2012 task 6: A pilot on semantic textual similarity. in* sem 2012: The first joint conference on lexical and computational semantics–volume 1: Proceedings of the main …",
+   "authors": "E Agirre, D Cer, M Diab, A Gonzalez-Agirre",
+   "venue": "Proceedings of the Sixth International Workshop on Semantic Evaluation …",
+   "year": "2012"
+  },
+  {
+   "title": "Neural mechanisms of binding in the hippocampus and neocortexInsights from computational models",
+   "authors": "DM Cer, CO Randall",
+   "venue": "Handbook of Binding and MemoryPerspectives from Cognitive Neuroscience, 192-220",
+   "year": "2006"
+  },
+  {
+   "title": "Phrasal: A toolkit for new directions in statistical machine translation",
+   "authors": "S Green, D Cer, CD Manning",
+   "venue": "Proceedings of the Ninth Workshop on Statistical Machine Translation, 114-121",
+   "year": "2014"
+  },
+  {
+   "title": "Regularization and search for minimum error rate training",
+   "authors": "D Cer, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Third Workshop on Statistical Machine Translation, 26-34",
+   "year": "2008"
+  },
+  {
+   "title": "Fast and adaptive online training of feature-rich translation models",
+   "authors": "S Green, SI Wang, D Cer, CD Manning",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "MultiReQA: A cross-domain evaluation forRetrieval question answering models",
+   "authors": "M Guo, Y Yang, D Cer, Q Shen, N Constant",
+   "venue": "Proceedings of the Second Workshop on Domain Adaptation for NLP, 94-104",
+   "year": "2021"
+  },
+  {
+   "title": "The detection of emphatic words using acoustic and lexical features",
+   "authors": "JM Brenier, DM Cer, D Jurafsky",
+   "venue": "Proc. Interspeech 2005, 3297-3300",
+   "year": "2005"
+  },
+  {
+   "title": "Language-agnostic BERT sentence embedding. arXiv 2020",
+   "authors": "F Feng, Y Yang, D Cer, N Arivazhagan, W Wang",
+   "venue": "arXiv preprint arXiv:2007.01852",
+   "year": "2007"
+  },
+  {
+   "title": "Aligning semantic graphs for textual inference and machine reading",
+   "authors": "MC De Marneffe, T Grenager, B MacCartney, D Cer, D Ramage, C Kiddon, ...",
+   "venue": "Association for the Advancement of Artificial Intelligence (AAAI) Spring …",
+   "year": "2007"
+  },
+  {
+   "title": "Leveraging LLMs for synthesizing training data across many languages in multilingual dense retrieval",
+   "authors": "N Thakur, J Ni, GH Ábrego, J Wieting, J Lin, D Cer",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Neural retrieval for question answering with cross-attention supervised data augmentation",
+   "authors": "Y Yang, N Jin, K Lin, M Guo, D Cer",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "A simple and effective method to eliminate the self language bias in multilingual representations",
+   "authors": "Z Yang, Y Yang, D Cer, E Darve",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the 10th international workshop on semantic evaluation (SemEval-2016)",
+   "authors": "S Bethard, M Carpuat, D Cer, D Jurgens, P Nakov, T Zesch",
+   "venue": "Proceedings of the 10th International Workshop on Semantic Evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "Hierarchical document encoder for parallel corpus mining",
+   "authors": "M Guo, Y Yang, K Stevens, D Cer, H Ge, Y Sung, B Strope, R Kurzweil",
+   "venue": "Proceedings of the Fourth Conference on Machine Translation (Volume 1 …",
+   "year": "2019"
+  },
+  {
+   "title": "An empirical comparison of features and tuning for phrase-based machine translation",
+   "authors": "S Green, D Cer, CD Manning",
+   "venue": "Proceedings of the Ninth Workshop on Statistical Machine Translation, 466-476",
+   "year": "2014"
+  },
+  {
+   "title": "Issues in recognition of Spanish-accented spontaneous English",
+   "authors": "A Ikeno, B Pellom, D Cer, A Thornton, JM Brenier, D Jurafsky, W Ward, ...",
+   "venue": "ISCA & IEEE Workshop on Spontaneous Speech Processing and Recognition",
+   "year": "2003"
+  },
+  {
+   "title": "KULeuven-LIIR at SemEval-2017 task 12: Cross-domain temporal information extraction from clinical records",
+   "authors": "A Leeuwenberg, MF Moens",
+   "venue": "Proceedings of the 11th International Workshop on Semantic Evaluation …",
+   "year": "2017"
+  },
+  {
+   "title": "Crisp: Clustering multi-vector representations for denoising and pruning",
+   "authors": "J Veneroso, R Jayaram, J Rao, GH Ábrego, M Hadian, D Cer",
+   "venue": "arXiv preprint arXiv:2505.11471",
+   "year": "2025"
+  },
+  {
+   "title": "Knowledge prompts: Injecting world knowledge into language models through soft prompts",
+   "authors": "CN Santos, Z Dong, D Cer, J Nham, S Shakeri, J Ni, Y Sung",
+   "venue": "arXiv preprint arXiv:2210.04726",
+   "year": "2022"
+  },
+  {
+   "title": "Nt5?! training t5 to perform numerical reasoning",
+   "authors": "PJ Yang, YT Chen, Y Chen, D Cer",
+   "venue": "arXiv preprint arXiv:2104.07307",
+   "year": "2021"
+  },
+  {
+   "title": "Universal Language Segment Representations Learning with Conditional Masked Language Model",
+   "authors": "Y Yang, Z Yang, DM Cer",
+   "venue": "US Patent App. 17/127,734",
+   "year": "2022"
+  },
+  {
+   "title": "Transforming LLMs into cross-modal and cross-lingual retrieval systems",
+   "authors": "FP Gomez, R Sanabria, Y Sung, D Cer, S Dalmia, GH Abrego",
+   "venue": "Proceedings of the 21st International Conference on Spoken Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Positive diversity tuning for machine translation system combination",
+   "authors": "D Cer, CD Manning, D Jurafsky",
+   "venue": "Proceedings of the Eighth Workshop on Statistical Machine Translation, 320-328",
+   "year": "2013"
+  },
+  {
+   "title": "Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini",
+   "authors": "M Shanbhogue, Z Li, S Zhang, GH Ábrego, SC Huang, A Jain, D Salz, ...",
+   "venue": "arXiv preprint arXiv:2605.27295",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the 9th international workshop on semantic evaluation (SemEval 2015)",
+   "authors": "P Nakov, T Zesch, D Cer, D Jurgens",
+   "venue": "Proceedings of the 9th International Workshop on Semantic Evaluation …",
+   "year": "2015"
+  },
+  {
+   "title": "SeqGenSQL--A robust sequence generation model for structured query language",
+   "authors": "N Li, B Keller, M Butler, D Cer",
+   "venue": "arXiv preprint arXiv:2011.03836",
+   "year": "2020"
+  },
+  {
+   "title": "Feature-rich phrase-based translation: Stanford University’s submission to the WMT 2013 translation task",
+   "authors": "S Green, D Cer, K Reschke, R Voigt, J Bauer, SI Wang, N Silveira, ...",
+   "venue": "Proceedings of the eighth workshop on statistical machine translation, 148-153",
+   "year": "2013"
+  },
+  {
+   "title": "Soft knowledge prompts for language models",
+   "authors": "S Shakeri, CN dos Santos, DM Cer, Z Dong, J Ni, Y Sung, J Nham",
+   "venue": "US Patent 12,321,706",
+   "year": "2025"
+  },
+  {
+   "title": "Ateb: Evaluating and improving advanced nlp tasks for text embedding models",
+   "authors": "S Han, FP Gomez, T Vu, Z Li, D Cer, H Zeng, C Tar, A Cohan, GH Abrego",
+   "venue": "arXiv preprint arXiv:2502.16766",
+   "year": "2025"
+  },
+  {
+   "title": "Stanford: probabilistic edit distance metrics for STS",
+   "authors": "M Wang, D Cer",
+   "venue": "* SEM 2012: The First Joint Conference on Lexical and Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Effectiveness of Neural Network Learning Rules Generated by a Biophysical Model of Synaptic Plasticity",
+   "authors": "D Jilk, D Cer, RC O'Reilly",
+   "venue": "Science Direct Working Paper No S1574-034X (04)",
+   "year": "2003"
+  },
+  {
+   "title": "NIST open machine translation 2008 evaluation: Stanford university’s system description",
+   "authors": "M Galley, P Chang, D Cer, JR Finkel, CD Manning",
+   "venue": "Unpublished working notes of the 2008 NIST Open Machine Translation …",
+   "year": "2008"
+  },
+  {
+   "title": "Systems and Methods for Generating Instruction Fine-tuning Dataset for a General Purpose Embedding Model",
+   "authors": "JH Lee, Z Dai, X Ren, I Naim, Y Luan, BY Chen, SR Jonnalagadda, ...",
+   "venue": "US Patent App. 18/788,178",
+   "year": "2025"
+  },
+  {
+   "title": "Stanford University’s Arabic-to-English Statistical Machine Translation System for the 2009 NIST MT Open Evaluation",
+   "authors": "M Galley, DC Spence Green, PC Chang, CD Manning",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Parameterizing Phrase Based Statistical Machine Translation Models: An Analytic Study",
+   "authors": "D Cer",
+   "venue": "University of Colorado at Boulder",
+   "year": "2011"
+  },
+  {
+   "title": "Knowledge prompts: Injecting world knowledge into language models through soft prompts",
+   "authors": "C Nogueira dos Santos, Z Dong, D Cer, J Nham, S Shakeri, J Ni, Y Sung",
+   "venue": "arXiv e-prints, arXiv: 2210.04726",
+   "year": "2022"
+  },
+  {
+   "title": "Issues in Recognition of Spanish-Accented Spontaneous English",
+   "authors": "A Ikeno, B Pellom, D Cer, A Thornton, JM Brenier, D Jurafsky, W Ward, ...",
+   "venue": "Wall Street Journal 5 (4.2), 31.0",
+   "year": "1992"
+  },
+  {
+   "title": "Frozen model adaptation through soft prompt transfer",
+   "authors": "TT Vu, DM Cer, N Constant, BD Lester, R Al-Rfou",
+   "venue": "US Patent 12,619,886",
+   "year": "2026"
+  },
+  {
+   "title": "Large language model informed risk assessment",
+   "authors": "DM Cer, JH Lee, X Ren, W Ding, BY Chen",
+   "venue": "US Patent App. 18/800,438",
+   "year": "2026"
+  },
+  {
+   "title": "11th International Workshop on Semantic Evaluation (SemEval-2017): Proceedings of the Workshop",
+   "authors": "S Bethard, M Carpuat, M Apidianaki, SM Mohammad, D Cer, D Jurgens",
+   "venue": "International Workshop on Semantic Evaluations",
+   "year": "2017"
+  },
+  {
+   "title": "SemEval-2015 Task 2: Semantic Textual Similarity, English, Spanish and Pilot on Interpretability",
+   "authors": "E Agirre Bengoa, C Banea, C Cardie, D Cer, M Diab, A González Agirre, ...",
+   "venue": "9th International Workshop on Semantic Evaluation (SemEval 2015). Proceedings",
+   "year": "2015"
+  },
+  {
+   "title": "CRISP: Clustering Multi-Vector Representations for Denoising and Pruning",
+   "authors": "JM de Freitas Veneroso, R Jayaram, J Rao, GH Abrego, M Hadian, D Cer",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ATEB: Rethinking Advanced NLP Tasks in an Information Retrieval Setting",
+   "authors": "S Han, FP Gomez, T Vu, Z Li, D Cer, H Zeng, C Tar, A Cohan, GH Abrego",
+   "venue": "Knowledgeable Foundation Models at ACL 2025",
+   "year": null
+  },
+  {
+   "title": "SemEval 2017 Task 1: Semantic Textual Similarity (STS) [Call for Participation]",
+   "authors": "E Agirre, D Cer, M Diab, L Specia",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Bilingual Embeddings for Phrase-‐Based Machine Translation [EMNLP paper slides]",
+   "authors": "WY Zou, R Socher, D Cer, CD Manning",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

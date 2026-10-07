@@ -1,0 +1,407 @@
+{
+ "user": "6GpZV0YAAAAJ",
+ "pubs": [
+  {
+   "title": "Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora",
+   "authors": "D Ramage, D Hall, R Nallapati, CD Manning",
+   "venue": "Proceedings of the 2009 conference on empirical methods in natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Studying the history of ideas using topic models",
+   "authors": "D Hall, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Demonstrate-search-predict: Composing retrieval and language models for knowledge-intensive nlp",
+   "authors": "O Khattab, K Santhanam, XL Li, D Hall, P Liang, C Potts, M Zaharia",
+   "venue": "arXiv preprint arXiv:2212.14024",
+   "year": "2022"
+  },
+  {
+   "title": "Sophia: A scalable stochastic second-order optimizer for language model pre-training",
+   "authors": "H Liu, Z Li, D Hall, P Liang, T Ma",
+   "venue": "International conference on learning representations 2024, 1621-1650",
+   "year": "2024"
+  },
+  {
+   "title": "Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis",
+   "authors": "W Chang, C Cathcart, D Hall, A Garrett",
+   "venue": "Language 91 (1), 194-244",
+   "year": "2015"
+  },
+  {
+   "title": "Biomedlm: A 2.7 b parameter language model trained on biomedical text",
+   "authors": "E Bolton, A Venigalla, M Yasunaga, D Hall, B Xiong, T Lee, R Daneshjou, ...",
+   "venue": "arXiv preprint arXiv:2403.18421",
+   "year": "2024"
+  },
+  {
+   "title": "Automated reconstruction of ancient languages using probabilistic models of sound change",
+   "authors": "A Bouchard-Côté, D Hall, TL Griffiths, D Klein",
+   "venue": "Proceedings of the National Academy of Sciences 110 (11), 4224-4229",
+   "year": "2013"
+  },
+  {
+   "title": "Task-oriented dialogue as dataflow synthesis",
+   "authors": "J Andreas, J Bufe, D Burkett, C Chen, J Clausman, J Crawford, K Crim, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 8, 556-571",
+   "year": "2020"
+  },
+  {
+   "title": "Learning alignments and leveraging natural logic",
+   "authors": "N Chambers, D Cer, T Grenager, D Hall, C Kiddon, B MacCartney, ...",
+   "venue": "Proceedings of the ACL-PASCAL workshop on textual entailment and …",
+   "year": "2007"
+  },
+  {
+   "title": "Parser Showdown at the Wall Street Corral: An Empirical Investigation of Error Types in Parser Output",
+   "authors": "JK Kummerfeld, D Hall, JR Curran, D Klein",
+   "venue": "Empirical Methods in Natural Language Processing",
+   "year": "2012"
+  },
+  {
+   "title": "Understanding warmup-stable-decay learning rates: A river valley loss landscape perspective",
+   "authors": "K Wen, Z Li, J Wang, D Hall, P Liang, T Ma",
+   "venue": "arXiv preprint arXiv:2410.05192",
+   "year": "2024"
+  },
+  {
+   "title": "Fantastic pretraining optimizers and where to find them",
+   "authors": "K Wen, D Hall, T Ma, P Liang",
+   "venue": "International Conference on Learning Representations 2026, 144731-144838",
+   "year": "2026"
+  },
+  {
+   "title": "Anticipatory music transformer",
+   "authors": "J Thickstun, D Hall, C Donahue, P Liang",
+   "venue": "arXiv preprint arXiv:2306.08620",
+   "year": "2023"
+  },
+  {
+   "title": "Less grammar, more features",
+   "authors": "D Hall, G Durrett, D Klein",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Training natural language system with generated dialogues",
+   "authors": "JDE Rusak, DLW Hall, DL Klein, PS Liang",
+   "venue": "US Patent 11,145,291",
+   "year": "2021"
+  },
+  {
+   "title": "Finding cognate groups using phylogenies",
+   "authors": "D Hall, D Klein",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Decentralized entity-level modeling for coreference resolution",
+   "authors": "G Durrett, D Hall, D Klein",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Rapid deployment of dialogue system",
+   "authors": "JDE Rusak, DLW Hall, JA Wolfe, DL Roth, D Klein, JR Cohen",
+   "venue": "US Patent 10,762,892",
+   "year": "2020"
+  },
+  {
+   "title": "Interaction assistant",
+   "authors": "J Andreas, TD Being-Kirkpatrick, P Chen, JR Cohen, LS Gillsick, ...",
+   "venue": "US Patent App. 15/348,228",
+   "year": "2017"
+  },
+  {
+   "title": "Robust expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JDE Rusak, D Klein",
+   "venue": "US Patent 11,132,499",
+   "year": "2021"
+  },
+  {
+   "title": "Using paraphrase in accepting utterances in an automated assistant",
+   "authors": "JD Andreas, DEH Burkett, P Chen, JR Cohen, GC Durrett, LS Gillick, ...",
+   "venue": "US Patent App. 15/669,795",
+   "year": "2018"
+  },
+  {
+   "title": "A multi-teraflop constituency parser using GPUs",
+   "authors": "J Canny, D Hall, D Klein",
+   "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Sequence to sequence transformations for speech synthesis via recurrent neural networks",
+   "authors": "DLW Hall, D Klein, D Roth, L Gillick, A Maas, S Wegmann",
+   "venue": "US Patent App. 15/792,236",
+   "year": "2018"
+  },
+  {
+   "title": "Sparser, better, faster GPU parsing",
+   "authors": "D Hall, T Berg-Kirkpatrick, D Klein",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Ambiguity resolution with dialogue search history",
+   "authors": "DLW Hall, DEH Burkett, JDE Rusak, JS KRISHNAMURTHY, JA Wolfe, ...",
+   "venue": "US Patent 11,195,523",
+   "year": "2021"
+  },
+  {
+   "title": "Large-scale cognate recovery",
+   "authors": "D Hall, D Klein",
+   "venue": "Proceedings of the 2011 Conference on Empirical Methods in Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Data collection for a new conversational dialogue system",
+   "authors": "PS Liang, D Klein, LS Gillick, JR Cohen, LK Arsenault, JJ Clausman, ...",
+   "venue": "US Patent 10,824,798",
+   "year": "2020"
+  },
+  {
+   "title": "Faster optimal planning with partial-order pruning",
+   "authors": "D Hall, A Cohen, D Burkett, D Klein",
+   "venue": "Proceedings of the International Conference on Automated Planning and …",
+   "year": "2013"
+  },
+  {
+   "title": "Inference on date time constraint expressions",
+   "authors": "JR Cohen, DLW Hall, JA Wolfe, DL Roth, D Klein",
+   "venue": "US Patent 10,861,455",
+   "year": "2020"
+  },
+  {
+   "title": "Generating dialogue events for natural language system",
+   "authors": "JD Andreas, DL Klein, DLW Hall, LS Gillick, P Chen",
+   "venue": "US Patent 11,133,001",
+   "year": "2021"
+  },
+  {
+   "title": "Automatic spoken dialogue script discovery",
+   "authors": "P Chen, JR Cohen, LS Gillick, DLW Hall, D Klein, AD Pauls, DL Roth, ...",
+   "venue": "US Patent 10,402,488",
+   "year": "2019"
+  },
+  {
+   "title": "Automated assistant data flow",
+   "authors": "J Cohen, D Klein, DLW Hall, J Wolfe, D Roth",
+   "venue": "US Patent App. 15/958,952",
+   "year": "2018"
+  },
+  {
+   "title": "Expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JJ Clausman",
+   "venue": "US Patent 10,586,530",
+   "year": "2020"
+  },
+  {
+   "title": "Training Factored PCFGs with Expectation Propagation",
+   "authors": "D Hall, D Klein",
+   "venue": "Empirical Methods in Natural Language Processing",
+   "year": "2012"
+  },
+  {
+   "title": "Automatic turn delineation in multi-turn dialogue",
+   "authors": "CC Wooters, SA Wegmann, MJ Newman, DLW Hall, J Crawford, ...",
+   "venue": "US Patent 11,289,085",
+   "year": "2022"
+  },
+  {
+   "title": "Robust expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JDE Rusak, D Klein",
+   "venue": "US Patent App. 17/448,289",
+   "year": "2022"
+  },
+  {
+   "title": "Expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JJ Clausman",
+   "venue": "US Patent 11,195,516",
+   "year": "2021"
+  },
+  {
+   "title": "Developer platform for providing automated assistant in new domains",
+   "authors": "DLW Hall, D Klein, DEH Burkett, JR Cohen, DL Roth",
+   "venue": "US Patent 10,957,314",
+   "year": "2021"
+  },
+  {
+   "title": "Natural language content generator",
+   "authors": "JD Andreas, DLW Hall, D Klein, AD Pauls",
+   "venue": "US Patent 10,713,288",
+   "year": "2020"
+  },
+  {
+   "title": "Iteratively updating parameters for dialog states",
+   "authors": "JD Andreas, DL Roth, JDE Rusak, AR Volpe, SA Wegmann, ...",
+   "venue": "US Patent 10,319,381",
+   "year": "2019"
+  },
+  {
+   "title": "Relative scaling laws for llms",
+   "authors": "W Held, D Hall, P Liang, D Yang",
+   "venue": "arXiv preprint arXiv:2510.24626",
+   "year": "2025"
+  },
+  {
+   "title": "Error recovery for conversational systems",
+   "authors": "DLW Hall, DEH Burkett, JDE Rusak, AJ Kolmykov-Zotov, JA Wolfe, ...",
+   "venue": "US Patent 11,106,536",
+   "year": "2021"
+  },
+  {
+   "title": "Flexible and expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JJ Clausman",
+   "venue": "US Patent 11,069,340",
+   "year": "2021"
+  },
+  {
+   "title": "Beyond a single extractor: Re-thinking html-to-text extraction for llm pre-training",
+   "authors": "J Li, JP Gardner, D Kang, F Shi, K Singh, CL Li, H Shandilya, DLW Hall, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2026, 5836-5861",
+   "year": "2026"
+  },
+  {
+   "title": "Detection mechanism for automated dialog systems",
+   "authors": "DLW Hall, D Klein",
+   "venue": "US Patent 10,643,601",
+   "year": "2020"
+  },
+  {
+   "title": "Latent-segmentation intonation model",
+   "authors": "TD Berg-Kirkpatrick, WHD Chang, DLW Hall, D Klein",
+   "venue": "US Patent App. 15/428,828",
+   "year": "2017"
+  },
+  {
+   "title": "Optimal graph search with iterated graph cuts",
+   "authors": "D Burkett, D Hall, D Klein",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 25 (1), 12-17",
+   "year": "2011"
+  },
+  {
+   "title": "Tracking the Evolution of Science",
+   "authors": "DLW Hall",
+   "venue": "BSc Honors Thesis, Stanford University",
+   "year": "2008"
+  },
+  {
+   "title": "Studying the history of ideas using topic models",
+   "authors": "CD Manning, D Hall, D Jurafsky",
+   "venue": "Proc. Conf. Empirical Methods in Natural Language Processing 363, 371",
+   "year": "2008"
+  },
+  {
+   "title": "Breeze",
+   "authors": "M ALL, A US, BIG SMALL YARD, F LOVE",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Probabilistically modeling semantic change",
+   "authors": "A Nisnevich, D Hall, D Klein",
+   "venue": "URL: http://www. eecs. berkeley. edu/Pubs/TechRpts/2015/EECS-2015-36. html",
+   "year": "2015"
+  },
+  {
+   "title": "Automated assistant for user interaction via speech",
+   "authors": "JD Andreas, TD Berg-Kirkpatrick, P Chen, JR Cohen, LS Gillick, DLW Hall, ...",
+   "venue": "US Patent 10,276,160",
+   "year": "2019"
+  },
+  {
+   "title": "Will Held",
+   "authors": "D Hall, A Ahmed, C Chou, A Garg, R Kuditipudi",
+   "venue": "Nikil Ravi, Herumb Shandilya, Jason Wang, Jason Bolton, Siddharth Karamcheti …",
+   "year": "2025"
+  },
+  {
+   "title": "Inference on date time constraint expressions",
+   "authors": "JR Cohen, DLW Hall, JA Wolfe, DL Roth, D Klein",
+   "venue": "US Patent App. 17/247,130",
+   "year": "2021"
+  },
+  {
+   "title": "Training conversational computing interfaces with traced programs",
+   "authors": "DLW Hall",
+   "venue": "US Patent 12,112,276",
+   "year": "2024"
+  },
+  {
+   "title": "Expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JJ Clausman",
+   "venue": "US Patent 11,842,724",
+   "year": "2023"
+  },
+  {
+   "title": "Leveraging dialogue history in updated dialogue",
+   "authors": "DLW Hall, P Chen, JA Wolfe, JS KRISHNAMURTHY",
+   "venue": "US Patent 11,763,804",
+   "year": "2023"
+  },
+  {
+   "title": "Updating constraints for computerized assistant actions",
+   "authors": "Y Zhang, JA Wolfe, AD Pauls, DLW Hall",
+   "venue": "US Patent App. 17/906,322",
+   "year": "2023"
+  },
+  {
+   "title": "Converting nonnative skills for conversational computing interfaces",
+   "authors": "DLW Hall",
+   "venue": "US Patent 11,526,780",
+   "year": "2022"
+  },
+  {
+   "title": "Automatic spoken dialogue script discovery",
+   "authors": "P Chen, JR Cohen, LS Gillick, DLW Hall, D Klein, AD Pauls, DL Roth, ...",
+   "venue": "US Patent 11,188,297",
+   "year": "2021"
+  },
+  {
+   "title": "Developer platform for providing automated assistant in new domains",
+   "authors": "DLW Hall, D Klein, DEH Burkett, JR Cohen, DL Roth",
+   "venue": "US Patent App. 17/183,156",
+   "year": "2021"
+  },
+  {
+   "title": "Attentive assistant",
+   "authors": "JR Cohen, DL Roth, DLW Hall, JDE Rusak, AR Volpe, SD True, ...",
+   "venue": "US Patent App. 15/298,475",
+   "year": "2017"
+  },
+  {
+   "title": "Refinements in syntactic parsing",
+   "authors": "DLW Hall",
+   "venue": "University of California, Berkeley",
+   "year": "2015"
+  },
+  {
+   "title": "Studying the history of ideas using topic models",
+   "authors": "D Jurafsky, CD Manning, D Hall",
+   "venue": "Proceedings of the Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Curating High Quality Pretraining Data for Language Models via Compression Ratios",
+   "authors": "E Obbad, B Miranda, DLW Hall, R Schaeffer, S Koyejo, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Topic Correlations over Time",
+   "authors": "D Haley, D Hall, M Rodgers",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ANCESTRY-CONSTRAINED PHYLOGENETIC ANALYSIS SUPPORTS THE INDO-EUROPEAN STEPPE HYPOTHESIS WILL CHANG CHUNDRA CATHCART",
+   "authors": "D HALL, A GARRETT",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

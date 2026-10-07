@@ -1,0 +1,257 @@
+{
+ "user": "SYzxONcAAAAJ",
+ "pubs": [
+  {
+   "title": "Stanford’s multi-pass sieve coreference resolution system at the conll-2011 shared task",
+   "authors": "H Lee, Y Peirsman, A Chang, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Proceedings of the fifteenth conference on computational natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Deterministic coreference resolution based on entity-centric, precision-ranked rules",
+   "authors": "H Lee, A Chang, Y Peirsman, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Computational linguistics 39 (4), 885-916",
+   "year": "2013"
+  },
+  {
+   "title": "Metonymy as a prototypical category",
+   "authors": "Y Peirsman, D Geeraerts",
+   "venue": "Cognitive linguistics 17 (3), 269-316",
+   "year": "2006"
+  },
+  {
+   "title": "Advances in cognitive sociolinguistics",
+   "authors": "D Geeraerts, G Kristiansen, Y Peirsman",
+   "venue": "Walter de Gruyter",
+   "year": "2010"
+  },
+  {
+   "title": "Modelling word similarity: an evaluation of automatic synonymy extraction algorithms",
+   "authors": "K Heylen, Y Peirsman, D Geeraerts, D Speelman, N Calzolari, K Choukri, ...",
+   "venue": "Proceedings of the sixth international language resources and evaluation …",
+   "year": "2008"
+  },
+  {
+   "title": "The automatic identification of lexical variation between language varieties",
+   "authors": "Y Peirsman, D Geeraerts, D Speelman",
+   "venue": "Natural Language Engineering 16 (4), 469-491",
+   "year": "2010"
+  },
+  {
+   "title": "Zones, facets, and prototype-based metonymy",
+   "authors": "D Geeraerts, Y Peirsman",
+   "venue": "Defining Metonymy in Cognitive Linguistics. Towards a Consensus View …",
+   "year": "2011"
+  },
+  {
+   "title": "Size matters: tight and loose context definitions in English word space models",
+   "authors": "Y Peirsman, K Heylen, D Geeraerts, M Baroni, S Evert, A Lenci",
+   "venue": "Proceedings of the ESSLLI workshop on distributional lexical semantics, 34-41",
+   "year": "2008"
+  },
+  {
+   "title": "Finding semantically related words in Dutch: co-occurrences versus syntactic contexts",
+   "authors": "Y Peirsman, K Heylen, D Speelman, M Baroni, A Lenci, M Sahlgren",
+   "venue": "Proceedings of the CoSMO workshop, Roskilde, Denmark, 9-16",
+   "year": "2007"
+  },
+  {
+   "title": "Cross-lingual induction of selectional preferences with bilingual vector spaces",
+   "authors": "Y Peirsman, S Padó",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Applying word space models to sociolinguistics. Religion names before and after 9/11",
+   "authors": "Y Peirsman, K Heylen, D Geeraerts",
+   "venue": "Advances in Cognitive Sociolinguistics, Cognitive Linguistics Research [CLR …",
+   "year": "2010"
+  },
+  {
+   "title": "Don't let metonymy be misunderstood: An answer to Croft",
+   "authors": "Y Peirsman, D Geeraerts",
+   "venue": "Cognitive Linguistics 17 (3), 327-335",
+   "year": "2006"
+  },
+  {
+   "title": "Predicting strong associations on the basis of corpus data",
+   "authors": "Y Peirsman, D Geeraerts",
+   "venue": "Proceedings of the 12th Conference of the European Chapter of the ACL (EACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Semantic weighting mechanisms in scalable lexical sociolectometry",
+   "authors": "T Ruette, D Geeraerts, Y Peirsman, D Speelman",
+   "venue": "Aggregating dialectology, typology, and register. Analysis linguistic …",
+   "year": "2014"
+  },
+  {
+   "title": "Sources of semantic similarity",
+   "authors": "S De Deyne, Y Peirsman, G Storms",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "Putting things in order. First and second order context models for the calculation of semantic similarity",
+   "authors": "Y Peirsman, K Heylen, D Speelman",
+   "venue": "Proceedings of the 9th Journées internationales d’Analyse statistique des …",
+   "year": "2008"
+  },
+  {
+   "title": "Word space models of semantic similarity and relatedness",
+   "authors": "Y Peirsman",
+   "venue": "Proceedings of the 13th ESSLLI student session, 143-152",
+   "year": "2008"
+  },
+  {
+   "title": "Semantic relations in bilingual lexicons",
+   "authors": "SP Yves Peirsman",
+   "venue": "ACM Transactions on Speech and Language Processing 8 (2), 1-19",
+   "year": "2011"
+  },
+  {
+   "title": "The corpus-based identification of cross-lectal synonyms in pluricentric languages",
+   "authors": "Y Peirsman, D Geeraerts, D Speelman",
+   "venue": "International Journal of Corpus Linguistics 20 (1), 54-80",
+   "year": "2015"
+  },
+  {
+   "title": "Example-based metonymy recognition for proper nouns",
+   "authors": "Y Peirsman",
+   "venue": "Student Research Workshop, 71-78",
+   "year": "2006"
+  },
+  {
+   "title": "Automatic synonymy extraction: A comparison of syntactic context models",
+   "authors": "K Heylen, Y Peirsman, D Geeraerts",
+   "venue": "LOT, Netherlands Graduate School of Linguistics",
+   "year": "2008"
+  },
+  {
+   "title": "Crossing Corpora. Modelling Semantic Similarity across Languages and Lects",
+   "authors": "Y Peirsman",
+   "venue": "Unpublished doctoral dissertation, KU Leuven",
+   "year": "2010"
+  },
+  {
+   "title": "The construction and evaluation of word space models",
+   "authors": "Y Peirsman, S De Deyne, K Heylen, D Geeraerts",
+   "venue": "Proceedings of the Language Resources and Evaluation Conference (LREC), 3082 …",
+   "year": "2008"
+  },
+  {
+   "title": "Word space models of lexical variation",
+   "authors": "Y Peirsman, D Speelman",
+   "venue": "Proceedings of the Workshop on Geometrical Models of Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "What's in a name? Computational approaches to metonymical location names",
+   "authors": "Y Peirsman",
+   "venue": "Proceedings of the Workshop on Making Sense of Sense: Bringing …",
+   "year": "2006"
+  },
+  {
+   "title": "Quantitative approaches to metonymy",
+   "authors": "Y Peirsman",
+   "venue": "Quantitative investigations in theoretical linguistics. Osnabrück, Germany",
+   "year": "2006"
+  },
+  {
+   "title": "Cognitive Sociolinguistics",
+   "authors": "D Geeraerts, G Kristiansen, Y Peirsman",
+   "venue": "Journal of Pragmatics",
+   "year": "2012"
+  },
+  {
+   "title": "What’s in a name? The automatic recognition of metonymical location names",
+   "authors": "Y Peirsman",
+   "venue": "Proceedings of the EACL-2006 Workshop on Making Sense of Sense: Bringing …",
+   "year": "2006"
+  },
+  {
+   "title": "Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics",
+   "authors": "S Padó, Y Peirsman",
+   "venue": "Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural …",
+   "year": "2011"
+  },
+  {
+   "title": "Attacking two issues in lexicon-based sociolectometric studies: biased variable sampling and individual pattern loss",
+   "authors": "T Ruette, Y Peirsman, D Speelman",
+   "venue": "International Conference on Language Variation in Europe, Date: 2011/06/29 …",
+   "year": "2011"
+  },
+  {
+   "title": "Panther, Klaus-Uwe, Linda L. Thornburg and Antonio Barcelona (Eds.). Metonymy and Metaphor in Grammar",
+   "authors": "Y Peirsman",
+   "venue": "Review of Cognitive Linguistics. Published under the auspices of the Spanish …",
+   "year": "2011"
+  },
+  {
+   "title": "Generating a large set of lexical variables for a comprensive study of language varieties in Dutch",
+   "authors": "T Ruette, Y Peirsman, D Speelman, D Geeraerts",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Unsupervised approaches to metonymy recognition",
+   "authors": "Y Peirsman",
+   "venue": "Actes de la 13ème conférence sur le Traitement Automatique des Langues …",
+   "year": "2006"
+  },
+  {
+   "title": "Whats in a Name? The Automatic Recognition of Metonymical Location Names",
+   "authors": "Y Peirsman",
+   "venue": "Proceedings of the Workshop on Making Sense of Sense: Bringing …",
+   "year": "2006"
+  },
+  {
+   "title": "Knowledge-lean approaches to metonymy",
+   "authors": "Y Peirsman",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "UNIVERSIT YO FEDINBURG H Master of Science in Speech and Language Processing",
+   "authors": "Y Peirsman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "List of contributors vii Introduction. Advances in Cognitive Sociolinguistics",
+   "authors": "D Geeraerts, G Kristiamen, Y Peirsman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Modelling Word Similarity",
+   "authors": "K Heylen, Y Peirsman, D Geeraerts, D Speelman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Distributional Semantics beyond Concrete Concepts",
+   "authors": "Y Peirsman, Y Versley, T Van de Cruys",
+   "venue": "dyslexia 32, 111-114",
+   "year": null
+  },
+  {
+   "title": "The sem· metrix Project: Towards the Large-Scale Measurement of Lexical Variation",
+   "authors": "Y Peirsman, K Heylen",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "There and back again. Re-introducing distributional semantics into linguistics.",
+   "authors": "Y Peirsman",
+   "venue": "Computational Linguistics 33 (2), 161-199",
+   "year": null
+  },
+  {
+   "title": "Statistical Approaches to Metonymy Disambiguation",
+   "authors": "Y Peirsman",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

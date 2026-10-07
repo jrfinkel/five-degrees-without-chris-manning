@@ -1,0 +1,3215 @@
+{
+ "user": "WMBXw1EAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Emergent abilities of large language models",
+   "authors": "J Wei",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Bloom: A 176b-parameter open-access multilingual language model",
+   "authors": "T Le Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow, R Castagné, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Artificial intelligence index report 2025",
+   "authors": "N Maslej, L Fattorini, R Perrault, Y Gil, V Parli, N Kariuki, E Capstick, ...",
+   "venue": "arXiv preprint arXiv:2504.07139",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Picking on the same person: Does algorithmic monoculture lead to outcome homogenization?",
+   "authors": "R Bommasani, KA Creel, A Kumar, D Jurafsky, PS Liang",
+   "venue": "Advances in neural information processing systems 35, 3663-3678",
+   "year": "2022"
+  },
+  {
+   "title": "Interpreting pretrained contextualized representations via reductions to static embeddings",
+   "authors": "R Bommasani, K Davis, C Cardie",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "The foundation model transparency index",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong, ...",
+   "venue": "arXiv preprint arXiv:2310.12941",
+   "year": "2023"
+  },
+  {
+   "title": "Evaluating human-language model interaction",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arXiv:2212.09746",
+   "year": "2022"
+  },
+  {
+   "title": "International ai safety report 2026",
+   "authors": "Y Bengio, S Clare, C Prunkl, M Andriushchenko, B Bucknall, M Murray, ...",
+   "venue": "arXiv preprint arXiv:2602.21012",
+   "year": "2026"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (arXiv: 2108.07258). arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "On the societal impact of open foundation models",
+   "authors": "S Kapoor, R Bommasani, K Klyman, S Longpre, A Ramaswami, P Cihon, ...",
+   "venue": "arXiv preprint arXiv:2403.07918",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "others (2021). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 24",
+   "year": "1"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv 2022",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv:2206.07682 10",
+   "year": "2023"
+  },
+  {
+   "title": "Emergent abilities of large language models (2022)",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2025"
+  },
+  {
+   "title": "Ai regulation has its own alignment problem: The technical and institutional feasibility of disclosure, registration, licensing, and auditing",
+   "authors": "N Guha, CM Lawrence, LA Gailmard, KT Rodolfa, F Surani, R Bommasani, ...",
+   "venue": "Geo. Wash. L. Rev. 92, 1473",
+   "year": "2024"
+  },
+  {
+   "title": "Data governance in the age of large-scale data-driven language technology",
+   "authors": "Y Jernite, H Nguyen, S Biderman, A Rogers, M Masoud, V Danchev, ...",
+   "venue": "Proceedings of the 2022 ACM conference on fairness, accountability, and …",
+   "year": "2022"
+  },
+  {
+   "title": "Bloom: A 176b-parameter open-access multilingual language model",
+   "authors": "BS Workshop, TL Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow, ...",
+   "venue": "arXiv preprint arXiv:2211.05100",
+   "year": "2022"
+  },
+  {
+   "title": "Introducing v0. 5 of the ai safety benchmark from mlcommons",
+   "authors": "B Vidgen, A Agrawal, AM Ahmed, V Akinwande, N Al-Nuaimi, N Alfaraj, ...",
+   "venue": "arXiv preprint arXiv:2404.12241",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "A safe harbor for ai evaluation and red teaming",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2403.04893",
+   "year": "2024"
+  },
+  {
+   "title": "Intrinsic evaluation of summarization datasets",
+   "authors": "R Bommasani, C Cardie",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Toward an evaluation science for generative ai systems",
+   "authors": "L Weidinger, ID Raji, H Wallach, M Mitchell, A Wang, O Salaudeen, ...",
+   "venue": "arXiv preprint arXiv:2503.05336",
+   "year": "2025"
+  },
+  {
+   "title": "Foundation models in healthcare: Opportunities, risks & strategies forward",
+   "authors": "A Thieme, A Nori, M Ghassemi, R Bommasani, TO Andersen, E Luger",
+   "venue": "Extended abstracts of the 2023 CHI conference on human factors in computing …",
+   "year": "2023"
+  },
+  {
+   "title": "Considerations for governing open foundation models",
+   "authors": "R Bommasani, S Kapoor, K Klyman, S Longpre, A Ramaswami, D Zhang, ...",
+   "venue": "Science 386 (6718), 151-153",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv preprint arXiv: 210807258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "Published online",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic agent leaderboard: The missing infrastructure for ai agent evaluation",
+   "authors": "S Kapoor, B Stroebl, P Kirgis, N Nadgir, Z Siegel, B Wei, T Xue, Z Chen, ...",
+   "venue": "International Conference on Learning Representations 2026, 98778-98849",
+   "year": "2026"
+  },
+  {
+   "title": "International scientific report on the safety of advanced ai (interim report)",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2412.05282",
+   "year": "2024"
+  },
+  {
+   "title": "Sydney von Arx, Michael S Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill, et al. 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "On the opportunities and risks of foundation models. arXiv preprint arXiv …",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Ecosystem graphs: The social footprint of foundation models",
+   "authors": "R Bommasani, D Soylu, TI Liao, KA Creel, P Liang",
+   "venue": "arXiv preprint arXiv:2303.15772",
+   "year": "2023"
+  },
+  {
+   "title": "Do foundation model providers comply with the draft EU AI Act",
+   "authors": "R Bommasani, K Klyman, D Zhang, P Liang",
+   "venue": "Stanford Center for Research on Foundation Models",
+   "year": "2023"
+  },
+  {
+   "title": "Foundation model transparency reports",
+   "authors": "R Bommasani, K Klyman, S Longpre, B Xiong, S Kapoor, N Maslej, ...",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7 (1), 181-195",
+   "year": "2024"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "The foundation model transparency index v1. 1: May 2024",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "arXiv preprint arXiv:2407.12929",
+   "year": "2024"
+  },
+  {
+   "title": "Reflections on foundation models",
+   "authors": "R Bommasani, P Liang",
+   "venue": "Stanford Institute for Human-Centered AI",
+   "year": "2021"
+  },
+  {
+   "title": "The 2024 foundation model transparency index",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "arXiv preprint arXiv:2407.12929",
+   "year": "2024"
+  },
+  {
+   "title": "Emergent abilities of large language models",
+   "authors": "W Jason, Y Tay, B Rishi, R Colin, Z Barret, B Sebastian, Y Dani, ...",
+   "venue": "Transactions on Machine Learning Research 8",
+   "year": "2022"
+  },
+  {
+   "title": "Advancing science-and evidence-based AI policy",
+   "authors": "R Bommasani, S Arora, J Chayes, Y Choi, MF Cuéllar, L Fei-Fei, DE Ho, ...",
+   "venue": "Science 389 (6759), 459-461",
+   "year": "2025"
+  },
+  {
+   "title": "International scientific report on the safety of advanced AI",
+   "authors": "Y Bengio, D Privitera, T Besiroglu, R Bommasani, S Casper, Y Choi, ...",
+   "venue": "Interim Report",
+   "year": "2024"
+  },
+  {
+   "title": "Ecosystem-level analysis of deployed machine learning reveals homogeneous outcomes",
+   "authors": "C Toups, R Bommasani, K Creel, S Bana, D Jurafsky, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 36, 51178-51201",
+   "year": "2023"
+  },
+  {
+   "title": "The time is now to develop community norms for the release of foundation models",
+   "authors": "P Liang, R Bommasani, K Creel, R Reich",
+   "venue": "Protocol",
+   "year": "2022"
+  },
+  {
+   "title": "The 2025 foundation model transparency index",
+   "authors": "A Wan, K Klyman, S Kapoor, N Maslej, S Longpre, B Xiong, P Liang, ...",
+   "venue": "arXiv preprint arXiv:2512.10169",
+   "year": "2025"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "B Rishi, L Tony, T Dimitris, S Dilara, Y Michihiro, Z Yian, N Deepak, Y Wu, ...",
+   "venue": "arXiv preprint arXiv: 2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv [preprints]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Mistral-a journey towards reproducible language model training, 2021",
+   "authors": "S Karamcheti, L Orr, J Bolton, T Zhang, K Goel, A Narayan, R Bommasani, ...",
+   "venue": "URL https://github. com/stanford-crfm/mistral",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv [Preprint](2022)",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Frontier ai auditing: Toward rigorous third-party assessment of safety and security practices at leading ai companies",
+   "authors": "M Brundage, N Dreksler, A Homewood, S McGregor, P Paskov, C Stosz, ...",
+   "venue": "arXiv preprint arXiv:2601.11699",
+   "year": "2026"
+  },
+  {
+   "title": "S. vonArx, MS Bernstein, J",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "Bohg, A. Bosselut, E. Brunskill, et al.,“On the opportunities and risks of …",
+   "year": "2021"
+  },
+  {
+   "title": "Open technical problems in open-weight AI model risk management",
+   "authors": "S Casper, K O'Brien, S Longpre, E Seger, K Klyman, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2608.07514",
+   "year": "2026"
+  },
+  {
+   "title": "International AI safety report (DSIT 2025/001)",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2501.17805",
+   "year": "2025"
+  },
+  {
+   "title": "AI spring? Four takeaways from major releases in foundation models",
+   "authors": "R Bommasani",
+   "venue": "Stanford Institute for Human-Centered Artificial Intelligence (HAI). https …",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2025"
+  },
+  {
+   "title": "The responsible foundation model development cheatsheet: A review of tools & resources",
+   "authors": "S Longpre, S Biderman, A Albalak, H Schoelkopf, D McDuff, S Kapoor, ...",
+   "venue": "arXiv preprint arXiv:2406.16746",
+   "year": "2024"
+  },
+  {
+   "title": "Onthe opportunitiesandrisksoffoundationmodels",
+   "authors": "HDA BommasaniR",
+   "venue": "2023r09r15]. https://arxiv. org/abs/2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "In-house evaluation is not enough: Towards robust third-party flaw disclosure for general-purpose ai",
+   "authors": "S Longpre, K Klyman, RE Appel, S Kapoor, R Bommasani, M Sahar, ...",
+   "venue": "arXiv preprint arXiv:2503.16861",
+   "year": "2025"
+  },
+  {
+   "title": "International AI safety report. arXiv",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Legal alignment for safe and ethical ai",
+   "authors": "N Kolt, N Caputo, J Boeglin, C O'keefe, R Bommasani, S Casper, ...",
+   "venue": "arXiv preprint arXiv:2601.04175",
+   "year": "2026"
+  },
+  {
+   "title": "Towards Private Synthetic Text Generation",
+   "authors": "R Bommasani, ZS Wu, A Schofield",
+   "venue": "2019 NeurIPS Workshop: Machine Learning with Guarantees",
+   "year": "2019"
+  },
+  {
+   "title": "International AI safety report: The international scientific report on the safety of advanced AI",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "UK Government. DSIT",
+   "year": "2025"
+  },
+  {
+   "title": "Trustworthy social bias measurement",
+   "authors": "R Bommasani, P Liang",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7 (1), 210-224",
+   "year": "2024"
+  },
+  {
+   "title": "Holistic evaluation of language models (arXiv: 2211.09110). arXiv",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "The reality of AI and biorisk",
+   "authors": "A Peppin, A Reuel, S Casper, E Jones, A Strait, U Anwar, A Agrawal, ...",
+   "venue": "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and …",
+   "year": "2025"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models, October 2022",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "URL http://arxiv. org/abs/2206.07682",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models [arXiv [cs. LG]]. 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and risks of foundation models arXiv: 2108. 07258v2 [cs. LG] 18 Aug 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, SV Arx, ...",
+   "venue": "ArXiv, 2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Cheaply estimating inference efficiency metrics for autoregressive transformer models",
+   "authors": "D Narayanan, K Santhanam, P Henderson, R Bommasani, T Lee, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 66518-66538",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. CoRR abs/2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Prioritizing real-time failure detection in ai agents",
+   "authors": "M Srikumar, J Pratt, K Chmielinski, C Ashurst, C Bakalar, W Bartholomew, ...",
+   "venue": "Partnership on AI",
+   "year": "2025"
+  },
+  {
+   "title": "Card Dallas",
+   "authors": "B Rishi, A Hudson Drew, A Ehsan, A Russ, A Simran, ...",
+   "venue": "Castellon Rodrigo, Chatterji Niladri S., Chen Annie S., Creel Kathleen …",
+   "year": "2021"
+  },
+  {
+   "title": "Helm safety: Towards standardized safety evaluations of language models",
+   "authors": "F Kaiyom, A Ahmed, Y Mai, K Klyman, R Bommasani, P Liang",
+   "venue": "Stanford Center for Research on Foundation Models",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluation for change",
+   "authors": "R Bommasani",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 8227-8239",
+   "year": "2023"
+  },
+  {
+   "title": "hsin Chi",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "EH, Hashimoto, T., Vinyals, O., Liang, P., Dean, J., Fedus, W.: Emergent …",
+   "year": "2022"
+  },
+  {
+   "title": "Dani 348 Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, et al. Emergent abilities of large 349 language models",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "Transactions on Machine Learning Research 350",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv. 2022 doi: 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv.2206.07682 2206",
+   "year": null
+  },
+  {
+   "title": "Language model developers should report train-test overlap",
+   "authors": "AK Zhang, K Klyman, Y Mai, Y Levine, Y Zhang, R Bommasani, P Liang",
+   "venue": "arXiv preprint arXiv:2410.08385",
+   "year": "2024"
+  },
+  {
+   "title": "Emergent abilities of large language models. June 2022",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "URL http://arxiv. org/abs/2206.07682 v2",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2022. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 5",
+   "year": null
+  },
+  {
+   "title": "The foundation model transparency index, 2023",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong, ...",
+   "venue": "URL https://arxiv. org/abs/2310.12941",
+   "year": "2025"
+  },
+  {
+   "title": "Ecosystem graphs: Documenting the foundation model supply chain",
+   "authors": "R Bommasani, D Soylu, TI Liao, KA Creel, P Liang",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7 (1), 196-209",
+   "year": "2024"
+  },
+  {
+   "title": "A path for science-and evidence-based AI policy",
+   "authors": "R Bommasani, S Arora, Y Choi, L Fei-Fei, DE Ho, D Jurafsky, S Koyejo, ...",
+   "venue": "https://understanding-ai-safety. org",
+   "year": "2024"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv preprint arXiv: 2206",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "et a.(2021). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "STREAM (ChemBio): A standard for transparently reporting evaluations in AI model reports",
+   "authors": "T McCaslin, J Alaga, S Nedungadi, S Donoughe, T Reed, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2508.09853",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv [Preprint]. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv preprint. 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "others. 2024. Introducing v0. 5 of the AI Safety Benchmark from MLCommons",
+   "authors": "B Vidgen, A Agrawal, AM Ahmed, V Akinwande, N Al-Nuaimi, N Alfaraj, ...",
+   "venue": "arXiv preprint arXiv:2404.12241",
+   "year": "1"
+  },
+  {
+   "title": "& Fedus, W.(2022)",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "Emergent abilities of large language models. arXiv 2206",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. arXiv [Preprint]; 2021. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. arXiv. org",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "August",
+   "year": "2021"
+  },
+  {
+   "title": "Introducing v0. 5 of the ai safety benchmark from mlcommons, 2024",
+   "authors": "B Vidgen, A Agrawal, AM Ahmed, V Akinwande, N Al-Nuaimi, N Alfaraj, ...",
+   "venue": "URL https://arxiv. org/abs/2404.12241",
+   "year": null
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models. arXiv e-prints",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. CoRR abs/2211.09110 (2022)",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2022, 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "& Koreeda, Y.(2022)",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga",
+   "venue": "Report on the 2021 Workshop on Large Language Models: Invited Talks and …",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, et al.“On the Opportunities and Risks of Foundation Models,” 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Algorithmic monocultures in hiring",
+   "authors": "R Bommasani, SH Bana, KA Creel, D Jurafsky, P Liang",
+   "venue": "The 2026 ACM Conference on Fairness, Accountability, and Transparency, 6351-6382",
+   "year": "2026"
+  },
+  {
+   "title": "Open-world evaluations for measuring frontier AI capabilities",
+   "authors": "S Kapoor, P Kirgis, A Schwartz, S Rabanser, JJ Allaire, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2605.20520",
+   "year": "2026"
+  },
+  {
+   "title": "Effective mitigations for systemic risks from general-purpose AI",
+   "authors": "R Uuk, A Brouwer, T Schreier, N Dreksler, V Pulignano, R Bommasani",
+   "venue": "arXiv preprint arXiv:2412.02145",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2108.07258 [preprint] https://arxiv. org/abs/2108.07258. Posted August 16, 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "Accessed May",
+   "year": "2023"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv preprint arXiv: 220607682",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "2022. Emergent abilities of large language models",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint",
+   "year": "2022"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models, July 12, 2022. DOI: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+   "authors": "P Kirgis, S Kapoor, A Schwartz, S Rabanser, D Africa, K Voudouris, ...",
+   "venue": "arXiv preprint arXiv:2607.27191",
+   "year": "2026"
+  },
+  {
+   "title": "International AI Safety Report 2026 (DSIT 2026/001). Department for Science",
+   "authors": "Y Bengio, S Clare, C Prunkl, M Murray, M Andriushchenko, B Bucknall, ...",
+   "venue": "Innovation and Technology. https://internationalaisafetyreport. org",
+   "year": "2026"
+  },
+  {
+   "title": "[1] R. Bommasani et al., \"On the opportunities and risks of foundation models,\" 2021, arXiv:2108.07258.",
+   "authors": "J Liu, C Yang, Z Lu, J Chen, Y Li, M Zhang, T Bai, Y Fang, L Sun, PS Yu, ...",
+   "venue": "IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 47 (6), 5023-5044",
+   "year": "2025"
+  },
+  {
+   "title": "Reliable and responsible foundation models",
+   "authors": "X Yang, J Han, R Bommasani, J Luo, W Qu, W Zhou, A Bibi, X Wang, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2025"
+  },
+  {
+   "title": "Position: In-house evaluation is not enough. towards robust third-party evaluation and flaw disclosure for general-purpose AI",
+   "authors": "S Longpre, K Klyman, RE Appel, S Kapoor, R Bommasani, M Sahar, ...",
+   "venue": "Forty-second International Conference on Machine Learning Position Paper Track",
+   "year": "2025"
+  },
+  {
+   "title": "A safe harbor for AI evaluation and red teaming. arXiv",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "Preprint posted online on March 7",
+   "year": "2024"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models. Trans. Mach. Learn. Res.",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "Mach. Learn. Res",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv preprint",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, et al.“On the Opportunities and Risks of Foundation Models.” arXiv, July 12, 2022",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Do foundation model providers comply with the eu ai act?, 2023",
+   "authors": "R Bommasani, K Klyman, D Zhang, P Liang",
+   "venue": "URL https://crfm. stanford. edu/2023/06/15/eu-ai-act. html",
+   "year": null
+  },
+  {
+   "title": "The foundation model transparency index v1. 1: May 2024, 2024",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "URL: https://arxiv. org/abs/2407.12929",
+   "year": "2024"
+  },
+  {
+   "title": "The foundation model transparency index (arXiv: 2310.12941). arXiv",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "The foundation model transparency index. arXiv 2023",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong, ...",
+   "venue": "arXiv preprint arXiv:2310.12941",
+   "year": "2023"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv. org",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large language models. DOI: 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv.2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "arXiv preprint arXiv: 2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "Holistic agent leaderboard: The missing infrastructure for ai agent evaluation (2025)",
+   "authors": "S Kapoor, B Stroebl, P Kirgis, N Nadgir, ZS Siegel, B Wei, T Xue, Z Chen, ...",
+   "venue": "arXiv preprint arXiv:2510.11977",
+   "year": null
+  },
+  {
+   "title": "International AI safety report 2026 (DSIT 2026/001, 2026)",
+   "authors": "Y Bengio, S Clare, C Prunkl, M Murray, M Andriushchenko, B Bucknall, ...",
+   "venue": "International AI Safety Report",
+   "year": "2026"
+  },
+  {
+   "title": "The California report on frontier AI policy",
+   "authors": "R Bommasani, SR Singer, RE Appel, S Cen, AF Cooper, LA Gailmard, ...",
+   "venue": "arXiv preprint arXiv:2506.17303",
+   "year": "2025"
+  },
+  {
+   "title": "Foundation models under the EU AI Act",
+   "authors": "R Bommasani, A Hau, K Klyman, P Liang",
+   "venue": "Stanford Center for Research on Foundation Models",
+   "year": "2024"
+  },
+  {
+   "title": "Language models are changing AI. We need to understand them",
+   "authors": "R Bommasani, P Liang, T Lee",
+   "venue": "Standford University Human-Centered Artificial Intelligence https://hai …",
+   "year": "2022"
+  },
+  {
+   "title": "Chi Ed H, Hashimoto Tatsunori, Vinyals Oriol, Liang Percy, Dean Jeff, and Fedus William",
+   "authors": "W Jason, T Yi, B Rishi, R Colin, Z Barret, B Sebastian, Y Dani, B Maarten, ...",
+   "venue": "Emergent abilities of large language models. arXiv [cs. CL]",
+   "year": "2022"
+  },
+  {
+   "title": "Tay Y. Bommasani R",
+   "authors": "J Wei, J Dean, W Fedus",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv [Preprint](2023)",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. ArXiv, abs/2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, P Liang",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv [csLG]. Published online August 16, 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. CoRR (2021)",
+   "authors": "R Bommasani, P Liang",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": "2023"
+  },
+  {
+   "title": "Drawing Lines: Tiers for Foundation Models",
+   "authors": "R Bommasani",
+   "venue": "Stanford Center for Research on Foundation Models. URl: https://crfm …",
+   "year": "2023"
+  },
+  {
+   "title": "Transactions on Machine Learning Research",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large language models, arXiv. doi: 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv.2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models (HELM). arXiv",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models Stanford CRFM",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "Stanford CRFM",
+   "year": "2021"
+  },
+  {
+   "title": "Long-Distance Dependencies Don’t Have to Be Long: Simplifying through Provably (Approximately) Optimal Permutations",
+   "authors": "R Bommasani",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "SPARSE: Structured Prediction using Argument-Relative Structured Encoding",
+   "authors": "R Bommasani, A Katiyar, C Cardie",
+   "venue": "Proceedings of the 2019 NAACL Workshop SPNLP: Structured Prediction for NLP …",
+   "year": "2019"
+  },
+  {
+   "title": "others. 2025b. International ai safety report",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2501.17805",
+   "year": "1"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv. 2022. 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv.2206.07682 2206",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. arXiv July 12, 2022",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Arx, ...",
+   "venue": "URL http://arxiv. org/abs/2108.07258",
+   "year": null
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. arXiv; 2023. doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. 2022. arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": null
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. 2022. doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021: 2108.07258. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S vonArx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "& Ho, DE (2024). AI regulation has its own alignment problem: The technical and institutional feasibility of disclosure, registration, licensing, and auditing",
+   "authors": "N Guha, CM Lawrence, LA Gailmard, KT Rodolfa, F Surani, R Bommasani",
+   "venue": "George Washington Law Review, Symposium on Legally Disruptive Emerging …",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models [Internet]. arXiv; 2022 [cited 2024 Apr 9]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Holistic evaluation of language models, 11 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "URL https://arxiv. org/abs/2211.09110",
+   "year": null
+  },
+  {
+   "title": "Beyond release: Access considerations for generative ai systems",
+   "authors": "I Solaiman, R Bommasani, D Hendrycks, A Herbert-Voss, Y Jernite, ...",
+   "venue": "arXiv preprint arXiv:2502.16701",
+   "year": "2025"
+  },
+  {
+   "title": "AEF-1: Minimum Operating Conditions for Independent Third Party AI Evaluations",
+   "authors": "C Stosz, K Elmgren, C Foster, G Balston, S Donoughe, S Nedungadi, ...",
+   "venue": "Technical Report. AI Evaluator Forum. https://www. aef. one/aef-one. pdf",
+   "year": "2025"
+  },
+  {
+   "title": "The responsible foundation model development cheatsheet: A review of tools & resources. arXiv",
+   "authors": "S Longpre, S Biderman, A Albalak, H Schoelkopf, D McDuff, S Kapoor, ...",
+   "venue": "Published online https://doi. org/10.48550/arXiv 2406",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv [Preprint](2021). 10.48550",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2024"
+  },
+  {
+   "title": "Helm instruct: a multidimensional instruction following evaluation framework with absolute ratings",
+   "authors": "Y Zhang, Y Mai, JS Roberts, R Bommasani, Y Dubois, P Liang",
+   "venue": "arXiv preprint arXiv:2402.12345",
+   "year": "2024"
+  },
+  {
+   "title": "By the numbers: Tracking the ai executive order",
+   "authors": "C Meinhardt, CM Lawrence, LA Gailmard, D Zhang, R Bommasani, ...",
+   "venue": "HAI. November 16",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. arXiv preprint arXiv: 221109110",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models\\[Електронний ресурс]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Hudson E. Adeli",
+   "authors": "RDA Bommasani",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (Technical Report)",
+   "authors": "R Bommasani, D Hudson, H Adi, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "Stanford Center for Research on Foundation Models. https://doi. org/10.48550 …",
+   "year": "2021"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models.” arXiv. Org. August 16, 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021; 2108: 07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. ArXiv, abs/2206.07682 (2022)",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "URL https://api. semanticscholar. org/CorpusID 249674500",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. July 12, 2022 (http://arxiv. org/abs/2108.07258)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Bommasani, DA Hudson, E Adeli, ...",
+   "venue": "Preprint",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models, preprint (2021)",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "& Zeng, Y.(2025). International ai safety report",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2501.17805 55",
+   "year": null
+  },
+  {
+   "title": "Effective Mitigations for Systemic Risks from General-Purpose AI.(2024)",
+   "authors": "R Uuk, A Brouwer, N Dreksler, V Pulignano, R Bommasani",
+   "venue": "URL https://arxiv. org/abs/2412.02145",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models [Internet]. arXiv; 2022 [cited 2023 Oct 25]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The responsible foundation model develop-ment cheatsheet: A review of tools & resources, 2024",
+   "authors": "S Longpre, S Biderman, A Albalak, H Schoelkopf, D McDuff, S Kapoor, ...",
+   "venue": "URL: https://arxiv. org/abs/2406.167 46",
+   "year": null
+  },
+  {
+   "title": "Reliable and Responsible Foundation Models: A Comprehensive Survey",
+   "authors": "X Yang, J Han, R Bommasani, J Luo, W Qu, W Zhou, A Bibi, X Wang, ...",
+   "venue": "arXiv preprint arXiv:2602.08145",
+   "year": "2026"
+  },
+  {
+   "title": "Do AI companies make good on voluntary commitments to the White House?",
+   "authors": "J Wang, K Huang, K Klyman, R Bommasani",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 8 (3 …",
+   "year": "2025"
+  },
+  {
+   "title": "and Zeng",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "International AI Safety Report",
+   "year": "2025"
+  },
+  {
+   "title": "The Foundation Model Transparency Index. Stanford University’s Center for Research on Foundation Models and Institute on Human-Centered Artificial Intelligence",
+   "authors": "A Wan, K Klyman, S Kapoor, N Maslej, S Longpre, B Xiong, P Liang, ...",
+   "venue": "MIT Media Lab, and Princeton University’s Center for Information Technology …",
+   "year": "2025"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models, August 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "URL https://arxiv. org/abs/2108.07258 v3",
+   "year": "2025"
+  },
+  {
+   "title": "ACP de Leon Ferreira de Carvalho, M",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "Nemer, et al. International scientific report on the safety of advanced ai …",
+   "year": "2024"
+  },
+  {
+   "title": "The foundation model transparency index v. 1.1. May 2024. arXiv",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "International scientific report on the safety of advanced AI: interim report. arXiv 2024",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2412.05282",
+   "year": "2024"
+  },
+  {
+   "title": "Foundation model transparency reports. arXiv",
+   "authors": "R Bommasani, K Klyman, S Longpre, B Xiong, S Kapoor, N Maslej, ...",
+   "venue": "arXiv preprint arXiv:2402.16268",
+   "year": "2024"
+  },
+  {
+   "title": "International Scientific Report on the Safety of Advanced AI. UK Department for Science, Innovation and Technology",
+   "authors": "Y Bengio, D Privitera, T Besiroglu, R Bommasani, S Casper, Y Choi, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Holistic evaluation of language models (No. arXiv: 2211.09110)",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv",
+   "year": "2023"
+  },
+  {
+   "title": "The Foundation Model Transparency Index. May",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Towards compromise: a concrete two-tier proposal for foundation models in the EU AI Act",
+   "authors": "R Bommasani, T Hashimoto, DE Ho, M Schaake, P Liang",
+   "venue": "Work. Pap., Cent. Res. Found. Models, Stanford Univ., Stanford, CA:. https …",
+   "year": "2023"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models [Internet]",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv [cs. CL]",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large languag e models. arXiv",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models [Электронный ресурс]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv [cs. CL]",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "November",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models. TMLR 2022",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models', Jul. 12",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models (arXiv: 2108.07258). arXiv. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large language models. Published online October 26, 2022",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models (HELM)",
+   "authors": "R Bommasani, P Liang, T Lee",
+   "venue": "Transactions on Machine Learning Research. DOI: https://doi. org/10.48550 …",
+   "year": "2022"
+  },
+  {
+   "title": "Demszky",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "D.... and Liang, P",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models [CRFM Technical Report FM-TR-2021-1]",
+   "authors": "R Bommasani, K Lin, S Narayan, QV Le",
+   "venue": "Stanford Center for Research on Foundation Models",
+   "year": "2021"
+  },
+  {
+   "title": "von Arx",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "S., Bernstein MS, Bohg J., Bosselut A., Brunskill E., Brynjolfsson E …",
+   "year": "2021"
+  },
+  {
+   "title": "Altman, et al. 2021. On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, Jeannette Bohg, et al. On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. Centre for Research on Foundation Models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, VA Sydney",
+   "venue": "Standford Institute for Humans-Centred Artificial Intelligence, Stanford …",
+   "year": "2018"
+  },
+  {
+   "title": "International AI safety report. arXiv [Preprint](2025)",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "URL: https://arxiv. org/abs/2501.17805",
+   "year": null
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv. 2022 Nov 16; doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": null
+  },
+  {
+   "title": "AI Regulation Has Its Own Alignment Problem: The Technical and Institutional Feasibility of Disclosure",
+   "authors": "N Guha, CM Lawrence, LA Gailmard, KT Rodolfa, F Surani, R Bommasani, ...",
+   "venue": "Registration, Licensing, and Auditing 1480",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv preprint arXiv: 220607682. 2022",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "URL https://arxiv. org/abs/2206.07682",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models [Preprint]. arXiv; 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models [Internet]. arXiv; 2022 [cited 2025 Feb 11]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. June 15, 2022 (https://arxiv. org/abs/2206.07682)",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "Preprint",
+   "year": null
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models, Oct. 2022. DOI: 10. 48550",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "arXiv preprint arXiv.2206.07682",
+   "year": null
+  },
+  {
+   "title": "The time is now to develop community norms for the release of foundation models, 2022",
+   "authors": "P Liang, R Bommasani, KA Creel, R Reich",
+   "venue": "URL https://crfm. stanford. edu/2022/05/17/community-norms. html",
+   "year": null
+  },
+  {
+   "title": "& Liang, P.(2023). The foundation model transparency index",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong",
+   "venue": "arXiv preprint arXiv 2310",
+   "year": null
+  },
+  {
+   "title": "& Henderson, P.(2024). A safe harbor for ai evaluation and red teaming",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2403.04893 89",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. Published online July 12, 2022. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "Toward an evaluation science for generative ai systems, 2025",
+   "authors": "L Weidinger, D Raji, H Wallach, M Mitchell, A Wang, O Salaudeen, ...",
+   "venue": "URL https://arxiv. org/abs/2503 5336",
+   "year": null
+  },
+  {
+   "title": "Helm instruct: A multidimensional instruction following evaluation framework with absolute ratings, February 2024",
+   "authors": "Y Zhang, Y Mai, JS Roberts, R Bommasani, Y Dubois, P Liang",
+   "venue": "URL https://crfm. stanford. edu/2024/02/18/helm-instruct. html",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv e-Prints 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "NeurIPS should lead scientific consensus on AI policy",
+   "authors": "R Bommasani",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "International AI safety report 2026. arXiv",
+   "authors": "Y Bengio, S Clare, C Prunkl, M Andriushchenko, B Bucknall, M Murray, ...",
+   "venue": "arXiv preprint arXiv:2602.21012",
+   "year": "2026"
+  },
+  {
+   "title": "A path for science-and evidence-based AI policy (2024)",
+   "authors": "R Bommasani, S Arora, Y Choi, L Fei-Fei, DE Ho, D Jurafsky, S Koyejo, ...",
+   "venue": "URL https://understanding-ai-safety. org",
+   "year": "2026"
+  },
+  {
+   "title": "Disclosure and evaluation as fairness interventions for general-purpose ai",
+   "authors": "V Raman, JH Shen, AK Zhang, L Gailmard, R Bommasani, DE Ho, ...",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 8 (3 …",
+   "year": "2025"
+  },
+  {
+   "title": "The disclosure delusion: Systemic challenges in AI data transparency policy",
+   "authors": "JH Shen, K Liu, A Wang, SH Cen, AK Zhang, C Meinhardt, D Zhang, ...",
+   "venue": "Workshop on Technical AI Governance (TAIG) at ICML",
+   "year": "2025"
+  },
+  {
+   "title": "ACP d",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "LF de Carvalho, B. Fox, AS Gill, AH Hatip, J. Heikkilä, G. Jolly, Z. Katzir …",
+   "year": "2025"
+  },
+  {
+   "title": "Toward an Evaluation Science for Generative AI Systems [arXiv: 2503.05336 [cs]]",
+   "authors": "L Weidinger, D Raji, H Wallach, M Mitchell, A Wang, O Salaudeen, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "The general-purpose AI code of practice",
+   "authors": "N Oliver, R Bommasani",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Code of Practice for General-Purpose AI Models–Transparency Chapter",
+   "authors": "N Oliver, R Bommasani",
+   "venue": "Working Group",
+   "year": "2025"
+  },
+  {
+   "title": "The societal impact of foundation models: Advancing evidence-based ai policy",
+   "authors": "R Bommasani",
+   "venue": "Stanford University",
+   "year": "2025"
+  },
+  {
+   "title": "The 2024 Foundation Model Transparency Index (v1. 1)",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "arXiv Preprint",
+   "year": "2024"
+  },
+  {
+   "title": "The Reality of AI and Biorisk.’arXiv",
+   "authors": "A Peppin, A Reuel, S Casper, E Jones, A Strait, U Anwar, A Agrawal, ...",
+   "venue": "arXiv preprint arXiv:2412.01946",
+   "year": "2024"
+  },
+  {
+   "title": "On the societal impact of open foundation models. arXiv",
+   "authors": "S Kapoor, R Bommasani, K Klyman, S Longpre, A Ramaswami, P Cihon, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "The 2024 foundation model transparency index. arXiv",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "A safe harbor for AI evaluation and red teaming, March 2024",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "URL https://arxiv. org/abs/2403.04893",
+   "year": "2024"
+  },
+  {
+   "title": "AI Accountability Policy Request for Comment",
+   "authors": "R Bommasani, S Kapoor, D Zhang, A Narayanan, P Liang",
+   "venue": "Department of Commerce, National Telecommunications and Information …",
+   "year": "2023"
+  },
+  {
+   "title": "The foundation model transparency index",
+   "authors": "P Liang, R Bommasani",
+   "venue": "arXiv preprint arXiv:2310.12941 3",
+   "year": "2023"
+  },
+  {
+   "title": "Decoding the White House AI Executive Order’s achievements",
+   "authors": "R Bommasani, CM Lawrence, LA Gailmard, C Meinhardt, D Zhang, ...",
+   "venue": "Stanford HAI. Available at: https://hai. stanford. edu/news/decoding-white …",
+   "year": "2023"
+  },
+  {
+   "title": "Sobre las oportunidades y riesgos de los modelos de fundación",
+   "authors": "R BOMMASANI",
+   "venue": "Stanford, CA: Universidad de Stanford",
+   "year": "2023"
+  },
+  {
+   "title": "Do foundation model providers comply with the draft EU AI act? 2023",
+   "authors": "R Bommasani, K Klyma, D Zhang",
+   "venue": "Published on June 15",
+   "year": "2023"
+  },
+  {
+   "title": "EdH",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, and William …",
+   "year": "2022"
+  },
+  {
+   "title": "Chain-of-thought prompting elicits reasoning in large language models. arXiv preprint arXiv: 220111903",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv. 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, ...",
+   "venue": "arXiv preprint ARXIV.2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Deepak Narayanan, Yuhuai Wu, and Ananya Kumar. 2022. Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv preprint. 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "arXiv preprint arXiv.2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models center for research on foundation models (crfm) stanford institute for human-centered artificial intelligence (hai)",
+   "authors": "R Bommasani, P Liang, DA Hudson, E Adeli, R Altman, S Arora, ...",
+   "venue": "Stanford University, USA",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models, arXiv [preprint].; 2108.07258 v3",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Picking on the same person: Does algorithmic monoculture lead to outcome homogenization? arXiv",
+   "authors": "R Bommasani, K Zhang, S Ghosh, P Liang, TB Hashimoto",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. 1–214",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv. Published online June 15, 2022",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models [EB/OL]",
+   "authors": "J Wei, Y Tay, R BOMMASANI",
+   "venue": "Emergent abilities of large language models [EB/OL], 06-05",
+   "year": "2022"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. arXiv, v. 3",
+   "authors": "R Bommasani, DA Hudson",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Language models are changing AI: the need for holistic evaluation",
+   "authors": "R Bommasani, P Liang, T Lee",
+   "venue": "Stanford University https://crfm. stanford. edu/2022/11/17/helm. html",
+   "year": "2022"
+  },
+  {
+   "title": "arXiv preprint arXiv: 2211.09110",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Colin Ra el, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, et al. Emergent abilities of large language models",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating Human-Language Model Interaction. CoRR abs/2212.09746 (2022), 64 pages",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Foundation models. arXiv",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. ArXiv, Published online August 16, 2021",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the Opportunities and Risks of 193 Foundation Models",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv:2108.07258 194",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXivhttps",
+   "authors": "R Bommasani",
+   "venue": "arxiv. org/abs/2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. ArXiv. doi. org/10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "On the 676 opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "arXiv preprint arXiv:2108.07258 677",
+   "year": "2021"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models (tech. rep.). Retrieved March 26, 2025",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and Risks of Foundation Models. CRFM",
+   "authors": "R Bommasani, DA Hudsa, E Adeli",
+   "venue": "Stanford",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models, CoRR",
+   "authors": "R Bommasani, D Hudson, E Adeli, R Altman, S Arora, S Arx, M Bernstein, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "others. 2025a. Reliable and responsible foundation models",
+   "authors": "X Yang, J Han, R Bommasani, J Luo, W Qu, W Zhou, A Bibi, X Wang, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "1"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. ArXiv, Aug. 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "S. A. 2021. On the Opportunities and Risks of Foundation Models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the societal impact of open foundation models (2024)",
+   "authors": "S Kapoor, R Bommasani, K Klyman, S Longpre, A Ramaswami, P Cihon, ...",
+   "venue": "arXiv preprint arXiv:2403.07918",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, and Michael S. 2022. On the Opportunities and Risks of Foundation Models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Helm safety: Towards standardized safety evaluations of language models, November 2024",
+   "authors": "F Kaiyom, A Ahmed, Y Mai, K Klyman, R Bommasani, P Liang",
+   "venue": "URL https://crfm. stanford. edu/2024/11/08/helm-safety. html",
+   "year": null
+  },
+  {
+   "title": "International AI Safety Report. arXiv 2025",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2501.17805",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models'', arXiv preprint arX-iv: 2108.07258, 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Toward an Evaluation Science for Generative AI Systems, arXiv [cs. AI](2025)",
+   "authors": "L Weidinger, ID Raji, H Wallach, M Mitchell, A Wang, O Salaudeen, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. CoRR. 2021; abs/2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv [Cs. CL], 2024",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv preprint arXiv: 221109110. 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the societal impact of open foundation models. arXiv. 2024",
+   "authors": "S Kapoor, R Bommasani, K Klyman, S Longpre, A Ramaswami, P Cihon",
+   "venue": "View Article",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. CoRR abs/2108.07258 (2021). doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson",
+   "venue": "arXiv preprint arXiv.2108.07258 10",
+   "year": null
+  },
+  {
+   "title": "Adeli. et al.(2021)",
+   "authors": "R Bommasani, DA Hudson",
+   "venue": "On the opportunities and risks of foundation models",
+   "year": null
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. Published online October 1, 2023. doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": null
+  },
+  {
+   "title": "Holistic Evaluation of Language Models (Nov 2022)",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. arXiv [cs. LG]. 2021; published online Aug 16",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. 2021 Aug",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Foundation Model Transparency Reports. arXiv 2024",
+   "authors": "R Bommasani, K Klyman, S Longpre, B Xiong, S Kapoor, N Maslej, ...",
+   "venue": "arXiv preprint arXiv:2402.16268",
+   "year": null
+  },
+  {
+   "title": "Foundation Model Transparency Reports. arXiv [cs. LG]. 2024",
+   "authors": "R Bommasani, K Klyman, S Longpre, B Xiong, S Kapoor, N Maslej, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "& Wang, W.(2022)",
+   "authors": "R Bommasani, D Hudson, E Adeli, R Altman, S Arora, S Von Arx",
+   "venue": "On the opportunities and risks of foundation models 2108",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models (Version 3). arXiv, 2021",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "K. Zhou (2022)‘On the Opportunities and Risks of Foundation Models’",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "Center for Research on Foundation Models, Stanford Institute for Human …",
+   "year": null
+  },
+  {
+   "title": "al, e.(2021). On the Opportunities and Risks of Foundation Models. CoRR, abs/2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv [Preprint]. 2022 [cited August 21, 2023]",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "others (2024). On the societal impact of open foundation models",
+   "authors": "S Kapoor, R Bommasani, K Klyman, S Longpre, A Ramaswami, P Cihon",
+   "venue": "arXiv preprint arXiv:2403.07918",
+   "year": null
+  },
+  {
+   "title": "The foundation model transparency index v1. 1, 2024",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "URL https://crfm. stanford. edu/fmti/paper. pdf",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. Published online July 12, 2022",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models.” arXiv, June 15, 2022",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The 2024 Foundation Model Transparency Index, 2025",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "URL https://arxiv. org/abs/2407.12929",
+   "year": null
+  },
+  {
+   "title": "Toward an Evaluation Science for Generative AI Systems, March 2025",
+   "authors": "L Weidinger, ID Raji, H Wallach, M Mitchell, A Wang, O Salaudeen, ...",
+   "venue": "URL http://arxiv. org/abs/2503.05336",
+   "year": null
+  },
+  {
+   "title": "International Scientific Report on the Safety of Advanced AI (Interim Report)(2025)",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "URL https://www. gov. uk/government/publicatio ns/international-scientific …",
+   "year": null
+  },
+  {
+   "title": "Trustworthy social bias measurement, 2022",
+   "authors": "R Bommasani, P Liang",
+   "venue": "URL https://arxiv. org/abs/2212.11672",
+   "year": null
+  },
+  {
+   "title": "Comment of the AI Policy and Governance Working Group on the NTIA Request for Comment on Dual Use Foundation Artificial Intelligence Models with Widely Available Model Weights …",
+   "authors": "A Nelson, A Trask, B Garfinkel, C Custis, D Hendrycks, D Ganguli, D Chou, ...",
+   "venue": "URL https://www. ias. edu/sites/default/files/AIPGWG-Response_ NTIA-RFC-on …",
+   "year": null
+  },
+  {
+   "title": "Language model developers should report train-test overlap, 2025",
+   "authors": "AK Zhang, K Klyman, Y Mai, Y Levine, Y Zhang, R Bommasani, P Liang",
+   "venue": "URL https://arxiv. org/abs/2410 8385",
+   "year": null
+  },
+  {
+   "title": "others “On the opportunities and risks of foundation models”, 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "DOI: https://doi. org/10.48550/arXiv 2108",
+   "year": null
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models.” arXiv, October 26, 2022",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. arXiv (Cornell University)(2021)",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "International AI safety report 2026 (DSIT 2026/001). International AI Safety Report",
+   "authors": "Y Bengio, S Clare, C Prunkl, M Murray, M Andriushchenko, B Bucknall, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "The Limits of AI Data Transparency Policy: Three Disclosure Fallacies (arXiv: 2601.18127). arXiv",
+   "authors": "JH Shen, K Liu, A Wang, SH Cen, AK Zhang, C Meinhardt, D Zhang, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Legal alignment for safe and ethical AI. arXiv",
+   "authors": "N Kolt, N Caputo, J Boeglin, C O’Keefe, R Bommasani, S Casper, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "A new study shows the AI industry is withholding key information",
+   "authors": "R Bommasani, K Klyman, A Wan, P Liang",
+   "venue": "Stanford University Human-Centered Artificial Intelligence, December",
+   "year": "2025"
+  },
+  {
+   "title": "DRAFT REPORT of the Joint California Policy Working Group on AI Frontier Models",
+   "authors": "R Bommasani, S Singer, RE Appel, S Cen, AF Cooper, LA Gailmard, ...",
+   "venue": "Technical report, Joint California Policy Working Group on AI Frontier Models",
+   "year": "2025"
+  },
+  {
+   "title": "The 2025 Foundation Model Transparency Index (arXiv: 2512.10169). arXiv",
+   "authors": "A Wan, K Klyman, S Kapoor, N Maslej, S Longpre, B Xiong, P Liang, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "International AI safety report. Department for Science, Innovation and Technology",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv [Preprint](2022). 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2025"
+  },
+  {
+   "title": "The california report on frontier AI policy. The Joint California Policy Working Group on AI Frontier Models",
+   "authors": "R Bommasani, SR Singer, RE Appel, S Cen, AF Cooper, LA Gailmard, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Mapping the AI Supply Chain: An Analysis of the Complex Relationships in the AI Ecosystem",
+   "authors": "SH Cen, L Gailmard, R Bommasani, DE Ho, P Liang",
+   "venue": "Forthcoming",
+   "year": "2025"
+  },
+  {
+   "title": "olkopf, D. Song, A. Soto, L. Tiedrich, G. Varoquaux, A. Yao, Y.-Q. Zhang, O. Ajala, F. Albalawi, M. Alserkal, G. Avrin, C. Busch, ACP d. LF de Carvalho, B. Fox, AS Gill, AH …",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "Johnson, G. Jolly, Z. Katzir, SM Khan, H. Kitano, A. Kr\" uger, KM Lee, DV …",
+   "year": "2025"
+  },
+  {
+   "title": "International AI safety report. DSIT 2025/001, 2025",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "Department for Science, Innovation and Technology and AI Safety Institute …",
+   "year": "2025"
+  },
+  {
+   "title": "The 2025 foundation model transparency index, 2025",
+   "authors": "A Wan, K Klyman, S Kapoor, N Maslej, S Longpre, B Xiong, P Liang, ...",
+   "venue": "URL https://arxiv. org/abs/2512.10169",
+   "year": "2025"
+  },
+  {
+   "title": "The California Report on Frontier AI Policy, June 2025",
+   "authors": "R Bommasani, SR Singer, RE Appel, S Cen, AF Cooper, LA Gailmard, ...",
+   "venue": "URL http://arxiv. org/abs/2506.17303",
+   "year": "2025"
+  },
+  {
+   "title": "In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI. arXiv",
+   "authors": "S Longpre, K Klyman, RE Appel, S Kapoor, R Bommasani, M Sahar, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Effective Mitigations for Systemic Risks from General-Purpose AI [arXiv: 2412.02145 [cs] version: 1]",
+   "authors": "R Uuk, A Brouwer, T Schreier, N Dreksler, V Pulignano, R Bommasani",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Effective mitigations for systemic risks from general-purpose AI (arXiv: 2412.02145)",
+   "authors": "R Uuk, A Brouwer, T Schreier, N Dreksler, V Pulignano, R Bommasani",
+   "venue": "DOI: https://doi. org/10.2139/ssrn 5021463",
+   "year": "2024"
+  },
+  {
+   "title": "A Path for Science-and Evidence-based AI Policy. Retrieved December 13, 2024",
+   "authors": "R Bommasani, S Arora, Y Choi, L Fei-Fei, DE Ho, D Jurafsky, S Koyejo, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. arXiv 2211.09110 [preprint] https://arxiv. org/abs/2211.09110. Posted November 16, 2022",
+   "authors": "P Liang, R Bommasani, T Lee",
+   "venue": "Accessed February 9",
+   "year": "2024"
+  },
+  {
+   "title": "International scientific report on the safety of advanced AI (Interim report). arXiv",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2412.05282",
+   "year": "2024"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv 2206.07682 [preprint] https://arxiv. org/abs/2206.07682. Posted June 15, 2022. Updated October 26, 2022",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "Accessed March 27",
+   "year": "2024"
+  },
+  {
+   "title": "A Safe Harbor for AI Evaluation and Red Teaming. arXiv (March 2024)",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2403.04893",
+   "year": "2024"
+  },
+  {
+   "title": "A Safe Harbor for AI Evaluation and Red Teaming. Mar. 7",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2403.04893",
+   "year": "2024"
+  },
+  {
+   "title": "A Path for Science-and Evidence-based AI Policy. Understanding AI Safety",
+   "authors": "R Bommasani, S Arora, Y Choi, DE Ho, D Jurafsky, S Koyejo, H Lakkaraju, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Foundation Models and the EU AI Act",
+   "authors": "R Bommasani, A Hau, K Klyman, P Liang",
+   "venue": "NeurIPS 2024 Workshop on Regulatable ML",
+   "year": "2024"
+  },
+  {
+   "title": "Language models are changing ai: The need for holistic evaluation, 2022",
+   "authors": "R Bommasani, P Liang, T Lee",
+   "venue": "URL https://crfm. stanford. edu/2022/11/17/helm. html. Accessed, 12-01",
+   "year": "2024"
+  },
+  {
+   "title": "Manyshot, adversarial, and out-of-distribution jailbreaking: Robustness of llms and emerging risks. 2023",
+   "authors": "E Perez, SR Bowman, R Bommasani, M Brundage, J Kaplan",
+   "venue": "Accessed",
+   "year": "2024"
+  },
+  {
+   "title": "The first steps to holistic evaluation of vision-language models",
+   "authors": "T Lee, Y Mai, CH Wong, JS Roberts, M Yasunaga, F Kaiyom, ...",
+   "venue": "May",
+   "year": "2024"
+  },
+  {
+   "title": "Holistic evaluation of language models [Featured Certification, Expert Certification]",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Transactions on Machine Learning Research. https://openreview. net/forum",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. TMLR (2023)",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2023"
+  },
+  {
+   "title": "Safety and Ethics in the Era of Generative AI",
+   "authors": "R Bommasani, P Liang, Y Wu",
+   "venue": "arXiv preprint arXiv:2306.03772",
+   "year": "2023"
+  },
+  {
+   "title": "Ecosystem graphs: The social footprint of Foundation Models (No. arXiv: 2303.15772). arXiv",
+   "authors": "R Bommasani, D Soylu, TI Liao, KA Creel, P Liang",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "HELM Lite: Lightweight and Broad Capabilities Evaluation",
+   "authors": "P Liang, Y Mai, J Somerville, F Kaiyom, T Lee, R Bommasani",
+   "venue": "Stanford CRFM blog",
+   "year": "2023"
+  },
+  {
+   "title": "Ecosystem Graphs: The Social Footprint of Foundation Models. arXiv",
+   "authors": "R Bommasani, D Soylu, TI Liao, KA Creel, P Liang",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "The Foundation Model Transparency Index. Arxiv. Org",
+   "authors": "R Bommasani, K Klyman, S Longpre",
+   "venue": "Ithaca: Cornell University Library. arXiv. org. Epub ahead of print",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic evaluation of language models; holistic evaluation of language models. ArXiv, 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic evaluation of language models. Transactions on Machine Learning Research. Featured Certification, Expert Certification",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models, Oct",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2023"
+  },
+  {
+   "title": "Ecosystem Graphs",
+   "authors": "R Bommasani, D Soylu, TI Liao, KA Creel, P Liang",
+   "venue": "The social footprint of Foundation Models",
+   "year": "2023"
+  },
+  {
+   "title": "Jue wang, Keshav Santhanam, Laurel Orr, Lucia Zheng, Mert Yuksekgonul, Mirac Suzgun, Nathan Kim, Neel Guha, Niladri S",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Chatterji, Omar Khattab, Peter Henderson, Qian Huang, Ryan Andrew Chi, Sang …",
+   "year": "2023"
+  },
+  {
+   "title": "The Foundation Model Transparency Index. ArXiv abs/2310.12941 (2023)",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "The foundation model transparency index. arXiv [cs. LG]",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong, ...",
+   "venue": "October",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "October 26 Emergent Abilities of Large Language Models. arXiv",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv [Preprint](2023). 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models, arXiv e-prints, pp",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models. 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv.2303.05759",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv",
+   "authors": "DA Rishi-Bommasani",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "& Y. Koreeda,\" Holistic Evaluation of Language Models,\"",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. 3, 123–128. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. ArXiv abs/2211.09110 (2022)",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "with 40 other authors",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Holistic evaluation of language models. CoRR., abs/2211/09110",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models. ArXiv, abs/2206.07682",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "URL https://api. semanticscholar. org/CorpusID 249674500",
+   "year": "2022"
+  },
+  {
+   "title": "Bommasani R. Lee T",
+   "authors": "P Liang",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large language models. In arXiv [cs. CL]. arXiv",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "July 12. On the Opportunities and Risks of Foundation Models. arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. CoRR, abs/2211.09110. doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv e-prints",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, ...",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models, Centre for Research on Human-Centred AI",
+   "authors": "R Bommasani",
+   "venue": "Stanford University, Stanford. https://arxiv. org/pdf/2108.07258. pdf",
+   "year": "2022"
+  },
+  {
+   "title": "Foundations of Large Language Models: A Comprehensive Overview",
+   "authors": "R Bommasani, D Hudson, M Brundage",
+   "venue": "Journal of Artificial Intelligence Research 75, 1-48",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv. doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models [Электронный ресурс]",
+   "authors": "P Liang, R Bommasani, T Lee",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler",
+   "authors": "W Jason, T Yi",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Picking on the same person: Does algorithmic monoculture lead to outcome homogenization? arXiv preprint",
+   "authors": "R Bommasani, KA Creel, A Kumar, D Jurafsky, P Liang",
+   "venue": "arXiv preprint ArXiv:2211.13972",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models. arXiv preprint (Jan. 2022)",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "CS324-Large Language Models",
+   "authors": "P Liang, T Hashimoto, CR Bommasani, SM Xie",
+   "venue": "Course. URL: https://stanford-cs324. github. io/winter2022/lectures/modeling",
+   "year": "2022"
+  },
+  {
+   "title": "DA hudson, e",
+   "authors": "R Bommasani",
+   "venue": "Adeli, R. Altman, S. Arora, S. von Arx, and P. liang",
+   "year": "2021"
+  },
+  {
+   "title": "CoRR, abs/2108.07258",
+   "authors": "R Bommasani",
+   "venue": "Preprint at https://arxiv. org/abs/2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Adeli, Eea On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson",
+   "venue": "Report from Stanford Institute for Human-Centered Artificial Intelligence",
+   "year": "2021"
+  },
+  {
+   "title": "Altman",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "R., Arora, S., von Arx, S.,... & Liang, P",
+   "year": "2021"
+  },
+  {
+   "title": "Altman,“On the opportunities and risks of foundation models,”",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Sydney von",
+   "authors": "R Bommasani, DA Hudson, E Adeli, A Russ Altman, A Simran",
+   "venue": "B., Michael, S., Bohg, J., Bosselut, A., & Brunskill, E., et al",
+   "year": "2021"
+  },
+  {
+   "title": "Assessing the State of the Art in AI Ethics and Governance",
+   "authors": "R Bommasani, C Cardie",
+   "venue": "The Matter of Trust: Ethical AI for Public Good. Springer, Cham, 143-160",
+   "year": "2021"
+  },
+  {
+   "title": "& Liang, P.,“On the opportunities and risks of foundation models,” arXiv preprint, p",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "arXiv e-prints",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv, Published online July 12, 2022",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "August 16. On the Opportunities and Risks of Foundation Models. arXiv [cs. LG]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (BERT, DALL-E, GPT-3)",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv e-prints",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Sydney von Arx, Michael S Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill, and others. On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv:2108.07258 1",
+   "year": "2021"
+  },
+  {
+   "title": "January 5-10). Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings. Proceedings of the 58th Annual Meeting of the Association for …",
+   "authors": "R Bommasani, K Davis, C Cardie",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Interpreting pretrained contextualized representations via reductions to static embeddings. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+   "authors": "R Bommasani, K Davis, C Cardie",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models [Internet]. 2022 [cited 2025 Nov 25]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Arx, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "022. Holistic Evaluation of Language Models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models, arXiv preprint 1120",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Legal alignment for safe and ethical ai, 2026",
+   "authors": "N Kolt, N Caputo, J Boeglin, C O’Keefe, R Bommasani, S Casper, ...",
+   "venue": "URL https://arxiv. org/abs/2601.04175",
+   "year": null
+  },
+  {
+   "title": "Holistic Evaluation of Language Models (HELM)",
+   "authors": "P Liang, R Bommasani, T Chen",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": null
+  },
+  {
+   "title": "HELM safety: Towards standardized safety evaluations of language models, 8 Nov. 2024",
+   "authors": "F Kaiyom, A Ahmed, Y Mai, K Klyman, R Bommasani, P Liang",
+   "venue": "URL https://crfm. stanford. edu/2024/11/08/helm-safety. html",
+   "year": null
+  },
+  {
+   "title": "Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?[Preprint](2022)",
+   "authors": "R Bommasani, KA Creel, A Kumar, D Jurafsky, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "O., Liang, P., Dean, J. & Fedus, W.(2022). Emergent abilities of large language models",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "Transactions on Machine Learning Research, 1-30",
+   "year": null
+  },
+  {
+   "title": "CuÃ© llar, MF, Honigsberg, C., Liang, P., & Ho, DE (2024). AI Regulation Has Its Own Alignment Problem: The Technical and Institutional Feasibility of Disclosure, Registration …",
+   "authors": "N Guha, CM Lawrence, LA Gailmard, KT Rodolfa, F Surani, R Bommasani, ...",
+   "venue": "George Washington Law Review 92 (6)",
+   "year": null
+  },
+  {
+   "title": "A safe harbor for ai evaluation and red teaming (2024)",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2403.04893",
+   "year": null
+  },
+  {
+   "title": "632 gatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H Chi, Tatsunori Hashimoto, Oriol 633 Vinyals, Percy Liang, Jeff Dean, and William Fedus",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yo",
+   "venue": "Emergent abilities of large language models 634",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill, Erik Brynjolfsson, et al.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv 2108",
+   "year": null
+  },
+  {
+   "title": "Foundation model transparency reports, 2024b",
+   "authors": "R Bommasani, K Klyman, S Longpre, B Xiong, S Kapoor, N Maslej, ...",
+   "venue": "URL https://arxiv. org/abs/2402.16268",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (No. arXiv: 2108.07258). arXiv (2022)",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "& Schmid, C.(2022). Emergent abilities of large language models",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "Transactions on Machine Learning Research",
+   "year": null
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. Published online 2022. doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee",
+   "venue": "arXiv preprint ARXIV.2211.09110",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv preprint arXiv.(2021) 2108: 07258. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, P Liang",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "& Leskovec, J.(2022). Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, et al. 2021.“On the Opportunities and Risks of Foundation Models”. ArXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Language Models Are Unsupervised Multitask Learners. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2109.08270",
+   "year": null
+  },
+  {
+   "title": "y P. Liang. On the opportunities and risks of foundation models. arXiv preprint, 2022",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "others. 2021. On the Opportunities and Risks of Foundation Models. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman",
+   "venue": "arXiv preprint ARXIV.2108.07258",
+   "year": null
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models. arXiv [cs. CL]. 2022; published online June 15",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. Accessed: Oct. 12, 2022",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2021;: 1–214",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The Foundation Model Transparency Index. Preprint at",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv. 2022 10.48550",
+   "authors": "W Jason, T Yi, R Bommasani",
+   "venue": "arXiv preprint arXiv.2206.07682",
+   "year": null
+  },
+  {
+   "title": "Onthe opportunities and risks of foundation models. arXiv, 2108.07258 v3 [cs. LG], 1-214",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "& Percy, L.(2021). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "ArXiv 2108",
+   "year": null
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models. 2022 [cited 2024 Aug 11]",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. 2022; 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Arx",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "y Bosselut, A.(2022)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "On the opportunities and risks of foundation models",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv: 210807258. 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "Cited Here",
+   "year": null
+  },
+  {
+   "title": "S Bernstein M, Bohg J, Bosselut A, Brunskill E and et al (2022) On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, D Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "Arxiv",
+   "year": null
+  },
+  {
+   "title": "& Koreeda, Y.(2023). Holistic evaluation of language models (HELM). arXiv",
+   "authors": "P Liang, R Bommasani, KD Lee, D Tsipras, D Soylu, M Yasunaga",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. Arxiv. Published online 2021. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arxiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "Coauthors, 2021: On the opportunities and risks of foundation models. arXiv, 2108.07258 v3",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models [Internet]. arXiv; 2022 [cited 2023 May 31]",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv. 2022 Oct 26; doi: 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "arXiv preprint arXiv.2206.07682",
+   "year": null
+  },
+  {
+   "title": "& Metzler, D.(2022). Emergent abilities of large language models",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "arXiv Preprint",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv [Preprint]. 2021 [cited August 21, 2023]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The foundation model transparency index. arXiv [Preprint](2023)",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risk of foundation models [OL]",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. CoRR, abs/2211.09110, 2023. doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv [csCL]. Published online June 15, 2022",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "& Bohg, J.(2022). On the Opportunities and Risks of Foundation Models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the op 原 portunities and risks of foundation models",
+   "authors": "R BOMMASANI, DA HUDSON, E ADELI",
+   "venue": "2021-08-16)[2022-10-01]. https://arxiv. org/abs/2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. Accessed: Mar. 02, 2024",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models [Internet]. arXiv [cs. CL]. 2022",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Ecosystem graphs: the social footprint of foundation models. Preprint at",
+   "authors": "R Bommasani, D Soylu, TI Liao, KA Creel, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "& Bernstein, MS (2021). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Holistic evaluation of language models. 2023. 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv.2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv. Posted online June 15, 2022. Updated October 26, 2022. doi: 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani",
+   "venue": "arXiv preprint arXiv.2206.07682",
+   "year": null
+  },
+  {
+   "title": "Evaluating Human-Language Model Interaction (2023)",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arxiv:2212.09746",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. Published online August 16, 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021). CoRR abs/2108.07258",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Ecosystem-level Analysis of Deployed Machine Learning Reveals Homogeneous Outcomes, July 2023",
+   "authors": "C Toups, R Bommasani, KA Creel, SH Bana, D Jurafsky, P Liang",
+   "venue": "URL http://arxiv. org/abs/2307.05862",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. Accessed: Aug. 30, 2023",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Coauthors, 2021: On the opportunities and risks of foundation models",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models [Internet]. arXiv; 2022.[cited 2023 Jul 11]",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Submitted August 16, 2021. Accessed October 24, 2023. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. Published online July 12, 2022. 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (arXiv: 2108.07258), July 2022",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models.(2021) 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint ARXIV.2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models.” arXiv, 2022. doi. org/10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "The reality of AI and biorisk, 2024",
+   "authors": "A Peppin, A Reuel, S Casper, E Jones, A Strait, U Anwar, A Agrawal, ...",
+   "venue": "URL https://arxiv. org/abs/2412.01946",
+   "year": null
+  },
+  {
+   "title": "In-house evaluation is not enough: Towards robust third-party flaw disclosure for general-purpose ai, 2025a",
+   "authors": "S Longpre, K Klyman, RE Appel, S Kapoor, R Bommasani, M Sahar, ...",
+   "venue": "URL https://arxiv. org/abs/2503.16861",
+   "year": null
+  },
+  {
+   "title": "Drawing Lines: Tiers for Foundation Models, 2023",
+   "authors": "R Bommasani",
+   "venue": "URL https://crfm. stanford. edu/2023/11/18/tiers. html",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models, Jul. 12, 2022. doi: 10. 48550/arXiv. 2108. 07258",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "and Percy Liang. 2022. On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "Preprint",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, et al.“On the Opportunities and Risks of Foundation Models.” arXiv. org, August 16, 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2018",
+   "authors": "B Rishi, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "ArXiv preprint: https://arxiv. org/pdf/2108.07258. pdf",
+   "year": null
+  },
+  {
+   "title": "452 Maarten Bosma, Denny Zhou, Donald Metzler, et al",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama",
+   "venue": "Emergent abilities of large language models. arXiv 453",
+   "year": null
+  },
+  {
+   "title": "The foundation model development cheatsheet, 2024",
+   "authors": "S Longpre, S Biderman, A Albalak, G Ilharco, S Kapoor, K Klyman, K Lo, ...",
+   "venue": "URL https://github. com/allenai/fm-cheatsheet/blob/main/app/resources/paper. pdf",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, Michael S Bernstein, et al. 2021.‘On the Opportunities and Risks of Foundation Models’. ArXiv abs/2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+   "authors": "X Lin, S Zhu, S Yang, Z Zhang, H Zhang, Y Zhao, C Qian, T Wang, ...",
+   "venue": "arXiv preprint arXiv:2607.28617",
+   "year": "2026"
+  },
+  {
+   "title": "The Jagged Global Economy: Frontier AI Unevenly Exposes National Economies",
+   "authors": "A Murugan, T Aguirre, A Nagaraj, R Bommasani",
+   "venue": "arXiv preprint arXiv:2607.05404",
+   "year": "2026"
+  },
+  {
+   "title": "Position: Language model developers should report train-test overlap",
+   "authors": "AK Zhang, K Klyman, Y Mai, Y Levine, Y Zhang, R Bommasani, P Liang",
+   "venue": "Forty-second International Conference on Machine Learning Position Paper Track",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (arXiv: 2108.07258)[Preprint]. arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. Online",
+   "authors": "P LIANG, R BOMMASANI, T LEE, D TSIPRAS, D SOYLU",
+   "venue": "ArXiv (Cornell University)",
+   "year": "2022"
+  },
+  {
+   "title": "ªFinetuned language models are zero-shot learners, º",
+   "authors": "J Wei, Y Tay, R Bommasani, K Ritter, C Ma, B Zoph, QV Le, AW Chi",
+   "venue": "arXiv preprint arXiv 2205",
+   "year": "2022"
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, et al.“On the Opportunities and Risks of Foundation Models.” arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Distilling static embeddings from pretrained contextual representations",
+   "authors": "R Bommasani, K Davis, C Cardie",
+   "venue": "Bert wears gloves",
+   "year": "2019"
+  },
+  {
+   "title": "H. Chi, et al.(2022). Emergent abilities of large language models",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": null
+  },
+  {
+   "title": "FLARE-AI: Flaw Reporting for AI",
+   "authors": "S Longpre, E Zhu, C Ezell, A Ghosh, S McGregor, K Paeth, K Klyman, ...",
+   "venue": "arXiv preprint arXiv:2606.31567",
+   "year": "2026"
+  },
+  {
+   "title": "Estimating time spent on work tasks",
+   "authors": "S Hatgis-Kessell, T Aguirre, A Wan, R Bommasani",
+   "venue": "arXiv preprint arXiv:2608.05172",
+   "year": "2026"
+  },
+  {
+   "title": "Economic Evaluations of Language Models",
+   "authors": "A Wan, S Hatgis-Kessell, T Aguirre, P Liang, R Bommasani",
+   "venue": "arXiv preprint arXiv:2607.19375",
+   "year": "2026"
+  },
+  {
+   "title": "The Limits of AI Data Transparency Policy: Three Disclosure Fallacies",
+   "authors": "JH Shen, K Liu, A Wang, SH Cen, AK Zhang, C Meinhardt, D Zhang, ...",
+   "venue": "arXiv preprint arXiv:2601.18127",
+   "year": "2026"
+  },
+  {
+   "title": "The Limits of AI Data Transparency Policy: Three Disclosure Fallacies",
+   "authors": "J Hanwen Shen, K Liu, A Wang, SH Cen, AK Zhang, C Meinhardt, ...",
+   "venue": "arXiv e-prints, arXiv: 2601.18127",
+   "year": "2026"
+  },
+  {
+   "title": "The 2025 Foundation Model Transparency Index. arXivLabs",
+   "authors": "A Wan, K Klyman, S Kapoor, N Maslej, S Longpre, B Xiong, P Liang, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Transparency in AI Is on the Decline",
+   "authors": "R Bommasani, K Klyman, A Wan, P Liang",
+   "venue": "December. https://hai. stanford. edu/news/transparency-in-ai-is-on-thedecline",
+   "year": "2025"
+  },
+  {
+   "title": "Recommendations to the US Department of Commerce National Telecommunications and Information Administration on Dual-Use, Open-Weight Foundation AI Models",
+   "authors": "A Nelson, A Trask, B Garfinkel, C Custis, D Hendrycks, D Ganguli, D Chou, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Position",
+   "authors": "S Kapoor, R Bommasani, K Klyman, S Longpre, A Ramaswami, P Cihon, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Emergent capabilities of large language models",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, Q Le",
+   "venue": "Transactions on Machine Learning Research 10, 1-42",
+   "year": "2023"
+  },
+  {
+   "title": "RÃ©, C",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Acosta-Navas, D., Hudson, DA, Zelikman, E., Durmus, E., Ladhak, F., Rong, F …",
+   "year": "2023"
+  },
+  {
+   "title": "5 Convergent mechanisms of microglia-mediated synaptic dysfunction contribute to diverse neuropathological conditions",
+   "authors": "N Scott-Hewitt, Y Huang, B Stevens, K Roelofs, B Bramson, I Toni, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+   "authors": "M Contributors",
+   "venue": "arXiv preprint arXiv:2211.05100",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv [preprint]. doi: 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv.2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models [Version Number: 2]",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating human-language model interaction. arXiv",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arXiv:2212.09746",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models. arXiv (Nov",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "ICPP’25, September 08–11, 2025, San Diego, CA Ziji Shi, Le Jiang, Ang Wang, Jie Zhang, Chencan Wu, Yong Li, Xiaokui Xiao, Wei Lin, and Jialin Li 2022. Emergent abilities of …",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "Transactions on Machine Learning Research (TMLR)",
+   "year": "2022"
+  },
+  {
+   "title": "Dani 427 Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, 428 Oriol Vinyals, Percy Liang, Jeff Dean, and William Fedus. Emergent abilities …",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "Transactions on Machine Learning Research 430, 11",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Helm: Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Mhaiskar",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "I TAC, P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Sydney von Arx, et al. On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv 2108",
+   "year": "2022"
+  },
+  {
+   "title": "others. Holistic Evaluation of Language Models",
+   "authors": "B Rishi, L Tony, T Dimitris, S Dilara, Y Michihiro, Z Yian, N Deepak, ...",
+   "venue": "arXiv e-prints",
+   "year": "2022"
+  },
+  {
+   "title": "Sydney von Arx, et al. 2022. On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Russ Altó man, Simran Arora, Sydney von Arx, Michael S Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill, et al",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "On the opportunities and risks of foundation models.¿® È· ª®»®· ²¬¿® È …",
+   "year": "2021"
+  },
+  {
+   "title": "Brunskill Eea. On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (Technical Report). arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, P Liang",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Oportunidades y riesgos de los modelos fundacionales",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "Bommasani, R., Hudson, DA, Adeli, E., Altman, R., Arora, S., von Arx, S ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. arXiv: 2108. 07258v3 [cs. LG]",
+   "authors": "R Bommasani",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv preprint ID 2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, P Liang",
+   "venue": "Supplied as supplemental material https://arxiv. org/abs/2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv: 2108. 07258https",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "doi. org/10.48550/arXiv 2108",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv preprint 976",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv:2108.07258 977",
+   "year": "2021"
+  },
+  {
+   "title": "& Liang, P.(2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "On the opportunities and risks of foundation models",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+   "authors": "R Bommasani, K Davis, C Cardie",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Towards Understanding Position Embeddings",
+   "authors": "R Bommasani, C Cardie",
+   "venue": "2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks …",
+   "year": "2019"
+  },
+  {
+   "title": "others. 2026. Legal alignment for safe and ethical ai",
+   "authors": "N Kolt, N Caputo, J Boeglin, C O’Keefe, R Bommasani, S Casper, ...",
+   "venue": "arXiv preprint arXiv:2601.04175",
+   "year": "1"
+  },
+  {
+   "title": "The california report on frontier ai policy, 2025",
+   "authors": "R Bommasani, SR Singer, RE Appel, S Cen, AF Cooper, LA Gailmard, ...",
+   "venue": "URL https://arxiv. org/abs/2506.17303",
+   "year": null
+  },
+  {
+   "title": "Mapping the AI Supply Chain: Tracking Relationships, Partnerships, and Dependencies in the AI Industry",
+   "authors": "SH Cen, LA Gailmard, J Kim, R Bommasani, DE Ho, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models.(2021) https://doi. org/10. 48550",
+   "authors": "R Bommasani",
+   "venue": "ARXIV 2108, 07258",
+   "year": null
+  },
+  {
+   "title": "AISPA: System Prompt Auditing for Large Language Model Applications",
+   "authors": "X Lin, S Zhu, S Yang11, Z Zhang, H Zhang, Y Zhao, C Qian, T Wang, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv preprint.(2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "the others. On the opportunities and risks of foundation models",
+   "authors": "R Bommasani",
+   "venue": "Computer Science. Cornell University–2021.[Online access] URL: https://arxiv …",
+   "year": null
+  },
+  {
+   "title": "& Liang, P.(2022)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "On the opportunities and risks of foundation models",
+   "year": null
+  },
+  {
+   "title": "Holistic evaluation of language models, 2023",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "URL https://arxiv. org/abs/2211.09110",
+   "year": null
+  },
+  {
+   "title": "AI accountability policy request for comment. Department of Commerce, National Telecommunications and Information Administration Docket No. 230407-0093, RIN 0660-XC057",
+   "authors": "R Bommasani, S Kapoor, D Zhang, A Narayanan, P Liang",
+   "venue": "Stanford University",
+   "year": null
+  },
+  {
+   "title": "The Foundation Model Transparency Index. arXiv 2023",
+   "authors": "A Wan, K Klyman, S Kapoor, N Maslej, S Longpre, B Xiong, P Liang, ...",
+   "venue": "arXiv preprint arXiv:2310.12941",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2022; published online July 12. DOI: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "Holistic evaluation of language models,(2022). 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv.2211.09110",
+   "year": null
+  },
+  {
+   "title": "Emergent abilities of large language models. arXiv. 2022; 220607682",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "Cited Here",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. arXiv Prepr 2022",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models [Internet]. arXiv; 2022 [citirano 15. travnja 2025.]",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Arx",
+   "venue": "Dostupno na: http://arxiv. org/abs/2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models [Електронний ресурс]/arXiv preprint.–2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "Режим доступу: https://arxiv. org/abs/2108.07258 (дата звернення: 30.10. 2025)",
+   "year": null
+  },
+  {
+   "title": "& Koreeda, Y.(2022). Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": null
+  },
+  {
+   "title": "Emergent Abilities of Large Language Models, 2022. doi: 10.48550",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv.2206.07682",
+   "year": null
+  },
+  {
+   "title": "The linearity of crosslingual word embeddings: A geometric analysis",
+   "authors": "JX Morris, R Bommasani, A Naik, AM Rush",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": null
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models, 2023",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv:2108.0725 8",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, et al. 2021.“On the Opportunities and Risks of Foundation Models.”",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv 2108",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill, et al. 2021. On the Opportunities and Risks of Foundation Models. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill ua (2021).„On the Opportunities and Risks of Foundation Models “",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "GEORGE WASHINGTON LAW REVIEW",
+   "authors": "E John, KTR Gailmard",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "474 Ines Gerard-Ursin, Xiang Lisa Li, Faisal Ladhak, Frieda Rong, Rose E Wang, Minae Kwon, 475 Joon Sung Park, Hancheng Cao, Tony Lee, Rishi Bommasani, Michael S. Bernstein …",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape",
+   "venue": "Transactions on Machine Learning 477",
+   "year": null
+  },
+  {
+   "title": "Dani 530 Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud",
+   "venue": "Chi, Tatsunori Hashimoto 531",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, Michael S Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill, and 1 others. 2021. On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv 2108",
+   "year": null
+  },
+  {
+   "title": "& Liang",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx",
+   "venue": "P.\" On the opportunities and risks of foundation models.\" arXiv preprint",
+   "year": null
+  },
+  {
+   "title": "169 Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, 170 Jeff Dean, and William Fedus. Emergent abilities of large …",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama",
+   "venue": "Transactions on Machine 171",
+   "year": null
+  },
+  {
+   "title": "Holistic evaluation of language models, 2023. M. Ranzato, A. Beygelzimer, Y. Dauphin, PS Liang, and J. Wortman Vaughan, editors",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Advances in Neural Information Processing Systems 34, 15682-15694",
+   "year": null
+  },
+  {
+   "title": "BERNSTEIN et al. 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, V SYDNEY, ...",
+   "venue": "On the Opportunities and Risks of Foundation Models",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx, Michael S. Bernstein, et al. 2021.“On the Opportunities and Risks of Foundation Models.”",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "arXiv preprint arXiv 2108",
+   "year": null
+  },
+  {
+   "title": "BERNSTEIN et al. 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, V SYDNEY, ...",
+   "venue": "On the Opportunities and Risks of Foundation Models",
+   "year": null
+  }
+ ]
+}

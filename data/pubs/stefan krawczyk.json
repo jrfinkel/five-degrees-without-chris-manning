@@ -1,0 +1,83 @@
+{
+ "user": "2d_37dEAAAAJ",
+ "pubs": [
+  {
+   "title": "Belief tracking and action selection in spoken dialog systems",
+   "authors": "R Gupta, D Ramachandran, A Raux, N Mehta, S Krawczyk, M Hoffman",
+   "venue": "US Patent 8,676,583",
+   "year": "2014"
+  },
+  {
+   "title": "Citation‐based bootstrapping for large‐scale author disambiguation",
+   "authors": "M Levin, S Krawczyk, S Bethard, D Jurafsky",
+   "venue": "Journal of the American Society for Information Science and Technology 63 (5 …",
+   "year": "2012"
+  },
+  {
+   "title": "Grid Resource Allocation: Allocation Mechanisms and Utilisation Patterns.",
+   "authors": "S Krawczyk, K Bubendorfer",
+   "venue": "AusGrid 8, 73-81",
+   "year": "2008"
+  },
+  {
+   "title": "Probabilistic ontology trees for belief tracking in dialog systems",
+   "authors": "N Mehta, R Gupta, A Raux, D Ramachandran, S Krawczyk",
+   "venue": "Proceedings of the SIGDIAL 2010 Conference, 37-46",
+   "year": "2010"
+  },
+  {
+   "title": "Cs224n: Investigating sms text normalization using statistical machine translation",
+   "authors": "K Raghunathan, S Krawczyk",
+   "venue": "Department of Computer Science, Stanford University",
+   "year": "2009"
+  },
+  {
+   "title": "Investigating SMS text normalization using statistical machine translation",
+   "authors": "K Raghunathan, S Krawczyk",
+   "venue": "Department of Computer Science, Stanford University",
+   "year": "2009"
+  },
+  {
+   "title": "Hamilton: enabling software engineering best practices for data transformations via generalized dataflow graphs.",
+   "authors": "S Krawczyk, E ben Izzy, D Quinn",
+   "venue": "DEco@ VLDB, 41-50",
+   "year": "2022"
+  },
+  {
+   "title": "naturf: a package for generating urban parameters for numerical weather modeling",
+   "authors": "LT Sweet-Breu, E Rexer, CR Vernon, MR Allen-Dumas, S Krawczyk",
+   "venue": "Journal of Open Source Software 9 (98), 6712",
+   "year": "2024"
+  },
+  {
+   "title": "Hamilton: a modular open source declarative paradigm for high level modeling of dataflows.",
+   "authors": "S Krawczyk, E ben Izzy",
+   "venue": "CDMS@ VLDB",
+   "year": "2022"
+  },
+  {
+   "title": "A Situated, Embodied Spoken Language System for Household Robotics",
+   "authors": "A Vogel, K Raghunathan, S Krawczyk",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "Improving Performance, Scalability, and Transparency of Urban Morphology Modeling",
+   "authors": "E Rexer, LT Sweet-Breu, S Krawczyk, E Izzy, MR Allen, CR Vernon",
+   "venue": "AGU Fall Meeting Abstracts 2023 (1169), GC31K-1169",
+   "year": "2023"
+  },
+  {
+   "title": "Analyzing Stanford’s Academic Network",
+   "authors": "A Anderson, S Krawczyk",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "CS229: Grant Prediction with Network Features",
+   "authors": "S Krawczyk",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "user": "7f6wto8AAAAJ",
+ "pubs": [
+  {
+   "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+   "authors": "R Socher, A Perelygin, JY Wu, J Chuang, CD Manning, AY Ng, C Potts",
+   "venue": "Conference on Empirical Methods on Natural Language Processing (EMNLP)",
+   "year": "2013"
+  },
+  {
+   "title": "Termite: Visualization Techniques for Assessing Textual Topic Models",
+   "authors": "J Chuang, CD Manning, J Heer",
+   "venue": "International Working Conference on Advanced Visual Interfaces (AVI)",
+   "year": "2012"
+  },
+  {
+   "title": "Interpretation and Trust: Designing Model-Driven Visualizations for Text Analysis",
+   "authors": "J Chuang, D Ramage, CD Manning, J Heer",
+   "venue": "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)",
+   "year": "2012"
+  },
+  {
+   "title": "Topic Modeling for the Social Sciences",
+   "authors": "D Ramage, E Rosen, J Chuang, CD Manning, DA McFarland",
+   "venue": "Conference on Neural Information Processing Systems (NIPS) Workshop on …",
+   "year": "2009"
+  },
+  {
+   "title": "Hand-Held Steerable Needle Device",
+   "authors": "S Okazawa, R Ebrahimi, J Chuang, SE Salcudean, R Rohling",
+   "venue": "IEEE/ASME Transactions on Mechatronics 10 (3), 285-296",
+   "year": "2005"
+  },
+  {
+   "title": "Differentiating Language Usage through Topic Models",
+   "authors": "DA McFarland, D Ramage, J Chuang, J Heer, CD Manning, D Jurafsky",
+   "venue": "Poetics: Special Issue on Topic Models and the Cultural Sciences 41 (6), 607-625",
+   "year": "2013"
+  },
+  {
+   "title": "Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment",
+   "authors": "J Chuang, S Gupta, CD Manning, J Heer",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2013"
+  },
+  {
+   "title": "RNA Sequencing Reveals Diverse and Dynamic Repertoire of the Xenopus Tropicalis Transcriptome Over Development",
+   "authors": "MH Tan, KF Au, A Yablonovitch, A Wills, J Chuang, J Baker, WH Wong, ...",
+   "venue": "Genome Research 23 (1), 201-216",
+   "year": "2013"
+  },
+  {
+   "title": "Methods for Segmenting Curved Needles in Ultrasound Images",
+   "authors": "SH Okazawa, R Ebrahimi, J Chuang, RN Rohling, SE Salcudean",
+   "venue": "Medical Image Analysis 10 (3), 330-342",
+   "year": "2006"
+  },
+  {
+   "title": "\"Without the Clutter of Unimportant Words\": Descriptive Keyphrases for Text Visualization",
+   "authors": "J Chuang, CD Manning, J Heer",
+   "venue": "ACM Transactions on Computer-Human Interaction (TOCHI) 19 (3), 1-29",
+   "year": "2012"
+  },
+  {
+   "title": "TopicCheck: Interactive alignment for assessing topic model stability",
+   "authors": "J Chuang, ME Roberts, BM Stewart, R Weiss, D Tingley, J Grimmer, ...",
+   "venue": "Proceedings of the 2015 conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Semantic Image Classification and Search",
+   "authors": "J Chuang, H Winnemoeller, AS Incorporated",
+   "venue": "US Patent 8,391,618",
+   "year": "2013"
+  },
+  {
+   "title": "Human Effort and Machine Learnability in Computer Aided Translation",
+   "authors": "S Green, S Wang, J Chuang, J Heer, S Schuster",
+   "venue": "Conference on Empirical Methods on Natural Language Processing (EMNLP)",
+   "year": "2014"
+  },
+  {
+   "title": "Predictive Translation Memory: A Mixed-Initiative System for Human Language Translation",
+   "authors": "S Green, J Chuang, J Heer, CD Manning",
+   "venue": "ACM Symposium on User Interface Software and Technology (UIST)",
+   "year": "2014"
+  },
+  {
+   "title": "A Probabilistic Model of the Categorical Association Between Colors, 60 light purple purple lilac pink light pink maroon blue red salmon sky blue light blue white brown peach …",
+   "authors": "J Chuang, P Hanrahan, M Stone",
+   "venue": "The Society for Imaging Science and Technology, Portland",
+   "year": "2008"
+  },
+  {
+   "title": "Computer-assisted content analysis: Topic models for exploring multiple subjective interpretations",
+   "authors": "J Chuang, JD Wilkerson, R Weiss, D Tingley, BM Stewart, ME Roberts, ...",
+   "venue": "Advances in Neural Information Processing Systems workshop on human …",
+   "year": "2014"
+  },
+  {
+   "title": "Training and Using Classification Components on Multiple Processing Units",
+   "authors": "G Bradski, J Chuang",
+   "venue": "US Patent 7,783,114",
+   "year": "2010"
+  },
+  {
+   "title": "A Probabilistic Model of the Categorical Association between Colors",
+   "authors": "J Chuang, M Stone, P Hanrahan",
+   "venue": "Color Imaging Conference (CIC)",
+   "year": "2008"
+  },
+  {
+   "title": "Concurrent Visualization of Relationships between Words and Topics in Topic Models",
+   "authors": "A Smith, J Chuang, Y Hu, J Boyd-Graber, L Findlater",
+   "venue": "Annual Meeting of the Association for Computational Linguistics (ACL …",
+   "year": "2014"
+  },
+  {
+   "title": "Document Exploration with Topic Modeling: Designing Interactive Visualizations to Support Effective Analysis Workflows",
+   "authors": "J Chuang, Y Hu, A Jin, JD Wilkerson, DA McFarland, CD Manning, J Heer",
+   "venue": "Conference on Neural Information Processing Systems (NIPS) Workshop on Topic …",
+   "year": "2013"
+  },
+  {
+   "title": "Estimating Sensor Sensitivity",
+   "authors": "J Chuang, H Winnemoeller, AS Incorporated",
+   "venue": "US Patent 8,452,116",
+   "year": "2013"
+  },
+  {
+   "title": "Open-Loop Plans in Multi-Robot POMDPs",
+   "authors": "C Yu, J Chuang, B Gerkey, G Gordon, A Ng",
+   "venue": "Technical report, Stanford CS Dept",
+   "year": "2005"
+  },
+  {
+   "title": "Human-centered interactive clustering for data analysis",
+   "authors": "J Chuang, DJ Hsu",
+   "venue": "Conference on Neural Information Processing Systems (NIPS). Workshop on …",
+   "year": "2014"
+  },
+  {
+   "title": "Large-Scale Topical Analysis of Multiple Online News Sources with Media Cloud",
+   "authors": "J Chuang, S Fish, D Larochelle, WP Li, R Weiss",
+   "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) NewsKDD …",
+   "year": "2014"
+  },
+  {
+   "title": "Large-Scale Examination of Academic Publications Using Statistical Models",
+   "authors": "J Chuang, D Ramage, DA McFarland, CD Manning, J Heer",
+   "venue": "International Conference on Advanced Visual Interfaces (AVI) Workshop on …",
+   "year": "2012"
+  },
+  {
+   "title": "Interactive visualizations for deep learning",
+   "authors": "J Chuang, R Socher",
+   "venue": "Proceedings of the IEEE VIS Workshop on Visualization for Predictive Analytics",
+   "year": "2014"
+  },
+  {
+   "title": "Statistically identifying basic color terms",
+   "authors": "J Chuang, P Hanrahan",
+   "venue": "Technical report, Purdue University. FFM FHC FMM FTM",
+   "year": "2009"
+  },
+  {
+   "title": "Designing Visual Text Analysis Methods to Support Sensemaking and Modeling",
+   "authors": "J Chuang",
+   "venue": "Stanford University",
+   "year": "2013"
+  },
+  {
+   "title": "Proceedings of the Workshop on Interactive Language Learning, Visualization, and Interfaces",
+   "authors": "J Chuang, S Green, MA Hearst, J Heer, P Koehn",
+   "venue": "Proceedings of the Workshop on Interactive Language Learning, Visualization …",
+   "year": "2014"
+  },
+  {
+   "title": "Package ‘stmBrowser’",
+   "authors": "MK Freeman, J Chuang, ME Roberts, BM Stewart, D Tingley, ...",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment (Supplementary Materials)",
+   "authors": "J Chuang, S Gupta, CD Manning, J Heer",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2013"
+  },
+  {
+   "title": "Justin Grimmer",
+   "authors": "J Chuang, M Roberts, B Stewart, R Weiss, D Tingley",
+   "venue": "Governance 4 (4), 383-407",
+   "year": "2010"
+  },
+  {
+   "title": "CHS: Small: Interactive Machine Learning for Text Analysis PI: Jeffrey Heer, Associate Professor Phone: 206-543-6781 E-Mail: jheer@ uw. edu",
+   "authors": "J Chuang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "“Without the Clutter of Unimportant Words”: Modeling How People Choose Descriptive Keyphrases",
+   "authors": "J Chuang, J Heer, CD Manning",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

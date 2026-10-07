@@ -1,0 +1,155 @@
+{
+ "user": "jXGgcRMAAAAJ",
+ "pubs": [
+  {
+   "title": "Gemini: a family of highly capable multimodal models",
+   "authors": "G Team, R Anil, S Borgeaud, JB Alayrac, J Yu, R Soricut, J Schalkwyk, ...",
+   "venue": "arXiv preprint arXiv:2312.11805",
+   "year": "2023"
+  },
+  {
+   "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
+   "authors": "G Comanici, E Bieber, M Schaekermann, I Pasupat, N Sachdeva, I Dhillon, ...",
+   "venue": "arXiv preprint arXiv:2507.06261",
+   "year": "2025"
+  },
+  {
+   "title": "What does bert look at? an analysis of bert's attention",
+   "authors": "K Clark, U Khandelwal, O Levy, CD Manning",
+   "venue": "Proceedings of the Second BlackboxNLP Workshop on Analyzing and Interpreting …",
+   "year": "2019"
+  },
+  {
+   "title": "Generalization through memorization: Nearest neighbor language models",
+   "authors": "U Khandelwal, O Levy, D Jurafsky, L Zettlemoyer, M Lewis",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2020"
+  },
+  {
+   "title": "Personalized entity recommendation: A heterogeneous information network approach",
+   "authors": "X Yu, X Ren, Y Sun, Q Gu, B Sturt, U Khandelwal, B Norick, J Han",
+   "venue": "Proceedings of the 7th ACM international conference on Web search and data …",
+   "year": "2014"
+  },
+  {
+   "title": "Pix2struct: Screenshot parsing as pretraining for visual language understanding",
+   "authors": "K Lee, M Joshi, IR Turc, H Hu, F Liu, JM Eisenschlos, U Khandelwal, ...",
+   "venue": "International Conference on Machine Learning, 18893-18912",
+   "year": "2023"
+  },
+  {
+   "title": "Emergent linguistic structure in artificial neural networks trained by self-supervision",
+   "authors": "CD Manning, K Clark, J Hewitt, U Khandelwal, O Levy",
+   "venue": "Proceedings of the National Academy of Sciences 117 (48), 30046-30054",
+   "year": "2020"
+  },
+  {
+   "title": "Sharp nearby, fuzzy far away: How neural language models use context",
+   "authors": "U Khandelwal, H He, P Qi, D Jurafsky",
+   "venue": "Proceedings to the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Nearest neighbor machine translation",
+   "authors": "U Khandelwal, A Fan, D Jurafsky, L Zettlemoyer, M Lewis",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2021"
+  },
+  {
+   "title": "Recommendation in heterogeneous information networks with implicit user feedback",
+   "authors": "X Yu, X Ren, Y Sun, B Sturt, U Khandelwal, Q Gu, B Norick, J Han",
+   "venue": "Proceedings of the 7th ACM conference on Recommender systems, 347-350",
+   "year": "2013"
+  },
+  {
+   "title": "Bam! born-again multi-task networks for natural language understanding",
+   "authors": "K Clark, MT Luong, U Khandelwal, CD Manning, QV Le",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "With little power comes great responsibility",
+   "authors": "D Card, P Henderson, U Khandelwal, R Jia, K Mahowald, D Jurafsky",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Cluscite: Effective citation recommendation by information network-based clustering",
+   "authors": "X Ren, J Liu, X Yu, U Khandelwal, Q Gu, L Wang, J Han",
+   "venue": "Proceedings of the 20th ACM SIGKDD international conference on Knowledge …",
+   "year": "2014"
+  },
+  {
+   "title": "Open-domain visual entity recognition: Towards recognizing millions of wikipedia entities",
+   "authors": "H Hu, Y Luan, Y Chen, U Khandelwal, M Joshi, K Lee, K Toutanova, ...",
+   "venue": "2023 IEEE/CVF International Conference on Computer Vision (ICCV), 12031-12041",
+   "year": "2023"
+  },
+  {
+   "title": "From pixels to ui actions: Learning to follow instructions via graphical user interfaces",
+   "authors": "P Shaw, M Joshi, J Cohan, J Berant, P Pasupat, H Hu, U Khandelwal, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 34354-34370",
+   "year": "2023"
+  },
+  {
+   "title": "Sample efficient text summarization using a single pre-trained transformer",
+   "authors": "U Khandelwal, K Clark, D Jurafsky, L Kaiser",
+   "venue": "arXiv preprint arXiv:1905.08836",
+   "year": "2019"
+  },
+  {
+   "title": "Few-shot recalibration of language models",
+   "authors": "XL Li, U Khandelwal, K Guu",
+   "venue": "arXiv preprint arXiv:2403.18286",
+   "year": "2024"
+  },
+  {
+   "title": "Neural text summarization",
+   "authors": "U Khandelwal, P Qi, D Jurafsky",
+   "venue": "Stanford University, Stanford, CA, USA 92, 4701",
+   "year": "2016"
+  },
+  {
+   "title": "Machine-Learned User Interface Command Generator Using Pretrained Image Processing Model",
+   "authors": "PT Shaw, M Joshi, KN Toutanova, JF Cohan, JH Berant, KCT Lee, ...",
+   "venue": "US Patent App. 19/002,441",
+   "year": "2025"
+  },
+  {
+   "title": "Improving Neural Language Models with Black-Box Analysis and Generalization Through Memorization",
+   "authors": "U Khandelwal",
+   "venue": "Stanford University",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the Workshop on Methods for Optimizing and Evaluating Neural Language Generation",
+   "authors": "A Bosselut, A Celikyilmaz, M Ghazvininejad, S Iyer, U Khandelwal, ...",
+   "venue": "Proceedings of the Workshop on Methods for Optimizing and Evaluating Neural …",
+   "year": "2019"
+  },
+  {
+   "title": "Open-domain Visual Entity Linking",
+   "authors": "H Hu, Y Luan, U Khandelwal, M Joshi, K Lee, K Toutanova, MW Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Calibrated on Average, but not Within Each Slice: Few-shot Calibration for All Slices of a Distribution",
+   "authors": "XL Li, U Khandelwal, K Guu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities",
+   "authors": "H Hu, Y Luan, Y Chen, U Khandelwal, M Joshi, K Lee, K Toutanova, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Highlights: A Review Analysis Tool",
+   "authors": "U Khandelwal",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

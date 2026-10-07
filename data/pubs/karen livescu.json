@@ -1,0 +1,47 @@
+{
+ "user": "NTLVnU0AAAAJ",
+ "pubs": [
+  {
+   "title": "Hypothesis generation with large language models",
+   "authors": "Y Zhou, H Liu, T Srivastava, H Mei, C Tan",
+   "venue": "Proceedings of the 1st Workshop on NLP for Science (NLP4Science), 117-139",
+   "year": "2024"
+  },
+  {
+   "title": "ESPnet-Codec: Comprehensive training and evaluation of neural codecs for audio, music, and speech",
+   "authors": "J Shi, J Tian, Y Wu, J Jung, JQ Yip, Y Masuyama, W Chen, Y Wu, Y Tang, ...",
+   "venue": "2024 IEEE Spoken language technology workshop (SLT), 562-569",
+   "year": "2024"
+  },
+  {
+   "title": "A Riemannian alternating direction method of multipliers",
+   "authors": "J Li, S Ma, T Srivastava",
+   "venue": "Mathematics of Operations Research 50 (4), 3222-3242",
+   "year": "2025"
+  },
+  {
+   "title": "Effuse: Efficient self-supervised feature fusion for e2e asr in low resource and multilingual scenarios",
+   "authors": "T Srivastava, J Shi, W Chen, S Watanabe",
+   "venue": "arXiv preprint arXiv:2310.03938",
+   "year": "2023"
+  },
+  {
+   "title": "Speech recognition for analysis of police radio communication",
+   "authors": "T Srivastava, JC Chou, P Shroff, K Livescu, C Graziul",
+   "venue": "2024 IEEE Spoken Language Technology Workshop (SLT), 906-912",
+   "year": "2024"
+  },
+  {
+   "title": "Some Properties of Indicatrices in a Finsler Space (1)",
+   "authors": "TN Srivastava, S Watanabe",
+   "venue": "Canadian Mathematical Bulletin 18 (5), 715-721",
+   "year": "1975"
+  },
+  {
+   "title": "Approximating K-Means using an ADMM Approach",
+   "authors": "D Cerna, T Srivastava",
+   "venue": "",
+   "year": "2021"
+  }
+ ]
+}

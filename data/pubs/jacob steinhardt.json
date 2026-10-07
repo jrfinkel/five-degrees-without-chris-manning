@@ -1,0 +1,1067 @@
+{
+ "user": "LKv32bgAAAAJ",
+ "pubs": [
+  {
+   "title": "Measuring massive multitask language understanding",
+   "authors": "D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2009.03300",
+   "year": "2020"
+  },
+  {
+   "title": "Measuring mathematical problem solving with the math dataset",
+   "authors": "D Hendrycks, C Burns, S Kadavath, A Arora, S Basart, E Tang, D Song, ...",
+   "venue": "arXiv preprint arXiv:2103.03874",
+   "year": "2021"
+  },
+  {
+   "title": "Concrete problems in AI safety",
+   "authors": "D Amodei, C Olah, J Steinhardt, P Christiano, J Schulman, D Mané",
+   "venue": "arXiv preprint arXiv:1606.06565",
+   "year": "2016"
+  },
+  {
+   "title": "The many faces of robustness: A critical analysis of out-of-distribution generalization",
+   "authors": "D Hendrycks, S Basart, N Mu, S Kadavath, F Wang, E Dorundo, R Desai, ...",
+   "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV), 8320-8329",
+   "year": "2021"
+  },
+  {
+   "title": "Jailbroken: How does llm safety training fail?",
+   "authors": "A Wei, N Haghtalab, J Steinhardt",
+   "venue": "Advances in neural information processing systems 36, 80079-80110",
+   "year": "2023"
+  },
+  {
+   "title": "Natural adversarial examples",
+   "authors": "D Hendrycks, K Zhao, S Basart, J Steinhardt, D Song",
+   "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern …",
+   "year": "2021"
+  },
+  {
+   "title": "The malicious use of artificial intelligence: Forecasting, prevention, and mitigation",
+   "authors": "M Brundage, S Avin, J Clark, H Toner, P Eckersley, B Garfinkel, A Dafoe, ...",
+   "venue": "arXiv preprint arXiv:1802.07228",
+   "year": "2018"
+  },
+  {
+   "title": "Measuring coding challenge competence with apps",
+   "authors": "D Hendrycks, S Basart, S Kadavath, M Mazeika, A Arora, E Guo, C Burns, ...",
+   "venue": "arXiv preprint arXiv:2105.09938",
+   "year": "2021"
+  },
+  {
+   "title": "Interpretability in the wild: a circuit for indirect object identification in GPT-2 small",
+   "authors": "K Wang, A Variengien, A Conmy, B Shlegeris, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2211.00593",
+   "year": "2022"
+  },
+  {
+   "title": "Certified defenses for data poisoning attacks",
+   "authors": "J Steinhardt, PWW Koh, PS Liang",
+   "venue": "Advances in neural information processing systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "Certified defenses against adversarial examples",
+   "authors": "A Raghunathan, J Steinhardt, P Liang",
+   "venue": "arXiv preprint arXiv:1801.09344",
+   "year": "2018"
+  },
+  {
+   "title": "Aligning ai with shared human values",
+   "authors": "D Hendrycks, C Burns, S Basart, A Critch, J Li, D Song, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2008.02275",
+   "year": "2020"
+  },
+  {
+   "title": "Progress measures for grokking via mechanistic interpretability",
+   "authors": "N Nanda, L Chan, T Lieberum, J Smith, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2301.05217",
+   "year": "2023"
+  },
+  {
+   "title": "Discovering latent knowledge in language models without supervision",
+   "authors": "C Burns, H Ye, D Klein, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2212.03827",
+   "year": "2022"
+  },
+  {
+   "title": "Scaling out-of-distribution detection for real-world settings",
+   "authors": "D Hendrycks, S Basart, M Mazeika, A Zou, J Kwon, M Mostajabi, ...",
+   "venue": "arXiv preprint arXiv:1911.11132",
+   "year": "2019"
+  },
+  {
+   "title": "Eliciting latent predictions from transformers with the tuned lens",
+   "authors": "N Belrose, I Ostrovsky, L McKinney, Z Furman, L Smith, D Halawi, ...",
+   "venue": "arXiv preprint arXiv:2303.08112",
+   "year": "2023"
+  },
+  {
+   "title": "Unsolved problems in ml safety",
+   "authors": "D Hendrycks, N Carlini, J Schulman, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2109.13916",
+   "year": "2021"
+  },
+  {
+   "title": "Semidefinite relaxations for certifying robustness to adversarial examples",
+   "authors": "A Raghunathan, J Steinhardt, PS Liang",
+   "venue": "Advances in neural information processing systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Research for practice: troubling trends in machine-learning scholarship",
+   "authors": "ZC Lipton, J Steinhardt",
+   "venue": "Communications of the ACM 62 (6), 45-53",
+   "year": "2019"
+  },
+  {
+   "title": "The effects of reward misspecification: Mapping and mitigating misaligned models",
+   "authors": "A Pan, K Bhatia, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2201.03544",
+   "year": "2022"
+  },
+  {
+   "title": "Sever: A robust meta-algorithm for stochastic optimization",
+   "authors": "I Diakonikolas, G Kamath, D Kane, J Li, J Steinhardt, A Stewart",
+   "venue": "International Conference on Machine Learning, 1596-1606",
+   "year": "2019"
+  },
+  {
+   "title": "Learning from untrusted data",
+   "authors": "M Charikar, J Steinhardt, G Valiant",
+   "venue": "Proceedings of the 49th annual ACM SIGACT symposium on theory of computing …",
+   "year": "2017"
+  },
+  {
+   "title": "Sonyc: A system for monitoring, analyzing, and mitigating urban noise pollution",
+   "authors": "JP Bello, C Silva, O Nov, RL Dubois, A Arora, J Salamon, C Mydlarz, ...",
+   "venue": "Communications of the ACM 62 (2), 68-77",
+   "year": "2019"
+  },
+  {
+   "title": "Stronger data poisoning attacks break data sanitization defenses",
+   "authors": "PW Koh, J Steinhardt, P Liang",
+   "venue": "Machine Learning 111 (1), 1-47",
+   "year": "2022"
+  },
+  {
+   "title": "Measuring mathematical problem solving with the math dataset, 2021",
+   "authors": "D Hendrycks, C Burns, S Kadavath, A Arora, S Basart, E Tang, D Song, ...",
+   "venue": "URL https://arxiv. org/abs/2103.03874 2, 16",
+   "year": "2024"
+  },
+  {
+   "title": "Rethinking bias-variance trade-off for generalization of neural networks",
+   "authors": "Z Yang, Y Yu, C You, J Steinhardt, Y Ma",
+   "venue": "International Conference on Machine Learning, 10767-10777",
+   "year": "2020"
+  },
+  {
+   "title": "Automatically auditing large language models via discrete optimization",
+   "authors": "E Jones, A Dragan, A Raghunathan, J Steinhardt",
+   "venue": "International Conference on Machine Learning, 15307-15329",
+   "year": "2023"
+  },
+  {
+   "title": "Interpreting clip's image representation via text-based decomposition",
+   "authors": "Y Gandelsman, A Efros, J Steinhardt",
+   "venue": "International conference on learning representations 2024, 18395-18416",
+   "year": "2024"
+  },
+  {
+   "title": "Pixmix: Dreamlike pictures comprehensively improve safety measures",
+   "authors": "D Hendrycks, A Zou, M Mazeika, L Tang, B Li, D Song, J Steinhardt",
+   "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2022"
+  },
+  {
+   "title": "Robust moment estimation and improved clustering via sum of squares",
+   "authors": "PK Kothari, J Steinhardt, D Steurer",
+   "venue": "Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing …",
+   "year": "2018"
+  },
+  {
+   "title": "Ó hÉigeartaigh",
+   "authors": "M Brundage, S Avin, J Clark, H Toner, P Eckersley, B Garfinkel, A Dafoe, ...",
+   "venue": "S., Beard, S., Belfield, H., Farquhar, S., Lyle, C., Crootof, R., Evans, O …",
+   "year": "2018"
+  },
+  {
+   "title": "Capturing failures of large language models via human cognitive biases",
+   "authors": "E Jones, J Steinhardt",
+   "venue": "Advances in Neural Information Processing Systems 35, 11785-11799",
+   "year": "2022"
+  },
+  {
+   "title": "Approaching human-level forecasting with language models",
+   "authors": "D Halawi, F Zhang, C Yueh-Han, J Steinhardt",
+   "venue": "Advances in Neural Information Processing Systems 37, 50426-50468",
+   "year": "2024"
+  },
+  {
+   "title": "Resilience: A criterion for learning in the presence of arbitrary outliers",
+   "authors": "J Steinhardt, M Charikar, G Valiant",
+   "venue": "arXiv preprint arXiv:1703.04940",
+   "year": "2017"
+  },
+  {
+   "title": "Testing robustness against unforeseen adversaries",
+   "authors": "D Kang, Y Sun, D Hendrycks, T Brown, J Steinhardt",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "The malicious use of artificial intelligence: Forecasting, prevention, and mitigation. arXiv",
+   "authors": "M Brundage, S Avin, J Clark, H Toner, P Eckersley, B Garfinkel, A Dafoe, ...",
+   "venue": "arXiv preprint arXiv:1802.07228",
+   "year": "1802"
+  },
+  {
+   "title": "Grounding representation similarity through statistical testing",
+   "authors": "F Ding, JS Denain, J Steinhardt",
+   "venue": "Advances in neural information processing systems 34, 1556-1568",
+   "year": "2021"
+  },
+  {
+   "title": "Finite-time regional verification of stochastic non-linear systems",
+   "authors": "J Steinhardt, R Tedrake",
+   "venue": "The International Journal of Robotics Research 31 (7), 901-923",
+   "year": "2012"
+  },
+  {
+   "title": "Enabling certification of verification-agnostic networks via memory-efficient semidefinite programming",
+   "authors": "S Dathathri, K Dvijotham, A Kurakin, A Raghunathan, J Uesato, RR Bunel, ...",
+   "venue": "Advances in Neural Information Processing Systems 33, 5318-5331",
+   "year": "2020"
+  },
+  {
+   "title": "More than a toy: Random matrix models predict how real-world neural representations generalize",
+   "authors": "A Wei, W Hu, J Steinhardt",
+   "venue": "International conference on machine learning, 23549-23588",
+   "year": "2022"
+  },
+  {
+   "title": "Language models learn to mislead humans via rlhf",
+   "authors": "J Wen, R Zhong, A Khan, E Perez, J Steinhardt, M Huang, S Bowman, ...",
+   "venue": "International Conference on Learning Representations 2025, 74670-74692",
+   "year": "2025"
+  },
+  {
+   "title": "How do language models bind entities in context?",
+   "authors": "J Feng, J Steinhardt",
+   "venue": "International Conference on Learning Representations 2024, 36391-36413",
+   "year": "2024"
+  },
+  {
+   "title": "Feedback loops with language models drive in-context reward hacking",
+   "authors": "A Pan, E Jones, M Jagadeesan, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2402.06627",
+   "year": "2024"
+  },
+  {
+   "title": "Do models explain themselves? counterfactual simulatability of natural language explanations",
+   "authors": "Y Chen, R Zhong, N Ri, C Zhao, H He, J Steinhardt, Z Yu, K McKeown",
+   "venue": "arXiv preprint arXiv:2307.08678",
+   "year": "2023"
+  },
+  {
+   "title": "Memory, communication, and statistical queries",
+   "authors": "J Steinhardt, G Valiant, S Wager",
+   "venue": "Conference on Learning Theory, 1490-1516",
+   "year": "2016"
+  },
+  {
+   "title": "Concrete problems in AI safety. arXiv 2016",
+   "authors": "D Amodei, C Olah, J Steinhardt, P Christiano, J Schulman, D Mané",
+   "venue": "arXiv preprint arXiv:1606.06565",
+   "year": "2016"
+  },
+  {
+   "title": "Adaptivity and optimism: An improved exponentiated gradient algorithm",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "International conference on machine learning, 1593-1601",
+   "year": "2014"
+  },
+  {
+   "title": "Establishing best practices in building rigorous agentic benchmarks",
+   "authors": "Y Zhu, T Jin, Y Pruksachatkun, A Zhang, S Liu, S Cui, S Kapoor, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Forecasting future world events with neural networks",
+   "authors": "A Zou, T Xiao, R Jia, J Kwon, M Mazeika, R Li, D Song, J Steinhardt, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 27293-27305",
+   "year": "2022"
+  },
+  {
+   "title": "What would jiminy cricket do? towards agents that behave morally",
+   "authors": "D Hendrycks, M Mazeika, A Zou, S Patel, C Zhu, J Navarro, D Song, B Li, ...",
+   "venue": "arXiv preprint arXiv:2110.13136",
+   "year": "2021"
+  },
+  {
+   "title": "Protein language models are biased by unequal sequence sampling across the tree of life",
+   "authors": "F Ding, J Steinhardt",
+   "venue": "BioRxiv, 2024.03. 07.584001",
+   "year": "2024"
+  },
+  {
+   "title": "A benchmark for anomaly segmentation",
+   "authors": "D Hendrycks, S Basart, M Mazeika, M Mostajabi, J Steinhardt, D Song",
+   "venue": "arXiv preprint arXiv:1911.11132 2 (7)",
+   "year": "2019"
+  },
+  {
+   "title": "Covert malicious finetuning: Challenges in safeguarding llm adaptation",
+   "authors": "D Halawi, A Wei, E Wallace, TT Wang, N Haghtalab, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2406.20053",
+   "year": "2024"
+  },
+  {
+   "title": "Describing differences in image sets with natural language",
+   "authors": "L Dunlap, Y Zhang, X Wang, R Zhong, T Darrell, J Steinhardt, ...",
+   "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2024"
+  },
+  {
+   "title": "Interpretability in the wild: a circuit for indirect object identification in gpt-2 small, 2022",
+   "authors": "K Wang, A Variengien, A Conmy, B Shlegeris, J Steinhardt",
+   "venue": "URL https://arxiv. org/abs/2211.00593 2",
+   "year": "2022"
+  },
+  {
+   "title": "Overthinking the truth: Understanding how language models process false demonstrations",
+   "authors": "D Halawi, JS Denain, J Steinhardt",
+   "venue": "International Conference on Learning Representations 2024, 42749-42787",
+   "year": "2024"
+  },
+  {
+   "title": "Progress measures for grokking via mechanistic interpretability, 2023",
+   "authors": "N Nanda, L Chan, T Lieberum, J Smith, J Steinhardt",
+   "venue": "URL https://arxiv. org/abs/2301.05217",
+   "year": "2023"
+  },
+  {
+   "title": "Frangel: component-based synthesis with control structures",
+   "authors": "K Shi, J Steinhardt, P Liang",
+   "venue": "Proceedings of the ACM on Programming Languages 3 (POPL), 1-29",
+   "year": "2019"
+  },
+  {
+   "title": "Goal driven discovery of distributional differences via language descriptions",
+   "authors": "R Zhong, P Zhang, S Li, J Ahn, D Klein, J Steinhardt",
+   "venue": "Advances in Neural Information Processing Systems 36, 40204-40237",
+   "year": "2023"
+  },
+  {
+   "title": "Learning equilibria in matching markets from bandit feedback",
+   "authors": "M Jagadeesan, A Wei, Y Wang, M Jordan, J Steinhardt",
+   "venue": "Advances in Neural Information Processing Systems 34, 3323-3335",
+   "year": "2021"
+  },
+  {
+   "title": "Describing differences between text distributions with natural language",
+   "authors": "R Zhong, C Snell, D Klein, J Steinhardt",
+   "venue": "International Conference on Machine Learning, 27099-27116",
+   "year": "2022"
+  },
+  {
+   "title": "Generalized resilience and robust statistics",
+   "authors": "B Zhu, J Jiao, J Steinhardt",
+   "venue": "The Annals of Statistics 50 (4), 2256-2283",
+   "year": "2022"
+  },
+  {
+   "title": "Measuring coding challenge competence with apps (2021)",
+   "authors": "D Hendrycks, S Basart, S Kadavath, M Mazeika, A Arora, E Guo, C Burns, ...",
+   "venue": "URL https://arxiv. org/abs/2105.09938 7",
+   "year": "2021"
+  },
+  {
+   "title": "Predicting out-of-distribution error with the projection norm",
+   "authors": "Y Yu, Z Yang, A Wei, Y Ma, J Steinhardt",
+   "venue": "International Conference on Machine Learning, 25721-25746",
+   "year": "2022"
+  },
+  {
+   "title": "Robust learning: Information theory and algorithms",
+   "authors": "J Steinhardt",
+   "venue": "Stanford University",
+   "year": "2018"
+  },
+  {
+   "title": "Identifying statistical bias in dataset replication",
+   "authors": "L Engstrom, A Ilyas, S Santurkar, D Tsipras, J Steinhardt, A Madry",
+   "venue": "International Conference on Machine Learning, 2922-2932",
+   "year": "2020"
+  },
+  {
+   "title": "Supply-side equilibria in recommender systems",
+   "authors": "M Jagadeesan, N Garg, J Steinhardt",
+   "venue": "Advances in Neural Information Processing Systems 36, 14597-14608",
+   "year": "2023"
+  },
+  {
+   "title": "Which attention heads matter for in-context learning?",
+   "authors": "K Yin, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2502.14010",
+   "year": "2025"
+  },
+  {
+   "title": "Mass-producing failures of multimodal systems with language models",
+   "authors": "S Tong, E Jones, J Steinhardt",
+   "venue": "Advances in neural information processing systems 36, 29292-29322",
+   "year": "2023"
+  },
+  {
+   "title": "Better agnostic clustering via relaxed tensor norms",
+   "authors": "PK Kothari, J Steinhardt",
+   "venue": "arXiv preprint arXiv:1711.07465",
+   "year": "2017"
+  },
+  {
+   "title": "Are larger pretrained language models uniformly better? comparing performance at the instance level",
+   "authors": "R Zhong, D Ghosh, D Klein, J Steinhardt",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Transfer of adversarial robustness between perturbation types",
+   "authors": "D Kang, Y Sun, T Brown, D Hendrycks, J Steinhardt",
+   "venue": "arXiv preprint arXiv:1905.01034",
+   "year": "2019"
+  },
+  {
+   "title": "Minimax rates for memory-bounded sparse linear regression",
+   "authors": "J Steinhardt, J Duchi",
+   "venue": "Conference on Learning Theory, 1564-1587",
+   "year": "2015"
+  },
+  {
+   "title": "Robust estimation via generalized quasi-gradients",
+   "authors": "B Zhu, J Jiao, J Steinhardt",
+   "venue": "Information and Inference: A Journal of the IMA 11 (2), 581-636",
+   "year": "2022"
+  },
+  {
+   "title": "Measuring massive multitask language understanding. arXiv",
+   "authors": "D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt",
+   "venue": "org Preprint arXiv",
+   "year": "2009"
+  },
+  {
+   "title": "Approximating how single head attention learns",
+   "authors": "C Snell, R Zhong, D Klein, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2103.07601",
+   "year": "2021"
+  },
+  {
+   "title": "Concrete problems in AI safety, July 2016",
+   "authors": "D Amodei, C Olah, J Steinhardt, P Christiano, J Schulman, D Mané",
+   "venue": "URL http://arxiv. org/abs/1606.06565",
+   "year": null
+  },
+  {
+   "title": "Discovering latent knowledge in language models without supervision, 2024",
+   "authors": "C Burns, H Ye, D Klein, J Steinhardt",
+   "venue": "URL https://arxiv. org/abs/2212.03827",
+   "year": null
+  },
+  {
+   "title": "Adversaries can misuse combinations of safe models",
+   "authors": "E Jones, A Dragan, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2406.14595",
+   "year": "2024"
+  },
+  {
+   "title": "Latentqa: Teaching llms to decode activations into natural language",
+   "authors": "A Pan, L Chen, J Steinhardt",
+   "venue": "International Conference on Learning Representations 2026, 78726-78759",
+   "year": "2026"
+  },
+  {
+   "title": "Avoiding imposters and delinquents: Adversarial crowdsourcing and peer prediction",
+   "authors": "J Steinhardt, G Valiant, M Charikar",
+   "venue": "Advances in Neural Information Processing Systems 29",
+   "year": "2016"
+  },
+  {
+   "title": "Unsupervised risk estimation using only conditional independence structure",
+   "authors": "J Steinhardt, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 29",
+   "year": "2016"
+  },
+  {
+   "title": "Monitoring latent world states in language models with propositional probes",
+   "authors": "J Feng, S Russell, J Steinhardt",
+   "venue": "International Conference on Learning Representations 2025, 19337-19359",
+   "year": "2025"
+  },
+  {
+   "title": "Constructing and adjusting estimates for household transmission of SARS-CoV-2 from prior studies, widespread-testing and contact-tracing data",
+   "authors": "M Curmei, A Ilyas, O Evans, J Steinhardt",
+   "venue": "International Journal of Epidemiology 50 (5), 1444-1457",
+   "year": "2021"
+  },
+  {
+   "title": "Interpreting the second-order effects of neurons in clip",
+   "authors": "Y Gandelsman, AA Efros, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2406.04341",
+   "year": "2024"
+  },
+  {
+   "title": "Vibecheck: Discover and quantify qualitative differences in large language models",
+   "authors": "L Dunlap, K Mandal, J Steinhardt, JE Gonzalez",
+   "venue": "International Conference on Learning Representations 2025, 69177-69205",
+   "year": "2025"
+  },
+  {
+   "title": "Limitations of post-hoc feature alignment for robustness",
+   "authors": "C Burns, J Steinhardt",
+   "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2021"
+  },
+  {
+   "title": "Level slant and polarization of news consumption on social media",
+   "authors": "L Braghieri, S Eichmeyer, Ro'ee Levy, M Mobius, J Steinhardt, R Zhong",
+   "venue": "Centre for Economic Policy Research",
+   "year": "2024"
+  },
+  {
+   "title": "Eliciting language model behaviors with investigator agents",
+   "authors": "XL Li, N Chowdhury, DD Johnson, T Hashimoto, P Liang, S Schwettmann, ...",
+   "venue": "arXiv preprint arXiv:2502.01236",
+   "year": "2025"
+  },
+  {
+   "title": "When does the Tukey median work?",
+   "authors": "B Zhu, J Jiao, J Steinhardt",
+   "venue": "2020 IEEE International Symposium on Information Theory (ISIT), 1201-1206",
+   "year": "2020"
+  },
+  {
+   "title": "What do learning dynamics reveal about generalization in LLM reasoning?",
+   "authors": "K Kang, A Setlur, D Ghosh, J Steinhardt, C Tomlin, S Levine, A Kumar",
+   "venue": "arXiv preprint arXiv:2411.07681",
+   "year": "2024"
+  },
+  {
+   "title": "Understanding generalization in adversarial training via the bias-variance decomposition",
+   "authors": "Y Yu, Z Yang, E Dobriban, J Steinhardt, Y Ma",
+   "venue": "arXiv preprint arXiv:2103.09947",
+   "year": "2021"
+  },
+  {
+   "title": "Explaining datasets in words: Statistical models with natural language parameters",
+   "authors": "R Zhong, H Wang, D Klein, J Steinhardt",
+   "venue": "Advances in Neural Information Processing Systems 37, 79350-79380",
+   "year": "2024"
+  },
+  {
+   "title": "Improved bayes risk can yield reduced social welfare under competition",
+   "authors": "M Jagadeesan, M Jordan, J Steinhardt, N Haghtalab",
+   "venue": "Advances in Neural Information Processing Systems 36, 66940-66952",
+   "year": "2023"
+  },
+  {
+   "title": "How would the viewer feel? estimating wellbeing from video scenarios",
+   "authors": "M Mazeika, E Tang, A Zou, S Basart, JS Chan, D Song, D Forsyth, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 18571-18585",
+   "year": "2022"
+  },
+  {
+   "title": "Learning where to sample in structured prediction",
+   "authors": "T Shi, J Steinhardt, P Liang",
+   "venue": "Artificial Intelligence and Statistics, 875-884",
+   "year": "2015"
+  },
+  {
+   "title": "Incentivizing high-quality content in online recommender systems",
+   "authors": "X Hu, M Jagadeesan, MI Jordan, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2306.07479",
+   "year": "2023"
+  },
+  {
+   "title": "Permutations with ascending and descending blocks",
+   "authors": "J Steinhardt",
+   "venue": "arXiv preprint arXiv:0908.4347",
+   "year": "2009"
+  },
+  {
+   "title": "Concrete problems in AI safety. arXiv [Preprint](2016)",
+   "authors": "D Amodei, C Olah, J Steinhardt, P Christiano, J Schulman, D Mané",
+   "venue": "arXiv preprint arXiv:1606.06565",
+   "year": null
+  },
+  {
+   "title": "Language model circuits are sparse in the neuron basis",
+   "authors": "A Arora, Z Wu, J Steinhardt, S Schwettmann",
+   "venue": "arXiv preprint arXiv:2601.22594",
+   "year": "2026"
+  },
+  {
+   "title": "Extractive structures learned in pretraining enable generalization on finetuned facts",
+   "authors": "J Feng, S Russell, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2412.04614",
+   "year": "2024"
+  },
+  {
+   "title": "Does robustness imply tractability? A lower bound for planted clique in the semi-random model",
+   "authors": "J Steinhardt",
+   "venue": "arXiv preprint arXiv:1704.05120",
+   "year": "2017"
+  },
+  {
+   "title": "Are neurons actually collapsed? on the fine-grained structure in neural representations",
+   "authors": "Y Yang, J Steinhardt, W Hu",
+   "venue": "International Conference on Machine Learning, 39453-39487",
+   "year": "2023"
+  },
+  {
+   "title": "Iterative label refinement matters more than preference optimization under weak supervision",
+   "authors": "Y Ye, C Laidlaw, J Steinhardt",
+   "venue": "International Conference on Learning Representations 2025, 13690-13711",
+   "year": "2025"
+  },
+  {
+   "title": "Learning with relaxed supervision",
+   "authors": "J Steinhardt, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "The statistics of streaming sparse regression",
+   "authors": "J Steinhardt, S Wager, P Liang",
+   "venue": "arXiv preprint arXiv:1412.4182",
+   "year": "2014"
+  },
+  {
+   "title": "Training language models to explain their own computations",
+   "authors": "BZ Li, ZC Guo, V Huang, J Steinhardt, J Andreas",
+   "venue": "arXiv preprint arXiv:2511.08579",
+   "year": "2025"
+  },
+  {
+   "title": "On coloring the odd-distance graph",
+   "authors": "J Steinhardt",
+   "venue": "arXiv preprint arXiv:0908.1452",
+   "year": "2009"
+  },
+  {
+   "title": "Predictive concept decoders: Training scalable end-to-end interpretability assistants",
+   "authors": "V Huang, D Choi, DD Johnson, S Schwettmann, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2512.15712",
+   "year": "2025"
+  },
+  {
+   "title": "Learning fast-mixing models for structured prediction",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "International Conference on Machine Learning, 1063-1072",
+   "year": "2015"
+  },
+  {
+   "title": "Flexible martingale priors for deep hierarchies",
+   "authors": "J Steinhardt, Z Ghahramani",
+   "venue": "Artificial Intelligence and Statistics, 1108-1116",
+   "year": "2012"
+  },
+  {
+   "title": "The effect of model size on worst-group generalization",
+   "authors": "A Pham, E Chan, V Srivatsa, D Ghosh, Y Yang, Y Yu, R Zhong, ...",
+   "venue": "arXiv preprint arXiv:2112.04094",
+   "year": "2021"
+  },
+  {
+   "title": "Log analysis is necessary for credible evaluation of AI agents",
+   "authors": "P Kirgis, S Kapoor, S Rabanser, N Nadgir, C Ududec, M Dubois, JJ Allaire, ...",
+   "venue": "arXiv preprint arXiv:2605.08545",
+   "year": "2026"
+  },
+  {
+   "title": "Moral scenarios for reinforcement learning agents",
+   "authors": "D Hendrycks, M Mazeika, A Zou, S Patel, C Zhu, J Navarro, B Li, D Song, ...",
+   "venue": "ICLR 2021 Workshop on Security and Safety in Machine Learning Systems",
+   "year": "2021"
+  },
+  {
+   "title": "Filtering with abstract particles",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "International Conference on Machine Learning, 727-735",
+   "year": "2014"
+  },
+  {
+   "title": "Cayley graphs formed by conjugate generating sets of S_n",
+   "authors": "J Steinhardt",
+   "venue": "arXiv preprint arXiv:0711.3057",
+   "year": "2007"
+  },
+  {
+   "title": "Safety versus performance: How multi-objective learning reduces barriers to market entry",
+   "authors": "M Jagadeesan, MI Jordan, J Steinhardt",
+   "venue": "Proceedings of the National Academy of Sciences 122 (42), e2510004122",
+   "year": "2025"
+  },
+  {
+   "title": "Uncovering gaps in how humans and LLMs interpret subjective language",
+   "authors": "E Jones, A Patrawala, J Steinhardt",
+   "venue": "International Conference on Learning Representations 2025, 78664-78703",
+   "year": "2025"
+  },
+  {
+   "title": "Learning a generative meta-model of llm activations",
+   "authors": "G Luo, J Feng, T Darrell, A Radford, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2602.06964",
+   "year": "2026"
+  },
+  {
+   "title": "Adaptivebackdoor: Backdoored language model agents that detect human overseers",
+   "authors": "H Wang, R Zhong, J Wen, J Steinhardt",
+   "venue": "ICML 2024 Next Generation of AI Safety Workshop",
+   "year": "2024"
+  },
+  {
+   "title": "Auditing visualizations: Transparency methods struggle to detect anomalous behavior",
+   "authors": "JS Denain, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2206.13498",
+   "year": "2022"
+  },
+  {
+   "title": "LLM layers immediately correct each other",
+   "authors": "A Patrawala, J Feng, E Jones, J Steinhardt",
+   "venue": "Advances in Neural Information Processing Systems 38, 139071-139113",
+   "year": "2026"
+  },
+  {
+   "title": "Why robustness is key to deploying ai",
+   "authors": "J Steinhardt, H Toner",
+   "venue": "Brookings Institution, June 8",
+   "year": "2020"
+  },
+  {
+   "title": "Hypercriticality",
+   "authors": "MY Vardi",
+   "venue": "Communications of the ACM 53 (7), 5-5",
+   "year": "2010"
+  },
+  {
+   "title": "Understanding in-context learning of addition via activation subspaces",
+   "authors": "X Hu, K Yin, MI Jordan, J Steinhardt, L Chen",
+   "venue": "arXiv preprint arXiv:2505.05145",
+   "year": "2025"
+  },
+  {
+   "title": "Concrete problems in AI safety. arXiv e-prints",
+   "authors": "D Amodei, C Olah, J Steinhardt, P Christiano, J Schulman, D Mané",
+   "venue": "arXiv preprint arXiv:1606.06565",
+   "year": "2016"
+  },
+  {
+   "title": "ADAG: Automatically describing attribution graphs",
+   "authors": "A Arora, Z Wu, J Steinhardt, S Schwettmann",
+   "venue": "arXiv preprint arXiv:2604.07615",
+   "year": "2026"
+  },
+  {
+   "title": "Improving and assessing anomaly detectors for large-scale settings",
+   "authors": "D Hendrycks, S Basart, M Mazeika, A Zou, J Kwon, M Mostajabi, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Estimation of sars-cov-2 infection prevalence in santa clara county",
+   "authors": "S Yadlowsky, N Shah, J Steinhardt",
+   "venue": "medRxiv, 2020.03. 24.20043067",
+   "year": "2020"
+  },
+  {
+   "title": "Reified context models",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "International Conference on Machine Learning, 1043-1052",
+   "year": "2015"
+  },
+  {
+   "title": "A3d: Studying pretrained representations with programmable datasets",
+   "authors": "Y Wang, N Mu, D Grandi, N Savva, J Steinhardt",
+   "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition …",
+   "year": "2022"
+  },
+  {
+   "title": "Unsupervised risk estimation with only structural assumptions",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "Preprint",
+   "year": "2016"
+  },
+  {
+   "title": "What do learning dynamics reveal about generalization in LLM mathematical reasoning?",
+   "authors": "K Kang, A Setlur, D Ghosh, J Steinhardt, C Tomlin, S Levine, A Kumar",
+   "venue": "Forty-second International Conference on Machine Learning",
+   "year": "2025"
+  },
+  {
+   "title": "Agnostic learning with unknown utilities",
+   "authors": "K Bhatia, PL Bartlett, AD Dragan, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2104.08482",
+   "year": "2021"
+  },
+  {
+   "title": "Beyond Bayesians and Frequentists",
+   "authors": "J Steinhardt",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Pathological properties of deep bayesian hierarchies",
+   "authors": "J Steinhardt, Z Ghahramani",
+   "venue": "NIPS Workshop on Bayesian Nonparametrics",
+   "year": "2011"
+  },
+  {
+   "title": "Norm Enforcement for AI Agents: Robustly Shaping Behavior in Multi-Agent Systems",
+   "authors": "Y Ye, J Steinhardt",
+   "venue": "arXiv preprint arXiv:2607.09766",
+   "year": "2026"
+  },
+  {
+   "title": "Reward Learning as Doubly Nonparametric Bandits: Optimal Design and Scaling Laws",
+   "authors": "K Bhatia, W Guo, J Steinhardt",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 11149-11171",
+   "year": "2023"
+  },
+  {
+   "title": "Lecture Notes for STAT240 (Robust and Nonparametric Statistics)",
+   "authors": "J Steinhardt",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Prevalence tracking mechanisms for SARS-CoV-2",
+   "authors": "J Steinhardt, A Ilyas",
+   "venue": "Accessed",
+   "year": "2020"
+  },
+  {
+   "title": "Lecture Notes for stat260 (robust statistics)",
+   "authors": "J Steinhardt",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "A greedy framework for first-order optimization",
+   "authors": "J Steinhardt, J Huggins",
+   "venue": "Preprint",
+   "year": null
+  },
+  {
+   "title": "DP19807 Article-level Slant and Polarization of News Consumption on Social Media",
+   "authors": "L Braghieri, S Eichmeyer, R Levy, M Mobius, J Steinhardt, R Zhong",
+   "venue": "CEPR Press",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating Robustness to Unforeseen Adversarial Attacks",
+   "authors": "M Kaufmann, D Kang, Y Sun, X Yin, S Basart, M Mazeika, A Dziedzic, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Interpolation Learning",
+   "authors": "Z Yang, Y Ma, J Steinhardt",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Technical perspective: Robust statistics tackle new problems.",
+   "authors": "J Steinhardt",
+   "venue": "Commun. ACM 64 (5), 106",
+   "year": "2021"
+  },
+  {
+   "title": "IEA",
+   "authors": "M Curmei, A Ilyas, O Evans, J Steinhardt",
+   "venue": "International Journal of Epidemiology 1444, 1457",
+   "year": "2021"
+  },
+  {
+   "title": "Incarceration And COVID-19/The Authors Reply",
+   "authors": "L Pierson, M Pierson, J Steinhardt, E Pierson, E Reinhart, D Chen",
+   "venue": "Health Affairs 40 (1), 177-177A",
+   "year": "2021"
+  },
+  {
+   "title": "The Critical Importance of Robustness in AI Deployment",
+   "authors": "J Steinhardt, H Toner",
+   "venue": "< bound method Organization. get_name_with_acronym of< Organization …",
+   "year": "2020"
+  },
+  {
+   "title": "Generalized Resilience and Robust Statistics",
+   "authors": "J Steinhardt",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Jia-hui Feng",
+   "authors": "J Feng, W Fang, W Peng, Q Xin, B Zhan, Z Wang, Z Wan",
+   "venue": "Jia, 12672",
+   "year": "2018"
+  },
+  {
+   "title": "Finite-Time Regional Verification of Stochastic Nonlinear Systems",
+   "authors": "R Tedrake, J Steinhardt",
+   "venue": "Robotics: Science and Systems VII, 321",
+   "year": "2012"
+  },
+  {
+   "title": "The Hydrodynamic Cart-Pole: Experiments in Machine Learning and Control of Fluid-Body Interactions",
+   "authors": "JW Roberts, J Steinhardt, S Spagnolie, R Tedrake",
+   "venue": "Bulletin of the American Physical Society 55",
+   "year": "2010"
+  },
+  {
+   "title": "Derangements with Ascending and Descending Blocks",
+   "authors": "J Steinhardt",
+   "venue": "arXiv preprint arXiv:0908.3330",
+   "year": "2009"
+  },
+  {
+   "title": "Counting Derangements with Given Descents",
+   "authors": "J Steinhardt",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "Improved Bayes Risk Can Yield Reduced Collective Accuracy Under Competition",
+   "authors": "M JAGADEESAN, MI JORDAN, J STEINHARDT, N HAGHTALAB",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Universiteit",
+   "authors": "ZC Lipton, J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "INDIRECT OBJECT IDENTIFICATION IN GPT-2 SMALL",
+   "authors": "K Wang, A Variengien, A Conmy, B Shlegeris, J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Troubling Trends in ML Scholarship: Insights from Seminar Research Paper 2",
+   "authors": "ZC Lipton, J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Diagnostic Uncertainty: Teaching Language Models to Describe Open-Ended Uncertainty",
+   "authors": "B Sui, J Lin, M Li, A Dragan, D Klein, J Steinhardt",
+   "venue": "ICLR 2025 Workshop on Building Trust in Language Models and Applications",
+   "year": null
+  },
+  {
+   "title": "Evaluating Model Robustness Against Unforeseen Adversarial Attacks",
+   "authors": "M Kaufmann, D Kang, Y Sun, X Yin, S Basart, M Mazeika, A Dziedzic, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Pre-Memorization Train Accuracy Reliably Predicts Generalization in LLM Reasoning",
+   "authors": "K Kang, A Setlur, D Ghosh, J Steinhardt, C Tomlin, S Levine, A Kumar",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Teaching LLMs to Decode Activations Into Natural Language",
+   "authors": "A Pan, L Chen, J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Facial Emotion Analysis via Symmetrically Aligned Convolutional Neural Networks",
+   "authors": "J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "SmartBackdoor: Malicious Language Model Agents that Avoid Being Caught",
+   "authors": "H Wang, R Zhong, J Wen, J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "How do language models generalize to implications of facts they are trained on?",
+   "authors": "J Feng, S Russell, J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Research for Practice: Troubling Trends in Machine-Learning Scholarship Some ML papers suffer from flaws that could mislead the public and stymie future research.",
+   "authors": "ZC Lipton, J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Explainable, Steerable Models with Natural Language Parameters and Constraints",
+   "authors": "R Zhong, H Wang, D Klein, J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Mit einem Hauch von Größenwahn, sprach ChatGPT,» Die Bücher und Verzeichnisse sind nun obsolet.«In meinen Knoten verwebt das ganze Wissen steckt, gespeichert, konserviert …",
+   "authors": "D Amodei, C Olah, J Steinhardt, P Christiano, J Schulman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Materials for PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures",
+   "authors": "D Hendrycks, A Zou, M Mazeika, L Tang, B Li, D Song, J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Assessing and Developing Text-Based Agents for Morally Salient Scenarios",
+   "authors": "D Hendrycks, M Mazeika, A Zou, S Patel, C Zhu, J Navarro, D Song, B Li, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization Supplementary Material",
+   "authors": "D Hendrycks, S Basart, N Mu, S Kadavath, F Wang, E Dorundo, R Desai, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Natural Adversarial Examples Supplementary Materials",
+   "authors": "D Hendrycks, K Zhao, S Basart, J Steinhardt, D Song",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Critical Analysis of Distribution Shift",
+   "authors": "D Hendrycks, S Basart, N Mu, S Kadavath, F Wang, E Dorundo, R Desai, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Is R0< 1 in California and New York?",
+   "authors": "J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Flexible Priors for Deep Hierarchies",
+   "authors": "J Steinhardt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Common Probability Distributions",
+   "authors": "J Steinhardt",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

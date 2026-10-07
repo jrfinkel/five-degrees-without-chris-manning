@@ -1,0 +1,233 @@
+{
+ "user": "7JjcQRoAAAAJ",
+ "pubs": [
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Starcoder 2 and the stack v2: The next generation",
+   "authors": "A Lozhkov, R Li, LB Allal, F Cassano, J Lamy-Poirier, N Tazi, A Tang, ...",
+   "venue": "arXiv preprint arXiv:2402.19173",
+   "year": "2024"
+  },
+  {
+   "title": "Bigcodebench: Benchmarking code generation with diverse function calls and complex instructions",
+   "authors": "TY Zhuo, MC Vu, J Chim, H Hu, W Yu, R Widyasari, INB Yusuf, H Zhan, ...",
+   "venue": "ICLR 2025 [arXiv:2406.15877]",
+   "year": "2024"
+  },
+  {
+   "title": "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion",
+   "authors": "Y Ding, Z Wang, WU Ahmad, H Ding, M Tan, N Jain, MK Ramanathan, ...",
+   "venue": "NeurIPS 2023 [arXiv:2310.11248]",
+   "year": "2023"
+  },
+  {
+   "title": "Demographic inference and representative population estimates from multilingual social media data",
+   "authors": "Z Wang, S Hale, DI Adelani, P Grabowicz, T Hartman, F Flöck, D Jurgens",
+   "venue": "TheWebConf 2019 [arXiv:1905.05961], 2056-2067",
+   "year": "2019"
+  },
+  {
+   "title": "Multi-lingual Evaluation of Code Generation Models",
+   "authors": "B Athiwaratkun, SK Gouda, Z Wang, X Li, Y Tian, M Tan, WU Ahmad, ...",
+   "venue": "ICLR 2023 [arXiv:2210.14868]",
+   "year": "2022"
+  },
+  {
+   "title": "ReCode: Robustness Evaluation of Code Generation Models",
+   "authors": "S Wang, Z Li, H Qian, C Yang, Z Wang, M Shang, V Kumar, S Tan, B Ray, ...",
+   "venue": "ACL 2023 [arXiv:2212.10264]",
+   "year": "2022"
+  },
+  {
+   "title": "Answering Complex Open-domain Questions Through Iterative Query Generation",
+   "authors": "P Qi, X Lin, L Mehr, Z Wang, CD Manning",
+   "venue": "EMNLP 2019 [arXiv:1910.07000]",
+   "year": "2019"
+  },
+  {
+   "title": "Cocomic: Code completion by jointly modeling in-file and cross-file context",
+   "authors": "Y Ding, Z Wang, WU Ahmad, MK Ramanathan, R Nallapati, P Bhatia, ...",
+   "venue": "LREC-COLING 2024 [arXiv:2212.10007]",
+   "year": "2022"
+  },
+  {
+   "title": "Nl-augmenter: A framework for task-sensitive natural language augmentation",
+   "authors": "K Dhole, V Gangal, S Gehrmann, A Gupta, Z Li, S Mahamood, ...",
+   "venue": "Northern European Journal of Language Technology 9",
+   "year": "2023"
+  },
+  {
+   "title": "CodeFort: Robust Training for Code Generation Models",
+   "authors": "Y Zhang, S Wang, H Qian, Z Wang, M Shang, L Liu, SK Gouda, B Ray, ...",
+   "venue": "EMNLP 2024 Findings [arXiv:2405.01567]",
+   "year": "2024"
+  },
+  {
+   "title": "The Amazon Nova family of models: Technical report and model card",
+   "authors": "Amazon",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "It’s going to be okay: Measuring Access to Support in Online Communities",
+   "authors": "Z Wang, D Jurgens",
+   "venue": "EMNLP 2018, 33-45",
+   "year": "2018"
+  },
+  {
+   "title": "TalkDown: A Corpus for Condescension Detection in Context",
+   "authors": "Z Wang, C Potts",
+   "venue": "EMNLP 2019 [arXiv:1909.11272]",
+   "year": "2019"
+  },
+  {
+   "title": "Fewer Truncations Improve Language Modeling",
+   "authors": "H Ding, Z Wang, G Paolini, V Kumar, A Deoras, D Roth, S Soatto",
+   "venue": "ICML 2024 [arXiv:2404.10830]",
+   "year": "2024"
+  },
+  {
+   "title": "DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization",
+   "authors": "Z Li, Z Wang, M Tan, R Nallapati, P Bhatia, A Arnold, B Xiang, D Roth",
+   "venue": "ACL 2022  [arXiv:2203.11239]",
+   "year": "2022"
+  },
+  {
+   "title": "Towards greener yet powerful code generation via quantization: An empirical study",
+   "authors": "X Wei, SK Gonugondla, S Wang, W Ahmad, B Ray, H Qian, X Li, V Kumar, ...",
+   "venue": "ESEC/FSE 2023 [arxiv:2303.05378]",
+   "year": "2023"
+  },
+  {
+   "title": "A static evaluation of code completion by large language models",
+   "authors": "H Ding, V Kumar, Y Tian, Z Wang, R Kwiatkowski, X Li, MK Ramanathan, ...",
+   "venue": "ACL 2023 [arXiv:2306.03203]",
+   "year": "2023"
+  },
+  {
+   "title": "Learning code preference via synthetic evolution",
+   "authors": "J Liu, T Nguyen, M Shang, H Ding, X Li, Y Yu, V Kumar, Z Wang",
+   "venue": "arXiv preprint arXiv:2410.03837",
+   "year": "2024"
+  },
+  {
+   "title": "Cyber-zero: Training cybersecurity agents without runtime",
+   "authors": "TY Zhuo, D Wang, H Ding, V Kumar, Z Wang",
+   "venue": "ICLR'26 [arXiv:2508.00910]",
+   "year": "2025"
+  },
+  {
+   "title": "Training language model agents to find vulnerabilities with ctf-dojo",
+   "authors": "TY Zhuo, D Wang, H Ding, V Kumar, Z Wang",
+   "venue": "arXiv preprint arXiv:2508.18370",
+   "year": "2025"
+  },
+  {
+   "title": "ContraCLM: Contrastive Learning For Causal Language Model",
+   "authors": "N Jain, D Zhang, W Ahmad, Z Wang, F Nan, X Li, M Tan, R Nallapati, ...",
+   "venue": "ACL 2023 [arXiv:2210.01185]",
+   "year": "2023"
+  },
+  {
+   "title": "LibEvolutionEval: A Benchmark and Study for Version-Specific Code Generation",
+   "authors": "S Kuhar, WU Ahmad, Z Wang, N Jain, H Qian, B Ray, MK Ramanathan, ...",
+   "venue": "NAACL 2025 [arXiv:2412.04478]",
+   "year": "2025"
+  },
+  {
+   "title": "Breaking the code: Security assessment of ai code agents through systematic jailbreaking attacks",
+   "authors": "S Saha, J Chen, S Mayers, SK Gouda, Z Wang, V Kumar",
+   "venue": "Transactions of the Association for Computational Linguistics 14, 2081-2102",
+   "year": "2026"
+  },
+  {
+   "title": "Empowering multi-turn tool-integrated reasoning with group turn policy optimization",
+   "authors": "Y Ding, H Le, S Han, K Ruan, Z Jin, V Kumar, Z Wang, A Deoras",
+   "venue": "arXiv e-prints, arXiv: 2511.14846",
+   "year": "2025"
+  },
+  {
+   "title": "Programmatically generating evaluation data sets for code generation models",
+   "authors": "P Athiwaratkun, Z Lin, R Keerthi, Z Wang, Y TIAN, H Ding, SRA Bontala, ...",
+   "venue": "US Patent 12,141,553",
+   "year": "2024"
+  },
+  {
+   "title": "Planning-Aware Code Infilling via Horizon-Length Prediction",
+   "authors": "Y Ding, H Ding, S Wang, Q Sun, V Kumar, Z Wang",
+   "venue": "EMNLP 2025 [arXiv:2410.03103]",
+   "year": "2024"
+  },
+  {
+   "title": "Token Alignment via Character Matching for Subword Completion",
+   "authors": "B Athiwaratkun, S Wang, M Shang, Y Tian, Z Wang, SK Gonugondla, ...",
+   "venue": "ACL 2024 Findings [arXiv:2403.08688]",
+   "year": "2024"
+  },
+  {
+   "title": "Reuse your flops: Scaling rl on hard problems by conditioning on very off-policy prefixes",
+   "authors": "A Setlur, Z Wang, A Cohen, P Rashidinejad, SM Xie",
+   "venue": "arXiv preprint arXiv:2601.18795",
+   "year": "2026"
+  },
+  {
+   "title": "Debiasing Neural Retrieval via In-batch Balancing Regularization",
+   "authors": "Y Li, X Wei, Z Wang, S Wang, P Bhatia, X Ma, A Arnold",
+   "venue": "GeBNLP@NAACL 2022 [arXiv:2205.09240]",
+   "year": "2022"
+  },
+  {
+   "title": "SWE-Protege: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents",
+   "authors": "PTJ Kon, A Pradeep, A Chen, AP Ellis, W Hunt, Z Wang, J Yang, ...",
+   "venue": "arXiv preprint arXiv:2602.22124",
+   "year": "2026"
+  },
+  {
+   "title": "Position: Humans are Missing from AI Coding Agent Research",
+   "authors": "ZZ Wang, J Yang, K Lieret, A Tartaglini, V Chen, Y Wei, Z Wang, L Zhang, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Social work in the classroom? A tool to evaluate topical relevance in student writing",
+   "authors": "H Choi, Z Wang, C Brooks, K Collins-Thompson, BG Reed, D Fitch",
+   "venue": "Proceedings of the 10th International Conference on Educational Data Mining …",
+   "year": "2017"
+  },
+  {
+   "title": "Bigcodearena: Unveiling more reliable human preferences in code generation via execution",
+   "authors": "TY Zhuo, X Jin, H Liu, J Jiang, T Liu, C Gong, B Bishnoi, V Mishra, ...",
+   "venue": "arXiv preprint arXiv:2510.08697",
+   "year": "2025"
+  },
+  {
+   "title": "Modeling subjective assessments of guilt in newspaper crime narratives",
+   "authors": "E Kreiss, Z Wang, C Potts",
+   "venue": "CoNLL 2020 [arXiv:2006.09589]",
+   "year": "2020"
+  },
+  {
+   "title": "Towards differential relational privacy and its use in question answering",
+   "authors": "S Bombari, A Achille, Z Wang, YX Wang, Y Xie, KY Singh, S Appalaraju, ...",
+   "venue": "arXiv preprint arXiv:2203.16701",
+   "year": "2022"
+  },
+  {
+   "title": "Random token segmentation for training next token prediction models",
+   "authors": "Z Wang, T Yuchen, M Shang, P Athiwaratkun, M Tan, P Bhatia, AO Arnold, ...",
+   "venue": "US Patent 12,530,527",
+   "year": "2026"
+  },
+  {
+   "title": "BigCodeArena: A Platform for Executable Code Generation Evaluation",
+   "authors": "TY Zhuo, X Jin, H Liu, J Jiang, T Liu, C Gong, B Bishnoi, V Mishra, ...",
+   "venue": "Third Conference on Language Modeling",
+   "year": null
+  }
+ ]
+}

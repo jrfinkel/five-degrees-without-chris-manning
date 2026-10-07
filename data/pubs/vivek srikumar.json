@@ -1,0 +1,899 @@
+{
+ "user": "TsTUfOIAAAAJ",
+ "pubs": [
+  {
+   "title": "Deeplog: Anomaly detection and diagnosis from system logs through deep learning",
+   "authors": "M Du, F Li, G Zheng, V Srikumar",
+   "venue": "Proceedings of the 2017 ACM SIGSAC conference on computer and communications …",
+   "year": "2017"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "ISAAC: A convolutional neural network accelerator with in-situ analog arithmetic in crossbars",
+   "authors": "A Shafiee, A Nag, N Muralimanohar, R Balasubramonian, JP Strachan, ...",
+   "venue": "ACM SIGARCH Computer Architecture News 44 (3), 14-26",
+   "year": "2016"
+  },
+  {
+   "title": "Predicting electricity consumption for commercial and residential buildings using deep recurrent neural networks",
+   "authors": "A Rahman, V Srikumar, AD Smith",
+   "venue": "Applied energy 212, 372-385",
+   "year": "2018"
+  },
+  {
+   "title": "Importance of Semantic Representation: Dataless Classification",
+   "authors": "MW Chang, LA Ratinov, D Roth, V Srikumar",
+   "venue": "AAAI, 830-835",
+   "year": "2008"
+  },
+  {
+   "title": "Modeling Biological Processes for Reading Comprehension",
+   "authors": "J Berant, V Srikumar, PC Chen, A Vander Linden, B Harding, B Huang, ...",
+   "venue": "EMNLP",
+   "year": "2014"
+  },
+  {
+   "title": "On measuring and mitigating biased inferences of word embeddings",
+   "authors": "S Dev, T Li, J Phillips, V Srikumar",
+   "venue": "AAAI",
+   "year": "2020"
+  },
+  {
+   "title": "UNQOVERing stereotyping biases via underspecified questions",
+   "authors": "T Li, T Khot, D Khashabi, A Sabharwal, V Srikumar",
+   "venue": "Findings of EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "A comparison of natural language processing methods for automated coding of motivational interviewing",
+   "authors": "M Tanana, KA Hallgren, ZE Imel, DC Atkins, V Srikumar",
+   "venue": "Journal of substance abuse treatment 65, 43-50",
+   "year": "2016"
+  },
+  {
+   "title": "Augmenting Neural Networks with First-order Logic",
+   "authors": "T Li, V Srikumar",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Visual exploration of semantic relationships in neural word embeddings",
+   "authors": "S Liu, PT Bremer, JJ Thiagarajan, V Srikumar, B Wang, Y Livnat, ...",
+   "venue": "IEEE transactions on visualization and computer graphics 24 (1), 553-562",
+   "year": "2017"
+  },
+  {
+   "title": "X-FACT: A New Benchmark Dataset for Multilingual Fact Checking",
+   "authors": "A Gupta, V Srikumar",
+   "venue": "ACL",
+   "year": "2021"
+  },
+  {
+   "title": "INFOTABS: Inference on Tables as Semi-structured Data",
+   "authors": "V Gupta, M Mehta, P Nokhiz, V Srikumar",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "How do you feel? Using natural language processing to automatically rate emotion in psychotherapy",
+   "authors": "MJ Tanana, CS Soma, PB Kuo, NM Bertagnolli, A Dembe, BT Pace, ...",
+   "venue": "Behavior research methods 53 (5), 2069-2082",
+   "year": "2021"
+  },
+  {
+   "title": "Development and evaluation of ClientBot: A patient-like conversational agent to train basic counseling skills",
+   "authors": "MJ Tanana, CS Soma, V Srikumar, DC Atkins, ZE Imel",
+   "venue": "Journal of Medical Internet Research",
+   "year": "2019"
+  },
+  {
+   "title": "A Logic-Driven Framework for Consistency of Neural Models",
+   "authors": "T Li, V Gupta, M Mehta, V Srikumar",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "A closer look at how fine-tuning changes BERT",
+   "authors": "Y Zhou, V Srikumar",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+   "authors": "LW Ku, AFT Martins, V Srikumar",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Findings of the association for computational linguistics: ACL 2024",
+   "authors": "LW Ku, AFT Martins, V Srikumar",
+   "venue": "Findings of the association for computational linguistics: ACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "REFLACX, a dataset of reports and eye-tracking data for localization of abnormalities in chest x-rays",
+   "authors": "R Bigolin Lanfredi, M Zhang, WF Auffermann, J Chan, PAT Duong, ...",
+   "venue": "Scientific data 9 (1), 350",
+   "year": "2022"
+  },
+  {
+   "title": "Discriminative learning over constrained latent representations",
+   "authors": "MW Chang, D Goldwasser, D Roth, V Srikumar",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Observing Dialogue in Therapy: Categorizing and Forecasting Behavioral Codes",
+   "authors": "J Cao, M Tanana, ZE Imel, E Poitras, DC Atkins, V Srikumar",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Secrets in Source Code: Reducing False Positives using Machine Learning",
+   "authors": "A Saha, T Denning, V Srikumar, SK Kasera",
+   "venue": "2020 International Conference on COMmunication Systems & NETworkS (COMSNETS …",
+   "year": "2020"
+  },
+  {
+   "title": "OSCAR: Orthogonal subspace correction and rectification of biases in word embeddings",
+   "authors": "S Dev, T Li, JM Phillips, V Srikumar",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Expressiveness of Rectifier Networks",
+   "authors": "X Pan, V Srikumar",
+   "venue": "ICML",
+   "year": "2016"
+  },
+  {
+   "title": "Structured Output Learning with Indirect Supervision.",
+   "authors": "MW Chang, V Srikumar, D Goldwasser, D Roth",
+   "venue": "ICML, 199-206",
+   "year": "2010"
+  },
+  {
+   "title": "BERT & Family Eat Word Salad: Experiments with Text Understanding",
+   "authors": "A Gupta, G Kvernadze, V Srikumar",
+   "venue": "AAAI",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling semantic relations expressed by prepositions",
+   "authors": "V Srikumar, D Roth",
+   "venue": "Transactions of the Association for Computational Linguistics 1, 231-242",
+   "year": "2013"
+  },
+  {
+   "title": "Newton: Gravitating towards the physical limits of crossbar acceleration",
+   "authors": "A Nag, R Balasubramonian, V Srikumar, R Walker, A Shafiee, ...",
+   "venue": "IEEE Micro 38 (5), 41-49",
+   "year": "2018"
+  },
+  {
+   "title": "NLIZE: A perturbation-driven visual interrogation tool for analyzing and interpreting natural language inference models",
+   "authors": "S Liu, Z Li, T Li, V Srikumar, V Pascucci, PT Bremer",
+   "venue": "IEEE transactions on visualization and computer graphics 25 (1), 651-660",
+   "year": "2018"
+  },
+  {
+   "title": "An NLP Curator (or: How I Learned to Stop Worrying and Love NLP Applications)",
+   "authors": "J Clarke, V Srikumar, M Sammons, D Roth",
+   "venue": "LREC",
+   "year": "2012"
+  },
+  {
+   "title": "ClarifyDelphi: Reinforced clarification questions with defeasibility rewards for social and moral situations",
+   "authors": "V Pyatkin, JD Hwang, V Srikumar, X Lu, L Jiang, Y Choi, C Bhagavatula",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "A Hierarchy with, of, and for Preposition Supersenses",
+   "authors": "N Schneider, V Srikumar, JD Hwang, M Palmer",
+   "venue": "The 9th Linguistic Annotation Workshop, 112--123",
+   "year": "2015"
+  },
+  {
+   "title": "A joint model for extended semantic role labeling",
+   "authors": "V Srikumar, D Roth",
+   "venue": "Proceedings of the 2011 Conference on Empirical Methods in Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Prediction of obstructive lung disease from chest radiographs via deep learning trained on pulmonary function data",
+   "authors": "JD Schroeder, R Bigolin Lanfredi, T Li, J Chan, C Vachet, R Paine III, ...",
+   "venue": "International Journal of Chronic Obstructive Pulmonary Disease, 3455-3466",
+   "year": "2020"
+  },
+  {
+   "title": "Beyond perplexity: Multi-dimensional safety evaluation of LLM compression",
+   "authors": "Z Xu, A Gupta, T Li, O Bentham, V Srikumar",
+   "venue": "Findings of EMNLP",
+   "year": "2024"
+  },
+  {
+   "title": "Relation Alignment for Textual Entailment Recognition.",
+   "authors": "M Sammons, VGV Vydiswaran, T Vieira, N Johri, MW Chang, ...",
+   "venue": "TAC",
+   "year": "2009"
+  },
+  {
+   "title": "Pylon: A pytorch framework for learning with constraints",
+   "authors": "K Ahmed, T Li, T Ton, Q Guo, KW Chang, P Kordjamshidi, V Srikumar, ...",
+   "venue": "NeurIPS 2021 Competitions and Demonstrations Track, 319-324",
+   "year": "2022"
+  },
+  {
+   "title": "Recursive Neural Networks for Coding Therapist and Patient Behavior in Motivational Interviewing",
+   "authors": "M Tanana, K Hallgren, Z Imel, D Atkins, P Smyth, V Srikumar",
+   "venue": "2nd Workshop on Computational Linguistics and Clinical Psychology: From …",
+   "year": "2015"
+  },
+  {
+   "title": "DirectProbe: Studying Representations without Classifiers",
+   "authors": "Y Zhou, V Srikumar",
+   "venue": "NAACL",
+   "year": "2021"
+  },
+  {
+   "title": "Learning distributed representations for structured output prediction",
+   "authors": "V Srikumar, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "Visual interrogation of attention-based models for natural language inference and machine comprehension",
+   "authors": "S Liu, T Li, Z Li, V Srikumar, V Pascucci, PT Bremer",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Rhymedesign: A tool for analyzing sonic devices in poetry",
+   "authors": "N McCurdy, V Srikumar, M Meyer",
+   "venue": "Proceedings of the Fourth Workshop on Computational Linguistics for …",
+   "year": "2015"
+  },
+  {
+   "title": "A survey of model architectures in information retrieval",
+   "authors": "Z Xu, F Mo, Z Huang, C Zhang, P Yu, B Wang, J Lin, V Srikumar",
+   "venue": "arXiv preprint arXiv:2502.14822",
+   "year": "2025"
+  },
+  {
+   "title": "Structured Tuning for Semantic Role Labeling",
+   "authors": "T Li, PA Jawale, M Palmer, V Srikumar",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "TopoBERT: Exploring the topology of fine-tuned word representations",
+   "authors": "A Rathore, Y Zhou, V Srikumar, B Wang",
+   "venue": "Information Visualization 22 (3), 186-208",
+   "year": "2023"
+  },
+  {
+   "title": "TempTabQA: Temporal question answering for semi-structured tables",
+   "authors": "V Gupta, P Kandoi, M Vora, S Zhang, Y He, R Reinanda, V Srikumar",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Correcting grammatical verb errors",
+   "authors": "A Rozovskaya, D Roth, V Srikumar",
+   "venue": "Proceedings of the 14th Conference of the European Chapter of the …",
+   "year": "2014"
+  },
+  {
+   "title": "Incorporating External Knowledge to Enhance Tabular Reasoning",
+   "authors": "J Neeraja, V Gupta, V Srikumar",
+   "venue": "NAACL",
+   "year": "2021"
+  },
+  {
+   "title": "An in-depth investigation of user response simulation for conversational search",
+   "authors": "Z Wang, Z Xu, V Srikumar, Q Ai",
+   "venue": "Proceedings of the ACM Web Conference 2024, 1407-1418",
+   "year": "2024"
+  },
+  {
+   "title": "On amortizing inference cost for structured prediction",
+   "authors": "V Srikumar, G Kundu, D Roth",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "A Corpus of Preposition Supersenses",
+   "authors": "N Schneider, JD Hwang, V Srikumar, K Conger, M Green, A Suresh, ...",
+   "venue": "LAW X, 99",
+   "year": "2016"
+  },
+  {
+   "title": "A machine learning approach to identifying suicide risk among text-based crisis counseling encounters",
+   "authors": "M Broadbent, M Medina Grespan, K Axford, X Zhang, V Srikumar, B Kious, ...",
+   "venue": "Frontiers in psychiatry 14, 1110527",
+   "year": "2023"
+  },
+  {
+   "title": "Database workload characterization with query plan encoders",
+   "authors": "D Paul, J Cao, F Li, V Srikumar",
+   "venue": "arXiv preprint arXiv:2105.12287",
+   "year": "2021"
+  },
+  {
+   "title": "EDISON: Feature Extraction for NLP, Simplified",
+   "authors": "M Sammons, C Christodoulopoulos, P Kordjamshidi, D Khashabi, ...",
+   "venue": "LREC",
+   "year": "2016"
+  },
+  {
+   "title": "Double trouble: the problem of construal in semantic annotation of adpositions",
+   "authors": "JD Hwang, A Bhatia, NR Han, T O’Gorman, V Srikumar, N Schneider",
+   "venue": "Proceedings of the 6th joint conference on lexical and computational …",
+   "year": "2017"
+  },
+  {
+   "title": "In-context example ordering guided by label distributions",
+   "authors": "Z Xu, D Cohen, B Wang, V Srikumar",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2024, 2623-2640",
+   "year": "2024"
+  },
+  {
+   "title": "Verb: Visualizing and interpreting bias mitigation techniques for word representations",
+   "authors": "A Rathore, S Dev, JM Phillips, V Srikumar, Y Zheng, CCM Yeh, J Wang, ...",
+   "venue": "arXiv preprint arXiv:2104.02797",
+   "year": "2021"
+  },
+  {
+   "title": "Supertagging the long tail with tree-structured decoding of complex categories",
+   "authors": "J Prange, N Schneider, V Srikumar",
+   "venue": "Transactions of the Association for Computational Linguistics 9, 243-260",
+   "year": "2021"
+  },
+  {
+   "title": "CrysText: a generative AI approach for text-conditioned crystal structure generation using LLM",
+   "authors": "T Mohanty, M Mehta, HM Sayeed, BE Oded, I Pitussi, A Borenstein, ...",
+   "venue": "Integrating Materials and Manufacturing Innovation 15 (2), 416-430",
+   "year": "2026"
+  },
+  {
+   "title": "Using synchronic definitions and semantic relations to classify semantic change types",
+   "authors": "P Cassotti, S De Pascale, N Tahmasebi",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Putting words in BERT’s mouth: Navigating contextualized vector spaces with pseudowords",
+   "authors": "T Karidi, Y Zhou, N Schneider, O Abend, V Srikumar",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Comprehensive Supersense Disambiguation of English Prepositions and Possessives",
+   "authors": "N Schneider, JD Hwang, V Srikumar, J Prange, A Blodgett, SR Moeller, ...",
+   "venue": "ACL",
+   "year": "2018"
+  },
+  {
+   "title": "COGCOMPNLP: Your Swiss Army Knife for NLP",
+   "authors": "D Khashabi, M Sammons, B Zhou, T Redman, C Christodoulopoulos, ...",
+   "venue": "LREC",
+   "year": "2018"
+  },
+  {
+   "title": "Is my model using the right evidence? Systematic probes for examining evidence-based tabular reasoning",
+   "authors": "V Gupta, RA Bhat, A Ghosal, M Shrivastava, M Singh, V Srikumar",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 659-679",
+   "year": "2022"
+  },
+  {
+   "title": "Right for the right reason: Evidence extraction for trustworthy tabular reasoning",
+   "authors": "V Gupta, S Zhang, A Vempala, Y He, T Choji, V Srikumar",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating Relaxations of Logic for Neural Networks: A Comprehensive Study",
+   "authors": "MM Grespan, A Gupta, V Srikumar",
+   "venue": "IJCAI",
+   "year": "2021"
+  },
+  {
+   "title": "Is Sentiment in Movies the Same as Sentiment in Psychotherapy? Comparisons Using a New Psychotherapy Sentiment Database",
+   "authors": "M Tanana, A Dembe, CS Soma, D Atkins, Z Imel, V Srikumar",
+   "venue": "Proceedings of the Third Workshop on Computational Lingusitics and Clinical …",
+   "year": "2016"
+  },
+  {
+   "title": "Learning Shared Body Plans",
+   "authors": "I Endres, V Srikumar, MW Chang, D Hoiem",
+   "venue": "CVPR",
+   "year": "2012"
+  },
+  {
+   "title": "Extraction of entailed semantic relations through syntax-based comma resolution",
+   "authors": "V Srikumar, R Reichart, M Sammons, A Rappoport, D Roth",
+   "venue": "Proceedings of ACL-08: HLT, 1030-1038",
+   "year": "2008"
+  },
+  {
+   "title": "Margin-based decomposed amortized inference",
+   "authors": "G Kundu, V Srikumar, D Roth",
+   "venue": "ACL",
+   "year": "2013"
+  },
+  {
+   "title": "Don't Retrain, Just Rewrite: Countering Adversarial Perturbations by Rewriting Text",
+   "authors": "A Gupta, CW Blum, T Choji, Y Fei, S Shah, A Vempala, V Srikumar",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Multi-core structural SVM training",
+   "authors": "KW Chang, V Srikumar, D Roth",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2013"
+  },
+  {
+   "title": "An inventory of preposition relations",
+   "authors": "V Srikumar, D Roth",
+   "venue": "arXiv preprint arXiv:1305.5785",
+   "year": "2013"
+  },
+  {
+   "title": "Elaboration-generating commonsense question answering at scale",
+   "authors": "W Wang, V Srikumar, H Hajishirzi, NA Smith",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "On the Limits of Learning to Actively Learn Semantic Representations",
+   "authors": "O Koshorek, G Stanovsky, Y Zhou, V Srikumar, J Berant",
+   "venue": "Proceedings of the 23rd Conference on Computational Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "State Space Models are Strong Text Rerankers",
+   "authors": "J Yan, Z Xu, A Gupta, V Srikumar",
+   "venue": "10th Workshop on Representation Learning for NLP, 152",
+   "year": "2025"
+  },
+  {
+   "title": "SweetPea: A standard language for factorial experimental design",
+   "authors": "S Musslick, A Cherkaev, B Draut, AS Butt, P Darragh, V Srikumar, M Flatt, ...",
+   "venue": "Behavior Research Methods 54 (2), 805-829",
+   "year": "2022"
+  },
+  {
+   "title": "Learning Constraints for Structured Prediction Using Rectifier Networks",
+   "authors": "X Pan, M Mehta, V Srikumar",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Preparing SNACS for Subjects and Objects",
+   "authors": "A Shalev, JD Hwang, N Schneider, V Srikumar, OAA Rappoport",
+   "venue": "DMR workshop at ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Learning to Speed Up Structured Output Prediction",
+   "authors": "X Pan, V Srikumar",
+   "venue": "ICML",
+   "year": "2018"
+  },
+  {
+   "title": "Illinoissl: A JAVA library for structured prediction",
+   "authors": "KW Chang, S Upadhyay, MW Chang, V Srikumar, D Roth",
+   "venue": "arXiv preprint arXiv:1509.07179",
+   "year": "2015"
+  },
+  {
+   "title": "WOLFE: Strength Reduction and Approximate Programming for Probabilistic Programming.",
+   "authors": "S Riedel, S Singh, V Srikumar, T Rocktäschel, L Visengeriyeva, ...",
+   "venue": "StarAI@ AAAI",
+   "year": "2014"
+  },
+  {
+   "title": "AGRO: Adversarial Discovery of Error-prone groups for Robust Optimization",
+   "authors": "B Paranjape, P Dasigi, V Srikumar, L Zettlemoyer, H Hajishirzi",
+   "venue": "ICLR",
+   "year": "2023"
+  },
+  {
+   "title": "Distillation versus contrastive learning: How to train your rerankers",
+   "authors": "Z Xu, Z Huang, S Zhuang, V Srikumar",
+   "venue": "Proceedings of the 14th International Joint Conference on Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Reinforcing code generation: Improving text-to-sql with execution-based learning",
+   "authors": "A Kulkarni, V Srikumar",
+   "venue": "arXiv preprint arXiv:2506.06093",
+   "year": "2025"
+  },
+  {
+   "title": "Automatic entity state annotation using the VerbNet semantic parser",
+   "authors": "G Kazeminejad, M Palmer, T Li, V Srikumar",
+   "venue": "Proceedings of the Joint 15th Linguistic Annotation Workshop (LAW) and 3rd …",
+   "year": "2021"
+  },
+  {
+   "title": "Continuous kernel learning",
+   "authors": "J Moeller, V Srikumar, S Swaminathan, S Venkatasubramanian, D Webb",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2016"
+  },
+  {
+   "title": "Conceptual search and text categorization",
+   "authors": "L Ratinov, D Roth, V Srikumar",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Amazon at MRP 2019: Parsing meaning representations with lexical and phrasal anchoring",
+   "authors": "J Cao, Y Zhang, A Youssef, V Srikumar",
+   "venue": "Proceedings of the shared task on cross-framework meaning representation …",
+   "year": "2019"
+  },
+  {
+   "title": "Exploiting Sentence Similarities for Better Alignments",
+   "authors": "T Li, V Srikumar",
+   "venue": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "Found in translation: measuring multilingual LLM consistency as simple as translate then evaluate",
+   "authors": "A Gupta, M Mehta, Z Xu, V Srikumar",
+   "venue": "Proceedings of the 14th International Joint Conference on Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Promptly predicting structures: The return of inference",
+   "authors": "M Mehta, V Pyatkin, V Srikumar",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Whispers of doubt amidst echoes of triumph in nlp robustness",
+   "authors": "A Gupta, R Rajendhran, N Stringham, V Srikumar, A Marasović",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Predicting Structures in NLP Constrained Conditional Models",
+   "authors": "D Goldwasser, V Srikumar, D Roth",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Psychotherapy is not one thing: simultaneous modeling of different therapeutic approaches",
+   "authors": "M Mehta, D Caperton, K Axford, L Weitzman, D Atkins, V Srikumar, Z Imel",
+   "venue": "Proceedings of the Eighth Workshop on Computational Linguistics and Clinical …",
+   "year": "2022"
+  },
+  {
+   "title": "A framework for automation in psychotherapy",
+   "authors": "ZE Imel, T Creed, B Kious, T Althoff, D Atzil-Slonim, V Srikumar",
+   "venue": "Current directions in psychological science 35 (2), 66-76",
+   "year": "2026"
+  },
+  {
+   "title": "Artificial Intelligence to Support Human-Provided Mental Health Treatment",
+   "authors": "CS Soma, PB Kuo, M Mehta, V Srikumar, ZE Imel, DC Atkins",
+   "venue": "Annual Review of Clinical Psychology 22",
+   "year": "2026"
+  },
+  {
+   "title": "Understanding the logic of direct preference alignment through logic",
+   "authors": "K Richardson, V Srikumar, A Sabharwal",
+   "venue": "arXiv preprint arXiv:2412.17696",
+   "year": "2024"
+  },
+  {
+   "title": "Learning semantic role labeling from compatible label sequences",
+   "authors": "T Li, G Kazeminejad, SW Brown, V Srikumar, M Palmer",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 15561 …",
+   "year": "2023"
+  },
+  {
+   "title": "Verifying annotation agreement without multiple experts: A case study with Gujarati SNACS",
+   "authors": "M Mehta, V Srikumar",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 10941-10958",
+   "year": "2023"
+  },
+  {
+   "title": "Integer linear programming formulations in natural language processing",
+   "authors": "D Roth, V Srikumar",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum",
+   "authors": "Z Xu, S Zhuang, C Zhang, X Ma, Y Tian, M Mehta, J Lin, V Srikumar",
+   "venue": "arXiv preprint arXiv:2601.01684",
+   "year": "2026"
+  },
+  {
+   "title": "LLM-symbolic integration for robust temporal tabular reasoning",
+   "authors": "A Kulkarni, K Dixit, V Srikumar, D Roth, V Gupta",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 19914-19940",
+   "year": "2025"
+  },
+  {
+   "title": "Identification of cultural conversations in therapy using natural language processing models.",
+   "authors": "PB Kuo, M Mehta, H Hashtpari, V Srikumar, MJ Tanana, KW Tao, ...",
+   "venue": "Psychotherapy 61 (4), 259",
+   "year": "2024"
+  },
+  {
+   "title": "The integer linear programming inference cookbook",
+   "authors": "V Srikumar, D Roth",
+   "venue": "arXiv preprint arXiv:2307.00171",
+   "year": "2023"
+  },
+  {
+   "title": "A similarity-based machine learning approach for detecting adversarial android malware",
+   "authors": "D Hassana, M Might, V Srikumar",
+   "venue": "University of Utah UUCS-14-002",
+   "year": "2014"
+  },
+  {
+   "title": "The semantics of role labeling",
+   "authors": "V Srikumar",
+   "venue": "University of Illinois at Urbana-Champaign",
+   "year": "2013"
+  },
+  {
+   "title": "Rethinking on-policy optimization for query augmentation",
+   "authors": "Z Xu, S Zhuang, X Ma, B Chen, Y Tian, F Mo, T Li, J Cao, V Srikumar",
+   "venue": "arXiv preprint arXiv:2510.17139",
+   "year": "2025"
+  },
+  {
+   "title": "An empirical investigation of matrix factorization methods for pre-trained transformers",
+   "authors": "A Gupta, SM Saravani, P Sadayappan, V Srikumar",
+   "venue": "arXiv preprint arXiv:2406.11307",
+   "year": "2024"
+  },
+  {
+   "title": "Adposition and Case Supersenses v2. 6: Guidelines for English",
+   "authors": "N Schneider, JD Hwang, V Srikumar, A Bhatia, NR Han, T O'Gorman, ...",
+   "venue": "arXiv preprint arXiv:1704.02134",
+   "year": "2017"
+  },
+  {
+   "title": "An Algebra for Feature Extraction",
+   "authors": "V Srikumar",
+   "venue": "ACL",
+   "year": "2017"
+  },
+  {
+   "title": "Measuring and improving attentiveness to partial inputs with counterfactuals",
+   "authors": "Y Elazar, B Paranjape, H Peng, S Wiegreffe, K Chandu, V Srikumar, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 3603-3623",
+   "year": "2024"
+  },
+  {
+   "title": "Proactive Intrusion Detection.",
+   "authors": "B Liebald, D Roth, N Shah, V Srikumar",
+   "venue": "AAAI, 772-777",
+   "year": "2008"
+  },
+  {
+   "title": "Sprucing up supersenses: Untangling the semantic clusters of accompaniment and purpose",
+   "authors": "JD Hwang, N Schneider, V Srikumar",
+   "venue": "Proceedings of the 14th Linguistic Annotation Workshop, 127-137",
+   "year": "2020"
+  },
+  {
+   "title": "Beyond context: A new perspective for word embeddings",
+   "authors": "Y Zhou, V Srikumar",
+   "venue": "Proceedings of the Eighth Joint Conference on Lexical and Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Adposition supersenses v2",
+   "authors": "N Schneider, JD Hwang, A Bhatia, NR Han, V Srikumar, T O’Gorman, ...",
+   "venue": "CoRR, abs/1704.02134",
+   "year": "2017"
+  },
+  {
+   "title": "Unequal Voices: How LLMs Construct Constrained Queer Narratives",
+   "authors": "A Ghosal, A Gupta, V Srikumar",
+   "venue": "arXiv preprint arXiv:2507.15585",
+   "year": "2025"
+  },
+  {
+   "title": "Coping with construals in broad-coverage semantic annotation of adpositions",
+   "authors": "JD Hwang, A Bhatia, NR Han, T O'Gorman, V Srikumar, N Schneider",
+   "venue": "AAAI Spring Symposium on Construction Grammar and NLU",
+   "year": "2017"
+  },
+  {
+   "title": "Proactive Detection of Insider Attacks",
+   "authors": "B Liebald, D Roth, N Shah, V Srikumar",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Defragmenting Language Models: An Interpretability-based Approach for Vocabulary Expansion",
+   "authors": "M Mehta, N Subramani, Z Xu, A Gupta, V Srikumar",
+   "venue": "arXiv preprint arXiv:2604.16656",
+   "year": "2026"
+  },
+  {
+   "title": "The Role of Transformer Architecture in the Logic-as-Loss Framework",
+   "authors": "M Medina Grespan, V Srikumar",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2025"
+  },
+  {
+   "title": "A machine learning approach to identifying suicide risk among",
+   "authors": "K Axford, V Srikumar",
+   "venue": "Assessments and Measures in Psychotherapy Research: Going Beyond Self-Report …",
+   "year": "2023"
+  },
+  {
+   "title": "Logic-driven indirect supervision: An application to crisis counseling",
+   "authors": "MM Grespan, M Broadbent, X Zhang, K Axford, B Kious, Z Imel, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Logic-driven indirect supervision: an application to crisis counseling",
+   "authors": "M Medina Grespan, M Broadbent, X Zhang, K Axford, B Kious, Z Imel, ...",
+   "venue": "Association for Computational Linguistics",
+   "year": "2023"
+  },
+  {
+   "title": "An Interactive Visual Demo of Bias Mitigation Techniques for Word Representations From a Geometric Perspective",
+   "authors": "A Rathore, S Dev, V Srikumar, JM Phillips, Y Zheng, M Yeh, J Wang, ...",
+   "venue": "NeurIPS 2021 Competitions and Demonstrations Track, 330-335",
+   "year": "2022"
+  },
+  {
+   "title": "CCG supertagging as top-down tree generation",
+   "authors": "J Prange, N Schneider, V Srikumar",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2021, 351-354",
+   "year": "2021"
+  },
+  {
+   "title": "Learning in practice: Reasoning about quantization",
+   "authors": "A Cherkaev, W Tai, J Phillips, V Srikumar",
+   "venue": "arXiv preprint arXiv:1905.11478",
+   "year": "2019"
+  },
+  {
+   "title": "Newton",
+   "authors": "A Nag, R Balasubramonian, V Srikumar, R Walker, A Shafiee, ...",
+   "venue": "Memristor-Based Computing, 41",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the workshop on structured prediction for NLP",
+   "authors": "KW Chang, MW Chang, AM Rush, V Srikumar",
+   "venue": "Proceedings of the Workshop on Structured Prediction for NLP",
+   "year": "2016"
+  },
+  {
+   "title": "Learning and Inference in Structured Prediction Models",
+   "authors": "KW Chang, G Kundu, D Roth, V Srikumar",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Soft Constraints in Integer Linear Programs",
+   "authors": "V Srikumar",
+   "venue": "Unpublished Note",
+   "year": "2013"
+  },
+  {
+   "title": "VerTox: Verifiable Reward-Guided Corpus Poisoning Against Neural Ranking Models",
+   "authors": "Z Huang, V Datla, Z Xu, P Yu, V Srikumar, A Samuel",
+   "venue": "arXiv preprint arXiv:2609.01325",
+   "year": "2026"
+  },
+  {
+   "title": "The Machine's Internal Clock: Do LLMs Share Human Temporal Illusions?",
+   "authors": "C Bao, V Srikumar",
+   "venue": "arXiv preprint arXiv:2608.15394",
+   "year": "2026"
+  },
+  {
+   "title": "Tevatron-Elastic: A Unified Abstraction for Training Elastic Retrievers and Rerankers",
+   "authors": "Y Wang, S Zhuang, X Ma, Z Wu, J Lin, V Srikumar, Z Xu",
+   "venue": "arXiv preprint arXiv:2608.08809",
+   "year": "2026"
+  },
+  {
+   "title": "InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis",
+   "authors": "O Bentham, V Srikumar",
+   "venue": "arXiv preprint arXiv:2604.13201",
+   "year": "2026"
+  },
+  {
+   "title": "Spatial Metaphor Priming in Humans and Language Models",
+   "authors": "D Tiwari, MI Feist, J Hwang, V Srikumar, N Schneider",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 48",
+   "year": "2026"
+  },
+  {
+   "title": "Examining Compositional Behavior in Large Language Models",
+   "authors": "J Tan, V Srikumar",
+   "venue": "RANGE: Undergraduate Research Journal (2025)",
+   "year": "2025"
+  },
+  {
+   "title": "Test-Time Scaling with Repeated Sampling Improves Multilingual Text Generation",
+   "authors": "A Gupta, V Srikumar",
+   "venue": "arXiv preprint arXiv:2505.21941",
+   "year": "2025"
+  },
+  {
+   "title": "LogFlux: A Software Suite for Replicating Results in Automated Log Parsing",
+   "authors": "G Zheng, R Ricci, V Srikumar",
+   "venue": "Proceedings of the 2nd ACM Conference on Reproducibility and Replicability …",
+   "year": "2024"
+  },
+  {
+   "title": "METAPROBE: A Representation-and Task-Agnostic Probe",
+   "authors": "Y Zhou, V Srikumar",
+   "venue": "Proceedings of the 6th BlackboxNLP Workshop: Analyzing and Interpreting …",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the 26th Conference on Computational Natural Language Learning (CoNLL)",
+   "authors": "A Fokkens, V Srikumar",
+   "venue": "Proceedings of the 26th Conference on Computational Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Putting Context in SNACS: A 5-Way Classification of Adpositional Pragmatic Markers",
+   "authors": "YJ Liu, JD Hwang, N Schneider, V Srikumar",
+   "venue": "Proceedings of the 16th Linguistic Annotation Workshop (LAW-XVI) within …",
+   "year": "2022"
+  },
+  {
+   "title": "A Visual Tour of Bias Mitigation Techniques for Word Representations.",
+   "authors": "A Rathore, S Dev, JM Phillips, V Srikumar, B Wang",
+   "venue": "KDD, 4064-4065",
+   "year": "2021"
+  },
+  {
+   "title": "A Simple Global Neural Discourse Parser",
+   "authors": "Y Zhou, O Koshorek, V Srikumar, J Berant",
+   "venue": "arXiv preprint arXiv:2009.01312",
+   "year": "2020"
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Structured Prediction for Natural Language Processing",
+   "authors": "KW Chang, MW Chang, V Srikumar, AM Rush",
+   "venue": "Proceedings of the 2nd Workshop on Structured Prediction for Natural …",
+   "year": "2017"
+  },
+  {
+   "title": "Right for the Right Reason: Evidence Extraction for Trustworthy Tabular Reasoning",
+   "authors": "A Vempala, V Srikumar, V Gupta, Y He, T Choji",
+   "venue": "ACL 2022",
+   "year": null
+  },
+  {
+   "title": "CAUSE: Counterfactual Assessment of User Satisfaction Estimation in Task-Oriented Dialogue S stems",
+   "authors": "V Srikumar",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Declarative characterizations of direct preference alignment algorithms",
+   "authors": "K Richardson, V Srikumar, A Sabharwal",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

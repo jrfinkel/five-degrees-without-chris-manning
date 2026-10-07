@@ -1,0 +1,347 @@
+{
+ "user": "quJME0oAAAAJ",
+ "pubs": [
+  {
+   "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+   "authors": "Z Yang, P Qi, S Zhang, Y Bengio, WW Cohen, R Salakhutdinov, ...",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2018"
+  },
+  {
+   "title": "Stanza: A Python Natural Language Processing Toolkit for Many Human Languages",
+   "authors": "P Qi, Y Zhang, Y Zhang, J Bolton, CD Manning",
+   "venue": "Association of Computational Linguistics (ACL) System Demonstrations",
+   "year": "2020"
+  },
+  {
+   "title": "Trustworthy AI: From principles to practices",
+   "authors": "B Li, P Qi, B Liu, S Di, J Liu, J Pei, J Yi, B Zhou",
+   "venue": "ACM Computing Surveys 55 (9), 1-46",
+   "year": "2023"
+  },
+  {
+   "title": "Graph Convolution over Pruned Dependency Trees Improves Relation Extraction",
+   "authors": "Y Zhang, P Qi, CD Manning",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2018"
+  },
+  {
+   "title": "Sharp nearby, fuzzy far away: How neural language models use context",
+   "authors": "U Khandelwal, H He, P Qi, D Jurafsky",
+   "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+   "year": "2018"
+  },
+  {
+   "title": "Universal Dependency Parsing from Scratch",
+   "authors": "P Qi, T Dozat, Y Zhang, CD Manning",
+   "venue": "Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw …",
+   "year": "2018"
+  },
+  {
+   "title": "Stanford’s graph-based neural dependency parser at the conll 2017 shared task",
+   "authors": "T Dozat, P Qi, CD Manning",
+   "venue": "Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw …",
+   "year": "2017"
+  },
+  {
+   "title": "Building DNN Acoustic Models for Large Vocabulary Speech Recognition",
+   "authors": "AL Maas, P Qi, Z Xie, AY Hannun, CT Lengerich, D Jurafsky, AY Ng",
+   "venue": "Computer Speech & Language",
+   "year": "2014"
+  },
+  {
+   "title": "Biomedical and clinical English model packages for the Stanza Python NLP library",
+   "authors": "Y Zhang, Y Zhang, P Qi, CD Manning, CP Langlotz",
+   "venue": "Journal of the American Medical Informatics Association 28 (9), 1892-1899",
+   "year": "2021"
+  },
+  {
+   "title": "Answering Complex Open-domain Questions Through Iterative Query Generation",
+   "authors": "P Qi, X Lin, L Mehr, Z Wang, CD Manning",
+   "venue": "Empirical Methods in Natural Language Processing and International Joint …",
+   "year": "2019"
+  },
+  {
+   "title": "Is your llm secretly a world model of the internet? model-based planning for web agents",
+   "authors": "Y Gu, K Zhang, Y Ning, B Zheng, B Gou, T Xue, C Chang, S Srivastava, ...",
+   "venue": "arXiv preprint arXiv:2411.06559",
+   "year": "2024"
+  },
+  {
+   "title": "Do Syntax Trees Help Pre-trained Transformers Extract Information?",
+   "authors": "DS Sachan, Y Zhang, P Qi, WL Hamilton",
+   "venue": "European Chapter of the Association for Computational Linguistics (EACL)",
+   "year": "2021"
+  },
+  {
+   "title": "Improving time sensitivity for question answering over temporal knowledge graphs",
+   "authors": "C Shang, G Wang, P Qi, J Huang",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Selective attention based graph convolutional networks for aspect-level sentiment classification",
+   "authors": "X Hou, J Huang, G Wang, P Qi, X He, B Zhou",
+   "venue": "The Fifteenth Workshop on Graph-Based Methods for Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Answering Open-Domain Questions of Varying Reasoning Steps from Text",
+   "authors": "P Qi, H Lee, T Sido, CD Manning",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Graph ensemble learning over multiple dependency trees for aspect-level sentiment classification",
+   "authors": "X Hou, P Qi, G Wang, R Ying, J Huang, X He, B Zhou",
+   "venue": "Proceedings of the 2021 conference of the north american chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Rag-qa arena: Evaluating domain robustness for long-form retrieval augmented question answering",
+   "authors": "R Han, Y Zhang, P Qi, Y Xu, J Wang, L Liu, WY Wang, B Min, V Castelli",
+   "venue": "Proceedings of the 2024 conference on empirical methods in natural language …",
+   "year": "2024"
+  },
+  {
+   "title": "Entity and Evidence Guided Relation Extraction for DocRED",
+   "authors": "K Huang, P Qi, G Wang, T Ma, J Huang",
+   "venue": "The 6th Workshop on Representation Learning for NLP (RepL4NLP-2021)",
+   "year": "2021"
+  },
+  {
+   "title": "Hybrid Hierarchical Retrieval for Open-Domain Question Answering",
+   "authors": "MG Arivazhagan, L Liu, P Qi, X Chen, WY Wang, Z Huang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 10680-10689",
+   "year": "2023"
+  },
+  {
+   "title": "Neural Generation Meets Real People: Towards Emotionally Engaging Mixed-Initiative Conversations",
+   "authors": "A Paranjape, A See, K Kenealy, H Li, A Hardy, P Qi, KR Sadagopan, ...",
+   "venue": "arXiv preprint arXiv:2008.12348",
+   "year": "2020"
+  },
+  {
+   "title": "Stay hungry, stay focused: Generating informative and specific questions in information-seeking conversations",
+   "authors": "P Qi, Y Zhang, CD Manning",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 25-40",
+   "year": "2020"
+  },
+  {
+   "title": "PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction For Continual Learning",
+   "authors": "S Yu, G Li, W Shi, P Qi",
+   "venue": "The Fourteenth International Conference on Learning Representations",
+   "year": "2026"
+  },
+  {
+   "title": "RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering",
+   "authors": "R Han, P Qi, Y Zhang, L Liu, J Burger, WY Wang, Z Huang, B Xiang, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 4294-4311",
+   "year": "2023"
+  },
+  {
+   "title": "Arc-swift: A Novel Transition System for Dependency Parsing",
+   "authors": "P Qi, CD Manning",
+   "venue": "Proceedings of the 55th annual meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Citeeval: Principle-driven citation evaluation for source attribution",
+   "authors": "Y Xu, P Qi, J Chen, K Liu, R Han, L Liu, B Min, V Castelli, A Gupta, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "OSWorld2. 0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
+   "authors": "M Yuan, Z Zhou, X Xiong, W Wu, J Sun, J Song, K Cui, B Wang, H Wu, ...",
+   "venue": "arXiv preprint arXiv:2606.29537",
+   "year": "2026"
+  },
+  {
+   "title": "Language Agnostic Multilingual Information Retrieval with Contrastive Learning",
+   "authors": "X Hu, X Chen, P Qi, D Kong, K Liu, WY Wang, Z Huang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Stanford at TAC KBP 2016: Sealing Pipeline Leaks and Understanding Chinese.",
+   "authors": "Y Zhang, AT Chaganty, A Paranjape, D Chen, J Bolton, P Qi, CD Manning",
+   "venue": "TAC",
+   "year": "2016"
+  },
+  {
+   "title": "Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks",
+   "authors": "K Sun, P Qi, Y Zhang, L Liu, WY Wang, Z Huang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "TinkerBell: Cross-lingual Cold-Start Knowledge Base Construction.",
+   "authors": "M Al-Badrashiny, J Bolton, AT Chaganty, K Clark, C Harman, L Huang, ...",
+   "venue": "TAC",
+   "year": "2017"
+  },
+  {
+   "title": "PragmatiCQA: A Dataset for Pragmatic Question Answering in Conversations",
+   "authors": "P Qi, N Du, CD Manning, J Huang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 6175-6191",
+   "year": "2023"
+  },
+  {
+   "title": "Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations",
+   "authors": "C Liu, Y Yang, K Zhou, Z Zhang, Y Fan, Y Xie, P Qi, XE Wang",
+   "venue": "arXiv preprint arXiv:2510.05571",
+   "year": "2025"
+  },
+  {
+   "title": "Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent",
+   "authors": "EA Chi, A Paranjape, A See, C Chiam, T Chang, K Kenealy, SK Lim, ...",
+   "venue": "arXiv preprint arXiv:2207.12021",
+   "year": "2022"
+  },
+  {
+   "title": "AutoRubric: Rubric-Based Generative Rewards for Faithful Multimodal Reasoning",
+   "authors": "M Jia, Z Zhang, I Cases, Z Liu, M Jiang, P Qi",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 25707-25724",
+   "year": "2026"
+  },
+  {
+   "title": "Open Temporal Relation Extraction for Question Answering",
+   "authors": "C Shang, P Qi, G Wang, J Huang, Y Wu, B Zhou",
+   "venue": "3rd Conference on Automated Knowledge Base Construction",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling response properties of V2 neurons using a hierarchical K-means model",
+   "authors": "X Hu, J Zhang, P Qi, B Zhang",
+   "venue": "Neurocomputing 134, 198-205",
+   "year": "2014"
+  },
+  {
+   "title": "Challenges in Explanation Quality Evaluation",
+   "authors": "H Schuff, H Adel, P Qi, NT Vu",
+   "venue": "arXiv preprint arXiv:2210.07126",
+   "year": "2022"
+  },
+  {
+   "title": "Learning Efficient Guardrails for Compliance",
+   "authors": "X Wen, WJ Mo, Y Xie, P Qi, M Chen",
+   "venue": "Forty-third International Conference on Machine Learning",
+   "year": "2026"
+  },
+  {
+   "title": "OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning",
+   "authors": "B Zhu, X Wen, WJ Mo, T Zhu, Y Xie, P Qi, M Chen",
+   "venue": "arXiv preprint arXiv:2512.02306",
+   "year": "2025"
+  },
+  {
+   "title": "Conversational AI Systems for Social Good: Opportunities and Challenges",
+   "authors": "P Qi, J Huang, Y Wu, X He, B Zhou",
+   "venue": "arXiv preprint arXiv:2105.06457",
+   "year": "2021"
+  },
+  {
+   "title": "Stanford at TAC KBP 2017: Building a Trilingual Relational Knowledge Graph",
+   "authors": "A Chaganty, A Paranjape, J Bolton, M Lamm, J Lei, A See, K Clark, ...",
+   "venue": "Proceedings of TAC",
+   "year": "2017"
+  },
+  {
+   "title": "Neural text summarization",
+   "authors": "U Khandelwal, P Qi, D Jurafsky",
+   "venue": "Stanford University, Stanford, CA, USA",
+   "year": "2016"
+  },
+  {
+   "title": "Hierarchical K-means algorithm for modeling visual area V2 neurons",
+   "authors": "X Hu, P Qi, B Zhang",
+   "venue": "International Conference on Neural Information Processing, 373-381",
+   "year": "2012"
+  },
+  {
+   "title": "Dancing in chains: Reconciling instruction following and faithfulness in language models",
+   "authors": "Z Wu, Y Zhang, P Qi, Y Xu, R Han, Y Zhang, J Chen, B Min, Z Huang",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "When Vision Speaks for Sound",
+   "authors": "X Wen, WJ Mo, X Fu, R Cai, T Zhu, W Li, Y Xie, M Chen, P Qi",
+   "venue": "arXiv preprint arXiv:2605.16403",
+   "year": "2026"
+  },
+  {
+   "title": "Template-based tuning of a generative machine learning model for performing natural language tasks",
+   "authors": "Z HUANG, Y Yang, L Liu, Y Zhang, P Qi",
+   "venue": "US Patent US20250111267A1",
+   "year": "2025"
+  },
+  {
+   "title": "Learning nonlinear statistical regularities in natural images by modeling the outer product of image intensities",
+   "authors": "P Qi, X Hu",
+   "venue": "Neural computation 26 (4), 693-711",
+   "year": "2014"
+  },
+  {
+   "title": "Towards Trustworthy Physical AI: From Theory to Practice Across Life Cycle",
+   "authors": "W Yang, H Liu, X Xu, A Menon, X Cai, Y He, J Zhou, M Ma, X Wei, ...",
+   "venue": "arXiv preprint arXiv:2607.22877",
+   "year": "2026"
+  },
+  {
+   "title": "WARC-Bench: Web Archive based Benchmark for GUI Subtask Executions",
+   "authors": "S Srivastava, G Li, C Chang, R Garg, M Kaur, C Lee, Y Li, Y Mao, ...",
+   "venue": "International Conference on Learning Representations 2026, 26166-26191",
+   "year": "2026"
+  },
+  {
+   "title": "Explainable and Efficient Knowledge Acquisition from Text",
+   "authors": "P Qi",
+   "venue": "Stanford University",
+   "year": "2020"
+  },
+  {
+   "title": "PADM\\'E: Preference Alignment Data Synthesis for Meta-Evaluation of LM Agent Evaluators",
+   "authors": "C Chang, Y Mao, P Qi",
+   "venue": "arXiv preprint arXiv:2609.36086",
+   "year": "2026"
+  },
+  {
+   "title": "Toward Trustworthy Evaluation of Sustainability Rating Methodologies: A Human-AI Collaborative Framework for Benchmark Dataset Construction",
+   "authors": "X Cai, W Yang, X Ren, C Law, R Sharma, P Qi",
+   "venue": "arXiv preprint arXiv:2602.17106",
+   "year": "2026"
+  },
+  {
+   "title": "Overconfident and Blind to Details: Fixing Prompt Insensitivity with Abductive Preference Learning",
+   "authors": "Y Ni, S Yu, P Qi",
+   "venue": "arXiv preprint arXiv:2510.09887",
+   "year": "2025"
+  },
+  {
+   "title": "Indexing split documents for data retrieval augmenting generative machine learning results",
+   "authors": "Z HUANG, Y Yang, L Liu, Y ZHANG, P QI",
+   "venue": "WO Patent WO2025072719A1",
+   "year": "2025"
+  },
+  {
+   "title": "Method and system for aspect-level sentiment classification by merging graphs",
+   "authors": "X Hou, P Qi, G Wang, Z Ying, J Huang, X He, B Zhou",
+   "venue": "US Patent US20230267322A1",
+   "year": "2023"
+  },
+  {
+   "title": "SpanDrop: Simple and Effective Counterfactual Learning for Long Sequences",
+   "authors": "P Qi, G Wang, J Huang",
+   "venue": "arXiv preprint arXiv:2208.02169",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling outer products of features for image classification",
+   "authors": "P Qi, S Su, X Hu",
+   "venue": "2013 Sixth International Conference on Advanced Computational Intelligence …",
+   "year": "2013"
+  }
+ ]
+}

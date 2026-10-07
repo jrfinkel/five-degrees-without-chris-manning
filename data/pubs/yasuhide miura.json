@@ -1,0 +1,365 @@
+{
+ "user": "NMf-3NgXlGEC",
+ "pubs": [
+  {
+   "title": "Contrastive learning of medical visual representations from paired images and text",
+   "authors": "Y Zhang, H Jiang, Y Miura, CD Manning, CP Langlotz",
+   "venue": "Machine learning for healthcare conference, 2-25",
+   "year": "2022"
+  },
+  {
+   "title": "Improving factual completeness and consistency of image-to-text radiology report generation",
+   "authors": "Y Miura, Y Zhang, E Tsai, C Langlotz, D Jurafsky",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Extraction of adverse drug effects from clinical records",
+   "authors": "E Aramaki, Y Miura, M Tonoike, T Ohkuma, H Masuichi, K Waki, K Ohe",
+   "venue": "MEDINFO 2010, 739-743",
+   "year": "2010"
+  },
+  {
+   "title": "Text2table: Medical text summarization system based on named entity recognition and modality identification",
+   "authors": "E Aramaki, Y Miura, M Tonoike, T Ohkuma, H Masuichi, K Ohe",
+   "venue": "Proceedings of the BioNLP 2009 Workshop, 185-192",
+   "year": "2009"
+  },
+  {
+   "title": "Unifying text, metadata, and user network representations with a neural network for geolocation prediction",
+   "authors": "Y Miura, M Taniguchi, T Taniguchi, T Ohkuma",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Character-based Bidirectional LSTM-CRF with words and characters for Japanese Named Entity Recognition",
+   "authors": "S Misawa, M Taniguchi, Y Miura, T Ohkuma",
+   "venue": "Proceedings of the first workshop on subword and character level models in …",
+   "year": "2017"
+  },
+  {
+   "title": "TeamX: A sentiment analyzer with enhanced lexicon mapping and weighting scheme for unbalanced data",
+   "authors": "Y Miura, S Sakaki, K Hattori, T Ohkuma",
+   "venue": "Proceedings of the 8th International Workshop on Semantic Evaluation …",
+   "year": "2014"
+  },
+  {
+   "title": "Sentiment analysis for low resource languages: A study on informal Indonesian tweets",
+   "authors": "TA Le, D Moeljadi, Y Miura, T Ohkuma",
+   "venue": "Proceedings of the 12th workshop on Asian language resources (ALR12), 123-131",
+   "year": "2016"
+  },
+  {
+   "title": "Text and image synergy with feature cross technique for gender identification",
+   "authors": "T Takahashi, T Tahara, K Nagatani, Y Miura, T Taniguchi, T Ohkuma",
+   "venue": "Working Notes Papers of the CLEF 10",
+   "year": "2018"
+  },
+  {
+   "title": "A simple scalable neural networks based model for geolocation prediction in twitter",
+   "authors": "Y Miura, M Taniguchi, T Taniguchi, T Ohkuma",
+   "venue": "Proceedings of the 2nd Workshop on Noisy User-generated Text (WNUT), 235-239",
+   "year": "2016"
+  },
+  {
+   "title": "Twitter user gender inference using combined analysis of text and image processing",
+   "authors": "S Sakaki, Y Miura, X Ma, K Hattori, T Ohkuma",
+   "venue": "proceedings of the Third Workshop on Vision and Language, 54-61",
+   "year": "2014"
+  },
+  {
+   "title": "Author Profiling with Word+ Character Neural Attention Network.",
+   "authors": "Y Miura, T Taniguchi, M Taniguchi, T Ohkuma",
+   "venue": "CLEF (Working Notes)",
+   "year": "2017"
+  },
+  {
+   "title": "Machine Learning for Healthcare Conference",
+   "authors": "Y Zhang, H Jiang, Y Miura, CD Manning, CP Langlotz",
+   "venue": "PMLR",
+   "year": "2022"
+  },
+  {
+   "title": "Factual accuracy is not enough: Planning consistent description order for radiology report generation",
+   "authors": "T Nishino, Y Miura, T Taniguchi, T Ohkuma, Y Suzuki, S Kido, ...",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Contrastive learning of medical visual representations from paired images and text. 2022",
+   "authors": "Y Zhang, H Jiang, Y Miura, CD Manning, CP Langlotz",
+   "venue": "arXiv preprint arXiv:2010.00747",
+   "year": "2010"
+  },
+  {
+   "title": "Text and Image Synergy with Feature Cross Technique for Gender Identification: Notebook for PAN at CLEF 2018.",
+   "authors": "T Takahashi, T Tahara, K Nagatani, Y Miura, T Taniguchi, T Ohkuma",
+   "venue": "CLEF (Working Notes)",
+   "year": "2018"
+  },
+  {
+   "title": "Keeping consistency of sentence generation and document classification with multi-task learning",
+   "authors": "T Nishino, S Misawa, R Kano, T Taniguchi, Y Miura, T Ohkuma",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Social media-based profiling of business locations",
+   "authors": "F Chen, D Joshi, Y Miura, T Ohkuma",
+   "venue": "Proceedings of the 3rd ACM multimedia workshop on geotagging and its …",
+   "year": "2014"
+  },
+  {
+   "title": "Integrating entity linking and evidence ranking for fact extraction and verification",
+   "authors": "M Taniguchi, T Taniguchi, T Takahashi, Y Miura, T Ohkuma",
+   "venue": "Proceedings of the First Workshop on Fact Extraction and Verification (FEVER …",
+   "year": "2018"
+  },
+  {
+   "title": "Adverse-effect relations extraction from massive clinical records",
+   "authors": "Y Miura, E Aramaki, T Ohkuma, M Tonoike, D Sugihara, H Masuichi, ...",
+   "venue": "Proceedings of the Second Workshop on NLP Challenges in the Information …",
+   "year": "2010"
+  },
+  {
+   "title": "Harnessing popularity in social media for extractive summarization of online conversations",
+   "authors": "R Kano, Y Miura, M Taniguchi, YY Chen, F Chen, T Ohkuma",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Information processing apparatus, information processing method, and non-transitory computer readable medium",
+   "authors": "Y Miura, K HATTORI, T OKUMA",
+   "venue": "US Patent 9,244,910",
+   "year": "2016"
+  },
+  {
+   "title": "An easily implemented method for abbreviation expansion for the medical domain in Japanese text",
+   "authors": "EY Shinohara, E Aramaki, T Imai, Y Miura, M Tonoike, T Ohkuma, ...",
+   "venue": "Methods of information in medicine 52 (01), 51-61",
+   "year": "2013"
+  },
+  {
+   "title": "電子カルテからの副作用関係の自動抽出",
+   "authors": "三浦康秀， 荒牧英治， 大熊智子， 外池昌嗣， 杉原大悟， 増市博， 大江和彦",
+   "venue": "言語処理学会第 16 回年次大会, 78-81",
+   "year": "2010"
+  },
+  {
+   "title": "退院サマリ文章可視化システムの構築",
+   "authors": "荒牧英治， 三浦康秀， 外池昌嗣， 大熊智子， 増市博， 大江和彦",
+   "venue": "言語処理学会第 15 回年次大会発表論文集, 348-351",
+   "year": "2009"
+  },
+  {
+   "title": "Relation prediction for unseen-entities using entity-word graphs",
+   "authors": "Y Tagawa, M Taniguchi, Y Miura, T Taniguchi, T Ohkuma, T Yamamoto, ...",
+   "venue": "Proceedings of the thirteenth workshop on graph-based methods for natural …",
+   "year": "2019"
+  },
+  {
+   "title": "Integrating tree structures and graph structures with neural networks to classify discussion discourse acts",
+   "authors": "Y Miura, R Kano, M Taniguchi, T Taniguchi, S Misawa, T Ohkuma",
+   "venue": "Proceedings of the 27th International Conference on Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "A multilingual sentiment corpus for Chinese, English and Japanese",
+   "authors": "F Bond, T Ohkuma, LM Da Costa, Y Miura, R Chen, T Kuribayashi, ...",
+   "venue": "6th Emotion and Sentiment Analysis Workshop (at LREC 2016)",
+   "year": "2016"
+  },
+  {
+   "title": "Topic modeling with sentiment clues and relaxed labeling schema",
+   "authors": "Y Miura, K Hattori, T Ohkuma, H Masuichi",
+   "venue": "Proceedings of the 3rd workshop on sentiment analysis where AI meets …",
+   "year": "2013"
+  },
+  {
+   "title": "Identifying implicit quotes for unsupervised extractive summarization of conversations",
+   "authors": "R Kano, Y Miura, T Taniguchi, T Ohkuma",
+   "venue": "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the …",
+   "year": "2020"
+  },
+  {
+   "title": "Non-transitory computer readable medium",
+   "authors": "S Misawa, T Taniguchi, Y Miura, T OKUMA",
+   "venue": "US Patent App. 16/558,340",
+   "year": "2020"
+  },
+  {
+   "title": "Distinctive slogan generation with reconstruction",
+   "authors": "S Misawa, Y Miura, T Taniguchi, T Ohkuma",
+   "venue": "Proceedings of Workshop on Natural Language Processing in E-Commerce, 87-97",
+   "year": "2020"
+  },
+  {
+   "title": "Purchasing behavior analysis apparatus and non-transitory computer readable medium",
+   "authors": "S SAKAKI, Y Miura, T Taniguchi, T OKUMA",
+   "venue": "US Patent App. 15/247,063",
+   "year": "2017"
+  },
+  {
+   "title": "Non-transitory computer-readable medium, information classification method, and information processing apparatus",
+   "authors": "T OKUMA, N Kato, Y Miura, K HATTORI, M Fukui",
+   "venue": "US Patent App. 13/750,538",
+   "year": "2014"
+  },
+  {
+   "title": "Using social networks to improve language variety identification with neural networks",
+   "authors": "Y Miura, T Taniguchi, M Taniguchi, S Misawa, T Ohkuma",
+   "venue": "Proceedings of the Eighth International Joint Conference on Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Non-transitory computer readable medium, information processing apparatus, and annotation-information adding method",
+   "authors": "S SAKAKI, Y Miura, K HATTORI, Y Tsuboshita, T OKUMA",
+   "venue": "US Patent App. 14/509,394",
+   "year": "2015"
+  },
+  {
+   "title": "Multiple keyphrase generation model with diversity",
+   "authors": "S Misawa, Y Miura, M Taniguchi, T Ohkuma",
+   "venue": "European Conference on Information Retrieval, 869-876",
+   "year": "2019"
+  },
+  {
+   "title": "Non-transitory computer readable medium, information search apparatus, and information search method",
+   "authors": "K HATTORI, Y Miura, T OKUMA",
+   "venue": "US Patent App. 13/752,746",
+   "year": "2014"
+  },
+  {
+   "title": "営業支援システム内に蓄積されたテキストデータからの課題記述文抽出",
+   "authors": "杉原大悟， 大熊智子， 佐竹功次， 三浦康秀， 服部圭悟， 増市博",
+   "venue": "電子情報通信学会技術研究報告; 信学技報 112 (196), 7-12",
+   "year": "2012"
+  },
+  {
+   "title": "Information processing apparatus, information processing method, and non-transitory computer readable medium",
+   "authors": "Y Miura, S SAKAKI, T OKUMA",
+   "venue": "US Patent App. 14/829,804",
+   "year": "2016"
+  },
+  {
+   "title": "Incorporating knowledge resources to enhance medical information extraction",
+   "authors": "Y Miura, T Ohkuma, H Masuichi, EY Shinohara, E Aramaki, K Ohe",
+   "venue": "The First Workshop on Natural Language Processing for Medical and Healthcare …",
+   "year": "2013"
+  },
+  {
+   "title": "UT-FX at NTCIR-10 MedNLP: Incorporating Medical Knowledge to Enhance Medical Information Extraction.",
+   "authors": "Y Miura, T Ohkuma, H Masuichi, EY Shinohara, E Aramaki, K Ohe",
+   "venue": "NTCIR",
+   "year": "2013"
+  },
+  {
+   "title": "共起・連接頻度グラフに基づいた略語展開語候補生成",
+   "authors": "篠原(山田)恵美子， 三浦康秀， 外池昌嗣， 大熊智子， 増市博， 荒牧英治， ...",
+   "venue": "言語処理学会第 17 回年次大会",
+   "year": "2011"
+  },
+  {
+   "title": "Joint modeling for query expansion and information extraction with reinforcement learning",
+   "authors": "M Taniguchi, Y Miura, T Ohkuma",
+   "venue": "Proceedings of the First Workshop on Fact Extraction and VERification (FEVER …",
+   "year": "2018"
+  },
+  {
+   "title": "医薬品の副作用調査を目的とした統合的言語処理システム",
+   "authors": "大熊智子， 外池昌嗣， 三浦康秀， 増市博， 篠原(山田)恵美子， 荒牧英治， ...",
+   "venue": "言語処理学会第 17 回年次大会 発表論文集, 85-88",
+   "year": "2011"
+  },
+  {
+   "title": "部分文字列のパープレキシティを利用した低頻度専門用語抽出",
+   "authors": "三浦康秀， 増市博",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 107 (158 …",
+   "year": "2007"
+  },
+  {
+   "title": "Information processing apparatus, information processing method, and information processing program",
+   "authors": "Y Miura, T Takahashi, T Taniguchi",
+   "venue": "US Patent App. 18/496,936",
+   "year": "2024"
+  },
+  {
+   "title": "Few-shot Named Entity Recognition with Supported and Dependent Label Representations",
+   "authors": "Y Miura, T Takahashi",
+   "venue": "Findings of the Association for Computational Linguistics: IJCNLP-AACL 2023 …",
+   "year": "2023"
+  },
+  {
+   "title": "Information processing device and non-transitory computer readable recording medium",
+   "authors": "S Misawa, M TANIGUCHI, Y Miura, T OKUMA",
+   "venue": "US Patent 10,936,901",
+   "year": "2021"
+  },
+  {
+   "title": "木構造とグラフ構造を用いた オンライン議論における談話行為の分類",
+   "authors": "三浦康秀， 狩野竜示， 谷口元樹， 谷口友紀， 三沢翔太郎， 大熊智子",
+   "venue": "自然言語処理 26 (1), 59-81",
+   "year": "2019"
+  },
+  {
+   "title": "テキスト・メタデータ・ユーザーネットワーク情報を統合したニューラルネットワークによる地理情報推定",
+   "authors": "Y Miura, M Taniguchi, T Taniguchi",
+   "venue": "富士ゼロックス テクニカルレポート 27",
+   "year": "2018"
+  },
+  {
+   "title": "Non-transitory computer readable medium and information processing apparatus and method for classifying multilingual documents",
+   "authors": "Y Miura, K HATTORI, T OKUMA, S SAKAKI",
+   "venue": "US Patent 9,262,400",
+   "year": "2016"
+  },
+  {
+   "title": "Sentiment Annotation",
+   "authors": "F Bond, T Ohkuma, LM Da Costa, Y Miura, R Chen, T Kuribayashi, ...",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "UT-FX at NTCIR-10: Incorporating Medical Knowledge to Enhance Medical Information Extraction",
+   "authors": "Y Miura, T Ohkuma, H Masuichi, E Yamada-Shinohara, E Aramaki, K Ohe",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "An Easily Implemented Method for Abbreviation Expansion for the Medical Domain in Japanese Text",
+   "authors": "E Aramaki, T Imai, Y Miura, M Tonoike, T Ohkuma, H Masuichi, K Ohe, ...",
+   "venue": "Methods of Information in Medicine 52 (01), 51-61",
+   "year": "2013"
+  },
+  {
+   "title": "Extraction of Sentences Describing Problems from Sales Force Management System Texts.",
+   "authors": "D Sugihara, T Ohkuma, K Satake, Y Miura, K Hattori, H Masuichi",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 112 (196), 7-12",
+   "year": "2012"
+  },
+  {
+   "title": "複数文にまたがる関係抽出における構文情報の効果",
+   "authors": "三浦康秀， 外池昌嗣， 大熊智子， 増市博， 篠原(山田)恵美子， 荒牧英治， ...",
+   "venue": "言語処理学会第 17 回年次大会",
+   "year": "2011"
+  },
+  {
+   "title": "Extraction of adverse drug effects from clinical records.",
+   "authors": "H Masuichi, K Waki, Y Miura, M Tonoike, K Ohe, E Aramaki, T Ohkuma",
+   "venue": "Studies in health technology and informatics 160 (Pt 1)",
+   "year": "2010"
+  },
+  {
+   "title": "日本語 LFG にもとづく助数詞の処理",
+   "authors": "大熊智子， 梅基宏， 三浦康秀， 増市博",
+   "venue": "自然言語処理 16 (3), 3_51-3_80",
+   "year": "2009"
+  },
+  {
+   "title": "MaiReS: Mail Recommender System for knowledge sharing",
+   "authors": "T Taniguchi, Y Ueda, M Taniguchi, Y Miura, T Ohkuma",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

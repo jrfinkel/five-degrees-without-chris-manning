@@ -1,0 +1,371 @@
+{
+ "user": "MY2W9d4AAAAJ",
+ "pubs": [
+  {
+   "title": "Revolt: Collaborative Crowdsourcing for Labeling Machine Learning Datasets",
+   "authors": "JC Chang, S Amershi, E Kamar",
+   "venue": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2017"
+  },
+  {
+   "title": "OpenScholar: Synthesizing scientific literature with retrieval-augmented language models",
+   "authors": "A Asai, J He, R Shao, W Shi, A Singh, JC Chang, K Lo, L Soldaini, ...",
+   "venue": "Nature, 1-7",
+   "year": "2026"
+  },
+  {
+   "title": "A design space for intelligent and interactive writing assistants",
+   "authors": "M Lee, KI Gero, JJY Chung, SB Shum, V Raheja, H Shen, S Venugopalan, ...",
+   "venue": "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2024"
+  },
+  {
+   "title": "Solvent: A Mixed Initiative System for Finding Analogies between Research Papers",
+   "authors": "J Chan, JC Chang, T Hope, D Shahaf, A Kittur",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 2 (CSCW), 1-21",
+   "year": "2018"
+  },
+  {
+   "title": "Evorus: A Crowd-powered Conversational Assistant Built to Automate Itself Over Time",
+   "authors": "THK Huang, JC Chang, JP Bigham",
+   "venue": "🏆  Proceedings of the 2018 CHI Conference on Human Factors in Computing …",
+   "year": "2018"
+  },
+  {
+   "title": "LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and Perceptions",
+   "authors": "Z Liao, M Antoniak, I Cheong, EYY Cheng, AH Lee, K Lo, JC Chang, ...",
+   "venue": "COLM 2025",
+   "year": "2025"
+  },
+  {
+   "title": "IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback",
+   "authors": "K Pu, KJ Feng, T Grossman, T Hope, BD Mishra, M Latzke, J Bragg, ...",
+   "venue": "ACM CHI 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Synergi: A Mixed-Initiative System for Scholarly Synthesis and Sensemaking",
+   "authors": "HB Kang, ST Wu, JC Chang, A Kittur",
+   "venue": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and …",
+   "year": "2023"
+  },
+  {
+   "title": "The Knowledge Accelerator: Big Picture Thinking in Small Pieces",
+   "authors": "N Hahn, JC Chang, JE Kim, A Kittur",
+   "venue": "🏆  Proceedings of the 2016 CHI Conference on Human Factors in Computing …",
+   "year": "2016"
+  },
+  {
+   "title": "CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context",
+   "authors": "JC Chang, AX Zhang, J Bragg, A Head, K Lo, D Downey, DS Weld",
+   "venue": "🏆🥇 Proceedings of the 2023 CHI Conference on Human Factors in Computing …",
+   "year": "2023"
+  },
+  {
+   "title": "The Semantic Reader Project: Augmenting Scholarly Documents through AI-Powered Interactive Reading Interfaces",
+   "authors": "K Lo, JC Chang, A Head, J Bragg, AX Zhang, C Trier, C Anastasiades, ...",
+   "venue": "Communications of the ACM - Research and Advances",
+   "year": "2024"
+  },
+  {
+   "title": "SearchLens: Composing and Capturing Complex User Interests for Exploratory Search",
+   "authors": "JC Chang, N Hahn, A Perer, A Kittur",
+   "venue": "Proceedings of the 24th International Conference on Intelligent User …",
+   "year": "2019"
+  },
+  {
+   "title": "Threddy: An Interactive System for Personalized Thread-based Exploration and Organization of Scientific Literature",
+   "authors": "H Kang, JC Chang, Y Kim, A Kittur",
+   "venue": "Proceedings of the 35th Annual ACM Symposium on User Interface Software and …",
+   "year": "2022"
+  },
+  {
+   "title": "Cocoa: Co-Planning and Co-Execution with AI Agents",
+   "authors": "KJ Feng, K Pu, M Latzke, T August, P Siangliulue, J Bragg, DS Weld, ...",
+   "venue": "🏆🥇 CHI 2026 (Best Paper)",
+   "year": "2026"
+  },
+  {
+   "title": "Alloy: Clustering with Crowds and Computation",
+   "authors": "JC Chang, A Kittur, N Hahn",
+   "venue": "🏆  Proceedings of the 2016 CHI Conference on Human Factors in Computing …",
+   "year": "2016"
+  },
+  {
+   "title": "Relatedly: Scaffolding Literature Reviews with Existing Related Work Sections",
+   "authors": "S Palani, A Naik, D Downey, AX Zhang, J Bragg, JC Chang",
+   "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2023"
+  },
+  {
+   "title": "Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers",
+   "authors": "R Fok, JC Chang, T August, AX Zhang, DS Weld",
+   "venue": "Proceedings of the 37th Annual ACM Symposium on User Interface Software and …",
+   "year": "2024"
+  },
+  {
+   "title": "PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers",
+   "authors": "Y Lee, HB Kang, M Latzke, J Kim, J Bragg, JC Chang, P Siangliulue",
+   "venue": "ACM SIGCHI",
+   "year": "2024"
+  },
+  {
+   "title": "Ai2 Scholar QA: Organized Literature Synthesis with Attribution",
+   "authors": "A Singh, JC Chang, C Anastasiades, D Haddad, A Naik, A Tanaka, ...",
+   "venue": "ACL (demos)",
+   "year": "2025"
+  },
+  {
+   "title": "When the Tab Comes Due: Challenges in the Cost Structure of Browser Tab Usage",
+   "authors": "JC Chang, N Hahn, Y Kim, J Coupland, B Breneisen, HS Kim, J Hwong, ...",
+   "venue": "🏆  Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+   "year": "2021"
+  },
+  {
+   "title": "Mesh: Scaffolding Comparison Tables for Online Decision Making",
+   "authors": "JC Chang, N Hahn, A Kittur",
+   "venue": "Proceedings of the 33rd Annual ACM Symposium on User Interface Software and …",
+   "year": "2020"
+  },
+  {
+   "title": "Fuse: In-Situ Sensemaking Support in the Browser",
+   "authors": "A Kuznetsov, JC Chang, N Hahn, N Rachatasumrit, B Breneisen, ...",
+   "venue": "Proceedings of the 35th Annual ACM Symposium on User Interface Software and …",
+   "year": "2022"
+  },
+  {
+   "title": "SciArena: An Open Evaluation Platform for Non-Verifiable Scientific Literature-Grounded Tasks",
+   "authors": "Y Zhao, K Zhang, T Hu, S Wu, R Le Bras, Y Liu, X Tang, JC Chang, ...",
+   "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems …",
+   "year": "2025"
+  },
+  {
+   "title": "Contextualized Evaluations: Judging Language Model Responses to Underspecified Queries",
+   "authors": "C Malaviya, JC Chang, D Roth, M Iyyer, M Yatskar, K Lo",
+   "venue": "Transactions of the Association for Computational Linguistics 13, 878-900",
+   "year": "2025"
+  },
+  {
+   "title": "Personalized Jargon Identification for Enhanced Interdisciplinary Communication",
+   "authors": "Y Guo, JC Chang, M Antoniak, E Bransom, T Cohen, LL Wang, T August",
+   "venue": "NAACL",
+   "year": "2024"
+  },
+  {
+   "title": "PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents",
+   "authors": "K Lo, Z Shen, B Newman, JC Chang, R Authur, E Bransom, S Candra, ...",
+   "venue": "🏆🥇 Proceedings of the 2023 Conference on Empirical Methods in Natural …",
+   "year": "2023"
+  },
+  {
+   "title": "Recurrent-Neural-Network for Language Detection on Twitter Code-Switching Corpus",
+   "authors": "JC Chang, CC Lin",
+   "venue": "arXiv preprint arXiv:1412.4314",
+   "year": "2014"
+  },
+  {
+   "title": "Supporting Mobile Sensemaking Through Intentionally Uncertain Highlighting",
+   "authors": "JC Chang, N Hahn, A Kittur",
+   "venue": "Proceedings of the 29th Annual Symposium on User Interface Software and …",
+   "year": "2016"
+  },
+  {
+   "title": "Social-RAG: Retrieving from Group Interactions to Socially Ground AI Generation (PaperPing)",
+   "authors": "R Wang, X Zhou, L Qiu, JC Chang, J Bragg, AX Zhang",
+   "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2025"
+  },
+  {
+   "title": "Papeos: Augmenting Research Papers with Talk Videos",
+   "authors": "TS Kim, M Latzke, J Bragg, AX Zhang, JC Chang",
+   "venue": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and …",
+   "year": "2023"
+  },
+  {
+   "title": "Beyond Summarization: Designing AI Support for Real-World Expository Writing Tasks",
+   "authors": "Z Shen, T August, P Siangliulue, K Lo, J Bragg, J Hammerbacher, ...",
+   "venue": "The In2Writing Workshop@CHI2023",
+   "year": "2023"
+  },
+  {
+   "title": "Bento Browser: Complex Mobile Search Without Tabs",
+   "authors": "N Hahn, JC Chang, A Kittur",
+   "venue": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+   "year": "2018"
+  },
+  {
+   "title": "Tabs.do: Task-Centric Browser Tab Management",
+   "authors": "JC Chang, Y Kim, V Miller, MX Liu, BA Myers, A Kittur",
+   "venue": "Proceedings of the 34th Annual ACM Symposium on User Interface Software and …",
+   "year": "2021"
+  },
+  {
+   "title": "ArxivDIGESTables: Synthesizing Scientific Literature into Tables using Language Models",
+   "authors": "B Newman*, Y Lee*, A Naik, P Siangliulue, R Fok, J Kim, DS Weld, ...",
+   "venue": "EMNLP - Main",
+   "year": "2024"
+  },
+  {
+   "title": "ComLittee: Literature Discovery with Personal Elected Author Committees",
+   "authors": "HB Kang, N Soliman, M Latzke, JC Chang, J Bragg",
+   "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2023"
+  },
+  {
+   "title": "Methods of providing a search-ecosystem user interface for searching information using a software-based search tool and software for same",
+   "authors": "A Kittur, NP Hahn, JC Chang",
+   "venue": "US Patent 11,294,984",
+   "year": "2022"
+  },
+  {
+   "title": "Mitigating Barriers to Public Social Interaction with Meronymous Communication",
+   "authors": "N Soliman, HB Kang, M Latzke, J Bragg, JC Chang, AX Zhang, DR Karger",
+   "venue": "🏆🥇  ACM SIGCHI",
+   "year": "2024"
+  },
+  {
+   "title": "Wigglite: Low-cost Information Collection and Triage",
+   "authors": "MX Liu, A Kuznetsov, Y Kim, JC Chang, A Kittur, BA Myers",
+   "venue": "Proceedings of the 35th Annual ACM Symposium on User Interface Software and …",
+   "year": "2022"
+  },
+  {
+   "title": "Let’s get to the point: Llm-supported planning, drafting, and revising of research-paper blog posts",
+   "authors": "M Radensky, DS Weld, JC Chang, P Siangliulue, J Bragg",
+   "venue": "arXiv preprint arXiv:2406.10370",
+   "year": "2024"
+  },
+  {
+   "title": "Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing",
+   "authors": "I Cheong, A Guo, M Lee, Z Liao, K Kadoma, D Go, JC Chang, ...",
+   "venue": "CHIWORK Workshop on Navigating Generative AI Disclosure, Ownership, and …",
+   "year": "2025"
+  },
+  {
+   "title": "Wikisense: Supersense Tagging of Wikipedia Named Entities based WordNet",
+   "authors": "J Chang, RTH Tsai, JS Chang",
+   "venue": "Proceedings of the 23rd Pacific Asia Conference on Language, Information and …",
+   "year": "2009"
+  },
+  {
+   "title": "Facets, Taxonomies, and Syntheses: Navigating Structured Representations in LLM-Assisted Literature Review",
+   "authors": "R Fok, JC Chang, M Radensky, P Siangliulue, J Bragg, AX Zhang, ...",
+   "venue": "arXiv preprint arXiv:2504.18496",
+   "year": "2025"
+  },
+  {
+   "title": "Intent-aware Schema Generation and Editing for Literature Review Tables",
+   "authors": "V Padmakumar, JC Chang, K Lo, D Downey, A Naik",
+   "venue": "EMNLP - Findings",
+   "year": "2025"
+  },
+  {
+   "title": "Learning to Find Translations and Transliterations on the Web",
+   "authors": "JZ Chang, JS Chang, JSR Jang",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Word Root Finder: A Morphological Segmentor based on CRF",
+   "authors": "JZ Chang, JS Chang",
+   "venue": "Proceedings of COLING 2012: Demonstration Papers, 51-58",
+   "year": "2012"
+  },
+  {
+   "title": "Understanding Usage and Engagement in AI-Powered Scientific Research Tools: The Asta Interaction Dataset",
+   "authors": "D Haddad, D Bareket, JC Chang, J DeYoung, JD Hwang, U Katz, M Polak, ...",
+   "venue": "arXiv preprint arXiv:2602.23335",
+   "year": "2026"
+  },
+  {
+   "title": "Minimally Supervised Question Classification and Answering based on WordNet and Wikipedia",
+   "authors": "J Chang, TH Yen, TH Tsai",
+   "venue": "Proceedings of the 21st Conference on Computational Linguistics and Speech …",
+   "year": "2009"
+  },
+  {
+   "title": "Improving Attributed Long-form Question Answering with Intent Awareness",
+   "authors": "X Zhao, A Naik, J DeYoung, JC Chang, JD Hwang, T Wu, V Kishore",
+   "venue": "The Fourteenth International Conference on Learning Representations (ICLR)",
+   "year": "2026"
+  },
+  {
+   "title": "Human-AI Collaboration: How AIs Augment Human Teammates",
+   "authors": "S Wu, D Yang, JC Chang, MA Hearst, K Lo",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Language Models Don’t Know What You Want: Evaluating Personalization in Deep Research Needs Real Users",
+   "authors": "N Balepur, M Hamada, V Kishore, S Feldman, A Singh, P Siangliulue, ...",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Helping Our Own: NTHU NLPLAB System Description",
+   "authors": "JC Wu, JZ Chang, YC Chen, ST Huang, MH Chen, JS Chang",
+   "venue": "Proceedings of the Seventh Workshop on Building Educational Applications …",
+   "year": "2012"
+  },
+  {
+   "title": "LitPivot: Developing Well-Situated Research Ideas Through Dynamic Contextualization and Critique within the Literature Landscape",
+   "authors": "H Kambhamettu, BD Mishra, A Head, J Bragg, A Naik, JC Chang, ...",
+   "venue": "UIST 2026",
+   "year": "2026"
+  },
+  {
+   "title": "DRACULA: Hunting for the Actions Users Want Deep Research Agents to Execute",
+   "authors": "N Balepur, M Hamada, V Kishore, S Feldman, A Singh, P Siangliulue, ...",
+   "venue": "arXiv preprint arXiv:2604.23815",
+   "year": "2026"
+  },
+  {
+   "title": "Connecting the Dots: Surfacing Structure in Documents through AI-Generated Cross-Modal Links",
+   "authors": "A Hwang, H Kambhamettu, Y Yang, A Patel, JC Chang, A Head",
+   "venue": "arXiv preprint arXiv:2602.16895",
+   "year": "2026"
+  },
+  {
+   "title": "Science and Technology for Augmenting Reading (STAR)",
+   "authors": "T August, A Head, A Siu, EL Glassman, JK Kummerfeld, JC Chang, ...",
+   "venue": "CHI Workshop",
+   "year": "2026"
+  },
+  {
+   "title": "Querying Multimodal Scientific Papers with AI: Practices and Preferences Across Blind, Low-Vision, and Sighted Scientists",
+   "authors": "A Chheda-Kothary, LL Wang, JC Chang, J Bragg",
+   "venue": "ASSETS 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Optimizing Behavioral Experiment Design with In-Silico Simulations",
+   "authors": "S Hazra, P Siangliulue, BP Majumder, P Clark, AX Zhang, JC Chang",
+   "venue": "COLM Workshop on Social Simulation with LLMS: Fidelity in Applications",
+   "year": "2026"
+  },
+  {
+   "title": "Omakase: proactive assistance with actionable suggestions for evolving scientific research projects",
+   "authors": "P Siangliulue, J Bragg, D Downey, JC Chang, DS Weld",
+   "venue": "arXiv preprint arXiv:2604.08898",
+   "year": "2026"
+  },
+  {
+   "title": "Methods and software for bundle-based content organization, manipulation, and/or task management",
+   "authors": "A Kittur, JC Chang",
+   "venue": "US Patent 12,541,295",
+   "year": "2026"
+  },
+  {
+   "title": "Supporting Global Context under Evolving User Intents during Data Exploration",
+   "authors": "JC Chang",
+   "venue": "Carnegie Mellon University",
+   "year": "2020"
+  },
+  {
+   "title": "[Notes] Design Considerations and Implementation Notes on Revolt: Collaborative Crowdsourcing with Synchronized Stages",
+   "authors": "JC Chang",
+   "venue": "https://joe.cat/images/papers/revolt-notes.pdf",
+   "year": "2017"
+  }
+ ]
+}

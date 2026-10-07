@@ -1,0 +1,827 @@
+{
+ "user": "jbbXJOkAAAAJ",
+ "pubs": [
+  {
+   "title": "Speaker identification on the SCOTUS corpus",
+   "authors": "J Yuan, M Liberman",
+   "venue": "Journal of the Acoustical Society of America 123 (5), 3878",
+   "year": "2008"
+  },
+  {
+   "title": "Towards an integrated understanding of speaking rate in conversation",
+   "authors": "J Yuan, M Liberman, C Cieri",
+   "venue": "Proc. Interspeech 2006, paper 1795-Mon3A3O. 1",
+   "year": "2006"
+  },
+  {
+   "title": "FAVE (forced alignment and vowel extraction) program suite",
+   "authors": "I Rosenfelder, J Fruehwald, K Evanini, J Yuan",
+   "venue": "URL http://fave. ling. upenn. edu",
+   "year": "2011"
+  },
+  {
+   "title": "Disfluencies and fine-tuning pre-trained language models for detection of Alzheimer’s disease",
+   "authors": "J Yuan, Y Bian, X Cai, J Huang, Z Ye, K Church",
+   "venue": "Proc. Interspeech 2020, 2162-2166",
+   "year": "2020"
+  },
+  {
+   "title": "Speech emotion recognition with multi-task learning",
+   "authors": "X Cai, J Yuan, R Zheng, L Huang, K Church",
+   "venue": "Proc. interspeech 2021, 4508-4512",
+   "year": "2021"
+  },
+  {
+   "title": "Comparison of declarative and interrogative intonation in Chinese",
+   "authors": "J Yuan, C Shih, G Kochanski",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "Speech activity detection on youtube using deep neural networks",
+   "authors": "N Ryant, M Liberman, J Yuan",
+   "venue": "Proc. Interspeech 2013, 728-731",
+   "year": "2013"
+  },
+  {
+   "title": "F0 declination in English and Mandarin broadcast news speech",
+   "authors": "J Yuan, M Liberman",
+   "venue": "Speech Communication 65, 67-74",
+   "year": "2014"
+  },
+  {
+   "title": "Intonation in Mandarin Chinese: Acoustics, perception, and computational modeling",
+   "authors": "J Yuan",
+   "venue": "Cornell University",
+   "year": "2004"
+  },
+  {
+   "title": "3rd tone sandhi in standard Chinese: A corpus approach",
+   "authors": "J Yuan, Y Chen",
+   "venue": "Journal of Chinese Linguistics 42 (1), 218-237",
+   "year": "2014"
+  },
+  {
+   "title": "Mechanisms of question intonation in Mandarin",
+   "authors": "J Yuan",
+   "venue": "International symposium on chinese spoken language processing, 19-30",
+   "year": "2006"
+  },
+  {
+   "title": "Perception of intonation in Mandarin Chinese",
+   "authors": "J Yuan",
+   "venue": "The Journal of the Acoustical Society of America 130 (6), 4063-4069",
+   "year": "2011"
+  },
+  {
+   "title": "Automatic phonetic segmentation using boundary models.",
+   "authors": "J Yuan, N Ryant, MY Liberman, A Stolcke, V Mitra, W Wang",
+   "venue": "Interspeech, 2306-2310",
+   "year": "2013"
+  },
+  {
+   "title": "Investigating/l/variation in English through forced alignment",
+   "authors": "J Yuan, M Liberman",
+   "venue": "Proc. Interspeech 2009, 2215-2218",
+   "year": "2009"
+  },
+  {
+   "title": "The acoustic realization of anger, fear, joy and sadness in Chinese.",
+   "authors": "J Yuan, L Shen, F Chen",
+   "venue": "INTERSPEECH, 2025-2028",
+   "year": "2002"
+  },
+  {
+   "title": "On attention redundancy: A comprehensive study",
+   "authors": "Y Bian, J Huang, X Cai, J Yuan, K Church",
+   "venue": "Proceedings of the 2021 conference of the north american chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Pauses for detection of Alzheimer’s disease",
+   "authors": "J Yuan, X Cai, Y Bian, Z Ye, K Church",
+   "venue": "Frontiers in Computer Science 2, 624488",
+   "year": "2021"
+  },
+  {
+   "title": "Text2video: Text-driven talking-head video synthesis with personalized phoneme-pose dictionary",
+   "authors": "S Zhang, J Yuan, M Liao, L Zhang",
+   "venue": "ICASSP 2022-2022 IEEE international conference on acoustics, speech and …",
+   "year": "2022"
+  },
+  {
+   "title": "Highly accurate phonetic segmentation using boundary correction models and system fusion",
+   "authors": "A Stolcke, N Ryant, V Mitra, J Yuan, W Wang, M Liberman",
+   "venue": "2014 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2014"
+  },
+  {
+   "title": "FAVE (forced alignment and vowel extraction) program suite v1. 2.2",
+   "authors": "I Rosenfelder, J Fruehwald, K Evanini, S Seyfarth, K Gorman, H Prichard, ...",
+   "venue": "Online: https://github. com/JoFrhwld/FAVE",
+   "year": "2014"
+  },
+  {
+   "title": "Automatic detection of “g-dropping” in American English using forced alignment",
+   "authors": "J Yuan, M Liberman",
+   "venue": "2011 IEEE workshop on automatic speech recognition & understanding, 490-493",
+   "year": "2011"
+  },
+  {
+   "title": "/l/variation in American English: A corpus approach",
+   "authors": "J Yuan, M Liberman",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Mandarin tone classification without pitch tracking",
+   "authors": "N Ryant, J Yuan, M Liberman",
+   "venue": "2014 IEEE international conference on acoustics, speech and signal …",
+   "year": "2014"
+  },
+  {
+   "title": "Fave (forced alignment and vowel extraction)",
+   "authors": "I Rosenfelder, J Fruehwald, K Evanini, S Seyfarth, K Gorman, H Prichard, ...",
+   "venue": "Program suite v1 2 (10.5281)",
+   "year": "2014"
+  },
+  {
+   "title": "Confusability of Chinese intonation",
+   "authors": "J Yuan, C Shih",
+   "venue": "Proc. SpeechProsody 2004, 131-134",
+   "year": "2004"
+  },
+  {
+   "title": "Highly accurate mandarin tone classification in the absence of pitch information",
+   "authors": "E Shriberg",
+   "venue": "7th International Conference on Speech Prosody 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Towards an integrated understanding of speech overlaps in conversation",
+   "authors": "M Liberman",
+   "venue": "ICPhS XVI, Saarbrücken, Germany",
+   "year": "2007"
+  },
+  {
+   "title": "Pauses and pause fillers in Mandarin monologue speech: The effects of sex and proficiency",
+   "authors": "J Yuan, X Xu, W Lai, M Liberman",
+   "venue": "Proc. SpeechProsody 2016, 1167-1170",
+   "year": "2016"
+  },
+  {
+   "title": "A corpus study of the prosody of polysyllabic words in Mandarin Chinese",
+   "authors": "C Lai, Y Sui, J Yuan",
+   "venue": "Proceedings of Speech prosody 2010",
+   "year": "2010"
+  },
+  {
+   "title": "Robust speaking rate estimation using broad phonetic class recognition",
+   "authors": "J Yuan, M Liberman",
+   "venue": "2010 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2010"
+  },
+  {
+   "title": "Pitch accent prediction: Effects of genre and speaker",
+   "authors": "J Yuan, JM Brenier, D Jurafsky",
+   "venue": "Proc. Interspeech 2005, 1409-1412",
+   "year": "2005"
+  },
+  {
+   "title": "Clever hans effect found in automatic detection of alzheimer's disease through speech",
+   "authors": "YL Liu, R Feng, JH Yuan, ZH Ling",
+   "venue": "arXiv preprint arXiv:2406.07410",
+   "year": "2024"
+  },
+  {
+   "title": "FAVE (forced alignment and vowel extraction) suite version 1.1. 3",
+   "authors": "I Rosenfelder, J Fruehwald, K Evanini, S Seyfarth, K Gorman, H Prichard, ...",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Perception of Mandarin intonation",
+   "authors": "J Yuan",
+   "venue": "2004 international symposium on chinese spoken language processing, 45-48",
+   "year": "2004"
+  },
+  {
+   "title": "A corpus study of the 3rd tone sandhi in Standard Chinese",
+   "authors": "Y Chen, J Yuan",
+   "venue": "Interspeech, 2749-2752",
+   "year": "2007"
+  },
+  {
+   "title": "Detection of questions in Chinese conversational speech",
+   "authors": "J Yuan, D Jurafsky",
+   "venue": "IEEE Workshop on Automatic Speech Recognition and Understanding, 2005., 47-52",
+   "year": "2005"
+  },
+  {
+   "title": "Automatic measurement and comparison of vowel nasalization across languages.",
+   "authors": "J Yuan, MY Liberman",
+   "venue": "ICPhS 17, 2244-2247",
+   "year": "2011"
+  },
+  {
+   "title": "The USTC system for ADReSS-M challenge",
+   "authors": "K Mei, X Ding, Y Liu, Z Guo, F Xu, X Li, T Naren, J Yuan, Z Ling",
+   "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic phonetic segmentation in Mandarin Chinese: Boundary models, glottal features and tone",
+   "authors": "J Yuan, N Ryant, M Liberman",
+   "venue": "2014 IEEE international conference on acoustics, speech and signal …",
+   "year": "2014"
+  },
+  {
+   "title": "Articulatory trajectories for large-vocabulary speech recognition",
+   "authors": "V Mitra, W Wang, A Stolcke, H Nam, C Richey, J Yuan, M Liberman",
+   "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2013"
+  },
+  {
+   "title": "The role of phonetic units in speech emotion recognition",
+   "authors": "J Yuan, X Cai, R Zheng, L Huang, K Church",
+   "venue": "arXiv preprint arXiv:2108.01132",
+   "year": "2021"
+  },
+  {
+   "title": "On the role of style in parsing speech with neural models",
+   "authors": "T Tran, J Yuan, Y Liu, M Ostendorf",
+   "venue": "arXiv preprint arXiv:2010.04288",
+   "year": "2020"
+  },
+  {
+   "title": "Mining a year of speech",
+   "authors": "J Coleman, M Liberman, G Kochanski, L Burnard, J Yuan",
+   "venue": "VLSP 2011: New tools and methods for very-large-scale phonetics research, 16-19",
+   "year": "2011"
+  },
+  {
+   "title": "Using forced alignment for phonetics research",
+   "authors": "J Yuan, W Lai, C Cieri, M Liberman",
+   "venue": "Chinese language resources: Data collection, linguistic analysis, annotation …",
+   "year": "2023"
+  },
+  {
+   "title": "Perception of foreign accent in spontaneous L2 English speech",
+   "authors": "J Yuan, Y Jiang, Z Song",
+   "venue": "Proc. SpeechProsody 2010, paper 884",
+   "year": "2010"
+  },
+  {
+   "title": "Cross-lingual speech emotion recognition: Humans vs. self-supervised models",
+   "authors": "Z Han, T Geng, H Feng, J Yuan, K Richmond, Y Li",
+   "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2025"
+  },
+  {
+   "title": "Automatic recognition of suprasegmentals in speech",
+   "authors": "J Yuan, N Ryant, X Cai, K Church, M Liberman",
+   "venue": "arXiv preprint arXiv:2108.01122",
+   "year": "2021"
+  },
+  {
+   "title": "Fluent and low-latency simultaneous speech-to-speech translation with self-adaptive training",
+   "authors": "R Zheng, M Ma, B Zheng, K Liu, J Yuan, K Church, L Huang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 3928-3937",
+   "year": "2020"
+  },
+  {
+   "title": "FAVE 1.1. 3",
+   "authors": "I Rosenfelder, J Fruehwald, K Evanini, S Seyfarth, K Gorman, H Prichard, ...",
+   "venue": "Zenodo",
+   "year": "2014"
+  },
+  {
+   "title": "Pause-encoded language models for recognition of Alzheimer’s disease and emotion",
+   "authors": "J Yuan, X Cai, K Church",
+   "venue": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2021"
+  },
+  {
+   "title": "Investigating consonant reduction in Mandarin Chinese with improved forced alignment.",
+   "authors": "J Yuan, MY Liberman",
+   "venue": "Interspeech, 2675-2678",
+   "year": "2015"
+  },
+  {
+   "title": "GlobalTIMIT: Acoustic-Phonetic Datasets for the World's Languages.",
+   "authors": "N Chanchaochai, C Cieri, J Debrah, H Ding, Y Jiang, S Liao, ...",
+   "venue": "INTERSPEECH, 192-196",
+   "year": "2018"
+  },
+  {
+   "title": "W-CTC: a Connectionist Temporal Classification Loss with Wild Cards.",
+   "authors": "X Cai, J Yuan, Y Bian, G Xun, J Huang, K Church",
+   "venue": "ICLR",
+   "year": "2022"
+  },
+  {
+   "title": "Decoupling recognition and transcription in mandarin asr",
+   "authors": "J Yuan, X Cai, D Gao, R Zheng, L Huang, K Church",
+   "venue": "2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU …",
+   "year": "2021"
+  },
+  {
+   "title": "Chinese TIMIT: A TIMIT-like corpus of standard Chinese",
+   "authors": "J Yuan, H Ding, S Liao, Y Zhan, M Liberman",
+   "venue": "2017 20th Conference of the Oriental Chapter of the International …",
+   "year": "2017"
+  },
+  {
+   "title": "The spectral dynamics of vowels in Mandarin Chinese",
+   "authors": "J Yuan",
+   "venue": "Proc. Interspeech 2013, 1193-1197",
+   "year": "2013"
+  },
+  {
+   "title": "Can automated speech recognition errors provide valuable clues for alzheimer’s disease detection?",
+   "authors": "YL Liu, R Feng, YX Lu, JX Chen, Y Ai, JH Yuan, ZH Ling",
+   "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2025"
+  },
+  {
+   "title": "Leveraging prompt learning and pause encoding for Alzheimer's disease detection",
+   "authors": "YL Liu, R Feng, JH Yuan, ZH Ling",
+   "venue": "2024 IEEE 14th International Symposium on Chinese Spoken Language Processing …",
+   "year": "2024"
+  },
+  {
+   "title": "Automating phonetic measurement: The case of voice onset time",
+   "authors": "N Ryant, J Yuan, M Liberman",
+   "venue": "Proceedings of Meetings on Acoustics 19 (1), 060277",
+   "year": "2013"
+  },
+  {
+   "title": "Learning [voice]",
+   "authors": "JI Tauberer",
+   "venue": "University of Pennsylvania",
+   "year": "2010"
+  },
+  {
+   "title": "Perception of disfluency: Language differences and listener bias",
+   "authors": "M Liberman",
+   "venue": "Proc. INTERSPEECH-2007",
+   "year": "2007"
+  },
+  {
+   "title": "Production of English stops by Mandarin Chinese learners",
+   "authors": "H Ding, Y Zhan, J Yuan, S Liao",
+   "venue": "Proc. SpeechProsody 2018, 888-892",
+   "year": "2018"
+  },
+  {
+   "title": "Forced alignment under adverse conditions",
+   "authors": "R Das, J Izak, J Yuan, M Liberman",
+   "venue": "University of Pennsylvania, CIS Dept. Senior Design Project Report",
+   "year": "2010"
+  },
+  {
+   "title": "On Soft πgr-continuous functions in soft topological spaces",
+   "authors": "C Janaki, D Sreeja",
+   "venue": "International Journal of Engineering Research & Technology 3 (2), 762-768",
+   "year": "2014"
+  },
+  {
+   "title": "A cross-language study on automatic speech disfluency detection",
+   "authors": "W Wang, A Stolcke, J Yuan, M Liberman",
+   "venue": "Proceedings of the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Improved contextualized speech representations for tonal analysis",
+   "authors": "J Yuan, X Cai, K Church",
+   "venue": "Proc. Interspeech 2023, 4513-4517",
+   "year": "2023"
+  },
+  {
+   "title": "Laix corpus of chinese learner english: Towards a benchmark for l2 english asr",
+   "authors": "Y Wang, H Luan, J Yuan, B Wang, H Lin",
+   "venue": "Proc. Interspeech 2020, 414-418",
+   "year": "2020"
+  },
+  {
+   "title": "Pitch Characteristics of L2 English Speech by Chinese Speakers: A Large-scale Study.",
+   "authors": "J Yuan, Q Dong, F Wu, H Luan, X Yang, H Lin, Y Liu",
+   "venue": "INTERSPEECH, 2593-2597",
+   "year": "2018"
+  },
+  {
+   "title": "The effects of speaking rate and intonation on the duration of tones in Mandarin Chinese",
+   "authors": "J Yuan",
+   "venue": "Proc. SpeechProsody 2012, 532-534",
+   "year": "2012"
+  },
+  {
+   "title": "Comparison of vowel structures of Japanese and English in articulatory and auditory spaces",
+   "authors": "J Dang, M Tiede, J Yuan",
+   "venue": "Proc. Interspeech 2009, 2815-2818",
+   "year": "2009"
+  },
+  {
+   "title": "Implications of prosody modeling for prosody recognition",
+   "authors": "M Chan, JH Yuan",
+   "venue": "",
+   "year": "2001"
+  },
+  {
+   "title": "Relating intonational pragmatics to the pitch realizations of highly frequent words in English speech to infants",
+   "authors": "CM Quam, J Yuan, D Swingly",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 30 (30)",
+   "year": "2008"
+  },
+  {
+   "title": "Different roles of pitch and duration in distinguishing word stress in English",
+   "authors": "J Yuan, S Isard, M Liberman",
+   "venue": "Proc. Interspeech 2008, 885",
+   "year": "2008"
+  },
+  {
+   "title": "Automatic detection and comparison of vowel nasalization in American English.",
+   "authors": "J Yuan, A Seidl, A Cristiá",
+   "venue": "The Journal of the Acoustical Society of America 128 (4_Supplement), 2291-2291",
+   "year": "2010"
+  },
+  {
+   "title": "Linguistic rhythm in foreign accent",
+   "authors": "J Yuan",
+   "venue": "Proc. Interspeech 2010, 1848-1849",
+   "year": "2010"
+  },
+  {
+   "title": "Selective adaptation tests on Mandarin Tone2 and Tone3",
+   "authors": "J Yuan",
+   "venue": "Proceedings of ICPhS XV, 1719-1722",
+   "year": "2003"
+  },
+  {
+   "title": "Linguistic tone in Chinese rap: an interdisciplinary approach",
+   "authors": "J Liu, H Dong, J Yuan, H Ma, A She",
+   "venue": "Journal of New Music Research 52 (4), 265-284",
+   "year": "2023"
+  },
+  {
+   "title": "FAVE: Speaker fix",
+   "authors": "I Rosenfelder, J Fruehwald, K Evanini, S Seyfarth, K Gorman, H Prichard, ...",
+   "venue": "Zenodo",
+   "year": "2022"
+  },
+  {
+   "title": "Automatic scoring minimal-pair pronunciation drills by using recognition likelihood scores and phonological features",
+   "authors": "L Chen, Q Gao, Q Liang, J Yuan, Y Liu",
+   "venue": "Proc. SLaTE 2019, 25-29",
+   "year": "2019"
+  },
+  {
+   "title": "Normalization Through Fine-Tuning: Understanding Wav2vec2. 0 Embeddings for Phonetic Analysis",
+   "authors": "Y Wang, J Yuan",
+   "venue": "2025 Asia Pacific Signal and Information Processing Association Annual …",
+   "year": "2025"
+  },
+  {
+   "title": "Wav2nas: An exploratory approach to nasalance estimation in speech",
+   "authors": "R Feng, YA Chen, YL Liu, JH Yuan, ZH Ling",
+   "venue": "2024 IEEE 14th International Symposium on Chinese Spoken Language Processing …",
+   "year": "2024"
+  },
+  {
+   "title": "Speaking rate and tonal realization in mandarin chinese: What can we learn from large speech corpora?",
+   "authors": "J Yuan, K Church",
+   "venue": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2021"
+  },
+  {
+   "title": "Prosodic strength intrinsic to lexical items: A corpus study on tone reduction in tone4+ tone4 words in mandarin chinese",
+   "authors": "W Lai, M Liberman, J Yuan, X Xu",
+   "venue": "2016 10th International Symposium on Chinese Spoken Language Processing …",
+   "year": "2016"
+  },
+  {
+   "title": "Beyond Manual Transcripts: The Potential of Automated Speech Recognition Errors in Improving Alzheimer's Disease Detection",
+   "authors": "YL Liu, R Feng, JX Chen, YM Wang, JH Yuan, ZH Ling",
+   "venue": "arXiv preprint arXiv:2505.19448",
+   "year": "2025"
+  },
+  {
+   "title": "Wav2F0: Exploring the potential of wav2vec 2.0 for speech fundamental frequency extraction",
+   "authors": "R Feng, YL Liu, ZH Ling, JH Yuan",
+   "venue": "2024 IEEE 14th International Symposium on Chinese Spoken Language Processing …",
+   "year": "2024"
+  },
+  {
+   "title": "Preceding vowel duration and syllable-final stop voicing: An examination of L2 English production and perception by Chinese learners of English",
+   "authors": "H Ding, Y Zhan, S Liao, J Yuan",
+   "venue": "Proceedings of the 19th international congress of phonetic sciences …",
+   "year": "2019"
+  },
+  {
+   "title": "Phoneme, Phone Boundary, and Tone in Automatic Scoring of Mandarin Proficiency",
+   "authors": "J Yuan, M Liberman",
+   "venue": "Proc. Interspeech 2016, 2145-2149",
+   "year": "2016"
+  },
+  {
+   "title": "Mining years and years of speech",
+   "authors": "J Coleman, M Liberman, G Kochanski, J Yuan, S Grau, C Cieri, L Burnard",
+   "venue": "Final report of the Digging into Data project “Mining a Year of Speech …",
+   "year": "2011"
+  },
+  {
+   "title": "Cross-Lingual Alzheimer’s Disease Detection with Multimodal LLMs via Speech Cue-Augmented Prompting and Instruction Tuning",
+   "authors": "YL Liu, Y Li, Y Chen, L He, R Feng, J Chen, J Yuan",
+   "venue": "ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2026"
+  },
+  {
+   "title": "Exploring Gender Bias in Alzheimer’s Disease Detection: Insights from Mandarin and Greek Speech Perception",
+   "authors": "L He, Y Li, R Feng, XR Han, YL Liu, Y Yang, Z Zhu, J Yuan",
+   "venue": "National Conference on Man-Machine Speech Communication, 213-224",
+   "year": "2025"
+  },
+  {
+   "title": "Leveraging cascaded binary classification and multimodal fusion for dementia detection through spontaneous speech",
+   "authors": "YL Liu, Y Li, R Feng, L He, JX Chen, YM Wang, YA Chen, YH Peng, ...",
+   "venue": "arXiv preprint arXiv:2505.19446",
+   "year": "2025"
+  },
+  {
+   "title": "Transformer-based speech model learns well as infants and encodes abstractions through exemplars in the poverty of the stimulus environment",
+   "authors": "Y Yang, Y Wang, J Yuan",
+   "venue": "Proceedings of the 31st International Conference on Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Classification of Chinese Dialect Regions from L2 English Speech",
+   "authors": "J Yuan, Z Rao, H Lin, Y Liu",
+   "venue": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2019"
+  },
+  {
+   "title": "Using multiple versions of speech input in phone recognition",
+   "authors": "M Liberman, J Yuan, A Stolcke, W Wang, V Mitra",
+   "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2013"
+  },
+  {
+   "title": "A cross‐linguistic study of intonation: English learners’ production of Mandarin intonation.",
+   "authors": "Y Zhang, J Yuan",
+   "venue": "The Journal of the Acoustical Society of America 129 (4_Supplement), 2681-2681",
+   "year": "2011"
+  },
+  {
+   "title": "EGGCodec: A robust neural encodec framework for EGG reconstruction and F0 extraction",
+   "authors": "R Feng, Y Chen, Y Hu, J Yuan",
+   "venue": "ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2026"
+  },
+  {
+   "title": "Beyond manual transcripts: Exploring the potential of automatic speech recognition errors in improving Alzheimer’s disease detection",
+   "authors": "YL Liu, Y Li, R Feng, J Chen, Y Wang, YA Chen, N Ding, J Yuan, ZH Ling",
+   "venue": "Journal of Biomedical Informatics, 104968",
+   "year": "2025"
+  },
+  {
+   "title": "Beyond Mimicry: Auditing Human Bias to Build Fairer AI for Alzheimer’s Assessment",
+   "authors": "L He, R Feng, X Han, YL Liu, J Yuan",
+   "venue": "Companion Proceedings of the 27th International Conference on Multimodal …",
+   "year": "2025"
+  },
+  {
+   "title": "The ustc system for eeg-music emotion recognition challenge",
+   "authors": "J Chen, Y Wang, YL Liu, R Feng, J Yuan, ZH Ling",
+   "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2025"
+  },
+  {
+   "title": "Automated tone transcription and clustering with Tone2Vec",
+   "authors": "Y Yang, Y Wang, ZQ Tang, J Yuan",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 2054-2065",
+   "year": "2024"
+  },
+  {
+   "title": "Transformer-based model for auditory eeg decoding",
+   "authors": "J Chen, YL Liu, R Feng, J Yuan, ZH Ling",
+   "venue": "National Conference on Man-Machine Speech Communication, 129-143",
+   "year": "2024"
+  },
+  {
+   "title": "Global TIMIT Mandarin Chinese",
+   "authors": "H Ding, S Liao, Y Zhan, J Yuan, M Liberman",
+   "venue": "Web Download, Philadelphia",
+   "year": "2021"
+  },
+  {
+   "title": "The rhythmic constraint on prosodic boundaries in Mandarin Chinese based on corpora of silent reading and speech perception",
+   "authors": "W Lai, J Yuan, Y Li, X Xu, M Liberman",
+   "venue": "Proc. Interspeech 2016, 87-91",
+   "year": "2016"
+  },
+  {
+   "title": "Sentence selection for automatic scoring of Mandarin proficiency",
+   "authors": "J Yuan, X Xu, W Lai, W Ye, X Zhao, M Liberman",
+   "venue": "Proceedings of the Eighth SIGHAN Workshop on Chinese Language Processing, 21-25",
+   "year": "2015"
+  },
+  {
+   "title": "Acoustics of tone, intonation and focus in Mandarin Chinese",
+   "authors": "JH Yuan",
+   "venue": "University of Pennsylvania",
+   "year": "2004"
+  },
+  {
+   "title": "Nasal coarticulation in l1 and l2 english speech: A large-scale study",
+   "authors": "J Yuan, H Lin, Y Liu",
+   "venue": "Training, 96.6",
+   "year": "1974"
+  },
+  {
+   "title": "Disentangling Acoustic Cues in Alzheimer's Pathology and Perception: The Roles of Language and Gender",
+   "authors": "L He, Y Li, YL Liu, R Feng, Y Wang, J Chen, Y Wang, J Yuan",
+   "venue": "arXiv preprint arXiv:2607.23977",
+   "year": "2026"
+  },
+  {
+   "title": "CoSTA: Cognitive-State-Conditioned TTS Data Augmentation Using ASR Transcripts for Alzheimer's Disease Detection",
+   "authors": "YL Liu, Y Li, Y Wang, Y Li, R Feng, J Chen, S Liu, L He, Y Chen, J Yuan, ...",
+   "venue": "arXiv preprint arXiv:2606.06170",
+   "year": "2026"
+  },
+  {
+   "title": "Alzheimer's Disease Detection via Large Pre-Trained Speech and Language Models: Taxonomy, Progress, and Open Challenges",
+   "authors": "YC Li, Y Pan, YL Liu, L He, Q Sun, S Zhang, WQ Zhang, S Luz, Z Ling, ...",
+   "venue": "OSF",
+   "year": "2026"
+  },
+  {
+   "title": "Decoding Speaker-Normalized Pitch from EEG for Mandarin Perception",
+   "authors": "J Chen, Y Wang, Z Zhang, J Han, YL Liu, R Feng, X Liang, ZH Ling, ...",
+   "venue": "arXiv preprint arXiv:2505.19626",
+   "year": "2025"
+  },
+  {
+   "title": "Data Augmentation for the Post-Stroke Speech Transcription (PSST) Challenge: Sometimes Less is More",
+   "authors": "J Yuan, X Cai, K Church",
+   "venue": "Proceedings of the RaPID Workshop-Resources and ProcessIng of linguistic …",
+   "year": "2022"
+  },
+  {
+   "title": "Detection and analysis of t/d deletion in Librispeech",
+   "authors": "J Yuan, H Lin, Y Liu",
+   "venue": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2020"
+  },
+  {
+   "title": "Scale-space expansion of acoustic features improves speech event detection",
+   "authors": "N Ryant, J Yuan, M Liberman",
+   "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2013"
+  },
+  {
+   "title": "The duration aspect of tones",
+   "authors": "J Yuan",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Acoustic correlates of speaker discrimination in English.",
+   "authors": "C Narayan, J Yuan",
+   "venue": "The Journal of the Acoustical Society of America 124 (4_Supplement), 2457-2457",
+   "year": "2008"
+  },
+  {
+   "title": "Acoustic correlates of cross-linguistic disfluency perception",
+   "authors": "K Gorman, C Lai, J Yuan, M Liberman",
+   "venue": "",
+   "year": "2000"
+  },
+  {
+   "title": "EGGNet: Learning Temporal Boundaries of Glottal Cycles from Electroglottography",
+   "authors": "R Feng, Y Chen, J Du, Z Ling, J Yuan",
+   "venue": "IEEE Transactions on Audio, Speech and Language Processing",
+   "year": "2026"
+  },
+  {
+   "title": "JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection And F0 Estimation",
+   "authors": "Y Chen, R Feng, YL Liu, Y Hu, J Yuan",
+   "venue": "ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2026"
+  },
+  {
+   "title": "EEG as a Biometric Identifier: The Impact of Electrode Arrangement, Brain Areas, and Frequency Bands",
+   "authors": "Y Wang, J Chen, J Han, Z Zhang, YL Liu, R Feng, X Liang, ZH Ling, ...",
+   "venue": "National Conference on Man-Machine Speech Communication, 352-364",
+   "year": "2025"
+  },
+  {
+   "title": "Intelligent Speech Analysis For Facial Paralysis: An Innovative Diagnostic Approach",
+   "authors": "X Li, J Yuan, L Chen, R Feng, Y Chen",
+   "venue": "International Dental Journal 75, 105775",
+   "year": "2025"
+  },
+  {
+   "title": "Using Mixed Incentives to Document Xi’an Guanzhong",
+   "authors": "J Zhan, Y Jiang, C Cieri, M Liberman, J Yuan, Y Chen, O Scharenborg",
+   "venue": "Proceedings of the 2nd Workshop on Novel Incentives in Data Collection from …",
+   "year": "2022"
+  },
+  {
+   "title": "Data-Driven Adaptive Simultaneous Machine Translation",
+   "authors": "G Xun, M Ma, Y Bian, X Cai, J Huang, R Zheng, J Chen, J Yuan, K Church, ...",
+   "venue": "arXiv preprint arXiv:2204.12672",
+   "year": "2022"
+  },
+  {
+   "title": "FAVE: Forced Alignment and Vowel Extraction: v2. 0.0",
+   "authors": "I Rosenfelder, J Fruehwald, K Evanini, S Seyfarth, K Gorman, H Prichard, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "SSPF: a Simple and Scalable Parameter Free Clustering Method",
+   "authors": "X Cai, Y Bian, J Huang, B Liu, J Yuan, K Church",
+   "venue": "2021 International Conference on Data Mining Workshops (ICDMW), 659-668",
+   "year": "2021"
+  },
+  {
+   "title": "Pauses for Detection of Alzheimer’s Disease: Jiahong Yuan, Xingyu Cai, Yuchen Bian, Zheng Ye, Kenneth Church:[Ressource électronique]",
+   "authors": "J Yuan, X Cai, Y Bian, Z Ye, K Church",
+   "venue": "Frontiers in Computer Science 2 (624488)",
+   "year": "2021"
+  },
+  {
+   "title": "F0 Declination in English and Mandarin Broadcast News Speech",
+   "authors": "J Yuan, M Liberman",
+   "venue": "Eleventh Annual Conference of the International Speech Communication Association",
+   "year": "2010"
+  },
+  {
+   "title": "Relating Intonational Pragmatics to the Pitch Realizations of Highly Frequent Words in",
+   "authors": "CM Quam, J Yuan, D Swingly",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 30 (30)",
+   "year": "2008"
+  },
+  {
+   "title": "Covariations of English segmental durations across speakers.",
+   "authors": "J Yuan",
+   "venue": "INTERSPEECH, 1963",
+   "year": "2008"
+  },
+  {
+   "title": "Frequency and amplitude derivatives as syllable‐level F0 features",
+   "authors": "M Liberman, J Yuan",
+   "venue": "The Journal of the Acoustical Society of America 120 (5_Supplement), 3090-3090",
+   "year": "2006"
+  },
+  {
+   "title": "Language and gender differences in speech overlaps in conversation",
+   "authors": "J Yuan, M Liberman",
+   "venue": "The Journal of the Acoustical Society of America 120 (5_Supplement), 3295-3295",
+   "year": "2006"
+  },
+  {
+   "title": "LDC Papers",
+   "authors": "S Cho, MY Liberman, C Cieri, N Ryant, M Cola, V Petrulla, L Yankowitz, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Normalization Beyond Suppression: A New Perspective on Speech Representation Learning",
+   "authors": "Y Wang, ZH Ling, J Yuan",
+   "venue": "Available at SSRN 6159455",
+   "year": null
+  },
+  {
+   "title": "Lourdes De Rioja",
+   "authors": "L Huang, C Cherry, M Ma, N Arivazhagan, Z He, R Zheng, B Zheng, K Liu, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Chinese Lexical Resources for Gender, Number, Animacy",
+   "authors": "Z Song, J Yuan, X Ma, S Strassel",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Problems, Methods and Challengesin Very-large-scale Phonetics Research",
+   "authors": "J Yuan, M Liberman",
+   "venue": "广西语言文字资料库建设, 39",
+   "year": null
+  },
+  {
+   "title": "Perception of intonation and focus in Mandarin Chinese",
+   "authors": "J Yuan, J Yuan",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Corpus Study of/l/Variation in American English Using Forced Alignment",
+   "authors": "J Yuan, M Liberman",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

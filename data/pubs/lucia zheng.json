@@ -1,0 +1,65 @@
+{
+ "user": "dlqLZAsAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "When does pretraining help? assessing self-supervised learning for law and the casehold dataset of 53,000+ legal holdings",
+   "authors": "L Zheng, N Guha, BR Anderson, P Henderson, DE Ho",
+   "venue": "Proceedings of the eighteenth international conference on artificial …",
+   "year": "2021"
+  },
+  {
+   "title": "Pile of law: Learning responsible data filtering from the law and a 256gb open-source legal dataset",
+   "authors": "P Henderson, M Krass, L Zheng, N Guha, CD Manning, D Jurafsky, D Ho",
+   "venue": "Advances in Neural Information Processing Systems 35, 29217-29234",
+   "year": "2022"
+  },
+  {
+   "title": "A Reasoning-Focused Legal Retrieval Benchmark",
+   "authors": "L Zheng, N Guha, J Arifov, S Zhang, M Skreta, CD Manning, P Henderson, ...",
+   "venue": "Proceedings of the Symposium on Computer Science and Law, 169-193",
+   "year": "2025"
+  },
+  {
+   "title": "LawInstruct: A resource for studying language model adaptation to the legal domain",
+   "authors": "J Niklaus, L Zheng, AD McCarthy, C Hahn, BM Rosen, P Henderson, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 127-152",
+   "year": "2025"
+  },
+  {
+   "title": "NLP systems that can’t tell use from mention censor counterspeech, but teaching the distinction helps",
+   "authors": "K Gligorić, M Cheng, L Zheng, E Durmus, D Jurafsky",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Legal Retrieval for Public Defenders",
+   "authors": "D Stammbach, K Zhang, P Liu, N Nadeem, I Cheong, L Zheng, ...",
+   "venue": "arXiv preprint arXiv:2601.14348",
+   "year": "2026"
+  },
+  {
+   "title": "AI-Assisted Moot Courts: Simulating Justice-Specific Questioning in Oral Arguments",
+   "authors": "K Zhang, N Nadeem, L Zheng, D Stammbach, P Henderson",
+   "venue": "Proceedings of the Symposium on Computer Science and Law, 136-172",
+   "year": "2026"
+  },
+  {
+   "title": "Barriers to Evidence in AI-Related Cases and the Privatization of Proof",
+   "authors": "SH Cen, H Ismael, L Zheng",
+   "venue": "The 2026 ACM Conference on Fairness, Accountability, and Transparency, 7793-7834",
+   "year": "2026"
+  }
+ ]
+}

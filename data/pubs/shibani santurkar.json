@@ -1,0 +1,227 @@
+{
+ "user": "QMkbFp8AAAAJ",
+ "pubs": [
+  {
+   "title": "Gpt-4 technical report",
+   "authors": "J Achiam, S Adler, S Agarwal, L Ahmad, I Akkaya, FL Aleman, D Almeida, ...",
+   "venue": "arXiv preprint arXiv:2303.08774",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Adversarial examples are not bugs, they are features",
+   "authors": "A Ilyas, S Santurkar, D Tsipras, L Engstrom, B Tran, A Madry",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "How does batch normalization help optimization?",
+   "authors": "S Santurkar, D Tsipras, A Ilyas, A Madry",
+   "venue": "Advances in neural information processing systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Openai o1 system card",
+   "authors": "A Jaech, A Kalai, A Lerer, A Richardson, A El-Kishky, A Low, A Helyar, ...",
+   "venue": "arXiv preprint arXiv:2412.16720",
+   "year": "2024"
+  },
+  {
+   "title": "Robustness may be at odds with accuracy",
+   "authors": "D Tsipras, S Santurkar, L Engstrom, A Turner, A Madry",
+   "venue": "arXiv preprint arXiv:1805.12152",
+   "year": "2018"
+  },
+  {
+   "title": "Whose opinions do language models reflect?",
+   "authors": "S Santurkar, E Durmus, F Ladhak, C Lee, P Liang, T Hashimoto",
+   "venue": "International conference on machine learning, 29971-30004",
+   "year": "2023"
+  },
+  {
+   "title": "Openai gpt-5 system card",
+   "authors": "A Singh, A Fry, A Perelman, A Tart, A Ganesh, A El-Kishky, A McLaughlin, ...",
+   "venue": "arXiv preprint arXiv:2601.03267",
+   "year": "2025"
+  },
+  {
+   "title": "Adversarially robust generalization requires more data",
+   "authors": "L Schmidt, S Santurkar, D Tsipras, K Talwar, A Madry",
+   "venue": "Advances in neural information processing systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Implementation matters in deep policy gradients: A case study on ppo and trpo",
+   "authors": "L Engstrom, A Ilyas, S Santurkar, D Tsipras, F Janoos, L Rudolph, ...",
+   "venue": "arXiv preprint arXiv:2005.12729",
+   "year": "2020"
+  },
+  {
+   "title": "Data selection for language models via importance resampling",
+   "authors": "SM Xie, S Santurkar, T Ma, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 36, 34201-34227",
+   "year": "2023"
+  },
+  {
+   "title": "Learning perceptually-aligned representations via adversarial robustness",
+   "authors": "L Engstrom, A Ilyas, S Santurkar, D Tsipras, B Tran, A Madry",
+   "venue": "arXiv preprint arXiv:1906.00945 2 (3), 5",
+   "year": "2019"
+  },
+  {
+   "title": "Implementation matters in deep rl: A case study on ppo and trpo",
+   "authors": "L Engstrom, A Ilyas, S Santurkar, D Tsipras, F Janoos, L Rudolph, ...",
+   "venue": "International conference on learning representations",
+   "year": "2019"
+  },
+  {
+   "title": "Robustness (python library), 2019",
+   "authors": "L Engstrom, A Ilyas, H Salman, S Santurkar, D Tsipras",
+   "venue": "URL https://github. com/MadryLab/robustness 4 (4), 4.3",
+   "year": "2019"
+  },
+  {
+   "title": "Image synthesis with a single (robust) classifier",
+   "authors": "S Santurkar, A Ilyas, D Tsipras, L Engstrom, B Tran, A Madry",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Generative compression",
+   "authors": "S Santurkar, D Budden, N Shavit",
+   "venue": "2018 picture coding symposium (PCS), 258-262",
+   "year": "2018"
+  },
+  {
+   "title": "Breeds: Benchmarks for subpopulation shift",
+   "authors": "S Santurkar, D Tsipras, A Madry",
+   "venue": "arXiv preprint arXiv:2008.04859",
+   "year": "2020"
+  },
+  {
+   "title": "From imagenet to image classification: Contextualizing progress on benchmarks",
+   "authors": "D Tsipras, S Santurkar, L Engstrom, A Ilyas, A Madry",
+   "venue": "International Conference on Machine Learning, 9625-9635",
+   "year": "2020"
+  },
+  {
+   "title": "Leveraging sparse linear layers for debuggable deep networks",
+   "authors": "E Wong, S Santurkar, A Madry",
+   "venue": "International Conference on Machine Learning, 11205-11216",
+   "year": "2021"
+  },
+  {
+   "title": "Editing a classifier by rewriting its prediction rules",
+   "authors": "S Santurkar, D Tsipras, M Elango, D Bau, A Torralba, A Madry",
+   "venue": "Advances in Neural Information Processing Systems 34, 23359-23373",
+   "year": "2021"
+  },
+  {
+   "title": "A classification-based study of covariate shift in gan distributions",
+   "authors": "S Santurkar, L Schmidt, A Madry",
+   "venue": "International conference on machine learning, 4480-4489",
+   "year": "2018"
+  },
+  {
+   "title": "Are deep policy gradient algorithms truly policy gradient algorithms",
+   "authors": "A Ilyas, L Engstrom, S Santurkar, D Tsipras, F Janoos, L Rudolph, ...",
+   "venue": "arXiv preprint arXiv:1811.02553",
+   "year": "2018"
+  },
+  {
+   "title": "Identifying statistical bias in dataset replication",
+   "authors": "L Engstrom, A Ilyas, S Santurkar, D Tsipras, J Steinhardt, A Madry",
+   "venue": "International Conference on Machine Learning, 2922-2932",
+   "year": "2020"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "3db: A framework for debugging computer vision models",
+   "authors": "G Leclerc, H Salman, A Ilyas, S Vemprala, L Engstrom, V Vineet, K Xiao, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 8498-8511",
+   "year": "2022"
+  },
+  {
+   "title": "Deep tensor convolution on multicores",
+   "authors": "D Budden, A Matveev, S Santurkar, SR Chaudhuri, N Shavit",
+   "venue": "Proceedings of the 34th International Conference on Machine Learning",
+   "year": "2017"
+  },
+  {
+   "title": "Is a caption worth a thousand images? a controlled study for representation learning",
+   "authors": "S Santurkar, Y Dubois, R Taori, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2207.07635",
+   "year": "2022"
+  },
+  {
+   "title": "How does batch normalization help optimization? arXiv 2018",
+   "authors": "S Santurkar, D Tsipras, A Ilyas, A Madry",
+   "venue": "arXiv preprint arXiv:1805.11604",
+   "year": "1805"
+  },
+  {
+   "title": "A Discussion of'Adversarial Examples Are Not Bugs, They Are Features': Discussion and Author Responses",
+   "authors": "L Engstrom, A Ilyas, A Madry, S Santurkar, B Tran, D Tsipras",
+   "venue": "Distill 4 (8), e00019. 7",
+   "year": "2019"
+  },
+  {
+   "title": "Is a caption worth a thousand images? a study on representation learning",
+   "authors": "S Santurkar, Y Dubois, R Taori, P Liang, T Hashimoto",
+   "venue": "The Eleventh International Conference on Learning Representations",
+   "year": "2023"
+  },
+  {
+   "title": "C. elegans chemotaxis inspired neuromorphic circuit for contour tracking and obstacle avoidance",
+   "authors": "S Santurkar, B Rajendran",
+   "venue": "2015 International Joint Conference on Neural Networks (IJCNN), 1-8",
+   "year": "2015"
+  },
+  {
+   "title": "Toward streaming synapse detection with compositional convnets",
+   "authors": "S Santurkar, D Budden, A Matveev, H Berlin, H Saribekyan, Y Meirovitch, ...",
+   "venue": "arXiv preprint arXiv:1702.07386",
+   "year": "2017"
+  },
+  {
+   "title": "Machine learning beyond accuracy: a features perspective on model generalization",
+   "authors": "S Santurkar",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2021"
+  },
+  {
+   "title": "Towards generative compression",
+   "authors": "SSV Santurkar",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2017"
+  },
+  {
+   "title": "MIT MIT MIT ailyas@ mit. edu shibani@ mit. edu tsipras@ mit. edu Logan Engstrom∗ Brandon Tran Aleksander Mądry",
+   "authors": "A Ilyas, S Santurkar",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "MIT MIT MIT tsipras@ mit. edu shibani@ mit. edu engstrom@ mit. edu Alexander Turner Aleksander Mądry",
+   "authors": "D Tsipras, S Santurkar",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "MIT MIT MIT shibani@ mit. edu tsipras@ mit. edu btran115@ mit. edu Andrew Ilyas∗ Logan Engstrom∗ Aleksander Mądry",
+   "authors": "S Santurkar",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,887 @@
+{
+ "user": "HwryFLcAAAAJ",
+ "pubs": [
+  {
+   "title": "Palm: Scaling language modeling with pathways",
+   "authors": "A Chowdhery, S Narang, J Devlin, M Bosma, G Mishra, A Roberts, ...",
+   "venue": "Journal of Machine Learning Research 24 (240), 1-113",
+   "year": "2023"
+  },
+  {
+   "title": "Lamda: Language models for dialog applications",
+   "authors": "R Thoppilan, D De Freitas, J Hall, N Shazeer, A Kulshreshtha, HT Cheng, ...",
+   "venue": "arXiv preprint arXiv:2201.08239",
+   "year": "2022"
+  },
+  {
+   "title": "Power to the People? Opportunities and Challenges for Participatory AI",
+   "authors": "A Birhane, W Isaac, V Prabhakaran, M Díaz, MC Elish, I Gabriel, ...",
+   "venue": "The second Conference on Equity and Access in Algorithms, Mechanisms, and …",
+   "year": "2022"
+  },
+  {
+   "title": "Dealing with Disagreements: Looking Beyond the Majority Vote in Subjective Annotations",
+   "authors": "AM Davani, M Díaz, V Prabhakaran",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 92-110",
+   "year": "2022"
+  },
+  {
+   "title": "Language from police body camera footage shows racial disparities in officer respect",
+   "authors": "R Voigt, NP Camp, V Prabhakaran, WL Hamilton, RC Hetey, CM Griffiths, ...",
+   "venue": "Proceedings of the National Academy of Sciences 114 (25), 6521-6526",
+   "year": "2017"
+  },
+  {
+   "title": "Social Biases in NLP Models as Barriers for Persons with Disabilities",
+   "authors": "B Hutchinson, V Prabhakaran, E Denton, K Webster, Y Zhong, S Denuyl",
+   "venue": "ACL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Re-imagining algorithmic fairness in india and beyond",
+   "authors": "N Sambasivan, E Arnesen, B Hutchinson, T Doshi, V Prabhakaran",
+   "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and …",
+   "year": "2021"
+  },
+  {
+   "title": "Computational Argumentation Quality Assessment in Natural Language",
+   "authors": "H Wachsmuth, N Naderi, Y Hou, Y Bilu, V Prabhakaran, TA Thijm, G Hirst, ...",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Palm: Scaling language modeling with pathways, 2022",
+   "authors": "A Chowdhery, S Narang, J Devlin, M Bosma, G Mishra, A Roberts, ...",
+   "venue": "arXiv preprint arXiv:2204.02311",
+   "year": "2022"
+  },
+  {
+   "title": "On Releasing Annotator-Level Labels and Information in Datasets",
+   "authors": "V Prabhakaran, AM Davani, M Díaz",
+   "venue": "The Joint 15th Linguistic Annotation Workshop (LAW) and 3rd Designing …",
+   "year": "2021"
+  },
+  {
+   "title": "Cultural Incongruencies in Artificial Intelligence",
+   "authors": "V Prabhakaran, R Qadri, B Hutchinson",
+   "venue": "NeurIPS Workshop on Cultures of AI and AI for Culture",
+   "year": "2022"
+  },
+  {
+   "title": "Perturbation Sensitivity Analysis to Detect Unintended Model Biases",
+   "authors": "V Prabhakaran, B Hutchinson, M Mitchell",
+   "venue": "EMNLP",
+   "year": "2019"
+  },
+  {
+   "title": "Lamda: Language models for dialog applications. arXiv 2022",
+   "authors": "R Thoppilan, D De Freitas, J Hall, N Shazeer, A Kulshreshtha, HT Cheng, ...",
+   "venue": "arXiv preprint arXiv:2201.08239",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluation Gaps in Machine Learning Practice",
+   "authors": "B Hutchinson, N Rostamzadeh, C Greer, K Heller, V Prabhakaran",
+   "venue": "ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)",
+   "year": "2022"
+  },
+  {
+   "title": "CrowdWorkSheets: Accounting for Individual and Collective Identities Underlying Crowdsourced Dataset Annotation",
+   "authors": "M Díaz, ID Kivlichan, R Rosen, DK Baker, R Amironesei, V Prabhakaran, ...",
+   "venue": "ACM Conference on Fairness Accountability and Transparency",
+   "year": "2022"
+  },
+  {
+   "title": "Dices dataset: Diversity in conversational ai evaluation for safety",
+   "authors": "L Aroyo, A Taylor, M Diaz, C Homan, A Parrish, G Serapio-García, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 53330-53342",
+   "year": "2023"
+  },
+  {
+   "title": "A Human Rights-Based Approach to Responsible AI",
+   "authors": "V Prabhakaran, M Mitchell, T Gebru, I Gabriel",
+   "venue": "ACM Conference on Equity and Access in Algorithms, Mechanisms, and …",
+   "year": "2022"
+  },
+  {
+   "title": "Committed belief annotation and tagging",
+   "authors": "MT Diab, L Levin, T Mitamura, O Rambow, V Prabhakaran, W Guo",
+   "venue": "Proceedings of the Third Linguistic Annotation Workshop (LAW), 68-73",
+   "year": "2009"
+  },
+  {
+   "title": "Bias and fairness in natural language processing",
+   "authors": "KW Chang, V Prabhakaran, V Ordonez",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Participatory Problem Formulation for Fairer Machine Learning Through Community Based System Dynamics",
+   "authors": "D Martin Jr, V Prabhakaran, J Kuhlberg, A Smart, WS Isaac",
+   "venue": "ICLR Workshop on Machine Learning in Real Life",
+   "year": "2020"
+  },
+  {
+   "title": "Whose Ground Truth? Accounting for Individual and Collective Identities Underlying Dataset Annotation",
+   "authors": "E Denton, M Díaz, I Kivlichan, V Prabhakaran, R Rosen",
+   "venue": "NeurIPS Workshop on Data-centric AI (DCAI)",
+   "year": "2021"
+  },
+  {
+   "title": "RtGender: A corpus for studying differential responses to gender",
+   "authors": "R Voigt, D Jurgens, V Prabhakaran, D Jurafsky, Y Tsvetkov",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Re-contextualizing Fairness in NLP: The Case of India",
+   "authors": "S Bhatt, S Dev, P Talukdar, S Dave, V Prabhakaran",
+   "venue": "The 2nd Conference of the Asia-Pacific Chapter of the Association for …",
+   "year": "2022"
+  },
+  {
+   "title": "SeeGULL: A stereotype benchmark with broad geo-cultural coverage leveraging generative models",
+   "authors": "A Jha, AM Davani, CK Reddy, S Dave, V Prabhakaran, S Dev",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing",
+   "authors": "V Prabhakaran, WL Hamilton, D McFarland, D Jurafsky",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Beyond Aesthetics: Cultural Competence in Text-to-Image Models",
+   "authors": "NK Senthilkumar, A Ahmad, M Andreetto, V Prabhakaran, U Prabhu, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 13716-13747",
+   "year": "2024"
+  },
+  {
+   "title": "Unintended Machine Learning Biases as Social Barriers for Persons with Disabilities",
+   "authors": "B Hutchinson, E Denton, K Webster, SC Denuyl, V Prabhakaran, Y Zhong",
+   "venue": "ASSETS Workshop on AI Fairness for People with Disabilities",
+   "year": "2019"
+  },
+  {
+   "title": "ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation",
+   "authors": "A Jha, V Prabhakaran, R Denton, S Laszlo, S Dave, R Qadri, CK Reddy, ...",
+   "venue": "arXiv preprint arXiv:2401.06310",
+   "year": "2024"
+  },
+  {
+   "title": "Automatic committed belief tagging",
+   "authors": "V Prabhakaran, O Rambow, M Diab",
+   "venue": "23rd International Conference on Computational Linguistics (COLING): Posters …",
+   "year": "2010"
+  },
+  {
+   "title": "others. 2022. Palm: Scaling language modeling with pathways",
+   "authors": "A Chowdhery, S Narang, J Devlin, M Bosma, G Mishra, A Roberts, ...",
+   "venue": "arXiv preprint arXiv:2204.02311",
+   "year": "1"
+  },
+  {
+   "title": "Learning to Recognize Dialect Features",
+   "authors": "D Demszky, D Sharma, JH Clark, V Prabhakaran, J Eisenstein",
+   "venue": "2021 Annual Conference of the North American Chapter of the Association for …",
+   "year": "2021"
+  },
+  {
+   "title": "Predicting Overt Display of Power in Written Dialogs",
+   "authors": "V Prabhakaran, O Rambow, M Diab",
+   "venue": "Human Language Technologies: The 2012 Annual Conference of the NAACL (North …",
+   "year": "2012"
+  },
+  {
+   "title": "Underspecification in Scene Description to Depiction Tasks",
+   "authors": "B Hutchinson, J Baldridge, V Prabhakaran",
+   "venue": "The 2nd Conference of the Asia-Pacific Chapter of the Association for …",
+   "year": "2022"
+  },
+  {
+   "title": "Disentangling perceptions of offensiveness: Cultural and moral correlates",
+   "authors": "A Davani, M Díaz, D Baker, V Prabhakaran",
+   "venue": "The 2024 ACM Conference on Fairness, Accountability, and Transparency, 2007-2021",
+   "year": "2024"
+  },
+  {
+   "title": "Detecting Cross-Geographic Biases in Toxicity Modeling on Social Media",
+   "authors": "S Ghosh, D Baker, D Jurgens, V Prabhakaran",
+   "venue": "EMNLP Workshop on Noisy User-generated Text (W-NUT)",
+   "year": "2021"
+  },
+  {
+   "title": "Gender and Power: How Gender and Gender Environment Affect Manifestations of Power",
+   "authors": "V Prabhakaran, EE Reid, O Rambow",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "Building socio-culturally inclusive stereotype resources with community engagement",
+   "authors": "S Dev, J Goyal, D Tewari, S Dave, V Prabhakaran",
+   "venue": "Advances in Neural Information Processing Systems 36, 4365-4381",
+   "year": "2023"
+  },
+  {
+   "title": "D3CODE: Disentangling disagreements in data across cultures on offensiveness detection and evaluation",
+   "authors": "A Davani, M Díaz, D Baker, V Prabhakaran",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Findings of the WOAH 5 Shared Task on Fine Grained Hateful Memes Detection",
+   "authors": "L Mathias, S Nie, AM Davani, D Kiela, V Prabhakaran, B Vidgen, ...",
+   "venue": "Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021), 201-206",
+   "year": "2021"
+  },
+  {
+   "title": "Lamda: Language models for dialog applications",
+   "authors": "AD Cohen, A Roberts, A Molina, A Butryna, A Jin, A Kulshreshtha, ...",
+   "venue": "arXiv preprint arXiv:2201.08239",
+   "year": "2022"
+  },
+  {
+   "title": "Extending the Machine Learning Abstraction Boundary: A Complex Systems Approach to Incorporate Societal Context",
+   "authors": "D Martin Jr, V Prabhakaran, J Kuhlberg, A Smart, WS Isaac",
+   "venue": "arXiv preprint arXiv:2006.09663",
+   "year": "2020"
+  },
+  {
+   "title": "Participatory Machine Learning Using Community-Based System Dynamics",
+   "authors": "V Prabhakaran, D Martin Jr",
+   "venue": "Health and Human Rights Journal 22, 71 – 74",
+   "year": "2020"
+  },
+  {
+   "title": "How Metaphors Impact Political Discourse: A Large-Scale Topic-Agnostic Study Using Neural Metaphor Detection",
+   "authors": "V Prabhakaran, M Rei, E Shutova",
+   "venue": "The International AAAI Conference on Web and Social Media (ICWSM)",
+   "year": "2021"
+  },
+  {
+   "title": "A New Dataset and Evaluation for Belief/Factuality",
+   "authors": "V Prabhakaran, T By, J Hirschberg, O Rambow, S Shaikh, T Strzalkowski, ...",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Predicting Power Relations between Participants in Written Dialog from a Single Thread",
+   "authors": "V Prabhakaran, O Rambow",
+   "venue": "ACL 2014 (short papers)",
+   "year": "2014"
+  },
+  {
+   "title": "Statistical Modality Tagging from Rule-based Annotations and Crowdsourcing",
+   "authors": "V Prabhakaran, M Bloodgood, M Diab, BJ Dorr, L Levin, C Piatko, ...",
+   "venue": "Extra-Propositional Aspects of Meaning in Computational Linguistics (ExProM …",
+   "year": "2012"
+  },
+  {
+   "title": "SeeGULL multilingual: A dataset of geo-culturally situated stereotypes",
+   "authors": "M Bhutani, K Robinson, V Prabhakaran, S Dave, S Dev",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Staying on Topic: An Indicator of Power in Political Debates",
+   "authors": "V Prabhakaran, A Arora, O Rambow",
+   "venue": "Empirical Methods for Natural Language Processing",
+   "year": "2014"
+  },
+  {
+   "title": "Written Dialog and Social Power: Manifestations of Different Types of Power in Dialog Behavior",
+   "authors": "V Prabhakaran, O Rambow",
+   "venue": "Proceedings of the IJCNLP, Nagoya, Japan, October. ACL",
+   "year": "2013"
+  },
+  {
+   "title": "Language in popular American culture constructs the meaning of healthy and unhealthy eating: Narratives of craveability, excitement, and social connection in movies, television …",
+   "authors": "BP Turnwald, MA Perry, D Jurgens, V Prabhakaran, D Jurafsky, ...",
+   "venue": "Appetite 172, 105949",
+   "year": "2022"
+  },
+  {
+   "title": "Non-portability of Algorithmic Fairness in India",
+   "authors": "N Sambasivan, E Arnesen, B Hutchinson, T Doshi, V Prabhakaran",
+   "venue": "NeurIPS Workshop",
+   "year": "2020"
+  },
+  {
+   "title": "GRASP: A Disagreement Analysis Framework to Assess Group Associations in Perspectives",
+   "authors": "V Prabhakaran, C Homan, L Aroyo, AM Davani, A Parrish, A Taylor, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Temporal and second language influence on intra-annotator agreement and stability in hate speech labelling",
+   "authors": "G Abercrombie, D Hovy, V Prabhakaran",
+   "venue": "Proceedings of the 17th linguistic annotation workshop (LAW-XVII), 96-103",
+   "year": "2023"
+  },
+  {
+   "title": "Who Had the Upper Hand? Ranking Participants of Interactions Based on Their Relative Power",
+   "authors": "V Prabhakaran, A John, DD Seligmann",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Building Stereotype Repositories with Complementary Approaches for Scale and Depth",
+   "authors": "S Dev, A Jha, J Goyal, D Tewari, S Dave, V Prabhakaran",
+   "venue": "Proceedings of the First Workshop on Cross-Cultural Considerations in NLP …",
+   "year": "2023"
+  },
+  {
+   "title": "Detecting Institutional Dialog Acts in Police Traffic Stops",
+   "authors": "V Prabhakaran, C Griffiths, H Su, P Verma, N Morgan, JL Eberhardt, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 467-481",
+   "year": "2018"
+  },
+  {
+   "title": "Committed belief tagging on the factbank and lu corpora: A comparative study",
+   "authors": "GJ Werner, V Prabhakaran, M Diab, O Rambow",
+   "venue": "Proceedings of the Second Workshop on Extra-Propositional Aspects of Meaning …",
+   "year": "2015"
+  },
+  {
+   "title": "Intersectionality in AI Safety: Using Multilevel Models to Understand Diverse Perceptions of Safety in Conversational AI",
+   "authors": "C Homan, G Serapio-Garcia, L Aroyo, M Díaz, A Parrish, V Prabhakaran, ...",
+   "venue": "Proceedings of the 3rd Workshop on Perspectivist Approaches to NLP …",
+   "year": "2024"
+  },
+  {
+   "title": "MD3: The Multi-Dialect Dataset of Dialogues",
+   "authors": "J Eisenstein, V Prabhakaran, C Rivera, D Demszky, D Sharma",
+   "venue": "arXiv preprint arXiv:2305.11355",
+   "year": "2023"
+  },
+  {
+   "title": "Improving the quality of minority class identification in dialog act tagging",
+   "authors": "A Omuya, V Prabhakaran, O Rambow",
+   "venue": "Proceedings of the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Humanlike AI Design Increases Anthropomorphism but Yields Divergent Outcomes on Engagement and Trust Globally",
+   "authors": "R Schimmelpfennig, M Díaz, V Prabhakaran, A Davani",
+   "venue": "arXiv preprint arXiv:2512.17898",
+   "year": "2025"
+  },
+  {
+   "title": "Risks of Cultural Erasure in Large Language Models",
+   "authors": "R Qadri, AM Davani, K Robinson, V Prabhakaran",
+   "venue": "arXiv preprint arXiv:2501.01056",
+   "year": "2025"
+  },
+  {
+   "title": "System for generating a medical knowledge base",
+   "authors": "S Somasundaran, V Prabhakaran, VD Shet, K Tymoshenko, M Dejori",
+   "venue": "US Patent 8,639,678",
+   "year": "2014"
+  },
+  {
+   "title": "Who’s (Really) the Boss? Perception of Situational Power in Written Interactions.",
+   "authors": "V Prabhakaran, O Rambow, M Diab",
+   "venue": "24th International Conference on Computational Linguistics (COLING)",
+   "year": "2012"
+  },
+  {
+   "title": "Taxonomy of User Needs and Actions",
+   "authors": "R Shelby, F Diaz, V Prabhakaran",
+   "venue": "arXiv preprint arXiv:2510.06124",
+   "year": "2025"
+  },
+  {
+   "title": "Dialog Structure Through the Lens of Gender, Gender Environment, and Power",
+   "authors": "V Prabhakaran, O Rambow",
+   "venue": "Dialogue & Discourse 8 (2), 21-55",
+   "year": "2017"
+  },
+  {
+   "title": "Palm: Scaling language modeling with pathways. arXiv 2022",
+   "authors": "A Chowdhery, S Narang, J Devlin, M Bosma, G Mishra, A Roberts, ...",
+   "venue": "arXiv preprint arXiv:2204.02311 10, 1",
+   "year": "2022"
+  },
+  {
+   "title": "Annotations for power relations on email threads",
+   "authors": "V Prabhakaran, O Rambow, M Diab",
+   "venue": "8th conference on International Language Resources and Evaluation (LREC) '12 …",
+   "year": "2012"
+  },
+  {
+   "title": "Online abuse and human rights: WOAH satellite session at RightsCon 2020",
+   "authors": "V Prabhakaran, Z Talat, S Akiwowo, B Vidgen",
+   "venue": "Proceedings of the Fourth Workshop on Online Abuse and Harms, 1-6",
+   "year": "2020"
+  },
+  {
+   "title": "Power Dynamics in Spoken Interactions: A Case Study on 2012 Republican Primary Debates",
+   "authors": "V Prabhakaran, A John, DD Seligmann",
+   "venue": "WWW Companion",
+   "year": "2013"
+  },
+  {
+   "title": "Proceedings of the first workshop on abusive language online",
+   "authors": "Z Talat, WHK Chung, D Hovy, J Tetreault",
+   "venue": "Proceedings of the First Workshop on Abusive Language Online",
+   "year": "2017"
+  },
+  {
+   "title": "Towards geo-culturally grounded llm generations",
+   "authors": "P Lertvittayakumjorn, D Kinney, V Prabhakaran, D Martin Jr, S Dev",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Sunipa Dev, Héctor Pérez-Urbina, and Vinodkumar Prabhakaran. 2025. A comprehensive framework to operationalize social stereotypes for responsible AI evaluations",
+   "authors": "AM Davani",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "A Corpus of Wikipedia Discussions: Over the Years, with Topic, Power and Gender Labels",
+   "authors": "V Prabhakaran, O Rambow",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Whose view of safety? A deep DIVE dataset for pluralistic alignment of text-to-image models",
+   "authors": "C Rastogi, TH Teh, P Mishra, R Patel, D Wang, M Díaz, A Parrish, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "The Reasonable Effectiveness of Diverse Evaluation Data",
+   "authors": "L Aroyo, M Díaz, C Homan, V Prabhakaran, A Taylor, D Wang",
+   "venue": "NeurIPS Workshop on Human Evaluation of Generative Models",
+   "year": "2023"
+  },
+  {
+   "title": "PaLM: Scaling Language Modeling with Pathways, October 2022",
+   "authors": "A Chowdhery, S Narang, J Devlin, M Bosma, G Mishra, A Roberts, ...",
+   "venue": "URL http://arxiv. org/abs/2204.02311",
+   "year": null
+  },
+  {
+   "title": "Diversity-Aware Annotation for Conversational AI Safety",
+   "authors": "A Parrish, V Prabhakaran, L Aroyo, M Díaz, CM Homan, G Serapio-García, ...",
+   "venue": "Proceedings of Safety4ConvAI: The Third Workshop on Safety for …",
+   "year": "2024"
+  },
+  {
+   "title": "SoUnD Framework: Analyzing (So) cial Representation in (Un) structured (D) ata",
+   "authors": "M Díaz, S Dev, E Reif, R Denton, V Prabhakaran",
+   "venue": "arXiv preprint arXiv:2311.17259",
+   "year": "2023"
+  },
+  {
+   "title": "Power of Confidence: How Poll Scores Impact Topic Dynamics in Political Debates",
+   "authors": "V Prabhakaran, A Arora, O Rambow",
+   "venue": "ACL Joint Workshop on Social Dynamics and Personal Attributes",
+   "year": "2014"
+  },
+  {
+   "title": "BeSt: The Belief and Sentiment Corpus",
+   "authors": "J Tracey, O Rambow, M Arrigo, C Cardie, A Dalton, H Dang, M Diab, ...",
+   "venue": "Language Resources and Evaluation Conference (LREC)",
+   "year": "2022"
+  },
+  {
+   "title": "Author Commitment and Social Power: Automatic Belief Tagging to Infer the Social Context of Interactions",
+   "authors": "V Prabhakaran, P Ganeshkumar, O Rambow",
+   "venue": "NAACL-HLT",
+   "year": "2018"
+  },
+  {
+   "title": "Cultural Re-contextualization of Fairness Research in Language Technologies in India",
+   "authors": "S Bhatt, S Dev, P Talukdar, S Dave, V Prabhakaran",
+   "venue": "NeurIPS Workshop on Cultures of AI and AI for Culture",
+   "year": "2022"
+  },
+  {
+   "title": "Thinking Beyond Distributions in Testing Machine Learned Models",
+   "authors": "N Rostamzadeh, B Hutchinson, C Greer, V Prabhakaran",
+   "venue": "NeurIPS 2021 Workshop on Distribution Shifts",
+   "year": "2021"
+  },
+  {
+   "title": "System and method for analysis of power relationships and interactional dominance in a conversation based on speech patterns",
+   "authors": "A John, V Prabhakaran, DD Seligmann",
+   "venue": "US Patent App. 14/036,868",
+   "year": "2014"
+  },
+  {
+   "title": "Detecting Power Relations from Written Dialog",
+   "authors": "V Prabhakaran",
+   "venue": "Association for Computational Linguistics - Student Workshop",
+   "year": "2012"
+  },
+  {
+   "title": "A Taxonomy of Rater Disagreements: Surveying Challenges & Opportunities from the Perspective of Annotating Online Toxicity",
+   "authors": "W Zhang, H Guo, ID Kivlichan, V Prabhakaran, D Yadav, A Yadav",
+   "venue": "arXiv preprint arXiv:2311.04345",
+   "year": "2023"
+  },
+  {
+   "title": "Socially Responsible NLP",
+   "authors": "Y Tsvetkov, V Prabhakaran, R Voigt",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the third workshop on abusive language online",
+   "authors": "ST Roberts, J Tetreault, V Prabhakaran, Z Talat",
+   "venue": "Proceedings of the Third Workshop on Abusive Language Online",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of the 2nd workshop on abusive language online (ALW2)",
+   "authors": "D Fišer, R Huang, V Prabhakaran, R Voigt, Z Talat, J Wernimont",
+   "venue": "Proceedings of the 2nd Workshop on Abusive Language Online (ALW2)",
+   "year": "2018"
+  },
+  {
+   "title": "Relation Mining in the Biomedical Domain using Entity-level Semantics",
+   "authors": "K Tymoshenko, S Somasundaran, V Prabhakaran, V Shet",
+   "venue": "ECAI (European Conference on Artificial Intelligence) 2012, 780-785",
+   "year": "2012"
+  },
+  {
+   "title": "GeniL: A Multilingual Dataset on Generalizing Language",
+   "authors": "A Mostafazadeh Davani, S Gubbi, S Dev, S Dave, V Prabhakaran",
+   "venue": "arXiv e-prints, arXiv: 2404.05866",
+   "year": "2024"
+  },
+  {
+   "title": "A case for moving beyond “gold data” in AI safety evaluation",
+   "authors": "D Wang, M Díaz, A Parrish, L Aroyo, C Homan, G Serapio-García, ...",
+   "venue": "Proceedings of the workshop on Human-centered Evaluation and Auditing of …",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP)",
+   "authors": "S Dev, V Prabhakaran, D Adelani, D Hovy, L Benotti",
+   "venue": "Proceedings of the First Workshop on Cross-Cultural Considerations in NLP …",
+   "year": "2023"
+  },
+  {
+   "title": "All that agrees is not gold: Evaluating ground truth labels and dialogue content for safety",
+   "authors": "D Wang, M Díaz, A Parrish, L Aroyo, C Homan, G Serapio-García, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Inheriting Discrimination: Datafication Encounters of Marginalized Workers",
+   "authors": "AM SP, R Veeraraghavan, S Kapania, V Prabhakaran, V Srinivasan, ...",
+   "venue": "Proceedings of the 2022 International Conference on Information and …",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the Fourth Workshop on Online Abuse and Harms",
+   "authors": "S Akiwowo, B Vidgen, V Prabhakaran, Z Waseem",
+   "venue": "Proceedings of the Fourth Workshop on Online Abuse and Harms",
+   "year": "2020"
+  },
+  {
+   "title": "Social Power in Interactions: Computational Analysis and Detection of Power Relations",
+   "authors": "V Prabhakaran Gourinivas",
+   "venue": "Columbia University",
+   "year": "2015"
+  },
+  {
+   "title": "Learning Structures of Negations from Flat Annotations",
+   "authors": "V Prabhakaran, B Boguraev",
+   "venue": "*SEM Conference",
+   "year": "2015"
+  },
+  {
+   "title": "A Unified Framework to Quantify Cultural Intelligence of AI",
+   "authors": "S Dev, V Prabhakaran, RC Feman, A Davani, R Denton, C Kalia, ...",
+   "venue": "arXiv preprint arXiv:2603.01211",
+   "year": "2026"
+  },
+  {
+   "title": "\" Just a Strange Pic\": Rethinking'Safety'in GenAI Image Safety Annotation Tasks from Diverse Annotators' Perspectives",
+   "authors": "D Wang, M Díaz, C Rastogi, A Davani, V Prabhakaran, P Mishra, R Patel, ...",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 8 (3 …",
+   "year": "2025"
+  },
+  {
+   "title": "Decoding Safety Feedback from Diverse Raters: A Data-driven Lens on Responsiveness to Severity",
+   "authors": "P Mishra, C Rastogi, SR Pfohl, A Parrish, TH Teh, R Patel, M Diaz, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2025"
+  },
+  {
+   "title": "Insights on Disagreement Patterns in Multimodal Safety Perception across Diverse Rater Groups",
+   "authors": "C Rastogi, TH Teh, P Mishra, R Patel, Z Ashwood, AM Davani, M Diaz, ...",
+   "venue": "Neurips Safe Generative AI Workshop 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Coming into relations: How communication reveals and persuades relational decisions",
+   "authors": "DA McFarland, D Broska, V Prabhakaran, D Jurafsky",
+   "venue": "Social Networks 79, 57-75",
+   "year": "2024"
+  },
+  {
+   "title": "De Freitas ea",
+   "authors": "R Thoppilan",
+   "venue": "LaMDA: Language models for dialog applications",
+   "year": "2022"
+  },
+  {
+   "title": "PaLM: Scaling language models with pathways. arXiv",
+   "authors": "A Chowdhery, S Narang, J Devlin, M Bosma, G Mishra, A Roberts, ...",
+   "venue": "arXiv preprint arXiv:2204.02311",
+   "year": "2022"
+  },
+  {
+   "title": "Socially Responsible Natural Language Processing",
+   "authors": "Y Tsvetkov, V Prabhakaran, R Voigt",
+   "venue": "Companion Proceedings of The 2019 World Wide Web Conference, 1326-1326",
+   "year": "2019"
+  },
+  {
+   "title": "Adaptive Data Collection for Latin-American Community-sourced Evaluation of Stereotypes (LACES)",
+   "authors": "G Ivetta, P Palombini, S Martinelli, MJ Gomez, ME Echeveste, S Dev, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 4177-4190",
+   "year": "2026"
+  },
+  {
+   "title": "Racial Disparities in the Discretionary Context of Traffic Stops: How Organizational Practices Shape Institutional Interactions",
+   "authors": "NP Camp, V Prabhakaran, RC Hetey, B Monîn, D Jurafsky, JL Eberhardt",
+   "venue": "Journal of Social Issues 81 (3), e70017",
+   "year": "2025"
+  },
+  {
+   "title": "Dealing with Disagreements: Looking Beyond the Majority Vote in Subjective Annotations.” arXiv",
+   "authors": "AM Davani, M Díaz, V Prabhakaran",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "SIG",
+   "authors": "ST Roberts, J Tetreault, V Prabhakaran, Z Waseem",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Power Networks: A Novel Neural Architecture to Predict Power Relations",
+   "authors": "M Lam, C Xu, A Kong, V Prabhakaran",
+   "venue": "SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social …",
+   "year": "2018"
+  },
+  {
+   "title": "Uncertainty learning using SVMs and CRFs",
+   "authors": "V Prabhakaran",
+   "venue": "Fourteenth Conference on Computational Natural Language Learning---Shared …",
+   "year": "2010"
+  },
+  {
+   "title": "Cultural incongruencies in artificial intelligence",
+   "authors": "P Vinodkumar, Q Rida, H Ben",
+   "venue": "CoRR",
+   "year": "2022"
+  },
+  {
+   "title": "On Releasing Annotator-Level Labels and Information in Datasets. ArXiv abs/2110.05699 (2021)",
+   "authors": "V Prabhakaran, AM Davani, MC D’iaz",
+   "venue": "URL: https://api. semanticscholar. org/CorpusID 238634705",
+   "year": "2021"
+  },
+  {
+   "title": "Cultural Compass: A Framework for Organizing Societal Norms to Detect Violations in Human-AI Conversations",
+   "authors": "M Cheng, V Prabhakaran, A Oh, H Stepanyan, A Verma, C Kalia, ...",
+   "venue": "arXiv preprint arXiv:2601.07973",
+   "year": "2026"
+  },
+  {
+   "title": "AI Agents Require Forward Alignment to Human Rights",
+   "authors": "R Javed, R Vazquez, A Rannen-Triki, LA Hendricks, T Stepleton, A Dieng, ...",
+   "venue": "Available at SSRN 6991600",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 3rd Workshop on Cross-Cultural Considerations in NLP (C3NLP 2025)",
+   "authors": "V Prabhakaran, S Dev, L Benotti, D Hershcovich, Y Cao, L Zhou, ...",
+   "venue": "Proceedings of the 3rd Workshop on Cross-Cultural Considerations in NLP …",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Cross-Cultural Considerations in NLP",
+   "authors": "V Prabhakaran, S Dev, L Benotti, D Hershcovich, LC Piqueras, Y Cao, ...",
+   "venue": "Proceedings of the 2nd Workshop on Cross-Cultural Considerations in NLP",
+   "year": "2024"
+  },
+  {
+   "title": "(Unfair) Norms in Fairness Research: A Meta-Analysis",
+   "authors": "J Chien, AS Bergman, KR McKee, N Tomasev, V Prabhakaran, R Qadri, ...",
+   "venue": "arXiv preprint arXiv:2407.16895",
+   "year": "2024"
+  },
+  {
+   "title": "Distinguishing Address vs. Reference Mentions of Personal Names in Text",
+   "authors": "V Prabhakaran, AM Davani, M Ferguson, S Atir",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 6801-6809",
+   "year": "2023"
+  },
+  {
+   "title": "Inheriting Discrimination: Datafication Encounters of Marginalized Workers.",
+   "authors": "A Meena, R Veeraraghavan, S Kapania, V Prabhakaran, V Srinivasan, ...",
+   "venue": "ICTD, 19:1-19:11",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 4th Workshop on Cross-Cultural Considerations in NLP (C3NLP 2026)",
+   "authors": "V Prabhakaran, S Dev, L Benotti, D Hershcovich, Y Cao, L Zhou, B Ma, ...",
+   "venue": "Proceedings of the 4th Workshop on Cross-Cultural Considerations in NLP …",
+   "year": "2026"
+  },
+  {
+   "title": "“AI is (not) the new..”: A Diagnostic Analogy Framework for Generative AI’s Cultural Impacts",
+   "authors": "R Qadri, V Prabhakaran, R Denton",
+   "venue": "Culture x AI: Evaluating AI as a Cultural Technology (ICML 2026)",
+   "year": "2026"
+  },
+  {
+   "title": "JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors",
+   "authors": "J Jin, J Myung, J Oh, J Park, RA Putri, S Dev, V Prabhakaran, A Oh",
+   "venue": "arXiv preprint arXiv:2605.26955",
+   "year": "2026"
+  },
+  {
+   "title": "SAFARI: A Community-Engaged Approach and Dataset of Stereotype Resources in the Sub-Saharan African Context",
+   "authors": "A Verma, L Ammah, ONN Lucas, A Zaldivar, V Prabhakaran, S Dev",
+   "venue": "7th Workshop on African Natural Language Processing",
+   "year": "2026"
+  },
+  {
+   "title": "Scaling Cultural Resources for Improving Generative Models",
+   "authors": "H Stepanyan, A Verma, A Zaldivar, RC Feman, EMM van Liemt, C Kalia, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2026, 6695-6709",
+   "year": "2026"
+  },
+  {
+   "title": "Building NLP Evaluation Resources with LLMs and Community Engagement for Scale and Depth",
+   "authors": "S Dev, A Jha, J Goyal, D Tewari, S Dave, V Prabhakaran",
+   "venue": "Deep Learning Indaba 2023",
+   "year": "2023"
+  },
+  {
+   "title": "LaMDA: Language Models for Dialog Applications",
+   "authors": "R Thoppilan, D De Freitas, J Hall, N Shazeer, A Kulshreshtha, HT Cheng, ...",
+   "venue": "arXiv preprint arXiv:2201.08239",
+   "year": "2022"
+  },
+  {
+   "title": "Power to the people? Opportunities and challenges for participatory AI,(2022)",
+   "authors": "A Birhane, W Isaac, V Prabhakaran, M Díaz, M Elish, I Gabriel, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Palm: Scaling language modeling with pathways",
+   "authors": "C Aakanksha, N Sharan, D Jacob, B Maarten, M Gaurav, R Adam, B Paul, ...",
+   "venue": "arXiv preprint arXiv: 2204.02311",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)",
+   "authors": "AM Davani, D Kiela, M Lambert, B Vidgen, V Prabhakaran, Z Talat",
+   "venue": "Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)",
+   "year": "2021"
+  },
+  {
+   "title": "SIG",
+   "authors": "ST Roberts, J Tetreault, V Prabhakaran, Z Waseem",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Reviewers for Volume 44",
+   "authors": "S Afantenos, W Luo, A Aker, W Magdy, A Albright, J May, C Allauzen, ...",
+   "venue": "Computational Linguistics 44 (4)",
+   "year": "2018"
+  },
+  {
+   "title": "How Powerful are You?: gSPIN: Bringing Power Analysis to Your Finger Tips",
+   "authors": "V Prabhakaran, M Saltzman, O Rambow",
+   "venue": "Proceedings of the 25th International Conference Companion on World Wide Web …",
+   "year": "2016"
+  },
+  {
+   "title": "3.15 Argument (ation) and Social Context",
+   "authors": "V Prabhakaran",
+   "venue": "Debating Technologies, 30",
+   "year": "2016"
+  },
+  {
+   "title": "Social Power in Interactions: Computational Analysis and Detection of Power Relations",
+   "authors": "VP Gourinivas",
+   "venue": "Columbia University",
+   "year": "2015"
+  },
+  {
+   "title": "Social Power in Interactions: Computational Analysis and Detection of Power Relations",
+   "authors": "V Prabhakaran Gourinivas",
+   "venue": "Columbia University",
+   "year": "2015"
+  },
+  {
+   "title": "Social Power in Interactions",
+   "authors": "V Prabhakaran",
+   "venue": "PhD Thesis Proposal",
+   "year": "2014"
+  },
+  {
+   "title": "Computational Linguistics+ NLP",
+   "authors": "V Prabhakaran",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Power dynamics in spoken interactions",
+   "authors": "A John, V Prabhakaran",
+   "venue": "Proceedings of the 22nd International Conference on World Wide Web",
+   "year": "2013"
+  },
+  {
+   "title": "Committed belief annotation and tagging",
+   "authors": "L Levin, V Prabhakaran, O Rambow, W Guo, T Mitamura",
+   "venue": "Proceedings of the Third Linguistic Annotation Workshop on-ACL-IJCNLP'09",
+   "year": "2009"
+  },
+  {
+   "title": "Autonomous Restructuring Portfolios in Credit Cards",
+   "authors": "V Prabhakaran",
+   "venue": "TCS Technical Architects Conference (TACTiCS)",
+   "year": "2007"
+  },
+  {
+   "title": "Decoding Safety Feedback from Diverse Raters: A Data-driven Lens on Responsiveness to Severity",
+   "authors": "A Parrish, TH Teh, R Patel, M Diaz, D Wang, M Paganini, V Prabhakaran, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Predicting Overt Display of Power in Written Dialogs",
+   "authors": "V Prabhakaran, O Rambow, M Diab",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "& Fiedel, N.(2022). Palm: Scaling language modeling with pathways",
+   "authors": "A Chowdhery, S Narang, J Devlin, M Bosma, G Mishra, A Roberts, ...",
+   "venue": "arXiv preprint arXiv:2204.02311",
+   "year": null
+  },
+  {
+   "title": "BIG DATA, TECHNOLOGY, ARTIFICIAL INTELLIGENCE, AND THE RIGHT TO HEA LT H",
+   "authors": "SLM Davis, C Williams, S Sekalala, S Dagron, L Forman, BM Meier, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,887 @@
+{
+ "user": "kV9XRxYAAAAJ",
+ "pubs": [
+  {
+   "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+   "authors": "A Wang, A Singh, J Michael, F Hill, O Levy, SR Bowman",
+   "venue": "Proceedings of ICLR",
+   "year": "2019"
+  },
+  {
+   "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+   "authors": "A Williams, N Nangia, SR Bowman",
+   "venue": "Proceedings of NAACL-HLT",
+   "year": "2018"
+  },
+  {
+   "title": "A large annotated corpus for learning natural language inference",
+   "authors": "SR Bowman, G Angeli, C Potts, CD Manning",
+   "venue": "Proceedings of EMNLP",
+   "year": "2015"
+  },
+  {
+   "title": "Constitutional AI: Harmlessness from AI feedback",
+   "authors": "Y Bai, S Kadavath, S Kundu, A Askell, J Kernion, A Jones, A Chen, ...",
+   "venue": "arXiv preprint arXiv:2212.08073",
+   "year": "2022"
+  },
+  {
+   "title": "GPQA: A graduate-level google-proof Q&A benchmark",
+   "authors": "D Rein, BL Hou, AC Stickland, J Petty, RY Pang, J Dirani, J Michael, ...",
+   "venue": "arXiv preprint arXiv:2311.12022",
+   "year": "2023"
+  },
+  {
+   "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+   "authors": "A Wang, Y Pruksachatkun, N Nangia, A Singh, J Michael, F Hill, O Levy, ...",
+   "venue": "Proceedings of NeurIPS",
+   "year": "2019"
+  },
+  {
+   "title": "Generating sentences from a continuous space",
+   "authors": "SR Bowman, L Vilnis, O Vinyals, AM Dai, R Jozefowicz, S Bengio",
+   "venue": "Proceedings of CoNLL",
+   "year": "2016"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "TMLR",
+   "year": "2023"
+  },
+  {
+   "title": "Towards understanding sycophancy in language models",
+   "authors": "M Sharma, M Tong, T Korbak, D Duvenaud, A Askell, SR Bowman, ...",
+   "venue": "ICLR 2024",
+   "year": "2023"
+  },
+  {
+   "title": "Language models don't always say what they think: Unfaithful explanations in chain-of-thought prompting",
+   "authors": "M Turpin, J Michael, E Perez, S Bowman",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2023"
+  },
+  {
+   "title": "Language models (mostly) know what they know",
+   "authors": "S Kadavath, T Conerly, A Askell, T Henighan, D Drain, E Perez, ...",
+   "venue": "arXiv preprint arXiv:2207.05221",
+   "year": "2022"
+  },
+  {
+   "title": "Neural network acceptability judgments",
+   "authors": "A Warstadt, A Singh, SR Bowman",
+   "venue": "TACL 7, 625-641",
+   "year": "2019"
+  },
+  {
+   "title": "XNLI: Evaluating Cross-lingual Sentence Representations",
+   "authors": "A Conneau, G Lample, R Rinott, A Williams, SR Bowman, H Schwenk, ...",
+   "venue": "Proceedings of EMNLP",
+   "year": "2018"
+  },
+  {
+   "title": "Annotation artifacts in natural language inference data",
+   "authors": "S Gururangan, S Swayamdipta, O Levy, R Schwartz, SR Bowman, ...",
+   "venue": "Proceedings of NAACL",
+   "year": "2018"
+  },
+  {
+   "title": "Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned",
+   "authors": "D Ganguli, L Lovitt, J Kernion, A Askell, Y Bai, S Kadavath, B Mann, ...",
+   "venue": "arXiv preprint arXiv:2209.07858",
+   "year": "2022"
+  },
+  {
+   "title": "Discovering Language Model Behaviors with Model-Written Evaluations",
+   "authors": "E Perez, S Ringer, K Lukošiūtė, K Nguyen, E Chen, S Heiner, C Pettit, ...",
+   "venue": "Proceedings of ACL",
+   "year": "2023"
+  },
+  {
+   "title": "CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models",
+   "authors": "N Nangia, C Vania, R Bhalerao, SR Bowman",
+   "venue": "Proceedings of EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "What do you learn from context? Probing for sentence structure in contextualized word representations",
+   "authors": "I Tenney, P Xia, B Chen, A Wang, A Poliak, RT McCoy, N Kim, ...",
+   "venue": "Proceedings of ICLR",
+   "year": "2019"
+  },
+  {
+   "title": "BBQ: A Hand-Built Bias Benchmark for Question Answering",
+   "authors": "A Parrish, A Chen, N Nangia, V Padmakumar, J Phang, J Thompson, ...",
+   "venue": "Findings of ACL",
+   "year": "2022"
+  },
+  {
+   "title": "On Measuring Social Biases in Sentence Encoders",
+   "authors": "C May, A Wang, S Bordia, SR Bowman, R Rudinger",
+   "venue": "Proceedings of NAACL-HLT",
+   "year": "2019"
+  },
+  {
+   "title": "BLiMP: A benchmark of linguistic minimal pairs for english",
+   "authors": "A Warstadt, A Parrish, H Liu, A Mohananey, W Peng, SF Wang, ...",
+   "venue": "TACL",
+   "year": "2020"
+  },
+  {
+   "title": "LLM evaluators recognize and favor their own generations",
+   "authors": "A Panickssery, SR Bowman, S Feng",
+   "venue": "arXiv preprint arXiv:2404.13076",
+   "year": "2024"
+  },
+  {
+   "title": "Measuring faithfulness in chain-of-thought reasoning",
+   "authors": "T Lanham, A Chen, A Radhakrishnan, B Steiner, C Denison, ...",
+   "venue": "arXiv preprint arXiv:2307.13702",
+   "year": "2023"
+  },
+  {
+   "title": "Sleeper Agents: Training deceptive LLMs that persist through safety training",
+   "authors": "E Hubinger, C Denison, J Mu, M Lambert, M Tong, M MacDiarmid, ...",
+   "venue": "arXiv preprint arXiv:2401.05566",
+   "year": "2024"
+  },
+  {
+   "title": "Universal Dependencies 2.2",
+   "authors": "J Nivre, M Abrams, Ž Agić, L Ahrenberg, L Antonsen, MJ Aranzabe, ...",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Alignment faking in large language models",
+   "authors": "R Greenblatt, C Denison, B Wright, F Roger, M MacDiarmid, S Marks, ...",
+   "venue": "arXiv preprint arXiv:2412.14093 2 (1)",
+   "year": "2024"
+  },
+  {
+   "title": "Sentence encoders on STILTs: Supplementary training on intermediate labeled-data tasks",
+   "authors": "J Phang, T Févry, SR Bowman",
+   "venue": "arXiv preprint 1811.01088",
+   "year": "2018"
+  },
+  {
+   "title": "Reasoning models don't always say what they think",
+   "authors": "Y Chen, J Benton, A Radhakrishnan, J Uesato, C Denison, J Schulman, ...",
+   "venue": "arXiv preprint arXiv:2505.05410",
+   "year": "2025"
+  },
+  {
+   "title": "Many-shot jailbreaking",
+   "authors": "C Anil, E Durmus, N Panickssery, M Sharma, J Benton, S Kundu, J Batson, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 129696-129742",
+   "year": "2024"
+  },
+  {
+   "title": "Identifying and Reducing Gender Bias in Word-Level Language Models",
+   "authors": "S Bordia, SR Bowman",
+   "venue": "Proceedings of the NAACL-HLT Student Research Workshop",
+   "year": "2019"
+  },
+  {
+   "title": "A Fast Unified Model for Parsing and Sentence Understanding",
+   "authors": "SR Bowman, J Gauthier, A Rastogi, R Gupta, CD Manning, C Potts",
+   "venue": "Proceedings of ACL",
+   "year": "2016"
+  },
+  {
+   "title": "A Gold Standard Dependency Corpus for English",
+   "authors": "N Silveira, T Dozat, MC de Marneffe, SR Bowman, M Connor, J Bauer, ...",
+   "venue": "Proceedings of LREC",
+   "year": "2014"
+  },
+  {
+   "title": "Debating with More Persuasive LLMs Leads to More Truthful Answers",
+   "authors": "A Khan, J Hughes, D Valentine, L Ruis, K Sachan, A Radhakrishnan, ...",
+   "venue": "Proceedings of ICML",
+   "year": "2024"
+  },
+  {
+   "title": "Studying large language model generalization with influence functions",
+   "authors": "R Grosse, J Bae, C Anil, N Elhage, A Tamkin, A Tajdini, B Steiner, D Li, ...",
+   "venue": "arXiv preprint arXiv:2308.03296",
+   "year": "2023"
+  },
+  {
+   "title": "GLUE: A multi-task benchmark and analysis platform for natural language understanding. 2019",
+   "authors": "A Wang, A Singh, J Michael, F Hill, O Levy, SR Bowman",
+   "venue": "the Proceedings of ICLR 2 (2)",
+   "year": "1804"
+  },
+  {
+   "title": "Intermediate-Task Transfer Learning with Pretrained Models for Natural Language Understanding: When and Why Does It Work?",
+   "authors": "Y Pruksachatkun, J Phang, H Liu, PM Htut, X Zhang, RY Pang, C Vania, ...",
+   "venue": "Proceedings of ACL",
+   "year": "2020"
+  },
+  {
+   "title": "What Will it Take to Fix Benchmarking in Natural Language Understanding?",
+   "authors": "SR Bowman, GE Dahl",
+   "venue": "Proceedings of NAACL",
+   "year": "2021"
+  },
+  {
+   "title": "Pretraining language models with human preferences",
+   "authors": "T Korbak, K Shi, A Chen, R Bhalerao, CL Buckley, J Phang, SR Bowman, ...",
+   "venue": "Proceedings of ICML",
+   "year": "2023"
+  },
+  {
+   "title": "Eight Things to Know about Large Language Models",
+   "authors": "SR Bowman",
+   "venue": "arXiv e-prints",
+   "year": "2023"
+  },
+  {
+   "title": "Measuring progress on scalable oversight for large language models",
+   "authors": "SR Bowman, J Hyun, E Perez, E Chen, C Pettit, S Heiner, K Lukošiūtė, ...",
+   "venue": "arXiv preprint arXiv:2211.03540",
+   "year": "2022"
+  },
+  {
+   "title": "QuALITY: Question Answering with Long Input Texts, Yes!",
+   "authors": "RY Pang, A Parrish, N Joshi, N Nangia, J Phang, A Chen, V Padmakumar, ...",
+   "venue": "Proceedings of NAACL",
+   "year": "2022"
+  },
+  {
+   "title": "The capacity for moral self-correction in large language models",
+   "authors": "D Ganguli, A Askell, N Schiefer, TI Liao, K Lukošiūtė, A Chen, A Goldie, ...",
+   "venue": "arXiv preprint arXiv:2302.07459",
+   "year": "2023"
+  },
+  {
+   "title": "Inverse Scaling: When Bigger Isn't Better",
+   "authors": "IR McKenzie, A Lyzhov, M Pieler, A Parrish, A Mueller, A Prabhu, ...",
+   "venue": "TMLR",
+   "year": "2024"
+  },
+  {
+   "title": "Sycophancy to subterfuge: Investigating reward-tampering in large language models",
+   "authors": "C Denison, M MacDiarmid, F Barez, D Duvenaud, S Kravec, S Marks, ...",
+   "venue": "arXiv preprint arXiv:2406.10162",
+   "year": "2024"
+  },
+  {
+   "title": "What artificial neural networks can tell us about human language acquisition",
+   "authors": "A Warstadt, SR Bowman",
+   "venue": "Algebraic structures in natural language 17",
+   "year": "2022"
+  },
+  {
+   "title": "Instruction induction: From few examples to natural language task descriptions",
+   "authors": "O Honovich, U Shaham, SR Bowman, O Levy",
+   "venue": "Proceedings of ACL",
+   "year": "2023"
+  },
+  {
+   "title": "Let's think dot by dot: Hidden computation in transformer language models",
+   "authors": "J Pfau, W Merrill, SR Bowman",
+   "venue": "arXiv preprint arXiv:2404.15758",
+   "year": "2024"
+  },
+  {
+   "title": "Towards understanding sycophancy in language models, 2023",
+   "authors": "M Sharma, M Tong, T Korbak, D Duvenaud, A Askell, SR Bowman, ...",
+   "venue": "URL https://arxiv. org/abs/2310.13548 2 (5), 32",
+   "year": "2023"
+  },
+  {
+   "title": "Recursive Neural Networks Can Learn Logical Semantics",
+   "authors": "SR Bowman, C Potts, CD Manning",
+   "venue": "Proceedings of the 3rd Workshop on Continuous Vector Space Models and their …",
+   "year": "2015"
+  },
+  {
+   "title": "When Do You Need Billions of Words of Pretraining Data?",
+   "authors": "Y Zhang, A Warstadt, HS Li, SR Bowman",
+   "venue": "Proceedings of ACL",
+   "year": "2020"
+  },
+  {
+   "title": "Constitutional classifiers: Defending against universal jailbreaks across thousands of hours of red teaming",
+   "authors": "M Sharma, M Tong, J Mu, J Wei, J Kruthoff, S Goodfriend, E Ong, A Peng, ...",
+   "venue": "arXiv preprint arXiv:2501.18837",
+   "year": "2025"
+  },
+  {
+   "title": "Do Attention Heads in BERT Track Syntactic Dependencies?",
+   "authors": "P Mon Htut, J Phang, S Bordia, SR Bowman",
+   "venue": "arXiv preprint 1911.12246",
+   "year": "2019"
+  },
+  {
+   "title": "Language Modeling Teaches You More than Translation Does: Lessons Learned Through Auxiliary Task Analysis",
+   "authors": "K Zhang, S Bowman",
+   "venue": "Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and …",
+   "year": "2018"
+  },
+  {
+   "title": "ListOps: A Diagnostic Dataset for Latent Tree Learning",
+   "authors": "N Nangia, SR Bowman",
+   "venue": "Proceedings of the NAACL-HLT Student Research Workshop",
+   "year": "2018"
+  },
+  {
+   "title": "Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually)",
+   "authors": "A Warstadt, Y Zhang, HS Li, H Liu, SR Bowman",
+   "venue": "Proceedings of EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs",
+   "authors": "A Warstadt, Y Cao, I Grosu, W Peng, H Blix, Y Nie, A Alsop, S Bordia, ...",
+   "venue": "Proceedings of EMNLP",
+   "year": "2019"
+  },
+  {
+   "title": "Do latent tree learning models identify meaningful structure in sentences?",
+   "authors": "A Williams, A Drozdov, SR Bowman",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 253-267",
+   "year": "2018"
+  },
+  {
+   "title": "Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling",
+   "authors": "A Wang, J Hula, P Xia, R Pappagari, RT McCoy, R Patel, N Kim, I Tenney, ...",
+   "venue": "Proceedings of ACL, 4465-4476",
+   "year": "2019"
+  },
+  {
+   "title": "Alignment faking in large language models, 2024",
+   "authors": "R Greenblatt, C Denison, B Wright, F Roger, M MacDiarmid, S Marks, ...",
+   "venue": "URL https://arxiv. org/abs/2412.14093",
+   "year": "2024"
+  },
+  {
+   "title": "Probing What Different NLP Tasks Teach Machines about Function Word Comprehension",
+   "authors": "N Kim, R Patel, A Poliak, A Wang, P Xia, RT McCoy, I Tenney, A Ross, ...",
+   "venue": "Proceedings of *SEM",
+   "year": "2019"
+  },
+  {
+   "title": "Language models learn to mislead humans via rlhf",
+   "authors": "J Wen, R Zhong, A Khan, E Perez, J Steinhardt, M Huang, S Bowman, ...",
+   "venue": "International Conference on Learning Representations 2025, 74670-74692",
+   "year": "2025"
+  },
+  {
+   "title": "Human vs. Muppet: A Conservative Estimate of Human Performance on the GLUE Benchmark",
+   "authors": "N Nangia, SR Bowman",
+   "venue": "Proceedings of ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Discourse-based objectives for fast unsupervised sentence representation learning",
+   "authors": "Y Jernite, SR Bowman, D Sontag",
+   "venue": "arXiv preprint 1705.00557",
+   "year": "2017"
+  },
+  {
+   "title": "The RepEval 2017 shared task: Multi-genre natural language inference with sentence representations",
+   "authors": "N Nangia, A Williams, A Lazaridou, SR Bowman",
+   "venue": "Proceedings of RepEval 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Improving code generation by training with natural language feedback",
+   "authors": "A Chen, J Scheurer, T Korbak, JA Campos, JS Chan, SR Bowman, K Cho, ...",
+   "venue": "arXiv preprint arXiv:2303.16749",
+   "year": "2023"
+  },
+  {
+   "title": "jiant: A software toolkit for research on general-purpose text understanding models",
+   "authors": "A Wang, IF Tenney, Y Pruksachatkun, K Yu, J Hula, P Xia, R Pappagari, ...",
+   "venue": "http://jiant.info/",
+   "year": "2019"
+  },
+  {
+   "title": "Natural emergent misalignment from reward hacking in production RL",
+   "authors": "M MacDiarmid, B Wright, J Uesato, J Benton, J Kutasov, S Price, ...",
+   "venue": "arXiv preprint arXiv:2511.18397",
+   "year": "2025"
+  },
+  {
+   "title": "Debate helps supervise unreliable experts",
+   "authors": "J Michael, S Mahdi, D Rein, J Petty, J Dirani, V Padmakumar, ...",
+   "venue": "arXiv preprint arXiv:2311.08702",
+   "year": "2023"
+  },
+  {
+   "title": "Question decomposition improves the faithfulness of model-generated reasoning",
+   "authors": "A Radhakrishnan, K Nguyen, A Chen, C Chen, C Denison, D Hernandez, ...",
+   "venue": "arXiv preprint arXiv:2307.11768",
+   "year": "2023"
+  },
+  {
+   "title": "Can neural networks acquire a structural bias from raw linguistic data?",
+   "authors": "A Warstadt, SR Bowman",
+   "venue": "Proceedings of CogSci",
+   "year": "2020"
+  },
+  {
+   "title": "SQuALITY: Building a long-document summarization dataset the hard way",
+   "authors": "A Wang, RY Pang, A Chen, J Phang, SR Bowman",
+   "venue": "Findings of EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "Comparing Test Sets with Item Response Theory",
+   "authors": "C Vania, PM Htut, W Huang, D Mungra, RY Pang, J Phang, H Liu, K Cho, ...",
+   "venue": "Proceedings of ACL",
+   "year": "2021"
+  },
+  {
+   "title": "Tree-structured composition in neural networks without tree-structured architectures",
+   "authors": "SR Bowman, CD Manning, C Potts",
+   "venue": "Proceedings of the NIPS Workshop on Cognitive Computation: Integrating …",
+   "year": "2015"
+  },
+  {
+   "title": "Simple probes can catch sleeper agents",
+   "authors": "M MacDiarmid, T Maxwell, N Schiefer, J Mu, J Kaplan, D Duvenaud, ...",
+   "venue": "https://www.anthropic.com/news/probes-catch-sleeper-agents",
+   "year": "2024"
+  },
+  {
+   "title": "English Intermediate-Task Training Improves Zero-Shot Cross-Lingual Transfer Too",
+   "authors": "J Phang, PM Htut, Y Pruksachatkun, H Liu, C Vania, K Kann, I Calixto, ...",
+   "venue": "Proceedings of AACL",
+   "year": "2020"
+  },
+  {
+   "title": "Auditing language models for hidden objectives",
+   "authors": "S Marks, J Treutlein, T Bricken, J Lindsey, J Marcus, S Mishra-Sharma, ...",
+   "venue": "arXiv preprint arXiv:2503.10965",
+   "year": "2025"
+  },
+  {
+   "title": "Artificial neural network language models predict human brain responses to language even after a developmentally realistic amount of training",
+   "authors": "EA Hosseini, M Schrimpf, Y Zhang, S Bowman, N Zaslavsky, E Fedorenko",
+   "venue": "Neurobiology of Language 5 (1), 43-63",
+   "year": "2024"
+  },
+  {
+   "title": "Two failures of self-consistency in the multi-step reasoning of llms",
+   "authors": "A Chen, J Phang, A Parrish, V Padmakumar, C Zhao, SR Bowman, K Cho",
+   "venue": "TMLR",
+   "year": "2024"
+  },
+  {
+   "title": "Verb argument structure alternations in word and sentence embeddings",
+   "authors": "K Kann, A Warstadt, A Williams, SR Bowman",
+   "venue": "Proceedings of SCiL",
+   "year": "2018"
+  },
+  {
+   "title": "Speech recognition with segmental conditional random fields: A summary of the JHU CLSP 2010 summer workshop",
+   "authors": "G Zweig, P Nguyen, D Van Compernolle, K Demuynck, L Atlas, P Clark, ...",
+   "venue": "Proceedings of ICASSP, 5044-5047",
+   "year": "2011"
+  },
+  {
+   "title": "Sabotage evaluations for frontier models",
+   "authors": "J Benton, M Wagner, E Christiansen, C Anil, E Perez, J Srivastav, ...",
+   "venue": "arXiv preprint arXiv:2410.21514",
+   "year": "2024"
+  },
+  {
+   "title": "The Dangers of Underclaiming: Reasons for Caution When Reporting How NLP Systems Fail",
+   "authors": "S Bowman",
+   "venue": "Proceedings of ACL, 7484-7499",
+   "year": "2022"
+  },
+  {
+   "title": "What do NLP researchers believe? Results of the NLP community metasurvey",
+   "authors": "J Michael, A Holtzman, A Parrish, A Mueller, A Wang, A Chen, D Madaan, ...",
+   "venue": "ACL 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Does Putting a Linguist in the Loop Improve NLU Data Collection?",
+   "authors": "A Parrish, W Huang, O Agha, SH Lee, N Nangia, A Warstadt, K Aggarwal, ...",
+   "venue": "Findings of EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "Grammar Induction with Neural Language Models: An Unusual Replication",
+   "authors": "PM Htut, K Cho, SR Bowman",
+   "venue": "Proceedings of EMNLP",
+   "year": "2018"
+  },
+  {
+   "title": "Training a ranking function for open-domain question answering",
+   "authors": "PM Htut, SR Bowman, K Cho",
+   "venue": "Proceedings of the NAACL Student Research Workshop",
+   "year": "2018"
+  },
+  {
+   "title": "Alignment faking in large language models. arXiv",
+   "authors": "R Greenblatt, C Denison, B Wright, F Roger, M MacDiarmid, S Marks, ...",
+   "venue": "Ji, M. Liu, J. Dai, et al. BeaverTails: Towards improved safety alignment of …",
+   "year": "2024"
+  },
+  {
+   "title": "Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set",
+   "authors": "K Kann, K Cho, SR Bowman",
+   "venue": "Proceedings of EMNLP",
+   "year": "2019"
+  },
+  {
+   "title": "Ruminating reader: Reasoning with gated multi-hop attention",
+   "authors": "Y Gong, SR Bowman",
+   "venue": "Proceedings of the Workshop on Machine Reading for Question Answering",
+   "year": "2018"
+  },
+  {
+   "title": "QA^2: Question Answering with Questionable Assumptions",
+   "authors": "N Kim, PM Htut, SR Bowman, J Petty",
+   "venue": "ACL 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Studying large language model generalization with influence functions, 2023",
+   "authors": "R Grosse, J Bae, C Anil, N Elhage, A Tamkin, A Tajdini, B Steiner, D Li, ...",
+   "venue": "URL https://arxiv. org/abs/2308.03296",
+   "year": null
+  },
+  {
+   "title": "Grammatical Analysis of Pretrained Sentence Encoders with Acceptability Judgments",
+   "authors": "A Warstadt, SR Bowman",
+   "venue": "arXiv preprint 1901.03438",
+   "year": "2019"
+  },
+  {
+   "title": "Llm evaluators recognize and favor their own generations, 2024",
+   "authors": "A Panickssery, SR Bowman, S Feng",
+   "venue": "URL https://arxiv. org/abs/2404.13076",
+   "year": null
+  },
+  {
+   "title": "Steering Without Side Effects: Improving Post-Deployment Control of Language Models",
+   "authors": "A Cooper Stickland, A Lyzhov, J Pfau, S Mahdi, SR Bowman",
+   "venue": "arXiv e-prints, arXiv: 2406.15518",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating feature steering: A case study in mitigating social biases",
+   "authors": "E Durmus, A Tamkin, J Clark, J Wei, J Marcus, J Batson, K Handa, L Lovitt, ...",
+   "venue": "Anthropic Research",
+   "year": "2024"
+  },
+  {
+   "title": "Artificial neural network language models align neurally and behaviorally with humans even after a developmentally realistic amount of training",
+   "authors": "EA Hosseini, M Schrimpf, Y Zhang, S Bowman, N Zaslavsky, E Fedorenko",
+   "venue": "BioRxiv, 2022.10. 04.510681",
+   "year": "2022"
+  },
+  {
+   "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+   "authors": "J Phang, H Liu, SR Bowman",
+   "venue": "Proceedings of BlackBoxNLP",
+   "year": "2021"
+  },
+  {
+   "title": "Counterfactually-Augmented SNLI Training Data Does Not Yield Better Generalization Than Unaugmented Data",
+   "authors": "W Huang, H Liu, SR Bowman",
+   "venue": "Proceedings of the Workshop on Insights from Negative Results in NLP",
+   "year": "2020"
+  },
+  {
+   "title": "Detecting and explaining crisis",
+   "authors": "R Kshirsagar, R Morris, SR Bowman",
+   "venue": "Proceedings of CLPsych",
+   "year": "2017"
+  },
+  {
+   "title": "Can recursive neural tensor networks learn logical reasoning?",
+   "authors": "SR Bowman",
+   "venue": "arXiv preprint 1312.6192",
+   "year": "2013"
+  },
+  {
+   "title": "NOPE: A corpus of naturally-occurring presuppositions in English",
+   "authors": "A Parrish, S Schuster, A Warstadt, O Agha, SH Lee, Z Zhao, SR Bowman, ...",
+   "venue": "Proceedings of CoNLL",
+   "year": "2021"
+  },
+  {
+   "title": "Sycophancy to subterfuge: Investigating reward-tampering in large language models, 2024",
+   "authors": "C Denison, M MacDiarmid, F Barez, D Duvenaud, S Kravec, S Marks, ...",
+   "venue": "URL https://arxiv. org/abs/2406.10162 2",
+   "year": null
+  },
+  {
+   "title": "Learning from Natural Language Feedback",
+   "authors": "A Chen, J Scheurer, JA Campos, T Korbak, JS Chan, SR Bowman, K Cho, ...",
+   "venue": "TMLR",
+   "year": null
+  },
+  {
+   "title": "A Stable and Effective Learning Strategy for Trainable Greedy Decoding",
+   "authors": "Y Chen, VOK Li, K Cho, SR Bowman",
+   "venue": "Proceedings of EMNLP",
+   "year": "2018"
+  },
+  {
+   "title": "Bias-augmented consistency training reduces biased reasoning in chain-of-thought",
+   "authors": "J Chua, E Rees, H Batra, SR Bowman, J Michael, E Perez, M Turpin",
+   "venue": "arXiv preprint arXiv:2403.05518",
+   "year": "2024"
+  },
+  {
+   "title": "What Ingredients Make for an Effective Crowdsourcing Protocol for Difficult NLU Data Collection Tasks?",
+   "authors": "N Nangia, S Sugawara, H Trivedi, A Warstadt, C Vania, SR Bowman",
+   "venue": "Proceedings of ACL",
+   "year": "2021"
+  },
+  {
+   "title": "Learning Distributed Word Representations for Natural Logic Reasoning",
+   "authors": "SR Bowman, C Potts, CD Manning",
+   "venue": "Proceedings of the AAAI Spring Symposium on Knowledge Representation and …",
+   "year": "2014"
+  },
+  {
+   "title": "Auditbench: Evaluating alignment auditing techniques on models with hidden behaviors",
+   "authors": "A Sheshadri, A Ewart, K Fronsdal, I Gupta, SR Bowman, S Price, S Marks, ...",
+   "venue": "arXiv preprint arXiv:2602.22755",
+   "year": "2026"
+  },
+  {
+   "title": "Single-Turn Debate Does Not Help Humans Answer Hard Reading-Comprehension Questions",
+   "authors": "A Parrish, H Trivedi, E Perez, A Chen, N Nangia, J Phang, SR Bowman",
+   "venue": "Proceedings of LNLS",
+   "year": "2022"
+  },
+  {
+   "title": "Language models (mostly) know what they know. arXiv",
+   "authors": "S Kadavath, T Conerly, A Askell, T Henighan, D Drain, E Perez, ...",
+   "venue": "arXiv preprint arXiv:2207.05221 10",
+   "year": "2022"
+  },
+  {
+   "title": "New Protocols and Negative Results for Textual Entailment Data Collection",
+   "authors": "SR Bowman, J Palomaki, LB Soares, E Pitler",
+   "venue": "Proceedings of EMNLP, 8203-8214",
+   "year": "2020"
+  },
+  {
+   "title": "Can Unconditional Language Models Recover Arbitrary Sentences?",
+   "authors": "N Subramani, S Bowman, K Cho",
+   "venue": "Proceedings of NeurIPS",
+   "year": "2019"
+  },
+  {
+   "title": "Idiosyncratically transparent vowels in Kazakh",
+   "authors": "SR Bowman, B Lokshin",
+   "venue": "Proceedings of the Annual Meeting on Phonology",
+   "year": "2013"
+  },
+  {
+   "title": "Spontaneous reward hacking in iterative self-refinement",
+   "authors": "J Pan, H He, SR Bowman, S Feng",
+   "venue": "arXiv preprint arXiv:2407.04549",
+   "year": "2024"
+  },
+  {
+   "title": "ScoNe: Benchmarking negation reasoning in language models with fine-tuning and in-context learning",
+   "authors": "JS She, C Potts, SR Bowman, A Geiger",
+   "venue": "Proceedings of ACL",
+   "year": "2023"
+  },
+  {
+   "title": "SocioProbe: What, when, and where language models learn about sociodemographics",
+   "authors": "A Lauscher, F Bianchi, S Bowman, D Hovy",
+   "venue": "Proceedings of EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "Two-Turn Debate Doesn't Help Humans Answer Hard Reading Comprehension Questions",
+   "authors": "A Parrish, H Trivedi, N Nangia, V Padmakumar, J Phang, AS Saimbhi, ...",
+   "venue": "NeurIPS ML Safety Workshop",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling natural language semantics in learned representations",
+   "authors": "SR Bowman",
+   "venue": "PhD Thesis, Stanford University",
+   "year": "2016"
+  },
+  {
+   "title": "Deep Learning for Natural Language Inference",
+   "authors": "S Bowman, X Zhu",
+   "venue": "NAACL-HLT Tutorial, 6-8",
+   "year": "2019"
+  },
+  {
+   "title": "Automatic Animacy Classification",
+   "authors": "SR Bowman, H Chopra",
+   "venue": "Proceedings of the NAACL-HLT Student Research Workshop",
+   "year": "2012"
+  },
+  {
+   "title": "What Makes Reading Comprehension Questions Difficult?",
+   "authors": "S Sugawara, N Nangia, A Warstadt, SR Bowman",
+   "venue": "Proceedings of ACL",
+   "year": "2022"
+  },
+  {
+   "title": "Clean or annotate: How to spend a limited data collection budget",
+   "authors": "D Chen, Z Yu, S Bowman",
+   "venue": "Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural …",
+   "year": "2022"
+  },
+  {
+   "title": "Adversarially constructed evaluation sets are more challenging, but may not be fair",
+   "authors": "J Phang, A Chen, W Huang, SR Bowman",
+   "venue": "arXiv preprint arXiv:2111.08181",
+   "year": "2021"
+  },
+  {
+   "title": "Future events as backdoor triggers: Investigating temporal vulnerabilities in LLMs",
+   "authors": "S Price, A Panickssery, S Bowman, AC Stickland",
+   "venue": "arXiv preprint arXiv:2407.04108",
+   "year": "2024"
+  },
+  {
+   "title": "Bloom: an open source tool for automated behavioral evaluations",
+   "authors": "I Gupta, K Fronsdal, A Sheshadri, J Michala, J Tay, R Wang, SR Bowman, ...",
+   "venue": "Anthropic Alignment",
+   "year": "2025"
+  },
+  {
+   "title": "Constitutional AI: Harmlessness from AI Feedback, December 2022",
+   "authors": "Y Bai, S Kadavath, S Kundu, A Askell, J Kernion, A Jones, A Chen, ...",
+   "venue": "URL http://arxiv. org/abs/2212.08073 1",
+   "year": null
+  },
+  {
+   "title": "Precise Task Formalization Matters in Winograd Schema Evaluations",
+   "authors": "H Liu, W Huang, DA Mungra, SR Bowman",
+   "venue": "Proceedings of EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Asking Crowdworkers to Write Entailment Examples: The Best of Bad Options",
+   "authors": "C Vania, R Chen, SR Bowman",
+   "venue": "Proceedings of AACL",
+   "year": "2020"
+  },
+  {
+   "title": "Crowdsourcing Beyond Annotation: Case Studies in Benchmark Data Collection",
+   "authors": "A Suhr, C Vania, N Nangia, M Sap, M Yatskar, S Bowman, Y Artzi",
+   "venue": "EMNLP 2021 Tutorial, 1-6",
+   "year": "2021"
+  },
+  {
+   "title": "Two arguments for vowel harmony by trigger competition",
+   "authors": "SR Bowman",
+   "venue": "Proceedings of CLS 49",
+   "year": "2013"
+  },
+  {
+   "title": "The Lifted Matrix-Space Model for Semantic Composition",
+   "authors": "WJ Chung, SF Wang, SR Bowman",
+   "venue": "Proceedings of CoNLL",
+   "year": "2018"
+  },
+  {
+   "title": "Learning to learn morphological inflection for resource-poor languages",
+   "authors": "K Kann, SR Bowman, K Cho",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (05), 8058-8065",
+   "year": "2020"
+  },
+  {
+   "title": "Modeling pronunciation variation with context-dependent articulatory feature decision trees",
+   "authors": "SR Bowman, K Livescu",
+   "venue": "Proceedings of INTERSPEECH, 326-329",
+   "year": "2010"
+  },
+  {
+   "title": "Neural unsupervised parsing beyond English",
+   "authors": "K von der Wense, A Mohananey, S Bowman, K Cho",
+   "venue": "Proceedings of the 2nd Workshop on Deep Learning Approaches for Low-Resource …",
+   "year": "2019"
+  },
+  {
+   "title": "Sequential Attention: A Context-Aware Alignment Function for Machine Reading",
+   "authors": "S Brarda, P Yeres, SR Bowman",
+   "venue": "Proceedings of the Second Workshop on Representation Learning for NLP (RepL4NLP)",
+   "year": "2017"
+  },
+  {
+   "title": "Inducing constituency trees through neural machine translation",
+   "authors": "PM Htut, K Cho, SR Bowman",
+   "venue": "arXiv preprint arXiv:1909.10056",
+   "year": "2019"
+  },
+  {
+   "title": "Self-Training for Unsupervised Parsing with PRPN",
+   "authors": "A Mohananey, K Kann, SR Bowman",
+   "venue": "Proceedings of IWPT",
+   "year": "2020"
+  },
+  {
+   "title": "Artificial neural network language models predict human brain responses to language even after a developmentally realistic amount of training",
+   "authors": "EA Hosseini, M Schrimpf, Y Zhang, S Bowman, N Zaslavsky, E Fedorenko",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "A Perspective on Natural Language Understanding Capability: An Interview with Sam Bowman",
+   "authors": "V Dhar, S Bowman",
+   "venue": "Big Data 5 (1), 5–11",
+   "year": "2017"
+  },
+  {
+   "title": "Transparent vowels in ABC: open issues",
+   "authors": "SR Bowman",
+   "venue": "ABC↔Conference",
+   "year": "2014"
+  },
+  {
+   "title": "Vowel harmony, opacity, and finite-state OT",
+   "authors": "SR Bowman",
+   "venue": "The University of Chicago, 1-29",
+   "year": "2011"
+  },
+  {
+   "title": "Data for\" Inverse Scaling: When Bigger Isn't Better\"",
+   "authors": "I McKenzie, SR Bowman, E Perez",
+   "venue": "TMLR",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the Workshop on the Relevance of Linguistic Structure in Neural Architectures for NLP",
+   "authors": "G Dinu, M Ballesteros, A Sil, S Bowman, W Hamza, A Søgaard, T Naseem, ...",
+   "venue": "Proceedings of the Workshop on the Relevance of Linguistic Structure in …",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Evaluating Vector Space Representations for NLP",
+   "authors": "SR Bowman, Y Goldberg, F Hill, A Lazaridou, O Levy, R Reichart, ...",
+   "venue": "Proceedings of the 2nd Workshop on Evaluating Vector Space Representations …",
+   "year": "2017"
+  },
+  {
+   "title": "Seto vowel harmony and neutral vowels",
+   "authors": "S Bowman",
+   "venue": "Linguistic Society of America 86th Annual Meeting",
+   "year": "2013"
+  },
+  {
+   "title": "Linguistic and social effects on perceptions of voice onset time in Korean stops",
+   "authors": "R Podesva, A D'Onofrio, E Acton, S Bowman, J Calder, HC Chen, ...",
+   "venue": "The Journal of the Acoustical Society of America 132 (3_Supplement), 1966-1966",
+   "year": "2012"
+  },
+  {
+   "title": "Measuring Amok",
+   "authors": "R Futrell, S Bowman",
+   "venue": "",
+   "year": "2012"
+  }
+ ]
+}

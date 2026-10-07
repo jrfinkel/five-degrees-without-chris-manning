@@ -1,0 +1,323 @@
+{
+ "user": "qH-rJV8AAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "The Risk of Racial Bias in Hate Speech Detection",
+   "authors": "M Sap, D Card, S Gabriel, Y Choi, NA Smith",
+   "venue": "The 57th Annual Meeting of the Association for Computational Linguistics",
+   "year": "2019"
+  },
+  {
+   "title": "The values encoded in machine learning research",
+   "authors": "A Birhane, P Kalluri, D Card, W Agnew, R Dotan, M Bao",
+   "venue": "2022 ACM Conference on Fairness, Accountability, and Transparency, 173-184",
+   "year": "2022"
+  },
+  {
+   "title": "Show your work: Improved reporting of experimental results",
+   "authors": "J Dodge, S Gururangan, D Card, R Schwartz, NA Smith",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "The media frames corpus: Annotations of frames across issues",
+   "authors": "D Card, AE Boydstun, JH Gross, P Resnik, NA Smith",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration",
+   "authors": "D Card, S Chang, C Becker, J Mendelsohn, R Voigt, L Boustan, ...",
+   "venue": "Proceedings of the National Academy of Sciences 119 (31), e2120510119",
+   "year": "2022"
+  },
+  {
+   "title": "Neural Models for Documents with Metadata",
+   "authors": "D Card, C Tan, NA Smith",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "With little power comes great responsibility",
+   "authors": "D Card, P Henderson, U Khandelwal, R Jia, K Mahowald, D Jurafsky",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Variational pretraining for semi-supervised text classification",
+   "authors": "S Gururangan, T Dang, D Card, NA Smith",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Problems with cosine as a measure of embedding similarity for high frequency words",
+   "authors": "K Zhou, K Ethayarajh, D Card, D Jurafsky",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "DeSMOG: Detecting Stance in Media On Global Warming",
+   "authors": "Y Luo, D Card, D Jurafsky",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Quantitative MRI in the very preterm brain: assessing tissue organization and myelination using magnetization transfer, diffusion tensor and T1 imaging",
+   "authors": "R Nossin-Manor, D Card, D Morris, S Noormohamed, MM Shroff, ...",
+   "venue": "Neuroimage 64, 505-516",
+   "year": "2013"
+  },
+  {
+   "title": "Analyzing framing through the casts of characters in the news",
+   "authors": "D Card, J Gross, A Boydstun, NA Smith",
+   "venue": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "Whose language counts as high quality? measuring language ideologies in text data selection",
+   "authors": "S Gururangan, D Card, SK Dreier, EK Gade, LZ Wang, Z Wang, ...",
+   "venue": "arXiv preprint arXiv:2201.10474",
+   "year": "2022"
+  },
+  {
+   "title": "Causal effects of linguistic properties",
+   "authors": "R Pryzant, D Card, D Jurafsky, V Veitch, D Sridhar",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Deep grey matter growth predicts neurodevelopmental outcomes in very preterm children",
+   "authors": "JM Young, TL Powell, BR Morgan, D Card, W Lee, ML Smith, JG Sled, ...",
+   "venue": "Neuroimage 111, 360-368",
+   "year": "2015"
+  },
+  {
+   "title": "Tracking the development of media frames within and across policy issues",
+   "authors": "AE Boydstun, D Card, J Gross, P Resnick, NA Smith",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Self-injurious behaviours are associated with alterations in the somatosensory system in children with autism spectrum disorder",
+   "authors": "EG Duerden, D Card, SW Roberts, KM Mak-Fan, MM Chakravarty, ...",
+   "venue": "Brain structure and function 219 (4), 1251-1261",
+   "year": "2014"
+  },
+  {
+   "title": "On Consequentialism and Fairness",
+   "authors": "D Card, NA Smith",
+   "venue": "Frontiers in Artificial Intelligence 3, 34",
+   "year": "2020"
+  },
+  {
+   "title": "Metabolic mapping of deep brain structures and associations with symptomatology in autism spectrum disorders",
+   "authors": "KAR Doyle-Thomas, D Card, LV Soorya, AT Wang, J Fan, E Anagnostou",
+   "venue": "Research in autism spectrum disorders 8 (1), 44-51",
+   "year": "2014"
+  },
+  {
+   "title": "The Importance of Calibration for Estimating Proportions from Annotations",
+   "authors": "D Card, NA Smith",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Alterations in frontostriatal pathways in children born very preterm",
+   "authors": "EG Duerden, D Card, ID Lax, EJ Donner, MJ Taylor",
+   "venue": "Developmental Medicine & Child Neurology 55 (10), 952-958",
+   "year": "2013"
+  },
+  {
+   "title": "Deep Weighted Averaging Classifiers",
+   "authors": "D Card, M Zhang, NA Smith",
+   "venue": "Proceedings of the Conference on Fairness, Accountability, and Transparency …",
+   "year": "2019"
+  },
+  {
+   "title": "Framing Social Movements on Social Media: Unpacking Diagnostic, Prognostic, and Motivational Strategies",
+   "authors": "J Mendelsohn, M Vijan, D Card, C Budak",
+   "venue": "Journal of Quantitative Description: Digital Media 4",
+   "year": "2024"
+  },
+  {
+   "title": "Cerebral maturation in the early preterm period—a magnetization transfer and diffusion tensor imaging study using voxel-based analysis",
+   "authors": "R Nossin-Manor, D Card, C Raybaud, MJ Taylor, JG Sled",
+   "venue": "Neuroimage 112, 30-42",
+   "year": "2015"
+  },
+  {
+   "title": "Explain like I am a Scientist: The Linguistic Barriers of Entry to r/science",
+   "authors": "T August, D Card, G Hsieh, NA Smith, K Reinecke",
+   "venue": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2020"
+  },
+  {
+   "title": "You don't need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments",
+   "authors": "B Shu, L Zhang, M Choi, L Dunagan, L Logeswaran, M Lee, D Card, ...",
+   "venue": "arXiv preprint arXiv:2311.09718",
+   "year": "2023"
+  },
+  {
+   "title": "Modular domain adaptation",
+   "authors": "J Chen, D Card, D Jurafsky",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 3633-3655",
+   "year": "2022"
+  },
+  {
+   "title": "Brain metabolite concentrations are associated with illness severity scores and white matter abnormalities in very preterm infants",
+   "authors": "D Card, R Nossin-Manor, AM Moore, C Raybaud, JG Sled, MJ Taylor",
+   "venue": "Pediatric research 74 (1), 75-81",
+   "year": "2013"
+  },
+  {
+   "title": "The “black box” metaphor in machine learning",
+   "authors": "D Card",
+   "venue": "Towards Data Science 5",
+   "year": "2017"
+  },
+  {
+   "title": "An archival perspective on pretraining data",
+   "authors": "MA Desai, IV Pasquetto, AZ Jacobs, D Card",
+   "venue": "Patterns 5 (4)",
+   "year": "2024"
+  },
+  {
+   "title": "Patterns of Bias: How Mainstream Media Operationalize Links between Mass Shootings and Terrorism",
+   "authors": "SK Dreier, EK Gade, D Card, NA Smith",
+   "venue": "Political Communication 39 (6), 755-778",
+   "year": "2022"
+  },
+  {
+   "title": "Friendships, rivalries, and trysts: Characterizing relations between ideas in texts",
+   "authors": "C Tan, D Card, NA Smith",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Substitution-based Semantic Change Detection using Contextual Embeddings",
+   "authors": "D Card",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Mapping the podcast ecosystem with the structured podcast research corpus",
+   "authors": "BR Litterer, D Jurgens, D Card",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "When it Rains, it Pours: Modeling Media Storms and the News Ecosystem",
+   "authors": "B Litterer, D Jurgens, D Card",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 6346-6361",
+   "year": "2023"
+  },
+  {
+   "title": "Politifact language audit",
+   "authors": "D Card, LH Lin, NA Smith",
+   "venue": "Unpublished manuscript",
+   "year": "2018"
+  },
+  {
+   "title": "Expected validation performance and estimation of a random variable’s maximum",
+   "authors": "J Dodge, S Gururangan, D Card, R Schwartz, NA Smith",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 4066-4073",
+   "year": "2021"
+  },
+  {
+   "title": "Semantic change in adults is not primarily a generational phenomenon",
+   "authors": "G Kamath, M Yang, S Reddy, M Sonderegger, D Card",
+   "venue": "Proceedings of the National Academy of Sciences 122 (31), e2426815122",
+   "year": "2025"
+  },
+  {
+   "title": "On Meaningful Human Control in High-Stakes Machine-Human Partnerships",
+   "authors": "L McCoy, J Burkell, D Card, B Davis, J Gichoya, S LePage, D Madras",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "TIDEs: A Transgender and Nonbinary Community-Labeled Dataset and Model for Transphobia Identification in Digital Environments",
+   "authors": "F Lameiro, L Dunagan, D Card, E Gilbert, O Haimson",
+   "venue": "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and …",
+   "year": "2025"
+  },
+  {
+   "title": "Validating LLMs in social science: Epistemic threats and emerging norms",
+   "authors": "M Desai, D Card, AZ Jacobs",
+   "venue": "arXiv preprint arXiv:2607.07915",
+   "year": "2026"
+  },
+  {
+   "title": "What counts as terrorism? An examination of terrorist designations among US mass shootings",
+   "authors": "EK Gade, D Card, SK Dreier, NA Smith",
+   "venue": "Political Methodology Annual Conference, Salt Lake City, UT, United States",
+   "year": "2018"
+  },
+  {
+   "title": "MRS in development and across the life span",
+   "authors": "D Card, MJ Taylor, JG Sled",
+   "venue": "Magnetic Resonance Spectroscopy, 254-265",
+   "year": "2014"
+  },
+  {
+   "title": "Automated partial volume tissue classification in preterm neonates",
+   "authors": "D Card, R Nossin-Manor, JG Sled",
+   "venue": "International Society of Magnetic Resonance in Medicine 19th Scientific …",
+   "year": "2011"
+  },
+  {
+   "title": "Grey and white matter differences in 1H-MRS metabolic ratios in the preterm brain",
+   "authors": "D Card, JG Sled, AM Moore, HE Whyte, MJ Taylor",
+   "venue": "Proc. Intl. Soc. Mag. Reson. Med 19, 4325",
+   "year": "2011"
+  },
+  {
+   "title": "Coordinating Chaos: A Structured Review of Linguistic Coordination Methodologies",
+   "authors": "BR Litterer, D Jurgens, D Card",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Catching Fire in the News: The Necessary Conditions for Media Storms",
+   "authors": "AE Boydstun, JR Laufer, D Card, NA Smith",
+   "venue": "Elements in Politics and Communication",
+   "year": "2026"
+  },
+  {
+   "title": "Meaning Variation and Data Quality in the Corpus of Founding Era American English",
+   "authors": "D Card",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Characterizing Religious Rhetoric in the US Congressional Record",
+   "authors": "L Dunagan, D Card",
+   "venue": "Anthology of Computers and the Humanities 3, 687-707",
+   "year": "2025"
+  },
+  {
+   "title": "Brain Metabolites in Preterm Grey and White Matter and Alteration with Injury",
+   "authors": "D Card, AM Moore, JG Sled, HE Whyte, MJ Taylor",
+   "venue": "Pediatric Research 70 (5), 159-159",
+   "year": "2011"
+  },
+  {
+   "title": "RELATIONS BETWEEN WHITE MATTER DAMAGE AND DOSE DISTRIBUTION FOLLOWING CRANIAL RADIATION FOR PEDIATRIC BRAIN TUMORS",
+   "authors": "F Lui, N Laparriere, M Sharpe, E Bouffet, S Laughlin, D Card, D Mabbott",
+   "venue": "NEURO-ONCOLOGY 13, I30-I30",
+   "year": "2011"
+  },
+  {
+   "title": "Comparison of Findings on Head Ultrasound Scans (U/S) With Early Advanced Magnetic Resonance Imaging (Mri) in Preterm Brains",
+   "authors": "H Whyte, F Khurshid, D Card, A Daneman, M Shroff, A Moore, M Taylor",
+   "venue": "Paediatrics & Child Health 15 (suppl_A), 27A-27A",
+   "year": "2010"
+  }
+ ]
+}

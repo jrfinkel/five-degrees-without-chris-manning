@@ -1,0 +1,209 @@
+{
+ "user": "K6RYRTMAAAAJ",
+ "pubs": [
+  {
+   "title": "Gemini: a family of highly capable multimodal models",
+   "authors": "G Team, R Anil, S Borgeaud, JB Alayrac, J Yu, R Soricut, J Schalkwyk, ...",
+   "venue": "arXiv preprint arXiv:2312.11805",
+   "year": "2023"
+  },
+  {
+   "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+   "authors": "G Team, P Georgiev, VI Lei, R Burnell, L Bai, A Gulati, G Tanzer, ...",
+   "venue": "arXiv preprint arXiv:2403.05530",
+   "year": "2024"
+  },
+  {
+   "title": "Adaptive methods for nonconvex optimization",
+   "authors": "S Reddi, M Zaheer, D Sachan, S Kale, S Kumar",
+   "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+   "year": "2018"
+  },
+  {
+   "title": "When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation?",
+   "authors": "Y Qi, DS Sachan, M Felix, SJ Padmanabhan, G Neubig",
+   "venue": "Annual Conference of the North American Chapter of the Association for …",
+   "year": "2018"
+  },
+  {
+   "title": "Improving Passage Retrieval with Zero-Shot Question Generation",
+   "authors": "DS Sachan, M Lewis, M Joshi, A Aghajanyan, W Yih, J Pineau, ...",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2022"
+  },
+  {
+   "title": "End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering",
+   "authors": "DS Sachan, S Reddy, W Hamilton, C Dyer, D Yogatama",
+   "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+   "year": "2021"
+  },
+  {
+   "title": "Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function",
+   "authors": "DS Sachan, M Zaheer, R Salakhutdinov",
+   "venue": "AAAI Conference on Artificial Intelligence",
+   "year": "2019"
+  },
+  {
+   "title": "End-to-End Training of Neural Retrievers for Open-Domain Question Answering",
+   "authors": "DS Sachan, M Patwary, M Shoeybi, N Kant, W Ping, WL Hamilton, ...",
+   "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+   "year": "2021"
+  },
+  {
+   "title": "Parameter Sharing Methods for Multilingual Self-Attentional Translation Models",
+   "authors": "DS Sachan, G Neubig",
+   "venue": "Conference on Machine Translation (WMT)",
+   "year": "2018"
+  },
+  {
+   "title": "Do Syntax Trees Help Pre-trained Transformers Extract Information?",
+   "authors": "DS Sachan, Y Zhang, P Qi, W Hamilton",
+   "venue": "European Chapter of the Association for Computational Linguistics (EACL)",
+   "year": "2021"
+  },
+  {
+   "title": "LOFT: Scalable and more realistic long-context evaluation",
+   "authors": "J Lee, A Chen, Z Dai, D Dua, DS Sachan, M Boratko, Y Luan, S Arnold, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 6713-6738",
+   "year": "2025"
+  },
+  {
+   "title": "Effective Use of Bidirectional Language Modeling for Transfer Learning in Biomedical Named Entity Recognition",
+   "authors": "DS Sachan, P Xie, M Sachan, EP Xing",
+   "venue": "Machine Learning for Healthcare Conference (MLHC)",
+   "year": "2018"
+  },
+  {
+   "title": "Questions Are All You Need to Train a Dense Passage Retriever",
+   "authors": "DS Sachan, M Lewis, D Yogatama, L Zettlemoyer, J Pineau, M Zaheer",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 600-616",
+   "year": "2023"
+  },
+  {
+   "title": "Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation",
+   "authors": "Z Hu, H Shi, Z Yang, B Tan, T Zhao, J He, W Wang, X Yu, L Qin, D Wang, ...",
+   "venue": "Association of Computational Linguistics (ACL) System Demonstrations",
+   "year": "2019"
+  },
+  {
+   "title": "XNMT: The extensible neural machine translation toolkit",
+   "authors": "G Neubig, M Sperber, X Wang, M Felix, A Matthews, S Padmanabhan, ...",
+   "venue": "Conference of the Association for Machine Translation in the Americas  (AMTA)",
+   "year": "2018"
+  },
+  {
+   "title": "Re-invoke: Tool invocation rewriting for zero-shot tool retrieval",
+   "authors": "Y Chen, J Yoon, DS Sachan, Q Wang, V Cohen-Addad, M Bateni, CY Lee, ...",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP 2024 Findings)",
+   "year": "2024"
+  },
+  {
+   "title": "A computer-implemented method and system for analyzing and evaluating user reviews",
+   "authors": "G Devanathan, S Ramakrishnan, DS Sachan, SKT Reddy",
+   "venue": "US Patent App. 15/759,422",
+   "year": "2018"
+  },
+  {
+   "title": "Method for Text Classification and Feature Selection Using Class Vectors and the System Thereof",
+   "authors": "D GIRIDHARI, SS DEVENDRA, K SHAILESH",
+   "venue": "US Patent App. 15/778,732",
+   "year": "2018"
+  },
+  {
+   "title": "Method for product search using the user-weighted, attribute-based, sort-ordering and system thereof",
+   "authors": "D GIRIDHARI, R Shyamsunder, SD Singh",
+   "venue": "US Patent App. 15/749,862",
+   "year": "2019"
+  },
+  {
+   "title": "Improving Retrieval Augmented Neural Machine Translation by Controlling Source and Fuzzy-Match Interactions",
+   "authors": "C Hoang, D Sachan, P Mathur, B Thompson, M Federico",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Investigating the Working of Text Classifiers",
+   "authors": "DS Sachan, M Zaheer, R Salakhutdinov",
+   "venue": "International Conference on Computational Linguistics (COLING)",
+   "year": "2018"
+  },
+  {
+   "title": "Compositional Reasoning for Visual Question Answering",
+   "authors": "J Koushik, H Hayashi, DS Sachan",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Sports video classification from multimodal information using deep neural networks",
+   "authors": "DS Sachan, U Tekwani, A Sethi",
+   "venue": "AAAI Fall Symposium Series",
+   "year": "2013"
+  },
+  {
+   "title": "Stronger transformers for neural multi-hop question generation",
+   "authors": "DS Sachan, L Wu, M Sachan, W Hamilton",
+   "venue": "arXiv preprint arXiv:2010.11374",
+   "year": "2020"
+  },
+  {
+   "title": "Honeybee: Data recipes for vision-language reasoners",
+   "authors": "H Bansal, DS Sachan, KW Chang, A Grover, G Ghosh, W Yih, R Pasunuru",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2026"
+  },
+  {
+   "title": "Improving robustness of retrieval augmented translation via shuffling of suggestions",
+   "authors": "C Hoang, D Sachan, P Mathur, B Thompson, M Federico",
+   "venue": "arXiv preprint arXiv:2210.05059",
+   "year": "2022"
+  },
+  {
+   "title": "Class vectors: Embedding representation of document classes",
+   "authors": "DS Sachan, S Kumar",
+   "venue": "arXiv preprint arXiv:1508.00189",
+   "year": "2015"
+  },
+  {
+   "title": "Recaptcha assisted ocr for Devanagiri texts",
+   "authors": "K Atal, A Arora, DSS Sachan, P Bora, A Sethi",
+   "venue": "Proc. 1st Indian Workshop on Machine Learning",
+   "year": "2013"
+  },
+  {
+   "title": "Segmentation of Degraded Malayalam Words : Methods and Evaluation",
+   "authors": "D Sachan, S Dutta, N TS, CV Jawahar",
+   "venue": "NCVPRIPG 2011, 70-73",
+   "year": "2011"
+  },
+  {
+   "title": "Procedural knowledge at scale improves reasoning",
+   "authors": "D Wu, DS Sachan, W Yih, M Chen",
+   "venue": "arXiv preprint arXiv:2604.01348",
+   "year": "2026"
+  },
+  {
+   "title": "S-EMBER: A Large-Scale Benchmark for Streaming Egocentric Memory Retrieval",
+   "authors": "X Wang, X Zhao, P Rodriguez, DS Sachan, B Oguz, S Moon, SW Li, ...",
+   "venue": "arXiv preprint arXiv:2607.02689",
+   "year": "2026"
+  },
+  {
+   "title": "Fuzzy-match augmented machine translation",
+   "authors": "C Hoang, P Mathur, M Federico, DS Sachan",
+   "venue": "US Patent 12,333,264",
+   "year": "2025"
+  },
+  {
+   "title": "Computing Tool Retrieval Using Sequence Processing Models",
+   "authors": "J Yoon, Y Chen, CY Lee, Q WANG, MH Bateni, V Cohen-Addad, ...",
+   "venue": "US Patent App. 18/444,094",
+   "year": "2025"
+  },
+  {
+   "title": "Designing accurate retrieval systems using language models",
+   "authors": "DS Sachan",
+   "venue": "McGill University (Canada)",
+   "year": "2024"
+  }
+ ]
+}

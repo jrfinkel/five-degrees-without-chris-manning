@@ -1,0 +1,2843 @@
+{
+ "user": "OUpIbcQAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
+   "authors": "G Comanici, E Bieber, M Schaekermann, I Pasupat, N Sachdeva, I Dhillon, ...",
+   "venue": "arXiv preprint arXiv:2507.06261",
+   "year": "2025"
+  },
+  {
+   "title": "How to grow a mind: Statistics, structure, and abstraction",
+   "authors": "JB Tenenbaum, C Kemp, TL Griffiths, ND Goodman",
+   "venue": "science 331 (6022), 1279-1285",
+   "year": "2011"
+  },
+  {
+   "title": "Star: Bootstrapping reasoning with reasoning",
+   "authors": "E Zelikman, Y Wu, J Mu, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 35, 15476-15488",
+   "year": "2022"
+  },
+  {
+   "title": "Pyro: Deep universal probabilistic programming",
+   "authors": "E Bingham, JP Chen, M Jankowiak, F Obermeyer, N Pradhan, ...",
+   "venue": "Journal of Machine Learning Research",
+   "year": "2019"
+  },
+  {
+   "title": "Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments",
+   "authors": "T Xie, D Zhang, J Chen, X Li, S Zhao, R Cao, TJ Hua, Z Cheng, D Shin, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 52040-52094",
+   "year": "2024"
+  },
+  {
+   "title": "Predicting pragmatic reasoning in language games",
+   "authors": "MC Frank, ND Goodman",
+   "venue": "Science 336 (6084), 998-998",
+   "year": "2012"
+  },
+  {
+   "title": "The double-edged sword of pedagogy: Instruction limits spontaneous exploration and discovery",
+   "authors": "E Bonawitz, P Shafto, H Gweon, ND Goodman, E Spelke, L Schulz",
+   "venue": "Cognition 120 (3), 322-330",
+   "year": "2011"
+  },
+  {
+   "title": "Church: a language for generative models",
+   "authors": "N Goodman, V Mansinghka, D Roy, K Bonawitz, J Tenenbaum",
+   "venue": "Uncertainty in Artificial Intelligence",
+   "year": "2008"
+  },
+  {
+   "title": "Pragmatic language interpretation as probabilistic inference",
+   "authors": "ND Goodman, MC Frank",
+   "venue": "Trends in cognitive sciences 20 (11), 818-829",
+   "year": "2016"
+  },
+  {
+   "title": "One and done? Optimal decisions from very few samples",
+   "authors": "E Vul, N Goodman, TL Griffiths, JB Tenenbaum",
+   "venue": "Cognitive science 38 (4), 599-637",
+   "year": "2014"
+  },
+  {
+   "title": "Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic",
+   "authors": "TL Griffiths, F Lieder, ND Goodman",
+   "venue": "Topics in cognitive science 7 (2), 217-229",
+   "year": "2015"
+  },
+  {
+   "title": "Multimodal generative models for scalable weakly-supervised learning",
+   "authors": "M Wu, N Goodman",
+   "venue": "Advances in neural information processing systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "A Rational Analysis of Rule‐Based Concept Learning",
+   "authors": "ND Goodman, JB Tenenbaum, J Feldman, TL Griffiths",
+   "venue": "Cognitive Science 32 (1), 108-154",
+   "year": "2008"
+  },
+  {
+   "title": "Knowledge and implicature: Modeling language understanding as social cognition",
+   "authors": "ND Goodman, A Stuhlmüller",
+   "venue": "Topics in cognitive science 5 (1), 173-184",
+   "year": "2013"
+  },
+  {
+   "title": "Amortized inference in probabilistic reasoning",
+   "authors": "S Gershman, N Goodman",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Where science starts: Spontaneous experiments in preschoolers’ exploratory play",
+   "authors": "C Cook, ND Goodman, LE Schulz",
+   "venue": "Cognition 120 (3), 341-349",
+   "year": "2011"
+  },
+  {
+   "title": "Learning to compress prompts with gist tokens",
+   "authors": "J Mu, X Li, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 36, 19327-19352",
+   "year": "2023"
+  },
+  {
+   "title": "Using speakers' referential intentions to model early cross-situational word learning",
+   "authors": "MC Frank, ND Goodman, JB Tenenbaum",
+   "venue": "Psychological science 20 (5), 578-585",
+   "year": "2009"
+  },
+  {
+   "title": "A rational account of pedagogical reasoning: Teaching by, and learning from, examples",
+   "authors": "P Shafto, ND Goodman, TL Griffiths",
+   "venue": "Cognitive psychology 71, 55-89",
+   "year": "2014"
+  },
+  {
+   "title": "Learning disentangled representations with semi-supervised deep generative models",
+   "authors": "B Paige, JW Van De Meent, A Desmaison, N Goodman, P Kohli, F Wood, ...",
+   "venue": "Advances in neural information processing systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "The anchoring bias reflects rational use of cognitive resources",
+   "authors": "F Lieder, TL Griffiths, QJ M. Huys, ND Goodman",
+   "venue": "Psychonomic bulletin & review 25 (1), 322-349",
+   "year": "2018"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "Cognitive behaviors that enable self-improving reasoners, or, four habits of highly effective stars",
+   "authors": "K Gandhi, A Chakravarthy, A Singh, N Lile, ND Goodman",
+   "venue": "arXiv preprint arXiv:2503.01307",
+   "year": "2025"
+  },
+  {
+   "title": "The design and implementation of probabilistic programming languages",
+   "authors": "ND Goodman, A Stuhlmüller",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Quiet-star: Language models can teach themselves to think before speaking",
+   "authors": "E Zelikman, G Harik, Y Shao, V Jayasiri, N Haber, ND Goodman",
+   "venue": "arXiv preprint arXiv:2403.09629",
+   "year": "2024"
+  },
+  {
+   "title": "A short introduction to probabilistic soft logic",
+   "authors": "A Kimmig, S Bach, M Broecheler, B Huang, L Getoor, V Mansinghka, ...",
+   "venue": "Proceedings of the NIPS workshop on probabilistic programming: foundations …",
+   "year": "2012"
+  },
+  {
+   "title": "Bootstrapping in a language of thought: A formal model of numerical concept learning",
+   "authors": "ST Piantadosi, JB Tenenbaum, ND Goodman",
+   "venue": "Cognition 123 (2), 199-217",
+   "year": "2012"
+  },
+  {
+   "title": "Understanding social reasoning in language models with language models",
+   "authors": "K Gandhi, JP Fränken, T Gerstenberg, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 36, 13518-13529",
+   "year": "2023"
+  },
+  {
+   "title": "Learning a theory of causality.",
+   "authors": "ND Goodman, TD Ullman, JB Tenenbaum",
+   "venue": "Psychological review 118 (1), 110",
+   "year": "2011"
+  },
+  {
+   "title": "Help or hinder: Bayesian models of social goal inference",
+   "authors": "T Ullman, C Baker, O Macindoe, O Evans, N Goodman, J Tenenbaum",
+   "venue": "Advances in neural information processing systems 22",
+   "year": "2009"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "The mentalistic basis of core social cognition: Experiments in preverbal infants and a computational model",
+   "authors": "J Kiley Hamlin, T Ullman, J Tenenbaum, N Goodman, C Baker",
+   "venue": "Developmental science 16 (2), 209-226",
+   "year": "2013"
+  },
+  {
+   "title": "A counterfactual simulation model of causal judgments for physical events.",
+   "authors": "T Gerstenberg, ND Goodman, DA Lagnado, JB Tenenbaum",
+   "venue": "Psychological review 128 (5), 936",
+   "year": "2021"
+  },
+  {
+   "title": "Finding alignments between interpretable causal variables and distributed neural representations",
+   "authors": "A Geiger, Z Wu, C Potts, T Icard, N Goodman",
+   "venue": "Causal Learning and Reasoning, 160-187",
+   "year": "2024"
+  },
+  {
+   "title": "Variational Bayesian optimal experimental design",
+   "authors": "A Foster, M Jankowiak, E Bingham, P Horsfall, YW Teh, T Rainforth, ...",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Causal abstraction: A theoretical foundation for mechanistic interpretability",
+   "authors": "A Geiger, D Ibeling, A Zur, M Chaudhary, S Chauhan, J Huang, A Arora, ...",
+   "venue": "Journal of Machine Learning Research 26 (83), 1-64",
+   "year": "2025"
+  },
+  {
+   "title": "The logical primitives of thought: Empirical foundations for compositional cognitive models.",
+   "authors": "ST Piantadosi, JB Tenenbaum, ND Goodman",
+   "venue": "Psychological review 123 (4), 392",
+   "year": "2016"
+  },
+  {
+   "title": "Nonliteral understanding of number words",
+   "authors": "JT Kao, JY Wu, L Bergen, ND Goodman",
+   "venue": "Proceedings of the National Academy of Sciences 111 (33), 12002-12007",
+   "year": "2014"
+  },
+  {
+   "title": "Pragmatic reasoning through semantic inference",
+   "authors": "L Bergen, R Levy, N Goodman",
+   "venue": "Semantics and Pragmatics 9, 20: 1-91",
+   "year": "2016"
+  },
+  {
+   "title": "Learning from others: The consequences of psychological reasoning for human learning",
+   "authors": "P Shafto, ND Goodman, MC Frank",
+   "venue": "Perspectives on Psychological Science 7 (4), 341-351",
+   "year": "2012"
+  },
+  {
+   "title": "Affective cognition: Exploring lay theories of emotion",
+   "authors": "DC Ong, J Zaki, ND Goodman",
+   "venue": "Cognition 143, 141-162",
+   "year": "2015"
+  },
+  {
+   "title": "Lightweight implementations of probabilistic programming languages via transformational compilation",
+   "authors": "D Wingate, A Stuhlmüller, N Goodman",
+   "venue": "Proceedings of the Fourteenth International Conference on Artificial …",
+   "year": "2011"
+  },
+  {
+   "title": "From word models to world models: Translating from natural language to the probabilistic language of thought",
+   "authors": "L Wong, G Grand, AK Lew, ND Goodman, VK Mansinghka, J Andreas, ...",
+   "venue": "arXiv preprint arXiv:2306.12672",
+   "year": "2023"
+  },
+  {
+   "title": "Adjectival vagueness in a Bayesian model of interpretation",
+   "authors": "D Lassiter, ND Goodman",
+   "venue": "Synthese 194 (10), 3801-3836",
+   "year": "2017"
+  },
+  {
+   "title": "The emergence of social norms and conventions",
+   "authors": "RXD Hawkins, ND Goodman, RL Goldstone",
+   "venue": "Trends in cognitive sciences 23 (2), 158-169",
+   "year": "2019"
+  },
+  {
+   "title": "Synthesizing open worlds with constraints using locally annealed reversible jump mcmc",
+   "authors": "YT Yeh, L Yang, M Watson, ND Goodman, P Hanrahan",
+   "venue": "ACM Transactions on Graphics (TOG) 31 (4), 1-11",
+   "year": "2012"
+  },
+  {
+   "title": "Hypothesis search: Inductive reasoning with language models",
+   "authors": "R Wang, E Zelikman, G Poesia, Y Pu, N Haber, N Goodman",
+   "venue": "International Conference on Learning Representations 2024, 38993-39014",
+   "year": "2024"
+  },
+  {
+   "title": "Computational models of emotion inference in theory of mind: A review and roadmap",
+   "authors": "DC Ong, J Zaki, ND Goodman",
+   "venue": "Topics in cognitive science 11 (2), 338-357",
+   "year": "2019"
+  },
+  {
+   "title": "Stream of search (sos): Learning to search in language",
+   "authors": "K Gandhi, D Lee, G Grand, M Liu, W Cheng, A Sharma, ND Goodman",
+   "venue": "arXiv preprint arXiv:2404.03683",
+   "year": "2024"
+  },
+  {
+   "title": "Eye-tracking causality",
+   "authors": "T Gerstenberg, MF Peterson, ND Goodman, DA Lagnado, JB Tenenbaum",
+   "venue": "Psychological science 28 (12), 1731-1744",
+   "year": "2017"
+  },
+  {
+   "title": "Ad-hoc implicature in preschool children",
+   "authors": "AJ Stiller, ND Goodman, MC Frank",
+   "venue": "Language learning and development 11 (2), 176-190",
+   "year": "2015"
+  },
+  {
+   "title": "Why think step by step? reasoning emerges from the locality of experience",
+   "authors": "B Prystawski, M Li, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 36, 70926-70947",
+   "year": "2023"
+  },
+  {
+   "title": "Bias and generalization in deep generative models: An empirical study",
+   "authors": "S Zhao, H Ren, A Yuan, J Song, N Goodman, S Ermon",
+   "venue": "Advances in Neural Information Processing Systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Interpretability at scale: Identifying causal mechanisms in alpaca",
+   "authors": "Z Wu, A Geiger, T Icard, C Potts, N Goodman",
+   "venue": "Advances in neural information processing systems 36, 78205-78226",
+   "year": "2023"
+  },
+  {
+   "title": "Colors in context: A pragmatic neural model for grounded language understanding",
+   "authors": "W Monroe, RXD Hawkins, N Goodman, C Potts",
+   "venue": "Transactions of the Association for Computational Linguistics 5, 325-338",
+   "year": "2017"
+  },
+  {
+   "title": "Teaching games: Statistical sampling assumptions for learning in pedagogical situations",
+   "authors": "P Shafto, N Goodman",
+   "venue": "Proceedings of the 30th annual conference of the Cognitive Science Society …",
+   "year": "2008"
+  },
+  {
+   "title": "Productivity and reuse in language: A theory of linguistic computation and storage",
+   "authors": "TJ O'Donnell",
+   "venue": "The MIT Press",
+   "year": "2015"
+  },
+  {
+   "title": "When redundancy is useful: A Bayesian approach to “overinformative” referring expressions.",
+   "authors": "J Degen, RD Hawkins, C Graf, E Kreiss, ND Goodman",
+   "venue": "Psychological review 127 (4), 591",
+   "year": "2020"
+  },
+  {
+   "title": "Learning the preferences of ignorant, inconsistent agents",
+   "authors": "O Evans, A Stuhlmüller, N Goodman",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 30 (1)",
+   "year": "2016"
+  },
+  {
+   "title": "Solving math word problems by combining language models with symbolic solvers",
+   "authors": "J He-Yueya, G Poesia, RE Wang, ND Goodman",
+   "venue": "arXiv preprint arXiv:2304.09102",
+   "year": "2023"
+  },
+  {
+   "title": "Inferring word meanings by assuming that speakers are informative",
+   "authors": "MC Frank, ND Goodman",
+   "venue": "Cognitive psychology 75, 80-96",
+   "year": "2014"
+  },
+  {
+   "title": "Probabilistic semantics and pragmatics uncertainty in language and thought",
+   "authors": "ND Goodman, D Lassiter",
+   "venue": "The handbook of contemporary semantic theory, 655-686",
+   "year": "2015"
+  },
+  {
+   "title": "Context, scale structure, and statistics in the interpretation of positive-form adjectives",
+   "authors": "D Lassiter, ND Goodman",
+   "venue": "Semantics and linguistic theory, 587-610",
+   "year": "2013"
+  },
+  {
+   "title": "Burn-in, bias, and the rationality of anchoring",
+   "authors": "F Lieder, T Griffiths, N Goodman",
+   "venue": "Advances in neural information processing systems 25",
+   "year": "2012"
+  },
+  {
+   "title": "Learning to learn causal models",
+   "authors": "C Kemp, ND Goodman, JB Tenenbaum",
+   "venue": "Cognitive science 34 (7), 1185-1243",
+   "year": "2010"
+  },
+  {
+   "title": "The language of generalization.",
+   "authors": "MH Tessler, ND Goodman",
+   "venue": "Psychological review 126 (3), 395",
+   "year": "2019"
+  },
+  {
+   "title": "Inducing causal structure for interpretable neural networks",
+   "authors": "A Geiger, Z Wu, H Lu, J Rozner, E Kreiss, T Icard, N Goodman, C Potts",
+   "venue": "International Conference on Machine Learning, 7324-7338",
+   "year": "2022"
+  },
+  {
+   "title": "Theory learning as stochastic search in the language of thought",
+   "authors": "TD Ullman, ND Goodman, JB Tenenbaum",
+   "venue": "Cognitive Development 27 (4), 455-480",
+   "year": "2012"
+  },
+  {
+   "title": "Learning design patterns with bayesian grammar induction",
+   "authors": "J Talton, L Yang, R Kumar, M Lim, N Goodman, R Měch",
+   "venue": "Proceedings of the 25th annual ACM symposium on User interface software and …",
+   "year": "2012"
+  },
+  {
+   "title": "Eliciting human preferences with language models",
+   "authors": "B Li, A Tamkin, N Goodman, J Andreas",
+   "venue": "International Conference on Learning Representations 2025, 80984-81013",
+   "year": "2025"
+  },
+  {
+   "title": "Did she jump because she was the big sister or because the trampoline was safe? Causal inference and the development of social attribution",
+   "authors": "E Seiver, A Gopnik, ND Goodman",
+   "venue": "Child development 84 (2), 443-454",
+   "year": "2013"
+  },
+  {
+   "title": "Evaluating compositionality in sentence embeddings",
+   "authors": "I Dasgupta, D Guo, A Stuhlmüller, SJ Gershman, ND Goodman",
+   "venue": "arXiv preprint arXiv:1802.04302",
+   "year": "2018"
+  },
+  {
+   "title": "Intuitive theories of mind: A rational approach to false belief",
+   "authors": "ND Goodman, CL Baker, EB Bonawitz, VK Mansinghka, A Gopnik, ...",
+   "venue": "Proceedings of the twenty-eighth annual conference of the cognitive science …",
+   "year": "2006"
+  },
+  {
+   "title": "Strategic reasoning with language models",
+   "authors": "K Gandhi, D Sadigh, ND Goodman",
+   "venue": "arXiv preprint arXiv:2305.19165",
+   "year": "2023"
+  },
+  {
+   "title": "On scalable oversight with weak llms judging strong llms",
+   "authors": "Z Kenton, NY Siegel, J Kramár, J Brown-Cohen, S Albanie, J Bulian, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 75229-75276",
+   "year": "2024"
+  },
+  {
+   "title": "Subjectivity predicts adjective ordering preferences",
+   "authors": "G Scontras, J Degen, ND Goodman",
+   "venue": "Open Mind 1 (1), 53-66",
+   "year": "2017"
+  },
+  {
+   "title": "Learning Stochastic Inverses",
+   "authors": "A Stuhlmueller, J Taylor, ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Star-gate: Teaching language models to ask clarifying questions",
+   "authors": "C Andukuri, JP Fränken, T Gerstenberg, ND Goodman",
+   "venue": "arXiv preprint arXiv:2403.19154",
+   "year": "2024"
+  },
+  {
+   "title": "Polite speech emerges from competing social goals",
+   "authors": "EJ Yoon, MH Tessler, ND Goodman, MC Frank",
+   "venue": "Open Mind 4, 71-87",
+   "year": "2020"
+  },
+  {
+   "title": "Going beyond the evidence: Abstract laws and preschoolers’ responses to anomalous data",
+   "authors": "LE Schulz, ND Goodman, JB Tenenbaum, AC Jenkins",
+   "venue": "Cognition 109 (2), 211-223",
+   "year": "2008"
+  },
+  {
+   "title": "From partners to populations: A hierarchical Bayesian account of coordination and convention.",
+   "authors": "RD Hawkins, M Franke, MC Frank, AE Goldberg, K Smith, TL Griffiths, ...",
+   "venue": "Psychological Review 130 (4), 977",
+   "year": "2023"
+  },
+  {
+   "title": "DisSent: Learning sentence representations from explicit discourse relations",
+   "authors": "A Nie, E Bennett, N Goodman",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "How, whether, why: Causal judgments as counterfactual contrasts",
+   "authors": "T Gerstenberg, ND Goodman, DA Lagnado, JB Tenenbaum",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 37",
+   "year": "2015"
+  },
+  {
+   "title": "On mutual information in contrastive learning for visual representations",
+   "authors": "M Wu, C Zhuang, M Mosse, D Yamins, N Goodman",
+   "venue": "arXiv preprint arXiv:2005.13149",
+   "year": "2020"
+  },
+  {
+   "title": "The principles and practice of probabilistic programming",
+   "authors": "ND Goodman",
+   "venue": "ACM SIGPLAN Notices 48 (1), 399-402",
+   "year": "2013"
+  },
+  {
+   "title": "Formalizing the pragmatics of metaphor understanding",
+   "authors": "J Kao, L Bergen, N Goodman",
+   "venue": "Proceedings of the annual meeting of the Cognitive Science Society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Conditional negative sampling for contrastive learning of visual representations",
+   "authors": "M Wu, M Mosse, C Zhuang, D Yamins, N Goodman",
+   "venue": "arXiv preprint arXiv:2010.02037",
+   "year": "2020"
+  },
+  {
+   "title": "A Bayesian framework for cross-situational word-learning",
+   "authors": "N Goodman, J Tenenbaum, M Black",
+   "venue": "Advances in neural information processing systems 20",
+   "year": "2007"
+  },
+  {
+   "title": "Characterizing the dynamics of learning in repeated reference games",
+   "authors": "RD Hawkins, MC Frank, ND Goodman",
+   "venue": "Cognitive science 44 (6), e12845",
+   "year": "2020"
+  },
+  {
+   "title": "A computational model of linguistic humor in puns",
+   "authors": "JT Kao, R Levy, ND Goodman",
+   "venue": "Cognitive science 40 (5), 1270-1285",
+   "year": "2016"
+  },
+  {
+   "title": "Pragmatically informative image captioning with character-level inference",
+   "authors": "R Cohn-Gordon, N Goodman, C Potts",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "ShapeGlot: Learning language for shape differentiation",
+   "authors": "P Achlioptas, J Fan, R Hawkins, N Goodman, LJ Guibas",
+   "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision …",
+   "year": "2019"
+  },
+  {
+   "title": "Deep amortized inference for probabilistic programs",
+   "authors": "D Ritchie, P Horsfall, ND Goodman",
+   "venue": "arXiv preprint arXiv:1610.05735",
+   "year": "2016"
+  },
+  {
+   "title": "Empirical evidence for resource-rational anchoring and adjustment",
+   "authors": "F Lieder, TL Griffiths, QJ M. Huys, ND Goodman",
+   "venue": "Psychonomic Bulletin & Review 25 (2), 775-784",
+   "year": "2018"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "The conceptual mind: New directions in the study of concepts",
+   "authors": "A Avargues-Weber, M Giurfa, J Plotnik, NS Clayton, R Seyfarth, ...",
+   "venue": "MIT Press",
+   "year": "2015"
+  },
+  {
+   "title": "Remembrance of inferences past: Amortization in human hypothesis generation",
+   "authors": "I Dasgupta, E Schulz, ND Goodman, SJ Gershman",
+   "venue": "Cognition 178, 67-81",
+   "year": "2018"
+  },
+  {
+   "title": "Controlling procedural modeling programs with stochastically-ordered sequential monte carlo",
+   "authors": "D Ritchie, B Mildenhall, ND Goodman, P Hanrahan",
+   "venue": "ACM Transactions on Graphics (TOG) 34 (4), 1-11",
+   "year": "2015"
+  },
+  {
+   "title": "Reasoning about reasoning by nested conditioning: Modeling theory of mind with probabilistic programs",
+   "authors": "A Stuhlmüller, ND Goodman",
+   "venue": "Cognitive Systems Research 28, 80-99",
+   "year": "2014"
+  },
+  {
+   "title": "Probabilistic models of cognition",
+   "authors": "N Goodman",
+   "venue": "http://projects. csail. mit. edu/church/wiki/Probabilistic Models of Cognition/",
+   "year": "2016"
+  },
+  {
+   "title": "Parsel🐍: Algorithmic Reasoning with Language Models by Composing Decompositions",
+   "authors": "E Zelikman, Q Huang, G Poesia, N Goodman, N Haber",
+   "venue": "Advances in Neural Information Processing Systems 36, 31466-31523",
+   "year": "2023"
+  },
+  {
+   "title": "Variational item response theory: Fast, accurate, and expressive",
+   "authors": "M Wu, RL Davis, BW Domingue, C Piech, N Goodman",
+   "venue": "arXiv preprint arXiv:2002.00276",
+   "year": "2020"
+  },
+  {
+   "title": "That's what she (could have) said: How alternative utterances affect language use",
+   "authors": "L Bergen, N Goodman, R Levy",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "On the stable equivalence of open books in three-manifolds",
+   "authors": "E Giroux, N Goodman",
+   "venue": "Geometry & Topology 10 (1), 97-114",
+   "year": "2006"
+  },
+  {
+   "title": "Viewmaker networks: Learning views for unsupervised representation learning",
+   "authors": "A Tamkin, M Wu, N Goodman",
+   "venue": "arXiv preprint arXiv:2010.07432",
+   "year": "2020"
+  },
+  {
+   "title": "Productivity and reuse in language",
+   "authors": "T O'Donnell, J Snedeker, J Tenenbaum, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "The structure and dynamics of scientific theories: A hierarchical Bayesian perspective",
+   "authors": "L Henderson, ND Goodman, JB Tenenbaum, JF Woodward",
+   "venue": "Philosophy of Science 77 (2), 172-200",
+   "year": "2010"
+  },
+  {
+   "title": "Learning physical parameters from dynamic scenes",
+   "authors": "TD Ullman, A Stuhlmüller, ND Goodman, JB Tenenbaum",
+   "venue": "Cognitive psychology 104, 57-82",
+   "year": "2018"
+  },
+  {
+   "title": "Noisy Newtons: Unifying process and dependency accounts of causal attribution",
+   "authors": "T Gerstenberg, N Goodman, D Lagnado, J Tenenbaum",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "Improving intrinsic exploration with language abstractions",
+   "authors": "J Mu, V Zhong, R Raileanu, M Jiang, N Goodman, T Rocktäschel, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 33947-33960",
+   "year": "2022"
+  },
+  {
+   "title": "An approach to technical agi safety and security",
+   "authors": "R Shah, A Irpan, AM Turner, A Wang, A Conmy, D Lindner, ...",
+   "venue": "arXiv preprint arXiv:2504.01849",
+   "year": "2025"
+  },
+  {
+   "title": "Wonky worlds: Listeners revise world knowledge when utterances are odd",
+   "authors": "J Degen, MH Tessler, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 37",
+   "year": "2015"
+  },
+  {
+   "title": "Cause and intent: Social reasoning in causal learning",
+   "authors": "ND Goodman, CL Baker, JB Tenenbaum",
+   "venue": "Proceedings of the 31st annual conference of the cognitive science society …",
+   "year": "2009"
+  },
+  {
+   "title": "The division of labor in communication: Speakers help listeners account for asymmetries in visual perspective",
+   "authors": "RD Hawkins, H Gweon, ND Goodman",
+   "venue": "Cognitive science 45 (3), e12926",
+   "year": "2021"
+  },
+  {
+   "title": "Language through a prism: A spectral approach for multiscale language representations",
+   "authors": "A Tamkin, D Jurafsky, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 33, 5492-5504",
+   "year": "2020"
+  },
+  {
+   "title": "Talking with tact: Polite language as a balance between kindness and informativity",
+   "authors": "EJ Yoon, MH Tessler, ND Goodman, MC Frank",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic. Topics in Cognitive Science, 7 (2), 217–229",
+   "authors": "TL Griffiths, F Lieder, ND Goodman",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Emergent communication of generalizations",
+   "authors": "J Mu, N Goodman",
+   "venue": "Advances in neural information processing systems 34, 17994-18007",
+   "year": "2021"
+  },
+  {
+   "title": "Question generation for adaptive education",
+   "authors": "M Srivastava, N Goodman",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Zero shot learning for code education: Rubric sampling with deep learning inference",
+   "authors": "M Wu, M Mosse, N Goodman, C Piech",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 782-790",
+   "year": "2019"
+  },
+  {
+   "title": "Learning and using language via recursive pragmatic reasoning about other agents",
+   "authors": "NJ Smith, N Goodman, M Frank",
+   "venue": "Advances in neural information processing systems 26",
+   "year": "2013"
+  },
+  {
+   "title": "Ad-hoc scalar implicature in adults and children",
+   "authors": "A Stiller, N Goodman, M Frank",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "Theory-based social goal inference",
+   "authors": "CL Baker, ND Goodman, JB Tenenbaum",
+   "venue": "Proceedings of the thirtieth annual conference of the cognitive science …",
+   "year": "2008"
+  },
+  {
+   "title": "Large language model reasoning failures",
+   "authors": "P Song, P Han, N Goodman",
+   "venue": "arXiv preprint arXiv:2602.06176",
+   "year": "2026"
+  },
+  {
+   "title": "Pragmatic inference and visual abstraction enable contextual flexibility during visual communication",
+   "authors": "JE Fan, RD Hawkins, M Wu, ND Goodman",
+   "venue": "Computational Brain & Behavior 3 (1), 86-101",
+   "year": "2020"
+  },
+  {
+   "title": "How tall is tall? Compositionality, statistics, and gradable adjectives",
+   "authors": "LA Schmidt, ND Goodman, D Barner, JB Tenenbaum",
+   "venue": "Proceedings of the 31st annual conference of the cognitive science society …",
+   "year": "2009"
+  },
+  {
+   "title": "Why do you ask? Good questions provoke informative answers",
+   "authors": "RXD Hawkins, A Stuhlmuller, J Degen, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 37",
+   "year": "2015"
+  },
+  {
+   "title": "Convention-formation in iterated reference games",
+   "authors": "RXD Hawkins, MC Frank, ND Goodman",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 39",
+   "year": "2017"
+  },
+  {
+   "title": "The strategic use of noise in pragmatic reasoning",
+   "authors": "L Bergen, ND Goodman",
+   "venue": "Topics in cognitive science 7 (2), 336-350",
+   "year": "2015"
+  },
+  {
+   "title": "How many kinds of reasoning? Inference, probability, and natural language semantics",
+   "authors": "D Lassiter, ND Goodman",
+   "venue": "Cognition 136, 123-134",
+   "year": "2015"
+  },
+  {
+   "title": "Learning formal mathematics from intrinsic motivation",
+   "authors": "G Poesia, D Broman, N Haber, ND Goodman",
+   "venue": "Advances in Neural Information Processing Systems 37, 43032-43057",
+   "year": "2024"
+  },
+  {
+   "title": "Lost your marbles? The puzzle of dependent measures in experimental pragmatics",
+   "authors": "J Degen, N Goodman",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Optimal habits can develop spontaneously through sensitivity to local cost",
+   "authors": "TM Desrochers, DZ Jin, ND Goodman, AM Graybiel",
+   "venue": "Proceedings of the National Academy of Sciences 107 (47), 20512-20517",
+   "year": "2010"
+  },
+  {
+   "title": "pyvene: A library for understanding and improving PyTorch models via interventions",
+   "authors": "Z Wu, A Geiger, A Arora, J Huang, Z Wang, N Goodman, CD Manning, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Investigating transferability in pretrained language models",
+   "authors": "A Tamkin, T Singh, D Giovanardi, N Goodman",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 1393-1401",
+   "year": "2020"
+  },
+  {
+   "title": "Extracting customer perceptions of product sustainability from online reviews",
+   "authors": "N El Dehaibi, ND Goodman, EF MacDonald",
+   "venue": "Journal of Mechanical Design 141 (12), 121103",
+   "year": "2019"
+  },
+  {
+   "title": "A resource-rational approach to the causal frame problem",
+   "authors": "TF Icard III, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 37",
+   "year": "2015"
+  },
+  {
+   "title": "Active learning helps pretrained models learn the intended task",
+   "authors": "A Tamkin, D Nguyen, S Deshpande, J Mu, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 35, 28140-28153",
+   "year": "2022"
+  },
+  {
+   "title": "Fragment grammars: Exploring computation and reuse in language",
+   "authors": "TJ O'Donnell, JB Tenenbaum, ND Goodman",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "An incremental iterated response model of pragmatics",
+   "authors": "R Cohn-Gordon, N Goodman, C Potts",
+   "venue": "Proceedings of the Society for Computation in Linguistics (SCiL) 2019, 81-90",
+   "year": "2019"
+  },
+  {
+   "title": "Neurally-guided procedural models: Amortized inference for procedural graphics programs using neural networks",
+   "authors": "D Ritchie, A Thomas, P Hanrahan, N Goodman",
+   "venue": "Advances in neural information processing systems 29",
+   "year": "2016"
+  },
+  {
+   "title": "An information-theoretic explanation of adjective ordering preferences",
+   "authors": "M Hahn, J Degen, N Goodman, D Jurafsky, R Futrell",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Animal, dog, or dalmatian? level of abstraction in nominal referring expressions",
+   "authors": "C Graf, J Degen, RXD Hawkins, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Learned helplessness and generalization",
+   "authors": "F Lieder, ND Goodman, QJM Huys",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 35 (35)",
+   "year": "2013"
+  },
+  {
+   "title": "From counterfactual simulation to causal judgment",
+   "authors": "T Gerstenberg, N Goodman, D Lagnado, J Tenenbaum",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Reasoning about social sources to learn from actions and outcomes.",
+   "authors": "D Hawthorne-Madell, ND Goodman",
+   "venue": "Decision 6 (1), 17",
+   "year": "2019"
+  },
+  {
+   "title": "Relevant and robust: A response to Marcus and Davis (2013)",
+   "authors": "ND Goodman, MC Frank, TL Griffiths, JB Tenenbaum, PW Battaglia, ...",
+   "venue": "Psychological science 26 (4), 539-541",
+   "year": "2015"
+  },
+  {
+   "title": "Informative communication in word production and word learning",
+   "authors": "M Frank, N Goodman, P Lai, J Tenenbaum",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "Dissent: Sentence representation learning from explicit discourse relations",
+   "authors": "A Nie, ED Bennett, ND Goodman",
+   "venue": "arXiv preprint arXiv:1710.04334",
+   "year": "2017"
+  },
+  {
+   "title": "A thousand studies for the price of one: Accelerating psychological science with Pushkin",
+   "authors": "JK Hartshorne, JR de Leeuw, ND Goodman, M Jennings, TJ O’Donnell",
+   "venue": "Behavior research methods 51 (4), 1782-1803",
+   "year": "2019"
+  },
+  {
+   "title": "The imaginary fundamentalists: The unshocking truth about Bayesian cognitive science",
+   "authors": "N Chater, N Goodman, TL Griffiths, C Kemp, M Oaksford, JB Tenenbaum",
+   "venue": "Behavioral and Brain Sciences 34 (4), 194-196",
+   "year": "2011"
+  },
+  {
+   "title": "Modeling semantic cognition as logical dimensionality reduction",
+   "authors": "Y Katz, ND Goodman, K Kersting, C Kemp, JB Tenenbaum",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 30 (30)",
+   "year": "2008"
+  },
+  {
+   "title": "Bayesian policy search with policy priors",
+   "authors": "D Wingate, ND Goodman, DM Roy, LP Kaelbling, JB Tenenbaum",
+   "venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
+   "year": "2011"
+  },
+  {
+   "title": "Shaping visual representations with language for few-shot classification",
+   "authors": "J Mu, P Liang, N Goodman",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Let's talk (ironically) about the weather: Modeling verbal irony",
+   "authors": "JT Kao, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 37",
+   "year": "2015"
+  },
+  {
+   "title": "Quiet-star: Language models can teach themselves to think before speaking, 2024",
+   "authors": "E Zelikman, G Harik, Y Shao, V Jayasiri, N Haber, ND Goodman",
+   "venue": "URL https://arxiv. org/abs/2403.09629 2403",
+   "year": null
+  },
+  {
+   "title": "Codebook features: Sparse and discrete interpretability for neural networks",
+   "authors": "A Tamkin, M Taufeeque, ND Goodman",
+   "venue": "arXiv preprint arXiv:2310.17230",
+   "year": "2023"
+  },
+  {
+   "title": "Extremely costly intensifiers are stronger than quite costly ones",
+   "authors": "ED Bennett, ND Goodman",
+   "venue": "Cognition 178, 147-161",
+   "year": "2018"
+  },
+  {
+   "title": "Learning causal schemata",
+   "authors": "C Kemp, ND Goodman, JB Tenenbaum",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 29 (29)",
+   "year": "2007"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Cognitive modeling using artificial intelligence",
+   "authors": "MC Frank, ND Goodman",
+   "venue": "Annual Review of Psychology 77 (1), 543-566",
+   "year": "2026"
+  },
+  {
+   "title": "Task ambiguity in humans and language models",
+   "authors": "A Tamkin, K Handa, A Shrestha, N Goodman",
+   "venue": "arXiv preprint arXiv:2212.10711",
+   "year": "2022"
+  },
+  {
+   "title": "Dabs: A domain-agnostic benchmark for self-supervised learning",
+   "authors": "A Tamkin, V Liu, R Lu, D Fein, C Schultz, N Goodman",
+   "venue": "arXiv preprint arXiv:2111.12062",
+   "year": "2021"
+  },
+  {
+   "title": "Language modeling via stochastic processes",
+   "authors": "RE Wang, E Durmus, N Goodman, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2203.11370",
+   "year": "2022"
+  },
+  {
+   "title": "Temperature as uncertainty in contrastive learning",
+   "authors": "O Zhang, M Wu, J Bayrooti, N Goodman",
+   "venue": "arXiv preprint arXiv:2110.04403",
+   "year": "2021"
+  },
+  {
+   "title": "Meta-amortized variational inference and learning",
+   "authors": "M Wu, K Choi, N Goodman, S Ermon",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (04), 6404-6412",
+   "year": "2020"
+  },
+  {
+   "title": "Value profiles for encoding human variation",
+   "authors": "T Sorensen, P Mishra, R Patel, MH Tessler, MA Bakker, G Evans, I Gabriel, ...",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "On the grammatical source of adjective ordering preferences",
+   "authors": "G Scontras, J Degen, ND Goodman",
+   "venue": "Semantics and Pragmatics 12, 7: 1-24",
+   "year": "2019"
+  },
+  {
+   "title": "Certified deductive reasoning with language models",
+   "authors": "G Poesia, K Gandhi, E Zelikman, ND Goodman",
+   "venue": "arXiv preprint arXiv:2306.04031",
+   "year": "2023"
+  },
+  {
+   "title": "Automated statistical model discovery with language models",
+   "authors": "MY Li, EB Fox, ND Goodman",
+   "venue": "arXiv preprint arXiv:2402.17879",
+   "year": "2024"
+  },
+  {
+   "title": "Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models",
+   "authors": "B Prystawski, P Thibodeau, C Potts, ND Goodman",
+   "venue": "arXiv preprint arXiv:2209.08141",
+   "year": "2022"
+  },
+  {
+   "title": "Continual adaptation for efficient machine communication",
+   "authors": "RD Hawkins, M Kwon, D Sadigh, N Goodman",
+   "venue": "Proceedings of the 24th conference on computational natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Beyond reward prediction errors: human striatum updates rule values during learning",
+   "authors": "I Ballard, EM Miller, ST Piantadosi, ND Goodman, SM McClure",
+   "venue": "Cerebral Cortex 28 (11), 3965-3975",
+   "year": "2018"
+  },
+  {
+   "title": "C3: Lightweight incrementalized MCMC for probabilistic programs using continuations and callsite caching",
+   "authors": "D Ritchie, A Stuhlmüller, N Goodman",
+   "venue": "Artificial Intelligence and Statistics, 28-37",
+   "year": "2016"
+  },
+  {
+   "title": "Learning physical theories from dynamical scenes",
+   "authors": "T Ullman, A Stuhlmuller, N Goodman, J Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Learning and using relational theories",
+   "authors": "C Kemp, N Goodman, J Tenenbaum",
+   "venue": "Advances in neural information processing systems 20",
+   "year": "2007"
+  },
+  {
+   "title": "A Bayesian model of the acquisition of compositional semantics",
+   "authors": "ST Piantadosi, N Goodman, BA Ellis, J Tenenbaum",
+   "venue": "Proceedings of the thirtieth annual conference of the cognitive science …",
+   "year": "2008"
+  },
+  {
+   "title": "Visual resemblance and interaction history jointly constrain pictorial meaning",
+   "authors": "RD Hawkins, M Sano, ND Goodman, JE Fan",
+   "venue": "Nature Communications 14 (1), 2199",
+   "year": "2023"
+  },
+  {
+   "title": "Definitely, maybe: A new experimental paradigm for investigating the pragmatics of evidential devices across languages",
+   "authors": "J Degen, A Trotzke, G Scontras, E Wittenberg, ND Goodman",
+   "venue": "Journal of Pragmatics 140, 33-48",
+   "year": "2019"
+  },
+  {
+   "title": "A rational speech-act model of projective content",
+   "authors": "C Qing, ND Goodman, D Lassiter",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Overtwisted open books from sobering arcs",
+   "authors": "N Goodman",
+   "venue": "Algebraic & Geometric Topology 5 (3), 1173-1195",
+   "year": "2005"
+  },
+  {
+   "title": "Bayesian preference elicitation with language models",
+   "authors": "K Handa, Y Gal, E Pavlick, N Goodman, J Andreas, A Tamkin, BZ Li",
+   "venue": "arXiv preprint arXiv:2403.05534",
+   "year": "2024"
+  },
+  {
+   "title": "Learning the preferences of bounded agents",
+   "authors": "O Evans, ND Goodman",
+   "venue": "NIPS Workshop on Bounded Optimality 6, 2-1",
+   "year": "2015"
+  },
+  {
+   "title": "Applying probabilistic programming to affective computing",
+   "authors": "DC Ong, H Soh, J Zaki, ND Goodman",
+   "venue": "IEEE Transactions on Affective Computing 12 (2), 306-317",
+   "year": "2019"
+  },
+  {
+   "title": "The first crank of the cultural ratchet: Learning and transmitting concepts through language",
+   "authors": "S Chopra, MH Tessler, ND Goodman",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 41",
+   "year": "2019"
+  },
+  {
+   "title": "Concadia: Towards image-based text generation with a purpose",
+   "authors": "E Kreiss, F Fang, N Goodman, C Potts",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Rational speech act models of pragmatic reasoning in reference games",
+   "authors": "MC Frank, AG Emilsson, B Peloquin, ND Goodman, C Potts",
+   "venue": "PsyArXiv",
+   "year": "2016"
+  },
+  {
+   "title": "Nonstandard interpretations of probabilistic programs for efficient inference",
+   "authors": "D Wingate, N Goodman, A Stuhlmüller, J Siskind",
+   "venue": "Advances in neural information processing systems 24",
+   "year": "2011"
+  },
+  {
+   "title": "Theory acquisition as stochastic search",
+   "authors": "T Ullman, N Goodman, J Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "The effects of information utility and teachers’ knowledge on evaluations of under-informative pedagogy across development",
+   "authors": "I Bass, E Bonawitz, D Hawthorne-Madell, WK Vong, ND Goodman, ...",
+   "venue": "Cognition 222, 104999",
+   "year": "2022"
+  },
+  {
+   "title": "The funny thing about incongruity: A computational model of humor in puns",
+   "authors": "JT Kao, R Levy, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 35 (35)",
+   "year": "2013"
+  },
+  {
+   "title": "A dynamic programming algorithm for inference in recursive probabilistic programs",
+   "authors": "A Stuhlmüller, ND Goodman",
+   "venue": "arXiv preprint arXiv:1206.3555",
+   "year": "2012"
+  },
+  {
+   "title": "Is child-directed speech effective training data for language models?",
+   "authors": "SY Feng, N Goodman, MC Frank",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Peano: learning formal mathematical reasoning",
+   "authors": "G Poesia, ND Goodman",
+   "venue": "Philosophical transactions. Series A, Mathematical, physical, and …",
+   "year": "2023"
+  },
+  {
+   "title": "Resolving uncertainty in plural predication",
+   "authors": "G Scontras, ND Goodman",
+   "venue": "Cognition 168, 294-311",
+   "year": "2017"
+  },
+  {
+   "title": "Tensor variable elimination for plated factor graphs",
+   "authors": "F Obermeyer, E Bingham, M Jankowiak, N Pradhan, J Chiu, A Rush, ...",
+   "venue": "International Conference on Machine Learning, 4871-4880",
+   "year": "2019"
+  },
+  {
+   "title": "Generative grading: Near human-level accuracy for automated feedback on richly structured problems",
+   "authors": "A Malik, M Wu, V Vasavada, J Song, M Coots, J Mitchell, N Goodman, ...",
+   "venue": "arXiv preprint arXiv:1905.09916",
+   "year": "2019"
+  },
+  {
+   "title": "Happier than thou? A self-enhancement bias in emotion attribution.",
+   "authors": "DC Ong, ND Goodman, J Zaki",
+   "venue": "Emotion 18 (1), 116",
+   "year": "2018"
+  },
+  {
+   "title": "Learning structured generative concepts",
+   "authors": "A Stuhlmuller, JB Tenenbaum, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "Bayesian reinforcement learning with limited cognitive load",
+   "authors": "D Arumugam, MK Ho, ND Goodman, B Van Roy",
+   "venue": "Open Mind 8, 395-438",
+   "year": "2024"
+  },
+  {
+   "title": "Clevrer-humans: Describing physical and causal events the human way",
+   "authors": "J Mao, X Yang, X Zhang, N Goodman, J Wu",
+   "venue": "Advances in Neural Information Processing Systems 35, 7755-7768",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling the acquisition of quantifier semantics: A case study in function word learnability",
+   "authors": "ST Piantadosi, JB Tenenbaum, ND Goodman",
+   "venue": "Under review",
+   "year": "2013"
+  },
+  {
+   "title": "Prototransformer: A meta-learning approach to providing student feedback",
+   "authors": "M Wu, N Goodman, C Piech, C Finn",
+   "venue": "arXiv preprint arXiv:2107.14035",
+   "year": "2021"
+  },
+  {
+   "title": "“I won’t lie, it wasn’t amazing”: Modeling polite indirect speech",
+   "authors": "EJ Yoon, MH Tessler, ND Goodman, MC Frank",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 39",
+   "year": "2017"
+  },
+  {
+   "title": "Generating efficient MCMC kernels from probabilistic programs",
+   "authors": "L Yang, P Hanrahan, N Goodman",
+   "venue": "Artificial Intelligence and Statistics, 1068-1076",
+   "year": "2014"
+  },
+  {
+   "title": "Psychometric alignment: Capturing human knowledge distributions via language models",
+   "authors": "J He-Yueya, WA Ma, K Gandhi, BW Domingue, E Brunskill, ND Goodman",
+   "venue": "arXiv preprint arXiv:2407.15645",
+   "year": "2024"
+  },
+  {
+   "title": "Open-domain clarification question generation without question examples",
+   "authors": "J White, G Poesia, RD Hawkins, D Sadigh, N Goodman",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to refer informatively by amortizing pragmatic reasoning",
+   "authors": "J White, J Mu, ND Goodman",
+   "venue": "arXiv preprint arXiv:2006.00418",
+   "year": "2020"
+  },
+  {
+   "title": "A stochastic programming perspective on nonparametric Bayes",
+   "authors": "DM Roy, VK Mansinghka, ND Goodman, JB Tenenbaum",
+   "venue": "Nonparametric Bayesian Workshop, Int. Conf. on Machine Learning 22, 26",
+   "year": "2008"
+  },
+  {
+   "title": "Structured correlation from the causal background",
+   "authors": "R Mayrhofer, ND Goodman, MR Waldmann, JB Tenenbaum",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 30 (30)",
+   "year": "2008"
+  },
+  {
+   "title": "Self-supervised alignment with mutual information: Learning to follow principles without preference labels",
+   "authors": "JP Fränken, E Zelikman, R Rafailov, K Gandhi, T Gerstenberg, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 61328-61371",
+   "year": "2024"
+  },
+  {
+   "title": "Causal distillation for language models",
+   "authors": "Z Wu, A Geiger, J Rozner, E Kreiss, H Lu, T Icard, C Potts, N Goodman",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Lost in machine translation: A method to reduce meaning loss",
+   "authors": "R Cohn-Gordon, N Goodman",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Inducing probabilistic programs by Bayesian program merging",
+   "authors": "I Hwang, A Stuhlmüller, ND Goodman",
+   "venue": "arXiv preprint arXiv:1110.5667",
+   "year": "2011"
+  },
+  {
+   "title": "A survey on large language model reasoning failures",
+   "authors": "P Song, P Han, N Goodman",
+   "venue": "2nd AI for Math Workshop@ ICML 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Flexible social inference facilitates targeted social learning when rewards are not observable",
+   "authors": "RD Hawkins, AM Berdahl, AS Pentland, JB Tenenbaum, ND Goodman, ...",
+   "venue": "Nature Human Behaviour 7 (10), 1767-1776",
+   "year": "2023"
+  },
+  {
+   "title": "Sight: A large annotated dataset on student insights gathered from higher education transcripts",
+   "authors": "R Wang, P Wirawarn, N Goodman, D Demszky",
+   "venue": "Proceedings of the 18th Workshop on Innovative Use of NLP for Building …",
+   "year": "2023"
+  },
+  {
+   "title": "Theory acquisition and the language of thought",
+   "authors": "C Kemp, ND Goodman, J B Tenenbaum",
+   "venue": "Carnegie Mellon University",
+   "year": "2008"
+  },
+  {
+   "title": "Belief dynamics reveal the dual nature of in-context learning and activation steering",
+   "authors": "E Bigelow, D Wurgaft, YQ Wang, N Goodman, T Ullman, H Tanaka, ...",
+   "venue": "arXiv preprint arXiv:2511.00617",
+   "year": "2025"
+  },
+  {
+   "title": "Evaluating and optimizing educational content with large language model judgments",
+   "authors": "J He-Yueya, ND Goodman, E Brunskill",
+   "venue": "arXiv preprint arXiv:2403.02795",
+   "year": "2024"
+  },
+  {
+   "title": "Logic, probability, and pragmatics in syllogistic reasoning",
+   "authors": "MH Tessler, JB Tenenbaum, ND Goodman",
+   "venue": "Topics in Cognitive Science 14 (3), 574-601",
+   "year": "2022"
+  },
+  {
+   "title": "Planning, inference and pragmatics in sequential language games",
+   "authors": "F Khani, ND Goodman, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 543-555",
+   "year": "2018"
+  },
+  {
+   "title": "Interaction structure constrains the emergence of conventions in group communication",
+   "authors": "V Boyce, RD Hawkins, ND Goodman, MC Frank",
+   "venue": "Proceedings of the National Academy of Sciences 121 (28), e2403888121",
+   "year": "2024"
+  },
+  {
+   "title": "Star: Self-taught reasoner",
+   "authors": "E Zelikman, Y Wu, ND Goodman",
+   "venue": "Proceedings of the NIPS 22 (3)",
+   "year": "2022"
+  },
+  {
+   "title": "Cake or broccoli? Recency biases children’s verbal responses",
+   "authors": "E Sumner, E DeAngelis, M Hyatt, N Goodman, C Kidd",
+   "venue": "PloS one 14 (6), e0217207",
+   "year": "2019"
+  },
+  {
+   "title": "Learning grounded causal models",
+   "authors": "ND Goodman, VK Mansinghka, JB Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 29 (29)",
+   "year": "2007"
+  },
+  {
+   "title": "Contrastive reinforcement learning of symbolic reasoning domains",
+   "authors": "G Poesia, WX Dong, N Goodman",
+   "venue": "Advances in neural information processing systems 34, 15946-15956",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to generate compositional color descriptions",
+   "authors": "W Monroe, N Goodman, C Potts",
+   "venue": "Proceedings of the 2016 conference on empirical methods in natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "Constraints for probabilistic logic programming",
+   "authors": "D Fierens, G Van den Broeck, M Bruynooghe, L De Raedt, D Roy, ...",
+   "venue": "Proceedings of the NIPS probabilistic programming workshop, 1-4",
+   "year": "2012"
+  },
+  {
+   "title": "Ping Pong in Church: Productive use of concepts in human probabilistic inference",
+   "authors": "T Gerstenberg, N Goodman",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "Endless terminals: Scaling rl environments for terminal agents",
+   "authors": "K Gandhi, S Garg, ND Goodman, D Papailiopoulos",
+   "venue": "arXiv preprint arXiv:2601.16443",
+   "year": "2026"
+  },
+  {
+   "title": "Human-like affective cognition in foundation models",
+   "authors": "K Gandhi, Z Lynch, JP Fränken, K Patterson, S Wambu, T Gerstenberg, ...",
+   "venue": "arXiv preprint arXiv:2409.11733",
+   "year": "2024"
+  },
+  {
+   "title": "Just one byte (per gradient): A note on low-bandwidth decentralized language model finetuning using shared randomness",
+   "authors": "E Zelikman, Q Huang, P Liang, N Haber, ND Goodman",
+   "venue": "arXiv preprint arXiv:2306.10015",
+   "year": "2023"
+  },
+  {
+   "title": "Emerging abstractions: Lexical conventions are shaped by communicative context",
+   "authors": "RXD Hawkins, M Franke, K Smith, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "The interactions of rational, pragmatic agents lead to efficient language structure and use",
+   "authors": "BN Peloquin, ND Goodman, MC Frank",
+   "venue": "Topics in Cognitive Science 12 (1), 433-445",
+   "year": "2020"
+  },
+  {
+   "title": "Practical optimal experiment design with probabilistic programs",
+   "authors": "L Ouyang, MH Tessler, D Ly, N Goodman",
+   "venue": "arXiv preprint arXiv:1608.05046",
+   "year": "2016"
+  },
+  {
+   "title": "Contact structures and open books",
+   "authors": "ND Goodman",
+   "venue": "The University of Texas at Austin",
+   "year": "2003"
+  },
+  {
+   "title": "A simple framework for uncertainty in contrastive learning",
+   "authors": "M Wu, N Goodman",
+   "venue": "arXiv preprint arXiv:2010.02038",
+   "year": "2020"
+  },
+  {
+   "title": "Learning from omission",
+   "authors": "B McDowell, N Goodman",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Multimodal generative models for compositional representation learning",
+   "authors": "M Wu, N Goodman",
+   "venue": "arXiv preprint arXiv:1912.05075",
+   "year": "2019"
+  },
+  {
+   "title": "What does the crowd believe? A hierarchical approach to estimating subjectivebeliefs from empirical data",
+   "authors": "M Franke, F Dablander, E Bennett, J Degen, MH Tessler, J Kao, ...",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Differentiable antithetic sampling for variance reduction in stochastic variational inference",
+   "authors": "M Wu, N Goodman, S Ermon",
+   "venue": "The 22nd International Conference on Artificial Intelligence and Statistics …",
+   "year": "2019"
+  },
+  {
+   "title": "Generating design suggestions under tight constraints with gradient‐based probabilistic programming",
+   "authors": "D Ritchie, S Lin, ND Goodman, P Hanrahan",
+   "venue": "Computer Graphics Forum 34 (2), 515-526",
+   "year": "2015"
+  },
+  {
+   "title": "ProbLog2: From probabilistic programming to statistical relational learning",
+   "authors": "J Renkens, D Shterionov, G Van den Broeck, J Vlasselaer, D Fierens, ...",
+   "venue": "Proceedings of the NIPS Probabilistic Programming Workshop",
+   "year": "2012"
+  },
+  {
+   "title": "Church: a language for generative models with non-parametric memoization and approximate inference",
+   "authors": "N Goodman, V Mansinghka, DM Roy, K Bonawitz, J Tenenbaum",
+   "venue": "Uncertainty in Artificial Intelligence 165",
+   "year": "2008"
+  },
+  {
+   "title": "Continuity of discourse provides information for word learning",
+   "authors": "A Fernald, M Frank, N Goodman, J Tenenbaum",
+   "venue": "Proceedings of the annual meeting of the Cognitive Science Society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "Parsel: A unified natural language framework for algorithmic reasoning",
+   "authors": "E Zelikman, Q Huang, G Poesia, ND Goodman, N Haber",
+   "venue": "arXiv preprint arXiv:2212.10561",
+   "year": "2022"
+  },
+  {
+   "title": "Analyzing machine‐learned representations: A natural language case study",
+   "authors": "I Dasgupta, D Guo, SJ Gershman, ND Goodman",
+   "venue": "Cognitive Science 44 (12), e12925",
+   "year": "2020"
+  },
+  {
+   "title": "Why do you ask? The informational dynamics of questions and answers",
+   "authors": "R Hawkins, N Goodman",
+   "venue": "OSF",
+   "year": "2017"
+  },
+  {
+   "title": "Warm (for winter): Comparison class understanding in vague language",
+   "authors": "MH Tessler, M Lopez-Brau, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 39",
+   "year": "2017"
+  },
+  {
+   "title": "A pragmatic theory of generic language",
+   "authors": "MH Tessler, ND Goodman",
+   "venue": "arXiv preprint arXiv:1608.02926",
+   "year": "2016"
+  },
+  {
+   "title": "Uncertainty and denial: a resource-rational model of the value of information",
+   "authors": "E Pierson, N Goodman",
+   "venue": "PloS one 9 (11), e113342",
+   "year": "2014"
+  },
+  {
+   "title": "What makes a maze look like a maze?",
+   "authors": "J Hsu, J Mao, JB Tenenbaum, ND Goodman, J Wu",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2025"
+  },
+  {
+   "title": "Near-misses sting even when they are uncontrollable",
+   "authors": "DC Ong, ND Goodman, J Zaki",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 37",
+   "year": "2015"
+  },
+  {
+   "title": "Bayesian scaling laws for in-context learning",
+   "authors": "A Arora, D Jurafsky, C Potts, ND Goodman",
+   "venue": "arXiv preprint arXiv:2410.16531",
+   "year": "2024"
+  },
+  {
+   "title": "Overinformative question answering by humans and machines",
+   "authors": "P Tsvilodub, M Franke, RD Hawkins, ND Goodman",
+   "venue": "arXiv preprint arXiv:2305.07151",
+   "year": "2023"
+  },
+  {
+   "title": "Improving automated variational inference with normalizing flows",
+   "authors": "S Webb, JP Chen, M Jankowiak, N Goodman",
+   "venue": "ICML workshop on automated machine learning",
+   "year": "2019"
+  },
+  {
+   "title": "Emotions in lay explanations of behavior",
+   "authors": "D Ong, J Zaki, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Some arguments are probably valid: Syllogistic reasoning as communication",
+   "authors": "M Tessler, N Goodman",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "The infinite latent events model",
+   "authors": "D Wingate, N Goodman, D Roy, J Tenenbaum",
+   "venue": "arXiv preprint arXiv:1205.2604",
+   "year": "2012"
+  },
+  {
+   "title": "Resource rational contractualism should guide AI alignment",
+   "authors": "S Levine, M Franklin, T Zhi-Xuan, SY Guyot, J Haas, L Wong, D Kilov, ...",
+   "venue": "Proceedings of IASEAI Conference 2 (1), 353-368",
+   "year": "2026"
+  },
+  {
+   "title": "Measuring progress toward AGI: A cognitive framework",
+   "authors": "R Burnell, Y Yamamori, O Firat, K Olszewska, S Hughes-Fitt, O Kelly, ...",
+   "venue": "arXiv preprint arXiv:2605.28405",
+   "year": "2026"
+  },
+  {
+   "title": "Social contract ai: Aligning ai assistants with implicit group norms",
+   "authors": "JP Fränken, S Kwok, P Ye, K Gandhi, D Arumugam, J Moore, A Tamkin, ...",
+   "venue": "arXiv preprint arXiv:2310.17769",
+   "year": "2023"
+  },
+  {
+   "title": "Assistive teaching of motor control tasks to humans",
+   "authors": "M Srivastava, E Biyik, S Mirchandani, N Goodman, D Sadigh",
+   "venue": "Advances in Neural Information Processing Systems 35, 28517-28529",
+   "year": "2022"
+  },
+  {
+   "title": "Foundation posteriors for approximate probabilistic inference",
+   "authors": "M Wu, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 35, 5335-5347",
+   "year": "2022"
+  },
+  {
+   "title": "Generalizing meanings from partners to populations: Hierarchical inference supports convention formation on networks",
+   "authors": "RD Hawkins, ND Goodman, AE Goldberg, TL Griffiths",
+   "venue": "arXiv preprint arXiv:2002.01510",
+   "year": "2020"
+  },
+  {
+   "title": "Inducing interpretable representations with variational autoencoders",
+   "authors": "N Siddharth, B Paige, A Desmaison, JW Van de Meent, F Wood, ...",
+   "venue": "arXiv preprint arXiv:1611.07492",
+   "year": "2016"
+  },
+  {
+   "title": "Neurally-guided procedural models: learning to guide procedural models with deep neural networks",
+   "authors": "D Ritchie, A Thomas, P Hanrahan, ND Goodman",
+   "venue": "arXiv preprint arXiv:1603.06143",
+   "year": "2016"
+  },
+  {
+   "title": "Beyond Boolean logic: exploring representation languages for learning complex concepts",
+   "authors": "S Piantadosi, J Tenenbaum, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2022. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 5",
+   "year": null
+  },
+  {
+   "title": "Manifold steering reveals the shared geometry of neural network representation and behavior",
+   "authors": "D Wurgaft, C Rager, M Kowal, V Shyam, S Feucht, U Bhalla, T Haklay, ...",
+   "venue": "arXiv preprint arXiv:2605.05115",
+   "year": "2026"
+  },
+  {
+   "title": "The singapore consensus on global ai safety research priorities",
+   "authors": "Y Bengio, T Maharaj, L Ong, S Russell, D Song, M Tegmark, L Xue, ...",
+   "venue": "arXiv preprint arXiv:2506.20702",
+   "year": "2025"
+  },
+  {
+   "title": "A reply to makelov et al.(2023)'s\" interpretability illusion\" arguments",
+   "authors": "Z Wu, A Geiger, J Huang, A Arora, T Icard, C Potts, ND Goodman",
+   "venue": "arXiv preprint arXiv:2401.12631",
+   "year": "2024"
+  },
+  {
+   "title": "Geoclidean: Few-shot generalization in euclidean geometry",
+   "authors": "J Hsu, J Wu, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 35, 39007-39019",
+   "year": "2022"
+  },
+  {
+   "title": "Feature dropout: Revisiting the role of augmentations in contrastive learning",
+   "authors": "A Tamkin, M Glasgow, X He, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 36, 61806-61835",
+   "year": "2023"
+  },
+  {
+   "title": "DABS 2.0: Improved datasets and algorithms for universal self-supervision",
+   "authors": "A Tamkin, G Banerjee, M Owda, V Liu, S Rammoorthy, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 35, 38358-38372",
+   "year": "2022"
+  },
+  {
+   "title": "When redundancy is rational: A bayesian approach to’overinformative’referring expressions",
+   "authors": "J Degen, RXD Hawkins, C Graf, E Kreiss, ND Goodman",
+   "venue": "arXiv preprint arXiv:1903.08237",
+   "year": "2019"
+  },
+  {
+   "title": "Conversational expectations account for apparent limits on theory of mind use",
+   "authors": "RXD Hawkins, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Comparing pluralities",
+   "authors": "G Scontras, P Graff, ND Goodman",
+   "venue": "Cognition 123 (1), 190-197",
+   "year": "2012"
+  },
+  {
+   "title": "Non-literal understanding of number words by language models",
+   "authors": "P Tsvilodub, K Gandhi, H Zhao, JP Fränken, M Franke, ND Goodman",
+   "venue": "arXiv preprint arXiv:2502.06204",
+   "year": "2025"
+  },
+  {
+   "title": "BoxingGym: Benchmarking progress in automated experimental design and model discovery",
+   "authors": "K Gandhi, MY Li, L Goodyear, A Bhatia, L Li, A Bhaskar, M Zaman, ...",
+   "venue": "arXiv preprint arXiv:2501.01540",
+   "year": "2025"
+  },
+  {
+   "title": "Learning to solve complex tasks by growing knowledge culturally across generations",
+   "authors": "MH Tessler, J Madeano, PA Tsividis, B Harper, ND Goodman, ...",
+   "venue": "arXiv preprint arXiv:2107.13377",
+   "year": "2021"
+  },
+  {
+   "title": "Generative grading: Neural approximate parsing for automated student feedback",
+   "authors": "A Malik, M Wu, V Vasavada, J Song, J Mitchell, N Goodman, C Piech",
+   "venue": "arXiv preprint arXiv:1905.09916",
+   "year": "2019"
+  },
+  {
+   "title": "webppl-oed: A practical optimal experiment design system",
+   "authors": "L Ouyang, MH Tessler, D Ly, ND Goodman",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Avoiding frostbite: It helps to learn from others",
+   "authors": "MH Tessler, ND Goodman, MC Frank",
+   "venue": "Behavioral and Brain Sciences",
+   "year": "2017"
+  },
+  {
+   "title": "In-context learning strategies emerge rationally",
+   "authors": "D Wurgaft, ES Lubana, CF Park, H Tanaka, G Reddy, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 38, 118425-118485",
+   "year": "2026"
+  },
+  {
+   "title": "Cultural reinforcement learning: a framework for modeling cumulative culture on a limited channel",
+   "authors": "B Prystawski, D Arumugam, N Goodman",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 45 (45)",
+   "year": "2023"
+  },
+  {
+   "title": "Calibrate your listeners! Robust communication-based training for pragmatic speakers",
+   "authors": "R Wang, J White, J Mu, N Goodman",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 977-984",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to explain: Answering why-questions via rephrasing",
+   "authors": "A Nie, E Bennett, N Goodman",
+   "venue": "Proceedings of the First Workshop on NLP for Conversational AI, 113-120",
+   "year": "2019"
+  },
+  {
+   "title": "Evaluating models of computation and storage in human sentence processing",
+   "authors": "MT Luong, T O’Donnell, N Goodman",
+   "venue": "Proceedings of the Sixth Workshop on Cognitive Aspects of Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Procedural dilemma generation for evaluating moral reasoning in humans and language models",
+   "authors": "JP Fränken, K Gandhi, T Qiu, A Khawaja, ND Goodman, T Gerstenberg",
+   "venue": "arXiv preprint arXiv:2404.10975",
+   "year": "2024"
+  },
+  {
+   "title": "On rate-distortion theory in capacity-limited cognition & reinforcement learning",
+   "authors": "D Arumugam, MK Ho, ND Goodman, B Van Roy",
+   "venue": "arXiv preprint arXiv:2210.16877",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent covert signaling in adversarial reference games",
+   "authors": "D Yu, J Mu, N Goodman",
+   "venue": "Emergent Communication Workshop at ICLR 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Tradeoffs between contrastive and supervised learning: An empirical study",
+   "authors": "A Karthik, M Wu, N Goodman, A Tamkin",
+   "venue": "arXiv preprint arXiv:2112.05340",
+   "year": "2021"
+  },
+  {
+   "title": "Neural event semantics for grounded language understanding",
+   "authors": "S Buch, L Fei-Fei, ND Goodman",
+   "venue": "Transactions of the Association for Computational Linguistics 9, 875-890",
+   "year": "2021"
+  },
+  {
+   "title": "The pragmatics of spatial language",
+   "authors": "TD Ullman, Y Xu, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Coarse-to-fine sequential monte carlo for probabilistic programs",
+   "authors": "A Stuhlmüller, RXD Hawkins, N Siddharth, ND Goodman",
+   "venue": "arXiv preprint arXiv:1509.02962",
+   "year": "2015"
+  },
+  {
+   "title": "Emergent collective sensing in human groups",
+   "authors": "PM Kraft, RXD Hawkins, A Pentland, ND Goodman, JB Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 37",
+   "year": "2015"
+  },
+  {
+   "title": "Random-world semantics and syntactic independence for expressive languages",
+   "authors": "D McAllester, B Milch, ND Goodman",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Learning to simulate human dialogue",
+   "authors": "K Gandhi, A Bhatia, ND Goodman",
+   "venue": "arXiv preprint arXiv:2601.04436",
+   "year": "2026"
+  },
+  {
+   "title": "Relevant answers to polar questions",
+   "authors": "RD Hawkins, P Tsvilodub, CA Bergey, ND Goodman, M Franke",
+   "venue": "Philosophical Transactions B 380 (1932), 20230505",
+   "year": "2025"
+  },
+  {
+   "title": "Generating language corrections for teaching physical control tasks",
+   "authors": "M Srivastava, N Goodman, D Sadigh",
+   "venue": "International Conference on Machine Learning, 32561-32574",
+   "year": "2023"
+  },
+  {
+   "title": "Concadia: Tackling image accessibility with context",
+   "authors": "E Kreiss, ND Goodman, C Potts",
+   "venue": "arXiv preprint arXiv:2104.08376",
+   "year": "2021"
+  },
+  {
+   "title": "Disentangling contributions of visual information and interaction history in theformation of graphical conventions",
+   "authors": "RXD Hawkins, M Sano, ND Goodman, JE Fan",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "Prior expectations in pedagogical situations",
+   "authors": "P Shafto, N Goodman, B Gerstle, F Ladusaw",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "Scaling up the think-aloud method",
+   "authors": "D Wurgaft, B Prystawski, K Gandhi, CE Zhang, JB Tenenbaum, ...",
+   "venue": "arXiv preprint arXiv:2505.23931",
+   "year": "2025"
+  },
+  {
+   "title": "Lemma: Bootstrapping high-level mathematical reasoning with learned symbolic abstractions",
+   "authors": "Z Li, G Poesia, O Costilla-Reyes, N Goodman, A Solar-Lezama",
+   "venue": "arXiv preprint arXiv:2211.08671",
+   "year": "2022"
+  },
+  {
+   "title": "Not by number alone: The effect of teachers' knowledge and its value in evaluating\" sins of omission\".",
+   "authors": "I Bass, D Hawthorne, ND Goodman, H Gweon",
+   "venue": "CogSci",
+   "year": "2015"
+  },
+  {
+   "title": "Reverse-engineering resource-efficient algorithms",
+   "authors": "F Lieder, ND Goodman, TL Griffiths",
+   "venue": "Article presented at NIPS-2013 Workshop Resource-Efficient ML, Lake Tahoe …",
+   "year": "2013"
+  },
+  {
+   "title": "Going beyond the evidence: Preschoolers’ inferences about abstract laws and anomalous data",
+   "authors": "LE Schulz, N Goodman, J Tenenbaum, A Jenkins",
+   "venue": "Cognition 109 (2), 211-223",
+   "year": "2008"
+  },
+  {
+   "title": "Learning from generic language.",
+   "authors": "MH Tessler, ND Goodman",
+   "venue": "Psychological Review",
+   "year": "2026"
+  },
+  {
+   "title": "Mathcamps: Fine-grained synthesis of mathematical problems from human curricula",
+   "authors": "S Mishra, G Poesia, B Mo, N Goodman",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Off the rails: Procedural dilemma generation for moral reasoning",
+   "authors": "JP Fränken, A Khawaja, K Gandhi, J Moore, ND Goodman, T Gerstenberg",
+   "venue": "AI Meets Moral Philosophy and Moral Psychology Workshop",
+   "year": "2023"
+  },
+  {
+   "title": "So good it has to be true: Wishful thinking in theory of mind",
+   "authors": "D Hawthorne-Madell, ND Goodman",
+   "venue": "Open Mind 1 (2), 101-110",
+   "year": "2017"
+  },
+  {
+   "title": "CalBench: Evaluating Coordination-Privacy Trade-offs in Multi-Agent LLMs",
+   "authors": "C Zou, Y Yao, S She, N Goodman, RD Hawkins",
+   "venue": "arXiv preprint arXiv:2605.09823",
+   "year": "2026"
+  },
+  {
+   "title": "Emergent symbol-like number variables in artificial neural networks",
+   "authors": "S Grant, ND Goodman, JL McClelland",
+   "venue": "arXiv preprint arXiv:2501.06141",
+   "year": "2025"
+  },
+  {
+   "title": "Critical: Critic automation with language models",
+   "authors": "MY Li, V Vajipey, ND Goodman, EB Fox",
+   "venue": "arXiv preprint arXiv:2411.06590",
+   "year": "2024"
+  },
+  {
+   "title": "Warm (for winter): Inferring comparison classes in communication",
+   "authors": "MH Tessler, ND Goodman",
+   "venue": "Cognitive Science 46 (3), e13095",
+   "year": "2022"
+  },
+  {
+   "title": "Automated generation of sentence reading fluency test items",
+   "authors": "J White, A Burkhardt, J Yeatman, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Multi-party referential communication in complex strategic games",
+   "authors": "J Mankewitz, V Boyce, B Waldon, G Loukatou, D Yu, J Mu, N Goodman, ...",
+   "venue": "OSF",
+   "year": "2021"
+  },
+  {
+   "title": "Visual resemblance and communicative context constrain the emergence of graphical conventions",
+   "authors": "RD Hawkins, M Sano, ND Goodman, JE Fan",
+   "venue": "arXiv preprint arXiv:2109.13861",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling item response theory with stochastic variational inference",
+   "authors": "M Wu, RL Davis, BW Domingue, C Piech, N Goodman",
+   "venue": "arXiv preprint arXiv:2108.11579",
+   "year": "2021"
+  },
+  {
+   "title": "Variational optimal experiment design: Efficient automation of adaptive experiments",
+   "authors": "A Foster, M Jankowiak, E Bingham, YW Teh, T Rainforth, N Goodman",
+   "venue": "NeurIPS Bayesian Deep Learning Workshop",
+   "year": "2018"
+  },
+  {
+   "title": "Communicating generalizations about events",
+   "authors": "MH Tessler, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "A cost-and information-based account of epistemic must",
+   "authors": "J Degen, JT Kao, G Scontras, ND Goodman",
+   "venue": "Poster at 28th annual CUNY conference on human sentence processing",
+   "year": "2015"
+  },
+  {
+   "title": "NumPyro: Probabilistic programming with NumPy",
+   "authors": "D Phan, N Pradhan, M Jankowiak, E Bingham, JP Chen, F Obermeyer, ...",
+   "venue": "Astrophysics Source Code Library, ascl: 2505.005",
+   "year": "2025"
+  },
+  {
+   "title": "Can visual scratchpads with diagrammatic abstractions augment llm reasoning?",
+   "authors": "J Hsu, G Poesia, J Wu, N Goodman",
+   "venue": "Proceedings on, 21-28",
+   "year": "2023"
+  },
+  {
+   "title": "Mixed-effects transformers for hierarchical adaptation",
+   "authors": "J White, N Goodman, RD Hawkins",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Two's company but six is a crowd: emergence of conventions in multiparty communication games",
+   "authors": "V Boyce, R Hawkins, N Goodman, MC Frank",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Pragmatic code autocomplete",
+   "authors": "G Poesia, N Goodman",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (1), 445-452",
+   "year": "2021"
+  },
+  {
+   "title": "Variational estimators for bayesian optimal experimental design",
+   "authors": "A Foster, M Jankowiak, E Bingham, P Horsfall, YW Teh, T Rainforth, ...",
+   "venue": "stat 1050, 13",
+   "year": "2019"
+  },
+  {
+   "title": "Amortized hypothesis generation",
+   "authors": "I Dasgupta, E Schulz, ND Goodman, SJ Gershman",
+   "venue": "bioRxiv, 137190",
+   "year": "2017"
+  },
+  {
+   "title": "Language and experience: A computational model of social learning in complex tasks",
+   "authors": "C Colas, T Mills, B Prystawski, M Tessler, N Goodman, J Andreas, ...",
+   "venue": "International Conference on Learning Representations 2026, 4305-4339",
+   "year": "2026"
+  },
+  {
+   "title": "Poly-EPO: Training Exploratory Reasoning Models",
+   "authors": "IH Orney, JI Hamid, SS Ramanujam, S Wu, H Hu, N Goodman, D Sadigh, ...",
+   "venue": "arXiv preprint arXiv:2604.17654",
+   "year": "2026"
+  },
+  {
+   "title": "Probabilistic programming versus meta-learning as models of cognition",
+   "authors": "DC Ong, T Zhi-Xuan, JB Tenenbaum, ND Goodman",
+   "venue": "Behav. Brain Sci. 47, e158",
+   "year": "2024"
+  },
+  {
+   "title": "From next-token to mathematics: The learning dynamics of mathematical reasoning in language models",
+   "authors": "S Mishra, G Poesia, ND Goodman",
+   "venue": "arXiv preprint arXiv:2407.00900",
+   "year": "2024"
+  },
+  {
+   "title": "Backtracing: Retrieving the cause of the query",
+   "authors": "R Wang, P Wirawarn, O Khattab, N Goodman, D Demszky",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2024, 722-735",
+   "year": "2024"
+  },
+  {
+   "title": "Characterizing tradeoffs between teaching via language and demonstrations in multi-agent systems",
+   "authors": "D Yu, ND Goodman, J Mu",
+   "venue": "arXiv preprint arXiv:2305.11374",
+   "year": "2023"
+  },
+  {
+   "title": "In the zone: Measuring difficulty and progression in curriculum generation",
+   "authors": "RE Wang, J Mu, D Arumugam, N Jaques, N Goodman",
+   "venue": "Deep Reinforcement Learning Workshop NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Speakers account for asymmetries in visual perspective so listeners don’t have to",
+   "authors": "RX Hawkins, H Gweon, ND Goodman",
+   "venue": "arXiv preprint arXiv:1807.09000",
+   "year": "2018"
+  },
+  {
+   "title": "Questions and answers in dialogue",
+   "authors": "R Hawkins, N Goodman",
+   "venue": "PsyArXiv: j2cp6",
+   "year": "2017"
+  },
+  {
+   "title": "Definitely, maybe: Approaching speaker commitment experimentally. Ms., University of Konstanz",
+   "authors": "J Degen, A Trotzke, G Scontras, E Wittenberg, ND Goodman",
+   "venue": "Stanford University",
+   "year": "2016"
+  },
+  {
+   "title": "Relational and role-governed categories: Views from psychology, computational modeling, and linguistics",
+   "authors": "M Goldwater, N Goodman, G Murphy, S Wechsler",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "Probabilistic programs as a unifying language of thought",
+   "authors": "N Goodman, T Gerstenberg, JB Tenenbaum",
+   "venue": "by Thomas L. Griffiths, Nick Chater & Joshua Tenenbaum. Cambridge …",
+   "year": "2024"
+  },
+  {
+   "title": "Multispectral contrastive learning with viewmaker networks",
+   "authors": "J Bayrooti, N Goodman, A Tamkin",
+   "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …",
+   "year": "2023"
+  },
+  {
+   "title": "Improving compositionality of neural networks by decoding representations to inputs",
+   "authors": "M Wu, N Goodman, S Ermon",
+   "venue": "Advances in Neural Information Processing Systems 34, 26689-26700",
+   "year": "2021"
+  },
+  {
+   "title": "On the importance of views in unsupervised representation learning",
+   "authors": "M Wu, C Zhuang, D Yamins, N Goodman",
+   "venue": "preprint 3",
+   "year": "2020"
+  },
+  {
+   "title": "Testing models of anchoring and adjustment",
+   "authors": "F Lieder, T Griffiths, Q Huys, N Goodman",
+   "venue": "PsyArXiv Preprint",
+   "year": "2017"
+  },
+  {
+   "title": "Talking with tact: Polite language as a balance between informativity and kindness.",
+   "authors": "EJ Yoon, MH Tessler, ND Goodman, MC Frank",
+   "venue": "CogSci",
+   "year": "2016"
+  },
+  {
+   "title": "Roses and flowers: An informativeness implicature in probabilistic pragmatics",
+   "authors": "R Levy, L Bergen, N Goodman",
+   "venue": "Slides from Semantics and Linguistic Theory 24",
+   "year": "2014"
+  },
+  {
+   "title": "Bootstrapping in a language of thought: A formal model of conceptual change in number word learning",
+   "authors": "ST Piantadosi, JB Tenenbaum, ND Goodman",
+   "venue": "Elsevier",
+   "year": "2012"
+  },
+  {
+   "title": "How Tall Is Tall? Compositionality, Statistics, and Gradable Adjectives",
+   "authors": "D Barner, N Goodman, L Schmidt, J Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "Computation and reuse in language",
+   "authors": "TJ O’Donnell, ND Goodman, J Snedeker, JB Tenenbaum",
+   "venue": "31st Annual Conference of the Cognitive Science Society, Amsterdam, The …",
+   "year": "2009"
+  },
+  {
+   "title": "QuasiMoTTo: Quasi-Monte Carlo Test-Time Scaling",
+   "authors": "MY Li, A Zhan, K Gandhi, ND Goodman, EB Fox",
+   "venue": "arXiv preprint arXiv:2607.01179",
+   "year": "2026"
+  },
+  {
+   "title": "auto-psych: Automating the science of mind using agent-driven theory discovery and experimentation",
+   "authors": "B Prystawski, K Mukherjee, D Wurgaft, L Nasvytis, MY Li, ND Goodman, ...",
+   "venue": "arXiv preprint arXiv:2606.26460",
+   "year": "2026"
+  },
+  {
+   "title": "CORE: Contrastive Reflection Enables Rapid Improvements in Reasoning",
+   "authors": "L Nasvytis, SJ Han, B Prystawski, S Grant, ND Goodman, JE Fan",
+   "venue": "arXiv preprint arXiv:2605.28742",
+   "year": "2026"
+  },
+  {
+   "title": "Lossy communication constrains iterated learning",
+   "authors": "B Prystawski, D Arumugam, ND Goodman",
+   "venue": "arXiv preprint arXiv:2511.18220",
+   "year": "2025"
+  },
+  {
+   "title": "Simple, scalable reasoning via iterated summarization",
+   "authors": "V Vajipey, A Tadimeti, J Shen, B Prystawski, MY Li, N Goodman",
+   "venue": "ICML 2025 Workshop on Long-Context Foundation Models",
+   "year": "2025"
+  },
+  {
+   "title": "Left to the Reader: Abstracting Solutions in Mathematical Reasoning",
+   "authors": "G Poesia Reis e Silva, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Mentioning atypical properties of objects is communicatively efficient.",
+   "authors": "E Kreiss, RX Hawkins, J Degen, ND Goodman",
+   "venue": "CogSci",
+   "year": "2017"
+  },
+  {
+   "title": "Nested and informative epistemics in a graphical models framework",
+   "authors": "D Lassiter, ND Goodman",
+   "venue": "Talk given at Bridging Logical and Probabilistic Approaches to Language and …",
+   "year": "2015"
+  },
+  {
+   "title": "When “all” means not all: Nonliteral interpretations of universal quantifiers",
+   "authors": "JT Kao, J Degen, ND Goodman",
+   "venue": "Xprag conference",
+   "year": "2015"
+  },
+  {
+   "title": "Toddlers Always Get the Last Word: Recency biases in early verbal behavior",
+   "authors": "E Sumner, E DeAngelis, M Hyatt, N Goodman, C Kidd",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 37",
+   "year": "2015"
+  },
+  {
+   "title": "Theory learning as stochastic search",
+   "authors": "TD Ullman, ND Goodman, JB Tenenbaum",
+   "venue": "Proceedings of the thirty-second annual conference of the cognitive science …",
+   "year": "2010"
+  },
+  {
+   "title": "Cause and Intent: Social Reasoning in Causal Learning",
+   "authors": "C Baker, N Goodman, J Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "A Bayesian Model of Pedagogical Reasoning.",
+   "authors": "P Shafto, ND Goodman",
+   "venue": "AAAI Fall Symposium: Naturally-Inspired Artificial Intelligence 8, 101-102",
+   "year": "2008"
+  },
+  {
+   "title": "Incrementalizing mcmc on probabilistic programs through tracing and slicing",
+   "authors": "L Yang, P Hanrahan, N Goodman",
+   "venue": "Under review",
+   "year": "2005"
+  },
+  {
+   "title": "Self-Play Pretraining with Zero Data",
+   "authors": "A Cowsik, K Dolev, MY Li, GB De Luca, N Cohen, ND Goodman, Y Levine",
+   "venue": "arXiv preprint arXiv:2609.30063",
+   "year": "2026"
+  },
+  {
+   "title": "SPIRAL: Learning to Search and Aggregate",
+   "authors": "JI Hamid, IH Orney, MY Li, O Shaikh, Y Lee, D Sadigh, C Finn, ...",
+   "venue": "arXiv preprint arXiv:2606.23595",
+   "year": "2026"
+  },
+  {
+   "title": "GIANTS: Generative Insight Anticipation from Scientific Literature",
+   "authors": "J He-Yueya, A Singh, G Gao, MY Li, S Yang, C Finn, E Brunskill, ...",
+   "venue": "arXiv preprint arXiv:2604.09793",
+   "year": "2026"
+  },
+  {
+   "title": "Automated Discovery of Tactic Libraries for Interactive Theorem Proving",
+   "authors": "Y Xin, J Xin, G Poesia, ND Goodman, Q Chen, I Dillig",
+   "venue": "Proceedings of the ACM on Programming Languages 9 (OOPSLA2), 1974-2001",
+   "year": "2025"
+  },
+  {
+   "title": "Language and Experience: A Computational Model of Social Learning in Complex Novel Tasks",
+   "authors": "CŽ Colas, T Mills, B Prystawski, MH Tessler, N Goodman, J Andreas, ...",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "Policy Dreamer: Diverse Public Policy Generation Via Elicitation and Simulation of Human Preferences",
+   "authors": "A Karanam, JR Enríquez, UM Sehwag, M Elabd, K Gandhi, N Goodman, ...",
+   "venue": "Workshop on Socially Responsible Language Modelling Research",
+   "year": "2024"
+  },
+  {
+   "title": "Procedural Dilemma Generation for Moral Reasoning in Humans and Language Models",
+   "authors": "JP Fränken, K Gandhi, T Qiu, A Khawaja, N Goodman, T Gerstenberg",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 46",
+   "year": "2024"
+  },
+  {
+   "title": "Multispectral self-supervised learning with viewmaker networks",
+   "authors": "J Bayrooti, N Goodman, A Tamkin",
+   "venue": "arXiv preprint arXiv:2302.05757 2",
+   "year": "2023"
+  },
+  {
+   "title": "Color Overmodification Emerges from Data-Driven Learning and Pragmatic Reasoning",
+   "authors": "F Fang, K Sinha, ND Goodman, C Potts, E Kreiss",
+   "venue": "arXiv preprint arXiv:2205.09172",
+   "year": "2022"
+  },
+  {
+   "title": "Know thy student: Interactive learning with Gaussian processes",
+   "authors": "RE Wang, M Wu, N Goodman",
+   "venue": "arXiv preprint arXiv:2204.12072",
+   "year": "2022"
+  },
+  {
+   "title": "System and method for object location detection from imagery",
+   "authors": "F Obermeyer, J Chen, V Lyapunov, L Gueguen, N Goodman, BJ Kadlec, ...",
+   "venue": "US Patent App. 16/536,869",
+   "year": "2020"
+  },
+  {
+   "title": "Extending rationality",
+   "authors": "EM Pothos, JR Busemeyer, T Pleskac, JM Yearsley, JB Tenenbaum, ...",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "Graphical convention formation during visual communication",
+   "authors": "RXD Hawkins, M Sano, ND Goodman, JE Fan",
+   "venue": "Proceedings of the 41st Annual Meeting of the Cognitive Science Society",
+   "year": "2019"
+  },
+  {
+   "title": "Modeling contextual flexibility in visual communication",
+   "authors": "J Fan, R Hawkins, M Wu, N Goodman",
+   "venue": "Journal of Vision 18 (10), 1045-1045",
+   "year": "2018"
+  },
+  {
+   "title": "Mentioning atypical properties of objects is communicatively efficient",
+   "authors": "J Degen, E Kreiss, RXD Hawkins, ND Goodman",
+   "venue": "MIT, Boston",
+   "year": "2017"
+  },
+  {
+   "title": "Understanding Affective Cognition: Frontiers in modeling reasoning about others’ emotions",
+   "authors": "D Ong, J Zaki, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Minimal Nativism: How does cognitive development get off the ground?",
+   "authors": "T Ullman, J Tenenbaum, N Goodman, S Ullman, E Spelke",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 35 (35)",
+   "year": "2013"
+  },
+  {
+   "title": "Learning and the language of thought",
+   "authors": "ND Goodman",
+   "venue": "2011 IEEE International Conference on Computer Vision Workshops (ICCV …",
+   "year": "2011"
+  },
+  {
+   "title": "Predicting object and scene descriptions with an information-theoretic model of pragmatics",
+   "authors": "M Frank, A Kenney, N Goodman, J Tenenbaum, A Torralba, A Oliva",
+   "venue": "Journal of Vision 10 (7), 1241-1241",
+   "year": "2010"
+  },
+  {
+   "title": "Supplementary material for “Using speakers’ referential intentions to model early cross-situational word learning”",
+   "authors": "MC Frank, ND Goodman, JB Tenenbaum",
+   "venue": "Machine Translation, 1-16",
+   "year": "2008"
+  },
+  {
+   "title": "D3: A dataset for training code lms to act diff-by-diff",
+   "authors": "U Piterbarg, K Gandhi, L Pinto, N Goodman, R Fergus",
+   "venue": "Second Conference on Language Modeling",
+   "year": null
+  },
+  {
+   "title": "When Do Models Admit They Are Wrong? Failure Disclosure Is Unstable Under Reinforcement Learning",
+   "authors": "SY Feng, ND Goodman, MC Frank, E Hubinger, PC Bogdan, A Lampinen",
+   "venue": "arXiv preprint arXiv:2609.33220",
+   "year": "2026"
+  },
+  {
+   "title": "Matryoshka attribution: Learning to attribute language model outputs to representations and weights",
+   "authors": "A Arora, K Acharya, N Hu, Y Zhang, N Goodman, D Jurafsky, C Potts",
+   "venue": "arXiv preprint arXiv:2609.25518",
+   "year": "2026"
+  },
+  {
+   "title": "A Model of Multi-turn Human Persuadability Using Probabilistic Belief Tracing",
+   "authors": "J Moore, N Goodman, N Haber, M Kleiman-Weiner",
+   "venue": "arXiv preprint arXiv:2606.05330",
+   "year": "2026"
+  },
+  {
+   "title": "SPIRAL: Learning to Search and Aggregate",
+   "authors": "J Ibn Hamid, IH Orney, MY Li, O Shaikh, Y Lee, D Sadigh, C Finn, ...",
+   "venue": "arXiv e-prints, arXiv: 2606.23595",
+   "year": "2026"
+  },
+  {
+   "title": "A Measurement Science Roadmap: From Human Assessment to AI Evaluation",
+   "authors": "S Truong, N Goodman, E Brunskill, B Domingue, N Haber, S Koyejo",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Neural Garbage Collection: Learning to Forget while Learning to Reason",
+   "authors": "MY Li, JI Hamid, EB Fox, ND Goodman",
+   "venue": "arXiv preprint arXiv:2604.18002",
+   "year": "2026"
+  },
+  {
+   "title": "Discovering and transmitting abstract knowledge over generations",
+   "authors": "B Prystawski, MC Frank, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 48",
+   "year": "2026"
+  },
+  {
+   "title": "From Experiments to Discovery: A Principled Approach to Measuring How Well LLMs Do Science",
+   "authors": "K Gandhi, MY Li, L Goodyear, A Bhatia, Y Li, A Bhaskar, M Zaman, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Thinking fast, slow, and everywhere in between in humans and language models",
+   "authors": "B Prystawski, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "Naturalistic Transmission of Causal Knowledge between Machines and Humans",
+   "authors": "C Colas, T Mills, B Prystawski, MH Tessler, N Goodman, J Andreas, ...",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 46",
+   "year": "2024"
+  },
+  {
+   "title": "Symbolic Variables in Distributed Networks that Count",
+   "authors": "S Grant, Z Wu, JL McClelland, N Goodman",
+   "venue": "ICLR 2024 Workshop on Representational Alignment",
+   "year": "2024"
+  },
+  {
+   "title": "Cultural reinforcement learning: a framework for modeling cumulative culture on a limited",
+   "authors": "B Prystawski, D Arumugam, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 45 (45)",
+   "year": "2023"
+  },
+  {
+   "title": "Two's company but six is a crowd: emergence of conventions in multiparty communication",
+   "authors": "V Boyce, R Hawkins, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Generalizing meanings from partners to populations: Hierarchical inference supports",
+   "authors": "R Hawkins, ND Goodman, AE Goldberg",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 42 (0)",
+   "year": "2020"
+  },
+  {
+   "title": "Amortized Inference for Probabilistic Programs",
+   "authors": "N Goodman",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "The First Crank of the Cultural Ratchet: Learning and Transmitting Concepts through",
+   "authors": "S Chopra, MH Tessler, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 41 (0)",
+   "year": "2019"
+  },
+  {
+   "title": "Disentangling contributions of visual information and interaction history in theformation of",
+   "authors": "RXD Hawkins, M Sano, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 41 (0)",
+   "year": "2019"
+  },
+  {
+   "title": "Joint Mapping and Calibration via Differentiable Sensor Fusion",
+   "authors": "JP Chen, F Obermeyer, V Lyapunov, L Gueguen, ND Goodman",
+   "venue": "arXiv preprint arXiv:1812.00880",
+   "year": "2018"
+  },
+  {
+   "title": "Polite speech emerges from competing social goals (old ms ver)",
+   "authors": "E Yoon, M Tessler, N Goodman, M Frank",
+   "venue": "OSF",
+   "year": "2018"
+  },
+  {
+   "title": "Learning to Refer to 3D Objects with Natural Language",
+   "authors": "P Achlioptas, JE Fan, RXD Hawkins, ND Goodman, L Guibas",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Deriving uniform information density behavior in pragmatic agents",
+   "authors": "B Peloquin, N Goodman, M Frank",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Generalizations, from representations to transmission",
+   "authors": "MH Tessler, ND Goodman, D Danks, E Foster-Hanson, M Rhodes, ...",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Statistics as Pottery: Bayesian Data Analysis using Probabilistic Programs (Tutorial)",
+   "authors": "MH Tessler",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Remembrance of Inferences Past",
+   "authors": "I Dasgupta, E Schulz, ND Goodman, SJ Gershman",
+   "venue": "bioRxiv, 231837",
+   "year": "2017"
+  },
+  {
+   "title": "ANCHORING-AND-ADJUSTMENT",
+   "authors": "F Lieder, TL Griffiths, QJM Huys, ND Goodman",
+   "venue": "OSF",
+   "year": "2017"
+  },
+  {
+   "title": "Beyond Reward Prediction Errors: Human Striatum Updates Rule Values During Learning",
+   "authors": "ND Goodman, IC Ballard, SM McClure, ST Piantadosi, EM Miller",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "The Emergence of Conventions",
+   "authors": "RXD Hawkins, ND Goodman, K Smith, O Fehér, RL Goldstone, T Griffiths",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Empirical and Computational Approaches to Metaphor and Figurative Meaning",
+   "authors": "JT Kao, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Not by number alone: The effect of teachers ‚Äô knowledge and its value in evaluating",
+   "authors": "I Bass, D Hawthorne-Madell, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 37 (0)",
+   "year": "2015"
+  },
+  {
+   "title": "Not by number alone: The effect of teachers ‚Äô knowledge and its value in evaluating ‚Äúsins of omission ‚Äù",
+   "authors": "I Bass, D Hawthorne-Madell, ND Goodman, H Gweon",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 37",
+   "year": "2015"
+  },
+  {
+   "title": "21 Probabilistic Semantics and Pragmatics",
+   "authors": "ND Goodman, D Lassiter",
+   "venue": "The Handbook of Contemporary Semantic Theory, 655",
+   "year": "2015"
+  },
+  {
+   "title": "CBMM Memo No. 010 June 14, 2014 Concepts in a Probabilistic Language of Thought",
+   "authors": "ND Goodman, JB Tenenbaum, T Gerstenberg",
+   "venue": "To appear in The Conceptual Mind: New Directions in the Study of Concepts",
+   "year": "2014"
+  },
+  {
+   "title": "Concepts in a Probabilistic Language of Thought",
+   "authors": "ND Goodman, JB Tenenbaum, T Gerstenberg",
+   "venue": "Concepts: New Directions",
+   "year": "2014"
+  },
+  {
+   "title": "Nonliteral understanding of number words",
+   "authors": "L Bergen, JT Kao, JY Wu, ND Goodman",
+   "venue": "National Academy of Sciences (US)",
+   "year": "2014"
+  },
+  {
+   "title": "Symposium: The Role of Alternatives in Pragmatic Inference",
+   "authors": "J Degen, N Goodman, R Katzir, D Barner, A Gatt",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Learning Stochastic Inverses",
+   "authors": "J Taylor, ND Goodman",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Theory learning as stochastic search in the language of thought",
+   "authors": "ND Goodman, JB Tenenbaum, TD Ullman",
+   "venue": "Elsevier",
+   "year": "2012"
+  },
+  {
+   "title": "Probability, programs, and the mind: Building structured Bayesian models of cognition",
+   "authors": "N Goodman, J Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "Noisy Newtons",
+   "authors": "T Gerstenberg, N Goodman, DA Lagnado, JB Tenenbaum",
+   "venue": "Proceedings of the 34th annual conference of the cognitive science society",
+   "year": "2012"
+  },
+  {
+   "title": "Where science starts: Spontaneous experiments in preschoolers’ exploratory play",
+   "authors": "ND Goodman, CE Cook, LE Schulz",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Forward Physics: How people learn and generalize novel dynamical models",
+   "authors": "T Ullman, N Goodman, J Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "Success in Theory of Mind",
+   "authors": "RM Scott, A Petrashek, N Goodman, R Saxe",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "1. Not a Sure Thing: Fitness, Probability, and Causation Not a Sure Thing: Fitness, Probability, and Causation (pp. 147-171)",
+   "authors": "DM Walsh, L Henderson, ND Goodman, JB Tenenbaum, JF Woodward, ...",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Developmental and computational perspectives on infant social cognition",
+   "authors": "ND Goodman, CL Baker, TD Ullman, JB Tenenbaum, K Hamlin, K Wynn, ...",
+   "venue": "Cognitive Science Society",
+   "year": "2010"
+  },
+  {
+   "title": "One and Done? Optimal Decisions from Very Few Samples",
+   "authors": "N Goodman, T Griffiths, J Tenenbaum, E Vul",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "Compositionality in rational analysis: Grammar-based induction for concept learning",
+   "authors": "ND Goodman, JB Tenenbaum, TL Griffiths, J Feldman",
+   "venue": "Oxford University Press",
+   "year": "2008"
+  },
+  {
+   "title": "Compositionality in rational analysis: Grammar-based induction for concept learning",
+   "authors": "ND Goodman, JB Tenenbaum, TL Griffiths, J Feldman",
+   "venue": "The probabilistic mind: Prospects for Bayesian cognitive science",
+   "year": "2008"
+  },
+  {
+   "title": "A counterfactual simulation model of causal judgments for physical events Tobias Gerstenberg* Stanford University",
+   "authors": "ND Goodman, DA Lagnado, JB Tenenbaum",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "40292 USA 3 Department of Brain and Cognitive Sciences, Masachusets Institute of Technology, Cambridge MA 02139 USA 4",
+   "authors": "E Bonawitz, P Shafto, H Gweon, ND Goodman, E Spelke, L Schulz",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Language, Cognition, and Mind Lucas Bechberger Kai-Uwe Kühnberger Mingya Liu Editors Concepts in",
+   "authors": "T Fitch, P Gärdenfors, B Geurts, ND Goodman, R Ladd, D Lassiter",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "1 BCS/CSAIL",
+   "authors": "D Wingate, ND Goodman, DM Roy, LP Kaelbling, JB Tenenbaum",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Bootstrapping in a language of thought: a formal model of conceptual change in number word learning Steven T. Piantadosi Department of Brain and Cognitive Sciences, MIT",
+   "authors": "JB Tenenbaum, ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "SPONTANEOUS EXPERIMENTS",
+   "authors": "C Cook, N Goodman, LE Schulz, L Schulz",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Belief Dynamics Unify In-Context Learning and Activation Steering",
+   "authors": "E Bigelow, D Wurgaft, YQ Wang, N Goodman, T Ullman, H Tanaka, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The Dark Side of Invariance: Revisiting the Role of Augmentations in Contrastive Learning",
+   "authors": "A Tamkin, M Glasgow, X He, N Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Good Explanations Fit Prior Knowledge",
+   "authors": "J Hartshorne, T Gerstenberg, N Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Classification via Minimum Incremental Coding Length (MICL)",
+   "authors": "B Fischer, P Li, T Hastie, R Luss, A D'Aspremont, J He, J Carbonell, ...",
+   "venue": "Advances in Neural Information Processing Systems, 753-760",
+   "year": null
+  },
+  {
+   "title": "D3: A Large Dataset for Training Code Language Models to Act Diff-by-Diff",
+   "authors": "U Piterbarg, K Gandhi, L Pinto, N Goodman, R Fergus",
+   "venue": "Scaling Self-Improving Foundation Models without Human Supervision",
+   "year": null
+  },
+  {
+   "title": "Aurore Avargu è s-Weber, Research Centre for Animal Cognition, CNRS–Universit é de Toulouse Eef Ameel, Faculty of Psychology and Educational Sciences, University of Leuven …",
+   "authors": "HC Barrett, P Boyer, E Camp, S Carey, D Casasanto, NS Clayton, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Productivity and Reuse in Language: a Developmental Study",
+   "authors": "T O’Donnell, J Snedeker, J Tenenbaum, N Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "CALM: Critic Automation with Language Models",
+   "authors": "MY Li, V Vajipey, N Goodman, E Fox",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Nonliteral Language Understanding for Number Words",
+   "authors": "JT Kao, JY Wu, L Bergen, ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Bias and Generalization in Deep Generative Models",
+   "authors": "S Zhao, H Ren, A Yuan, J Song, N Goodman, S Ermon",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Pretrained models are active learners",
+   "authors": "A Tamkin, D Nguyen, S Deshpande, J Mu, N Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Left to the Reader: Abstracting Solutions in Mathematical Reasoning",
+   "authors": "G Poesia, ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Language, Cognition, and Mind",
+   "authors": "T Fitch, P Gärdenfors, B Geurts, ND Goodman, R Ladd, D Lassiter",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Joint Triangulation and Mapping via Differentiable Sensor Fusion",
+   "authors": "JP Chen, F Obermeyer, V Lyapunov, ATG Uber, L Gueguen, N Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Warm (for Winter): Inferring comparison classes for gradable adjectives",
+   "authors": "MH Tessler, ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Shapeglot: Learning Language for Shape Differentiation Supplemental Materials",
+   "authors": "P Achlioptas, J Fan, R Hawkins, N Goodman, L Guibas",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Characterizing how Visual Question Answering models scale with the world",
+   "authors": "E Bingham, P Molino, P Szerlip, F Obermeyer, ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Workshop on Computational Pragmatics",
+   "authors": "A Benz, R Klabunde, S Reuße, J Stevens, K van Deemter, N Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "LEARNING TO COMMUNICATE ABOUT CONCEPTUAL HIERARCHIES",
+   "authors": "RXD Hawkins, K Smith, M Franke, ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Probabilistic integration of linguistic framing in ad-hoc pragmatic implicatures",
+   "authors": "AG Emilsson, MC Frank, N Goodman, C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Intuitive Pedagogical Reasoning: An Interdisciplinary Workshop",
+   "authors": "P Shafto, N Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Communicating with Epistemic Modals in Stochastic λ-Calculus",
+   "authors": "D Lassiter, ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "What do newspapers, watches, credit cards, and liquors bottles have in common? A computational exploration of question behavior.",
+   "authors": "RXD Hawkins, ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Justine T. Kao, Department of Psychology, Stanford University Roger Levy, Department of Linguistics, UCSD",
+   "authors": "ND Goodman, JT Kao",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning Stochastic Inverses for Adaptive Inference in Probabilistic Programs",
+   "authors": "ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Controllability and resource-rational planning",
+   "authors": "FLNDG Quentin, JM Huys",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Just-in-time Compilation of MCMC for Probabilistic Programs",
+   "authors": "L Yang, YT Yeh, ND Goodman, P Hanrahan",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Grounding Lexical Meaning in Core Cognition",
+   "authors": "ND Goodman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A formal model of number word acquisition",
+   "authors": "ST Piantadosi, ND Goodman, JB Tenenbaum",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The acquisition and use of abstract causal knowledge",
+   "authors": "C Kemp, ND Goodman, JB Tenenbaum",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning and using relational theories: supporting material",
+   "authors": "C Kemp, ND Goodman, JB Tenenbaum",
+   "venue": "star 91 (99), 19",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,311 @@
+{
+ "user": "ta7rCJAAAAAJ",
+ "pubs": [
+  {
+   "title": "Dynabench: Rethinking benchmarking in NLP",
+   "authors": "D Kiela, M Bartolo, Y Nie, D Kaushik, A Geiger, Z Wu, B Vidgen, G Prasad, ...",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Mquake: Assessing knowledge editing in language models via multi-hop questions",
+   "authors": "Z Zhong, Z Wu, CD Manning, C Potts, D Chen",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Mapping the increasing use of LLMs in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "CoLM 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Reft: Representation finetuning for language models",
+   "authors": "Z Wu, A Arora, Z Wang, A Geiger, D Jurafsky, CD Manning, C Potts",
+   "venue": "NeurIPS 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Causal abstraction: A theoretical foundation for mechanistic interpretability",
+   "authors": "A Geiger, D Ibeling, A Zur, M Chaudhary, S Chauhan, J Huang, A Arora, ...",
+   "venue": "JMLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Finding alignments between interpretable causal variables and distributed neural representations",
+   "authors": "A Geiger, Z Wu, C Potts, T Icard, N Goodman",
+   "venue": "CLeaR 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Axbench: Steering llms? even simple baselines outperform sparse autoencoders",
+   "authors": "Z Wu, A Arora, A Geiger, Z Wang, J Huang, D Jurafsky, CD Manning, ...",
+   "venue": "ICML 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Quantifying large language model usage in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "Nature Human Behaviour 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Interpretability at scale: Identifying causal mechanisms in alpaca",
+   "authors": "Z Wu, A Geiger, T Icard, C Potts, N Goodman",
+   "venue": "NeurIPS 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Inducing causal structure for interpretable neural networks",
+   "authors": "A Geiger, Z Wu, H Lu, J Rozner, E Kreiss, T Icard, N Goodman, C Potts",
+   "venue": "ICML 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Context-guided bert for targeted aspect-based sentiment analysis",
+   "authors": "Z Wu, DC Ong",
+   "venue": "AAAI 2021",
+   "year": "2021"
+  },
+  {
+   "title": "DynaSent: A dynamic benchmark for sentiment analysis",
+   "authors": "C Potts, Z Wu, A Geiger, D Kiela",
+   "venue": "ACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling emotion in complex stories: the Stanford Emotional Narratives Dataset",
+   "authors": "DC Ong, Z Wu, ZX Tan, M Reddan, I Kahhale, A Mattek, J Zaki",
+   "venue": "TAC 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Rotating online behavior change interventions increases effectiveness but also increases attrition",
+   "authors": "G Kovacs, Z Wu, MS Bernstein",
+   "venue": "CSCW 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Cebab: Estimating the causal effects of real-world concepts on nlp model behavior",
+   "authors": "ED Abraham, K D'Oosterlinck, A Feder, Y Gat, A Geiger, C Potts, ...",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Llms encode harmfulness and refusal separately",
+   "authors": "J Zhao, J Huang, Z Wu, D Bau, W Shi",
+   "venue": "NeurIPS 2026",
+   "year": "2026"
+  },
+  {
+   "title": "RAVEL: Evaluating interpretability methods on disentangling language model representations",
+   "authors": "J Huang, Z Wu, C Potts, M Geva, A Geiger",
+   "venue": "ACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "In-context sharpness as alerts: An inner representation perspective for hallucination mitigation",
+   "authors": "S Chen, M Xiong, J Liu, Z Wu, T Xiao, S Gao, J He",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Rigorously assessing natural language explanations of neurons",
+   "authors": "J Huang, A Geiger, K D’Oosterlinck, Z Wu, C Potts",
+   "venue": "BlackboxNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "pyvene: A library for understanding and improving PyTorch models via interventions",
+   "authors": "Z Wu, A Geiger, A Arora, J Huang, Z Wang, N Goodman, CD Manning, ...",
+   "venue": "NAACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Causal proxy models for concept-based model explanations",
+   "authors": "Z Wu, K D’Oosterlinck, A Geiger, A Zur, C Potts",
+   "venue": "ICML 2023",
+   "year": "2023"
+  },
+  {
+   "title": "On explaining your explanations of bert: An empirical study with sequence classification",
+   "authors": "Z Wu, DC Ong",
+   "venue": "arXiv preprint arXiv:2101.00196",
+   "year": "2021"
+  },
+  {
+   "title": "Conservation of procrastination: Do productivity interventions save time or just redistribute it?",
+   "authors": "G Kovacs, DM Gregory, Z Ma, Z Wu, G Emami, J Ray, MS Bernstein",
+   "venue": "CHI 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Not now, ask later: users weaken their behavior change regimen over time, but expect to re-strengthen it imminently",
+   "authors": "G Kovacs, Z Wu, MS Bernstein",
+   "venue": "CHI 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Zeroc: A neuro-symbolic model for zero-shot concept recognition and acquisition at inference time",
+   "authors": "T Wu, M Tjandrasuwita, Z Wu, X Yang, K Liu, R Sosic, J Leskovec",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Recogs: How incidental details of a logical form overshadow an evaluation of semantic interpretation",
+   "authors": "Z Wu, CD Manning, C Potts",
+   "venue": "TACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Causal distillation for language models",
+   "authors": "Z Wu, A Geiger, J Rozner, E Kreiss, H Lu, T Icard, C Potts, N Goodman",
+   "venue": "NAACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "ReaSCAN: Compositional reasoning in language grounding",
+   "authors": "Z Wu, E Kreiss, DC Ong, C Potts",
+   "venue": "NeurIPS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Structured self-attention weights encode semantics in sentiment analysis",
+   "authors": "DCO Zhengxuan Wu, Thanh-Son Nguyen",
+   "venue": "BlackboxNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Attending to emotional narratives",
+   "authors": "Z Wu, X Zhang, T Zhi-Xuan, J Zaki, DC Ong",
+   "venue": "ACII 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Social microclimates and well-being",
+   "authors": "AL Courtney, D Baltiansky, W Fang, M Roshanaei, Y Aybas, N Samuels, ...",
+   "venue": "Emotion 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Language model circuits are sparse in the neuron basis",
+   "authors": "A Arora, Z Wu, J Steinhardt, S Schwettmann",
+   "venue": "ICML 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Improved representation steering for language models",
+   "authors": "Z Wu, Q Yu, A Arora, CD Manning, C Potts",
+   "venue": "NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Hypersteer: Activation steering at scale with hypernetworks",
+   "authors": "J Sun, S Baskaran, Z Wu, M Sklar, C Potts, A Geiger",
+   "venue": "arXiv preprint arXiv:2506.03292",
+   "year": "2025"
+  },
+  {
+   "title": "A reply to makelov et al.(2023)'s\" interpretability illusion\" arguments",
+   "authors": "Z Wu, A Geiger, J Huang, A Arora, T Icard, C Potts, ND Goodman",
+   "venue": "arXiv preprint arXiv:2401.12631",
+   "year": "2024"
+  },
+  {
+   "title": "Inducing character-level structure in subword-based language models with type-level interchange intervention training",
+   "authors": "J Huang, Z Wu, K Mahowald, C Potts",
+   "venue": "ACL Findings 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Oolong: Investigating what makes transfer learning hard with controlled studies",
+   "authors": "Z Wu, A Tamkin, I Papadimitriou",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Identifying the limits of cross-domain knowledge transfer for pretrained models",
+   "authors": "Z Wu, NF Liu, C Potts",
+   "venue": "Rep4NLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Oolong: Investigating What Makes Transfer Learning Hard with Controlled Studies",
+   "authors": "Z Wu, A Tamkin, I Papadimitriou",
+   "venue": "EMNLP 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Attention uncovers task-relevant semantics in emotional narrative understanding",
+   "authors": "TS Nguyen, Z Wu, DC Ong",
+   "venue": "KBS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Disentangling latent emotions of word embeddings on complex emotional narratives",
+   "authors": "Z Wu, Y Jiang",
+   "venue": "NLPCC 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Upward flame spread and extinction over wavy solids",
+   "authors": "EJ Stalcup, JS T’ien, J Jordan, Z Wu, G Nastac, C Li",
+   "venue": "CST 2020",
+   "year": "2020"
+  },
+  {
+   "title": "ADAG: Automatically describing attribution graphs",
+   "authors": "A Arora, Z Wu, J Steinhardt, S Schwettmann",
+   "venue": "CoLM 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Dancing in chains: Reconciling instruction following and faithfulness in language models",
+   "authors": "Z Wu, Y Zhang, P Qi, Y Xu, R Han, Y Zhang, J Chen, B Min, Z Huang",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "People optimally and flexibly process emotional information across multiple modalities",
+   "authors": "D Ong, K Jospe, M Reddan, Z Wu, I Kahhale, P Chen, A Perry",
+   "venue": "OSF 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Uncovering Political Promotion in China: A Network Analysis of Patronage Relationship in Autocracy",
+   "authors": "Z Wu, J Luo, X Zhang",
+   "venue": "arXiv preprint arXiv:1902.00625",
+   "year": "2019"
+  },
+  {
+   "title": "Pragmatically informative color generation by grounding contextual modifiers",
+   "authors": "Z Wu, DC Ong",
+   "venue": "SCiL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "The Piggyback Hypothesis of Generalization: Explaining and Mitigating Emergent Misalignment",
+   "authors": "J Zhao, Z Wu, A Arora, Y Sun, D Bau, W Shi",
+   "venue": "arXiv preprint arXiv:2606.06667",
+   "year": "2026"
+  },
+  {
+   "title": "Correcting Gradient-Based Circuit Localization via Interaction-Aware Backpropagation",
+   "authors": "J Edin, CL Christensen, R Csordás, T Ruotsalo, Z Wu, M Maistro, J Huang, ...",
+   "venue": "arXiv preprint arXiv:2505.17630",
+   "year": "2025"
+  },
+  {
+   "title": "XYEval: Agents say yes to bad advice",
+   "authors": "Z Wu, Y Li, O Tafjord, B Kim",
+   "venue": "arXiv preprint arXiv:2609.23939",
+   "year": "2026"
+  },
+  {
+   "title": "PreFT: Prefill-only finetuning for efficient inference",
+   "authors": "A Lanpouthakoun, A Arora, Z Wu, D Pai, B Keigwin, D Jurafsky, C Potts",
+   "venue": "arXiv preprint arXiv:2605.14217",
+   "year": "2026"
+  }
+ ]
+}

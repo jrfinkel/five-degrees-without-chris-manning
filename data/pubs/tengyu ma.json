@@ -1,0 +1,905 @@
+{
+ "user": "i38QlUwAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Sam 2: Segment anything in images and videos",
+   "authors": "N Ravi, V Gabeur, YT Hu, R Hu, C Ryali, T Ma, H Khedr, R Rädle, ...",
+   "venue": "International Conference on Learning Representations 2025, 28085-28128",
+   "year": "2025"
+  },
+  {
+   "title": "Learning imbalanced datasets with label-distribution-aware margin loss",
+   "authors": "K Cao, C Wei, A Gaidon, N Arechiga, T Ma",
+   "venue": "NeurIPS 2019; arXiv preprint arXiv:1906.07413",
+   "year": "2019"
+  },
+  {
+   "title": "A simple but tough-to-beat baseline for sentence embeddings",
+   "authors": "S Arora, Y Liang, T Ma",
+   "venue": "ICLR 2017",
+   "year": "2016"
+  },
+  {
+   "title": "An explanation of in-context learning as implicit bayesian inference",
+   "authors": "SM Xie, A Raghunathan, P Liang, T Ma",
+   "venue": "arXiv preprint arXiv:2111.02080",
+   "year": "2021"
+  },
+  {
+   "title": "Mopo: Model-based offline policy optimization",
+   "authors": "T Yu, G Thomas, L Yu, S Ermon, JY Zou, S Levine, C Finn, T Ma",
+   "venue": "Advances in neural information processing systems 33, 14129-14142",
+   "year": "2020"
+  },
+  {
+   "title": "Fine-tuning can distort pretrained features and underperform out-of-distribution",
+   "authors": "A Kumar, A Raghunathan, R Jones, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2202.10054",
+   "year": "2022"
+  },
+  {
+   "title": "What learning algorithm is in-context learning? investigations with linear models",
+   "authors": "E Akyürek, D Schuurmans, J Andreas, T Ma, D Zhou",
+   "venue": "arXiv preprint arXiv:2211.15661",
+   "year": "2022"
+  },
+  {
+   "title": "Generalization and Equilibrium in Generative Adversarial Nets (GANs)",
+   "authors": "S Arora, R Ge, Y Liang, T Ma, Y Zhang",
+   "venue": "ICML 2017;arXiv preprint arXiv:1703.00573, 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Matrix Completion has No Spurious Local Minimum",
+   "authors": "R Ge, JD Lee, T Ma",
+   "venue": "NIPS 2016 (best student paper). arXiv preprint arXiv:1605.07272",
+   "year": "2016"
+  },
+  {
+   "title": "A latent variable model approach to pmi-based word embeddings",
+   "authors": "S Arora, Y Li, Y Liang, T Ma, A Risteski",
+   "venue": "Transactions of the Association for Computational Linguistics 4, 385-399",
+   "year": "2016"
+  },
+  {
+   "title": "Verified uncertainty calibration",
+   "authors": "A Kumar, PS Liang, T Ma",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Larger language models do in-context learning differently",
+   "authors": "J Wei, J Wei, Y Tay, D Tran, A Webson, Y Lu, X Chen, H Liu, D Huang, ...",
+   "venue": "arXiv preprint arXiv:2303.03846",
+   "year": "2023"
+  },
+  {
+   "title": "Doremi: Optimizing data mixtures speeds up language model pretraining",
+   "authors": "SM Xie, H Pham, X Dong, N Du, H Liu, Y Lu, PS Liang, QV Le, T Ma, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 69798-69818",
+   "year": "2023"
+  },
+  {
+   "title": "Fixup initialization: Residual learning without normalization",
+   "authors": "H Zhang, YN Dauphin, T Ma",
+   "venue": "arXiv preprint arXiv:1901.09321",
+   "year": "2019"
+  },
+  {
+   "title": "Provable guarantees for self-supervised deep learning with spectral contrastive loss",
+   "authors": "JZ HaoChen, C Wei, A Gaidon, T Ma",
+   "venue": "Advances in neural information processing systems 34, 5000-5011",
+   "year": "2021"
+  },
+  {
+   "title": "Identity Matters in Deep Learning",
+   "authors": "M Hardt, T Ma",
+   "venue": "ICLR 2017",
+   "year": "2016"
+  },
+  {
+   "title": "Document-level relation extraction with adaptive thresholding and localized context pooling",
+   "authors": "W Zhou, K Huang, T Ma, J Huang",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 35 (16), 14612 …",
+   "year": "2021"
+  },
+  {
+   "title": "Towards explaining the regularization effect of initial large learning rate in training neural networks",
+   "authors": "Y Li, C Wei, T Ma",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Provable bounds for learning some deep representations",
+   "authors": "S Arora, A Bhaskara, R Ge, T Ma",
+   "venue": "International conference on machine learning, 584-592",
+   "year": "2014"
+  },
+  {
+   "title": "Algorithmic Regularization in Over-parameterized Matrix Recovery and Neural Networks with Quadratic Activations",
+   "authors": "Y Li, T Ma, H Zhang",
+   "venue": "COLT 2018 (best paper); arXiv preprint arXiv:1712.09203",
+   "year": "2017"
+  },
+  {
+   "title": "Linear algebraic structure of word senses, with applications to polysemy",
+   "authors": "S Arora, Y Li, Y Liang, T Ma, A Risteski",
+   "venue": "arXiv preprint arXiv:1601.03764",
+   "year": "2016"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "Gradient descent learns linear dynamical systems",
+   "authors": "M Hardt, T Ma, B Recht",
+   "venue": "Journal of Machine Learning Research 19 (29), 1-44",
+   "year": "2018"
+  },
+  {
+   "title": "Data selection for language models via importance resampling",
+   "authors": "SM Xie, S Santurkar, T Ma, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 36, 34201-34227",
+   "year": "2023"
+  },
+  {
+   "title": "Sophia: A scalable stochastic second-order optimizer for language model pre-training",
+   "authors": "H Liu, Z Li, D Hall, P Liang, T Ma",
+   "venue": "International conference on learning representations 2024, 1621-1650",
+   "year": "2024"
+  },
+  {
+   "title": "Finding Approximate Local Minima for Nonconvex Optimization in Linear Time",
+   "authors": "N Agarwal, Z Allen-Zhu, B Bullins, E Hazan, T Ma",
+   "venue": "STOC 2017",
+   "year": "2016"
+  },
+  {
+   "title": "Large language models as tool makers",
+   "authors": "T Cai, X Wang, T Ma, X Chen, D Zhou",
+   "venue": "International Conference on Learning Representations 2024, 54067-54089",
+   "year": "2024"
+  },
+  {
+   "title": "Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel",
+   "authors": "TM Colin Wei, Jason D. Lee, Qiang Liu",
+   "venue": "arXiv preprint arXiv:1810.05369",
+   "year": "2019"
+  },
+  {
+   "title": "Chain of thought empowers transformers to solve inherently serial problems",
+   "authors": "Z Li, H Liu, D Zhou, T Ma",
+   "venue": "International Conference on Learning Representations 2024, 11911-11943",
+   "year": "2024"
+  },
+  {
+   "title": "Understanding self-training for gradual domain adaptation",
+   "authors": "A Kumar, T Ma, P Liang",
+   "venue": "International conference on machine learning, 5468-5479",
+   "year": "2020"
+  },
+  {
+   "title": "Theoretical analysis of self-training with deep networks on unlabeled data",
+   "authors": "C Wei, K Shen, Y Chen, T Ma",
+   "venue": "arXiv preprint arXiv:2010.03622",
+   "year": "2020"
+  },
+  {
+   "title": "Perception encoder: The best visual embeddings are not at the output of the network",
+   "authors": "D Bolya, PY Huang, P Sun, JH Cho, A Madotto, C Wei, T Ma, J Zhi, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 60884-60937",
+   "year": "2026"
+  },
+  {
+   "title": "Learning one-hidden-layer neural networks with landscape design",
+   "authors": "R Ge, JD Lee, T Ma",
+   "venue": "ICLR 2017; arXiv preprint arXiv:1711.00501",
+   "year": "2017"
+  },
+  {
+   "title": "Algorithmic framework for model-based deep reinforcement learning with theoretical guarantees",
+   "authors": "Y Luo, H Xu, Y Li, Y Tian, T Darrell, T Ma",
+   "venue": "arXiv preprint arXiv:1807.03858",
+   "year": "2018"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Self-supervised learning is more robust to dataset imbalance",
+   "authors": "H Liu, JZ HaoChen, A Gaidon, T Ma",
+   "venue": "arXiv preprint arXiv:2110.05025",
+   "year": "2021"
+  },
+  {
+   "title": "Simple, efficient, and neural algorithms for sparse coding",
+   "authors": "S Arora, R Ge, T Ma, A Moitra",
+   "venue": "Conference on Learning Theory (COLT) 2015. arXiv preprint arXiv:1503.00778",
+   "year": "2015"
+  },
+  {
+   "title": "One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention",
+   "authors": "A Mahankali, T Hashimoto, T Ma",
+   "venue": "International Conference on Learning Representations 2024, 32077-32096",
+   "year": "2024"
+  },
+  {
+   "title": "Federated accelerated stochastic gradient descent",
+   "authors": "H Yuan, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 33, 5332-5344",
+   "year": "2020"
+  },
+  {
+   "title": "Communication lower bounds for statistical estimation problems via a distributed data processing inequality",
+   "authors": "M Braverman, A Garg, T Ma, HL Nguyen, DP Woodruff",
+   "venue": "48th Annual Symposium on the Theory of Computing (STOC), 2016. arXiv …",
+   "year": "2015"
+  },
+  {
+   "title": "Label noise sgd provably prefers flat global minimizers",
+   "authors": "A Damian, T Ma, JD Lee",
+   "venue": "Advances in Neural Information Processing Systems 34, 27449-27461",
+   "year": "2021"
+  },
+  {
+   "title": "Sam 2: Segment anything in images and videos, 2024",
+   "authors": "N Ravi, V Gabeur, YT Hu, R Hu, C Ryali, T Ma, H Khedr, R Rädle, ...",
+   "venue": "URL https://arxiv. org/abs/2408.00714 3",
+   "year": "2024"
+  },
+  {
+   "title": "Optimal regularization can mitigate double descent",
+   "authors": "P Nakkiran, P Venkat, S Kakade, T Ma",
+   "venue": "arXiv preprint arXiv:2003.01897",
+   "year": "2020"
+  },
+  {
+   "title": "The implicit and explicit regularization effects of dropout",
+   "authors": "C Wei, S Kakade, T Ma",
+   "venue": "International conference on machine learning, 10181-10192",
+   "year": "2020"
+  },
+  {
+   "title": "Sam 2: Segment anything in images and videos. arXiv 2024",
+   "authors": "N Ravi, V Gabeur, YT Hu, R Hu, C Ryali, T Ma, H Khedr, R Rädle, ...",
+   "venue": "arXiv preprint arXiv:2408.00714",
+   "year": null
+  },
+  {
+   "title": "Statistically meaningful approximation: a case study on approximating turing machines with transformers",
+   "authors": "C Wei, Y Chen, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 35, 12071-12083",
+   "year": "2022"
+  },
+  {
+   "title": "A la carte embedding: Cheap but effective induction of semantic feature vectors",
+   "authors": "M Khodak, N Saunshi, Y Liang, T Ma, B Stewart, S Arora",
+   "venue": "ACL 2018; arXiv preprint arXiv:1805.05388",
+   "year": "2018"
+  },
+  {
+   "title": "How does sharpness-aware minimization minimize sharpness?",
+   "authors": "K Wen, T Ma, Z Li",
+   "venue": "arXiv preprint arXiv:2211.05729",
+   "year": "2022"
+  },
+  {
+   "title": "Learning over-parametrized two-layer neural networks beyond ntk",
+   "authors": "Y Li, T Ma, HR Zhang",
+   "venue": "Conference on learning theory, 2613-2682",
+   "year": "2020"
+  },
+  {
+   "title": "Polynomial-time tensor decompositions with sum-of-squares",
+   "authors": "T Ma, J Shi, D Steurer",
+   "venue": "57th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2016 …",
+   "year": "2016"
+  },
+  {
+   "title": "Why do pretrained language models help in downstream tasks? an analysis of head and prompt tuning",
+   "authors": "C Wei, SM Xie, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 34, 16158-16170",
+   "year": "2021"
+  },
+  {
+   "title": "Shape matters: Understanding the implicit bias of the noise covariance",
+   "authors": "JZ HaoChen, C Wei, J Lee, T Ma",
+   "venue": "Conference on Learning Theory, 2315-2357",
+   "year": "2021"
+  },
+  {
+   "title": "Connect, not collapse: Explaining contrastive learning for unsupervised domain adaptation",
+   "authors": "K Shen, RM Jones, A Kumar, SM Xie, JZ HaoChen, T Ma, P Liang",
+   "venue": "International conference on machine learning, 19847-19878",
+   "year": "2022"
+  },
+  {
+   "title": "Safe reinforcement learning by imagining the near future",
+   "authors": "G Thomas, Y Luo, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 34, 13859-13869",
+   "year": "2021"
+  },
+  {
+   "title": "Sam 3: Segment anything with concepts, 2025",
+   "authors": "N Carion, L Gustafson, YT Hu, S Debnath, R Hu, D Suris, C Ryali, ...",
+   "venue": "URL https://arxiv. org/abs/2511.16719 2",
+   "year": "2025"
+  },
+  {
+   "title": "Calibrating predictions to decisions: A novel approach to multi-class calibration",
+   "authors": "S Zhao, M Kim, R Sahoo, T Ma, S Ermon",
+   "venue": "Advances in Neural Information Processing Systems 34, 22313-22324",
+   "year": "2021"
+  },
+  {
+   "title": "Data-dependent sample complexity of deep neural networks via lipschitz augmentation",
+   "authors": "C Wei, T Ma",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Distributed stochastic variance reduced gradient methods by sampling extra data with replacement",
+   "authors": "JD Lee, Q Lin, T Ma, T Yang",
+   "venue": "Journal of Machine Learning Research 18 (122), 1-43",
+   "year": "2017"
+  },
+  {
+   "title": "On the Optimization Landscape of Tensor Decompositions",
+   "authors": "R Ge, T Ma",
+   "venue": "NIPS'17 (oral); arXiv preprint arXiv:1706.05598",
+   "year": "2017"
+  },
+  {
+   "title": "On communication cost of distributed statistical estimation and dimensionality",
+   "authors": "A Garg, T Ma, H Nguyen",
+   "venue": "Advances in Neural Information Processing Systems (NIPS'14), 2726-2734",
+   "year": "2014"
+  },
+  {
+   "title": "Plan better amid conservatism: Offline multi-agent reinforcement learning with actor rectification",
+   "authors": "L Pan, L Huang, T Ma, H Xu",
+   "venue": "International conference on machine learning, 17221-17237",
+   "year": "2022"
+  },
+  {
+   "title": "Symbol tuning improves in-context learning in language models",
+   "authors": "J Wei, L Hou, A Lampinen, X Chen, D Huang, Y Tay, X Chen, Y Lu, ...",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Same pre-training loss, better downstream: Implicit bias matters for language models",
+   "authors": "H Liu, SM Xie, Z Li, T Ma",
+   "venue": "International Conference on Machine Learning, 22188-22214",
+   "year": "2023"
+  },
+  {
+   "title": "Self-training avoids using spurious features under domain shift",
+   "authors": "Y Chen, C Wei, A Kumar, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 33, 21061-21071",
+   "year": "2020"
+  },
+  {
+   "title": "On the ability of neural nets to express distributions",
+   "authors": "H Lee, R Ge, A Risteski, T Ma, S Arora",
+   "venue": "COLT 2017; arXiv preprint arXiv:1702.07028",
+   "year": "2017"
+  },
+  {
+   "title": "Heteroskedastic and imbalanced deep learning with adaptive regularization",
+   "authors": "K Cao, Y Chen, J Lu, N Arechiga, A Gaidon, T Ma",
+   "venue": "arXiv preprint arXiv:2006.15766",
+   "year": "2020"
+  },
+  {
+   "title": "Individual calibration with randomized forecasting",
+   "authors": "S Zhao, T Ma, S Ermon",
+   "venue": "International Conference on Machine Learning, 11387-11397",
+   "year": "2020"
+  },
+  {
+   "title": "Understanding warmup-stable-decay learning rates: A river valley loss landscape perspective",
+   "authors": "K Wen, Z Li, J Wang, D Hall, P Liang, T Ma",
+   "venue": "arXiv preprint arXiv:2410.05192",
+   "year": "2024"
+  },
+  {
+   "title": "Stp: Self-play llm theorem provers with iterative conjecturing and proving",
+   "authors": "K Dong, T Ma",
+   "venue": "arXiv preprint arXiv:2502.00212",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Fantastic pretraining optimizers and where to find them",
+   "authors": "K Wen, D Hall, T Ma, P Liang",
+   "venue": "International Conference on Learning Representations 2026, 144731-144838",
+   "year": "2026"
+  },
+  {
+   "title": "Dr3: Value-based deep reinforcement learning requires explicit regularization",
+   "authors": "A Kumar, R Agarwal, T Ma, A Courville, G Tucker, S Levine",
+   "venue": "arXiv preprint arXiv:2112.04716",
+   "year": "2021"
+  },
+  {
+   "title": "Approximability of discriminators implies diversity in GANs",
+   "authors": "Y Bai, T Ma, A Risteski",
+   "venue": "arXiv preprint arXiv:1806.10586",
+   "year": "2018"
+  },
+  {
+   "title": "Perceptionlm: Open-access data and models for detailed visual understanding",
+   "authors": "JH Cho, A Madotto, E Mavroudi, T Afouras, T Nagarajan, M Maaz, Y Song, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 23475-23537",
+   "year": "2026"
+  },
+  {
+   "title": "Sharp bounds for federated averaging (local sgd) and continuous perspective",
+   "authors": "MR Glasgow, H Yuan, T Ma",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 9050-9090",
+   "year": "2022"
+  },
+  {
+   "title": "Learning with nested scene modeling and cooperative architecture search for low-light vision",
+   "authors": "R Liu, L Ma, T Ma, X Fan, Z Luo",
+   "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence 45 (5), 5953-5969",
+   "year": "2022"
+  },
+  {
+   "title": "Sum-of-squares lower bounds for sparse PCA",
+   "authors": "T Ma, A Wigderson",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Linguistic Calibration of Long-Form Generations",
+   "authors": "N Band, X Li, T Ma, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2404.00474",
+   "year": "2024"
+  },
+  {
+   "title": "In-n-out: Pre-training and self-training using auxiliary information for out-of-distribution robustness",
+   "authors": "SM Xie, A Kumar, R Jones, F Khani, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2012.04550",
+   "year": "2020"
+  },
+  {
+   "title": "Decomposing overcomplete 3rd order tensors using sum-of-squares algorithms",
+   "authors": "R Ge, T Ma",
+   "venue": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and …",
+   "year": "2015"
+  },
+  {
+   "title": "Residual learning without normalization via better initialization",
+   "authors": "H Zhang, YN Dauphin, T Ma",
+   "venue": "International conference on learning representations 3, 2",
+   "year": "2019"
+  },
+  {
+   "title": "Sharpness minimization algorithms do not only minimize sharpness to achieve better generalization",
+   "authors": "K Wen, Z Li, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 36, 1024-1035",
+   "year": "2023"
+  },
+  {
+   "title": "Model-based adversarial meta-reinforcement learning",
+   "authors": "Z Lin, G Thomas, G Yang, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 33, 10161-10173",
+   "year": "2020"
+  },
+  {
+   "title": "Learning barrier certificates: Towards safe reinforcement learning with zero training-time violations",
+   "authors": "Y Luo, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 34, 25621-25632",
+   "year": "2021"
+  },
+  {
+   "title": "Beyond separability: Analyzing the linear transferability of contrastive representations to related subpopulations",
+   "authors": "JZ HaoChen, C Wei, A Kumar, T Ma",
+   "venue": "Advances in neural information processing systems 35, 26889-26902",
+   "year": "2022"
+  },
+  {
+   "title": "Why are deep nets reversible: A simple theory, with implications for training",
+   "authors": "S Arora, Y Liang, T Ma",
+   "venue": "ICLR workshop 2016; arXiv preprint arXiv:1511.05653",
+   "year": "2015"
+  },
+  {
+   "title": "Deep learning identifies robust gender differences in functional brain organization and their dissociable links to clinical symptoms in autism",
+   "authors": "K Supekar, C de Los Angeles, S Ryali, K Cao, T Ma, V Menon",
+   "venue": "The British Journal of Psychiatry 220 (4), 202-209",
+   "year": "2022"
+  },
+  {
+   "title": "Improved sample complexities for deep neural networks and robust classification via an all-layer margin",
+   "authors": "C Wei, T Ma",
+   "venue": "International Conference on Learning Representations",
+   "year": "2020"
+  },
+  {
+   "title": "The simulated greedy algorithm for several submodular matroid secretary problems",
+   "authors": "T Ma, B Tang, Y Wang",
+   "venue": "Theory of Computing Systems 58 (4), 681-706",
+   "year": "2016"
+  },
+  {
+   "title": "More algorithms for provable dictionary learning",
+   "authors": "S Arora, A Bhaskara, R Ge, T Ma",
+   "venue": "arXiv preprint arXiv:1401.0579",
+   "year": "2014"
+  },
+  {
+   "title": "Fine-grained gap-dependent bounds for tabular mdps via adaptive multi-step bootstrap",
+   "authors": "H Xu, T Ma, S Du",
+   "venue": "Conference on Learning Theory, 4438-4472",
+   "year": "2021"
+  },
+  {
+   "title": "On the Performance of Thompson Sampling on Logistic Bandits",
+   "authors": "S Dong, T Ma, B Van Roy",
+   "venue": "COLT 2019; arXiv preprint arXiv:1905.04654",
+   "year": "2019"
+  },
+  {
+   "title": "Calibrated ensembles can mitigate accuracy tradeoffs under distribution shift",
+   "authors": "A Kumar, T Ma, P Liang, A Raghunathan",
+   "venue": "Uncertainty in Artificial Intelligence, 1041-1051",
+   "year": "2022"
+  },
+  {
+   "title": "A theoretical study of inductive biases in contrastive learning",
+   "authors": "JZ HaoChen, T Ma",
+   "venue": "arXiv preprint arXiv:2211.14699",
+   "year": "2022"
+  },
+  {
+   "title": "Provable model-based nonlinear bandit and reinforcement learning: Shelve optimism, embrace virtual curvature",
+   "authors": "K Dong, J Yang, T Ma",
+   "venue": "Advances in neural information processing systems 34, 26168-26182",
+   "year": "2021"
+  },
+  {
+   "title": "Online learning of eigenvectors",
+   "authors": "D Garber, E Hazan, T Ma",
+   "venue": "International Conference on Machine Learning, 560-568",
+   "year": "2015"
+  },
+  {
+   "title": "Iterative feature matching: Toward provable domain generalization with logarithmic environments",
+   "authors": "Y Chen, E Rosenfeld, M Sellke, T Ma, A Risteski",
+   "venue": "Advances in neural information processing systems 35, 1725-1736",
+   "year": "2022"
+  },
+  {
+   "title": "Optimal Design of Process Flexibility for General Production Systems",
+   "authors": "X Chen, T Ma, J Zhang, Y Zhou",
+   "venue": "Operations Research; arXiv preprint arXiv:1806.02894",
+   "year": "2018"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Entity and evidence guided document-level relation extraction",
+   "authors": "K Huang, P Qi, G Wang, T Ma, J Huang",
+   "venue": "Proceedings of the 6th Workshop on Representation Learning for NLP (RepL4NLP …",
+   "year": "2021"
+  },
+  {
+   "title": "Improved sample complexities for deep networks and robust classification via an all-layer margin",
+   "authors": "C Wei, T Ma",
+   "venue": "arXiv preprint arXiv:1910.04284",
+   "year": "2019"
+  },
+  {
+   "title": "On the expressivity of neural networks for deep reinforcement learning",
+   "authors": "K Dong, Y Luo, T Yu, C Finn, T Ma",
+   "venue": "International conference on machine learning, 2627-2637",
+   "year": "2020"
+  },
+  {
+   "title": "Provable Algorithms for Inference in Topic Models",
+   "authors": "S Arora, R Ge, F Koehler, T Ma, A Moitra",
+   "venue": "The 33rd International Conference on Machine Learning (ICML 2016). arXiv …",
+   "year": "2016"
+  },
+  {
+   "title": "& Feichtenhofer, C.(2024). Sam 2: Segment anything in images and videos",
+   "authors": "N Ravi, V Gabeur, YT Hu, R Hu, C Ryali, T Ma",
+   "venue": "arXiv preprint arXiv:2408.00714 10",
+   "year": null
+  },
+  {
+   "title": "First steps toward understanding the extrapolation of nonlinear models to unseen domains",
+   "authors": "K Dong, T Ma",
+   "venue": "arXiv preprint arXiv:2211.11719",
+   "year": "2022"
+  },
+  {
+   "title": "Provable learning of Noisy-or Networks",
+   "authors": "S Arora, R Ge, T Ma, A Risteski",
+   "venue": "STOC 2017; arXiv preprint arXiv:1612.08795",
+   "year": "2016"
+  },
+  {
+   "title": "Beyond ntk with vanilla gradient descent: A mean-field analysis of neural networks with polynomial width, samples, and time",
+   "authors": "A Mahankali, H Zhang, K Dong, M Glasgow, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 36, 57367-57480",
+   "year": "2023"
+  },
+  {
+   "title": "What is the inductive bias of flatness regularization? a study of deep matrix factorization models",
+   "authors": "K Gatmiry, Z Li, T Ma, S Reddi, S Jegelka, CY Chuang",
+   "venue": "Advances in Neural Information Processing Systems 36, 28040-28052",
+   "year": "2023"
+  },
+  {
+   "title": "PIA: Parallel architecture with illumination allocator for joint enhancement and detection in low-light",
+   "authors": "T Ma, L Ma, X Fan, Z Luo, R Liu",
+   "venue": "Proceedings of the 30th ACM international conference on multimedia, 2070-2078",
+   "year": "2022"
+  },
+  {
+   "title": "Active online learning with hidden shifting domains",
+   "authors": "Y Chen, H Luo, T Ma, C Zhang",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 2053-2061",
+   "year": "2021"
+  },
+  {
+   "title": "Formal theorem proving by rewarding llms to decompose proofs hierarchically",
+   "authors": "K Dong, A Mahankali, T Ma",
+   "venue": "arXiv preprint arXiv:2411.01829",
+   "year": "2024"
+  },
+  {
+   "title": "Composed fine-tuning: Freezing pre-trained denoising autoencoders for improved generalization",
+   "authors": "SM Xie, T Ma, P Liang",
+   "venue": "International Conference on Machine Learning, 11424-11435",
+   "year": "2021"
+  },
+  {
+   "title": "A Non-generative Framework and Convex Relaxations for Unsupervised Learning",
+   "authors": "E Hazan, T Ma",
+   "venue": "Neural Information Processing Systems (NIPS 2016). arXiv preprint arXiv:1610 …",
+   "year": "2016"
+  },
+  {
+   "title": "Learning self-correctable policies and value functions from demonstrations with negative sampling",
+   "authors": "Y Luo, H Xu, T Ma",
+   "venue": "arXiv preprint arXiv:1907.05634",
+   "year": "2019"
+  },
+  {
+   "title": "Beyond lazy training for over-parameterized tensor decomposition",
+   "authors": "X Wang, C Wu, JD Lee, T Ma, R Ge",
+   "venue": "Advances in Neural Information Processing Systems 33, 21934-21944",
+   "year": "2020"
+  },
+  {
+   "title": "A model-based approach for sample-efficient multi-task reinforcement learning",
+   "authors": "NC Landolfi, G Thomas, T Ma",
+   "venue": "arXiv preprint arXiv:1907.04964",
+   "year": "2019"
+  },
+  {
+   "title": "Asymptotic instance-optimal algorithms for interactive decision making",
+   "authors": "K Dong, T Ma",
+   "venue": "arXiv preprint arXiv:2206.02326",
+   "year": "2022"
+  },
+  {
+   "title": "Robust and on-the-fly dataset denoising for image classification",
+   "authors": "J Song, Y Dauphin, M Auli, T Ma",
+   "venue": "European Conference on Computer Vision, 556-572",
+   "year": "2020"
+  },
+  {
+   "title": "Why do local methods solve",
+   "authors": "T Ma",
+   "venue": "Beyond the Worst-Case Analysis of Algorithms, 465",
+   "year": "2021"
+  },
+  {
+   "title": "Scaling self-play with self-guidance",
+   "authors": "L Bailey, K Wen, K Dong, T Hashimoto, T Ma",
+   "venue": "arXiv preprint arXiv:2604.20209",
+   "year": "2026"
+  },
+  {
+   "title": "Variance-reduced first-order meta-learning for natural language processing tasks",
+   "authors": "LX Wang, K Huang, T Ma, Q Gu, J Huang",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Max-margin works while large margin fails: Generalization without uniform convergence",
+   "authors": "M Glasgow, C Wei, M Wootters, T Ma",
+   "venue": "arXiv preprint arXiv:2206.07892",
+   "year": "2022"
+  },
+  {
+   "title": "A new variation of hat guessing games",
+   "authors": "T Ma, X Sun, H Yu",
+   "venue": "International Computing and Combinatorics Conference, 616-626",
+   "year": "2011"
+  },
+  {
+   "title": "Fantastic Pretraining Optimizers and Where to Find Them II: Hyperball Optimization",
+   "authors": "K Wen, X Dang, K Lyu, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2606.16899",
+   "year": "2026"
+  },
+  {
+   "title": "SAM 2: segment anything in images and videos. arXiv. doi: 10.48550",
+   "authors": "N Ravi, V Gabeur, YT Hu, R Hu, C Ryali, T Ma, H Khedr, R Rädle, ...",
+   "venue": "arXiv preprint arXiv.2408.00714 21",
+   "year": "2024"
+  },
+  {
+   "title": "Meta-learning transferable representations with a single target domain",
+   "authors": "H Liu, JZ HaoChen, C Wei, T Ma",
+   "venue": "arXiv preprint arXiv:2011.01418",
+   "year": "2020"
+  },
+  {
+   "title": "SAM 2: Segment Anything in Images and Videos. arXiv. 2024 doi: 10.48550",
+   "authors": "N Ravi, V Gabeur, YT Hu, R Hu, C Ryali, T Ma, H Khedr, R Rädle, ...",
+   "venue": "arXiv preprint arXiv.2408.00714 2408",
+   "year": null
+  },
+  {
+   "title": "Theory of deep learning",
+   "authors": "R Arora, S Arora, J Bruna, N Cohen, S Du, R Ge, S Gunasekar, C Jin, ...",
+   "venue": "Princeton University Press, Princeton",
+   "year": "2020"
+  },
+  {
+   "title": "R. R” adle, C. Rolland, L. Gustafson, E. Mintun",
+   "authors": "N Ravi, V Gabeur, YT Hu, R Hu, C Ryali, T Ma, H Khedr",
+   "venue": "J. Pan, KV Alwala, N. Carion, C.-Y. Wu, R. Girshick, P. Doll´ ar, and C …",
+   "year": null
+  },
+  {
+   "title": "Non-asymptotic length generalization",
+   "authors": "T Chen, T Ma, Z Li",
+   "venue": "arXiv preprint arXiv:2506.03085",
+   "year": "2025"
+  },
+  {
+   "title": "Rä dle, R",
+   "authors": "N Ravi, V Gabeur, YT Hu, R Hu, C Ryali, T Ma, H Khedr",
+   "venue": "Rolland, C., Gustafson, L., et al",
+   "year": "2024"
+  },
+  {
+   "title": "Toward L_∞ Recovery of Nonlinear Functions: A Polynomial Sample Complexity Bound for Gaussian Random Fields",
+   "authors": "K Dong, T Ma",
+   "venue": "The Thirty Sixth Annual Conference on Learning Theory, 2877-2918",
+   "year": "2023"
+  },
+  {
+   "title": "SAM 2: Segment Anything in Images and Videos. arXiv. 2024 10.48550",
+   "authors": "N Ravi, V Gabeur, YT Hu, R Hu, C Ryali, T Ma, H Khedr, R Rädle, ...",
+   "venue": "arXiv preprint arXiv.2408.00714 2408",
+   "year": null
+  },
+  {
+   "title": "Near-optimal algorithms for autonomous exploration and multi-goal stochastic shortest path",
+   "authors": "H Cai, T Ma, S Du",
+   "venue": "International Conference on Machine Learning, 2434-2456",
+   "year": "2022"
+  },
+  {
+   "title": "Joint system-wise optimization for pipeline goal-oriented dialog system",
+   "authors": "Z Lin, J Huang, B Zhou, X He, T Ma",
+   "venue": "arXiv preprint arXiv:2106.04835",
+   "year": "2021"
+  },
+  {
+   "title": "Pseudo-Formalization for Automatic Proof Verification",
+   "authors": "S Barkallah, L Bailey, K Wen, M Abouzaid, T Ma",
+   "venue": "arXiv preprint arXiv:2605.20531",
+   "year": "2026"
+  },
+  {
+   "title": "Non-convex optimization for machine learning: design, analysis, and understanding",
+   "authors": "T Ma",
+   "venue": "Princeton University",
+   "year": "2017"
+  },
+  {
+   "title": "Configuration-to-Performance Scaling Law with Neural Ansatz",
+   "authors": "H Zhang, K Wen, T Ma",
+   "venue": "arXiv preprint arXiv:2602.10300",
+   "year": "2026"
+  },
+  {
+   "title": "Anchored Self-Play for Code Repair",
+   "authors": "C Choi, Z Kaya, S Wu, T Ma, T Hashimoto, L Schmidt",
+   "venue": "arXiv preprint arXiv:2607.03523",
+   "year": "2026"
+  },
+  {
+   "title": "Provable guarantees for self-supervised deep learning with spectral contrastive loss",
+   "authors": "JZ HAOCHEN, WEI Colin, AD GAIDON, MA Tengyu",
+   "venue": "US Patent 12,423,961",
+   "year": "2025"
+  },
+  {
+   "title": "Value-Based Deep Reinforcement Learning Requires Explicit Regularization",
+   "authors": "A Kumar, R Agarwal, T Ma, A Courville, G Tucker, S Levine",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "On a conjecture of Butler and Graham",
+   "authors": "T Ma, X Sun, H Yu",
+   "venue": "Designs, Codes and Cryptography; arXiv preprint arXiv:1107.2027",
+   "year": "2011"
+  },
+  {
+   "title": "Anchoring Self-Play for Code Repair",
+   "authors": "C Choi, ZN Kaya, S Wu, T Ma, T Hashimoto, L Schmidt",
+   "venue": "Forty-third International Conference on Machine Learning",
+   "year": null
+  },
+  {
+   "title": "Trust the Critic More",
+   "authors": "K Wen, L Bailey, A Mahankali, T Ma",
+   "venue": "arXiv preprint arXiv:2609.39247",
+   "year": "2026"
+  },
+  {
+   "title": "Divide-and-Conquer CoT: RL for Reducing Latency via Parallel Reasoning",
+   "authors": "A Mahankali, K Wen, T Ma",
+   "venue": "arXiv preprint arXiv:2601.23027",
+   "year": "2026"
+  },
+  {
+   "title": "Improved Uncertainty Post-Calibration via Rank Preserving Transforms",
+   "authors": "Y Bai, T Ma, H Wang, C Xiong",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Simple, Efficient, and Neural Algorithms for Sparse Coding Sanjeev Arora∗ arora@ cs. princeton. edu Princeton University, Computer Science Department Rong Ge rongge@ microsoft …",
+   "authors": "T Ma, A Moitra",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "2nd Workshop on Mathematical and Empirical Understanding of Foundation Models",
+   "authors": "SM Xie, A Kumar, S Min, S Malladi, LM Dery, A Raghunathan, T Ma, ...",
+   "venue": "ICLR 2024 Workshops",
+   "year": null
+  },
+  {
+   "title": "LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY By admin No Comments",
+   "authors": "J Wei, J Wei, Y Tay, D Tran, A Webson, Y Lu, X Chen, H Liu, D Huang, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

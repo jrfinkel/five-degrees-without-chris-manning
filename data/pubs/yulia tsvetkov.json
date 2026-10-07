@@ -1,0 +1,1607 @@
+{
+ "user": "SEDPkrsAAAAJ",
+ "pubs": [
+  {
+   "title": "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting",
+   "authors": "M Sclar, Y Choi, Y Tsvetkov, A Suhr",
+   "venue": "International Conference on Learning Representations 2024, 25055-25083",
+   "year": "2024"
+  },
+  {
+   "title": "Simvlm: Simple visual language model pretraining with weak supervision",
+   "authors": "Z Wang, J Yu, AW Yu, Z Dai, Y Tsvetkov, Y Cao",
+   "venue": "arXiv preprint arXiv:2108.10904",
+   "year": "2021"
+  },
+  {
+   "title": "Measuring bias in contextualized word representations",
+   "authors": "K Kurita, N Vyas, A Pareek, AW Black, Y Tsvetkov",
+   "venue": "Proceedings of the first workshop on gender bias in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "From pretraining data to language models to downstream tasks: Tracking the trails of political biases leading to unfair NLP models",
+   "authors": "S Feng, CY Park, Y Liu, Y Tsvetkov",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Style transfer through back-translation",
+   "authors": "S Prabhumoye, Y Tsvetkov, R Salakhutdinov, AW Black",
+   "venue": "ACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Can language models solve graph problems in natural language?",
+   "authors": "H Wang, S Feng, T He, Z Tan, X Han, Y Tsvetkov",
+   "venue": "Advances in Neural Information Processing Systems 36, 30840-30861",
+   "year": "2023"
+  },
+  {
+   "title": "Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings",
+   "authors": "T Manzini, YC Lim, Y Tsvetkov, AW Black",
+   "venue": "NAACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Understanding factuality in abstractive summarization with FRANK: A benchmark for factuality metrics",
+   "authors": "A Pagnoni, V Balachandran, Y Tsvetkov",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Trusting your evidence: Hallucinate less with context-aware decoding",
+   "authors": "W Shi, X Han, M Lewis, Y Tsvetkov, L Zettlemoyer, W Yih",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Investigating machine moral judgement through the Delphi experiment",
+   "authors": "L Jiang, JD Hwang, C Bhagavatula, RL Bras, JT Liang, S Levine, J Dodge, ...",
+   "venue": "Nature Machine Intelligence 7 (1), 145-160",
+   "year": "2025"
+  },
+  {
+   "title": "Problems with evaluation of word embeddings using word similarity tasks",
+   "authors": "M Faruqui, Y Tsvetkov, P Rastogi, C Dyer",
+   "venue": "RepEval 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Medical hallucination in foundation models and their impact on healthcare",
+   "authors": "Y Kim, H Jeong, S Chen, SS Li, C Park, M Lu, K Alhamoud, J Mun, C Grau, ...",
+   "venue": "medRxiv, 2025.02. 28.25323115",
+   "year": "2025"
+  },
+  {
+   "title": "Metaphor Detection with Cross-Lingual Model Transfer",
+   "authors": "Y Tsvetkov, L Boytsov, A Gershman, E Nyberg, C Dyer",
+   "venue": "ACL 2014, 248--258",
+   "year": "2014"
+  },
+  {
+   "title": "Massively multilingual word embeddings",
+   "authors": "W Ammar, G Mulcaire, Y Tsvetkov, G Lample, C Dyer, NA Smith",
+   "venue": "arXiv preprint arXiv:1602.01925",
+   "year": "2016"
+  },
+  {
+   "title": "Can llms keep a secret? testing privacy implications of language models via contextual integrity theory",
+   "authors": "N Mireshghallah, H Kim, X Zhou, Y Tsvetkov, M Sap, R Shokri, Y Choi",
+   "venue": "International Conference on Learning Representations 2024, 1892-1915",
+   "year": "2024"
+  },
+  {
+   "title": "Gradient vaccine: Investigating and improving multi-task optimization in massively multilingual models",
+   "authors": "Z Wang, Y Tsvetkov, O Firat, Y Cao",
+   "venue": "arXiv preprint arXiv:2010.05874",
+   "year": "2020"
+  },
+  {
+   "title": "Don’t hallucinate, abstain: Identifying llm knowledge gaps via multi-llm collaboration",
+   "authors": "S Feng, W Shi, Y Wang, W Ding, V Balachandran, Y Tsvetkov",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Do all languages cost the same? tokenization in the era of commercial language models",
+   "authors": "O Ahia, S Kumar, H Gonen, J Kasai, DR Mortensen, NA Smith, Y Tsvetkov",
+   "venue": "Proceedings of the 2023 Conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Sparse Overcomplete Word Vector Representations",
+   "authors": "M Faruqui, Y Tsvetkov, D Yogatama, C Dyer, NA Smith",
+   "venue": "ACL 2015",
+   "year": "2015"
+  },
+  {
+   "title": "Explaining black box predictions and unveiling data artifacts through influence functions",
+   "authors": "X Han, BC Wallace, Y Tsvetkov",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Know your limits: A survey of abstention in large language models",
+   "authors": "B Wen, J Yao, S Feng, C Xu, Y Tsvetkov, B Howe, LL Wang",
+   "venue": "Transactions of the Association for Computational Linguistics 13, 529-556",
+   "year": "2025"
+  },
+  {
+   "title": "Mediq: Question-asking llms and a benchmark for reliable interactive clinical reasoning",
+   "authors": "SS Li, V Balachandran, S Feng, JS Ilgen, E Pierson, PW Koh, Y Tsvetkov",
+   "venue": "Advances in Neural Information Processing Systems 37, 28858-28888",
+   "year": "2024"
+  },
+  {
+   "title": "Ssd-lm: Semi-autoregressive simplex-based diffusion language model for text generation and modular control",
+   "authors": "X Han, S Kumar, Y Tsvetkov",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Do membership inference attacks work on large language models?",
+   "authors": "M Duan, A Suri, N Mireshghallah, S Min, W Shi, L Zettlemoyer, Y Tsvetkov, ...",
+   "venue": "arXiv preprint arXiv:2402.07841",
+   "year": "2024"
+  },
+  {
+   "title": "Fine-grained hallucination detection and editing for language models",
+   "authors": "A Mishra, A Asai, V Balachandran, Y Wang, G Neubig, Y Tsvetkov, ...",
+   "venue": "arXiv preprint arXiv:2401.06855",
+   "year": "2024"
+  },
+  {
+   "title": "Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies",
+   "authors": "A Field, D Kliger, S Wintner, J Pan, D Jurafsky, Y Tsvetkov",
+   "venue": "EMNLP 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Semstamp: A semantic watermark with paraphrastic robustness for text generation",
+   "authors": "A Hou, J Zhang, T He, Y Wang, YS Chuang, H Wang, L Shen, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "On negative interference in multilingual models: Findings and a meta-learning treatment",
+   "authors": "Z Wang, ZC Lipton, Y Tsvetkov",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluation of Word Vector Representations by Subspace Alignment",
+   "authors": "Y Tsvetkov, M Faruqui, W Ling, G Lample, C Dyer",
+   "venue": "EMNLP 2015",
+   "year": "2015"
+  },
+  {
+   "title": "A survey of race, racism, and anti-racism in NLP",
+   "authors": "A Field, SL Blodgett, Z Talat, Y Tsvetkov",
+   "venue": "Proceedings of the 59th annual meeting of the association for computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Finding microaggressions in the wild: A case for locating elusive phenomena in social media posts",
+   "authors": "L Breitfeller, E Ahn, D Jurgens, Y Tsvetkov",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "A framework for the computational linguistic analysis of dehumanization",
+   "authors": "J Mendelsohn, Y Tsvetkov, D Jurafsky",
+   "venue": "Frontiers in artificial intelligence 3, 55",
+   "year": "2020"
+  },
+  {
+   "title": "Tuning language models by proxy",
+   "authors": "A Liu, X Han, Y Wang, Y Tsvetkov, Y Choi, NA Smith",
+   "venue": "arXiv preprint arXiv:2401.08565",
+   "year": "2024"
+  },
+  {
+   "title": "Modular pluralism: Pluralistic alignment via multi-llm collaboration",
+   "authors": "S Feng, T Sorensen, Y Liu, J Fisher, CY Park, Y Choi, Y Tsvetkov",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Not all contexts are created equal: Better word representations with variable attention",
+   "authors": "W Ling, L Chu-Cheng, Y Tsvetkov, S Amir",
+   "venue": "EMNLP 2015",
+   "year": "2015"
+  },
+  {
+   "title": "Artificial hivemind: The open-ended homogeneity of language models (and beyond)",
+   "authors": "L Jiang, Y Chai, M Li, M Liu, R Fok, N Dziri, Y Tsvetkov, M Sap, Y Choi",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Morphological inflection generation using character sequence to sequence learning",
+   "authors": "M Faruqui, Y Tsvetkov, G Neubig, C Dyer",
+   "venue": "NAACL 2016",
+   "year": "2015"
+  },
+  {
+   "title": "Minding language models’(lack of) theory of mind: A plug-and-play multi-character belief tracker",
+   "authors": "M Sclar, S Kumar, P West, A Suhr, Y Choi, Y Tsvetkov",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Demoting racial bias in hate speech detection",
+   "authors": "M Xia, A Field, Y Tsvetkov",
+   "venue": "Proceedings of the eighth international workshop on natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Stress and burnout in open source: Toward finding, understanding, and mitigating unhealthy interactions",
+   "authors": "N Raman, M Cao, Y Tsvetkov, C Kästner, B Vasilescu",
+   "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software …",
+   "year": "2020"
+  },
+  {
+   "title": "Balancing training for multilingual neural machine translation",
+   "authors": "X Wang, Y Tsvetkov, G Neubig",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Incorporating dialectal variability for socially equitable language identification",
+   "authors": "D Jurgens, Y Tsvetkov, D Jurafsky",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "The art of saying no: Contextual noncompliance in language models",
+   "authors": "F Brahman, S Kumar, V Balachandran, P Dasigi, V Pyatkin, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 49706-49748",
+   "year": "2024"
+  },
+  {
+   "title": "Language generation models can cause harm: So what can we do about it? an actionable survey",
+   "authors": "S Kumar, V Balachandran, L Njoo, A Anastasopoulos, Y Tsvetkov",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Dell: Generating reactions and explanations for llm-based misinformation detection",
+   "authors": "H Wan, S Feng, Z Tan, H Wang, Y Tsvetkov, M Luo",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 2637-2667",
+   "year": "2024"
+  },
+  {
+   "title": "Spurious rewards: Rethinking training signals in rlvr",
+   "authors": "R Shao, SS Li, R Xin, S Geng, Y Wang, S Oh, SS Du, N Lambert, S Min, ...",
+   "venue": "arXiv preprint arXiv:2506.10947",
+   "year": "2025"
+  },
+  {
+   "title": "Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning",
+   "authors": "Y Tsvetkov, M Faruqui, W Ling, B MacWhinney, C Dyer",
+   "venue": "ACL 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Resolving knowledge conflicts in large language models",
+   "authors": "Y Wang, S Feng, H Wang, W Shi, V Balachandran, T He, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2310.00935",
+   "year": "2023"
+  },
+  {
+   "title": "Controlled text generation as continuous optimization with multiple constraints",
+   "authors": "S Kumar, E Malmi, A Severyn, Y Tsvetkov",
+   "venue": "Advances in Neural Information Processing Systems 34, 14542-14554",
+   "year": "2021"
+  },
+  {
+   "title": "Cross-Lingual Metaphor Detection Using Common Semantic Features",
+   "authors": "Y Tsvetkov, E Mukomel, A Gershman",
+   "venue": "Meta4NLP, NAACL/HLT 2013, 45",
+   "year": "2013"
+  },
+  {
+   "title": "Fortifying toxic speech detectors against veiled toxicity",
+   "authors": "X Han, Y Tsvetkov",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "RtGender: A corpus for studying differential responses to gender",
+   "authors": "R Voigt, D Jurgens, V Prabhakaran, D Jurafsky, Y Tsvetkov",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Selfexplain: A self-explaining architecture for neural text classifiers",
+   "authors": "D Rajagopal, V Balachandran, E Hovy, Y Tsvetkov",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Gradient-based constrained sampling from language models",
+   "authors": "S Kumar, B Paria, Y Tsvetkov",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs",
+   "authors": "S Kumar, Y Tsvetkov",
+   "venue": "ICLR 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Matformer: Nested transformer for elastic inference",
+   "authors": "F Devvrit, S Kudugunta, A Kusupati, T Dettmers, K Chen, IS Dhillon, ...",
+   "venue": "The Thirty-eighth Annual Conference on Neural Information Processing Systems",
+   "year": "2024"
+  },
+  {
+   "title": "CulturalBench: A robust, diverse and challenging benchmark for measuring LMs’ cultural knowledge through human-AI red-teaming",
+   "authors": "YY Chiu, L Jiang, BY Lin, CY Park, SS Li, S Ravi, M Bhatia, M Antoniak, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Understanding in-context learning via supportive pretraining data",
+   "authors": "X Han, D Simig, T Mihaylov, Y Tsvetkov, A Celikyilmaz, T Wang",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "A bottom up approach to category mapping and meaning change.",
+   "authors": "H Dubossarsky, Y Tsvetkov, C Dyer, E Grossman",
+   "venue": "NetWordS, 66-70",
+   "year": "2015"
+  },
+  {
+   "title": "Toward Human Readable Prompt Tuning: Kubrick’s The Shining is a good movie, and a good prompt too?",
+   "authors": "W Shi, X Han, H Gonen, A Holtzman, Y Tsvetkov, L Zettlemoyer",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 10994 …",
+   "year": "2023"
+  },
+  {
+   "title": "Unsupervised discovery of implicit gender bias",
+   "authors": "A Field, Y Tsvetkov",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "DIALECTBENCH: An NLP benchmark for dialects, varieties, and closely-related languages",
+   "authors": "F Faisal, O Ahia, A Srivastava, K Ahuja, D Chiang, Y Tsvetkov, ...",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Factkb: Generalizable factuality evaluation using language models enhanced with factual knowledge",
+   "authors": "S Feng, V Balachandran, Y Bai, Y Tsvetkov",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Can LLM graph reasoning generalize beyond pattern memorization?",
+   "authors": "Y Zhang, H Wang, S Feng, Z Tan, X Han, T He, Y Tsvetkov",
+   "venue": "Findings of the association for computational linguistics: EMNLP 2024, 2289-2305",
+   "year": "2024"
+  },
+  {
+   "title": "Extraction of multi-word expressions from small parallel corpora",
+   "authors": "Y Tsvetkov, S Wintner",
+   "venue": "COLING 2010 - Proceedings of the 23rd International Conference on …",
+   "year": "2010"
+  },
+  {
+   "title": "Correcting diverse factual errors in abstractive summarization via post-editing and language model infilling",
+   "authors": "V Balachandran, H Hajishirzi, W Cohen, Y Tsvetkov",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "On the blind spots of model-based evaluation metrics for text generation",
+   "authors": "T He, J Zhang, T Wang, S Kumar, K Cho, J Glass, Y Tsvetkov",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic Representation Learning",
+   "authors": "Y Tsvetkov, S Sitaram, M Faruqui, G Lample, P Littell, D Mortensen, ...",
+   "venue": "NAACL 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Identification of multi-word expressions by combining multiple linguistic information sources",
+   "authors": "Y Tsvetkov, S Wintner",
+   "venue": "EMNLP 2011, Computational Linguistics 2013",
+   "year": "2011"
+  },
+  {
+   "title": "What does the bot say? opportunities and risks of large language models in social media bot detection",
+   "authors": "S Feng, H Wan, N Wang, Z Tan, M Luo, Y Tsvetkov",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Contextual Affective Analysis: A Case Study of People Portrayals in Online# MeToo Stories",
+   "authors": "A Field, G Bhat, Y Tsvetkov",
+   "venue": "ICWSM 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Native language cognate effects on second language lexical choice",
+   "authors": "E Rabinovich, Y Tsvetkov, S Wintner",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 329-342",
+   "year": "2018"
+  },
+  {
+   "title": "Knowledge card: Filling LLMs' knowledge gaps with plug-in specialized language models",
+   "authors": "S Feng, W Shi, Y Bai, V Balachandran, T He, Y Tsvetkov",
+   "venue": "International Conference on Learning Representations 2024, 16097-16121",
+   "year": "2024"
+  },
+  {
+   "title": "Where new words are born: Distributional semantic analysis of neologisms and their semantic neighborhoods",
+   "authors": "M Ryskina, E Rabinovich, T Berg-Kirkpatrick, DR Mortensen, Y Tsvetkov",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2020, 367-376",
+   "year": "2020"
+  },
+  {
+   "title": "A dynamic strategy coach for effective negotiation",
+   "authors": "Y Zhou, H He, AW Black, Y Tsvetkov",
+   "venue": "Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue …",
+   "year": "2019"
+  },
+  {
+   "title": "BUFFET: Benchmarking large language models for few-shot cross-lingual transfer",
+   "authors": "A Asai, S Kudugunta, X Yu, T Blevins, H Gonen, M Reid, Y Tsvetkov, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "CulturalBench: a robust, diverse and challenging benchmark on measuring (the lack of) cultural knowledge of LLMs",
+   "authors": "YY Chiu, L Jiang, BY Lin, CY Park, SS Li, S Ravi, M Bhatia, M Antoniak, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Opportunities and challenges in working with low-resource languages",
+   "authors": "Y Tsvetkov",
+   "venue": "Slides Part-1 2",
+   "year": "2017"
+  },
+  {
+   "title": "Alpaca against vicuna: Using llms to uncover memorization of llms",
+   "authors": "AM Kassem, O Mahmoud, N Mireshghallah, H Kim, Y Tsvetkov, Y Choi, ...",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "An analysis of emotions and the prominence of positivity in# BlackLivesMatter tweets",
+   "authors": "A Field, CY Park, A Theophilo, J Watson-Daniels, Y Tsvetkov",
+   "venue": "Proceedings of the National Academy of Sciences 119 (35), e2205767119",
+   "year": "2022"
+  },
+  {
+   "title": "Cross-Lingual Bridges with Models of Lexical Borrowing",
+   "authors": "Y Tsvetkov, C Dyer",
+   "venue": "JAIR",
+   "year": "2016"
+  },
+  {
+   "title": "Assessing language model deployment with risk cards",
+   "authors": "L Derczynski, HR Kirk, V Balachandran, S Kumar, Y Tsvetkov, MR Leiser, ...",
+   "venue": "arXiv preprint arXiv:2303.18190",
+   "year": "2023"
+  },
+  {
+   "title": "Dialograph: Incorporating interpretable strategy-graph networks into negotiation dialogues",
+   "authors": "R Joshi, V Balachandran, S Vashishth, A Black, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2106.00920",
+   "year": "2021"
+  },
+  {
+   "title": "Influence tuning: Demoting spurious correlations via instance attribution and instance-driven updates",
+   "authors": "X Han, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 4398-4409",
+   "year": "2021"
+  },
+  {
+   "title": "Controlling dialogue generation with semantic exemplars",
+   "authors": "P Gupta, JP Bigham, Y Tsvetkov, A Pavel",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Machine translation into low-resource language varieties",
+   "authors": "S Kumar, A Anastasopoulos, S Wintner, Y Tsvetkov",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Explore theory of mind: program-guided adversarial data generation for theory of mind reasoning",
+   "authors": "M Sclar, J Dwivedi-Yu, M Fazel-Zarandi, Y Tsvetkov, Y Bisk, Y Choi, ...",
+   "venue": "International Conference on Learning Representations 2025, 67635-67660",
+   "year": "2025"
+  },
+  {
+   "title": "Biased LLMs can influence political decision-making",
+   "authors": "J Fisher, S Feng, R Aron, T Richardson, Y Choi, DW Fisher, J Pan, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Stumbling blocks: Stress testing the robustness of machine-generated text detectors under attacks",
+   "authors": "Y Wang, S Feng, A Hou, X Pu, C Shen, X Liu, Y Tsvetkov, T He",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Efficient test time adapter ensembling for low-resource language varieties",
+   "authors": "X Wang, Y Tsvetkov, S Ruder, G Neubig",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 730-737",
+   "year": "2021"
+  },
+  {
+   "title": "Entity-centric contextual affective analysis",
+   "authors": "A Field, Y Tsvetkov",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Magnet: Improving the multilingual fairness of language models with adaptive gradient-based tokenization",
+   "authors": "O Ahia, S Kumar, H Gonen, V Hofmann, T Limisiewicz, Y Tsvetkov, ...",
+   "venue": "Advances in neural information processing systems 37, 47790-47814",
+   "year": "2024"
+  },
+  {
+   "title": "Topics to avoid: Demoting latent confounds in text classification",
+   "authors": "S Kumar, S Wintner, NA Smith, Y Tsvetkov",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Augmenting English adjective senses with supersenses",
+   "authors": "Y Tsvetkov, N Schneider, D Hovy, A Bhatia, M Faruqui, C Dyer",
+   "venue": "LREC'14",
+   "year": "2014"
+  },
+  {
+   "title": "Threat scenarios and best practices to detect neural fake news",
+   "authors": "A Pagnoni, M Graciarena, Y Tsvetkov",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Controlled analyses of social biases in Wikipedia bios",
+   "authors": "A Field, CY Park, KZ Lin, Y Tsvetkov",
+   "venue": "Proceedings of the ACM Web Conference 2022, 2624-2635",
+   "year": "2022"
+  },
+  {
+   "title": "Correlation-based Intrinsic Evaluation of Word Vector Representations",
+   "authors": "Y Tsvetkov, M Faruqui, C Dyer",
+   "venue": "RepEval 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Augmenting Translation Models with Simulated Acoustic Confusions for Improved Spoken Language Translation",
+   "authors": "Y Tsvetkov, F Metze, C Dyer",
+   "venue": "EACL 2014, 616--625",
+   "year": "2014"
+  },
+  {
+   "title": "When one llm drools, multi-llm collaboration rules",
+   "authors": "S Feng, W Ding, A Liu, Z Wang, W Shi, Y Wang, SZ Shen, X Han, H Lang, ...",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Culturalteaming: Ai-assisted interactive red-teaming for challenging llms'(lack of) multicultural knowledge",
+   "authors": "YY Chiu, L Jiang, M Antoniak, CY Park, SS Li, M Bhatia, S Ravi, ...",
+   "venue": "arXiv preprint arXiv:2404.06664",
+   "year": "2024"
+  },
+  {
+   "title": "Constraint-Based Models of Lexical Borrowing",
+   "authors": "Y Tsvetkov, W Ammar, C Dyer",
+   "venue": "NAACL 2015, 598--608",
+   "year": "2015"
+  },
+  {
+   "title": "Model swarms: Collaborative search to adapt llm experts via swarm intelligence",
+   "authors": "S Feng, Z Wang, Y Wang, S Ebrahimi, H Palangi, L Miculicich, ...",
+   "venue": "arXiv preprint arXiv:2410.11163",
+   "year": "2024"
+  },
+  {
+   "title": "Detecting community sensitive norm violations in online conversations",
+   "authors": "CY Park, J Mendelsohn, K Radhakrishnan, K Jain, T Kanakagiri, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 3386-3397",
+   "year": "2021"
+  },
+  {
+   "title": "Augmenting non-collaborative dialog systems with explicit semantic and strategic dialog history",
+   "authors": "Y Zhou, Y Tsvetkov, AW Black, Z Yu",
+   "venue": "arXiv preprint arXiv:1909.13425",
+   "year": "2019"
+  },
+  {
+   "title": "Writer profiling without the writer’s text",
+   "authors": "D Jurgens, Y Tsvetkov, D Jurafsky",
+   "venue": "International Conference on Social Informatics, 537-558",
+   "year": "2017"
+  },
+  {
+   "title": "Examining risks of racial biases in NLP tools for child protective services",
+   "authors": "A Field, A Coston, N Gandhi, A Chouldechova, E Putnam-Hornstein, ...",
+   "venue": "Proceedings of the 2023 ACM conference on fairness, accountability, and …",
+   "year": "2023"
+  },
+  {
+   "title": "Orca: Interpreting prompted language models via locating supporting data evidence in the ocean of pretraining data",
+   "authors": "X Han, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2205.12600",
+   "year": "2022"
+  },
+  {
+   "title": "What code-switching strategies are effective in dialog systems?",
+   "authors": "E Ahn, C Jimenez, Y Tsvetkov, AW Black",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2020, 254-264",
+   "year": "2020"
+  },
+  {
+   "title": "Quantifying social biases in contextual word representations",
+   "authors": "K Kurita, N Vyas, A Pareek, AW Black, Y Tsvetkov",
+   "venue": "1st ACL Workshop on Gender Bias for Natural Language Processing",
+   "year": "2019"
+  },
+  {
+   "title": "On the zero-shot generalization of machine-generated text detectors",
+   "authors": "X Pu, J Zhang, X Han, Y Tsvetkov, T He",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 4799-4808",
+   "year": "2023"
+  },
+  {
+   "title": "Interactive reasoning: Visualizing and controlling chain-of-thought reasoning in large language models",
+   "authors": "RY Pang, KJK Feng, S Feng, C Li, W Shi, Y Tsvetkov, J Heer, K Reinecke",
+   "venue": "Proceedings of the 31st International Conference on Intelligent User …",
+   "year": "2026"
+  },
+  {
+   "title": "Challenges and opportunities in information manipulation detection: An examination of wartime Russian media",
+   "authors": "CY Park, J Mendelsohn, A Field, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 5209-5235",
+   "year": "2022"
+  },
+  {
+   "title": "Multilingual contextual affective analysis of LGBT people portrayals in Wikipedia",
+   "authors": "CY Park, X Yan, A Field, Y Tsvetkov",
+   "venue": "Proceedings of the international AAAI conference on web and social media 15 …",
+   "year": "2021"
+  },
+  {
+   "title": "Culturalbench: A robust, diverse, and challenging cultural benchmark by human-ai culturalteaming",
+   "authors": "YY Chiu, L Jiang, BY Lin, CY Park, SS Li, S Ravi, M Bhatia, M Antoniak, ...",
+   "venue": "Preprint",
+   "year": "2025"
+  },
+  {
+   "title": "Cross-cultural similarity features for cross-lingual transfer learning of pragmatically motivated tasks",
+   "authors": "J Sun, H Ahn, CY Park, Y Tsvetkov, DR Mortensen",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Rethinking the evaluation of harness evolution for agents",
+   "authors": "Y Wang, H Zhu, Z Hu, Y Yuan, Z Chen, S Senthil, H Hajishirzi, Y Tsvetkov, ...",
+   "venue": "COLM 2026 The 2nd Workshop on Lifelong Agents: Learning, Aligning, and Evolving",
+   "year": "2026"
+  },
+  {
+   "title": "Biased ai can influence political decision-making",
+   "authors": "J Fisher, S Feng, R Aron, T Richardson, Y Choi, DW Fisher, J Pan, ...",
+   "venue": "arXiv preprint arXiv:2410.06415",
+   "year": "2024"
+  },
+  {
+   "title": "Synthesizing adversarial negative responses for robust response ranking and evaluation",
+   "authors": "P Gupta, Y Tsvetkov, JP Bigham",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Rlve: Scaling up reinforcement learning for language models with adaptive verifiable environments",
+   "authors": "Z Zeng, H Ivison, Y Wang, L Yuan, SS Li, Z Ye, S Li, J He, R Zhou, T Chen, ...",
+   "venue": "arXiv preprint arXiv:2511.07317",
+   "year": "2025"
+  },
+  {
+   "title": "Lexicon stratification for translating out-of-vocabulary words",
+   "authors": "Y Tsvetkov, C Dyer",
+   "venue": "ACL 2015, 125-131",
+   "year": "2015"
+  },
+  {
+   "title": "Identifying the L1 of non-native writers: the CMU-Haifa system",
+   "authors": "Y Tsvetkov, N Twitto, N Schneider, N Ordan, M Faruqui, V Chahuneau, ...",
+   "venue": "BEA8, NAACL/HLT 2013, 279",
+   "year": "2013"
+  },
+  {
+   "title": "A false sense of privacy: Evaluating textual data sanitization beyond surface-level privacy leakage",
+   "authors": "R Xin, N Mireshghallah, SS Li, M Duan, H Kim, Y Choi, Y Tsvetkov, S Oh, ...",
+   "venue": "2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML …",
+   "year": "2026"
+  },
+  {
+   "title": "GlobalBench: A benchmark for global progress in natural language processing",
+   "authors": "Y Song, S Khanuja, P Liu, F Faisal, A Ostapenko, GI Winata, AF Aji, ...",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Blab: Brutally long audio bench",
+   "authors": "O Ahia, M Bartelds, K Ahuja, H Gonen, V Hofmann, S Arora, SS Li, ...",
+   "venue": "arXiv preprint arXiv:2505.03054",
+   "year": "2025"
+  },
+  {
+   "title": "Cognitive foundations for reasoning and their manifestation in llms",
+   "authors": "P Kargupta, SS Li, H Wang, J Lee, S Chen, O Ahia, D Light, TL Griffiths, ...",
+   "venue": "arXiv preprint arXiv:2511.16660",
+   "year": "2025"
+  },
+  {
+   "title": "Compo: Community preferences for language model personalization",
+   "authors": "S Kumar, CY Park, Y Tsvetkov, NA Smith, H Hajishirzi",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Referee: Reference-free sentence summarization with sharper controllability through symbolic knowledge distillation",
+   "authors": "M Sclar, P West, S Kumar, Y Tsvetkov, Y Choi",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "StructSum: Summarization via structured representations",
+   "authors": "V Balachandran, A Pagnoni, JY Lee, D Rajagopal, JG Carbonell, ...",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Voices unheard: NLP resources and models for Yorùbá regional dialects",
+   "authors": "O Ahia, A Aremu, D Abagyan, H Gonen, DI Adelani, D Abolade, NA Smith, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Teaching LLMs to abstain across languages via multilingual feedback",
+   "authors": "S Feng, W Shi, Y Wang, W Ding, O Ahia, SS Li, V Balachandran, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Finding flawed fictions: Evaluating complex reasoning in language models via plot hole detection",
+   "authors": "K Ahuja, M Sclar, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2504.11900",
+   "year": "2025"
+  },
+  {
+   "title": "Generating English Determiners in Phrase-Based Translation with Synthetic Translation Options",
+   "authors": "Y Tsvetkov, C Dyer, L Levin, A Bhatia",
+   "venue": "WMT 2013",
+   "year": "2013"
+  },
+  {
+   "title": "Botpercent: Estimating bot populations in twitter communities",
+   "authors": "Z Tan, S Feng, M Sclar, H Wan, M Luo, Y Choi, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 14295 …",
+   "year": "2023"
+  },
+  {
+   "title": "Heterogeneous swarms: Jointly optimizing model roles and weights for multi-llm systems",
+   "authors": "S Feng, Z Wang, P Goyal, Y Wang, W Shi, H Xia, H Palangi, L Zettlemoyer, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 114319-114351",
+   "year": "2026"
+  },
+  {
+   "title": "Botpercent: estimating Twitter bot populations from groups to crowds",
+   "authors": "Z Tan, S Feng, M Sclar, H Wan, M Luo, Y Choi, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2302.00381",
+   "year": "2023"
+  },
+  {
+   "title": "Gendered Mental Health Stigma in Masked Language Models",
+   "authors": "I Wanyin Lin, L Njoo, A Field, A Sharma, K Reinecke, T Althoff, Y Tsvetkov",
+   "venue": "arXiv e-prints, arXiv: 2210.15144",
+   "year": "2022"
+  },
+  {
+   "title": "The CMU Machine Translation Systems at WMT 2013: Syntax, Synthetic Translation Options, and Pseudo-References",
+   "authors": "W Ammar, V Chahuneau, M Denkowski, G Hanneman, W Ling, ...",
+   "venue": "WMT 2013",
+   "year": "2013"
+  },
+  {
+   "title": "Voynaslov: a data set of Russian social media activity during the 2022 Ukraine-Russia war",
+   "authors": "CY Park, J Mendelsohn, A Field, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2205.12382",
+   "year": "2022"
+  },
+  {
+   "title": "Automatic acquisition of parallel corpora from websites with dynamic content",
+   "authors": "Y Tsvetkov, S Wintner",
+   "venue": "LREC’10 - Proceedings of the Seventh conference on International Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Valuescope: Unveiling implicit norms and values via return potential model of social interactions",
+   "authors": "CY Park, SS Li, H Jung, S Volkova, T Mitra, D Jurgens, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 16659 …",
+   "year": "2024"
+  },
+  {
+   "title": "Automatic extraction of rules governing morphological agreement",
+   "authors": "A Chaudhary, A Anastasopoulos, A Pratapa, DR Mortensen, Z Sheikh, ...",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "A computational analysis of polarization on Indian and Pakistani social media",
+   "authors": "A Tyagi, A Field, P Lathwal, Y Tsvetkov, KM Carley",
+   "venue": "International Conference on Social Informatics, 364-379",
+   "year": "2020"
+  },
+  {
+   "title": "Learning syntax without planting trees: Understanding hierarchical generalization in transformers",
+   "authors": "K Ahuja, V Balachandran, M Panwar, T He, NA Smith, N Goyal, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 13, 121-141",
+   "year": "2025"
+  },
+  {
+   "title": "Learning syntax without planting trees: Understanding when and why transformers generalize hierarchically",
+   "authors": "K Ahuja, V Balachandran, M Panwar, T He, NA Smith, N Goyal, ...",
+   "venue": "ICML 2024 Workshop on Mechanistic Interpretability",
+   "year": "2024"
+  },
+  {
+   "title": "Gen-z: Generative zero-shot text classification with contextualized label descriptions",
+   "authors": "S Kumar, CY Park, Y Tsvetkov",
+   "venue": "International Conference on Learning Representations 2024, 40169-40192",
+   "year": "2024"
+  },
+  {
+   "title": "David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs",
+   "authors": "X Han, S Kumar, Y Tsvetkov, M Ghazvininejad",
+   "venue": "NAACL",
+   "year": "2024"
+  },
+  {
+   "title": "Understanding linguistic accommodation in code-switched human-machine dialogues",
+   "authors": "T Parekh, E Ahn, Y Tsvetkov, AW Black",
+   "venue": "Proceedings of the 24th conference on computational natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?",
+   "authors": "Y Yang, CP Lee, S Feng, D Zhao, B Wen, A Liu, Y Tsvetkov, B Howe",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Kalm: Knowledge-aware integration of local, document, and global contexts for long document understanding",
+   "authors": "S Feng, Z Tan, W Zhang, Z Lei, Y Tsvetkov",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Evaluating the morphosyntactic well-formedness of generated texts",
+   "authors": "A Pratapa, A Anastasopoulos, S Rijhwani, A Chaudhary, DR Mortensen, ...",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "A deep reinforced model for zero-shot cross-lingual summarization with bilingual semantic similarity rewards",
+   "authors": "ZY Dou, S Kumar, Y Tsvetkov",
+   "venue": "Proceedings of the fourth workshop on neural generation and translation, 60-68",
+   "year": "2020"
+  },
+  {
+   "title": "Prefpalette: Personalized preference modeling with latent attributes",
+   "authors": "SS Li, M Sclar, H Lang, A Ni, J He, P Xu, A Cohen, CY Park, Y Tsvetkov, ...",
+   "venue": "arXiv preprint arXiv:2507.13541",
+   "year": "2025"
+  },
+  {
+   "title": "Horizonbench: Long-horizon personalization with evolving preferences",
+   "authors": "SS Li, B Paranjape, K Oktar, Z Ma, G Zhou, L Guan, N Zhang, S Park, ...",
+   "venue": "arXiv preprint arXiv:2604.17283",
+   "year": "2026"
+  },
+  {
+   "title": "Political neutrality in AI is impossible-but here is how to approximate it",
+   "authors": "J Fisher, RE Appel, CY Park, Y Potter, L Jiang, T Sorensen, S Feng, ...",
+   "venue": "arXiv preprint arXiv:2503.05728",
+   "year": "2025"
+  },
+  {
+   "title": "Knowledge crosswords: Geometric knowledge reasoning with large language models",
+   "authors": "W Ding, S Feng, Y Liu, Z Tan, V Balachandran, T He, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 2609-2636",
+   "year": "2024"
+  },
+  {
+   "title": "Linguistic Knowledge in Data-Driven Natural Language Processing",
+   "authors": "Y Tsvetkov",
+   "venue": "Carnegie Mellon University",
+   "year": "2016"
+  },
+  {
+   "title": "LTIatCMU at SemEval-2020 Task 11: Incorporating multi-level features for multi-granular propaganda span identification",
+   "authors": "S Khosla, R Joshi, R Dutt, AW Black, Y Tsvetkov",
+   "venue": "Proceedings of the Fourteenth Workshop on Semantic Evaluation, 1756-1763",
+   "year": "2020"
+  },
+  {
+   "title": "The cmu machine translation systems at wmt 2014",
+   "authors": "A Matthews, W Ammar, A Bhatia, W Feely, G Hanneman, E Schlinger, ...",
+   "venue": "Proceedings of the Ninth Workshop on Statistical Machine Translation, 142-149",
+   "year": "2014"
+  },
+  {
+   "title": "P3sum: Preserving author’s perspective in news summarization with diffusion language models",
+   "authors": "Y Liu, S Feng, X Han, V Balachandran, CY Park, S Kumar, Y Tsvetkov",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Kgquiz: Evaluating the generalization of encoded knowledge in large language models",
+   "authors": "Y Bai, S Feng, V Balachandran, Z Tan, S Lou, T He, Y Tsvetkov",
+   "venue": "Proceedings of the ACM Web Conference 2024, 2226-2237",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to generate word-and phrase-embeddings for efficient phrase-based neural machine translation",
+   "authors": "CY Park, Y Tsvetkov",
+   "venue": "Proceedings of the 3rd Workshop on Neural Generation and Translation, 241-248",
+   "year": "2019"
+  },
+  {
+   "title": "IDENTIFICATION AND MODELING OF WORD FRAGMENTS IN SPONTANEOUS SPEECH",
+   "authors": "Y Tsvetkov, Z Sheikh, F Metze",
+   "venue": "ICASSP 2013 - The 38th International Conference on Acoustics, Speech, and …",
+   "year": "2013"
+  },
+  {
+   "title": "Speaker information can guide models to better inductive biases: A case study on predicting code-switching",
+   "authors": "A Ostapenko, S Wintner, M Fricke, Y Tsvetkov",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Extracting lexical features from dialects via interpretable dialect classifiers",
+   "authors": "R Xie, O Ahia, Y Tsvetkov, A Anastasopoulos",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Knowledge crosswords: Geometric reasoning over structured knowledge with large language models",
+   "authors": "W Ding, S Feng, Y Liu, Z Tan, V Balachandran, T He, Y Tsvetkov",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Cook: Empowering general-purpose language models with modular and collaborative knowledge",
+   "authors": "S Feng, W Shi, Y Bai, V Balachandran, T He, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2305.09955",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic classification of communicative functions of definiteness",
+   "authors": "A Bhatia, CC Lin, N Schneider, Y Tsvetkov, FT Al-Raisi, L Roostapour, ...",
+   "venue": "COLING 2014, 1059",
+   "year": "2014"
+  },
+  {
+   "title": "Jpeg-lm: Llms as image generators with canonical codec representations",
+   "authors": "X Han, M Ghazvininejad, PW Koh, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2408.08459",
+   "year": "2024"
+  },
+  {
+   "title": "TalkUp: Paving the way for understanding empowering language",
+   "authors": "L Njoo, C Park, O Stappart, M Thielk, Y Chu, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 9334-9354",
+   "year": "2023"
+  },
+  {
+   "title": "Unsupervised keyphrase extraction via interpretable neural networks",
+   "authors": "R Joshi, V Balachandran, E Saldanha, M Glenski, S Volkova, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 1107-1119",
+   "year": "2023"
+  },
+  {
+   "title": "End-to-end differentiable GANs for text generation",
+   "authors": "S Kumar, Y Tsvetkov",
+   "venue": "PMLR",
+   "year": "2020"
+  },
+  {
+   "title": "Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest",
+   "authors": "AJ Wu, R Liu, SS Li, Y Tsvetkov, TL Griffiths",
+   "venue": "arXiv preprint arXiv:2604.08525",
+   "year": "2026"
+  },
+  {
+   "title": "Reliable and responsible foundation models",
+   "authors": "X Yang, J Han, R Bommasani, J Luo, W Qu, W Zhou, A Bibi, X Wang, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2025"
+  },
+  {
+   "title": "An exploration of data augmentation techniques for improving english to tigrinya translation",
+   "authors": "L Kidane, S Kumar, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2103.16789",
+   "year": "2021"
+  },
+  {
+   "title": "Structsum: Incorporating latent and explicit sentence dependencies for single document summarization",
+   "authors": "V Balachandran, A Pagnoni, JY Lee, D Rajagopal, J Carbonell, ...",
+   "venue": "arXiv preprint arXiv:2003.00576",
+   "year": "2020"
+  },
+  {
+   "title": "CMU-01 at the SIGMORPHON 2019 shared task on crosslinguality and context in morphology",
+   "authors": "A Chaudhary, E Salesky, G Bhat, DR Mortensen, JG Carbonell, ...",
+   "venue": "Proceedings of the 16th Workshop on Computational Research in Phonetics …",
+   "year": "2019"
+  },
+  {
+   "title": "Style transfer through multilingual and feedback-based back-translation",
+   "authors": "S Prabhumoye, Y Tsvetkov, AW Black, R Salakhutdinov",
+   "venue": "arXiv preprint arXiv:1809.06284",
+   "year": "2018"
+  },
+  {
+   "title": "A Unified Annotation Scheme for the Semantic/Pragmatic Components of Definiteness",
+   "authors": "A Bhatia, M Simons, L Levin, Y Tsvetkov, C Dyer, J Bender",
+   "venue": "LREC'14",
+   "year": "2014"
+  },
+  {
+   "title": "Position: Political neutrality in AI is impossible—but here is how to approximate it",
+   "authors": "J Fisher, RE Appel, CY Park, Y Potter, L Jiang, T Sorensen, S Feng, ...",
+   "venue": "Forty-second International Conference on Machine Learning Position Paper Track",
+   "year": "2025"
+  },
+  {
+   "title": "Don't Throw Away Your Pretrained Model",
+   "authors": "S Feng, W Yu, Y Wang, H Zhang, Y Tsvetkov, D Yu",
+   "venue": "International Conference on Learning Representations 2026, 80460-80482",
+   "year": "2026"
+  },
+  {
+   "title": "Varying shades of wrong: Aligning llms with wrong answers only",
+   "authors": "J Yao, W Ding, S Feng, LL Wang, Y Tsvetkov",
+   "venue": "International Conference on Learning Representations 2025, 9628-9664",
+   "year": "2025"
+  },
+  {
+   "title": "Latticegen: Hiding generated text in a lattice for privacy-aware large language model generation on cloud",
+   "authors": "M Zhang, T He, T Wang, L Mi, N Mireshghallah, B Chen, H Wang, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2024, 2674-2690",
+   "year": "2024"
+  },
+  {
+   "title": "Simple and efficient ways to improve REALM",
+   "authors": "V Balachandran, A Vaswani, Y Tsvetkov, N Parmar",
+   "venue": "Proceedings of the 3rd Workshop on Machine Reading for Question Answering …",
+   "year": "2021"
+  },
+  {
+   "title": "Socially responsible NLP",
+   "authors": "Y Tsvetkov, V Prabhakaran, R Voigt",
+   "venue": "Proceedings of the 2018 conference of the North American chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Privasis: Synthesizing the Largest\" Public\" Private Dataset from Scratch",
+   "authors": "H Kim, N Mireshghallah, M Duan, R Xin, SS Li, J Jung, D Acuna, Q Pang, ...",
+   "venue": "arXiv preprint arXiv:2602.03183",
+   "year": "2026"
+  },
+  {
+   "title": "Guardrails and security for LLMs: Safe, secure and controllable steering of LLM applications",
+   "authors": "T Rebedea, L Derczynski, S Ghosh, MN Sreedhar, F Brahman, L Jiang, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Sciencemeter: Tracking scientific knowledge updates in language models",
+   "authors": "Y Wang, S Feng, Y Tsvetkov, H Hajishirzi",
+   "venue": "arXiv preprint arXiv:2505.24302",
+   "year": "2025"
+  },
+  {
+   "title": "Mmmg: a comprehensive and reliable evaluation suite for multitask multimodal generation",
+   "authors": "J Yao, Y Hu, Y Yi, B Han, S Feng, G Yang, B Wen, R Krishna, LL Wang, ...",
+   "venue": "arXiv preprint arXiv:2505.17613",
+   "year": "2025"
+  },
+  {
+   "title": "Understanding Ethics in NLP Authoring and Reviewing",
+   "authors": "L Benotti, K Fort, MY Kan, Y Tsvetkov",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Sequence generation using neural networks with continuous outputs",
+   "authors": "S Kumar, Y Tsvetkov",
+   "venue": "US Patent 10,691,901",
+   "year": "2020"
+  },
+  {
+   "title": "Precise information control in long-form text generation",
+   "authors": "J He, H Yen, M Li, S Li, Z Zeng, W Shi, Y Tsvetkov, D Chen, PW Koh, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 92727-92792",
+   "year": "2026"
+  },
+  {
+   "title": "Personalized Reasoning: Just-in-Time Personalization and Why LLMs Fail at It",
+   "authors": "SS Li, A Bose, F Brahman, S Shaolei Du, PW Koh, M Fazel, Y Tsvetkov",
+   "venue": "arXiv e-prints, arXiv: 2510.00177",
+   "year": "2025"
+  },
+  {
+   "title": "ALFA: Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning",
+   "authors": "SS Li, J Mun, F Brahman, P Hosseini, BG Thomas, JM Sin, B Ren, ...",
+   "venue": "arXiv preprint arXiv:2502.14860",
+   "year": "2025"
+  },
+  {
+   "title": "Locating information gaps and narrative inconsistencies across languages: a case study of LGBT people portrayals on Wikipedia",
+   "authors": "F Samir, CY Park, A Field, V Shwartz, Y Tsvetkov",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Mitigating societal harms in large language models",
+   "authors": "S Kumar, V Balachandran, L Njoo, A Anastasopoulos, Y Tsvetkov",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "A margin-based loss with synthetic negative samples for continuous-output machine translation",
+   "authors": "G Bhat, S Kumar, Y Tsvetkov",
+   "venue": "Proceedings of the 3rd Workshop on Neural Generation and Translation, 199-205",
+   "year": "2019"
+  },
+  {
+   "title": "Among Us: Measuring and Mitigating Malicious Contributions in Model Collaboration Systems",
+   "authors": "Z Yang, W Ding, S Feng, Y Tsvetkov",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Generalizable llm learning of graph synthetic data with post-training alignment",
+   "authors": "Y Zhang, H Wang, S Feng, Z Tan, X Liu, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 12070-12091",
+   "year": "2026"
+  },
+  {
+   "title": "EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics",
+   "authors": "SS Li, R Xin, T Xiao, Y Wang, R Shao, Z Hao, M Sclar, S Oh, F Brahman, ...",
+   "venue": "arXiv preprint arXiv:2605.03871",
+   "year": "2026"
+  },
+  {
+   "title": "InfoGatherer: Principled Information Seeking via Evidence Retrieval and Strategic Questioning",
+   "authors": "M Taranukhin, SS Li, E Milios, G Pleiss, Y Tsvetkov, V Shwartz",
+   "venue": "arXiv preprint arXiv:2603.05909",
+   "year": "2026"
+  },
+  {
+   "title": "Reliable and Responsible Foundation Models: A Comprehensive Survey",
+   "authors": "X Yang, J Han, R Bommasani, J Luo, W Qu, W Zhou, A Bibi, X Wang, ...",
+   "venue": "arXiv preprint arXiv:2602.08145",
+   "year": "2026"
+  },
+  {
+   "title": "LatticeGen: A cooperative framework which hides generated text in a lattice for privacy-aware generation on cloud",
+   "authors": "M Zhang, T He, T Wang, L Mi, F Mireshghallah, B Chen, H Wang, ...",
+   "venue": "arXiv preprint arXiv:2309.17157",
+   "year": "2023"
+  },
+  {
+   "title": "Socially responsible natural language processing",
+   "authors": "Y Tsvetkov, V Prabhakaran, R Voigt",
+   "venue": "Companion Proceedings of The 2019 World Wide Web Conference, 1326-1326",
+   "year": "2019"
+  },
+  {
+   "title": "Sparta alignment: Collectively aligning multiple language models through combat",
+   "authors": "Y Jiang, W Ding, S Feng, G Durrett, Y Tsvetkov",
+   "venue": "Advances in Neural Information Processing Systems 38, 132970-133009",
+   "year": "2026"
+  },
+  {
+   "title": "Reading Between the Lines: Abstaining from VLM-Generated OCR Errors via Latent Representation Probes",
+   "authors": "J Yao, A Kulshrestha, N Rauschmayr, R Roberts, B Zhu, Y Tsvetkov, ...",
+   "venue": "arXiv preprint arXiv:2511.19806",
+   "year": "2025"
+  },
+  {
+   "title": "FACTS&EVIDENCE: An Interactive Tool for Transparent Fine-Grained Factual Verification of Machine-Generated Text",
+   "authors": "V Boonsanong, V Balachandran, X Han, S Feng, LL Wang, Y Tsvetkov",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Conformal Reasoning: Uncertainty Estimation in Interactive Environments",
+   "authors": "E Frankel, SS Li, LJ Ratliff, Y Tsvetkov, S Oh, PW Koh",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Semstamp: A semantic watermark with paraphrastic robustness for text generation",
+   "authors": "A Bohan Hou, J Zhang, T He, Y Wang, YS Chuang, H Wang, L Shen, ...",
+   "venue": "arXiv e-prints, arXiv: 2310.03991",
+   "year": "2023"
+  },
+  {
+   "title": "Improving the diversity of unsupervised paraphrasing with embedding outputs",
+   "authors": "M Jegadeesan, S Kumar, J Wieting, Y Tsvetkov",
+   "venue": "Proceedings of the 1st Workshop on Multilingual Representation Learning, 166-175",
+   "year": "2021"
+  },
+  {
+   "title": "Improving Span Representation for Domain-adapted Coreference Resolution",
+   "authors": "N Gandhi, A Field, Y Tsvetkov",
+   "venue": "Proceedings of the Fourth Workshop on Computational Models of Reference …",
+   "year": "2021"
+  },
+  {
+   "title": "Deep Reasoning in General Purpose Agents via Structured Meta-Cognition",
+   "authors": "D Light, M Theologitis, K Ghate, SS Li, B Newman, C Shah, A Caliskan, ...",
+   "venue": "arXiv preprint arXiv:2605.11388",
+   "year": "2026"
+  },
+  {
+   "title": "IDIOLEX: Unified and continuous representations for idiolectal and stylistic variation",
+   "authors": "A Kantharuban, A Srivastava, F Faisal, O Ahia, A Anastasopoulos, ...",
+   "venue": "arXiv preprint arXiv:2604.04704",
+   "year": "2026"
+  },
+  {
+   "title": "Are Language Models Sensitive to Morally Irrelevant Distractors?",
+   "authors": "A Shaw, C Hahn, C Rasgaitis, Y Mishra, A Liu, N Jaques, Y Tsvetkov, ...",
+   "venue": "arXiv preprint arXiv:2602.09416",
+   "year": "2026"
+  },
+  {
+   "title": "Moco: A one-stop shop for model collaboration research",
+   "authors": "S Feng, Y Bai, Z Yang, Y Wang, Z Tan, J Yan, Z Lei, W Ding, W Shi, ...",
+   "venue": "arXiv preprint arXiv:2601.21257",
+   "year": "2026"
+  },
+  {
+   "title": "Guessbench: Sensemaking multimodal creativity in the wild",
+   "authors": "Z Zhu, S Feng, H Wan, N Wang, M Luo, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2506.00814",
+   "year": "2025"
+  },
+  {
+   "title": "Generalizable LLM Learning of Graph Synthetic Data with Reinforcement Learning",
+   "authors": "Y Zhang, H Wang, S Feng, Z Tan, X Liu, Y Tsvetkov",
+   "venue": "arXiv e-prints, arXiv: 2506.00845",
+   "year": "2025"
+  },
+  {
+   "title": "What constitutes a faithful summary? preserving author perspectives in news summarization",
+   "authors": "Y Liu, S Feng, X Han, V Balachandran, CY Park, S Kumar, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2311.09741",
+   "year": "2023"
+  },
+  {
+   "title": "Accepted tutorials at the web conference 2022",
+   "authors": "R Tommasini, S Basu Roy, X Wang, H Wang, H Ji, J Han, P Nakov, ...",
+   "venue": "Companion Proceedings of the Web Conference 2022, 391-399",
+   "year": "2022"
+  },
+  {
+   "title": "Ranking transfer languages with pragmatically-motivated features for multilingual sentiment analysis",
+   "authors": "J Sun, H Ahn, CY Park, Y Tsvetkov, DR Mortensen",
+   "venue": "European Chapter of the Association for Computational Linguistics (EACL)",
+   "year": "2021"
+  },
+  {
+   "title": "Data Swarms: Optimizable Generation of Synthetic Evaluation Data",
+   "authors": "S Feng, Y Wang, W Shi, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 12139-12157",
+   "year": "2026"
+  },
+  {
+   "title": "MentorCollab: Selective Large-to-Small Inference-Time Guidance for Efficient Reasoning",
+   "authors": "H Wang, Y Wang, S Feng, H Hajishirzi, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2602.05307",
+   "year": "2026"
+  },
+  {
+   "title": "MARVEL: Modular Abstention for Reliable and Versatile Expert LLMs",
+   "authors": "B Wen, F Brahman, Z Su, S Feng, Y Tsvetkov, LL Wang, B Howe",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on Customizable NLP: Progress and Challenges in Customizing NLP for a Domain, Application, Group, or Individual (CustomNLP4U)",
+   "authors": "S Kumar, V Balachandran, CY Park, W Shi, SA Hayati, Y Tsvetkov, ...",
+   "venue": "Proceedings of the 1st Workshop on Customizable NLP: Progress and Challenges …",
+   "year": "2024"
+  },
+  {
+   "title": "Mental health stigma across diverse genders in large language models",
+   "authors": "L Njoo, L Janzen-Morel, IW Lin, Y Tsvetkov",
+   "venue": "Machine Learning for Cognitive and Mental Health Workshop (ML4CMH), AAAI 2024",
+   "year": "2024"
+  },
+  {
+   "title": "LEXPLAIN: Improving model explanations via lexicon supervision",
+   "authors": "O Ahia, H Gonen, V Balachandran, Y Tsvetkov, NA Smith",
+   "venue": "Proceedings of the 12th Joint Conference on Lexical and Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "A framework for the computational linguistic analysis of dehumanization",
+   "authors": "Y Tsvetkov, J Mendelsohn, D Jurafsky",
+   "venue": "Frontiers in artificial intelligence",
+   "year": "2020"
+  },
+  {
+   "title": "You're Hired: Strategic Model Selection for LLM Collaboration",
+   "authors": "Z Cao, Z Yang, S Feng, M Duan, S Hallinan, B Wen, LL Wang, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2609.38816",
+   "year": "2026"
+  },
+  {
+   "title": "Multi-LLM Collaborative Alignment via Stackelberg Games",
+   "authors": "C Hahn, S Feng, D Light, S Roy, H Gonen, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2609.39076",
+   "year": "2026"
+  },
+  {
+   "title": "ExploreNet: Learning Where to Explore in Diffusion GRPO",
+   "authors": "SS Li, X Han, Y Tsvetkov, L Zettlemoyer",
+   "venue": "arXiv preprint arXiv:2609.38329",
+   "year": "2026"
+  },
+  {
+   "title": "Verifiable Visual Rewards Transfer from Synthetic Scenes to Natural Prompts",
+   "authors": "SS Li, X Han, Y Tsvetkov, L Zettlemoyer",
+   "venue": "arXiv preprint arXiv:2609.35641",
+   "year": "2026"
+  },
+  {
+   "title": "Save Your Saturated Data: Learning Beyond Reward Saturation in Group-Based RL",
+   "authors": "Z Yang, Y Wang, S Feng, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2609.33126",
+   "year": "2026"
+  },
+  {
+   "title": "Before the Rollout Ends: Early Terminal Reward Prediction for Long-horizon Coding Agents",
+   "authors": "J Yao, S Zeng, S Feng, Z Fan, B Zhu, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2609.31995",
+   "year": "2026"
+  },
+  {
+   "title": "Realize What Matters: Principled Context Representation for Large-Scale Reasoning",
+   "authors": "M Theologitis, D Light, SS Li, B Newman, Y Tsvetkov, D Suciu",
+   "venue": "arXiv preprint arXiv:2609.27173",
+   "year": "2026"
+  },
+  {
+   "title": "One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography",
+   "authors": "M Zhang, A Jencks, K Badikela, Y Tsvetkov, S Kumar",
+   "venue": "arXiv preprint arXiv:2608.25904",
+   "year": "2026"
+  },
+  {
+   "title": "Evaluating Large Language Models for Antisemitic Incident Classification",
+   "authors": "K Halevy, J Mendelsohn, CY Park, Y Tsvetkov, M Sap",
+   "venue": "arXiv preprint arXiv:2607.04890",
+   "year": "2026"
+  },
+  {
+   "title": "Moral Safety in LLMs: Exposing Performative Compliance with Puzzled Cues",
+   "authors": "M Shafiei, SS Li, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2606.31644",
+   "year": "2026"
+  },
+  {
+   "title": "Multilingual Reasoning Cascades Need More Context",
+   "authors": "A Mazumder, D Zhang, SS Li, Y Tsvetkov, N Bafna",
+   "venue": "arXiv preprint arXiv:2606.27306",
+   "year": "2026"
+  },
+  {
+   "title": "Scaling Participation in Modular AI Systems",
+   "authors": "S Feng, Y Wang, W Shi, L Zettlemoyer, Y Choi, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2606.07812",
+   "year": "2026"
+  },
+  {
+   "title": "PrefDisco: Benchmarking Proactive Personalized Reasoning",
+   "authors": "S Li, A Bose, F Brahman, S Du, PW Koh, M Fazel, Y Tsvetkov",
+   "venue": "International Conference on Learning Representations 2026, 80844-80908",
+   "year": "2026"
+  },
+  {
+   "title": ": Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation",
+   "authors": "J Chen, Y Tsvetkov, X Han",
+   "venue": "International Conference on Learning Representations 2026, 77090-77105",
+   "year": "2026"
+  },
+  {
+   "title": "Cold-Start Personalization via Training-Free Priors from Structured World Models",
+   "authors": "A Bose, SS Li, F Brahman, PW Koh, SS Du, Y Tsvetkov, M Fazel, L Xiao, ...",
+   "venue": "arXiv preprint arXiv:2602.15012",
+   "year": "2026"
+  },
+  {
+   "title": "Small Reward Models via Backward Inference",
+   "authors": "Y Wang, F Brahman, S Feng, T Xiao, H Hajishirzi, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2602.13551",
+   "year": "2026"
+  },
+  {
+   "title": "The Single-Multi Evolution Loop for Self-Improving Model Collaboration Systems",
+   "authors": "S Feng, K Panaganti, Y Tsvetkov, W Yu",
+   "venue": "arXiv preprint arXiv:2602.05182",
+   "year": "2026"
+  },
+  {
+   "title": "BASS: Benchmarking Audio LMs for Musical Structure and Semantic Reasoning",
+   "authors": "M Jang, O Ahia, N Tamer, S Kumar, Y Tsvetkov, NA Smith",
+   "venue": "arXiv preprint arXiv:2602.04085",
+   "year": "2026"
+  },
+  {
+   "title": "What is AI's message? Understanding Its Impact on Popular Art through Economic and Media Theory",
+   "authors": "K Ahuja, JN Kaur, Y Tsvetkov",
+   "venue": "Understanding Its Impact on Popular Art through Economic and Media Theory …",
+   "year": "2025"
+  },
+  {
+   "title": "MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation",
+   "authors": "J Chen, Y Tsvetkov, X Han",
+   "venue": "arXiv preprint arXiv:2506.07999",
+   "year": "2025"
+  },
+  {
+   "title": "Interactive Reasoning: Visualizing and Controlling Chain-of-Thought Reasoning in Large Language Models",
+   "authors": "R Yuren Pang, KJ Feng, S Feng, C Li, W Shi, Y Tsvetkov, J Heer, ...",
+   "venue": "arXiv e-prints, arXiv: 2506.23678",
+   "year": "2025"
+  },
+  {
+   "title": "Beyond the Stethoscope: Operationalizing Interactive Clinical Reasoning in Large Language Models via Proactive Information Seeking",
+   "authors": "SS Li, V Balachandran, S Feng, E Pierson, PW Koh, Y Tsvetkov",
+   "venue": "2024 IEEE 12th International Conference on Healthcare Informatics (ICHI …",
+   "year": "2024"
+  },
+  {
+   "title": "On the importance of nuanced taxonomies for LLM-based understanding of harmful events: A case study on antisemitism",
+   "authors": "KH Halevy, J Mendelsohn, N Younger, T Rossman-Benjamin, CY Park, ...",
+   "venue": "Eighth Widening NLP Workshop (WiNLP 2024) Phase II",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Tutorial Abstracts",
+   "authors": "M Ballesteros, Y Tsvetkov, CO Alm",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Assignment 5",
+   "authors": "Y Tsvetkov, A Black",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "A Computational Analysis of Polarization",
+   "authors": "A Tyagi, A Field, P Lathwal, Y Tsvetkov",
+   "venue": "Social Informatics: 12th International Conference, SocInfo 2020, Pisa, Italy …",
+   "year": "2020"
+  },
+  {
+   "title": "NSF-BSF: Collaborative Research: RI: Small: Multilingual Language Generation via Understanding of Code Switching",
+   "authors": "Y Tsvetkov",
+   "venue": "NSF Award Number 2007960. Directorate for Computer and Information Science …",
+   "year": "2020"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on Subword/Character LEvel Models",
+   "authors": "M Faruqui, H Schütze, I Trancoso, Y Tsvetkov, Y Yaghoobzadeh",
+   "venue": "Proceedings of the Second Workshop on Subword/Character LEvel Models",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the Workshop on Multilingual and Cross-lingual Methods in NLP",
+   "authors": "D Das, C Dyer, M Faruqui, Y Tsvetkov",
+   "venue": "Proceedings of the Workshop on Multilingual and Cross-lingual Methods in NLP",
+   "year": "2016"
+  },
+  {
+   "title": "The CMU Machine Translation Systems at WMT 2014",
+   "authors": "AMWAA Bhatia, W Feely, GHESS Swayamdipta, Y Tsvetkov, ALC Dyer",
+   "venue": "ACL 2014, 142",
+   "year": "2014"
+  },
+  {
+   "title": "Can RLVR Recover Reasoning Quality Missing from Mid-Training?",
+   "authors": "T Zhang, SS Li, Y Tsvetkov",
+   "venue": "COLM 2026 Workshop on Efficient Reasoning",
+   "year": null
+  },
+  {
+   "title": "PrefDisco: Evaluating Proactive Personalization through Interactive Preference Discovery",
+   "authors": "SS Li, A Bose, F Brahman, SS Du, PW Koh, M Fazel, Y Tsvetkov",
+   "venue": "First Workshop on Multi-Turn Interactions in Large Language Models",
+   "year": null
+  },
+  {
+   "title": "Cold-Start Personalization via Bayesian Adaptive Questioning",
+   "authors": "A Bose, SS Li, F Brahman, PW Koh, SS Du, Y Tsvetkov, M Fazel, L Xiao, ...",
+   "venue": "Forty-third International Conference on Machine Learning",
+   "year": null
+  },
+  {
+   "title": "Self-Evolving Language Models through Co-evolved Discriminative Rubrics",
+   "authors": "SS Li, R Xin, Y Wang, T Xiao, R Shao, Z Hao, M Sclar, F Brahman, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Ads in ChatGPT? An Analysis of How Large Language Models Navigate Conflicts of Interest",
+   "authors": "AJ Wu, R Liu, SS Li, K Oktar, Y Tsvetkov, TL Griffiths",
+   "venue": "Algorithmic Fairness Across Alignment Procedures and Agentic Systems",
+   "year": null
+  },
+  {
+   "title": "MMMG: A Comprehensive and Reliable Benchmark for Multitask Multimodal Generation",
+   "authors": "J Yao, Y Hu, W Wang, B Han, G Yang, Y Yi, S Feng, B Wen, R Krishna, ...",
+   "venue": "Third Conference on Language Modeling",
+   "year": null
+  },
+  {
+   "title": "Fighting Fire with Fire: Assessing Test Set Contamination Through Deliberate Training on Test Data",
+   "authors": "M Sclar, SS Li, N Mireshghallah, Y Choi, Y Tsvetkov",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Irrelevant Context Helps: Understanding the Impact of Context in Large Language Models",
+   "authors": "Y Wu, E Sun, SS Li, L Guo, Y Tsvetkov, J Wang, A Caliskan",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Multilingual Contextual Affective Analysis of LGBT People Portrayals in Wikipedia",
+   "authors": "CY Parkc, X Yanc, A Fieldc, Y Tsvetkov",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Measuring Cross-Lingual Information Gaps in English Wikipedia: A Case Study of LGBT People Portrayals",
+   "authors": "F Samir, CYPZ Wang, AFV Shwartz, Y Tsvetkov",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Cross-Lingual Transfer of Linguistic and Metalinguistic Knowledge via Lexical Borrowing",
+   "authors": "Y Tsvetkov",
+   "venue": "Carnegie Mellon University",
+   "year": null
+  }
+ ]
+}

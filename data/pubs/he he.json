@@ -1,0 +1,605 @@
+{
+ "user": "K-isjagAAAAJ",
+ "pubs": [
+  {
+   "title": "Solving olympiad geometry without human demonstrations",
+   "authors": "TH Trinh, Y Wu, QV Le, H He, T Luong",
+   "venue": "Nature 625 (7995), 476-482",
+   "year": "2024"
+  },
+  {
+   "title": "QuAC: Question answering in context",
+   "authors": "E Choi, H He, M Iyyer, M Yatskar, W Yih, Y Choi, P Liang, L Zettlemoyer",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Delete, retrieve, generate: a simple approach to sentiment and style transfer",
+   "authors": "J Li, R Jia, H He, P Liang",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Language models are greedy reasoners: A systematic formal analysis of chain-of-thought",
+   "authors": "A Saparov, H He",
+   "venue": "arXiv preprint arXiv:2210.01240",
+   "year": "2022"
+  },
+  {
+   "title": "FEQA: A question answering evaluation framework for faithfulness assessment in abstractive summarization",
+   "authors": "E Durmus, H He, M Diab",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Opponent modeling in deep reinforcement learning",
+   "authors": "H He, J Boyd-Graber, K Kwok, H Daumé III",
+   "venue": "International conference on machine learning, 1804-1813",
+   "year": "2016"
+  },
+  {
+   "title": "Sharp nearby, fuzzy far away: How neural language models use context",
+   "authors": "U Khandelwal, H He, P Qi, D Jurafsky",
+   "venue": "Proceedings of the 56th annual meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "The PRISM alignment dataset: What participatory, representative and individualised human feedback reveals about the subjective and multicultural alignment of large language models",
+   "authors": "HR Kirk, A Whitefield, P Röttger, A Bean, K Margatina, J Ciro, R Mosquera, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 105236-105344",
+   "year": "2024"
+  },
+  {
+   "title": "Iterative reasoning preference optimization",
+   "authors": "RY Pang, W Yuan, K Cho, H He, S Sukhbaatar, J Weston",
+   "venue": "Advances in Neural Information Processing Systems 37, 116617-116637",
+   "year": "2024"
+  },
+  {
+   "title": "Foundational challenges in assuring alignment and safety of large language models",
+   "authors": "U Anwar, A Saparov, J Rando, D Paleka, M Turpin, P Hase, ES Lubana, ...",
+   "venue": "arXiv preprint arXiv:2404.09932",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to search in branch and bound algorithms",
+   "authors": "H He, H Daumé, J Eisner",
+   "venue": "Advances in neural information processing systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "Single image super-resolution using Gaussian process regression",
+   "authors": "H He, WC Siu",
+   "venue": "CVPR 2011, 449-456",
+   "year": "2011"
+  },
+  {
+   "title": "Does writing with language models reduce content diversity?",
+   "authors": "V Padmakumar, H He",
+   "venue": "International Conference on Learning Representations 2024, 642-669",
+   "year": "2024"
+  },
+  {
+   "title": "QuALITY: Question answering with long input texts, yes!",
+   "authors": "RY Pang, A Parrish, N Joshi, N Nangia, J Phang, A Chen, V Padmakumar, ...",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Decoupling strategy and generation in negotiation dialogues",
+   "authors": "H He, D Chen, A Balakrishnan, P Liang",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Gluoncv and gluonnlp: Deep learning in computer vision and natural language processing",
+   "authors": "J Guo, H He, T He, L Lausen, M Li, H Lin, X Shi, C Wang, J Xie, S Zha, ...",
+   "venue": "Journal of Machine Learning Research 21 (23), 1-7",
+   "year": "2020"
+  },
+  {
+   "title": "Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings",
+   "authors": "H He, A Balakrishnan, M Eric, P Liang",
+   "venue": "Association for Computational Linguistics (ACL)",
+   "year": "2017"
+  },
+  {
+   "title": "Unlearn dataset bias in natural language inference by fitting the residual",
+   "authors": "H He, S Zha, H Wang",
+   "venue": "Proceedings of the 2nd Workshop on Deep Learning Approaches for Low-Resource …",
+   "year": "2019"
+  },
+  {
+   "title": "An empirical study on robustness to spurious correlations using pre-trained language models",
+   "authors": "L Tu, G Lalwani, S Gella, H He",
+   "venue": "Transactions of the Association for Computational Linguistics 8, 621-633",
+   "year": "2020"
+  },
+  {
+   "title": "Meta-learning via language model in-context tuning",
+   "authors": "Y Chen, R Zhong, S Zha, G Karypis, H He",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Testing the general deductive reasoning capacity of large language models using ood examples",
+   "authors": "A Saparov, RY Pang, V Padmakumar, N Joshi, M Kazemi, N Kim, H He",
+   "venue": "Advances in Neural Information Processing Systems 36, 3083-3105",
+   "year": "2023"
+  },
+  {
+   "title": "Reasoning Models Know When They're Right: Probing Hidden States for Self-Verification",
+   "authors": "A Zhang, Y Chen, J Pan, C Zhao, A Panda, J Li, H He",
+   "venue": "arXiv preprint arXiv:2504.05419",
+   "year": "2025"
+  },
+  {
+   "title": "Types of out-of-distribution texts and how to detect them",
+   "authors": "U Arora, W Huang, H He",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Imitation learning by coaching",
+   "authors": "H He, J Eisner, H Daume",
+   "venue": "Advances in neural information processing systems 25",
+   "year": "2012"
+  },
+  {
+   "title": "Help me write a poem: Instruction tuning as a vehicle for collaborative poetry writing",
+   "authors": "T Chakrabarty, V Padmakumar, H He",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Don’t until the final verb wait: Reinforcement learning for simultaneous machine translation",
+   "authors": "A Grissom II, H He, JL Boyd-Graber, J Morgan, H Daumé III",
+   "venue": "Proceedings of the 2014 Conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Language models learn to mislead humans via rlhf",
+   "authors": "J Wen, R Zhong, A Khan, E Perez, J Steinhardt, M Huang, S Bowman, ...",
+   "venue": "International Conference on Learning Representations 2025, 74670-74692",
+   "year": "2025"
+  },
+  {
+   "title": "Pun generation with surprise",
+   "authors": "H He, N Peng, P Liang",
+   "venue": "Proceedings of the 2019 conference of the north American chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Do models explain themselves? counterfactual simulatability of natural language explanations",
+   "authors": "Y Chen, R Zhong, N Ri, C Zhao, H He, J Steinhardt, Z Yu, K McKeown",
+   "venue": "arXiv preprint arXiv:2307.08678",
+   "year": "2023"
+  },
+  {
+   "title": "Text generation by learning from demonstrations",
+   "authors": "RY Pang, H He",
+   "venue": "arXiv preprint arXiv:2009.07839",
+   "year": "2020"
+  },
+  {
+   "title": "On the relation between sensitivity and accuracy in in-context learning",
+   "authors": "Y Chen, C Zhao, Z Yu, K McKeown, H He",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 155-167",
+   "year": "2023"
+  },
+  {
+   "title": "Faithful or extractive? on mitigating the faithfulness-abstractiveness trade-off in abstractive summarization",
+   "authors": "F Ladhak, E Durmus, H He, C Cardie, K McKeown",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Besting the quiz master: Crowdsourcing incremental classification games",
+   "authors": "JL Boyd-Graber, B Satinoff, H He, H Daumé III",
+   "venue": "Proceedings of the 2012 joint conference on empirical methods in natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Interpretese vs. translationese: The uniqueness of human strategies in simultaneous interpretation",
+   "authors": "H He, JL Boyd-Graber, H Daumé III",
+   "venue": "Proceedings of the 2016 Conference of the North American Chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Measuring inductive biases of in-context learning with underspecified demonstrations",
+   "authors": "C Si, D Friedman, N Joshi, S Feng, D Chen, H He",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Unsupervised extractive summarization using pointwise mutual information",
+   "authors": "V Padmakumar, H He",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "An investigation of the (in) effectiveness of counterfactually augmented data",
+   "authors": "N Joshi, H He",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "A dynamic strategy coach for effective negotiation",
+   "authors": "Y Zhou, H He, AW Black, Y Tsvetkov",
+   "venue": "Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue …",
+   "year": "2019"
+  },
+  {
+   "title": "Quizbowl: The case for incremental question answering",
+   "authors": "P Rodriguez, S Feng, M Iyyer, H He, J Boyd-Graber",
+   "venue": "arXiv preprint arXiv:1904.04792",
+   "year": "2019"
+  },
+  {
+   "title": "Personas as a way to model truthfulness in language models",
+   "authors": "N Joshi, J Rando, A Saparov, N Kim, H He",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Cost-sensitive dynamic feature selection",
+   "authors": "H He, H Daumé III, J Eisner",
+   "venue": "ICML Inferning Workshop",
+   "year": "2012"
+  },
+  {
+   "title": "Dynamic feature selection for dependency parsing",
+   "authors": "H He, H Daumé III, J Eisner",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "LLMs are prone to fallacies in causal inference",
+   "authors": "N Joshi, A Saparov, Y Wang, H He",
+   "venue": "Proceedings of the 2024 conference on empirical methods in natural language …",
+   "year": "2024"
+  },
+  {
+   "title": "Are all spurious features in natural language alike? an analysis through a causal lens",
+   "authors": "N Joshi, X Pan, H He",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Evapotranspiration and water yield over China's landmass from 2000 to 2010",
+   "authors": "Y Liu, Y Zhou, W Ju, J Chen, S Wang, H He, H Wang, D Guan, F Zhao, ...",
+   "venue": "Hydrology and Earth System Sciences 17 (12), 4957-4980",
+   "year": "2013"
+  },
+  {
+   "title": "Parallel structures in pre-training data yield in-context learning",
+   "authors": "Y Chen, C Zhao, Z Yu, K McKeown, H He",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Seqpate: Differentially private text generation via knowledge distillation",
+   "authors": "Z Tian, Y Zhao, Z Huang, YX Wang, NL Zhang, H He",
+   "venue": "Advances in Neural Information Processing Systems 35, 11117-11130",
+   "year": "2022"
+  },
+  {
+   "title": "Adaptive deployment of untrusted LLMs reduces distributed threats",
+   "authors": "J Wen, V Hebbar, C Larson, A Bhatt, A Radhakrishnan, M Sharma, ...",
+   "venue": "International Conference on Learning Representations 2025, 42650-42693",
+   "year": "2025"
+  },
+  {
+   "title": "Reward gaming in conditional text generation",
+   "authors": "RY Pang, V Padmakumar, T Sellam, A Parikh, H He",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Rare class classification by support vector machine",
+   "authors": "H He, A Ghodsi",
+   "venue": "2010 20th International Conference on Pattern Recognition, 548-551",
+   "year": "2010"
+  },
+  {
+   "title": "Towards consistent natural-language explanations via explanation-consistency finetuning",
+   "authors": "Y Chen, C Singh, X Liu, S Zuo, B Yu, H He, J Gao",
+   "venue": "Proceedings of the 31st International Conference on Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Machine-in-the-loop rewriting for creative image captioning",
+   "authors": "V Padmakumar, H He",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Transformers struggle to learn to search",
+   "authors": "A Saparov, SA Pawar, S Pimpalgaonkar, N Joshi, RY Pang, ...",
+   "venue": "International Conference on Learning Representations 2025, 16028-16053",
+   "year": "2025"
+  },
+  {
+   "title": "Spontaneous reward hacking in iterative self-refinement",
+   "authors": "J Pan, H He, SR Bowman, S Feng",
+   "venue": "arXiv preprint arXiv:2407.04549",
+   "year": "2024"
+  },
+  {
+   "title": "Nuisances via negativa: Adjusting for spurious correlations via data augmentation",
+   "authors": "A Puli, N Joshi, Y Wald, H He, R Ranganath",
+   "venue": "arXiv preprint arXiv:2210.01302",
+   "year": "2022"
+  },
+  {
+   "title": "Exploring the role of task transferability in large-scale multi-task learning",
+   "authors": "V Padmakumar, L Lausen, M Ballesteros, S Zha, H He, G Karypis",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Leveraging implicit feedback from deployment data in dialogue",
+   "authors": "RY Pang, S Roller, K Cho, H He, J Weston",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Robustification of multilingual language models to real-world noise in crosslingual zero-shot settings with robust contrastive pretraining",
+   "authors": "AC Stickland, S Sengupta, J Krone, S Mansour, H He",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Robustness and adversarial examples in natural language processing",
+   "authors": "KW Chang, H He, R Jia, S Singh",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Pragmatic radiology report generation",
+   "authors": "D Nguyen, C Chen, H He, C Tan",
+   "venue": "Machine learning for health (ML4h), 385-402",
+   "year": "2023"
+  },
+  {
+   "title": "Learning to search for dependencies",
+   "authors": "KW Chang, H He, H Daumé III, J Langford",
+   "venue": "arXiv preprint arXiv:1503.05615",
+   "year": "2015"
+  },
+  {
+   "title": "Extrapolative controlled sequence generation via iterative refinement",
+   "authors": "V Padmakumar, RY Pang, H He, AP Parikh",
+   "venue": "International Conference on Machine Learning, 26792-26808",
+   "year": "2023"
+  },
+  {
+   "title": "Syntax-based rewriting for simultaneous machine translation",
+   "authors": "H He, A Grissom II, J Morgan, JL Boyd-Graber, H Daumé III",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "When benchmarks talk: Re-evaluating code llms with interactive feedback",
+   "authors": "J Pan, R Shar, J Pfau, A Talwalkar, H He, V Chen",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 24672-24700",
+   "year": "2025"
+  },
+  {
+   "title": "Creative natural language generation",
+   "authors": "T Chakrabarty, V Padmakumar, H He, N Peng",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Irm—when it works and when it doesn't: A test case of natural language inference",
+   "authors": "Y Dranker, H He, Y Belinkov",
+   "venue": "Advances in Neural Information Processing Systems 34, 18212-18224",
+   "year": "2021"
+  },
+  {
+   "title": "Object detection in 20 questions",
+   "authors": "XS Chen, H He, LS Davis",
+   "venue": "2016 IEEE Winter Conference on Applications of Computer Vision (WACV), 1-9",
+   "year": "2016"
+  },
+  {
+   "title": "Is it thinking or cheating? detecting implicit reward hacking by measuring reasoning effort",
+   "authors": "X Wang, N Joshi, B Plank, R Angell, H He",
+   "venue": "International Conference on Learning Representations 2026, 96956-96981",
+   "year": "2026"
+  },
+  {
+   "title": "Monitoring decomposition attacks in llms with lightweight sequential monitors",
+   "authors": "C Yueh-Han, N Joshi, Y Chen, M Andriushchenko, R Angell, H He",
+   "venue": "arXiv preprint arXiv:2506.10949",
+   "year": "2025"
+  },
+  {
+   "title": "Your co-workers matter: Evaluating collaborative capabilities of language models in blocks world",
+   "authors": "G Wu, C Zhao, C Silva, H He",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 4941-4957",
+   "year": "2024"
+  },
+  {
+   "title": "Temporal supervised learning for inferring a dialog policy from example conversations",
+   "authors": "L Li, H He, JD Williams",
+   "venue": "2014 IEEE Spoken Language Technology Workshop (SLT), 312-317",
+   "year": "2014"
+  },
+  {
+   "title": "Unsupervised elicitation of language models",
+   "authors": "J Wen, Z Ankner, A Somani, P Hase, S Marks, J Goldman-Wetzler, ...",
+   "venue": "arXiv preprint arXiv:2506.10139",
+   "year": "2025"
+  },
+  {
+   "title": "Efficient shapley values estimation by amortization for text classification",
+   "authors": "C Yang, F Yin, H He, KW Chang, X Ma, B Xiang",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Beyond the binary: Capturing diverse preferences with reward regularization",
+   "authors": "V Padmakumar, C Jin, HR Kirk, H He",
+   "venue": "arXiv preprint arXiv:2412.03822",
+   "year": "2024"
+  },
+  {
+   "title": "A credit assignment compiler for joint prediction",
+   "authors": "KW Chang, H He, S Ross, H Daume III, J Langford",
+   "venue": "Advances in Neural Information Processing Systems 29",
+   "year": "2016"
+  },
+  {
+   "title": "Reasoning models struggle to control their chains of thought",
+   "authors": "C Yueh-Han, R McCarthy, BW Lee, H He, I Kivlichan, B Baker, M Carroll, ...",
+   "venue": "arXiv preprint arXiv:2603.05706",
+   "year": "2026"
+  },
+  {
+   "title": "Trust-aware optimal crowdsourcing with budget constraint",
+   "authors": "X Liu, H He, JS Baras",
+   "venue": "2015 IEEE International Conference on Communications (ICC), 1176-1181",
+   "year": "2015"
+  },
+  {
+   "title": "How do decoding algorithms distribute information in dialogue responses?",
+   "authors": "S Venkatraman, H He, D Reitter",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 953-962",
+   "year": "2023"
+  },
+  {
+   "title": "Improving faithfulness by augmenting negative summaries from fake documents",
+   "authors": "T Wang, F Ladhak, E Durmus, H He",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Jailbreak transferability emerges from shared representations",
+   "authors": "R Angell, J Brinkmann, H He",
+   "venue": "International Conference on Learning Representations 2026, 135328-135363",
+   "year": "2026"
+  },
+  {
+   "title": "Monitoring llm agents for sequentially contextual harm",
+   "authors": "C Yueh-Han, N Joshi, Y Chen, H He, R Angell",
+   "venue": "ICLR 2025 Workshop on Building Trust in Language Models and Applications",
+   "year": "2025"
+  },
+  {
+   "title": "Amortized noisy channel neural machine translation",
+   "authors": "RY Pang, H He, K Cho",
+   "venue": "Proceedings of the 15th International Conference on Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Crowdsourcing with multi-dimensional trust",
+   "authors": "X Liu, H He, JS Baras",
+   "venue": "2015 18th International Conference on Information Fusion (Fusion), 574-581",
+   "year": "2015"
+  },
+  {
+   "title": "Measuring LLM novelty as the frontier of original and high-quality output",
+   "authors": "V Padmakumar, C Yueh-Han, J Pan, V Chen, H He",
+   "venue": "International Conference on Learning Representations 2026, 100271-100309",
+   "year": "2026"
+  },
+  {
+   "title": "Beyond memorization: Mapping the originality-quality frontier of language models",
+   "authors": "V Padmakumar, C Yueh-Han, J Pan, V Chen, H He",
+   "venue": "arXiv e-prints, arXiv: 2504.09389",
+   "year": "2025"
+  },
+  {
+   "title": "Show your work with confidence: Confidence bands for tuning curves",
+   "authors": "N Lourie, K Cho, H He",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Improving multi-hop reasoning in llms by learning from rich human feedback",
+   "authors": "N Joshi, K Kalyanaraman, Z Hu, K Chellapilla, H He, LE Li",
+   "venue": "Neuro-Symbolic Learning and Reasoning in the era of Large Language Models",
+   "year": "2023"
+  },
+  {
+   "title": "Predicting empirical ai research outcomes with language models",
+   "authors": "J Wen, C Si, Y Chen, H He, S Feng",
+   "venue": "Advances in Neural Information Processing Systems 38, 2663-2680",
+   "year": "2026"
+  },
+  {
+   "title": "Monitoring decomposition attacks with lightweight sequential monitors",
+   "authors": "C Yueh-Han, N Joshi, Y Chen, M Andriushchenko, R Angell, H He",
+   "venue": "The Fourteenth International Conference on Learning Representations",
+   "year": "2026"
+  },
+  {
+   "title": "Estimating Tail Risks in Language Model Output Distributions",
+   "authors": "R Angell, R Singhal, Z Horvitz, Z Yu, R Ranganath, K McKeown, H He",
+   "venue": "arXiv preprint arXiv:2604.22167",
+   "year": "2026"
+  },
+  {
+   "title": "Hyperparameter Loss Surfaces Are Simple Near their Optima",
+   "authors": "N Lourie, H He, K Cho",
+   "venue": "arXiv preprint arXiv:2510.02721",
+   "year": "2025"
+  },
+  {
+   "title": "Jailbreak Strength and Model Similarity Predict Transferability",
+   "authors": "R Angell, J Brinkmann, H He",
+   "venue": "arXiv e-prints, arXiv: 2506.12913",
+   "year": "2025"
+  },
+  {
+   "title": "What Spurious Features Can Pretrained Language Models Combat?",
+   "authors": "C Si, D Friedman, N Joshi, S Feng, D Chen, H He",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Sequential decisions and predictions in natural language processing",
+   "authors": "H He",
+   "venue": "University of Maryland, College Park",
+   "year": "2016"
+  },
+  {
+   "title": "Machine Learning Basics",
+   "authors": "H He",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Factuality on Demand: Controlling the Factuality-Informativeness Trade-off in Text Generation",
+   "authors": "Z Gong, Y Chen, J Hirschberg, C Zhao, H He, Z Yu, K Mckeown",
+   "venue": "arXiv preprint arXiv:2602.00848",
+   "year": "2026"
+  },
+  {
+   "title": "Peer reviewed publications",
+   "authors": "BCM Haarman",
+   "venue": "The Dysregulated Brain 3 (10), 243",
+   "year": "2017"
+  },
+  {
+   "title": "Hands-on Learning to Search for Structured Prediction",
+   "authors": "H Daumé III, J Langford, KW Chang, H He, S Rao",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "An Asymptotic Theory of Random Search for Hyperparameters in Deep Learning",
+   "authors": "N Lourie, H He, K Cho",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Keyword-constrained Natural Language Generation A Hybrid Approach using Supervised and Reinforcement Learning",
+   "authors": "S Sengupta, H He, B Haider, S Gella, M Diab, AI Amazon",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

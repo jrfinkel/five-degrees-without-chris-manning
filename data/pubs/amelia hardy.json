@@ -1,0 +1,101 @@
+{
+ "user": "KPkdQb4AAAAJ",
+ "pubs": [
+  {
+   "title": "Evaluating Human-Language Model Interaction",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arXiv:2212.09746",
+   "year": "2022"
+  },
+  {
+   "title": "Betterbench: Assessing ai benchmarks, uncovering issues, and establishing best practices",
+   "authors": "A Reuel, A Hardy, C Smith, M Lamparth, M Hardy, MJ Kochenderfer",
+   "venue": "Advances in Neural Information Processing Systems 37, 21763-21813",
+   "year": "2024"
+  },
+  {
+   "title": "Neural Generation Meets Real People: Towards Emotionally Engaging Mixed-Initiative Conversations",
+   "authors": "A Paranjape, A See, K Kenealy, H Li, A Hardy, P Qi, KR Sadagopan, ...",
+   "venue": "arXiv preprint arXiv:2008.12348",
+   "year": "2020"
+  },
+  {
+   "title": "More than Marketing? On the Information Value of AI Benchmarks for Practitioners",
+   "authors": "A Hardy, A Reuel, K Jafari Meimandi, L Soder, A Griffith, DM Asmar, ...",
+   "venue": "Proceedings of the 30th International Conference on Intelligent User …",
+   "year": "2025"
+  },
+  {
+   "title": "Effective Social Chatbot Strategies for Increasing User Initiative",
+   "authors": "A Hardy, A Paranjape, CD Manning",
+   "venue": "Proceedings of the 22nd annual meeting of the special interest group on …",
+   "year": "2021"
+  },
+  {
+   "title": "Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent",
+   "authors": "EA Chi, A Paranjape, A See, C Chiam, T Chang, K Kenealy, SK Lim, ...",
+   "venue": "arXiv preprint arXiv:2207.12021",
+   "year": "2022"
+  },
+  {
+   "title": "LeRAAT: LLM-enabled real-time aviation advisory tool",
+   "authors": "MR Schlichting, V Rasmussen, H Alazzeh, H Liu, K Jafari, AF Hardy, ...",
+   "venue": "ECAI 2025: 28th European Conference on Artificial Intelligence 25-30 October …",
+   "year": "2025"
+  },
+  {
+   "title": "Inferring traffic models in terminal airspace from flight tracks and procedures",
+   "authors": "S Jung, A Hardy, MJ Kochenderfer",
+   "venue": "Journal of Aerospace Information Systems 22 (8), 730-740",
+   "year": "2025"
+  },
+  {
+   "title": "What Makes a Good AI Benchmark?",
+   "authors": "A Reuel, A Hardy, C Smith, M Lamparth, M Hardy, MJ Kochenderfer",
+   "venue": "Policy Brief, Stanford University Human-Centered Artificial Intelligence …",
+   "year": "2024"
+  },
+  {
+   "title": "ASTPrompter: Preference-Aligned Automated Language Model Red-Teaming to Generate Low-Perplexity Unsafe Prompts.",
+   "authors": "A Hardy, H Liu, A Griffith, B Lange, D Eddy, MJ Kochenderfer",
+   "venue": "EMNLP (Findings), 2668-2683",
+   "year": "2025"
+  },
+  {
+   "title": "Betterbench: Assessing AI Benchmarks, Uncovering Issues, and Establishing Best Practices.\" arXiv e-prints",
+   "authors": "A Reuel, A Hardy, C Smith, M Lamparth, M Hardy, MJ Kochenderfer",
+   "venue": "arXiv preprint arXiv:2411.12990",
+   "year": "2024"
+  },
+  {
+   "title": "ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Low-Perplexity Toxic Prompts",
+   "authors": "A Hardy, H Liu, B Lange, D Eddy, M Kochenderfer",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Astprompter: Weakly supervised automated language model red-teaming to identify likely toxic prompts",
+   "authors": "AF Hardy, H Liu, B Lange, MJ Kochenderfer",
+   "venue": "arXiv preprint arXiv:2407.09447",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating Human Language Model Interaction. arXiv",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arXiv:2212.09746",
+   "year": "2022"
+  },
+  {
+   "title": "RAG-DOLL: Zero-Shot LLM Multi-Hop Question Answering by Simultaneously Planning Over Documents and Strategies",
+   "authors": "H Liu, AF Hardy, S Akinwande, RJ Moss, D Eddy, CD Manning, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ICLR 2025 Workshop on Human-AI Coevolution",
+   "authors": "JR Anthis, D Asmar, KR Driggs-Campbell, A Hardy, KJ Meimandi, ...",
+   "venue": "ICLR 2025 Workshop Proposals",
+   "year": null
+  }
+ ]
+}

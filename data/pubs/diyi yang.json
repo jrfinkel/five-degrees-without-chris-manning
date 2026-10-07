@@ -1,0 +1,2315 @@
+{
+ "user": "j9jhYqQAAAAJ",
+ "pubs": [
+  {
+   "title": "Hierarchical attention networks for document classification",
+   "authors": "Z Yang, D Yang, C Dyer, X He, A Smola, E Hovy",
+   "venue": "Proceedings of the 2016 conference of the North American chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Can large language models transform computational social science?",
+   "authors": "C Ziems, W Held, O Shaikh, J Chen, Z Zhang, D Yang",
+   "venue": "Computational linguistics 50 (1), 237-291",
+   "year": "2024"
+  },
+  {
+   "title": "Is ChatGPT a general-purpose natural language processing task solver?",
+   "authors": "C Qin, A Zhang, Z Zhang, J Chen, M Yasunaga, D Yang",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "How johnny can persuade llms to jailbreak them: Rethinking persuasion to challenge ai safety by humanizing llms",
+   "authors": "Y Zeng, H Lin, J Zhang, D Yang, R Jia, W Shi",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Using large language models in psychology",
+   "authors": "D Demszky, D Yang, DS Yeager, CJ Bryan, M Clapper, S Chandhok, ...",
+   "venue": "Nature Reviews Psychology 2 (11), 688-701",
+   "year": "2023"
+  },
+  {
+   "title": "Can llms generate novel research ideas? a large-scale human study with 100+ nlp researchers",
+   "authors": "C Si, D Yang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2025, 94003-94092",
+   "year": "2025"
+  },
+  {
+   "title": "Turn on, tune in, drop out: Anticipating student dropouts in massive open online courses",
+   "authors": "D Yang, T Sinha, D Adamson, CP Rosé",
+   "venue": "Proceedings of the 2013 NIPS Data-driven education workshop 11, 14",
+   "year": "2013"
+  },
+  {
+   "title": "ToTTo: A controlled table-to-text generation dataset",
+   "authors": "A Parikh, X Wang, S Gehrmann, M Faruqui, B Dhingra, D Yang, D Das",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Sentiment Analysis in MOOC Discussion Forums: What does it tell us?",
+   "authors": "M Wen, D Yang, C Rose",
+   "venue": "Educational data mining 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Mixtext: Linguistically-informed interpolation of hidden space for semi-supervised text classification",
+   "authors": "J Chen, Z Yang, D Yang",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Latent hatred: A benchmark for understanding implicit hate speech",
+   "authors": "M ElSherief, C Ziems, D Muchlinski, V Anupindi, J Seybolt, ...",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Causal inference in natural language processing: Estimation, prediction, interpretation and beyond",
+   "authors": "A Feder, KA Keith, E Manzoor, R Pryzant, D Sridhar, Z Wood-Doughty, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 1138-1158",
+   "year": "2022"
+  },
+  {
+   "title": "That’s so annoying!!!: A lexical and frame-semantic embedding based data augmentation approach to automatic categorization of annoying behaviors using# petpeeve tweets",
+   "authors": "WY Wang, D Yang",
+   "venue": "Proceedings of the 2015 conference on empirical methods in natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "An empirical survey of data augmentation for limited data learning in NLP",
+   "authors": "J Chen, D Tam, C Raffel, M Bansal, D Yang",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 191-211",
+   "year": "2023"
+  },
+  {
+   "title": "Llavar: Enhanced visual instruction tuning for text-rich image understanding",
+   "authors": "Y Zhang, R Zhang, J Gu, Y Zhou, N Lipka, D Yang, T Sun",
+   "venue": "arXiv preprint arXiv:2306.17107",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: human language technologies",
+   "authors": "K Knight, A Nenkova, O Rambow",
+   "venue": "Proceedings of the 2016 Conference of the North American Chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Dynamic llm-agent network: An llm-agent collaboration framework with agent team optimization",
+   "authors": "Z Liu, Y Zhang, P Li, Y Liu, D Yang",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "On second thought, let’s not think step by step! bias and toxicity in zero-shot reasoning",
+   "authors": "O Shaikh, H Zhang, W Held, MS Bernstein, D Yang",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "The Importance of Modeling Social Factors of Language: Theory and Practice",
+   "authors": "D Hovy, D Yang",
+   "venue": "NAACL",
+   "year": "2021"
+  },
+  {
+   "title": "Swe-smith: Scaling data for software engineering agents",
+   "authors": "J Yang, K Lieret, C Jimenez, A Wettig, K Khandpur, Y Zhang, B Hui, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Unlearn what you want to forget: Efficient unlearning for llms",
+   "authors": "J Chen, D Yang",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "A dynamic LLM-powered agent network for task-oriented agent collaboration",
+   "authors": "Z Liu, Y Zhang, P Li, Y Liu, D Yang",
+   "venue": "arXiv preprint arXiv:2310.02170",
+   "year": "2023"
+  },
+  {
+   "title": "Humor Recognition and Humor Anchor Extraction",
+   "authors": "D Yang, A Lavie, C Dyer, E Hovy",
+   "venue": "EMNLP",
+   "year": "2015"
+  },
+  {
+   "title": "Evaluating the effectiveness of deplatforming as a moderation strategy on Twitter",
+   "authors": "S Jhaver, C Boylston, D Yang, A Bruckman",
+   "venue": "Proceedings of the ACM on human-computer interaction 5 (CSCW2), 1-30",
+   "year": "2021"
+  },
+  {
+   "title": "Mapping the increasing use of LLMs in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "arXiv preprint arXiv:2404.01268",
+   "year": "2024"
+  },
+  {
+   "title": "Is model collapse inevitable? breaking the curse of recursion by accumulating real and synthetic data",
+   "authors": "M Gerstgrasser, R Schaeffer, A Dey, R Rafailov, H Sleight, J Hughes, ...",
+   "venue": "arXiv preprint arXiv:2404.01413",
+   "year": "2024"
+  },
+  {
+   "title": "Training socially aligned language models on simulated social interactions",
+   "authors": "R Liu, R Yang, C Jia, G Zhang, D Yang, S Vosoughi",
+   "venue": "International Conference on Learning Representations 2024, 49602-49625",
+   "year": "2024"
+  },
+  {
+   "title": "Design2code: Benchmarking multimodal code generation for automated front-end engineering",
+   "authors": "C Si, Y Zhang, R Li, Z Yang, R Liu, D Yang",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Automatically neutralizing subjective bias in text",
+   "authors": "R Pryzant, RD Martinez, N Dass, S Kurohashi, D Jurafsky, D Yang",
+   "venue": "Proceedings of the aaai conference on artificial intelligence 34 (01), 480-489",
+   "year": "2020"
+  },
+  {
+   "title": "Swe-bench multimodal: Do ai systems generalize to visual software domains?",
+   "authors": "J Yang, CE Jimenez, AL Zhang, K Lieret, J Yang, X Wu, O Press, ...",
+   "venue": "arXiv preprint arXiv:2410.03859",
+   "year": "2024"
+  },
+  {
+   "title": "The gem benchmark: Natural language generation, its evaluation and metrics",
+   "authors": "S Gehrmann, T Adewumi, K Aggarwal, PS Ammanamanchi, A Aremu, ...",
+   "venue": "Proceedings of the First Workshop on Natural Language Generation, Evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "Investigating How Student's Cognitive Behavior in MOOC Discussion Forums Affect Learning Gains.",
+   "authors": "X Wang, D Yang, M Wen, K Koedinger, CP Rosé",
+   "venue": "International educational data mining society",
+   "year": "2015"
+  },
+  {
+   "title": "When flue meets flang: Benchmarks and large pretrained language model for financial domain",
+   "authors": "R Shah, K Chawla, D Eidnani, A Shah, W Du, S Chava, N Raman, ...",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Racism is a virus: Anti-Asian hate and counterspeech in social media during the COVID-19 crisis",
+   "authors": "B He, C Ziems, S Soni, N Ramakrishnan, D Yang, S Kumar",
+   "venue": "Proceedings of the 2021 IEEE/ACM international conference on advances in …",
+   "year": "2021"
+  },
+  {
+   "title": "How climate movement actors and news media frame climate change and strike: Evidence from analyzing twitter and news media discourse from 2018 to 2021",
+   "authors": "K Chen, AL Molder, Z Duan, S Boulianne, C Eckart, P Mallari, D Yang",
+   "venue": "The International Journal of Press/Politics 28 (2), 384-413",
+   "year": "2023"
+  },
+  {
+   "title": "Social skill training with large language models",
+   "authors": "D Yang, C Ziems, W Held, O Shaikh, MS Bernstein, J Mitchell",
+   "venue": "arXiv preprint arXiv:2404.04204",
+   "year": "2024"
+  },
+  {
+   "title": "Best practices and lessons learned on synthetic data",
+   "authors": "R Liu, J Wei, F Liu, C Si, Y Zhang, J Rao, S Zheng, D Peng, D Yang, ...",
+   "venue": "arXiv preprint arXiv:2404.07503",
+   "year": "2024"
+  },
+  {
+   "title": "Graph vulnerability and robustness: A survey",
+   "authors": "S Freitas, D Yang, S Kumar, H Tong, DH Chau",
+   "venue": "IEEE Transactions on Knowledge and Data Engineering 35 (6), 5915-5934",
+   "year": "2022"
+  },
+  {
+   "title": "Measure and improve robustness in NLP models: A survey",
+   "authors": "X Wang, H Wang, D Yang",
+   "venue": "Proceedings of the 2022 conference of the North American chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Privacylens: Evaluating privacy norm awareness of language models in action",
+   "authors": "Y Shao, T Li, W Shi, Y Liu, D Yang",
+   "venue": "Advances in Neural Information Processing Systems 37, 89373-89407",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-view sequence-to-sequence models with conversational structure for abstractive dialogue summarization",
+   "authors": "J Chen, D Yang",
+   "venue": "Proceedings of the 2020 conference on empirical methods in natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Quantifying large language model usage in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "Nature Human Behaviour 9 (12), 2599-2609",
+   "year": "2025"
+  },
+  {
+   "title": "The channel matters: Self-disclosure, reciprocity and social support in online cancer support groups",
+   "authors": "D Yang, Z Yao, J Seering, R Kraut",
+   "venue": "Proceedings of the 2019 chi conference on human factors in computing systems …",
+   "year": "2019"
+  },
+  {
+   "title": "Social factors that contribute to attrition in MOOCs",
+   "authors": "CP Rosé, R Carlson, D Yang, M Wen, L Resnick, P Goldman, J Sherer",
+   "venue": "Proceedings of the first ACM conference on Learning@ scale conference, 197-198",
+   "year": "2014"
+  },
+  {
+   "title": "Identifying and mitigating the security risks of generative ai",
+   "authors": "C Barrett, B Boyd, E Bursztein, N Carlini, B Chen, J Choi, AR Chowdhury, ...",
+   "venue": "Foundations and Trends® in Privacy and Security 6 (1), 1-52",
+   "year": "2023"
+  },
+  {
+   "title": "Linguistic reflections of student engagement in massive open online courses",
+   "authors": "M Wen, D Yang, C Rosé",
+   "venue": "Proceedings of the international AAAI conference on web and social media 8 …",
+   "year": "2014"
+  },
+  {
+   "title": "Fantastic questions and where to find them: FairytaleQA–an authentic dataset for narrative comprehension",
+   "authors": "Y Xu, D Wang, M Yu, D Ritchie, B Yao, T Wu, Z Zhang, TJJ Li, N Bradford, ...",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Rehearsal: Simulating conflict to teach conflict resolution",
+   "authors": "O Shaikh, VE Chai, M Gelfand, D Yang, MS Bernstein",
+   "venue": "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2024"
+  },
+  {
+   "title": "CoMPosT: Characterizing and evaluating caricature in LLM simulations",
+   "authors": "M Cheng, T Piccardi, D Yang",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Towards bidirectional human-ai alignment: A systematic review for clarifications, framework, and future directions",
+   "authors": "H Shen, T Knearem, R Ghosh, K Alkiek, K Krishna, Y Liu, Z Ma, S Petridis, ...",
+   "venue": "arXiv preprint arXiv:2406.09264 2406, 1-56",
+   "year": "2024"
+  },
+  {
+   "title": "Coannotating: Uncertainty-guided work allocation between human and large language models for data annotation",
+   "authors": "M Li, T Shi, C Ziems, MY Kan, N Chen, Z Liu, D Yang",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Will AI console me when I lose my pet? Understanding perceptions of AI-mediated email writing",
+   "authors": "Y Liu, A Mittal, D Yang, A Bruckman",
+   "venue": "Proceedings of the 2022 CHI conference on human factors in computing systems …",
+   "year": "2022"
+  },
+  {
+   "title": "Exploring the effect of confusion in discussion forums of massive open online courses",
+   "authors": "D Yang, M Wen, I Howley, R Kraut, C Rose",
+   "venue": "Proceedings of the second (2015) ACM conference on learning@ scale, 121-130",
+   "year": "2015"
+  },
+  {
+   "title": "Seekers, providers, welcomers, and storytellers: Modeling social roles in online health communities",
+   "authors": "D Yang, RE Kraut, T Smith, E Mayfield, D Jurafsky",
+   "venue": "Proceedings of the 2019 CHI conference on human factors in computing systems …",
+   "year": "2019"
+  },
+  {
+   "title": "The moral integrity corpus: A benchmark for ethical dialogue systems",
+   "authors": "C Ziems, J Yu, YC Wang, A Halevy, D Yang",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "The rise of AI companions: How human-chatbot relationships influence well-being",
+   "authors": "Y Zhang, D Zhao, JT Hancock, R Kraut, D Yang",
+   "venue": "arXiv e-prints, arXiv: 2506.12605",
+   "year": "2025"
+  },
+  {
+   "title": "Continual learning for text classification with information disentanglement based regularization",
+   "authors": "Y Huang, Y Zhang, J Chen, X Wang, D Yang",
+   "venue": "Proceedings of the 2021 conference of the North American chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Roleplay-doh: Enabling domain-experts to create llm-simulated patients via eliciting and adhering to principles",
+   "authors": "R Louie, A Nandi, W Fang, C Chang, E Brunskill, D Yang",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Margarett Clapper, Susannah Chandhok, Johannes C Eichstaedt, Cameron Hecht, Jeremy Jamieson, Meghann Johnson, et al. 2023. Using large language models in psychology",
+   "authors": "D Demszky, D Yang, DS Yeager, CJ Bryan",
+   "venue": "Nature Reviews Psychology 2 (11), 688-701",
+   "year": "2023"
+  },
+  {
+   "title": "Putting humans in the natural language processing loop: A survey",
+   "authors": "ZJ Wang, D Choi, S Xu, D Yang",
+   "venue": "Proceedings of the First Workshop on Bridging Human–Computer Interaction and …",
+   "year": "2021"
+  },
+  {
+   "title": "Structure-aware abstractive conversation summarization via discourse and action graphs",
+   "authors": "J Chen, D Yang",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Dyval: Dynamic evaluation of large language models for reasoning tasks",
+   "authors": "K Zhu, J Chen, J Wang, N Gong, D Yang, X Xie",
+   "venue": "International Conference on Learning Representations 2024, 18091-18128",
+   "year": "2024"
+  },
+  {
+   "title": "Identifying and mitigating spurious correlations for improving robustness in nlp models",
+   "authors": "T Wang, R Sridhar, D Yang, X Wang",
+   "venue": "Findings of the association for computational linguistics: NAACL 2022, 1719-1729",
+   "year": "2022"
+  },
+  {
+   "title": "Incorporating word correlation knowledge into topic modeling",
+   "authors": "P Xie, D Yang, E Xing",
+   "venue": "Proceedings of the 2015 conference of the north American chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Forum thread recommendation for massive open online courses",
+   "authors": "D Yang, M Piergallini, I Howley, C Rose",
+   "venue": "Educational Data Mining 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Attacking vision-language computer agents via pop-ups",
+   "authors": "Y Zhang, T Yu, D Yang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Culturebank: An online community-driven knowledge base towards culturally aware language technologies",
+   "authors": "W Shi, R Li, Y Zhang, C Ziems, S Yu, R Horesh, RA De Paula, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 4996-5025",
+   "year": "2024"
+  },
+  {
+   "title": "Opencua: Open foundations for computer-use agents",
+   "authors": "X Wang, B Wang, D Lu, J Yang, T Xie, J Wang, J Deng, X Guo, Y Xu, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 139756-139806",
+   "year": "2026"
+  },
+  {
+   "title": "Identifying semantic edit intentions from revisions in wikipedia",
+   "authors": "D Yang, A Halfaker, R Kraut, E Hovy",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "\" Honestly, I Think TikTok has a Vendetta Against Black Creators\": Understanding Black Content Creator Experiences on TikTok",
+   "authors": "C Harris, AG Johnson, S Palmer, D Yang, A Bruckman",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2), 1-31",
+   "year": "2023"
+  },
+  {
+   "title": "NormBank: A knowledge bank of situational social norms",
+   "authors": "C Ziems, J Dwivedi-Yu, YC Wang, A Halevy, D Yang",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Let’s make your request more persuasive: Modeling persuasive strategies via semi-supervised neural nets on crowdfunding platforms",
+   "authors": "D Yang, J Chen, Z Yang, D Jurafsky, E Hovy",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Parameter-efficient fine-tuning design spaces",
+   "authors": "J Chen, A Zhang, X Shi, M Li, A Smola, D Yang",
+   "venue": "arXiv preprint arXiv:2301.01821",
+   "year": "2023"
+  },
+  {
+   "title": "Commitment of newcomers and old-timers to online health support communities",
+   "authors": "D Yang, R Kraut, JM Levine",
+   "venue": "Proceedings of the 2017 CHI conference on human factors in computing systems …",
+   "year": "2017"
+  },
+  {
+   "title": "Benchmarking machine translation with cultural awareness",
+   "authors": "B Yao, M Jiang, T Bobinac, D Yang, J Hu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 13078 …",
+   "year": "2024"
+  },
+  {
+   "title": "Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback",
+   "authors": "SL Hsu, RS Shah, P Senthil, Z Ashktorab, C Dugan, W Geyer, D Yang",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 9 (2), 1-45",
+   "year": "2025"
+  },
+  {
+   "title": "Who did what: Editor role identification in Wikipedia",
+   "authors": "D Yang, A Halfaker, R Kraut, E Hovy",
+   "venue": "Proceedings of the international AAAI conference on web and social media 10 …",
+   "year": "2016"
+  },
+  {
+   "title": "Multi-VALUE: A framework for cross-dialectal English NLP",
+   "authors": "C Ziems, W Held, J Yang, J Dhamala, R Gupta, D Yang",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Grounding gaps in language model generations",
+   "authors": "O Shaikh, K Gligorić, A Khetan, M Gerstgrasser, D Yang, D Jurafsky",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Are large language models consistent over value-laden questions?",
+   "authors": "J Moore, T Deshpande, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 15185 …",
+   "year": "2024"
+  },
+  {
+   "title": "Unintended impacts of llm alignment on global representation",
+   "authors": "MJ Ryan, W Held, D Yang",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Personalized response generation via generative split memory network",
+   "authors": "Y Wu, X Ma, D Yang",
+   "venue": "Proceedings of the 2021 conference of the north american chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Creating general user models from computer use",
+   "authors": "O Shaikh, S Sapkota, S Rizvi, E Horvitz, JS Park, D Yang, MS Bernstein",
+   "venue": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and …",
+   "year": "2025"
+  },
+  {
+   "title": "Culturally aware natural language inference",
+   "authors": "J Huang, D Yang",
+   "venue": "Findings of the association for computational linguistics: EMNLP 2023, 7591-7609",
+   "year": "2023"
+  },
+  {
+   "title": "Just another day on Twitter: a complete 24 hours of Twitter data",
+   "authors": "J Pfeffer, D Matter, K Jaidka, O Varol, A Mashhadi, J Lasser, ...",
+   "venue": "Proceedings of the international AAAI conference on web and social media 17 …",
+   "year": "2023"
+  },
+  {
+   "title": "Positive impact of collaborative chat participation in an edX MOOC",
+   "authors": "O Ferschke, D Yang, G Tomar, CP Rosé",
+   "venue": "International Conference on Artificial Intelligence in Education, 115-124",
+   "year": "2015"
+  },
+  {
+   "title": "Question recommendation with constraints for massive open online courses",
+   "authors": "D Yang, D Adamson, CP Rosé",
+   "venue": "Proceedings of the 8th ACM Conference on Recommender systems, 49-56",
+   "year": "2014"
+  },
+  {
+   "title": "Future of work with AI agents: Auditing automation and augmentation potential across the US workforce",
+   "authors": "Y Shao, H Zope, Y Jiang, J Pei, D Nguyen, E Brynjolfsson, D Yang",
+   "venue": "arXiv preprint arXiv:2506.06576",
+   "year": "2025"
+  },
+  {
+   "title": "VALUE: Understanding dialect disparity in NLU",
+   "authors": "C Ziems, J Chen, C Harris, J Anderson, D Yang",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Collaborative gym: A framework for enabling and evaluating human-agent collaboration",
+   "authors": "Y Shao, V Samuel, Y Jiang, J Yang, D Yang",
+   "venue": "International Conference on Learning Representations 2026, 99616-99649",
+   "year": "2026"
+  },
+  {
+   "title": "A safe harbor for ai evaluation and red teaming",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2403.04893",
+   "year": "2024"
+  },
+  {
+   "title": "Demystifying verbatim memorization in large language models",
+   "authors": "J Huang, D Yang, C Potts",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Best practices and lessons learned on synthetic data for language models",
+   "authors": "R Liu, J Wei, F Liu, C Si, Y Zhang, J Rao, S Zheng, D Peng, D Yang, ...",
+   "venue": "arXiv preprint arXiv:2404.07503 6",
+   "year": "2024"
+  },
+  {
+   "title": "Anchor points: Benchmarking models with much fewer examples",
+   "authors": "R Vivek, K Ethayarajh, D Yang, D Kiela",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Modeling motivational interviewing strategies on an online peer-to-peer counseling platform",
+   "authors": "RS Shah, F Holt, SA Hayati, A Agarwal, YC Wang, RE Kraut, D Yang",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-24",
+   "year": "2022"
+  },
+  {
+   "title": "Local additivity based data augmentation for semi-supervised NER",
+   "authors": "J Chen, Z Wang, R Tian, Z Yang, D Yang",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Empowering llm-based machine translation with cultural awareness",
+   "authors": "B Yao, M Jiang, D Yang, J Hu",
+   "venue": "arXiv preprint arXiv:2305.14328",
+   "year": "2023"
+  },
+  {
+   "title": "Interpreting deep learning models in natural language processing: A review",
+   "authors": "X Sun, D Yang, X Li, T Zhang, Y Meng, H Qiu, G Wang, E Hovy, J Li",
+   "venue": "arXiv preprint arXiv:2110.10470",
+   "year": "2021"
+  },
+  {
+   "title": "Towards an integration of text and graph clustering methods as a lens for studying social interaction in MOOCs",
+   "authors": "D Yang, M Wen, A Kumar, EP Xing, CP Rosé",
+   "venue": "International Review of Research in Open and Distributed Learning 15 (5 …",
+   "year": "2014"
+  },
+  {
+   "title": "Inducing positive perspectives with text reframing",
+   "authors": "C Ziems, M Li, A Zhang, D Yang",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Exploring the Effect of Student Confusion in Massive Open Online Courses.",
+   "authors": "D Yang, RE Kraut, CP Rose",
+   "venue": "Journal of Educational Data Mining 8 (1), 52-83",
+   "year": "2016"
+  },
+  {
+   "title": "Bounding the capabilities of large language models in open text generation with prompt constraints",
+   "authors": "A Lu, H Zhang, Y Zhang, X Wang, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 1982-2008",
+   "year": "2023"
+  },
+  {
+   "title": "Self-disclosure and channel difference in online health support groups",
+   "authors": "D Yang, Z Yao, R Kraut",
+   "venue": "Proceedings of the international AAAI conference on web and social media 11 …",
+   "year": "2017"
+  },
+  {
+   "title": "Exploring the role of grammar and word choice in bias toward African American English (AAE) in hate speech classification",
+   "authors": "C Harris, M Halevy, A Howard, A Bruckman, D Yang",
+   "venue": "Proceedings of the 2022 ACM Conference on Fairness, Accountability, and …",
+   "year": "2022"
+  },
+  {
+   "title": "Peer influence on attrition in massively open online courses",
+   "authors": "D Yang, M Wen, C Rose",
+   "venue": "Educational data mining 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Serendipitous personalized ranking for top-n recommendation",
+   "authors": "Q Lu, T Chen, W Zhang, D Yang, Y Yu",
+   "venue": "2012 IEEE/WIC/ACM International Conferences on Web Intelligence and …",
+   "year": "2012"
+  },
+  {
+   "title": "The ideation-execution gap: Execution outcomes of llm-generated versus human research ideas",
+   "authors": "C Si, T Hashimoto, D Yang",
+   "venue": "International conference on learning representations 2026, 74195-74240",
+   "year": "2026"
+  },
+  {
+   "title": "Missing information, unresponsive authors, experimental flaws: The impossibility of assessing the reproducibility of previous human evaluations in NLP",
+   "authors": "A Belz, C Thomson, E Reiter, G Abercrombie, JM Alonso-Moral, M Arvan, ...",
+   "venue": "Proceedings of the Fourth Workshop on Insights from Negative Results in NLP …",
+   "year": "2023"
+  },
+  {
+   "title": "Continual sequence generation with adaptive compositional modules",
+   "authors": "Y Zhang, X Wang, D Yang",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Local implicit feedback mining for music recommendation",
+   "authors": "D Yang, T Chen, W Zhang, Q Lu, Y Yu",
+   "venue": "Proceedings of the sixth ACM conference on Recommender systems, 91-98",
+   "year": "2012"
+  },
+  {
+   "title": "SEQZERO: Few-shot compositional semantic parsing with sequential prompts and zero-shot models",
+   "authors": "J Yang, H Jiang, Q Yin, D Zhang, B Yin, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2022, 49-60",
+   "year": "2022"
+  },
+  {
+   "title": "Mitigating racial biases in toxic language detection with an equity-based ensemble framework",
+   "authors": "M Halevy, C Harris, A Bruckman, D Yang, A Howard",
+   "venue": "Proceedings of the 1st ACM Conference on Equity and Access in Algorithms …",
+   "year": "2021"
+  },
+  {
+   "title": "Werewolf among us: Multimodal resources for modeling persuasion behaviors in social deduction games",
+   "authors": "B Lai, H Zhang, M Liu, A Pariani, F Ryan, W Jia, SA Hayati, J Rehg, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 6570-6588",
+   "year": "2023"
+  },
+  {
+   "title": "Combining factorization model and additive forest for collaborative followee recommendation",
+   "authors": "T Chen, L Tang, Q Liu, D Yang, S Xie, X Cao, C Wu, E Yao, Z Liu, Z Jiang, ...",
+   "venue": "KDD CUP",
+   "year": "2012"
+  },
+  {
+   "title": "A sketch is worth a thousand words: Image retrieval with text and sketch",
+   "authors": "P Sangkloy, W Jitkrittum, D Yang, J Hays",
+   "venue": "European conference on computer vision, 251-267",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling gender and dialect bias in automatic speech recognition",
+   "authors": "C Harris, C Mgbahurike, N Kumar, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 15166 …",
+   "year": "2024"
+  },
+  {
+   "title": "Hiddencut: Simple data augmentation for natural language understanding with better generalizability",
+   "authors": "J Chen, D Shen, W Chen, D Yang",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "A search engine for discovery of scientific challenges and directions",
+   "authors": "D Lahav, JS Falcon, B Kuehl, S Johnson, S Parasa, N Shomron, DH Chau, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (11), 11982 …",
+   "year": "2022"
+  },
+  {
+   "title": "Simple conversational data augmentation for semi-supervised abstractive dialogue summarization",
+   "authors": "J Chen, D Yang",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Dyval: Graph-informed dynamic evaluation of large language models",
+   "authors": "K Zhu, J Chen, J Wang, NZ Gong, D Yang, X Xie",
+   "venue": "arXiv preprint arXiv:2309.17167 2 (3)",
+   "year": "2023"
+  },
+  {
+   "title": "RECAST: Enabling user recourse and interpretability of toxicity detection models with interactive visualization",
+   "authors": "AP Wright, O Shaikh, H Park, W Epperson, M Ahmed, S Pinel, DH Chau, ...",
+   "venue": "Proceedings of the ACM on human-computer interaction 5 (CSCW1), 1-26",
+   "year": "2021"
+  },
+  {
+   "title": "Semi-supervised formality style transfer using language model discriminator and mutual information maximization",
+   "authors": "K Chawla, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 2340-2354",
+   "year": "2020"
+  },
+  {
+   "title": "A cheaper and better diffusion language model with soft-masked noise",
+   "authors": "J Chen, A Zhang, M Li, A Smola, D Yang",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Gnn is a counter? revisiting gnn for question answering",
+   "authors": "K Wang, Y Zhang, D Yang, L Song, T Qin",
+   "venue": "arXiv preprint arXiv:2110.03192",
+   "year": "2021"
+  },
+  {
+   "title": "Challenges and opportunities of dual-layer MOOCs: Reflections from an edX deployment study",
+   "authors": "CP Rosé, O Ferschke, G Tomar, D Yang, I Howley, V Aleven, G Siemens, ...",
+   "venue": "Exploring the Material Conditions of Learning: Computer Supported …",
+   "year": "2015"
+  },
+  {
+   "title": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+   "authors": "R Louie, RS Shah, IH Orney, JP Pacheco, E Brunskill, D Yang",
+   "venue": "CHI'26: Proceedings of the 2026 CHI Conference on Human Factors in Computing …",
+   "year": "2026"
+  },
+  {
+   "title": "Sketch2code: Evaluating vision-language models for interactive web design prototyping",
+   "authors": "R Li, Y Zhang, D Yang",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Darg: Dynamic evaluation of large language models via adaptive reasoning graph",
+   "authors": "Z Zhang, J Chen, D Yang",
+   "venue": "Advances in Neural Information Processing Systems 37, 135904-135942",
+   "year": "2024"
+  },
+  {
+   "title": "To protect and to serve? analyzing entity-centric framing of police violence",
+   "authors": "C Ziems, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 957-976",
+   "year": "2021"
+  },
+  {
+   "title": "Programbench: Can language models rebuild programs from scratch?",
+   "authors": "J Yang, K Lieret, J Ma, P Thakkar, D Pedchenko, S Sootla, E McMilin, ...",
+   "venue": "arXiv preprint arXiv:2605.03546",
+   "year": "2026"
+  },
+  {
+   "title": "Language agents: Foundations, prospects, and risks",
+   "authors": "Y Su, D Yang, S Yao, T Yu",
+   "venue": "Proceedings of the 2024 conference on empirical methods in natural language …",
+   "year": "2024"
+  },
+  {
+   "title": "Auditing gender presentation differences in text-to-image models",
+   "authors": "Y Zhang, L Jiang, G Turk, D Yang",
+   "venue": "Proceedings of the 4th ACM Conference on Equity and Access in Algorithms …",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-level feedback generation with large language models for empowering novice peer counselors",
+   "authors": "A Chaszczewicz, R Shah, R Louie, B Arnow, R Kraut, D Yang",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Shaping the emerging norms of using large language models in social computing research",
+   "authors": "H Shen, T Li, TJJ Li, JS Park, D Yang",
+   "venue": "Companion Publication of the 2023 Conference on Computer Supported …",
+   "year": "2023"
+  },
+  {
+   "title": "Distilling an end-to-end voice assistant without instruction training data",
+   "authors": "W Held, Y Zhang, M Li, W Shi, MJ Ryan, D Yang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "“This is a Problem, Don’t You Agree?” Framing and Bias in Human Evaluation for Natural Language Generation",
+   "authors": "S Schoch, D Yang, Y Ji",
+   "venue": "Proceedings of the 1st Workshop on Evaluating NLG Evaluation, 10-16",
+   "year": "2020"
+  },
+  {
+   "title": "Generative interfaces for language models",
+   "authors": "J Chen, Y Zhang, Y Zhang, Y Shao, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 1499-1519",
+   "year": "2026"
+  },
+  {
+   "title": "Construct-vl: Data-free continual structured vl concepts learning",
+   "authors": "JS Smith, P Cascante-Bonilla, A Arbelle, D Kim, R Panda, D Cox, D Yang, ...",
+   "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2023"
+  },
+  {
+   "title": "Join, stay or go? A closer look at members' life cycles in online health communities",
+   "authors": "Z Yao, D Yang, JM Levine, CA Low, T Smith, H Zhu, RE Kraut",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 5 (CSCW1), 1-22",
+   "year": "2021"
+  },
+  {
+   "title": "Explaining toxic text via knowledge enhanced text generation",
+   "authors": "R Sridhar, D Yang",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Disfl-QA: A benchmark dataset for understanding disfluencies in question answering",
+   "authors": "A Gupta, J Xu, S Upadhyay, D Yang, M Faruqui",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Fostering discussion across communication media in massive open online courses",
+   "authors": "O Ferschke",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Evaluating graph vulnerability and robustness using TIGER",
+   "authors": "S Freitas, D Yang, S Kumar, H Tong, DH Chau",
+   "venue": "proceedings of the 30th ACM international conference on Information …",
+   "year": "2021"
+  },
+  {
+   "title": "Is model collapse inevitable",
+   "authors": "M Gerstgrasser, R Schaeffer, A Dey, R Rafailov, H Sleight, J Hughes, ...",
+   "venue": "Breaking the Curse of Recursion by Accumulating Real and Synthetic Data",
+   "year": "2024"
+  },
+  {
+   "title": "TreeMix: Compositional constituency-based data augmentation for natural language understanding",
+   "authors": "L Zhang, Z Yang, D Yang",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Weakly-supervised hierarchical models for predicting persuasive strategies in good-faith textual requests",
+   "authors": "J Chen, D Yang",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (14), 12648 …",
+   "year": "2021"
+  },
+  {
+   "title": "Challenges and paths towards ai for software engineering",
+   "authors": "A Gu, N Jain, WD Li, M Shetty, Y Shao, Z Li, D Yang, K Ellis, K Sen, ...",
+   "venue": "arXiv preprint arXiv:2503.22625",
+   "year": "2025"
+  },
+  {
+   "title": "Virtual teams in massive open online courses",
+   "authors": "M Wen, D Yang, CP Rosé",
+   "venue": "International Conference on Artificial Intelligence in Education, 820-824",
+   "year": "2015"
+  },
+  {
+   "title": "Deciphering stereotypes in pre-trained language models",
+   "authors": "W Ma, H Scheible, B Wang, G Veeramachaneni, P Chowdhary, A Sun, ...",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Effects of support-seekers’ community knowledge on their expressed satisfaction with the received comments in mental health communities",
+   "authors": "Z Peng, X Ma, D Yang, KW Tsang, Q Guo",
+   "venue": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2021"
+  },
+  {
+   "title": "Can llm-simulated practice and feedback upskill human counselors? a randomized study with 90+ novice counselors",
+   "authors": "R Louie, RS Shah, IH Orney, JP Pacheco, E Brunskill, D Yang",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Towards social ai: A survey on understanding social interactions",
+   "authors": "S Lee, M Li, B Lai, W Jia, F Ryan, X Cao, O Kara, B Boote, W Shi, D Yang, ...",
+   "venue": "arXiv preprint arXiv:2409.15316",
+   "year": "2024"
+  },
+  {
+   "title": "When large language models are reliable for judging empathic communication",
+   "authors": "A Kumar, N Poungpeth, D Yang, E Farrell, BL Lambert, M Groh",
+   "venue": "Nature Machine Intelligence 8 (2), 173-185",
+   "year": "2026"
+  },
+  {
+   "title": "How do ai agents do human work? comparing ai and human workflows across diverse occupations",
+   "authors": "ZZ Wang, Y Shao, O Shaikh, D Fried, G Neubig, D Yang",
+   "venue": "arXiv preprint arXiv:2510.22780",
+   "year": "2025"
+  },
+  {
+   "title": "SynthesizeMe! inducing persona-guided prompts for personalized reward models in LLMs",
+   "authors": "MJ Ryan, O Shaikh, A Bhagirath, D Frees, W Held, D Yang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Aligning language models with demonstrated feedback",
+   "authors": "O Shaikh, M Lam, J Hejna, Y Shao, H Cho, M Bernstein, D Yang",
+   "venue": "International Conference on Learning Representations 2025, 20498-20525",
+   "year": "2025"
+  },
+  {
+   "title": "Generating and evaluating tests for k-12 students with language model simulations: A case study on sentence reading efficiency",
+   "authors": "E Zelikman, W Ma, J Tran, D Yang, J Yeatman, N Haber",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Weakly supervised role identification in teamwork interactions",
+   "authors": "D Yang, M Wen, CP Rosé",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computional …",
+   "year": "2015"
+  },
+  {
+   "title": "The rise of AI companions: How human-chatbot relationships influence well-being. arXiv",
+   "authors": "Y Zhang, D Zhao, JT Hancock, R Kraut, D Yang",
+   "venue": "arXiv preprint arXiv:2506.12605",
+   "year": "2025"
+  },
+  {
+   "title": "Doublemix: Simple interpolation-based data augmentation for text classification",
+   "authors": "H Chen, W Han, D Yang, S Poria",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Position: Towards bidirectional human-AI alignment",
+   "authors": "H Shen, T Knearem, R Ghosh, K Alkiek, K Krishna, L Yachuan, S Petridis, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Swe-chat: Coding agent interactions from real users in the wild",
+   "authors": "J Baumann, V Padmakumar, X Li, J Yang, D Yang, S Koyejo",
+   "venue": "arXiv preprint arXiv:2604.20779",
+   "year": "2026"
+  },
+  {
+   "title": "Humanlm: Simulating users with state alignment beats response imitation",
+   "authors": "S Wu, E Choi, A Khatua, Z Wang, J He-Yueya, TC Weerasooriya, W Wei, ...",
+   "venue": "arXiv preprint arXiv:2603.03303",
+   "year": "2026"
+  },
+  {
+   "title": "WIKIBIAS: Detecting multi-span subjective biases in language",
+   "authors": "Y Zhong, J Yang, W Xu, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 1799-1814",
+   "year": "2021"
+  },
+  {
+   "title": "Understanding the usage of online media for parenting from infancy to preschool at scale",
+   "authors": "Y Gao, J Jang, D Yang",
+   "venue": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2021"
+  },
+  {
+   "title": "No preference left behind: Group distributional preference optimization",
+   "authors": "B Yao, Z Cai, YS Chuang, S Yang, M Jiang, D Yang, J Hu",
+   "venue": "International Conference on Learning Representations 2025, 72961-72979",
+   "year": "2025"
+  },
+  {
+   "title": "A material lens on coloniality in nlp",
+   "authors": "W Held, C Harris, M Best, D Yang",
+   "venue": "arXiv preprint arXiv:2311.08391",
+   "year": "2023"
+  },
+  {
+   "title": "Combating robocalls with phone virtual assistant mediated interaction",
+   "authors": "S Pandit, K Sarker, R Perdisci, M Ahamad, D Yang",
+   "venue": "32nd USENIX Security Symposium (USENIX Security 23), 463-479",
+   "year": "2023"
+  },
+  {
+   "title": "Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection",
+   "authors": "J Yang, D Yang, Z Ma",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Semi-supervised models via data augmentationfor classifying interactive affective responses",
+   "authors": "J Chen, Y Wu, D Yang",
+   "venue": "arXiv preprint arXiv:2004.10972",
+   "year": "2020"
+  },
+  {
+   "title": "Predicting advertiser bidding behaviors in sponsored search by rationality modeling",
+   "authors": "H Xu, B Gao, D Yang, TY Liu",
+   "venue": "Proceedings of the 22nd international conference on World Wide Web, 1433-1444",
+   "year": "2013"
+  },
+  {
+   "title": "Show, don’t tell: Aligning language models with demonstrated feedback",
+   "authors": "O Shaikh, M Lam, J Hejna, Y Shao, M Bernstein, D Yang",
+   "venue": "arXiv preprint arXiv:2406.00888",
+   "year": "2024"
+  },
+  {
+   "title": "Linguistic characterization of divisive topics online: case studies on contentiousness in abortion, climate change, and gun control",
+   "authors": "J Beel, T Xiang, S Soni, D Yang",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 16 …",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding self-narration of personally experienced racism on reddit",
+   "authors": "D Yang, S Counts",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 12 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "ReplicationBench: Can AI Agents Replicate Astrophysics Research Papers?",
+   "authors": "C Ye, S Yuan, S Cooray, S Dillmann, ILV Roque, D Baron, P Frank, ...",
+   "venue": "arXiv preprint arXiv:2510.24591",
+   "year": "2025"
+  },
+  {
+   "title": "Geographic citation gaps in NLP research",
+   "authors": "M Rungta, J Singh, S Mohammad, D Yang",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Just-In-Time Objectives: A General Approach for Specialized AI Interactions",
+   "authors": "MS Lam, O Shaikh, H Xu, A Guo, D Yang, J Heer, JA Landay, ...",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Human-AI interaction in the age of LLMs",
+   "authors": "D Yang, ST Wu, MA Hearst",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Modeling cross-cultural pragmatic inference with codenames duet",
+   "authors": "O Shaikh, C Ziems, W Held, A Pariani, F Morstatter, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 6550-6569",
+   "year": "2023"
+  },
+  {
+   "title": "TADA: Task agnostic dialect adapters for English",
+   "authors": "W Held, C Ziems, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 813-824",
+   "year": "2023"
+  },
+  {
+   "title": "Metrics for peer counseling: triangulating success outcomes for online therapy platforms",
+   "authors": "T Wang, HK Shah, RS Shah, YC Wang, RE Kraut, D Yang",
+   "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2023"
+  },
+  {
+   "title": "Can large language models transform computational social science? arXiv",
+   "authors": "C Ziems, W Held, O Shaikh, J Chen, Z Zhang, D Yang",
+   "venue": "Preprint posted online on April 12",
+   "year": "2023"
+  },
+  {
+   "title": "SUBS: Subtree substitution for compositional semantic parsing",
+   "authors": "J Yang, L Zhang, D Yang",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Successful online socialization: lessons from the Wikipedia education program",
+   "authors": "A Li, Z Yao, D Yang, C Kulkarni, R Farzan, RE Kraut",
+   "venue": "Proceedings of the ACM on human-computer interaction 4 (CSCW1), 1-24",
+   "year": "2020"
+  },
+  {
+   "title": "Persuading teammates to give: Systematic versus heuristic cues for soliciting loans",
+   "authors": "D Yang, RE Kraut",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 1 (CSCW), 1-21",
+   "year": "2017"
+  },
+  {
+   "title": "What makes digital support effective? how therapeutic skills affect clinical well-being",
+   "authors": "W Yang, A Fang, RS Shah, Y Mathur, D Yang, H Zhu, RE Kraut",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 8 (CSCW1), 1-29",
+   "year": "2024"
+  },
+  {
+   "title": "Task-agnostic low-rank adapters for unseen English dialects",
+   "authors": "Z Xiao, W Held, Y Liu, D Yang",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Know it to defeat it: Exploring health rumor characteristics and debunking efforts on Chinese social media during COVID-19 crisis",
+   "authors": "W Yang, S Wang, Z Peng, C Shi, X Ma, D Yang",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 16 …",
+   "year": "2022"
+  },
+  {
+   "title": "“Mistakes Help Us Grow”: Facilitating and Evaluating Growth Mindset Supportive Language in Classrooms",
+   "authors": "K Handa, M Clapper, J Boyle, R Wang, D Yang, D Yeager, D Demszky",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Audiojudge: Understanding what works in large audio model based speech evaluation",
+   "authors": "P Manakul, WH Gan, MJ Ryan, AS Khan, W Sirichotedumrong, ...",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Human-AI interaction in the age of large language models",
+   "authors": "D Yang",
+   "venue": "Proceedings of the AAAI Symposium Series 3 (1), 66-67",
+   "year": "2024"
+  },
+  {
+   "title": "Human-in-the-loop abstractive dialogue summarization",
+   "authors": "J Chen, M Dodda, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 9176-9190",
+   "year": "2023"
+  },
+  {
+   "title": "Interaction with AI companions and psychological well-being",
+   "authors": "Y Zhang, D Zhao, JT Hancock, R Kraut, D Yang",
+   "venue": "Nature human behaviour, 1-15",
+   "year": "2026"
+  },
+  {
+   "title": "Mitigating biases in hate speech detection from a causal perspective",
+   "authors": "Z Zhang, J Chen, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 6610-6625",
+   "year": "2023"
+  },
+  {
+   "title": "DADA: Dialect adaptation via dynamic aggregation of linguistic rules",
+   "authors": "Y Liu, W Held, D Yang",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Towards user-centric text-to-text generation: A survey",
+   "authors": "D Yang, L Flek",
+   "venue": "International Conference on Text, Speech, and Dialogue, 3-22",
+   "year": "2021"
+  },
+  {
+   "title": "Optimas: Optimizing compound ai systems with globally aligned local rewards",
+   "authors": "S Wu, P Sarthi, S Zhao, A Lee, H Shandilya, A Mladenic Grobelnik, ...",
+   "venue": "International Conference on Learning Representations 2026, 149685-149706",
+   "year": "2026"
+  },
+  {
+   "title": "Robustness of demonstration-based learning under limited data scenario",
+   "authors": "H Zhang, Y Zhang, R Zhang, D Yang",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Socially aware language technologies: Perspectives and practices",
+   "authors": "D Yang, D Hovy, D Jurgens, B Plank",
+   "venue": "Computational Linguistics 51, 689-703",
+   "year": "2025"
+  },
+  {
+   "title": "Forgotten knowledge: Examining the citational amnesia in NLP",
+   "authors": "J Singh, M Rungta, D Yang, S Mohammad",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Shapley head pruning: Identifying and removing interference in multilingual transformers",
+   "authors": "W Held, D Yang",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Toward more effective and equitable learning: Identifying barriers and solutions for the future of online education.",
+   "authors": "KS McCarthy, SA Crossley, K Meyers, U Boser, LK Allen, VK Chaudhri, ...",
+   "venue": "Technology, Mind, and Behavior 3 (1), 24",
+   "year": "2022"
+  },
+  {
+   "title": "HypMix: hyperbolic interpolative data augmentation",
+   "authors": "R Sawhney, M Thakkar, S Agarwal, D Jin, D Yang, L Flek",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "CSCL and learning analytics: Opportunities to support social interaction, self-regulation and socially shared regulation",
+   "authors": "AF Wise, R Azevedo, K Stegmann, J Malmberg, CP Rosé, N Mudrick, ...",
+   "venue": "International Society of the Learning Sciences, Inc.[ISLS].",
+   "year": "2015"
+  },
+  {
+   "title": "Constrained question recommendation in MOOCs via submodularity",
+   "authors": "D Yang, J Shang, CP Rosé",
+   "venue": "Proceedings of the 23rd ACM International Conference on Conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Towards execution-grounded automated AI research",
+   "authors": "C Si, Z Yang, Y Choi, E Candès, D Yang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2601.14525",
+   "year": "2026"
+  },
+  {
+   "title": "SPHERE: An evaluation card for human-AI systems",
+   "authors": "D Zhao, Q Ma, X Zhao, C Si, C Yang, R Louie, E Reiter, D Yang, T Wu",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 1340-1365",
+   "year": "2025"
+  },
+  {
+   "title": "Egonormia: Benchmarking physical social norm understanding",
+   "authors": "MH Rezaei, Y Fu, P Cuvin, C Ziems, Y Zhang, H Zhu, D Yang",
+   "venue": "arXiv preprint arXiv:2502.20490",
+   "year": "2025"
+  },
+  {
+   "title": "Sycophantic AI makes human interaction feel more effortful and less satisfying over time",
+   "authors": "L Ibrahim, FS Hafner, M Cheng, C Lee, R Anselmetti, R Willer, L Rocher, ...",
+   "venue": "arXiv preprint arXiv:2605.07912",
+   "year": "2026"
+  },
+  {
+   "title": "The rise of AI companions: Interaction with AI companions and psychological well-being",
+   "authors": "Y Zhang, D Zhao, JT Hancock, R Kraut, D Yang",
+   "venue": "arXiv preprint arXiv:2506.12605",
+   "year": "2025"
+  },
+  {
+   "title": "Social intelligence data infrastructure: Structuring the present and navigating the future",
+   "authors": "M Li, W Shi, C Ziems, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 2789-2805",
+   "year": "2024"
+  },
+  {
+   "title": "Position: A safe harbor for AI evaluation and red teaming",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "Forty-first International Conference on Machine Learning",
+   "year": "2024"
+  },
+  {
+   "title": "How dark patterns manipulate web agents",
+   "authors": "P Cuvin, H Zhu, D Yang",
+   "venue": "International Conference on Learning Representations 2026, 95945-95977",
+   "year": "2026"
+  },
+  {
+   "title": "Searching for privacy risks in llm agents via simulation",
+   "authors": "Y Zhang, D Yang",
+   "venue": "International Conference on Learning Representations 2026, 98142-98176",
+   "year": "2026"
+  },
+  {
+   "title": "Cooperbench: Why coding agents cannot be your teammates yet",
+   "authors": "A Khatua, H Zhu, P Tran, A Prabhudesai, F Sadrieh, JK Lieberwirth, X Yu, ...",
+   "venue": "arXiv preprint arXiv:2601.13295",
+   "year": "2026"
+  },
+  {
+   "title": "Silent signals, loud impact: LLMs for word-sense disambiguation of coded dog whistles",
+   "authors": "J Kruk, M Marchini, R Magu, C Ziems, D Muchlinski, D Yang",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Compositional data augmentation for abstractive conversation summarization",
+   "authors": "S Ouyang, J Chen, J Han, D Yang",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Characterizing collective attention via descriptor context: A case study of public discussions of crisis events",
+   "authors": "I Stewart, D Yang, J Eisenstein",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 14 …",
+   "year": "2020"
+  },
+  {
+   "title": "A lightly supervised approach to role identification in wikipedia talk page discussions",
+   "authors": "O Ferschke, D Yang, C Rosé",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 9 …",
+   "year": "2015"
+  },
+  {
+   "title": "The call for socially aware language technologies",
+   "authors": "D Yang, D Hovy, D Jurgens, B Plank",
+   "venue": "arXiv preprint arXiv:2405.02411",
+   "year": "2024"
+  },
+  {
+   "title": "Werewolf among us: A multimodal dataset for modeling persuasion behaviors in social deduction games",
+   "authors": "B Lai, H Zhang, M Liu, A Pariani, F Ryan, W Jia, SA Hayati, JM Rehg, ...",
+   "venue": "arXiv preprint arXiv:2212.08279",
+   "year": "2022"
+  },
+  {
+   "title": "Pretty princess vs. successful leader: Gender roles in greeting card messages",
+   "authors": "J Sun, T Wu, Y Jiang, R Awalegaonkar, XV Lin, D Yang",
+   "venue": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2022"
+  },
+  {
+   "title": "Examining the ordering of rhetorical strategies in persuasive requests",
+   "authors": "O Shaikh, J Chen, J Saad-Falcon, P Chau, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 1299-1306",
+   "year": "2020"
+  },
+  {
+   "title": "Horizonbench: Long-horizon personalization with evolving preferences",
+   "authors": "SS Li, B Paranjape, K Oktar, Z Ma, G Zhou, L Guan, N Zhang, S Park, ...",
+   "venue": "arXiv preprint arXiv:2604.17283",
+   "year": "2026"
+  },
+  {
+   "title": "Using large language models in behavioral science interventions: Promise & risk",
+   "authors": "CA Hecht, DC Ong, M Clapper, M Jones, D Demszky, D Yang, ...",
+   "venue": "Behavioral Science & Policy 11 (1), 1-9",
+   "year": "2025"
+  },
+  {
+   "title": "Edit categories and editor role identification in Wikipedia",
+   "authors": "D Yang, A Halfaker, R Kraut, E Hovy",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "‘Turn on, Tune in, Drop out",
+   "authors": "D Yang, T Sinha, D Adamson, CP Rose",
+   "venue": "Anticipating student dropouts in Massive Open Online Courses. Paper …",
+   "year": "2013"
+  },
+  {
+   "title": "Mapping the spiral of silence: Surveying unspoken opinions in online communities",
+   "authors": "D Zhao, D Yang, M S. Bernstein",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Ai behavioral science",
+   "authors": "MO Jackson, Q Me, SW Wang, Y Xie, W Yuan, S Benzell, E Brynjolfsson, ...",
+   "venue": "arXiv preprint arXiv:2509.13323",
+   "year": "2025"
+  },
+  {
+   "title": "Equibench: Benchmarking large language models’ understanding of program semantics via equivalence checking",
+   "authors": "A Wei, J Cao, R Li, H Chen, Y Zhang, Z Wang, Y Liu, TSFX Teixeira, ...",
+   "venue": "arXiv preprint arXiv:2502.12466",
+   "year": "2025"
+  },
+  {
+   "title": "Six feet apart: Online payments during the COVID-19 pandemic",
+   "authors": "O Shaikh, C Ung, D Yang, FA Chacon",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-33",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding motivations behind inaccurate check-ins",
+   "authors": "F Xu, G Zhang, Z Chen, J Huang, Y Li, D Yang, BY Zhao, F Meng",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 2 (CSCW), 1-22",
+   "year": "2018"
+  },
+  {
+   "title": "Assessment of discussion in learning contexts",
+   "authors": "CP Rosé, I Howley, M Wen, D Yang, O Ferschke",
+   "venue": "Innovative assessment of collaboration, 81-94",
+   "year": "2017"
+  },
+  {
+   "title": "Towards identifying the resolvability of threads in moocs",
+   "authors": "D Yang, M Wen, C Rose",
+   "venue": "Proceedings of the EMNLP 2014 Workshop on Analysis of Large Scale Social …",
+   "year": "2014"
+  },
+  {
+   "title": "Personalization of large language models: a survey (2025)",
+   "authors": "Z Zhang, RA Rossi, B Kveton, Y Shao, D Yang, H Zamani, F Dernoncourt, ...",
+   "venue": "URL https://arxiv. org/abs/2411.00027",
+   "year": null
+  },
+  {
+   "title": "Equibench: Benchmarking code reasoning capabilities of large language models via equivalence checking",
+   "authors": "A Wei, J Cao, R Li, H Chen, Y Zhang, Z Wang, Y Sun, Y Liu, ...",
+   "venue": "arXiv preprint arXiv:2502.12466",
+   "year": "2025"
+  },
+  {
+   "title": "Perceptions of language technology failures from South Asian English speakers",
+   "authors": "F Holt, W Held, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 4067-4081",
+   "year": "2024"
+  },
+  {
+   "title": "Measuring and addressing indexical bias in information retrieval",
+   "authors": "C Ziems, W Held, J Dwivedi-Yu, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 12860-12877",
+   "year": "2024"
+  },
+  {
+   "title": "Can large language models transform computational social science?(2023)",
+   "authors": "C Ziems, W Held, O Shaikh, J Chen, Z Zhang, D Yang",
+   "venue": "arXiv preprint arXiv:2305.03514",
+   "year": "2023"
+  },
+  {
+   "title": "Proximate social factors in first-time contribution to online communities",
+   "authors": "J Seering, J Hammer, G Kaufman, D Yang",
+   "venue": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2020"
+  },
+  {
+   "title": "How Well Does Agent Development Reflect Real-World Work?",
+   "authors": "ZZ Wang, S Vijayvargiya, A Chen, H Zhang, VA Arangarajan, J Chen, ...",
+   "venue": "arXiv preprint arXiv:2603.01203",
+   "year": "2026"
+  },
+  {
+   "title": "Knoll: Creating a knowledge ecosystem for large language models",
+   "authors": "D Zhao, D Yang, MS Bernstein",
+   "venue": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and …",
+   "year": "2025"
+  },
+  {
+   "title": "Cava: Comprehensive assessment of voice assistants",
+   "authors": "W Held, MJ Ryan, A Shrivastava, AS Khan, C Ziems, E Li, M Bartelds, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Controllable conversation generation with conversation structures via diffusion models",
+   "authors": "J Chen, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 7238-7251",
+   "year": "2023"
+  },
+  {
+   "title": "DMIX: adaptive distance-aware interpolative Mixup",
+   "authors": "R Sawhney, M Thakkar, S Pandit, R Soun, D Jin, D Yang, L Flek",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Alleviating the negative effect of up and downvoting on help seeking in MOOC discussion forums",
+   "authors": "I Howley, G Tomar, D Yang, O Ferschke, CP Rosé",
+   "venue": "International Conference on Artificial Intelligence in Education, 629-632",
+   "year": "2015"
+  },
+  {
+   "title": "The ideation-execution gap: Execution outcomes of llm-generated versus human research ideas, 2025",
+   "authors": "C Si, T Hashimoto, D Yang",
+   "venue": "URL https://arxiv. org/abs/2506.20803",
+   "year": null
+  },
+  {
+   "title": "Collaborative gym: A framework for enabling and evaluating human-agent collaboration, 2025",
+   "authors": "Y Shao, V Samuel, Y Jiang, J Yang, D Yang",
+   "venue": "URL https://arxiv. org/abs/2412.15701",
+   "year": null
+  },
+  {
+   "title": "Privacylens: Evaluating privacy norm awareness of language models in action, 2025",
+   "authors": "Y Shao, T Li, W Shi, Y Liu, D Yang",
+   "venue": "URL https://arxiv. org/abs/2409.00138",
+   "year": null
+  },
+  {
+   "title": "Blackbox model provenance via palimpsestic membership inference",
+   "authors": "R Kuditipudi, J Huang, S Zhu, D Yang, C Potts, P Liang",
+   "venue": "Advances in Neural Information Processing Systems 38, 162337-162367",
+   "year": "2026"
+  },
+  {
+   "title": "Internal causal mechanisms robustly predict language model out-of-distribution behaviors",
+   "authors": "J Huang, J Tao, T Icard, D Yang, C Potts",
+   "venue": "arXiv preprint arXiv:2505.11770",
+   "year": "2025"
+  },
+  {
+   "title": "Impressions: Visual semiotics and aesthetic impact understanding",
+   "authors": "J Kruk, C Ziems, D Yang",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Grounding or guesswork? large language models are presumptive grounders",
+   "authors": "O Shaikh, K Gligoric, A Khetan, M Gerstgrasser, D Yang, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2311.09144",
+   "year": "2023"
+  },
+  {
+   "title": "StorySage: Conversational Autobiography Writing Powered by a Multi-Agent Framework",
+   "authors": "S Talaei, M Li, K Grover, JK Hippler, D Yang, A Saberi",
+   "venue": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and …",
+   "year": "2025"
+  },
+  {
+   "title": "Mind the Gap: Static and Interactive Evaluations of Large Audio Models",
+   "authors": "M Li, W Held, MJ Ryan, K Pipatanakul, P Manakul, H Zhu, D Yang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Decoding susceptibility: Modeling misbelief to misinformation through a computational approach",
+   "authors": "Y Liu, MD Ma, W Qin, A Zhou, J Chen, W Shi, W Wang, D Yang",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Hiddencut: Simple data augmentation for natural language understanding with better generalization",
+   "authors": "J Chen, D Shen, W Chen, D Yang",
+   "venue": "arXiv preprint arXiv:2106.00149",
+   "year": "2021"
+  },
+  {
+   "title": "Turn on",
+   "authors": "D Yang, T Sinha, D Adamson, CP Rose",
+   "venue": "Tune In, Drop Out: Anticipating Students Dropouts in Massive Open Online",
+   "year": "2013"
+  },
+  {
+   "title": "Roleplay-doh: enabling domain-experts to create LLM-simulated patients via eliciting and adhering to principles (2024)",
+   "authors": "R Louie, A Nandi, W Fang, C Chang, E Brunskill, D Yang",
+   "venue": "URL https://arxiv. org/abs/2407.00870",
+   "year": null
+  },
+  {
+   "title": "CodeClash: Benchmarking goal-oriented software engineering",
+   "authors": "J Yang, K Lieret, J Yang, CE Jimenez, M Oblokulov, A Siddiqui, O Press, ...",
+   "venue": "arXiv preprint arXiv:2511.00839",
+   "year": "2025"
+  },
+  {
+   "title": "Enhanced visual instruction tuning for text-rich image understanding",
+   "authors": "Y Zhang, R Zhang, J Gu, Y Zhou, N Lipka, D Yang, T Sun",
+   "venue": "NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following",
+   "year": "2023"
+  },
+  {
+   "title": "Understanding the invitation acceptance in agent-initiated social e-commerce",
+   "authors": "F Xu, G Zhang, Y Yuan, H Huang, D Yang, D Jin, Y Li",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 15 …",
+   "year": "2021"
+  },
+  {
+   "title": "Tuiteamos o pongamos un tuit? investigating the social constraints of loanword integration in Spanish social media",
+   "authors": "I Stewart, D Yang, J Eisenstein",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2021, 286-297",
+   "year": "2021"
+  },
+  {
+   "title": "Informative household recommendation with feature-based matrix factorization",
+   "authors": "Q Lu, D Yang, T Chen, W Zhang, Y Yu",
+   "venue": "proceedings of the 2nd Challenge on Context-Aware Movie Recommendation, 15-22",
+   "year": "2012"
+  },
+  {
+   "title": "Collaborative filtering with short term preferences mining",
+   "authors": "D Yang, T Chen, W Zhang, Y Yu",
+   "venue": "Proceedings of the 35th international ACM SIGIR conference on Research and …",
+   "year": "2012"
+  },
+  {
+   "title": "Llavar: Enhanced visual instruction tuning for text-rich image understanding. arXiv 2023",
+   "authors": "Y Zhang, R Zhang, J Gu, Y Zhou, N Lipka, D Yang, T Sun",
+   "venue": "arXiv preprint arXiv:2306.17107",
+   "year": null
+  },
+  {
+   "title": "DynaMiTE: Discovering explosive topic evolutions with user guidance",
+   "authors": "N Balepur, S Agarwal, KV Ramanan, S Yoon, J Han, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 194-217",
+   "year": "2023"
+  },
+  {
+   "title": "Frustratingly simple but surprisingly strong: Using language-independent features for zero-shot cross-lingual semantic parsing",
+   "authors": "J Yang, F Fancellu, B Webber, D Yang",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "When models know more than they can explain: Quantifying knowledge transfer in human-ai collaboration",
+   "authors": "Q Shi, C Jimenez, S Yao, N Haber, D Yang, K Narasimhan",
+   "venue": "Advances in Neural Information Processing Systems 38, 105135-105170",
+   "year": "2026"
+  },
+  {
+   "title": "Real-time reasoning agents in evolving environments",
+   "authors": "Y Wen, Y Ye, Y Zhang, D Yang, H Zhu",
+   "venue": "International Conference on Learning Representations 2026, 126266-126292",
+   "year": "2026"
+  },
+  {
+   "title": "Sparkme: Adaptive semi-structured interviewing for qualitative insight discovery",
+   "authors": "D Anugraha, V Padmakumar, D Yang",
+   "venue": "arXiv preprint arXiv:2602.21136",
+   "year": "2026"
+  },
+  {
+   "title": "Relative scaling laws for llms",
+   "authors": "W Held, D Hall, P Liang, D Yang",
+   "venue": "arXiv preprint arXiv:2510.24626",
+   "year": "2025"
+  },
+  {
+   "title": "Impressions: Understanding visual semiotics and aesthetic impact",
+   "authors": "J Kruk, C Ziems, D Yang",
+   "venue": "arXiv preprint arXiv:2310.17887",
+   "year": "2023"
+  },
+  {
+   "title": "On second thought, let’s not think step by step",
+   "authors": "O Shaikh, H Zhang, W Held, M Bernstein, D Yang",
+   "venue": "Bias and Toxicity in Zero-Shot Reasoning",
+   "year": "2022"
+  },
+  {
+   "title": "Learning with limited text data",
+   "authors": "D Yang, A Parikh, C Raffel",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Focus on the action: Learning to highlight and summarize jointly for email to-do items summarization",
+   "authors": "K Zhang, J Chen, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 4095-4106",
+   "year": "2022"
+  },
+  {
+   "title": "Can large language models transform computational social science? arXiv 2023",
+   "authors": "C Ziems, W Held, O Shaikh, J Chen, Z Zhang, D Yang",
+   "venue": "arXiv preprint arXiv:2305.03514",
+   "year": null
+  },
+  {
+   "title": "Autometrics: Approximate human judgments with automatically generated evaluators",
+   "authors": "MJ Ryan, Y Zhang, A Salunkhe, Y Chu, D Xu, D Yang",
+   "venue": "International Conference on Learning Representations 2026, 157462-157517",
+   "year": "2026"
+  },
+  {
+   "title": "The rise of AI companions: How human-chatbot relationships influence well-being (arXiv: 2506.12605). arXiv",
+   "authors": "Y Zhang, D Zhao, JT Hancock, R Kraut, D Yang",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Middag: Where does our news go? investigating information diffusion via community-level information pathways",
+   "authors": "MD Ma, AK Taylor, N Wen, Y Liu, PN Kung, W Qin, S Wen, A Zhou, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (21), 23811 …",
+   "year": "2024"
+  },
+  {
+   "title": "Design2code: How far are we from automating front-end engineering?, 2024",
+   "authors": "C Si, Y Zhang, Z Yang, R Liu, D Yang",
+   "venue": "URL https://arxiv. org/abs/2403 3163",
+   "year": "2024"
+  },
+  {
+   "title": "DAMP: Doubly aligned multilingual parser for task-oriented dialogue",
+   "authors": "W Held, C Hidey, F Liu, E Zhu, R Goel, D Yang, R Shah",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Recast: Interactive auditing of automatic toxicity detection models",
+   "authors": "AP Wright, O Shaikh, H Park, W Epperson, M Ahmed, S Pinel, D Yang, ...",
+   "venue": "Proceedings of the Eighth International Workshop of Chinese CHI, 80-82",
+   "year": "2020"
+  },
+  {
+   "title": "Fostering discussion across communication media in massive open online courses. International Society of the Learning Sciences",
+   "authors": "O Ferschke, I Howley, G Tomar, D Yang, Y Liu, CP Rosé",
+   "venue": "Inc.[ISLS]",
+   "year": "2015"
+  },
+  {
+   "title": "Growth factors, oncogenes, tumor suppressor genes and carcinogenic mechanisms in the liver",
+   "authors": "DY Yang, P Schirmacher, WA Held, CE Rogler",
+   "venue": "Viral hepatitis and liver disease. Williams and Wilkins, Baltimore, 547-556",
+   "year": "1991"
+  },
+  {
+   "title": "Towards execution-grounded automated ai research, 2026",
+   "authors": "C Si, Z Yang, Y Choi, E Candès, D Yang, T Hashimoto",
+   "venue": "URL https://arxiv. org/abs/2601.14525",
+   "year": null
+  },
+  {
+   "title": "Design2code: Benchmarking multimodal code generation for automated front-end engineering, 2025",
+   "authors": "C Si, Y Zhang, R Li, Z Yang, R Liu, D Yang",
+   "venue": "URL https://arxiv. org/abs/2403.03163",
+   "year": null
+  },
+  {
+   "title": "Demystifying verbatim memorization in large language models, 2024",
+   "authors": "J Huang, D Yang, C Potts",
+   "venue": "URL https://arxiv. org/abs/2407.17817",
+   "year": null
+  },
+  {
+   "title": "Offloading Score: Measuring AI Reliance Through Counterfactual Workflows",
+   "authors": "V Padmakumar, L Ibrahim, ZZ Wang, J Wang, QV Liao, D Yang",
+   "venue": "arXiv preprint arXiv:2605.29392",
+   "year": "2026"
+  },
+  {
+   "title": "Contextualized privacy defense for LLM agents",
+   "authors": "Y Wen, Y Zhang, J Lian, X Yi, X Xie, D Yang",
+   "venue": "arXiv preprint arXiv:2603.02983",
+   "year": "2026"
+  },
+  {
+   "title": "Position: Humans are missing from ai coding agent research",
+   "authors": "ZZ Wang, J Yang, K Lieret, AR Tartaglini, V Chen, Y Wei, Z Wang, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv",
+   "authors": "L Ibrahim, F Sofia Hafner, M Cheng, C Le, R Anselmetti, R Willer, ...",
+   "venue": "arXiv preprint arXiv:2605.07912",
+   "year": "2026"
+  },
+  {
+   "title": "Social intelligence in the age of llms",
+   "authors": "H Zhu, BP Majumder, D Hovy, D Yang",
+   "venue": "Proceedings of the 2025 Annual Conference of the Nations of the Americas …",
+   "year": "2025"
+  },
+  {
+   "title": "Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the US Workforce [arXiv: 2506.06576 [cs]]",
+   "authors": "Y Shao, H Zope, Y Jiang, J Pei, D Nguyen, E Brynjolfsson, D Yang",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Can LLM-simulated practice and feedback upskill human counselors? A randomized study with 90+ novice counselors. arXiv",
+   "authors": "R Louie, IH Orney, JP Pacheco, RS Shah, E Brunskill, D Yang",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers, doi: 10.48550",
+   "authors": "C Si, D Yang, T Hashimoto",
+   "venue": "arXiv preprint arXiv.2409.04109",
+   "year": "2024"
+  },
+  {
+   "title": "Summarization of dialogues and conversations at scale",
+   "authors": "D Yang, C Zhu",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Mistakes Help Us Grow”: Facilitating and Evaluating Growth Mindset Supportive Language in Classrooms (arXiv: 2310.10637). arXiv",
+   "authors": "K Handa, M Clapper, J Boyle, RE Wang, D Yang, DS Yeager, D Demszky",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "On second thought, let’s not think step by step! bias and toxicity in zero-shot reasoning, arXiv",
+   "authors": "O Shaikh, H Zhang, W Held, M Bernstein, D Yang",
+   "venue": "arXiv preprint arXiv:2212.08061",
+   "year": "2022"
+  },
+  {
+   "title": "Semantic categorization of social knowledge for commonsense question answering",
+   "authors": "G Wang, X Hou, D Yang, K McKeown, J Huang",
+   "venue": "Proceedings of the Second Workshop on Simple and Efficient Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Multi-level modeling of social roles in online micro-lending platforms",
+   "authors": "L Sun, RE Kraut, D Yang",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 3 (CSCW), 1-25",
+   "year": "2019"
+  },
+  {
+   "title": "Horizonbench: Long-horizon personalization with evolving preferences, 2026",
+   "authors": "SS Li, B Paranjape, K Oktar, Z Ma, G Zhou, L Guan, N Zhang, S Park, ...",
+   "venue": "URL https://arxiv. org/abs/2604.17283",
+   "year": null
+  },
+  {
+   "title": "Social skill training with large language models (2024)",
+   "authors": "D Yang, C Ziems, W Held, O Shaikh, MS Bernstein, J Mitchell",
+   "venue": "arXiv preprint arXiv:2404.04204",
+   "year": null
+  },
+  {
+   "title": "Swe-chat: Coding agent interactions from real users in the wild, 2026",
+   "authors": "J Baumann, V Padmakumar, X Li, J Yang, D Yang, S Koyejo",
+   "venue": "URL https://arxiv. org/abs/2604.20779",
+   "year": null
+  },
+  {
+   "title": "Challenges and paths towards ai for software engineering (2025)",
+   "authors": "A Gu, N Jain, WD Li, M Shetty, Y Shao, Z Li, D Yang, K Ellis, K Sen, ...",
+   "venue": "arXiv preprint arXiv:2503.22625",
+   "year": null
+  },
+  {
+   "title": "An empirical survey of data augmentation for limited data learning in NLP (2021)",
+   "authors": "J Chen, D Tam, C Raffel, M Bansal, D Yang",
+   "venue": "URL https://arxiv. org/abs/2106 7499",
+   "year": null
+  },
+  {
+   "title": "Computer agent arena: Toward human-centric evaluation and analysis of computer-use agents",
+   "authors": "B Wang, X Wang, J Deng, T Xie, R Li, Y Zhang, J Wang, D Lu, Z Gong, ...",
+   "venue": "International Conference on Learning Representations 2026, 58008-58068",
+   "year": "2026"
+  },
+  {
+   "title": "Practicing with language models cultivates human empathic communication",
+   "authors": "A Kumar, N Poungpeth, D Yang, B Lambert, M Groh",
+   "venue": "arXiv preprint arXiv:2603.15245",
+   "year": "2026"
+  },
+  {
+   "title": "Learning Next Action Predictors from Human-Computer Interaction",
+   "authors": "O Shaikh, V Teutschbein, K Gandhi, Y Chi, N Haber, T Robinson, N Ram, ...",
+   "venue": "arXiv preprint arXiv:2603.05923",
+   "year": "2026"
+  },
+  {
+   "title": "Identifying unlearned data in LLMs via membership inference attacks",
+   "authors": "A Deepak, M Mou, J Huang, D Yang",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Tasks, challenges, and paths towards ai for software engineering",
+   "authors": "A Gu, N Jain, WD Li, M Shetty, Y Shao, Z Li, D Yang, K Sen, K Ellis, ...",
+   "venue": "ICLR 2025 Workshop: VerifAI: AI Verification in the Wild",
+   "year": "2025"
+  },
+  {
+   "title": "Just Another Day on Twitter: A Complete 24 Hours of Twitter Data (arXiv: 2301.11429). arXiv",
+   "authors": "J Pfeffer, D Matter, K Jaidka, O Varol, A Mashhadi, J Lasser, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Behavior Latticing: Inferring User Motivations from Unstructured Interactions",
+   "authors": "D Zhao, MS Lam, D Yang, MS Bernstein",
+   "venue": "arXiv preprint arXiv:2604.07629",
+   "year": "2026"
+  },
+  {
+   "title": "Human-AI collaboration: How AIs augment human teammates",
+   "authors": "S Wu, D Yang, JZ Chang, MA Hearst, K Lo",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Iclr 2025 workshop on bidirectional human-ai alignment",
+   "authors": "H Shen, Z Ma, R Ghosh, T Knearem, MX Liu, T Wu, A Monroy-Hernández, ...",
+   "venue": "ICLR 2025 Workshop Proposals",
+   "year": "2025"
+  },
+  {
+   "title": "Multi-level feedback generation with large language models for empowering novice peer counselors. arXiv",
+   "authors": "A Chaszczewicz, R Shah, R Louie, BA Arnow, R Kraut, D Yang",
+   "venue": "Preprint posted online on Mar 21",
+   "year": "2024"
+  },
+  {
+   "title": "Personalized response generation with tensor factorization",
+   "authors": "Z Wang, L Luo, D Yang",
+   "venue": "Proceedings of the First Workshop on Natural Language Generation, Evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "CollabSkill: Evaluating Human-Agent Collaboration On Real-World Tasks",
+   "authors": "Y Shao, ZZ Wang, N Ahuja, Y Wang, B Liu, D Yang",
+   "venue": "arXiv preprint arXiv:2606.09833",
+   "year": "2026"
+  },
+  {
+   "title": "AutoLibra: Agent metric induction from open-ended human feedback",
+   "authors": "H Zhu, P Cuvin, X Yu, C Yan, J Zhang, D Yang",
+   "venue": "International Conference on Learning Representations 2026, 19310-19368",
+   "year": "2026"
+  },
+  {
+   "title": "Verbalizing LLMs' Assumptions About the User to Calibrate Expectations and Reduce Sycophancy",
+   "authors": "M Cheng, S Yu, L Ibrahim, D Yang, D Jurafsky",
+   "venue": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human …",
+   "year": "2026"
+  },
+  {
+   "title": "Whose Knowledge Counts? Co-Designing Community-Centered AI Auditing Tools with Educators in Hawai'i",
+   "authors": "D Zhao, H Cha, M J Ryan, A Wang, R Baker-Ramos, EB Helekahi-Kaiwi, ...",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Verbalizing LLMs' assumptions to explain and control sycophancy",
+   "authors": "M Cheng, I Sieh, H Zope, S Yu, L Ibrahim, A Arora, J Moore, D Ong, ...",
+   "venue": "arXiv preprint arXiv:2604.03058",
+   "year": "2026"
+  },
+  {
+   "title": "The unlearning mirage: A dynamic framework for evaluating LLM unlearning",
+   "authors": "RS Shah, J Huang, K Murugesan, N Baracaldo, D Yang",
+   "venue": "arXiv preprint arXiv:2603.11266",
+   "year": "2026"
+  },
+  {
+   "title": "Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens",
+   "authors": "P Manakul, WH Gan, M Bartelds, G Sun, W Held, D Yang",
+   "venue": "arXiv preprint arXiv:2602.16687",
+   "year": "2026"
+  },
+  {
+   "title": "Culture cartography: Mapping the landscape of cultural knowledge",
+   "authors": "C Ziems, WB Held, J Yu, A Goldberg, D Grusky, D Yang",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Measuring and mitigating overreliance to build human-compatible AI",
+   "authors": "L Ibrahim, KM Collins, SSY Kim, A Reuel, M Lamparth, K Feng, L Ahmad, ...",
+   "venue": "arXiv preprint arXiv:2509.08010",
+   "year": "2025"
+  },
+  {
+   "title": "Designing, evaluating, and learning from humans interacting with NLP models",
+   "authors": "T Wu, D Yang, S Santy",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Can large language models transform computational social science? arXiv. 10.48550",
+   "authors": "C Ziems, W Held, O Shaikh, J Chen, Z Zhang, D Yang",
+   "venue": "arXiv preprint arXiv.2305.03514",
+   "year": "2023"
+  },
+  {
+   "title": "From scroll to misbelief: Modeling the unobservable susceptibility to misinformation on social media",
+   "authors": "Y Liu, MD Ma, W Qin, A Zhou, J Chen, W Shi, W Wang, D Yang",
+   "venue": "arXiv preprint arxiv:2311.09630",
+   "year": "2023"
+  },
+  {
+   "title": "Genomic Polymorphisms of Angiogenesis Pathway Predict Radiosensitivity in Rectal Cancer",
+   "authors": "W Zhang, M Gordon, D Yang, J Yun, O Press, K Rhodes, S Groshen, ...",
+   "venue": "International Journal of Radiation Oncology, Biology, Physics 63, S284",
+   "year": "2005"
+  },
+  {
+   "title": "Can LLMs generate novel research ideas? a large-scale human study with 100+ NLP researchers, 2024. doi: 10.48550",
+   "authors": "C Si, D Yang, T Hashimoto",
+   "venue": "arXiv preprint arXiv.2409.04109 2",
+   "year": null
+  },
+  {
+   "title": "Zheng Yao",
+   "authors": "D Yang, Z Yao, J Seering, A Voida, G Gao, R Quintana, SN CSN",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+   "authors": "X Shi, Y Zhang, D Yang",
+   "venue": "arXiv preprint arXiv:2609.24967",
+   "year": "2026"
+  },
+  {
+   "title": "Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction",
+   "authors": "Y Zhang, D Zhao, Y Wang, R Anselmetti, JT Hancock, R Kraut, D Yang",
+   "venue": "arXiv preprint arXiv:2609.07243",
+   "year": "2026"
+  },
+  {
+   "title": "Inducing Task Models from Computer-Use Traces",
+   "authors": "Y Jiang, ZZ Wang, R Chen, D Yang",
+   "venue": "arXiv preprint arXiv:2608.20319",
+   "year": "2026"
+  },
+  {
+   "title": "The Illusion of Robustness: Aggregate Accuracy Hides Prediction Flips under Task-Irrelevant Context",
+   "authors": "Y Zhang, S Koyejo, D Yang",
+   "venue": "arXiv preprint arXiv:2607.12963",
+   "year": "2026"
+  },
+  {
+   "title": "Humans are Missing from AI Coding Agent Research",
+   "authors": "ZZ Wang, J Yang, K Lieret, A Tartaglini, V Chen, Y Wei, Z Wang, L Zhang, ...",
+   "venue": "arXiv preprint arXiv:2608.12355",
+   "year": "2026"
+  },
+  {
+   "title": "Generative Experiences for Digital Mental Health Interventions: Evidence from a Randomized Study",
+   "authors": "A Bhattacharjee, M Liut, M Jörke, D Yang, E Brunskill",
+   "venue": "arXiv preprint arXiv:2604.07558",
+   "year": "2026"
+  },
+  {
+   "title": "Verbalizing LLMs’ assumptions to reduce sycophancy",
+   "authors": "T Cheng, P Yu, S Ibrahim, R Yang, D Jurafsky",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "AutoLibra: Agent Metric Induction from Open-Ended Feedback",
+   "authors": "H Zhu, P Cuvin, X Yu, CKY Yan, J Zhang, D Yang",
+   "venue": "arXiv e-prints, arXiv: 2505.02820",
+   "year": "2025"
+  },
+  {
+   "title": "Modeling Bias in Automatic Speech Recognition",
+   "authors": "C Harris, C Mgbahurike, D Yang",
+   "venue": "Retrieved August 7",
+   "year": "2024"
+  },
+  {
+   "title": "Just Another Day on Twitter: A Complete 24 Hours of Twitter Data",
+   "authors": "J ürgen Pfeffer, D Matter, K Jaidka, O Varol, A Mashhadi, J Lasser, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "LLMs as Oracles: Reliance on LLMs for Subjective Personal Questions",
+   "authors": "M Cheng, L Ibrahim, G Liu, MS Lam, V Padmakumar, N Madibekov, ...",
+   "venue": "arXiv preprint arXiv:2609.14849",
+   "year": "2026"
+  },
+  {
+   "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+   "authors": "ZZ Wang, A Gandhi, R Shao, A Chen, J Mueller, Z Liang, J Chen, M Ryan, ...",
+   "venue": "arXiv preprint arXiv:2609.04141",
+   "year": "2026"
+  },
+  {
+   "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+   "authors": "Z Zhiruo Wang, A Gandhi, R Shao, A Chen, J Mueller, Z Liang, J Chen, ...",
+   "venue": "arXiv e-prints, arXiv: 2609.04141",
+   "year": "2026"
+  },
+  {
+   "title": "Do Language Models Consistently Encode the Current Year?",
+   "authors": "S van Adrichem, A Bhaskar, D Yang, C Potts, J Huang",
+   "venue": "arXiv preprint arXiv:2608.15507",
+   "year": "2026"
+  },
+  {
+   "title": "Micro-Randomized Trial of an AI-Simulated Practice Tool for Therapeutic Skills",
+   "authors": "R Louie, E Converse, D Yang, E Brunskill",
+   "venue": "Impactful and Responsible AI Systems for Education, 43-69",
+   "year": "2026"
+  },
+  {
+   "title": "Will Scaling Improve Social Simulation with LLMs?",
+   "authors": "C Ziems, W Held, SD Karaca, D Grusky, T Hashimoto, D Yang",
+   "venue": "arXiv preprint arXiv:2607.02464",
+   "year": "2026"
+  },
+  {
+   "title": "Future of Work in the Age of LLMs",
+   "authors": "Z Wang, Y Shao, D Nguyen, D Yang",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+   "authors": "L Ibrahim, M Cheng, C Lee, P Khadpe, D Ong, D Jurafsky, D Yang",
+   "venue": "arXiv preprint arXiv:2606.21317",
+   "year": "2026"
+  },
+  {
+   "title": "SecureForge: Finding and Preventing Vulnerabilities in LLM-Generated Code via Prompt Optimization",
+   "authors": "H Liu, L Einstein, J Yang, J Baumann, D Eddy, CD Manning, ...",
+   "venue": "arXiv preprint arXiv:2605.08382",
+   "year": "2026"
+  },
+  {
+   "title": "Reflections and New Directions for Human-Centered Large Language Models",
+   "authors": "C Ziems, D Zhao, RE Wang, M Jörke, A Rushdi, A Deepak, S Yu, ...",
+   "venue": "arXiv preprint arXiv:2605.06901",
+   "year": "2026"
+  },
+  {
+   "title": "Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment",
+   "authors": "W Haosheng Gan, W Held, D Yang",
+   "venue": "arXiv e-prints, arXiv: 2605.00022",
+   "year": "2026"
+  },
+  {
+   "title": "Dagstuhl Reports, Vol. 15, Issue 8 ISSN 2192-5283",
+   "authors": "C Ding, CE Leiserson, Y Sun, B Hoppe, J Chen, C Cheng, D Manlove, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "How Well Does Agent Development Reflect Real-World Work?",
+   "authors": "Z Zhiruo Wang, S Vijayvargiya, A Chen, H Zhang, V Arvind Arangarajan, ...",
+   "venue": "arXiv e-prints, arXiv: 2603.01203",
+   "year": "2026"
+  },
+  {
+   "title": "Natural Language Processing for Mental Health (Dagstuhl Seminar 25361)",
+   "authors": "D Atzil-Slonim, I Gurevych, D Hovy, D Yang",
+   "venue": "Dagstuhl Reports 15 (8), 62-79",
+   "year": "2026"
+  },
+  {
+   "title": "Learning with weak supervision for computational social science",
+   "authors": "D Yang, C Ziems",
+   "venue": "Handbook of Computational Social Science, 269-292",
+   "year": "2025"
+  },
+  {
+   "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workflows Across Diverse Occupations",
+   "authors": "Z Zhiruo Wang, Y Shao, O Shaikh, D Fried, G Neubig, D Yang",
+   "venue": "arXiv e-prints, arXiv: 2510.22780",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 1st Human-Centered Large Language Modeling Workshop",
+   "authors": "N Soni, L Flek, A Sharma, D Yang, S Hooker, HA Schwartz",
+   "venue": "Proceedings of the 1st Human-Centered Large Language Modeling Workshop",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on Personalization of Generative AI Systems (PERSONALIZE 2024)",
+   "authors": "A Deshpande, E Hwang, V Murahari, JS Park, D Yang, A Sabharwal, ...",
+   "venue": "Proceedings of the 1st Workshop on Personalization of Generative AI Systems …",
+   "year": "2024"
+  },
+  {
+   "title": "Spiral of Silence in Online Communities",
+   "authors": "D Zhao, M Bernstein, D Yang",
+   "venue": "OSF",
+   "year": "2024"
+  },
+  {
+   "title": "[TACL] An Empirical Survey of Data Augmentation for Limited Data Learning in NLP",
+   "authors": "J Chen, D Tam, C Raffel, M Bansal, D Yang",
+   "venue": "The 61st Annual Meeting Of The Association For Computational Linguistics",
+   "year": "2023"
+  },
+  {
+   "title": "Using Large Language Models in Psychology",
+   "authors": "C Hecht, DC Ong, M Clapper, JW Pennebaker, CS Dweck, J Jamieson, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "ConStruct-VL: Data-Free Continual Structured VL Concepts Learning",
+   "authors": "J Seale Smith, P Cascante-Bonilla, A Arbelle, D Kim, R Panda, D Cox, ...",
+   "venue": "arXiv e-prints, arXiv: 2211.09790",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding Intrusive Questioning in Online Conversations",
+   "authors": "R Das",
+   "venue": "Georgia Institute of Technology",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Causal Inference and NLP",
+   "authors": "A Feder, KA Keith, E Manzoor, R Pryzant, D Sridhar, Z Wood-Doughty, ...",
+   "venue": "Proceedings of the First Workshop on Causal Inference and NLP",
+   "year": "2021"
+  },
+  {
+   "title": "A Search Engine for Discovery of Biomedical Challenges and Directions",
+   "authors": "D Lahav, JS Falcon, B Kuehl, S Johnson, S Parasa, N Shomron, DH Chau, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "6 Questions for Socially Aware Language Technologies",
+   "authors": "D Yang",
+   "venue": "Northern European Journal of Language Technology 7",
+   "year": "2021"
+  },
+  {
+   "title": "Online Payments During the COVID-19 Pandemic",
+   "authors": "O SHAIKH, C UNG, D YANG",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Towards High Precision Text Generation",
+   "authors": "A Parikh, M Faruqui, B Dhingra, D Yang, D Das",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Characterizing Collective Attention via Descriptor Context in Public Discussions of Crisis Events.",
+   "authors": "I Stewart, D Yang, J Eisenstein",
+   "venue": "CoRR",
+   "year": "2019"
+  },
+  {
+   "title": "ANALYSIS OF ‘DOUBLE-HIT’LYMPHOMA CASES BY GENETIC SUBTYPE: 162",
+   "authors": "D Landsburg, A Petrich, J Abramson, A Sohani, O Press, R Cassaday, ...",
+   "venue": "Hematological Oncology 33, 186-187",
+   "year": "2015"
+  },
+  {
+   "title": "Molecular profiling predicts clinical outcome in patients with metastatic colorectal cancer treated with 5-FU/oxaliplatin: 3519",
+   "authors": "J Yun, W Zhang, D Park, D Yang, O Press, M Gordon, N Mallik, HJ Lenz",
+   "venue": "Onkologie 27, 18-19",
+   "year": "2004"
+  },
+  {
+   "title": "Generative Interfaces for Language Models",
+   "authors": "D Yang, Y Shao, Y Zhang, Y Zhang, J Chen",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Natural Language Processing for Mental Health",
+   "authors": "D Atzil-Slonim, I Gurevych, D Hovy, D Yang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "CooperBench: Benchmarking Cooperation in Coding Agents",
+   "authors": "A Khatua, H Zhu, P Tran, A Prabhudesai, F Sadrieh, JK Lieberwirth, X Yu, ...",
+   "venue": "Workshop on Multi-Agent Learning and Its Opportunities in the Era of …",
+   "year": null
+  },
+  {
+   "title": "FUMA: Forensic Unlearning Membership Attacks",
+   "authors": "M Mou, A Deepak, J Huang, D Yang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Cognitive Behavior in MOOC Discussion Forums and Learning Gains",
+   "authors": "X Wang, D Yang, M Wen, K Koedinger, CP Rosé",
+   "venue": "< bound method Organization. get_name_with_acronym of< Organization …",
+   "year": null
+  },
+  {
+   "title": "ResearchBench: Evaluating AI Agents on End-To-End Astrophysics Research Paper Replication",
+   "authors": "C Ye, S Yuan, S Cooray, S Dillmann, ILV Roque, D Baron, P Frank, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "WHAT DO LANGUAGE MODELS KNOW ABOUT TIME?",
+   "authors": "S van Adrichem, A Bhaskar, J Huang, C Potts, D Yang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Appendix for ToTTo: A Controlled Table-To-Text Generation Dataset",
+   "authors": "AP Parikh, X Wang, S Gehrmann, M Faruqui, B Dhingra, D Yang, D Das, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ICLR 2025 Workshop on Human-AI Coevolution",
+   "authors": "JR Anthis, D Asmar, KR Driggs-Campbell, A Hardy, KJ Meimandi, ...",
+   "venue": "ICLR 2025 Workshop Proposals",
+   "year": null
+  },
+  {
+   "title": "Mixture of Virtual Prompts: Efficient Fine-tuning with Virtual Prompts for Natural Language Understanding",
+   "authors": "J Chen, W Held, D Yang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ConStruct-VL: Data-Free Continual Structured VL Concepts Learning-Supplementary Materials (Appendix)-",
+   "authors": "JS Smith, P Cascante-Bonilla, A Arbelle, D Kim, R Panda, D Cox, D Yang, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

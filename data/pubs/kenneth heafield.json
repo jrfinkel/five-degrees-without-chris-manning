@@ -1,0 +1,635 @@
+{
+ "user": "VEJE37AAAAAJ",
+ "pubs": [
+  {
+   "title": "The llama 3 herd of models",
+   "authors": "A Dubey, A Jauhri, A Pandey, A Kadian, A Al-Dahle, A Letman, A Mathur, ...",
+   "venue": "arXiv e-prints, arXiv: 2407.21783",
+   "year": "2024"
+  },
+  {
+   "title": "KenLM: Faster and smaller language model queries",
+   "authors": "K Heafield",
+   "venue": "Proceedings of the sixth workshop on statistical machine translation, 187-197",
+   "year": "2011"
+  },
+  {
+   "title": "No language left behind: Scaling human-centered machine translation",
+   "authors": "MR Costa-Jussà, J Cross, O Çelebi, M Elbayad, K Heafield, K Heffernan, ...",
+   "venue": "arXiv preprint arXiv:2207.04672",
+   "year": "2022"
+  },
+  {
+   "title": "Sparse communication for distributed gradient descent",
+   "authors": "AF Aji, K Heafield",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Marian: Fast neural machine translation in C++",
+   "authors": "M Junczys-Dowmunt, R Grundkiewicz, T Dwojak, H Hoang, K Heafield, ...",
+   "venue": "Proceedings of ACL 2018, System Demonstrations",
+   "year": "2018"
+  },
+  {
+   "title": "Scalable modified Kneser-Ney language model estimation",
+   "authors": "K Heafield, I Pouzyrevsky, JH Clark, P Koehn",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Diverse uncultivated ultra-small bacterial cells in groundwater",
+   "authors": "B Luef, KR Frischkorn, KC Wrighton, HYN Holman, G Birarda, BC Thomas, ...",
+   "venue": "Nature communications 6 (1), 6372",
+   "year": "2015"
+  },
+  {
+   "title": "others. 2022. No language left behind: Scaling human-centered machine translation",
+   "authors": "NLLB Team, MR Costa-Jussà, J Cross, O Çelebi, M Elbayad, K Heafield, ...",
+   "venue": "Preprint",
+   "year": "20"
+  },
+  {
+   "title": "ParaCrawl: Web-scale acquisition of parallel corpora",
+   "authors": "M Bañón, P Chen, B Haddow, K Heafield, H Hoang, M Esplà-Gomis, ...",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Copied monolingual data improves low-resource neural machine translation",
+   "authors": "A Currey, AV Miceli-Barone, K Heafield",
+   "venue": "Proceedings of the second conference on machine translation, 148-156",
+   "year": "2017"
+  },
+  {
+   "title": "N-gram Counts and Language Models from the Common Crawl.",
+   "authors": "C Buck, K Heafield, B Van Ooyen",
+   "venue": "LREC 2, 4",
+   "year": "2014"
+  },
+  {
+   "title": "Mining business topics in source code using latent dirichlet allocation",
+   "authors": "G Maskeri, S Sarkar, K Heafield",
+   "venue": "Proceedings of the 1st India software engineering conference, 113-120",
+   "year": "2008"
+  },
+  {
+   "title": "Neural grammatical error correction systems with unsupervised pre-training on synthetic data",
+   "authors": "R Grundkiewicz, M Junczys-Dowmunt, K Heafield",
+   "venue": "Proceedings of the fourteenth workshop on innovative use of NLP for building …",
+   "year": "2019"
+  },
+  {
+   "title": "Approaching neural grammatical error correction as a low-resource machine translation task",
+   "authors": "M Junczys-Dowmunt, R Grundkiewicz, S Guha, K Heafield",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Efficient methods for natural language processing: A survey",
+   "authors": "M Treviso, JU Lee, T Ji, B Van Aken, Q Cao, MR Ciosici, M Hassid, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 826-860",
+   "year": "2023"
+  },
+  {
+   "title": "Findings of the 2021 conference on machine translation (WMT21)",
+   "authors": "F Akhbardeh, A Arkhangorodsky, M Biesialska, O Bojar, R Chatterjee, ...",
+   "venue": "Proceedings of the sixth conference on machine translation, 1-88",
+   "year": "2021"
+  },
+  {
+   "title": "The university of edinburgh's neural MT systems for WMT17",
+   "authors": "R Sennrich, A Birch, A Currey, U Germann, B Haddow, K Heafield, ...",
+   "venue": "Proceedings of the Second Conference on Machine Translation",
+   "year": "2017"
+  },
+  {
+   "title": "The llama 3 herd of models. CoRR, abs/2407.21783, 2024. doi: 10.48550",
+   "authors": "A Dubey, A Jauhri, A Pandey, A Kadian, A Al-Dahle, A Letman, A Mathur, ...",
+   "venue": "arXiv preprint ARXIV.2407.21783 10",
+   "year": "2024"
+  },
+  {
+   "title": "Findings of the WMT 2018 shared task on parallel corpus filtering",
+   "authors": "P Koehn, H Khayrallah, K Heafield, ML Forcada",
+   "venue": "Proceedings of the third conference on machine translation: shared task …",
+   "year": "2018"
+  },
+  {
+   "title": "Iterative translation refinement with large language models",
+   "authors": "P Chen, Z Guo, B Haddow, K Heafield",
+   "venue": "Proceedings of the 25th Annual Conference of the European Association for …",
+   "year": "2024"
+  },
+  {
+   "title": "Losing heads in the lottery: Pruning transformer attention in neural machine translation",
+   "authors": "M Behnke, K Heafield",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "In neural machine translation, what does transfer learning transfer?",
+   "authors": "AF Aji, N Bogoychev, K Heafield, R Sennrich",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Monolingual or multilingual instruction tuning: Which makes a better alpaca",
+   "authors": "P Chen, S Ji, N Bogoychev, A Kutuzov, B Haddow, K Heafield",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2024, 1347-1356",
+   "year": "2024"
+  },
+  {
+   "title": "Incorporating source syntax into transformer-based neural machine translation",
+   "authors": "A Currey, K Heafield",
+   "venue": "Proceedings of the Fourth Conference on Machine Translation (Volume 1 …",
+   "year": "2019"
+  },
+  {
+   "title": "Marian: Cost-effective high-quality neural machine translation in C++",
+   "authors": "M Junczys-Dowmunt, K Heafield, H Hoang, R Grundkiewicz, A Aue",
+   "venue": "Proceedings of the 2nd Workshop on Neural Machine Translation and Generation …",
+   "year": "2018"
+  },
+  {
+   "title": "Edinburgh’s phrase-based machine translation systems for WMT-14",
+   "authors": "N Durrani, B Haddow, P Koehn, K Heafield",
+   "venue": "Proceedings of the Ninth Workshop on Statistical Machine Translation, 97-104",
+   "year": "2014"
+  },
+  {
+   "title": "Combining machine translation output with open source",
+   "authors": "K Heafield, A Lavie",
+   "venue": "The carnegie mellon multi-engine machine translation scheme. The Prague …",
+   "year": "2010"
+  },
+  {
+   "title": "From research to production and back: Ludicrously fast neural machine translation",
+   "authors": "YJ Kim, M Junczys-Dowmunt, HH Awadalla, AF Aji, K Heafield, ...",
+   "venue": "Proceedings of the 3rd Workshop on Neural Generation and Translation, 280-288",
+   "year": "2019"
+  },
+  {
+   "title": "The llama 3 herd of models. CoRR abs/2407.21783 (2024)",
+   "authors": "A Dubey, A Jauhri, A Pandey, A Kadian, A Al-Dahle, A Letman, A Mathur, ...",
+   "venue": "arXiv preprint arXiv:2407.21783 10",
+   "year": "2024"
+  },
+  {
+   "title": "An open dataset and model for language identification",
+   "authors": "L Burchell, A Birch, N Bogoychev, K Heafield",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Gender bias amplification during speed-quality optimization in neural machine translation",
+   "authors": "A Renduchintala, D Diaz, K Heafield, X Li, M Diab",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "No language left behind: Scaling human-centered machine translation. arXiv",
+   "authors": "MR Costa-Jussà, J Cross, O Çelebi, M Elbayad, K Heafield, K Heffernan, ...",
+   "venue": "arXiv preprint arXiv:2207.04672",
+   "year": "2022"
+  },
+  {
+   "title": "Zero-resource neural machine translation with monolingual pivot data",
+   "authors": "A Currey, K Heafield",
+   "venue": "Proceedings of the 3rd Workshop on Neural Generation and Translation, 99-107",
+   "year": "2019"
+  },
+  {
+   "title": "Edinburgh’s machine translation systems for European language pairs",
+   "authors": "N Durrani, B Haddow, K Heafield, P Koehn",
+   "venue": "Proceedings of the Eighth Workshop on Statistical Machine Translation, 114-121",
+   "year": "2013"
+  },
+  {
+   "title": "Neural machine translation techniques for named entity transliteration",
+   "authors": "R Grundkiewicz, K Heafield",
+   "venue": "Proceedings of the Seventh Named Entities Workshop, 89-94",
+   "year": "2018"
+  },
+  {
+   "title": "Multi-source syntactic neural machine translation",
+   "authors": "A Currey, K Heafield",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Machine translation system combination with flexible word ordering",
+   "authors": "K Heafield, G Hanneman, A Lavie",
+   "venue": "Proceedings of the Fourth Workshop on Statistical Machine Translation, 56-60",
+   "year": "2009"
+  },
+  {
+   "title": "The GALEX Ultraviolet Variability Catalog",
+   "authors": "BY Welsh, JM Wheatley, K Heafield, M Seibert, SE Browne, S Salim, ...",
+   "venue": "The Astronomical Journal 130 (2), 825-831",
+   "year": "2005"
+  },
+  {
+   "title": "The sockeye 2 neural machine translation toolkit at AMTA 2020",
+   "authors": "T Domhan, M Denkowski, D Vilar, X Niu, F Hieber, K Heafield",
+   "venue": "Proceedings of the 14th Conference of the Association for Machine …",
+   "year": "2020"
+  },
+  {
+   "title": "Identification of topics in source code",
+   "authors": "GM Rama, K Heafield, S Sarkar",
+   "venue": "US Patent 8,209,665",
+   "year": "2012"
+  },
+  {
+   "title": "The llama 4 herd: Architecture, training, evaluation, and deployment notes",
+   "authors": "A Adcock, A Srivastava, A Dubey, A Jauhri, A Pande, A Pandey, ...",
+   "venue": "arXiv preprint arXiv:2601.11659",
+   "year": "2026"
+  },
+  {
+   "title": "Machine translation in healthcare",
+   "authors": "B Haddow, A Birch, K Heafield",
+   "venue": "The Routledge handbook of translation and health, 108-129",
+   "year": "2021"
+  },
+  {
+   "title": "Edinburgh’s submissions to the 2020 machine translation efficiency task",
+   "authors": "N Bogoychev, R Grundkiewicz, AF Aji, M Behnke, K Heafield, S Kashyap, ...",
+   "venue": "Proceedings of the Fourth Workshop on Neural Generation and Translation, 218-224",
+   "year": "2020"
+  },
+  {
+   "title": "Parallel sentence mining by constrained decoding",
+   "authors": "P Chen, N Bogoychev, K Heafield, F Kirefu",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Grouping language model boundary words to speed k–best extraction from hypergraphs",
+   "authors": "K Heafield, P Koehn, A Lavie",
+   "venue": "Proceedings of the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "The University of Edinburgh’s submissions to the WMT18 news translation task",
+   "authors": "B Haddow, N Bogoychev, D Emelin, U Germann, R Grundkiewicz, ...",
+   "venue": "Proceedings of the third conference on machine translation: Shared task …",
+   "year": "2018"
+  },
+  {
+   "title": "Compressing neural machine translation models with 4-bit precision",
+   "authors": "AF Aji, K Heafield",
+   "venue": "Proceedings of the Fourth Workshop on Neural Generation and Translation, 35-42",
+   "year": "2020"
+  },
+  {
+   "title": "Accelerating asynchronous stochastic gradient descent for neural machine translation",
+   "authors": "N Bogoychev, K Heafield, AF Aji, M Junczys-Dowmunt",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Exploring diversity in back translation for low-resource machine translation",
+   "authors": "L Burchell, A Birch, K Heafield",
+   "venue": "Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural …",
+   "year": "2022"
+  },
+  {
+   "title": "Code-switched language identification is harder than you think",
+   "authors": "L Burchell, A Birch, R Thompson, K Heafield",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Findings of the fourth workshop on neural generation and translation",
+   "authors": "K Heafield, H Hayashi, Y Oda, I Konstas, A Finch, G Neubig, X Li, A Birch",
+   "venue": "Proceedings of the Fourth Workshop on Neural Generation and Translation, 1-9",
+   "year": "2020"
+  },
+  {
+   "title": "The University of Edinburgh’s English-German and English-Hausa submissions to the WMT21 news translation task",
+   "authors": "P Chen, J Helcl, U Germann, L Burchell, N Bogoychev, AV Miceli-Barone, ...",
+   "venue": "Proceedings of the Sixth Conference on Machine Translation, 104-109",
+   "year": "2021"
+  },
+  {
+   "title": "Efficient machine translation with model pruning and quantization",
+   "authors": "M Behnke, N Bogoychev, AF Aji, K Heafield, G Nail, Q Zhu, S Tchistiakova, ...",
+   "venue": "Proceedings of the sixth conference on machine translation, 775-780",
+   "year": "2021"
+  },
+  {
+   "title": "Findings of the WMT 2021 shared task on efficient translation",
+   "authors": "K Heafield, Q Zhu, R Grundkiewicz",
+   "venue": "Proceedings of the Sixth Conference on Machine Translation, 639-651",
+   "year": "2021"
+  },
+  {
+   "title": "Pruning neural machine translation for speed using group lasso",
+   "authors": "M Behnke, K Heafield",
+   "venue": "Proceedings of the sixth conference on machine translation, 1074-1086",
+   "year": "2021"
+  },
+  {
+   "title": "Efficient Language Modeling Algorithms with Applications to Statistical Machine Translation",
+   "authors": "K Heafield",
+   "venue": "Ph. D. thesis, Carnegie Mellon University",
+   "year": "2013"
+  },
+  {
+   "title": "CMU multi-engine machine translation for WMT 2010",
+   "authors": "K Heafield, A Lavie",
+   "venue": "Proceedings of the Joint Fifth Workshop on Statistical Machine Translation …",
+   "year": "2010"
+  },
+  {
+   "title": "CMU system combination in WMT 2011",
+   "authors": "K Heafield, A Lavie",
+   "venue": "Proceedings of the Sixth Workshop on Statistical Machine Translation, 145-151",
+   "year": "2011"
+  },
+  {
+   "title": "Document-level machine translation with large-scale public parallel corpora",
+   "authors": "P Pal, A Birch, K Heafield",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Left Language Model State for Syntactic Machine Translation",
+   "authors": "K Heafield, H Hoang, P Koehn, T Kiso, M Federico",
+   "venue": "International Workshop on Spoken Language Translation",
+   "year": "2011"
+  },
+  {
+   "title": "Language Model Rest Costs and Space-Efficient Storage",
+   "authors": "K Heafield, P Koehn, A Lavie",
+   "venue": "Empirical Methods in Natural Language Processing",
+   "year": "2012"
+  },
+  {
+   "title": "Exploring hyper-parameter optimization for neural machine translation on GPU architectures",
+   "authors": "R Lim, K Heafield, H Hoang, M Briers, A Malony",
+   "venue": "arXiv preprint arXiv:1805.02094",
+   "year": "2018"
+  },
+  {
+   "title": "The EuroPat corpus: A parallel corpus of European patent data",
+   "authors": "K Heafield, E Farrow, J Van Der Linde, G Ramírez-Sánchez, D Wiggins",
+   "venue": "Proceedings of the thirteenth language resources and evaluation conference …",
+   "year": "2022"
+  },
+  {
+   "title": "Making asynchronous stochastic gradient descent work for transformers",
+   "authors": "AF Aji, K Heafield",
+   "venue": "Proceedings of the 3rd Workshop on Neural Generation and Translation, 80-89",
+   "year": "2019"
+  },
+  {
+   "title": "No language left behind: Scaling human-centered machine translation. arXiv",
+   "authors": "N Team, MR Costa-Jussà, J Cross, O Çelebi, M Elbayad, K Heafield, ...",
+   "venue": "arXiv preprint arXiv:2207.04672",
+   "year": "2022"
+  },
+  {
+   "title": "Stanford University’s submissions to the WMT 2014 translation task",
+   "authors": "J Neidert, S Schuster, S Green, K Heafield, CD Manning",
+   "venue": "Proceedings of the Ninth Workshop on Statistical Machine Translation, 150-156",
+   "year": "2014"
+  },
+  {
+   "title": "The machine translation toolpack for LoonyBin: Automated management of experimental machine translation hyperworkflows",
+   "authors": "JH Clark, J Weese, BG Ahn, A Zollmann, Q Gao, K Heafield, A Lavie",
+   "venue": "Carnegie Mellon University",
+   "year": "2010"
+  },
+  {
+   "title": "Surprise languages: rapid-response cross-language IR",
+   "authors": "S Nair, RN Eskander",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Fast neural machine translation implementation",
+   "authors": "H Hoang, T Dwojak, R Krišlauks, D Torregrosa, K Heafield",
+   "venue": "Proceedings of the 2nd Workshop on Neural Machine Translation and Generation …",
+   "year": "2018"
+  },
+  {
+   "title": "Language Identification and Modeling in Specialized Hardware",
+   "authors": "K Heafield, R Kshirsagar, S Barona",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Speed-optimized, compact student models that distill knowledge from a larger teacher model: the uedin-cuni submission to the wmt 2020 news translation task",
+   "authors": "U Germann, R Grundkiewicz, M Popel, R Dobreva, N Bogoychev, ...",
+   "venue": "Proceedings of the Fifth Conference on Machine Translation, 191-196",
+   "year": "2020"
+  },
+  {
+   "title": "Sparse communication for distributed gradient descent",
+   "authors": "A Fikri Aji, K Heafield",
+   "venue": "arXiv e-prints, arXiv: 1704.05021",
+   "year": "2017"
+  },
+  {
+   "title": "Faster Phrase-Based decoding by refining feature state",
+   "authors": "K Heafield, M Kayser, CD Manning",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Voting on n-grams for machine translation system combination",
+   "authors": "K Heafield, A Lavie",
+   "venue": "Proceedings of the 9th Conference of the Association for Machine Translation …",
+   "year": "2010"
+  },
+  {
+   "title": "Neural machine translation with 4-bit precision and beyond",
+   "authors": "AF Aji, K Heafield",
+   "venue": "arXiv preprint arXiv:1909.06091",
+   "year": "2019"
+  },
+  {
+   "title": "Unsupervised source hierarchies for low-resource neural machine translation",
+   "authors": "A Currey, K Heafield",
+   "venue": "Proceedings of the workshop on the relevance of linguistic structure in …",
+   "year": "2018"
+  },
+  {
+   "title": "TranslateLocally: Blazing-fast translation running on the local CPU",
+   "authors": "N Bogoychev, J Van der Linde, K Heafield",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Normalized log-linear interpolation of backoff language models is efficient",
+   "authors": "K Heafield, C Geigle, S Massung, L Schwartz",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Constrained regeneration for cross-lingual query-focused extractive summarization",
+   "authors": "E Turcan, D Wan, F Ladhak, P Galuščáková, S Sen, S Tchistiakova, W Xu, ...",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Fully synthetic data improves neural machine translation with knowledge distillation",
+   "authors": "AF Aji, K Heafield",
+   "venue": "arXiv preprint arXiv:2012.15455",
+   "year": "2020"
+  },
+  {
+   "title": "Hadoop Design and k-means clustering",
+   "authors": "K Heafield",
+   "venue": "Google presentation",
+   "year": "2008"
+  },
+  {
+   "title": "Detecting network anomalies with kernel principal component analysis",
+   "authors": "K Heafield",
+   "venue": "Pasadena, CA, May, 1-16",
+   "year": "2006"
+  },
+  {
+   "title": "Edinburgh’s submission to the WMT 2022 Efficiency task",
+   "authors": "N Bogoychev, M Behnke, J Van Der Linde, G Nail, K Heafield, B Zhang, ...",
+   "venue": "Proceedings of the Seventh Conference on Machine Translation (WMT), 661-667",
+   "year": "2022"
+  },
+  {
+   "title": "Approaching neural Chinese word segmentation as a low-resource machine translation task",
+   "authors": "P Chen, K Heafield",
+   "venue": "Proceedings of the 36th Pacific Asia Conference on Language, Information and …",
+   "year": "2022"
+  },
+  {
+   "title": "Combining global sparse gradients with local gradients in distributed neural network training",
+   "authors": "AF Aji, K Heafield, N Bogoychev",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Combining global sparse gradients with local gradients",
+   "authors": "AF Aji, K Heafield",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Word context entropy",
+   "authors": "K Heafield",
+   "venue": "Google, Inc., Available at,(Jan. 16, 2008), 1-21",
+   "year": "2008"
+  },
+  {
+   "title": "Cheat codes to quantify missing source information in neural machine translation",
+   "authors": "P Pal, K Heafield",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Cheating to identify hard problems for neural machine translation",
+   "authors": "P Pal, K Heafield",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 1620-1631",
+   "year": "2023"
+  },
+  {
+   "title": "System for Cross-Language Information Processing, Translation and Summarization (SCRIPTS)",
+   "authors": "K Mckeown",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the Fourth Workshop on Neural Generation and Translation",
+   "authors": "A Birch, A Finch, H Hayashi, K Heafield, M Junczys-Dowmunt, I Konstas, ...",
+   "venue": "Proceedings of the Fourth Workshop on Neural Generation and Translation",
+   "year": "2020"
+  },
+  {
+   "title": "[TACL] Efficient Methods for Natural Language Processing: A Survey",
+   "authors": "M Treviso, JU Lee, T Ji, B van Aken, Q Cao, M Ciosici, M Hassid, ...",
+   "venue": "The 61st Annual Meeting Of The Association For Computational Linguistics",
+   "year": "2023"
+  },
+  {
+   "title": "Fully Synthetic Data Improves Neural Machine Translation with Knowledge Distillation",
+   "authors": "A Fikri Aji, K Heafield",
+   "venue": "arXiv e-prints, arXiv: 2012.15455",
+   "year": "2020"
+  },
+  {
+   "title": "Neural Machine Translation with 4-Bit Precision and Beyond",
+   "authors": "A Fikri Aji, K Heafield",
+   "venue": "arXiv e-prints, arXiv: 1909.06091",
+   "year": "2019"
+  },
+  {
+   "title": "Making Asynchronous Stochastic Gradient Descent Work for Transformers",
+   "authors": "A Fikri Aji, K Heafield",
+   "venue": "arXiv e-prints, arXiv: 1906.03496",
+   "year": "2019"
+  },
+  {
+   "title": "Identification of topics in source code",
+   "authors": "GM Rama, K Heafield, S Sarkar",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Operational Engines",
+   "authors": "DW Oard, C Madson, J Olive, J McCary, C Christianson, K Egan, A Sears, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "CMU-StatXfer Group System Combination",
+   "authors": "K Heafield",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "RR Lyrae Stars in the Far Ultraviolet: GALEX Observations Compared with Theoretical Predictions",
+   "authors": "SE Browne, JM Wheatley, BY Welsh, M Seibert, K Heafield, RM Rich, ...",
+   "venue": "American Astronomical Society Meeting Abstracts 207, 122.03",
+   "year": "2005"
+  },
+  {
+   "title": "An Error Model For Kernel Principal Component Analysis",
+   "authors": "K Heafield, MS Low",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "The Flaring UV Sky",
+   "authors": "BY Welsh, JM Wheatley, K Heafield, M Seibert, SE Browne, ...",
+   "venue": "American Astronomical Society Meeting Abstracts 205, 25.01",
+   "year": "2004"
+  },
+  {
+   "title": "Mdwarf Ultraviolet Flares",
+   "authors": "BY Welsh, JM Wheatley, K Heafield, M Seibert, SE Browne",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Efficient Statistical Machine Translation Decoding via Improved Language Modeling",
+   "authors": "K Heafield",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "CMU Stat-Xfer Group Informal System Combination",
+   "authors": "K Heafield, A Lavie",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "LOCALITY PRESERVATION IN MANIFOLDS TO REDUCE DIMENSIONALITY",
+   "authors": "K Heafield",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

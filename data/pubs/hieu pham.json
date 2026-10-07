@@ -1,0 +1,245 @@
+{
+ "user": "0RvAVR4AAAAJ",
+ "pubs": [
+  {
+   "title": "Effective approaches to attention-based neural machine translation",
+   "authors": "MT Luong, H Pham, CD Manning",
+   "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2015"
+  },
+  {
+   "title": "Scaling up visual and vision-language representation learning with noisy text supervision",
+   "authors": "C Jia, Y Yang, Y Xia, YT Chen, Z Parekh, H Pham, Q Le, YH Sung, Z Li, ...",
+   "venue": "International conference on machine learning, 4904-4916",
+   "year": "2021"
+  },
+  {
+   "title": "Efficient neural architecture search via parameters sharing",
+   "authors": "H Pham, M Guan, B Zoph, Q Le, J Dean",
+   "venue": "International conference on machine learning, 4095-4104",
+   "year": "2018"
+  },
+  {
+   "title": "Neural combinatorial optimization with reinforcement learning",
+   "authors": "I Bello, H Pham, QV Le, M Norouzi, S Bengio",
+   "venue": "arXiv preprint arXiv:1611.09940",
+   "year": "2016"
+  },
+  {
+   "title": "Meta pseudo labels",
+   "authors": "H Pham, Z Dai, Q Xie, QV Le",
+   "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2021"
+  },
+  {
+   "title": "Symbolic discovery of optimization algorithms",
+   "authors": "X Chen, C Liang, D Huang, E Real, K Wang, H Pham, X Dong, T Luong, ...",
+   "venue": "Advances in neural information processing systems 36, 49205-49233",
+   "year": "2023"
+  },
+  {
+   "title": "Device placement optimization with reinforcement learning",
+   "authors": "A Mirhoseini, H Pham, QV Le, B Steiner, R Larsen, Y Zhou, N Kumar, ...",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2017"
+  },
+  {
+   "title": "Doremi: Optimizing data mixtures speeds up language model pretraining",
+   "authors": "SM Xie, H Pham, X Dong, N Du, H Liu, Y Lu, PS Liang, QV Le, T Ma, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 69798-69818",
+   "year": "2023"
+  },
+  {
+   "title": "Bilingual word representations with monolingual quality in mind",
+   "authors": "MT Luong, H Pham, CD Manning",
+   "venue": "Proceedings of the 1st workshop on vector space modeling for natural …",
+   "year": "2015"
+  },
+  {
+   "title": "SwitchOut: an efficient data augmentation algorithm for neural machine translation",
+   "authors": "X Wang, H Pham, Z Dai, G Neubig",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Combined scaling for zero-shot transfer learning",
+   "authors": "H Pham, Z Dai, G Ghiasi, K Kawaguchi, H Liu, AW Yu, J Yu, YT Chen, ...",
+   "venue": "Neurocomputing 555, 126658",
+   "year": "2023"
+  },
+  {
+   "title": "A Hierarchical Model for Device Placement",
+   "authors": "A Mirhoseini, A Goldie, H Pham, B Steiner, QV Le, J Dean",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2019"
+  },
+  {
+   "title": "Effective approaches to attention-based neural machine translation. arXiv 2015",
+   "authors": "MT Luong, H Pham, CD Manning",
+   "venue": "arXiv preprint arXiv:1508.04025 10",
+   "year": "2015"
+  },
+  {
+   "title": "Towards domain-agnostic contrastive learning",
+   "authors": "V Verma, T Luong, K Kawaguchi, H Pham, Q Le",
+   "venue": "International conference on machine learning, 10530-10541",
+   "year": "2021"
+  },
+  {
+   "title": "Optimizing data usage via differentiable rewards",
+   "authors": "X Wang, H Pham, P Michel, A Anastasopoulos, J Carbonell, G Neubig",
+   "venue": "International Conference on Machine Learning, 9983-9995",
+   "year": "2020"
+  },
+  {
+   "title": "Autodropout: Learning dropout patterns to regularize deep networks",
+   "authors": "H Pham, Q Le",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 35 (11), 9351-9359",
+   "year": "2021"
+  },
+  {
+   "title": "Multilingual neural machine translation with soft decoupled encoding",
+   "authors": "X Wang, H Pham, P Arthur, G Neubig",
+   "venue": "arXiv preprint arXiv:1902.03499",
+   "year": "2019"
+  },
+  {
+   "title": "Combined scaling for open-vocabulary image classification",
+   "authors": "H Pham, Z Dai, G Ghiasi, K Kawaguchi, H Liu, AW Yu, J Yu, YT Chen, ...",
+   "venue": "arXiv preprint arXiv:2111.10050 1 (2), 4",
+   "year": "2021"
+  },
+  {
+   "title": "Learning distributed representations for multilingual text sequences",
+   "authors": "H Pham, MT Luong, CD Manning",
+   "venue": "Proceedings of the 1st Workshop on Vector Space Modeling for Natural …",
+   "year": "2015"
+  },
+  {
+   "title": "A tree-based decoder for neural machine translation",
+   "authors": "X Wang, H Pham, P Yin, G Neubig",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Symbolic discovery of optimization algorithms (2023)",
+   "authors": "X Chen, C Liang, D Huang, E Real, K Wang, Y Liu, H Pham, X Dong, ...",
+   "venue": "URL https://arxiv. org/abs/2302.06675 10",
+   "year": null
+  },
+  {
+   "title": "Meta back-translation",
+   "authors": "H Pham, X Wang, Y Yang, G Neubig",
+   "venue": "arXiv preprint arXiv:2102.07847",
+   "year": "2021"
+  },
+  {
+   "title": "Symbolic discovery of optimization algorithms. arXiv 2023",
+   "authors": "X Chen, C Liang, D Huang, E Real, K Wang, Y Liu, H Pham, X Dong, ...",
+   "venue": "arXiv preprint arXiv:2302.06675",
+   "year": "2023"
+  },
+  {
+   "title": "Training EfficientNets at supercomputer scale: 83% ImageNet top-1 accuracy in one hour",
+   "authors": "A Wongpanich, H Pham, J Demmel, M Tan, Q Le, Y You, S Kumar",
+   "venue": "2021 IEEE international parallel and distributed processing symposium …",
+   "year": "2021"
+  },
+  {
+   "title": "Mixupe: Understanding and improving mixup from directional derivative perspective",
+   "authors": "Y Zou, V Verma, S Mittal, WH Tang, H Pham, J Kannala, Y Bengio, A Solin, ...",
+   "venue": "Uncertainty in Artificial Intelligence, 2597-2607",
+   "year": "2023"
+  },
+  {
+   "title": "Efficient Training Mixture Calibration for Training Machine-Learned Models",
+   "authors": "W Yu, S Xie, HH Pham, QV Le",
+   "venue": "US Patent App. 18/489,503",
+   "year": "2025"
+  },
+  {
+   "title": "HiGraAgent: Dual-Agent Adaptive Reasoning over Hierarchical Knowledge Graph for Open Domain Multi-hop Question Answering",
+   "authors": "H Luu, L Nguyen, T Pham, H Pham, T Quan",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2026, 1193-1217",
+   "year": "2026"
+  },
+  {
+   "title": "On optimization algorithms for recurrent networks with long short-term memory",
+   "authors": "H Pham, Z Dai, L Li",
+   "venue": "Bay Learn",
+   "year": "2015"
+  },
+  {
+   "title": "Memory-optimized contrastive learning",
+   "authors": "HH Pham, Z Dai, G Ghiasi, H Liu, W Yu, M Tan, QV Le",
+   "venue": "US Patent App. 19/284,474",
+   "year": "2026"
+  },
+  {
+   "title": "Neural architecture search",
+   "authors": "B Zoph, YJ Guan, HH Pham, QV Le",
+   "venue": "US Patent 12,346,817",
+   "year": "2025"
+  },
+  {
+   "title": "Is H&E Image-to-Spatial Transcriptomics Simpler Than It Looks?",
+   "authors": "DT Nguyen, TH Do, PM Cao, H Pham",
+   "venue": "arXiv preprint arXiv:2609.32857",
+   "year": "2026"
+  },
+  {
+   "title": "MIC: Maximizing Informational Capacity in Adaptive Representations via Isotropic Subspace Alignment",
+   "authors": "DN Hong, NNY Nguyen, HH Pham",
+   "venue": "arXiv preprint arXiv:2605.29987",
+   "year": "2026"
+  },
+  {
+   "title": "Memory-optimized contrastive learning",
+   "authors": "HH Pham, Z Dai, G Ghiasi, H Liu, W Yu, M Tan, QV Le",
+   "venue": "US Patent 12,400,432",
+   "year": "2025"
+  },
+  {
+   "title": "Device placement optimization with reinforcement learning",
+   "authors": "S Bengio, M Norouzi, B Steiner, JA Dean, HH Pham, A Mirhoseini, QV Le, ...",
+   "venue": "US Patent App. 18/376,362",
+   "year": "2024"
+  },
+  {
+   "title": "Reducing the Costs to Design, Train, and Collect Data for Neural Networks with Combinatorial Optimization",
+   "authors": "H Pham",
+   "venue": "Carnegie Mellon University",
+   "year": "2023"
+  },
+  {
+   "title": "Hierarchical device placement with reinforcement learning",
+   "authors": "B Steiner, AD Goldie, JA Dean, HH Pham, A Mirhoseini, QV Le",
+   "venue": "US Patent 11,455,514",
+   "year": "2022"
+  },
+  {
+   "title": "Meta pseudo-labels",
+   "authors": "HH Pham, Z Dai, Q Xie, QV Le",
+   "venue": "US Patent App. 17/551,065",
+   "year": "2022"
+  },
+  {
+   "title": "Latent Models for Word Alignments without Magics",
+   "authors": "H Pham",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Neural combinatorial optimization with reinforcement learning",
+   "authors": "I Bello, H Pham, QV Le, M Norouzi, S Bengio",
+   "venue": "Workshop Track of International Conference on Learning Representations (ICLR …",
+   "year": "2016"
+  },
+  {
+   "title": "FLEXIBLE RUBBER-LIKE CARBON–EPOXY HYBRID SHAPE-MEMORY SYSTEMS PLASTICIZED WITH ANIMAL FAT VIA SOLUTION-PHASE OF PLASMA SYNTHESIS",
+   "authors": "H Nguyen, H Pham, V Truong, H Tran, T Trinh, N Vuong, N Nguyen, V Do, ...",
+   "venue": "Available at SSRN 7132782",
+   "year": null
+  }
+ ]
+}

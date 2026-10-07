@@ -1,0 +1,143 @@
+{
+ "user": "pTwl3TEAAAAJ",
+ "pubs": [
+  {
+   "title": "Growing 3d artefacts and functional machines with neural cellular automata",
+   "authors": "S Sudhakaran, D Grbic, S Li, A Katona, E Najarro, C Glanois, S Risi",
+   "venue": "Artificial Life Conference Proceedings 33 2021 (1), 108",
+   "year": "2021"
+  },
+  {
+   "title": "Automatic story generation: Challenges and attempts",
+   "authors": "A Alabdulkarim, S Li, X Peng",
+   "venue": "Proceedings of the Third Workshop on Narrative Understanding, 72-83",
+   "year": "2021"
+  },
+  {
+   "title": "Enhancing self-consistency and performance of pre-trained language models through natural language inference",
+   "authors": "E Mitchell, J Noh, S Li, W Armstrong, A Agarwal, P Liu, C Finn, ...",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Papillon: Privacy preservation from internet-based and local language model ensembles",
+   "authors": "L Siyan, VC Raghuram, O Khattab, J Hirschberg, Z Yu",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Benchmarking and improving generator-validator consistency of language models",
+   "authors": "X LI, V Shrivastava, S Li, T Hashimoto, P Liang",
+   "venue": "International Conference on Learning Representations 2024, 44038-44055",
+   "year": "2024"
+  },
+  {
+   "title": "Inferring the reader: Guiding automated story generation with commonsense reasoning",
+   "authors": "X Peng, S Li, S Wiegreffe, M Riedl",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 7008-7029",
+   "year": "2022"
+  },
+  {
+   "title": "Reducing non-normative text generation from language models",
+   "authors": "X Peng, S Li, S Frazier, M Riedl",
+   "venue": "Proceedings of the 13th International Conference on Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Adaptable human intention and trajectory prediction for human-robot collaboration",
+   "authors": "A Abuduweili, S Li, C Liu",
+   "venue": "arXiv preprint arXiv:1909.05089",
+   "year": "2019"
+  },
+  {
+   "title": "When can I speak? Predicting initiation points for spoken dialogue agents",
+   "authors": "S Li, A Paranjape, CD Manning",
+   "venue": "Proceedings of the 23rd Annual Meeting of the Special Interest Group on …",
+   "year": "2022"
+  },
+  {
+   "title": "Systematicity in GPT-3’s interpretation of novel English noun compounds",
+   "authors": "S Li, R Carlson, C Potts",
+   "venue": "Findings of the association for computational linguistics: Emnlp 2022, 717-728",
+   "year": "2022"
+  },
+  {
+   "title": "Eden: Empathetic dialogues for english learning",
+   "authors": "L Siyan, T Shao, Z Yu, J Hirschberg",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 3492-3511",
+   "year": "2024"
+  },
+  {
+   "title": "Fine-tuning a transformer-based language model to avoid generating non-normative text",
+   "authors": "X Peng, S Li, S Frazier, M Riedl",
+   "venue": "arXiv preprint arXiv:2001.08764",
+   "year": "2020"
+  },
+  {
+   "title": "Using adaptive empathetic responses for teaching English",
+   "authors": "L Siyan, T Shao, J Hirschberg, Z Yu",
+   "venue": "Proceedings of the 19th workshop on innovative use of nlp for building …",
+   "year": "2024"
+  },
+  {
+   "title": "Dialogue distillery: Crafting interpolable, interpretable, and introspectable dialogue from llms",
+   "authors": "RA Chi, J Kim, S Hickmann, S Li, G Chi, T Atchariyachanvanit, K Yu, ...",
+   "venue": "Alexa Prize SocialBot Grand Challenge 5",
+   "year": "2023"
+  },
+  {
+   "title": "Enhancing LLM-Based Data Annotation with Error Decomposition",
+   "authors": "Z Xu, V Khatri, Y Dai, X Liu, S Li, X Zhang, R Yu",
+   "venue": "Proceedings of the LAK26: 16th International Learning Analytics and …",
+   "year": "2026"
+  },
+  {
+   "title": "Growing 3D Artefacts and Functional Machines with Neural Cellular Automata. CoRR abs/2103.08737 (2021)",
+   "authors": "S Sudhakaran, D Grbic, S Li, A Katona, E Najarro, C Glanois, S Risi",
+   "venue": "arXiv preprint arXiv:2103.08737",
+   "year": "2021"
+  },
+  {
+   "title": "Beyond Direct Identifiers: Probabilistic Privacy Risk Estimation for Privacy-Conscious LLM Query Delegation",
+   "authors": "L Siyan, Z Yu, J Hirschberg",
+   "venue": "arXiv preprint arXiv:2608.09140",
+   "year": "2026"
+  },
+  {
+   "title": "Bringing Pedagogy into Focus: Evaluating Virtual Teaching Assistants' Question-Answering in Asynchronous Learning Environments.",
+   "authors": "L Siyan, Z Xu, VC Raghuram, X Zhang, R Yu, Z Yu",
+   "venue": "EMNLP (Findings), 9743-9774",
+   "year": "2025"
+  },
+  {
+   "title": "A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges",
+   "authors": "W Liang, L Siyan, Z Rackauckas, J Hirschberg",
+   "venue": "arXiv preprint arXiv:2606.27380",
+   "year": "2026"
+  },
+  {
+   "title": "Is Passive Expertise-Based Personalization Enough? A Case Study in AI-Assisted Test-Taking",
+   "authors": "L Siyan, J Zhang, A Maharaj, Y Shi, Y Li",
+   "venue": "arXiv preprint arXiv:2511.23376",
+   "year": "2025"
+  },
+  {
+   "title": "Color me intrigued: quantifying usage of colors in fiction",
+   "authors": "S Li",
+   "venue": "arXiv preprint arXiv:2301.03559",
+   "year": "2023"
+  },
+  {
+   "title": "Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions",
+   "authors": "S Li, KH Liang, S Shahriar, Y Ye, S Goetsu, WW Du, M Yoshida, T Ohwa, ...",
+   "venue": "Proceedings of the 8th ACM Conference on Conversational User Interfaces, 1-8",
+   "year": "2026"
+  },
+  {
+   "title": "DETOUR: An Interactive Benchmark for Dual-Agent Search and Reasoning",
+   "authors": "L Siyan, D Deshpande, A Kannappan, R Qian",
+   "venue": "arXiv preprint arXiv:2602.00352",
+   "year": "2026"
+  }
+ ]
+}

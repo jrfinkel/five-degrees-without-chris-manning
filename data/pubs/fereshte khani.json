@@ -1,0 +1,143 @@
+{
+ "user": "hyle4iEAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Prompt engineering a prompt engineer",
+   "authors": "Q Ye, M Ahmed, R Pryzant, F Khani",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 355-385",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Removing spurious features can hurt accuracy and affect groups disproportionately",
+   "authors": "F Khani, P Liang",
+   "venue": "Proceedings of the 2021 ACM conference on fairness, accountability, and …",
+   "year": "2021"
+  },
+  {
+   "title": "Masktune: Mitigating spurious correlations by forcing to explore",
+   "authors": "S Asgari, A Khani, F Khani, A Gholami, L Tran, A Mahdavi Amiri, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 23284-23296",
+   "year": "2022"
+  },
+  {
+   "title": "In-n-out: Pre-training and self-training using auxiliary information for out-of-distribution robustness",
+   "authors": "SM Xie, A Kumar, R Jones, F Khani, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2012.04550",
+   "year": "2020"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Feature noise induces loss discrepancy across groups",
+   "authors": "F Khani, P Liang",
+   "venue": "International conference on machine learning, 5209-5219",
+   "year": "2020"
+  },
+  {
+   "title": "Unanimous prediction for 100% precision with application to learning semantic mappings",
+   "authors": "F Khani, M Rinard, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Planning, Inference and Pragmatics in Sequential Language Games",
+   "authors": "F Khani, ND Goodman, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 543-555",
+   "year": "2018"
+  },
+  {
+   "title": "Targeted data generation: Finding and fixing model weaknesses",
+   "authors": "Z He, MT Ribeiro, F Khani",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Maximum weighted loss discrepancy",
+   "authors": "F Khani, A Raghunathan, P Liang",
+   "venue": "arXiv preprint arXiv:1906.03518",
+   "year": "2019"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2022. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 5",
+   "year": null
+  },
+  {
+   "title": "Collaborative alignment of nlp models",
+   "authors": "F Khani, MT Ribeiro",
+   "venue": "Advances in Neural Information Processing Systems 36, 38958-38974",
+   "year": "2023"
+  },
+  {
+   "title": "An algorithm for discovering clusters of different densities or shapes in noisy data sets",
+   "authors": "F Khani, MJ Hosseini, AA Abin, H Beigy",
+   "venue": "Proceedings of the 28th Annual ACM Symposium on Applied Computing, 144-149",
+   "year": "2013"
+  },
+  {
+   "title": "Intelligent system and method of optimizing natural language processing models",
+   "authors": "F KHANI, Z He, MTC RIBEIRO",
+   "venue": "US Patent App. 18/311,439",
+   "year": "2024"
+  },
+  {
+   "title": "Causes, Measurement, and Mitigation of Loss Discrepancy",
+   "authors": "F Khani",
+   "venue": "Stanford University",
+   "year": "2021"
+  },
+  {
+   "title": "Collaborative development of machine learning models on specific concepts",
+   "authors": "F KHANI, MTC RIBEIRO",
+   "venue": "US Patent App. 18/776,709",
+   "year": "2024"
+  },
+  {
+   "title": "Counterbalancing Teacher: Regularizing Batch Normalized Models for Robustness",
+   "authors": "SA Taghanaki, A Gholami, F Khani, K Choi, L Tran, R Zhang, A Khani",
+   "venue": "arXiv preprint arXiv:2207.01548",
+   "year": "2022"
+  },
+  {
+   "title": "Learning precise partial semantic mappings via linear algebra",
+   "authors": "F Khani",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2016"
+  },
+  {
+   "title": "Counterbalancing Teacher: Regularizing Batch Normalized Models for Robustness",
+   "authors": "S Asgari, F Khani, A Gholami, K Choi, L Tran, R Zhang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  }
+ ]
+}

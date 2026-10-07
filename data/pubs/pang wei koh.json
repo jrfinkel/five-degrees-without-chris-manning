@@ -1,0 +1,689 @@
+{
+ "user": "Nn990CkAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani et al.",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Understanding black-box predictions via influence functions",
+   "authors": "PW Koh, P Liang",
+   "venue": "International conference on machine learning, 1885-1894",
+   "year": "2017"
+  },
+  {
+   "title": "Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization",
+   "authors": "S Sagawa*, PW Koh*, TB Hashimoto, P Liang",
+   "venue": "International Conference on Learning Representations",
+   "year": "2019"
+  },
+  {
+   "title": "Wilds: A benchmark of in-the-wild distribution shifts",
+   "authors": "PW Koh, S Sagawa, H Marklund, SM Xie, M Zhang, A Balsubramani, ...",
+   "venue": "International conference on machine learning, 5637-5664",
+   "year": "2021"
+  },
+  {
+   "title": "Concept Bottleneck Models",
+   "authors": "PW Koh*, T Nguyen*, YS Tang*, S Mussmann, E Pierson, B Kim, P Liang",
+   "venue": "International Conference on Machine Learning, 5338-5348",
+   "year": "2020"
+  },
+  {
+   "title": "FActScore: Fine-grained atomic evaluation of factual precision in long form text generation",
+   "authors": "S Min, K Krishna, X Lyu, M Lewis, W Yih, P Koh, M Iyyer, L Zettlemoyer, ...",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Mobility network models of COVID-19 explain inequities and inform reopening",
+   "authors": "S Chang*, E Pierson*, PW Koh*, J Gerardin, B Redbird, D Grusky, ...",
+   "venue": "Nature, 1-6",
+   "year": "2020"
+  },
+  {
+   "title": "Certified defenses for data poisoning attacks",
+   "authors": "J Steinhardt*, PW Koh*, PS Liang",
+   "venue": "Advances in neural information processing systems, 3517-3529",
+   "year": "2017"
+  },
+  {
+   "title": "Openflamingo: An open-source framework for training large autoregressive vision-language models",
+   "authors": "A Awadalla, I Gao, J Gardner, J Hessel, Y Hanafy, W Zhu, K Marathe, ...",
+   "venue": "arXiv preprint arXiv:2308.01390",
+   "year": "2023"
+  },
+  {
+   "title": "Toward trustworthy AI development: mechanisms for supporting verifiable claims",
+   "authors": "M Brundage, S Avin, J Wang, H Belfield, G Krueger, G Hadfield, H Khlaaf, ...",
+   "venue": "arXiv preprint arXiv:2004.07213",
+   "year": "2020"
+  },
+  {
+   "title": "Datacomp: In search of the next generation of multimodal datasets",
+   "authors": "SY Gadre, G Ilharco, A Fang, J Hayase, G Smyrnis, T Nguyen, R Marten, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 27092-27112",
+   "year": "2023"
+  },
+  {
+   "title": "Just train twice: Improving group robustness without training group information",
+   "authors": "EZ Liu, B Haghgoo, AS Chen, A Raghunathan, PW Koh, S Sagawa, ...",
+   "venue": "International conference on machine learning, 6781-6792",
+   "year": "2021"
+  },
+  {
+   "title": "Peer and self assessment in massive online classes",
+   "authors": "C Kulkarni, PW Koh, H Le, D Chia, K Papadopoulos, J Cheng, D Koller, ...",
+   "venue": "Design Thinking Research, 131-168",
+   "year": "2015"
+  },
+  {
+   "title": "Are aligned neural networks adversarially aligned?",
+   "authors": "N Carlini, M Nasr, CA Choquette-Choo, M Jagielski, I Gao, PWW Koh, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 61478-61500",
+   "year": "2023"
+  },
+  {
+   "title": "Mapping the pairwise choices leading from pluripotency to human bone, heart, and other mesoderm cell types",
+   "authors": "KM Loh*, A Chen*, PW Koh, TZ Deng, R Sinha, JM Tsai, AA Barkal, ...",
+   "venue": "Cell 166 (2), 451-467",
+   "year": "2016"
+  },
+  {
+   "title": "Datacomp-lm: In search of the next generation of training sets for language models",
+   "authors": "J Li, A Fang, G Smyrnis, M Ivgi, M Jordan, S Gadre, H Bansal, E Guha, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 14200-14282",
+   "year": "2024"
+  },
+  {
+   "title": "On random weights and unsupervised feature learning",
+   "authors": "A Saxe, PW Koh, Z Chen, M Bhand, B Suresh, AY Ng",
+   "venue": "Proceedings of the 28th International Conference on Machine Learning (ICML …",
+   "year": "2011"
+  },
+  {
+   "title": "2 OLMo 2 Furious",
+   "authors": "T OLMo, P Walsh, L Soldaini, D Groeneveld, K Lo, S Arora, A Bhagia, ...",
+   "venue": "arXiv preprint arXiv:2501.00656",
+   "year": "2024"
+  },
+  {
+   "title": "An investigation of why overparameterization exacerbates spurious correlations",
+   "authors": "S Sagawa*, A Raghunathan*, PW Koh*, P Liang",
+   "venue": "International Conference on Machine Learning, 8346-8356",
+   "year": "2020"
+  },
+  {
+   "title": "Tiled convolutional neural networks",
+   "authors": "QV Le, J Ngiam, Z Chen, D Chia, PW Koh, AY Ng",
+   "venue": "Advances in Neural Information Processing Systems, 1279-1287",
+   "year": "2010"
+  },
+  {
+   "title": "Accuracy on the line: on the strong correlation between out-of-distribution and in-distribution generalization",
+   "authors": "JP Miller, R Taori, A Raghunathan, S Sagawa, PW Koh, V Shankar, ...",
+   "venue": "International conference on machine learning, 7721-7735",
+   "year": "2021"
+  },
+  {
+   "title": "Sparse filtering",
+   "authors": "J Ngiam, PW Koh, Z Chen, SA Bhaskar, AY Ng",
+   "venue": "Advances in Neural Information Processing Systems, 1125-1133",
+   "year": "2011"
+  },
+  {
+   "title": "Stronger data poisoning attacks break data sanitization defenses",
+   "authors": "PW Koh, J Steinhardt, P Liang",
+   "venue": "Machine Learning 111 (1), 1-47",
+   "year": "2022"
+  },
+  {
+   "title": "Olmoe: Open mixture-of-experts language models",
+   "authors": "N Muennighoff, L Soldaini, D Groeneveld, K Lo, J Morrison, S Min, W Shi, ...",
+   "venue": "International Conference on Learning Representations 2025, 62061-62121",
+   "year": "2025"
+  },
+  {
+   "title": "On the accuracy of influence functions for measuring group effects",
+   "authors": "PW Koh*, KS Ang*, H Teo*, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems, 5254-5264",
+   "year": "2019"
+  },
+  {
+   "title": "Mediq: Question-asking llms and a benchmark for reliable interactive clinical reasoning",
+   "authors": "S Li, V Balachandran, S Feng, J Ilgen, E Pierson, PW Koh, Y Tsvetkov",
+   "venue": "Advances in Neural Information Processing Systems 37, 28858-28888",
+   "year": "2024"
+  },
+  {
+   "title": "Learning deep energy models",
+   "authors": "J Ngiam, Z Chen, PW Koh, AY Ng",
+   "venue": "ICML",
+   "year": "2011"
+  },
+  {
+   "title": "Synthesizing scientific literature with retrieval-augmented language models",
+   "authors": "A Asai, J He, R Shao, W Shi, A Singh, JC Chang, K Lo, L Soldaini, ...",
+   "venue": "Nature 650 (8103), 857-863",
+   "year": "2026"
+  },
+  {
+   "title": "Impossibility theorems for feature attribution",
+   "authors": "B Bilodeau, N Jaques, PW Koh, B Kim",
+   "venue": "Proceedings of the National Academy of Sciences 121 (2), e2304406120",
+   "year": "2024"
+  },
+  {
+   "title": "Spurious rewards: Rethinking training signals in rlvr",
+   "authors": "R Shao, SS Li, R Xin, S Geng, Y Wang, S Oh, SS Du, N Lambert, S Min, ...",
+   "venue": "arXiv preprint arXiv:2506.10947",
+   "year": "2025"
+  },
+  {
+   "title": "Wild-time: A benchmark of in-the-wild distribution shift over time",
+   "authors": "H Yao, C Choi, B Cao, Y Lee, PWW Koh, C Finn",
+   "venue": "Advances in Neural Information Processing Systems 35, 10309-10324",
+   "year": "2022"
+  },
+  {
+   "title": "Olmo 3",
+   "authors": "T Olmo, A Ettinger, A Bertsch, B Kuehl, D Graham, D Heineman, ...",
+   "venue": "arXiv preprint arXiv:2512.13961",
+   "year": "2025"
+  },
+  {
+   "title": "Extending the WILDS benchmark for unsupervised adaptation",
+   "authors": "S Sagawa*, PW Koh*, T Lee*, I Gao*, SM Xie, K Shen, A Kumar, W Hu, ...",
+   "venue": "arXiv preprint arXiv:2112.05090",
+   "year": "2021"
+  },
+  {
+   "title": "Instructional fingerprinting of large language models",
+   "authors": "J Xu, F Wang, M Ma, PW Koh, C Xiao, M Chen",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Language models scale reliably with over-training and on downstream tasks",
+   "authors": "SY Gadre, G Smyrnis, V Shankar, S Gururangan, M Wortsman, R Shao, ...",
+   "venue": "International Conference on Learning Representations 2025, 67661-67682",
+   "year": "2025"
+  },
+  {
+   "title": "Reasonir: Training retrievers for reasoning tasks",
+   "authors": "R Shao, R Qiao, V Kishore, N Muennighoff, XV Lin, D Rus, BKH Low, ...",
+   "venue": "arXiv preprint arXiv:2504.20595",
+   "year": "2025"
+  },
+  {
+   "title": "Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulations.",
+   "authors": "S Birnbaum, V Kuleshov, Z Enam, PW Koh, S Ermon",
+   "venue": "Advances in Neural Information Processing Systems, 10287-10298",
+   "year": "2019"
+  },
+  {
+   "title": "The Generative AI Paradox:“What It Can Create, It May Not Understand”",
+   "authors": "P West, X Lu, N Dziri, F Brahman, L Li, JD Hwang, L Jiang, J Fisher, ...",
+   "venue": "The Twelfth International Conference on Learning Representations",
+   "year": "2023"
+  },
+  {
+   "title": "Uncertainty of thoughts: Uncertainty-aware planning enhances information seeking in large language models",
+   "authors": "Z Hu, C Liu, X Feng, Y Zhao, SK Ng, AT Luu, J He, PW Koh, B Hooi",
+   "venue": "arXiv preprint arXiv:2402.03271",
+   "year": "2024"
+  },
+  {
+   "title": "Dr tulu: Reinforcement learning with evolving rubrics for deep research",
+   "authors": "R Shao, A Asai, SZ Shen, H Ivison, V Kishore, J Zhuo, X Zhao, M Park, ...",
+   "venue": "arXiv preprint arXiv:2511.19399",
+   "year": "2025"
+  },
+  {
+   "title": "Reliable, adaptable, and attributable language models with retrieval",
+   "authors": "A Asai, Z Zhong, D Chen, PW Koh, L Zettlemoyer, H Hajishirzi, W Yih",
+   "venue": "arXiv preprint arXiv:2403.03187",
+   "year": "2024"
+  },
+  {
+   "title": "Scaling retrieval-based language models with a trillion-token datastore",
+   "authors": "R Shao, J He, A Asai, W Shi, T Dettmers, S Min, L Zettlemoyer, PW Koh",
+   "venue": "Advances in Neural Information Processing Systems 37, 91260-91299",
+   "year": "2024"
+  },
+  {
+   "title": "Selective Classification Can Magnify Disparities Across Groups",
+   "authors": "E Jones*, S Sagawa*, PW Koh*, A Kumar, P Liang",
+   "venue": "International Conference on Learning Representations",
+   "year": "2020"
+  },
+  {
+   "title": "Denoising genome-wide histone ChIP-seq with convolutional neural networks",
+   "authors": "PW Koh*, E Pierson*, A Kundaje",
+   "venue": "Bioinformatics 33 (14), i225-i233",
+   "year": "2017"
+  },
+  {
+   "title": "An atlas of transcriptional, chromatin accessibility, and surface marker changes in human mesoderm development",
+   "authors": "PW Koh*, R Sinha*, AA Barkal, RM Morganti, A Chen, IL Weissman, ...",
+   "venue": "Scientific data 3 (1), 1-15",
+   "year": "2016"
+  },
+  {
+   "title": "Out-of-Domain Robustness via Targeted Augmentations",
+   "authors": "I Gao*, S Sagawa*, PW Koh, T Hashimoto, P Liang",
+   "venue": "arXiv preprint arXiv:2302.11861",
+   "year": "2023"
+  },
+  {
+   "title": "CopyBench: Measuring literal and non-literal reproduction of copyright-protected text in language model generation",
+   "authors": "T Chen, A Asai, N Mireshghallah, S Min, J Grimmelmann, Y Choi, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Supporting covid-19 policy response with large-scale mobility-based modeling",
+   "authors": "S Chang, ML Wilson, B Lewis, Z Mehrab, KK Dudakiya, E Pierson, ...",
+   "venue": "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data …",
+   "year": "2021"
+  },
+  {
+   "title": "Proximity-informed calibration for deep neural networks",
+   "authors": "M Xiong, A Deng, PW Koh, J Wu, S Li, J Xu, B Hooi",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "Improving domain generalization with domain relations",
+   "authors": "H Yao, X Yang, X Pan, S Liu, PW Koh, C Finn",
+   "venue": "International Conference on Learning Representations 2024, 42624-42646",
+   "year": "2024"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Annotation alignment: Comparing LLM and human annotations of conversational safety",
+   "authors": "R Movva, PW Koh, E Pierson",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Dissecting an online intervention for cancer survivors: four exploratory analyses of internet engagement and its effects on health status and health behaviors",
+   "authors": "Z Chen, PW Koh, PL Ritter, K Lorig, EOC Bantum, S Saria",
+   "venue": "Health education & behavior 42 (1), 32-45",
+   "year": "2015"
+  },
+  {
+   "title": "Expbert: Representation engineering with natural language explanations",
+   "authors": "S Murty, PW Koh, P Liang",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Datadecide: How to predict best pretraining data with small experiments",
+   "authors": "I Magnusson, N Tai, B Bogin, D Heineman, JD Hwang, L Soldaini, ...",
+   "venue": "arXiv preprint arXiv:2504.11393",
+   "year": "2025"
+  },
+  {
+   "title": "Large-scale data selection for instruction tuning",
+   "authors": "H Ivison, M Zhang, F Brahman, PW Koh, P Dasigi",
+   "venue": "arXiv preprint arXiv:2503.01807",
+   "year": "2025"
+  },
+  {
+   "title": "Icons: Influence consensus for vision-language data selection",
+   "authors": "X Wu, M Xia, R Shao, Z Deng, PW Koh, O Russakovsky",
+   "venue": "arXiv preprint arXiv:2501.00654",
+   "year": "2024"
+  },
+  {
+   "title": "Fluid language model benchmarking",
+   "authors": "V Hofmann, D Heineman, I Magnusson, K Lo, J Dodge, M Sap, PW Koh, ...",
+   "venue": "arXiv preprint arXiv:2509.11106",
+   "year": "2025"
+  },
+  {
+   "title": "The unmet promise of synthetic training images: Using retrieved real images performs better",
+   "authors": "S Geng, CY Hsieh, V Ramanujan, M Wallingford, CL Li, PW Koh, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 7902-7929",
+   "year": "2024"
+  },
+  {
+   "title": "Multilingual diversity improves vision-language representations",
+   "authors": "T Nguyen, M Wallingford, S Santy, WC Ma, S Oh, L Schmidt, PW Koh, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 91430-91459",
+   "year": "2024"
+  },
+  {
+   "title": "Inferring multidimensional rates of aging from cross-sectional data",
+   "authors": "E Pierson*, PW Koh*, TB Hashimoto*, D Koller, J Leskovec, N Eriksson, ...",
+   "venue": "The 22nd International Conference on Artificial Intelligence and Statistics …",
+   "year": "2019"
+  },
+  {
+   "title": "Establishing task scaling laws via compute-efficient model ladders",
+   "authors": "A Bhagia, J Liu, A Wettig, D Heineman, O Tafjord, AH Jha, L Soldaini, ...",
+   "venue": "arXiv preprint arXiv:2412.04403",
+   "year": "2024"
+  },
+  {
+   "title": "Rlve: Scaling up reinforcement learning for language models with adaptive verifiable environments",
+   "authors": "Z Zeng, H Ivison, Y Wang, L Yuan, SS Li, Z Ye, S Li, J He, R Zhou, T Chen, ...",
+   "venue": "arXiv preprint arXiv:2511.07317",
+   "year": "2025"
+  },
+  {
+   "title": "Using large language models to promote health equity",
+   "authors": "E Pierson, D Shanmugam, R Movva, J Kleinberg, M Agrawal, M Dredze, ...",
+   "venue": "Nejm Ai 2 (2), AIp2400889",
+   "year": "2025"
+  },
+  {
+   "title": "A false sense of privacy: Evaluating textual data sanitization beyond surface-level privacy leakage",
+   "authors": "R Xin, N Mireshghallah, SS Li, M Duan, H Kim, Y Choi, Y Tsvetkov, S Oh, ...",
+   "venue": "2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML …",
+   "year": "2026"
+  },
+  {
+   "title": "The delta learning hypothesis: Preference tuning on weak data can yield strong gains",
+   "authors": "S Geng, H Ivison, CL Li, M Sap, J Li, R Krishna, PW Koh",
+   "venue": "arXiv preprint arXiv:2507.06187",
+   "year": "2025"
+  },
+  {
+   "title": "PLeaS—Merging models with permutations and least squares",
+   "authors": "A Nasery, J Hayase, PW Koh, S Oh",
+   "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2025"
+  },
+  {
+   "title": "Evaltree: Profiling language model weaknesses via hierarchical capability trees",
+   "authors": "Z Zeng, Y Wang, H Hajishirzi, PW Koh",
+   "venue": "arXiv preprint arXiv:2503.08893",
+   "year": "2025"
+  },
+  {
+   "title": "Exploring how generative mllms perceive more than clip with the same vision encoder",
+   "authors": "S Li, PW Koh, SS Du",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Flexolmo: Open language models for flexible data use",
+   "authors": "W Shi, A Bhagia, K Farhat, N Muennighoff, J Morrison, E Walsh, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 165943-165974",
+   "year": "2026"
+  },
+  {
+   "title": "Position paper: Data-centric AI in the age of large language models",
+   "authors": "X Xu, Z Wu, R Qiao, A Verma, Y Shu, J Wang, X Niu, Z He, J Chen, Z Zhou, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 11895 …",
+   "year": "2024"
+  },
+  {
+   "title": "NICE Data Selection for Instruction Tuning in LLMs with Non-differentiable Evaluation Metric",
+   "authors": "J Wang, X Lin, R Qiao, PW Koh, CS Foo, BKH Low",
+   "venue": "ICML",
+   "year": "2025"
+  },
+  {
+   "title": "S4s: Solving for a diffusion model solver",
+   "authors": "E Frankel, S Chen, J Li, PW Koh, LJ Ratliff, S Oh",
+   "venue": "International Conference on Machine Learning (ICML 2025)",
+   "year": "2025"
+  },
+  {
+   "title": "On the trade-off of intra-/inter-class diversity for supervised pre-training",
+   "authors": "J Zhang, B Wang, Z Hu, PW Koh, AJ Ratner",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "MAI-Thinking-1: Building a Hill-Climbing Machine",
+   "authors": "MAI Team",
+   "venue": "https://microsoft.ai/pdf/mai-thinking-1.pdf",
+   "year": "2026"
+  },
+  {
+   "title": "Personalized Reasoning: Just-in-Time Personalization and Why LLMs Fail at It",
+   "authors": "SS Li, A Bose, F Brahman, S Shaolei Du, PW Koh, M Fazel, Y Tsvetkov",
+   "venue": "arXiv e-prints, arXiv: 2510.00177",
+   "year": "2025"
+  },
+  {
+   "title": "OLMoTrace: tracing language model outputs back to trillions of training tokens",
+   "authors": "J Liu, T Blanton, Y Elazar, S Min, YS Chen, A Chheda-Kothary, H Tran, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Frustratingly simple retrieval improves challenging, reasoning-intensive benchmarks",
+   "authors": "X Lyu, M Duan, R Shao, PW Koh, S Min",
+   "venue": "International Conference on Learning Representations 2026, 10248-10285",
+   "year": "2026"
+  },
+  {
+   "title": "Reliable and responsible foundation models",
+   "authors": "X Yang, J Han, R Bommasani, J Luo, W Qu, W Zhou, A Bibi, X Wang, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2025"
+  },
+  {
+   "title": "Localized hepatic lobular regeneration by central-vein–associated lineage-restricted progenitors",
+   "authors": "JM Tsai, PW Koh, A Stefanska, L Xing, GG Walmsley, N Poux, ...",
+   "venue": "Proceedings of the National Academy of Sciences 114 (14), 3654-3659",
+   "year": "2017"
+  },
+  {
+   "title": "Group-robust sample reweighting for subpopulation shifts via influence functions",
+   "authors": "R Qiao, Z Wu, J Wang, PW Koh, BKH Low",
+   "venue": "International Conference on Learning Representations 2025, 36959-36980",
+   "year": "2025"
+  },
+  {
+   "title": "Jpeg-lm: Llms as image generators with canonical codec representations",
+   "authors": "X Han, M Ghazvininejad, PW Koh, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2408.08459",
+   "year": "2024"
+  },
+  {
+   "title": "Online education platform having an instructor dashboard",
+   "authors": "T ALEAHMAD, AB SCHLENDER, NY KIM, PW KOH, RR Sumbaly, ...",
+   "venue": "US Patent 10,482,781",
+   "year": "2019"
+  },
+  {
+   "title": "Self-improving vlm judges without human annotations",
+   "authors": "IW Lin, Y Hu, SS Li, S Geng, PW Koh, L Zettlemoyer, T Althoff, ...",
+   "venue": "arXiv preprint arXiv:2512.05145",
+   "year": "2025"
+  },
+  {
+   "title": "Information-theoretic distillation for reference-less summarization",
+   "authors": "J Jung, X Lu, L Jiang, F Brahman, P West, PW Koh, Y Choi",
+   "venue": "arXiv preprint arXiv:2403.13780",
+   "year": "2024"
+  },
+  {
+   "title": "JobBench: Aligning Agent Work With Human Will",
+   "authors": "Y Li, Y Feng, Z Xu, Z Ma, K Zheng, F Jiang, X Sun, R Shao, Z Chen, ...",
+   "venue": "arXiv preprint arXiv:2605.26329",
+   "year": "2026"
+  },
+  {
+   "title": "Privasis: Synthesizing the Largest\" Public\" Private Dataset from Scratch",
+   "authors": "H Kim, N Mireshghallah, M Duan, R Xin, SS Li, J Jung, D Acuna, Q Pang, ...",
+   "venue": "arXiv preprint arXiv:2602.03183",
+   "year": "2026"
+  },
+  {
+   "title": "ParaPO: Aligning language models to reduce verbatim reproduction of pre-training data",
+   "authors": "T Chen, F Brahman, J Liu, N Mireshghallah, W Shi, PW Koh, ...",
+   "venue": "arXiv preprint arXiv:2504.14452",
+   "year": "2025"
+  },
+  {
+   "title": "Negative token merging: Image-based adversarial feature guidance",
+   "authors": "J Singh, L Li, W Shi, R Krishna, Y Choi, PW Koh, MF Cohen, S Gould, ...",
+   "venue": "arXiv preprint arXiv:2412.01339",
+   "year": "2024"
+  },
+  {
+   "title": "Using unlabeled data to enhance fairness of medical AI: Machine learning",
+   "authors": "R Movva, PW Koh, E Pierson",
+   "venue": "nature medicine 30 (4), 944-945",
+   "year": "2024"
+  },
+  {
+   "title": "Precise information control in long-form text generation",
+   "authors": "J He, H Yen, M Li, S Li, Z Zeng, W Shi, Y Tsvetkov, D Chen, PW Koh, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 92727-92792",
+   "year": "2026"
+  },
+  {
+   "title": "The Curious Case of Factuality Finetuning: Models' Internal Beliefs Can Improve Factuality",
+   "authors": "B Newman, A Ravichander, J Jung, R Xin, H Ivison, Y Kuznetsov, PW Koh, ...",
+   "venue": "arXiv preprint arXiv:2507.08371",
+   "year": "2025"
+  },
+  {
+   "title": "Hybridcot: Interleaving latent and text chain-of-thought for efficient reasoning",
+   "authors": "SZ Shen, R Shao, C Wang, S Yang, VP Berges, G Ghosh, PW Koh, ...",
+   "venue": "NeurIPS 2025 Workshop on Efficient Reasoning",
+   "year": "2025"
+  },
+  {
+   "title": "Merge to learn: Efficiently adding skills to language models with model merging",
+   "authors": "J Morrison, NA Smith, H Hajishirzi, PW Koh, J Dodge, P Dasigi",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 15604 …",
+   "year": "2024"
+  },
+  {
+   "title": "EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics",
+   "authors": "SS Li, R Xin, T Xiao, Y Wang, R Shao, Z Hao, M Sclar, S Oh, F Brahman, ...",
+   "venue": "arXiv preprint arXiv:2605.03871",
+   "year": "2026"
+  },
+  {
+   "title": "Metabolically purified human stem cell-derived hepatocytes reveal distinct effects of Ebola and Lassa viruses",
+   "authors": "JB Prescott, KJ Liu, A Lander, NMQ Pek, SK Jha, M Bokelmann, M Begur, ...",
+   "venue": "bioRxiv, 2025.02. 17.638665",
+   "year": "2025"
+  },
+  {
+   "title": "Deep Reasoning in General Purpose Agents via Structured Meta-Cognition",
+   "authors": "D Light, M Theologitis, K Ghate, SS Li, B Newman, C Shah, A Caliskan, ...",
+   "venue": "arXiv preprint arXiv:2605.11388",
+   "year": "2026"
+  },
+  {
+   "title": "FabScore: Fine-Grained Evaluation of Fabrications in Automated AI Research",
+   "authors": "H Chen, JX Zhao, D Jiang, Q Guo, J Chen, Y Wang, M Chen, SK Ng, ...",
+   "venue": "ICML 2026 AI for Science Workshop",
+   "year": "2026"
+  },
+  {
+   "title": "Lower bound on the time complexity of local adiabatic evolution",
+   "authors": "Z Chen, PW Koh, Y Zhao",
+   "venue": "Physical Review A—Atomic, Molecular, and Optical Physics 74 (5), 052314",
+   "year": "2006"
+  },
+  {
+   "title": "PanCanBench: A Comprehensive Benchmark for Evaluating Large Language Models in Pancreatic Oncology",
+   "authors": "Y Zhao, SR Damle, SE Dekker, S Geng, KW Silva, JJ Hubbard, ...",
+   "venue": "arXiv preprint arXiv:2603.01343",
+   "year": "2026"
+  },
+  {
+   "title": "Modeling multi-objective tradeoffs with monotonic utility functions",
+   "authors": "E Chen, N Dullerud, T Niedermayr, E Kidd, R Senanayake, PW Koh, ...",
+   "venue": "arXiv preprint arXiv:2412.06154",
+   "year": "2024"
+  },
+  {
+   "title": "Gacha Decoding: Eliciting Diverse Generations Through Instruction Following",
+   "authors": "S Geng, Y Zhang, J Lee, J Li, M Ghazvininejad, PW Koh",
+   "venue": "arXiv preprint arXiv:2610.01382",
+   "year": "2026"
+  },
+  {
+   "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+   "authors": "S Kim, Y Lee, B Liu, D Ko, R Shao, S Kim, G Neubig, PW Koh, ...",
+   "venue": "arXiv preprint arXiv:2610.02202",
+   "year": "2026"
+  },
+  {
+   "title": "Context Language Models",
+   "authors": "R Shao, SZ Shen, JO Yin, Y Li, M Wang, H Ivison, R Poovendran, ...",
+   "venue": "arXiv preprint arXiv:2609.37725",
+   "year": "2026"
+  },
+  {
+   "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+   "authors": "ZZ Wang, A Gandhi, R Shao, A Chen, J Mueller, Z Liang, J Chen, M Ryan, ...",
+   "venue": "arXiv preprint arXiv:2609.04141",
+   "year": "2026"
+  },
+  {
+   "title": "Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall",
+   "authors": "J He, H Yen, SS Li, M Li, H Zeng, Y Xia, B Zhang, Z Zhao, Q Zhang, ...",
+   "venue": "arXiv preprint arXiv:2609.01532",
+   "year": "2026"
+  },
+  {
+   "title": "Spokes: Optimizing for Diverse Pretraining Data Selection",
+   "authors": "C Lee, Y Choi, L Zettlemoyer, PW Koh, HL Chieu",
+   "venue": "arXiv preprint arXiv:2606.15216",
+   "year": "2026"
+  },
+  {
+   "title": "Enabling federated discovery leveraging agentic AI systems: The Cancer AI Alliance and DataVoyager.",
+   "authors": "SE Dekker, S Salerno, BP Majumder, R Adamson, RM Donovan-Maiye, ...",
+   "venue": "Journal of Clinical Oncology 44 (16_suppl), e20516-e20516",
+   "year": "2026"
+  },
+  {
+   "title": "Transforming the cytokine literature into a resource for experimental analysis and discovery",
+   "authors": "L Oesinghaus, M Park, R Shao, PW Koh, G Seelig",
+   "venue": "bioRxiv, 2026.05. 04.722753",
+   "year": "2026"
+  },
+  {
+   "title": "ALMo: Interactive Aim-Limit-Defined, Multi-Objective System for Personalized High-Dose-Rate Brachytherapy Treatment Planning and Visualization for Cervical Cancer",
+   "authors": "E Chen, N Dullerud, PW Koh, T Niedermayr, E Kidd, S Koyejo, C Guestrin",
+   "venue": "arXiv preprint arXiv:2602.13666",
+   "year": "2026"
+  },
+  {
+   "title": "Buy versus Build an LLM: A Decision Framework for Governments",
+   "authors": "J Lu, Z Xu, W Tjhi, J Li, A Bosselut, PW Koh, M Kankanhalli",
+   "venue": "arXiv preprint arXiv:2602.13033",
+   "year": "2026"
+  },
+  {
+   "title": "Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model",
+   "authors": "J He, J Hayase, W Yih, S Oh, L Zettlemoyer, PW Koh",
+   "venue": "arXiv preprint arXiv:2602.07120",
+   "year": "2026"
+  },
+  {
+   "title": "PrefDisco: Evaluating Proactive Personalization through Interactive Preference Discovery",
+   "authors": "SS Li, A Bose, F Brahman, SS Du, PW Koh, M Fazel, Y Tsvetkov",
+   "venue": "First Workshop on Multi-Turn Interactions in Large Language Models",
+   "year": null
+  },
+  {
+   "title": "Cold-Start Personalization via Bayesian Adaptive Questioning",
+   "authors": "A Bose, SS Li, F Brahman, PW Koh, SS Du, Y Tsvetkov, M Fazel, L Xiao, ...",
+   "venue": "Forty-third International Conference on Machine Learning",
+   "year": null
+  }
+ ]
+}

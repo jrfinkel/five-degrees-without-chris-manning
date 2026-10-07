@@ -1,0 +1,137 @@
+{
+ "user": "nzA4P0oAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Prefix-tuning: Optimizing continuous prompts for generation",
+   "authors": "XL Li, P Liang",
+   "venue": "Proceedings of the 59th annual meeting of the association for computational …",
+   "year": "2021"
+  },
+  {
+   "title": "s1: Simple test-time scaling",
+   "authors": "N Muennighoff, Z Yang, W Shi, XL Li, L Fei-Fei, H Hajishirzi, L Zettlemoyer, ...",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Diffusion-lm improves controllable text generation",
+   "authors": "X Li, J Thickstun, I Gulrajani, PS Liang, TB Hashimoto",
+   "venue": "Advances in neural information processing systems 35, 4328-4343",
+   "year": "2022"
+  },
+  {
+   "title": "Contrastive decoding: Open-ended text generation as optimization",
+   "authors": "XL Li, A Holtzman, D Fried, P Liang, J Eisner, TB Hashimoto, ...",
+   "venue": "Proceedings of the 61st annual meeting of the association for computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Learning to compress prompts with gist tokens",
+   "authors": "J Mu, X Li, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 36, 19327-19352",
+   "year": "2023"
+  },
+  {
+   "title": "Demonstrate-search-predict: Composing retrieval and language models for knowledge-intensive nlp",
+   "authors": "O Khattab, K Santhanam, XL Li, D Hall, P Liang, C Potts, M Zaharia",
+   "venue": "arXiv preprint arXiv:2212.14024",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating human-language model interaction",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arXiv:2212.09746",
+   "year": "2022"
+  },
+  {
+   "title": "On the learnability of watermarks for language models",
+   "authors": "C Gu, X LI, P Liang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2024, 38745-38768",
+   "year": "2024"
+  },
+  {
+   "title": "Specializing word embeddings (for parsing) by information bottleneck",
+   "authors": "XL Li, J Eisner",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Benchmarking and improving generator-validator consistency of language models",
+   "authors": "X LI, V Shrivastava, S Li, T Hashimoto, P Liang",
+   "venue": "International Conference on Learning Representations 2024, 44038-44055",
+   "year": "2024"
+  },
+  {
+   "title": "Autobencher: Towards declarative benchmark construction",
+   "authors": "X LI, F Kaiyom, E Liu, Y Mai, P Liang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2025, 94357-94386",
+   "year": "2025"
+  },
+  {
+   "title": "Decoding methods for neural narrative generation",
+   "authors": "A DeLucia, A Mueller, XL Li, J Sedoc",
+   "venue": "Proceedings of the First Workshop on Natural Language Generation, Evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "Posterior control of blackbox generation",
+   "authors": "XL Li, AM Rush",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Eliciting language model behaviors with investigator agents",
+   "authors": "XL Li, N Chowdhury, DD Johnson, T Hashimoto, P Liang, S Schwettmann, ...",
+   "venue": "arXiv preprint arXiv:2502.01236",
+   "year": "2025"
+  },
+  {
+   "title": "Auditing prompt caching in language model apis",
+   "authors": "C Gu, XL Li, R Kuditipudi, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2502.07776",
+   "year": "2025"
+  },
+  {
+   "title": "Autobencher: Creating salient, novel, difficult datasets for language models",
+   "authors": "XL Li, EZ Liu, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2407.08351 1",
+   "year": "2024"
+  },
+  {
+   "title": "Few-shot recalibration of language models",
+   "authors": "XL Li, U Khandelwal, K Guu",
+   "venue": "arXiv preprint arXiv:2403.18286",
+   "year": "2024"
+  },
+  {
+   "title": "Ensembles and cocktails: Robust finetuning for natural language generation",
+   "authors": "J Hewitt, XL Li, SM Xie, B Newman, P Liang",
+   "venue": "NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": "2021"
+  },
+  {
+   "title": "TempLM: Distilling language models into template-based generators",
+   "authors": "T Zhang, M Lee, XL Li, E Shen, TB Hashimoto",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 1970-1994",
+   "year": "2023"
+  },
+  {
+   "title": "A generative model for punctuation in dependency trees",
+   "authors": "XL Li, D Wang, J Eisner",
+   "venue": "Transactions of the Association for Computational Linguistics 7, 357-373",
+   "year": "2019"
+  },
+  {
+   "title": "Calibrated on Average, but not Within Each Slice: Few-shot Calibration for All Slices of a Distribution",
+   "authors": "XL Li, U Khandelwal, K Guu",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

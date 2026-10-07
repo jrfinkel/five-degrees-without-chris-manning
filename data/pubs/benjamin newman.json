@@ -1,0 +1,149 @@
+{
+ "user": "QehvrDoAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "The eos decision and length extrapolation",
+   "authors": "B Newman, J Hewitt, P Liang, CD Manning",
+   "venue": "Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting …",
+   "year": "2020"
+  },
+  {
+   "title": "Refining targeted syntactic evaluation of language models",
+   "authors": "B Newman, KS Ang, J Gong, J Hewitt",
+   "venue": "Proceedings of the 2021 conference of the North American chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Comparing sentence-level suggestions to message-level suggestions in AI-mediated communication",
+   "authors": "L Fu, B Newman, M Jakesch, S Kreps",
+   "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2023"
+  },
+  {
+   "title": "Wildhallucinations: Evaluating long-form factuality in llms with real-world entity queries",
+   "authors": "W Zhao, T Goyal, YY Chiu, L Jiang, B Newman, A Ravichander, ...",
+   "venue": "arXiv preprint arXiv:2407.17468",
+   "year": "2024"
+  },
+  {
+   "title": "P-adapters: Robustly extracting factual information from language models with diverse prompts",
+   "authors": "B Newman, PK Choubey, N Rajani",
+   "venue": "arXiv preprint arXiv:2110.07280",
+   "year": "2021"
+  },
+  {
+   "title": "PaperMage: A unified toolkit for processing, representing, and manipulating visually-rich scientific documents",
+   "authors": "K Lo, Z Shen, B Newman, JZ Chang, R Authur, E Bransom, S Candra, ...",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "A Question Answering Framework for Decontextualizing User-facing Snippets from Scientific Documents",
+   "authors": "B Newman, L Soldaini, R Fok, A Cohan, K Lo",
+   "venue": "arXiv preprint arXiv:2305.14772",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. CoRR abs/2108.07258 (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, RB Altman, S Arora, S von Arx, ...",
+   "venue": "URL: https://arxiv. org/abs/2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Arxivdigestables: Synthesizing scientific literature into tables using language models",
+   "authors": "B Newman, Y Lee, A Naik, P Siangliulue, R Fok, J Kim, DS Weld, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models [arXiv [cs. LG]]. 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Spectrum tuning: Post-training for distributional coverage and in-context steerability",
+   "authors": "T Sorensen, B Newman, J Moore, CY Park, J Fisher, N Mireshghallah, ...",
+   "venue": "International Conference on Learning Representations 2026, 76138-76212",
+   "year": "2026"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2022. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 5",
+   "year": null
+  },
+  {
+   "title": "Verifying the verifiers: Unveiling pitfalls and potentials in fact verifiers",
+   "authors": "W Seo, S Han, J Jung, B Newman, S Lim, S Lee, X Lu, Y Choi, Y Yu",
+   "venue": "arXiv preprint arXiv:2506.13342",
+   "year": "2025"
+  },
+  {
+   "title": "Communication-based evaluation for natural language generation",
+   "authors": "B Newman, R Cohn-Gordon, C Potts",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2020, 116-126",
+   "year": "2020"
+  },
+  {
+   "title": "The Curious Case of Factuality Finetuning: Models' Internal Beliefs Can Improve Factuality",
+   "authors": "B Newman, A Ravichander, J Jung, R Xin, H Ivison, Y Kuznetsov, PW Koh, ...",
+   "venue": "arXiv preprint arXiv:2507.08371",
+   "year": "2025"
+  },
+  {
+   "title": "FDARxBench: Benchmarking regulatory and clinical reasoning on FDA generic drug assessment",
+   "authors": "B Xiong, J Fisher, B Newman, M Hu, S Gupta, Y Choi, L Fang, RB Altman",
+   "venue": "arXiv preprint arXiv:2603.19539",
+   "year": "2026"
+  },
+  {
+   "title": "Synth-tax: Modification of BERT Syntax Representations via Structural Probes",
+   "authors": "KS Ang, J Gong, B Newman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Unsupervised Recovery of Tree Metrics from Learned Language Representations",
+   "authors": "B Newman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Using POMDPs to Learn Language in a Spatial Reference Game",
+   "authors": "S Mirchandani, L Lian, B Newman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "English-Chinese Name Machine Transliteration Using Search and Neural Network Models",
+   "authors": "J Gong, B Newman",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

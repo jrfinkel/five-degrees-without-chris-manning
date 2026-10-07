@@ -1,0 +1,407 @@
+{
+ "user": "EmNS9GAAAAAJ",
+ "pubs": [
+  {
+   "title": "Method and apparatus for automated assistance with task management",
+   "authors": "H Bui, S Eker, D Elenius, M Gervasio, TJ Lee, M Marker, D Morley, ...",
+   "venue": "US Patent 8,694,355",
+   "year": "2014"
+  },
+  {
+   "title": "WikiWalk: random walks on Wikipedia for semantic relatedness",
+   "authors": "E Yeh, D Ramage, CD Manning, E Agirre, A Soroa",
+   "venue": "Proceedings of the 2009 workshop on graph-based methods for natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Learning alignments and leveraging natural logic",
+   "authors": "N Chambers, D Cer, T Grenager, D Hall, C Kiddon, B MacCartney, ...",
+   "venue": "Proceedings of the ACL-PASCAL workshop on textual entailment and …",
+   "year": "2007"
+  },
+  {
+   "title": "System and method for distributed concurrent version management",
+   "authors": "T Yu, H Chiu, E Yeh",
+   "venue": "US Patent App. 10/305,031",
+   "year": "2004"
+  },
+  {
+   "title": "Reducing human fatigue in interactive evolutionary computation through fuzzy systems and machine learning systems",
+   "authors": "R Kamalian, E Yeh, Y Zhang, AM Agogino, H Takagi",
+   "venue": "2006 IEEE International Conference on Fuzzy Systems, 678-684",
+   "year": "2006"
+  },
+  {
+   "title": "Language Analytics for Assessing Brain Health: Cognitive Impairment, Depression and Pre-symptomatic Alzheimer’s Disease",
+   "authors": "W Jarrold, B Peintner, E Yeh, R Krasnow, H Javitz, G Swan",
+   "venue": "Brain Informatics, 299-307",
+   "year": "2010"
+  },
+  {
+   "title": "Depression and self-focused language in structured interviews with older men",
+   "authors": "W Jarrold, HS Javitz, R Krasnow, B Peintner, E Yeh, GE Swan, M Mehl",
+   "venue": "Psychological reports 109 (2), 686-700",
+   "year": "2011"
+  },
+  {
+   "title": "Deciding entailment and contradiction with stochastic and edit distance-based alignment",
+   "authors": "S Padó, MC de Marneffe, B MacCartney, AN Rafferty, E Yeh, CD Manning",
+   "venue": "Proceedings of the Text Analysis Conference",
+   "year": "2008"
+  },
+  {
+   "title": "Machine learning system for building renderings and building information modeling data",
+   "authors": "CH Yeh, K Myers, M Amer",
+   "venue": "US Patent 11,468,206",
+   "year": "2022"
+  },
+  {
+   "title": "Interestingness Elements for Explainable Reinforcement Learning through Introspection.",
+   "authors": "P Sequeira, E Yeh, MT Gervasio",
+   "venue": "IUI workshops 1",
+   "year": "2019"
+  },
+  {
+   "title": "Stanford-UBC Entity Linking at TAC-KBP.",
+   "authors": "AX Chang, VI Spitkovsky, E Yeh, CD Manning, E Agirre",
+   "venue": "TAC",
+   "year": "2010"
+  },
+  {
+   "title": "Stanford-UBC at TAC-KBP.",
+   "authors": "E Agirre, AX Chang, D Jurafsky, CD Manning, VI Spitkovsky, E Yeh",
+   "venue": "TAC",
+   "year": "2009"
+  },
+  {
+   "title": "Method and apparatus for facilitating computer-supported collaborative work sessions",
+   "authors": "J Lowrance, A Rodriguez, CH Yeh, I Harrison, T Boyce",
+   "venue": "US Patent App. 10/874,806",
+   "year": "2005"
+  },
+  {
+   "title": "Efficient online learning and prediction of users’ desktop actions",
+   "authors": "O Madani, H Bui, E Yeh",
+   "venue": "Proc. 21st International Joint Conference on Artificial Intelligence, 1457-1462",
+   "year": "2009"
+  },
+  {
+   "title": "ISOMER: Informative segment observations for multimedia event recounting",
+   "authors": "C Sun, B Burns, R Nevatia, C Snoek, B Bolles, G Myers, W Wang, E Yeh",
+   "venue": "Proceedings of International Conference on Multimedia Retrieval, 241-248",
+   "year": "2014"
+  },
+  {
+   "title": "Template-based structured argumentation",
+   "authors": "J Lowrance, I Harrison, A Rodriguez, E Yeh, T Boyce, J Murdock, ...",
+   "venue": "Knowledge Cartography, 307-333",
+   "year": "2008"
+  },
+  {
+   "title": "Explanation to Avert Surprise.",
+   "authors": "MT Gervasio, KL Myers, E Yeh, B Adkins",
+   "venue": "IUI Workshops 2068",
+   "year": "2018"
+  },
+  {
+   "title": "CoProver: a recommender system for proof construction",
+   "authors": "E Yeh, B Hitaj, S Owre, M Quemener, N Shankar",
+   "venue": "International Conference on Intelligent Computer Mathematics, 237-251",
+   "year": "2023"
+  },
+  {
+   "title": "Multi-level introspection framework for explainable reinforcement learning agents",
+   "authors": "PDB Sequeira, MT Gervasio, CH Yeh",
+   "venue": "US Patent App. 16/842,265",
+   "year": "2020"
+  },
+  {
+   "title": "Techniques for user-centric document summarization",
+   "authors": "G Acharya, J Niekrasz, J Byrnes, CH Yeh",
+   "venue": "US Patent App. 16/088,745",
+   "year": "2019"
+  },
+  {
+   "title": "Extracting spoken and acoustic concepts for multimedia event detection",
+   "authors": "J van Hout, M Akbacak, D Castan, E Yeh, M Sanchez",
+   "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2013"
+  },
+  {
+   "title": "Angler: collaboratively expanding your cognitive horizon",
+   "authors": "A Rodriguez, T Boyce, J Lowrance, E Yeh",
+   "venue": "Submitted to the First International Conference on Intelligence Analysis …",
+   "year": "2005"
+  },
+  {
+   "title": "Method and apparatus for recommending work artifacts based on collaboration events",
+   "authors": "B Peintner, E Yeh, JJ Tien, TD Garvey",
+   "venue": "US Patent 9,230,014",
+   "year": "2016"
+  },
+  {
+   "title": "Learning to ask the right questions to help a learner learn",
+   "authors": "M Gervasio, E Yeh, K Myers",
+   "venue": "Proceedings of the 16th international conference on Intelligent user …",
+   "year": "2011"
+  },
+  {
+   "title": "Bridging the gap: Converting human advice into imagined examples",
+   "authors": "E Yeh, M Gervasio, D Sanchez, M Crossley, K Myers",
+   "venue": "Advances in Cognitive Systems 6, 1168-1176",
+   "year": "2018"
+  },
+  {
+   "title": "Leveraging Psycholinguistic Resources and Emotional Sequence Models for Suicide Note Emotion Annotation",
+   "authors": "E Yeh, W Jarrold, J Jordan",
+   "venue": "Biomedical Informatics Insights 2012",
+   "year": null
+  },
+  {
+   "title": "Semgrex and ssurgeon, searching and manipulating dependency graphs",
+   "authors": "J Bauer, C Kiddon, E Yeh, A Shan, CD Manning",
+   "venue": "Proceedings of the 21st International Workshop on Treebanks and Linguistic …",
+   "year": "2023"
+  },
+  {
+   "title": "Synthetic training examples from advice for training autonomous agents",
+   "authors": "CH Yeh, MT Gervasio, KL Myers, DJ Sanchez, M Crossley",
+   "venue": "US Patent App. 16/810,324",
+   "year": "2020"
+  },
+  {
+   "title": "The 2014 SESAME Multimedia Event Detection and Recounting System.",
+   "authors": "RC Bolles, JB Burns, JA Herson, GK Myers, J van Hout, W Wang, J Wong, ...",
+   "venue": "TRECVID",
+   "year": "2014"
+  },
+  {
+   "title": "Language classification in multilingual documents",
+   "authors": "G Ozbek, I Rosenn, E Yeh",
+   "venue": "Technical report, Stanford University",
+   "year": "2006"
+  },
+  {
+   "title": "An augmented MetiTarski dataset for real quantifier elimination using machine learning",
+   "authors": "J Hester, B Hitaj, G Passmore, S Owre, N Shankar, E Yeh",
+   "venue": "International Conference on Intelligent Computer Mathematics, 297-302",
+   "year": "2023"
+  },
+  {
+   "title": "The 2012 SESAME Multimedia Event Detection (MED) System.",
+   "authors": "M Akbacak, RC Bolles, JB Burns, M Elliot, A Heller, JA Herson, GK Myers, ...",
+   "venue": "TRECVID",
+   "year": "2012"
+  },
+  {
+   "title": "Human-aided multi-sensor fusion",
+   "authors": "M Chan, EH Ruspini, J Lowrance, J Yang, J Murdock, E Yeh",
+   "venue": "2005 7th International Conference on Information Fusion 1, 3 pp.",
+   "year": "2005"
+  },
+  {
+   "title": "Ai as collaborative partner: Rethinking human-ai teaming for the real world",
+   "authors": "M Gervasio, P Sequeira, E Yeh, N Marion, S Bakst, H Gent",
+   "venue": "Proceedings of the AAAI Symposium Series 5 (1), 63-66",
+   "year": "2025"
+  },
+  {
+   "title": "Late fusion and calibration for multimedia event detection using few examples",
+   "authors": "J van Hout, E Yeh, DC Koelma, CGM Snoek, C Sun, R Nevatia, J Wong, ...",
+   "venue": "2014 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2014"
+  },
+  {
+   "title": "Deriving formal specifications from natural language requirements using arsenal 2",
+   "authors": "D Elenius, E Yeh, S Graham-Lengrand, S Ghosh, P Lincoln, N Shankar",
+   "venue": "High Confidence Software and Systems Conference",
+   "year": "2019"
+  },
+  {
+   "title": "Sriubc: Simple similarity features for semantic textual similarity",
+   "authors": "E Yeh, E Agirre",
+   "venue": "* SEM 2012: The First Joint Conference on Lexical and Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "A context-aware personal desktop assistant",
+   "authors": "HH Bui, F Cesari, D Elenius, DN Morley, S Natarajan, S Saadati, E Yeh, ...",
+   "venue": "Proceedings of the 7th international joint conference on Autonomous agents …",
+   "year": "2008"
+  },
+  {
+   "title": "Outcome-guided counterfactuals from a jointly trained generative latent space",
+   "authors": "E Yeh, P Sequeira, J Hostetler, M Gervasio",
+   "venue": "World Conference on Explainable Artificial Intelligence, 449-469",
+   "year": "2023"
+  },
+  {
+   "title": "Outcome-guided counterfactuals for reinforcement learning agents from a jointly trained generative latent space",
+   "authors": "E Yeh, P Sequeira, J Hostetler, M Gervasio",
+   "venue": "arXiv preprint arXiv:2207.07710",
+   "year": "2022"
+  },
+  {
+   "title": "Unsupervised discovery and extraction of semi-structured regions in text via self-information",
+   "authors": "E Yeh, J Niekrasz, D Freitag",
+   "venue": "Proceedings of the 2013 workshop on Automated knowledge base construction …",
+   "year": "2013"
+  },
+  {
+   "title": "A learning-based framework for generating 3D building models from 2D images",
+   "authors": "A Roy, S Kim, M Yin, E Yeh, T Nakabayashi, M Campbell, I Keough, ...",
+   "venue": "2022 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 45-49",
+   "year": "2022"
+  },
+  {
+   "title": "Explaining behavior by autonomous devices",
+   "authors": "CH Yeh, B Adkins, MT Gervasio, KL Myers, R de Salvo Braz",
+   "venue": "US Patent App. 16/222,623",
+   "year": "2020"
+  },
+  {
+   "title": "Discourse-Wide Extraction of Assay Frames from the Biological Literature.",
+   "authors": "D Freitag, P Kalmar, E Yeh",
+   "venue": "BiomedicalNLP@ RANLP, 15-23",
+   "year": "2017"
+  },
+  {
+   "title": "Diagnosis cloud: Sharing knowledge across cellular networks",
+   "authors": "GF Ciocarlie, C ta Corbett, E Yeh, C Connolly, H Sanneck, ...",
+   "venue": "2016 12th International Conference on Network and Service Management (CNSM …",
+   "year": "2016"
+  },
+  {
+   "title": "Prediction and discovery of users’ desktop behavior",
+   "authors": "O Madani, H Bui, E Yeh",
+   "venue": "AAAI Spring Symposium on Human Behavior Modeling",
+   "year": "2009"
+  },
+  {
+   "title": "System and method for identifying portable devices by a web server",
+   "authors": "M Liao, E Yeh, TH Lee",
+   "venue": "US Patent App. 10/235,717",
+   "year": "2004"
+  },
+  {
+   "title": "An Annotated Corpus and Method for Analysis of Ad-Hoc Structures Embedded in Text",
+   "authors": "E Yeh, J Niekrasz, D Freitag, R Rohwer",
+   "venue": "Tenth International Conference on Language Resources and Evaluation (LREC 2016)",
+   "year": "2016"
+  },
+  {
+   "title": "Alarm Prioritization and Diagnosis for Cellular Networks",
+   "authors": "GF Ciocarlie, E Yeh, C Connolly, C Corbett, U Lindqvist, H Sanneck, ...",
+   "venue": "International Conference on Mobile Networks and Management, 28-42",
+   "year": "2015"
+  },
+  {
+   "title": "The 2011 SESAME Multimedia Event Detection (MED) System",
+   "authors": "M Eliot, A Heller, JA Herson, GK Myers, R Nallapati, E Yeh, ...",
+   "venue": "Proceedings of NIST TRECVID, Workshop 28",
+   "year": "2011"
+  },
+  {
+   "title": "CS224N/Ling237 Final Project",
+   "authors": "E Yeh",
+   "venue": "Picking the Fresh from the Rotten: Quote and Sentiment Extraction from …",
+   "year": "2006"
+  },
+  {
+   "title": "MIL-BERT: Classification of Arbitrarily Large Text with Performance and Explanatory Guarantees",
+   "authors": "J Cadigan, D Freitag, E Yeh",
+   "venue": "arXiv preprint arXiv:2608.20636",
+   "year": "2026"
+  },
+  {
+   "title": "Understanding or Imitation? Auditing Conceptual Understanding and Reasoning in Large Language Models",
+   "authors": "MS Hassan, E Jan, R Kaur, E Yeh, F Zaffar, A Gehani",
+   "venue": "Proceedings of the 4th ACM Conference on Reproducibility and Replicability …",
+   "year": "2026"
+  },
+  {
+   "title": "Interpolative Decoding: Exploring the Spectrum of Personality Traits in LLMs",
+   "authors": "E Yeh, J Cadigan, R Chen, D Crouch, M Gervasio, D Freitag",
+   "venue": "arXiv preprint arXiv:2512.19937",
+   "year": "2025"
+  },
+  {
+   "title": "CoProver: A Recommender System",
+   "authors": "E Yeh, B Hitaj, S Owre, M Quemener",
+   "venue": "Intelligent Computer Mathematics: 16th International Conference, CICM 2023 …",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic Measures for Evaluating Generative Design Methods for Architects",
+   "authors": "E Yeh, B Hitaj, V Sadhu, A Roy, T Nakabayashi, Y Tsuji",
+   "venue": "arXiv preprint arXiv:2303.11483",
+   "year": "2023"
+  },
+  {
+   "title": "Revisiting Variable Ordering for Real Quantifier Elimination using Machine Learning",
+   "authors": "J Hester, B Hitaj, G Passmore, S Owre, N Shankar, E Yeh",
+   "venue": "arXiv preprint arXiv:2302.14038",
+   "year": "2023"
+  },
+  {
+   "title": "Machine learning for translation to structured computer readable representation",
+   "authors": "N Shankar, S Graham-Lengrand, D Elenius, CH Yeh",
+   "venue": "US Patent App. 17/094,278",
+   "year": "2021"
+  },
+  {
+   "title": "Late Fusion and Calibration for Multimedia Event Detection Using Few Examples (Author's Manuscript)",
+   "authors": "J Van Hout, E Yeh, DC Koelma, CGM Snoek, C Sun, R Nevatia, J Wong, ...",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "SRIUBC-Core: Multiword Soft Similarity Models for Textual Similarity",
+   "authors": "E Yeh",
+   "venue": "Second Joint Conference on Lexical and Computational Semantics (* SEM …",
+   "year": "2013"
+  },
+  {
+   "title": "Sparse conditional mixture model: late fusion with missing scores for multimedia event detection",
+   "authors": "R Nallapati, E Yeh, G Myers",
+   "venue": "Multimedia Content and Mobile Devices 8667, 41-47",
+   "year": "2013"
+  },
+  {
+   "title": "Stanford-UBC at TAC-KBP",
+   "authors": "E Yeh",
+   "venue": "Theory and Applications of Categories",
+   "year": "2009"
+  },
+  {
+   "title": "A Context-Aware Personal Desktop Assistant (Demo Paper)",
+   "authors": "HH Bui, F Cesari, D Elenius, DN Morley, S Natarajan, S Saadati, E Yeh, ...",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Angler: a collaborative tool for cognitive expansion",
+   "authors": "AC Rodriguez, T Boyce, J Lowrance, E Yeh",
+   "venue": "Proceedings of the 3rd international conference on Knowledge capture, 215-216",
+   "year": "2005"
+  },
+  {
+   "title": "Stanford-UBC Entity Linking at KBP TAC 2010",
+   "authors": "AX CHANG, VI SPITKOVSKY, E YEH, E AGIRRE, CD MANNING",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The 2012 SESAME Multimedia Event Detection (MED) and Multimedia Event Recounting (MER) Systems",
+   "authors": "A Heller, JA Herson, GK Myers, R Nallapati, S Pancoast, J van Hout, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning to Ask the Right Questions",
+   "authors": "M Gervasio, E Yeh, K Myers",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

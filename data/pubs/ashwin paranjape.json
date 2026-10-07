@@ -1,0 +1,155 @@
+{
+ "user": "-ru71hwAAAAJ",
+ "pubs": [
+  {
+   "title": "Lost in the middle: How language models use long contexts",
+   "authors": "NF Liu, K Lin, J Hewitt, A Paranjape, M Bevilacqua, F Petroni, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 12, 157-173",
+   "year": "2024"
+  },
+  {
+   "title": "Motifs in temporal networks",
+   "authors": "A Paranjape, AR Benson, J Leskovec",
+   "venue": "Proceedings of the Tenth ACM International Conference on Web Search and Data …",
+   "year": "2017"
+  },
+  {
+   "title": "Evaluating human-language model interaction",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "Transactions of Machine Learning",
+   "year": "2022"
+  },
+  {
+   "title": "Mining missing hyperlinks from human navigation traces: A case study of wikipedia",
+   "authors": "R West, A Paranjape, J Leskovec",
+   "venue": "Proceedings of the 24th international conference on World Wide Web, 1242-1252",
+   "year": "2015"
+  },
+  {
+   "title": "Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models",
+   "authors": "O Weller, B Van Durme, D Lawrie, A Paranjape, Y Zhang, J Hessel",
+   "venue": "The Thirteenth International Conference on Learning Representations",
+   "year": "2025"
+  },
+  {
+   "title": "Hindsight: Posterior-guided training of retrievers for improved open-ended generation",
+   "authors": "A Paranjape, O Khattab, C Potts, M Zaharia, CD Manning",
+   "venue": "International Conference on Learning Representations 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Neural Generation Meets Real People: Towards Emotionally Engaging Mixed-Initiative Conversations",
+   "authors": "A Paranjape, A See, K Kenealy, H Li, A Hardy, P Qi, KR Sadagopan, ...",
+   "venue": "Alexa Prize Proceedings 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Improving Website Hyperlink Structure Using Server Logs",
+   "authors": "A Paranjape*, R West*, J Leskovec, L Zia",
+   "venue": "Web Search and Data Mining",
+   "year": "2016"
+  },
+  {
+   "title": "Unsupervised word sense disambiguation using markov random field and dependency parser",
+   "authors": "DS Chaplot, P Bhattacharyya, A Paranjape",
+   "venue": "Twenty-Ninth AAAI Conference on Artificial Intelligence",
+   "year": "2015"
+  },
+  {
+   "title": "You Only Need One Model for Open-domain Question Answering",
+   "authors": "H Lee, A Kedia, J Lee, A Paranjape, CD Manning, KG Woo",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Importance sampling for unbiased on-demand evaluation of knowledge base population",
+   "authors": "A Chaganty, A Paranjape, P Liang, CD Manning",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "When can I Speak? Predicting initiation points for spoken dialogue agents",
+   "authors": "S Li, A Paranjape, CD Manning",
+   "venue": "Proceedings of the 23rd Annual Meeting of the Special Interest Group on …",
+   "year": "2022"
+  },
+  {
+   "title": "Stanford at TAC KBP 2016: Sealing Pipeline Leaks and Understanding Chinese.",
+   "authors": "Y Zhang, AT Chaganty, A Paranjape, D Chen, J Bolton, P Qi, CD Manning",
+   "venue": "TAC",
+   "year": "2016"
+  },
+  {
+   "title": "TinkerBell: Cross-lingual Cold-Start Knowledge Base Construction.",
+   "authors": "M Al-Badrashiny, J Bolton, AT Chaganty, K Clark, C Harman, L Huang, ...",
+   "venue": "TAC",
+   "year": "2017"
+  },
+  {
+   "title": "Human-like informative conversations: Better acknowledgements using conditional mutual information",
+   "authors": "A Paranjape, CD Manning",
+   "venue": "North American Chapter of the Association for Computational Linguistics …",
+   "year": "2021"
+  },
+  {
+   "title": "Effective Social Chatbot Strategies for Increasing User Initiative",
+   "authors": "A Hardy, A Paranjape, CD Manning",
+   "venue": "Proceedings of the 22nd Annual Meeting of the Special Interest Group on …",
+   "year": "2021"
+  },
+  {
+   "title": "Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent",
+   "authors": "EA Chi, A Paranjape, A See, C Chiam, K Kenealy, SK Lim, A Hardy, ...",
+   "venue": "Proceedings of the 23rd Annual Meeting of the Special Interest Group on …",
+   "year": "2022"
+  },
+  {
+   "title": "Neural, Neural Everywhere: Controlled Generation Meets Scaffolded, Structured Dialogue",
+   "authors": "EA Chi, C Chiam, T Chang, SK Lim, C Rastogi, A Iyabor, Y He, ...",
+   "venue": "Alexa Prize Proceedings",
+   "year": "2021"
+  },
+  {
+   "title": "Lost in the maze: Overcoming context limitations in long-horizon agentic search",
+   "authors": "H Yen, Y Lee, A Paranjape, M Xia, T Venkatesh, J Hessel, D Chen, ...",
+   "venue": "Third Conference On Language Modelling",
+   "year": "2026"
+  },
+  {
+   "title": "Stanford at TAC KBP 2017: Building a Trilingual Relational Knowledge Graph.",
+   "authors": "AT Chaganty, A Paranjape, J Bolton, M Lamm, J Lei, A See, K Clark, ...",
+   "venue": "TAC",
+   "year": "2017"
+  },
+  {
+   "title": "OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction",
+   "authors": "S Hallinan, T Venkatesh, X Ren, SP Karimireddy, A Paranjape, Y Zhang, ...",
+   "venue": "Proceedings of the ACM Conference on AI and Agentic Systems, 620-638",
+   "year": "2026"
+  },
+  {
+   "title": "Neural Systems for Informative Conversations",
+   "authors": "AP Paranjape",
+   "venue": "Stanford University",
+   "year": "2022"
+  },
+  {
+   "title": "Hindsight: Posterior-guided training of retrievers for improved open-ended generation",
+   "authors": "A Paranjape, O Khattab, C Potts, M Zaharia, CD Manning",
+   "venue": "arXiv preprint arXiv:2110.07752",
+   "year": "2021"
+  },
+  {
+   "title": "Deanonymizing Quora Answers",
+   "authors": "P Jindal, A Paranjape",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Convolutional Networks in Scene Labelling",
+   "authors": "A Paranjape, A Mudassir",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,2393 @@
+{
+ "user": "ux4g1AgAAAAJ",
+ "pubs": [
+  {
+   "title": "Effective neural network training with adaptive learning rate based on training loss",
+   "authors": "T Takase, S Oyama, M Kurihara",
+   "venue": "Neural Networks 101, 68-78",
+   "year": "2018"
+  },
+  {
+   "title": "Domain-specific web search with keyword spices",
+   "authors": "S Oyama, T Kokubo, T Ishida",
+   "venue": "IEEE Transactions on knowledge and data engineering 16 (1), 17-27",
+   "year": "2004"
+  },
+  {
+   "title": "Accurate Integration of Crowdsourced Labels Using Workers' Self-reported Confidence Scores.",
+   "authors": "S Oyama, Y Baba, Y Sakurai, H Kashima",
+   "venue": "IJCAI, 2554-2560",
+   "year": "2013"
+  },
+  {
+   "title": "Trustworthiness analysis of web search results",
+   "authors": "S Nakamura, S Konishi, A Jatowt, H Ohshima, H Kondo, T Tezuka, ...",
+   "venue": "International Conference on Theory and Practice of Digital Libraries, 38-49",
+   "year": "2007"
+  },
+  {
+   "title": "Analysis and improvement of hits algorithm for detecting web communities",
+   "authors": "S Nomura, S Oyama, T Hayamizu, T Ishida",
+   "venue": "Systems and Computers in Japan 35 (13), 32-42",
+   "year": "2004"
+  },
+  {
+   "title": "Assessment of tweet credibility with LDA features",
+   "authors": "J Ito, J Song, H Toda, Y Koike, S Oyama",
+   "venue": "Proceedings of the 24th international conference on world wide web, 953-958",
+   "year": "2015"
+  },
+  {
+   "title": "Using feature conjunctions across examples for learning pairwise classifiers",
+   "authors": "S Oyama, CD Manning",
+   "venue": "European Conference on Machine Learning, 322-333",
+   "year": "2004"
+  },
+  {
+   "title": "Fine-tuning deep convolutional neural networks for distinguishing illustrations from photographs",
+   "authors": "G Gando, T Yamada, H Sato, S Oyama, M Kurihara",
+   "venue": "Expert Systems with Applications 66, 295-301",
+   "year": "2016"
+  },
+  {
+   "title": "Separate or joint? Estimation of multiple labels from crowdsourced annotations",
+   "authors": "L Duan, S Oyama, H Sato, M Kurihara",
+   "venue": "Expert Systems with Applications 41 (13), 5723-5732",
+   "year": "2014"
+  },
+  {
+   "title": "Cross-temporal link prediction",
+   "authors": "S Oyama, K Hayashi, H Kashima",
+   "venue": "2011 IEEE 11th International Conference on Data Mining, 1188-1193",
+   "year": "2011"
+  },
+  {
+   "title": "Semi-supervised learning from crowds using deep generative models",
+   "authors": "K Atarashi, S Oyama, M Kurihara",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 32 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "Supporting analysis of future-related information in news archives and the web",
+   "authors": "A Jatowt, K Kanazawa, S Oyama, K Tanaka",
+   "venue": "Proceedings of the 9th ACM/IEEE-CS joint conference on Digital libraries …",
+   "year": "2009"
+  },
+  {
+   "title": "Searching coordinate terms with their context from the web",
+   "authors": "H Ohshima, S Oyama, K Tanaka",
+   "venue": "International Conference on Web Information Systems Engineering, 40-47",
+   "year": "2006"
+  },
+  {
+   "title": "Keyword spices: A new method for building domain-specific web search engines",
+   "authors": "S Oyama, T Kokubo, T Ishida, T Yamada, Y Kitamura",
+   "venue": "International Joint Conference on Artificial Intelligence 17 (1), 1457-1466",
+   "year": "2001"
+  },
+  {
+   "title": "Query by analogical example: relational search using web search engine indices",
+   "authors": "MP Kato, H Ohshima, S Oyama, K Tanaka",
+   "venue": "Proceedings of the 18th ACM conference on Information and knowledge …",
+   "year": "2009"
+  },
+  {
+   "title": "Affect analysis in context of characters in narratives",
+   "authors": "M Ptaszynski, H Dokoshi, S Oyama, R Rzepka, M Kurihara, K Araki, ...",
+   "venue": "Expert Systems with Applications 40 (1), 168-176",
+   "year": "2013"
+  },
+  {
+   "title": "On pairwise kernels: An efficient alternative and generalization analysis",
+   "authors": "H Kashima, S Oyama, Y Yamanishi, K Tsuda",
+   "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 1030-1037",
+   "year": "2009"
+  },
+  {
+   "title": "Can social tagging improve web image search?",
+   "authors": "M Kato, H Ohshima, S Oyama, K Tanaka",
+   "venue": "International Conference on Web Information Systems Engineering, 235-249",
+   "year": "2008"
+  },
+  {
+   "title": "Generating natural counterfactual visual explanations",
+   "authors": "W Zhao, S Oyama, M Kurihara",
+   "venue": "Proceedings of the Twenty-Ninth International Conference on International …",
+   "year": "2021"
+  },
+  {
+   "title": "Bayesian probabilistic tensor factorization for recommendation and rating aggregation with multicriteria evaluation data",
+   "authors": "H Morise, S Oyama, M Kurihara",
+   "venue": "Expert Systems with Applications 131, 1-8",
+   "year": "2019"
+  },
+  {
+   "title": "Evaluating significance of historical entities based on tempo-spatial impacts analysis using wikipedia link structure",
+   "authors": "Y Takahashi, H Ohshima, M Yamamoto, H Iwasaki, S Oyama, K Tanaka",
+   "venue": "Proceedings of the 22nd ACM conference on Hypertext and hypermedia, 83-92",
+   "year": "2011"
+  },
+  {
+   "title": "Query modification by discovering topics from web page structures",
+   "authors": "S Oyama, K Tanaka",
+   "venue": "Asia-Pacific Web Conference, 553-564",
+   "year": "2004"
+  },
+  {
+   "title": "Transfer learning based on the observation probability of each attribute",
+   "authors": "M Suzuki, H Sato, S Oyama, M Kurihara",
+   "venue": "2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC …",
+   "year": "2014"
+  },
+  {
+   "title": "Neural collaborative filtering with multicriteria evaluation data",
+   "authors": "H Morise, K Atarashi, S Oyama, M Kurihara",
+   "venue": "Applied Soft Computing 119, 108548",
+   "year": "2022"
+  },
+  {
+   "title": "Mining the web for hyponymy relations based on property inheritance",
+   "authors": "S Hattori, H Ohshima, S Oyama, K Tanaka",
+   "venue": "Asia-Pacific Web Conference, 99-110",
+   "year": "2008"
+  },
+  {
+   "title": "Asymmetric kernel learning",
+   "authors": "W Wu, J Xu, H Li, S Oyama",
+   "venue": "Technical Report, Microsoft Research",
+   "year": "2010"
+  },
+  {
+   "title": "Assisting pictogram selection with semantic interpretation",
+   "authors": "H Cho, T Ishida, T Takasaki, S Oyama",
+   "venue": "European Semantic Web Conference, 65-79",
+   "year": "2008"
+  },
+  {
+   "title": "Web 検索エンジンのインデックスを用いた同位語とそのコンテキストの発見",
+   "authors": "大島",
+   "venue": "情報処理学会論文誌データベース (TOD) 47 (SIG19 (TOD32)), 98-112",
+   "year": "2006"
+  },
+  {
+   "title": "Context-dependent web bookmarks and their usage as queries",
+   "authors": "S Nakajima, S Oyama, K Sumiya, K Tanaka",
+   "venue": "Proceedings of the Third International Conference on Web Information Systems …",
+   "year": "2002"
+  },
+  {
+   "title": "Factorization machines with regularization for sparse feature interactions",
+   "authors": "K Atarashi, S Oyama, M Kurihara",
+   "venue": "Journal of Machine Learning Research 22 (153), 1-50",
+   "year": "2021"
+  },
+  {
+   "title": "Creating personal histories from the Web using namesake disambiguation and event extraction",
+   "authors": "R Kimura, S Oyama, H Toda, K Tanaka",
+   "venue": "International Conference on Web Engineering, 400-414",
+   "year": "2007"
+  },
+  {
+   "title": "Why does large batch training result in poor generalization? A comprehensive explanation and a better strategy from the viewpoint of stochastic optimization",
+   "authors": "T Takase, S Oyama, M Kurihara",
+   "venue": "Neural computation 30 (7), 2005-2023",
+   "year": "2018"
+  },
+  {
+   "title": "OS-07 「ヒューマンコンピュテーションとクラウドソーシング」",
+   "authors": "鹿島久嗣， 櫻井祐子， 松原繁夫",
+   "venue": "人工知能学会誌 28 (6)",
+   "year": "2013"
+  },
+  {
+   "title": "Explainable recommendation using review text and a knowledge graph",
+   "authors": "T Suzuki, S Oyama, M Kurihara",
+   "venue": "2019 IEEE International Conference on Big Data (Big Data), 4638-4643",
+   "year": "2019"
+  },
+  {
+   "title": "A deep neural network for pairwise classification: Enabling feature conjunctions and ensuring symmetry",
+   "authors": "K Atarashi, S Oyama, M Kurihara, K Furudo",
+   "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 83-95",
+   "year": "2017"
+  },
+  {
+   "title": "Cartesian kernel: an efficient alternative to the pairwise kernel",
+   "authors": "H Kashima, S Oyama, Y Yamanishi, K Tsuda",
+   "venue": "IEICE TRANSACTIONS on Information and Systems 93 (10), 2672-2679",
+   "year": "2010"
+  },
+  {
+   "title": "Improving web retrieval precision based on semantic relationships and proximity of query keywords",
+   "authors": "C Tian, T Tezuka, S Oyama, K Tajima, K Tanaka",
+   "venue": "International Conference on Database and Expert Systems Applications, 54-63",
+   "year": "2006"
+  },
+  {
+   "title": "Tell cause from effect: models and evaluation",
+   "authors": "J Song, S Oyama, M Kurihara",
+   "venue": "International Journal of Data Science and Analytics 4 (2), 99-112",
+   "year": "2017"
+  },
+  {
+   "title": "Web-Age Information Management: 12th International Conference, WAIM 2011, Wuhan, China, September 14-16, 2011, Proceedings",
+   "authors": "H Wang, S Li, S Oyama, X Hu, T Qian",
+   "venue": "Springer Science & Business Media",
+   "year": "2011"
+  },
+  {
+   "title": "Exploiting Document Structures for Comparing and Exploring Topics on the Web.",
+   "authors": "S Oyama, K Tanaka",
+   "venue": "WWW (Posters)",
+   "year": "2003"
+  },
+  {
+   "title": "Trustworthy human computation: a survey: H. Kashima et al.",
+   "authors": "H Kashima, S Oyama, H Arai, J Mori",
+   "venue": "Artificial Intelligence Review 57 (12), 322",
+   "year": "2024"
+  },
+  {
+   "title": "Crowdsourced Semantic Matching of Multi-Label Annotations.",
+   "authors": "L Duan, S Oyama, M Kurihara, H Sato",
+   "venue": "IJCAI, 3483-3489",
+   "year": "2015"
+  },
+  {
+   "title": "検索隠し味を用いた専門検索エンジンの構築",
+   "authors": "小久保",
+   "venue": "情報処理学会論文誌 43 (6), 1804-1813",
+   "year": "2002"
+  },
+  {
+   "title": "Cooperative information agents for digital cities",
+   "authors": "S Oyama, K Hiramatsu, T Ishida",
+   "venue": "International Journal of Cooperative Information Systems 10 (01n02), 197-215",
+   "year": "2001"
+  },
+  {
+   "title": "A framework for recommendation algorithms using knowledge graph and random walk methods",
+   "authors": "T Suzuki, S Oyama, M Kurihara",
+   "venue": "2020 IEEE International Conference on Big Data (Big Data), 3085-3087",
+   "year": "2020"
+  },
+  {
+   "title": "Learning an accurate entity resolution model from crowdsourced labels",
+   "authors": "J Wang, S Oyama, M Kurihara, H Kashima",
+   "venue": "Proceedings of the 8th International Conference on Ubiquitous Information …",
+   "year": "2014"
+  },
+  {
+   "title": "Classification of twitter users based on following relations",
+   "authors": "T Yamashita, H Sato, S Oyama, M Kurihara",
+   "venue": "Proceedings of the International MultiConference of Engineers and Computer …",
+   "year": "2013"
+  },
+  {
+   "title": "Learning a robust relevance model for search using kernel methods",
+   "authors": "W Wu, J Xu, H Li, S Oyama",
+   "venue": "The Journal of Machine Learning Research 12, 1429-1458",
+   "year": "2011"
+  },
+  {
+   "title": "Exracting Explicit and Implicit future-related information from the Web (O)",
+   "authors": "K Kanazawa, A Jatowt, S Oyama, K Tanaka",
+   "venue": "DEIM Forum, A9-1",
+   "year": "2010"
+  },
+  {
+   "title": "Toward explainable recommendations: Generating review text from multicriteria evaluation data",
+   "authors": "T Suzuki, S Oyama, M Kurihara",
+   "venue": "2018 IEEE International Conference on Big Data (Big Data), 3549-3551",
+   "year": "2018"
+  },
+  {
+   "title": "Extraction and geographical navigation of important historical events in the web",
+   "authors": "M Yamamoto, Y Takahashi, H Iwasaki, S Oyama, H Ohshima, K Tanaka",
+   "venue": "International Symposium on Web and Wireless Geographical Information Systems …",
+   "year": "2011"
+  },
+  {
+   "title": "Identification of time-varying objects on the web",
+   "authors": "S Oyama, K Shirasuna, K Tanaka",
+   "venue": "Proceedings of the 8th ACM/IEEE-CS joint conference on Digital libraries …",
+   "year": "2008"
+  },
+  {
+   "title": "Web search improvement based on proximity and density of miltiple keywords",
+   "authors": "C Tian, T Tezuka, S Oyama, K Tajima, K Tanaka",
+   "venue": "22nd International Conference on Data Engineering Workshops (ICDEW'06), x133 …",
+   "year": "2006"
+  },
+  {
+   "title": "Does metacognitive prompting improve causal inference in large language models?",
+   "authors": "R Ohtani, Y Sakurai, S Oyama",
+   "venue": "2024 IEEE Conference on Artificial Intelligence (CAI), 458-459",
+   "year": "2024"
+  },
+  {
+   "title": "Implementation and evaluation of information set Monte Carlo Tree Search for Pokémon",
+   "authors": "H Ihara, S Imai, S Oyama, M Kurihara",
+   "venue": "2018 IEEE international conference on systems, man, and cybernetics (SMC …",
+   "year": "2018"
+  },
+  {
+   "title": "Twitter における発話者へのリプライを用いたユーザ感情推定手法",
+   "authors": "堀宮ありさ， 坂野遼平， 佐藤晴彦， 小山聡， 栗原正仁， 沼澤政信",
+   "venue": "DEIM Forum",
+   "year": "2012"
+  },
+  {
+   "title": "Assisting pictogram selection with categorized semantics",
+   "authors": "H Cho, T Ishida, S Oyama, R Inaba, T Takasaki",
+   "venue": "IEICE TRANSACTIONS on Information and Systems 91 (11), 2638-2646",
+   "year": "2008"
+  },
+  {
+   "title": "ReCQ: Real-world context-aware querying",
+   "authors": "S Hattori, T Tezuka, H Ohshima, S Oyama, J Kawamoto, K Tajima, ...",
+   "venue": "International and Interdisciplinary Conference on Modeling and Using Context …",
+   "year": "2007"
+  },
+  {
+   "title": "Context matcher: improved web search using query term context in source document and in search results",
+   "authors": "T Kawashige, S Oyama, H Ohshima, K Tanaka",
+   "venue": "Asia-Pacific Web Conference, 486-497",
+   "year": "2006"
+  },
+  {
+   "title": "WEB コミュニティ発見のための HITS アルゴリズムの分析と改善",
+   "authors": "野村早恵子， 小山聡， 早水哲雄， 石田亨",
+   "venue": "電子情報通信学会論文誌 D 85 (8), 741-750",
+   "year": "2002"
+  },
+  {
+   "title": "Deep false-name-proof auction mechanisms",
+   "authors": "Y Sakurai, S Oyama, M Guo, M Yokoo",
+   "venue": "International Conference on Principles and Practice of Multi-Agent Systems …",
+   "year": "2019"
+  },
+  {
+   "title": "Random feature maps for the itemset kernel",
+   "authors": "K Atarashi, S Maji, S Oyama",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 3199-3206",
+   "year": "2019"
+  },
+  {
+   "title": "Evaluation of stratified validation in neural network training with imbalanced data",
+   "authors": "T Takase, S Oyama, M Kurihara",
+   "venue": "2019 IEEE International Conference on Big Data and Smart Computing (BigComp …",
+   "year": "2019"
+  },
+  {
+   "title": "Data analysis competition platform for educational purposes: lessons learned and future challenges",
+   "authors": "Y Baba, T Takase, K Atarashi, S Oyama, H Kashima",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 32 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "Collaborative filtering and rating aggregation based on multicriteria rating",
+   "authors": "H Morise, S Oyama, M Kurihara",
+   "venue": "2017 IEEE International Conference on Big Data (Big Data), 4417-4422",
+   "year": "2017"
+  },
+  {
+   "title": "Image classification by transfer learning based on the predictive ability of each attribute",
+   "authors": "M Suzuki, H Sato, S Oyama, M Kurihara",
+   "venue": "Proceedings of the International MultiConference of Engineers and Computer …",
+   "year": "2014"
+  },
+  {
+   "title": "Web の構造情報とプロファイル抽出を用いたオブジェクト識別",
+   "authors": "白砂健一， 小山聡， 田島敬史， 田中克己",
+   "venue": "第 17 回データ工学ワークショップ (DEWS2006) 論文集, 2C-i7",
+   "year": "2006"
+  },
+  {
+   "title": "Influence of AI’s uncertainty in the Dawid-Skene aggregation for human-AI crowdsourcing",
+   "authors": "T Tamura, H Ito, S Oyama, A Morishima",
+   "venue": "International Conference on Information, 232-247",
+   "year": "2024"
+  },
+  {
+   "title": "Crowdsourcing chart digitizer: task design and quality control for making legacy open data machine-readable",
+   "authors": "S Oyama, Y Baba, I Ohmukai, H Dokoshi, H Kashima",
+   "venue": "International Journal of Data Science and Analytics 2 (1), 45-60",
+   "year": "2016"
+  },
+  {
+   "title": "Evaluating brand value on the Web",
+   "authors": "T Kobayashi, H Ohshima, S Oyama, K Tanaka",
+   "venue": "Proceedings of the 3rd workshop on Information credibility on the web, 67-74",
+   "year": "2009"
+  },
+  {
+   "title": "質問応答コンテンツに対する Web による回答補完",
+   "authors": "高田夏希， 山本裕補， 小山聡， 田中克己",
+   "venue": "DEIM Forum, C4-6",
+   "year": "2009"
+  },
+  {
+   "title": "Unsupervised discovery of coordinate terms for multiple aspects from search engine query logs",
+   "authors": "M Yamaguchi, H Ohshima, S Oyama, K Tanaka",
+   "venue": "2008 IEEE/WIC/ACM International Conference on Web Intelligence and …",
+   "year": "2008"
+  },
+  {
+   "title": "Learning a distance metric for object identification without human supervision",
+   "authors": "S Oyama, K Tanaka",
+   "venue": "European Conference on Principles of Data Mining and Knowledge Discovery …",
+   "year": "2006"
+  },
+  {
+   "title": "Web search using the hierarchical structure of topics",
+   "authors": "S Oyama, K Tanaka",
+   "venue": "Technical Report, IPSJ SIGDBS Technical Report 2002 (67), 465-472",
+   "year": "2002"
+  },
+  {
+   "title": "Pairwise classification using quantum support vector machine with Kronecker kernel",
+   "authors": "T Nohara, S Oyama, I Noda",
+   "venue": "Quantum Machine Intelligence 4 (2), 22",
+   "year": "2022"
+  },
+  {
+   "title": "User-adaptive preparation of mathematical puzzles using item response theory and deep learning",
+   "authors": "R Sekiya, S Oyama, M Kurihara",
+   "venue": "International Conference on Industrial, Engineering and Other Applications …",
+   "year": "2019"
+  },
+  {
+   "title": "From one star to three stars: Upgrading legacy open data using crowdsourcing",
+   "authors": "S Oyama, Y Baba, I Ohmukai, H Dokoshi, H Kashima",
+   "venue": "2015 IEEE International Conference on Data Science and Advanced Analytics …",
+   "year": "2015"
+  },
+  {
+   "title": "Monophonic sound source separation by non-negative sparse autoencoders",
+   "authors": "K Zen, M Suzuki, H Sato, S Oyama, M Kurihara",
+   "venue": "2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC …",
+   "year": "2014"
+  },
+  {
+   "title": "Link prediction across time via cross-temporal locality preserving projections",
+   "authors": "S Oyama, K Hayashi, H Kashima",
+   "venue": "IEICE TRANSACTIONS on Information and Systems 95 (11), 2664-2673",
+   "year": "2012"
+  },
+  {
+   "title": "Incremental set recommendation based on class differences",
+   "authors": "Y Shirai, K Tsuruma, Y Sakurai, S Oyama, S Minato",
+   "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 183-194",
+   "year": "2012"
+  },
+  {
+   "title": "Search as if you were in your home town: geographic search by regional context and dynamic feature-space selection",
+   "authors": "MP Kato, H Ohshima, S Oyama, K Tanaka",
+   "venue": "Proceedings of the 19th ACM international conference on Information and …",
+   "year": "2010"
+  },
+  {
+   "title": "Towards improving web search: A large-scale exploratory study of selected aspects of user search behavior",
+   "authors": "H Ohshima, A Jatowt, S Oyama, S Nakamura, K Tanaka",
+   "venue": "International Conference on Web Information Systems Engineering, 379-386",
+   "year": "2009"
+  },
+  {
+   "title": "Web 検索結果におけるキーワード出現相関の可視化と対話的な質問変換",
+   "authors": "吉田大我， 小山聡， 中村聡史， 田中克己",
+   "venue": "電子情報通信学会第 18 回データ工学ワークショップ (DEWS2007)",
+   "year": "2007"
+  },
+  {
+   "title": "Sibling page search by page examples",
+   "authors": "H Ohshima, S Oyama, K Tanaka",
+   "venue": "International Conference on Asian Digital Libraries, 91-100",
+   "year": "2006"
+  },
+  {
+   "title": "Complementary information for email messages using context",
+   "authors": "T Kawashige, H Ohshima, S Oyama, K Tajima, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 106 (150), 7-12",
+   "year": "2006"
+  },
+  {
+   "title": "主題語からの話題語自動抽出とこれに基づく Web 情報検索",
+   "authors": "野田武史， 大島裕明， 小山聡， 田島敬史， 田中克己",
+   "venue": "DBSJ Letters 5 (2)",
+   "year": "2006"
+  },
+  {
+   "title": "レビューページ例からの属性抽出に基づくレビューページ検索",
+   "authors": "赤木法生， 大島裕明， 小山聡， 田島敬史， 田中克己",
+   "venue": "電子情報通信学会 第 17 回データ工学ワークショップ (DEWS2006) 論文集, 2C-i10",
+   "year": "2006"
+  },
+  {
+   "title": "An incremental self-organizing neural network based on enhanced competitive Hebbian learning",
+   "authors": "H Liu, M Kurihara, S Oyama, H Sato",
+   "venue": "The 2013 International Joint Conference on Neural Networks (IJCNN), 1-8",
+   "year": "2013"
+  },
+  {
+   "title": "Landmark FN-DBSCAN: an efficient density-based clustering algorithm with Fuzzy neighborhood",
+   "authors": "H Liu, S Oyama, M Kurihara, H Sato",
+   "venue": "Journal of Advanced Computational Intelligence Vol 17 (1)",
+   "year": "2013"
+  },
+  {
+   "title": "Cloud as virtual databases: Bridging private databases and web services",
+   "authors": "H Ohshima, S Oyama, K Tanaka",
+   "venue": "International Conference on Database Systems for Advanced Applications, 491-497",
+   "year": "2010"
+  },
+  {
+   "title": "Web テキストと修飾表現との適合度判定手法",
+   "authors": "高橋良平， 小山聡， 大島裕明， 田中克己",
+   "venue": "DEIM Forum 2010",
+   "year": "2010"
+  },
+  {
+   "title": "Query transformation by visualizing and utilizing information about what users are or are not searching",
+   "authors": "T Yoshida, S Nakamura, S Oyama, K Tanaka",
+   "venue": "International Conference on Asian Digital Libraries, 124-133",
+   "year": "2008"
+  },
+  {
+   "title": "Visualizing changes in coordinate terms over time: an example of mining repositories of temporal data through their search interfaces",
+   "authors": "H Ohshima, A Jatowt, S Oyama, K Tanaka",
+   "venue": "2008 International Workshop on Information-Explosion and Next Generation …",
+   "year": "2008"
+  },
+  {
+   "title": "Web information retrieval by extraction of topic terms from subject terms",
+   "authors": "T Noda, H Ohshima, S Oyama, K Tajima, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 106 (149), 239-244",
+   "year": "2006"
+  },
+  {
+   "title": "サーチエンジンのクエリログを利用した同位語の発見",
+   "authors": "山口雅史， 大島裕明， 小山聡， 田中克己",
+   "venue": "DBSJ Letters 5 (2), 1-4",
+   "year": "2006"
+  },
+  {
+   "title": "時系列データに意味的に関連するニューストピックの発見",
+   "authors": "張一萌， 何書勉， 小山聡， 田島敬史， 田中克己",
+   "venue": "日本データベース学会 Letters 5 (1), 133-136",
+   "year": "2006"
+  },
+  {
+   "title": "Web search personalization based on semantic relationships between terms extracted from personal documents",
+   "authors": "H OSHIMA, S KOYAMA, K Tanaka",
+   "venue": "電子情報通信学会技術研究報告 105 (171 (DE2005 30-64)), 83-88",
+   "year": "2005"
+  },
+  {
+   "title": "質問の階層的構造化を用いた Web 検索手法の提案",
+   "authors": "小山聡， 田中克己",
+   "venue": "DBSJ Letters 1 (1)",
+   "year": "2002"
+  },
+  {
+   "title": "Adapting the learning rate of the learning rate in hypergradient descent",
+   "authors": "K Itakura, K Atarashi, S Oyama, M Kurihara",
+   "venue": "2020 Joint 11th International Conference on Soft Computing and Intelligent …",
+   "year": "2020"
+  },
+  {
+   "title": "Link prediction using higher-order feature combinations across objects",
+   "authors": "K Atarashi, S Oyama, M Kurihara",
+   "venue": "IEICE TRANSACTIONS on Information and Systems 103 (8), 1833-1842",
+   "year": "2020"
+  },
+  {
+   "title": "A framework for crowd-based causal analysis of open data",
+   "authors": "J Song, S Oyama, M Kurihara",
+   "venue": "2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC …",
+   "year": "2018"
+  },
+  {
+   "title": "Multi-emotion estimation in narratives from crowdsourced annotations",
+   "authors": "L Duan, S Oyama, H Sato, M Kurihara",
+   "venue": "Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries …",
+   "year": "2015"
+  },
+  {
+   "title": "A preference search system using an interactive genetic algorithm",
+   "authors": "T Katanosaka, H Sato, S Oyama, M Kurihara",
+   "venue": "Proceedings of The International MultiConference of Engineers and Computer …",
+   "year": "2013"
+  },
+  {
+   "title": "投稿型レシピサイトにおけるレシピ名の修飾表現の適合性判定手法",
+   "authors": "高橋良平， 小山聡， 大島裕明， 田中克己",
+   "venue": "電子情報通信学会論文誌 A 94 (7), 467-475",
+   "year": "2011"
+  },
+  {
+   "title": "Evaluating truthfulness of modifiers attached to web entity names",
+   "authors": "R Takahashi, S Oyama, H Ohshima, K Tanaka",
+   "venue": "International Conference on Web-Age Information Management, 429-440",
+   "year": "2010"
+  },
+  {
+   "title": "Quality estimation of local contents based on PageRank values of Web pages",
+   "authors": "Y Kabutoya, T Yumoto, S Oyama, K Tajima, K Tanaka",
+   "venue": "22nd International Conference on Data Engineering Workshops (ICDEW'06), x134 …",
+   "year": "2006"
+  },
+  {
+   "title": "Web 検索結果のクラスタリングに用いる話題語の質問キーワードからの自動抽出",
+   "authors": "野田武史， 大島裕明， 手塚太郎， 小山聡， 田中克己",
+   "venue": "電子情報通信学会 第 18 回データ工学ワークショップ (DEWS2006), 2C-i8",
+   "year": "2006"
+  },
+  {
+   "title": "質問修正と再ランキングを用いた文脈依存 Web 検索",
+   "authors": "河重貴洋， 小山聡， 大島裕明， 田中克己",
+   "venue": "電子情報通信学会, 第 17 回データ工学ワークショップ (DEWS 2006), 3C-i14",
+   "year": "2006"
+  },
+  {
+   "title": "グループ型 Web 閲覧による探索アクティビティ情報の共有と利用",
+   "authors": "伊豆陸， 中島伸介， 小山聡， 角谷和俊， 田中克己",
+   "venue": "第 14 回データ工学ワークショップ (DEWS2003)",
+   "year": "2003"
+  },
+  {
+   "title": "Query refinement for domain-specific web search",
+   "authors": "S Oyama",
+   "venue": "Ph. D. Thesis, Kyoto University",
+   "year": "2002"
+  },
+  {
+   "title": "Box-Constrained Softmax Function and Its Application for Post-Hoc Calibration",
+   "authors": "K Atarashi, S Oyama, H Arai, H Kashima",
+   "venue": "arXiv e-prints, arXiv: 2506.10572",
+   "year": "2025"
+  },
+  {
+   "title": "Identification of possible common causes by intrinsic dimension estimation",
+   "authors": "J Song, S Oyama, M Kurihara",
+   "venue": "2019 IEEE International Conference on Big Data and Smart Computing (BigComp …",
+   "year": "2019"
+  },
+  {
+   "title": "Evaluation of causal discovery models in bivariate case using real world data",
+   "authors": "J Song, S Oyama, H Sato, M Kurihara",
+   "venue": "Proceedings of the International MultiConference of Engineers and Computer …",
+   "year": "2016"
+  },
+  {
+   "title": "Flexible reward plans for crowdsourced tasks",
+   "authors": "Y Sakurai, M Shinoda, S Oyama, M Yokoo",
+   "venue": "International Conference on Principles and Practice of Multi-Agent Systems …",
+   "year": "2015"
+  },
+  {
+   "title": "EM-based inference of true labels using confidence judgments",
+   "authors": "S Oyama, Y Baba, Y Sakurai, H Kashima",
+   "venue": "Proceedings of the AAAI Conference on Human Computation and Crowdsourcing 1 …",
+   "year": "2013"
+  },
+  {
+   "title": "クラウドソーシングにおけるワーカーの確信度を用いた高精度なラベル統合",
+   "authors": "小山聡， 馬場雪乃， 櫻井祐子， 鹿島久嗣",
+   "venue": "人工知能学会全国大会論文集 第 27 回 (2013), 2M5OS07b2-2M5OS07b2",
+   "year": "2013"
+  },
+  {
+   "title": "Query by example for geographic entity search with implicit negative feedback",
+   "authors": "MP Kato, S Oyama, O Hiroaki, K Tanaka",
+   "venue": "Proceedings of the 4th International Conference on Uniquitous Information …",
+   "year": "2010"
+  },
+  {
+   "title": "Distance metric learning from cannot-be-linked example pairs, with application to name disambiguation",
+   "authors": "S Oyama, K Tanaka",
+   "venue": "In Constrained Clustering: Advances in Algorithms, Theory, and Applications …",
+   "year": "2008"
+  },
+  {
+   "title": "How Many Objects?: Determining the Number of Clusters with a Skewed Distribution.",
+   "authors": "S Oyama, K Tanaka",
+   "venue": "ECAI, 771-772",
+   "year": "2008"
+  },
+  {
+   "title": "レビュアーの生活圏の特定に基づく CGM 評判情報評価",
+   "authors": "小林卓弥， 大島裕明， 小山聡",
+   "venue": "情報処理学会研究報告= IPSJ SIG technical reports 2007 (65), 211-216",
+   "year": "2007"
+  },
+  {
+   "title": "Discovering Coordinate Terms with Their Contexts Using Web Search Engine Index",
+   "authors": "H Ohshima, S Oyama, K Tanaka",
+   "venue": "Transactions of Information Processing Society of Japan (TOD) 47 (SIGI9), 98-112",
+   "year": "2006"
+  },
+  {
+   "title": "質問キーワードの意味的関連と近接性に着目したウェブ検索の精度改善",
+   "authors": "田馳， 手塚太郎， 小山聡， 田島敬史， 田中克己",
+   "venue": "電子情報通信学会第 17 回データ工学ワークショップ (DEWS2006)",
+   "year": "2006"
+  },
+  {
+   "title": "Applying association rules to information navigation",
+   "authors": "S Oyama, T Ishida",
+   "venue": "Systems and Computers in Japan 34 (4), 12-20",
+   "year": "2003"
+  },
+  {
+   "title": "Web search using hierarchical structuring of queries",
+   "authors": "S Oyama, K Tanaka",
+   "venue": "DBSJ Letters 1 (1), 63-66",
+   "year": "2002"
+  },
+  {
+   "title": "ユーザ間の対話からのユーザプロファイル抽出と動的情報探索",
+   "authors": "田中貴志， 小山聡， 角谷和俊， 田中克己",
+   "venue": "The Institute of Electronics, Information and Communication Engineers 102 …",
+   "year": "2002"
+  },
+  {
+   "title": "マルチメディア・メタサーチのための質問変換と検索結果の統合",
+   "authors": "桑原昭裕， 小山聡， 角谷和俊， 田中克己",
+   "venue": "DBSJ Letters 2 (1)",
+   "year": "2002"
+  },
+  {
+   "title": "情報ナビゲーションへの連想ルールの適用",
+   "authors": "小山聡， 石田亨",
+   "venue": "電子情報通信学会論文誌 D 84 (8), 1266-1274",
+   "year": "2001"
+  },
+  {
+   "title": "Neural double auction mechanism",
+   "authors": "T Suehara, K Takeuchi, H Kashima, S Oyama, Y Sakurai, M Yokoo",
+   "venue": "International Conference on Advanced Data Mining and Applications, 192-199",
+   "year": "2025"
+  },
+  {
+   "title": "A case of refractory cholestatic drug-induced liver injury caused by amoxicillin/clavulanate effectively treated with phenobarbital",
+   "authors": "Y Matsuzaki, T Miyamoto, I Kikuchi, A IMAI, K MATSUMOTO, S OYAMA, ...",
+   "venue": "Kanzo. 65, 433-9",
+   "year": "2024"
+  },
+  {
+   "title": "Simulation-based exploration for aggregation algorithms in human+ ai crowd: What factors should we consider for better results",
+   "authors": "T Tamura, H Ito, S Oyama, A Morishima",
+   "venue": "AAAI HCOMP",
+   "year": "2024"
+  },
+  {
+   "title": "Explainable recommendation using knowledge graphs and random walks",
+   "authors": "K Muto, S Oyama, I Noda",
+   "venue": "2022 IEEE International Conference on Big Data (Big Data), 4028-4032",
+   "year": "2022"
+  },
+  {
+   "title": "Coalitional game theoretic federated learning",
+   "authors": "M Ota, Y Sakurai, S Oyama",
+   "venue": "2022 IEEE/WIC/ACM International Joint Conference on Web Intelligence and …",
+   "year": "2022"
+  },
+  {
+   "title": "Adaptive rotation forests: Decision tree ensembles for sequential learning",
+   "authors": "Y Sugawara, S Oyama, M Kurihara",
+   "venue": "2021 IEEE international conference on systems, Man, and Cybernetics (SMC …",
+   "year": "2021"
+  },
+  {
+   "title": "Exploratory Causal Analysis of Open Data: Explanation Generation and Confounder Identification",
+   "authors": "J Song, S Oyama, M Kurihara",
+   "venue": "Journal of Advanced Computational Intelligence and Intelligent Informatics …",
+   "year": "2020"
+  },
+  {
+   "title": "Aggregating crowd opinions using shapley value regression",
+   "authors": "Y Sakurai, J Kawahara, S Oyama",
+   "venue": "International Conference on Multi-disciplinary Trends in Artificial …",
+   "year": "2018"
+  },
+  {
+   "title": "片手親指特性に基づくフリック入力手法を用いたソフトウェアキーボード",
+   "authors": "渡部博紀， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "FIT2015 (第 14 回情報科学技術フォーラム), 379-380",
+   "year": "2015"
+  },
+  {
+   "title": "Analysis using popularity awareness index, Recency index and purchase diversity in group buying",
+   "authors": "Y Shirai, H Morita, M Nakamoto, S Oyama",
+   "venue": "Industrial Conference on Data Mining, 100-114",
+   "year": "2014"
+  },
+  {
+   "title": "特集 「ヒューマンコンピュテーションとクラウドソーシング」 にあたって (< 特集> ヒューマンコンピュテーションとクラウドソーシング)",
+   "authors": "小山聡， 鹿島久嗣， 櫻井祐子， 松原繁夫",
+   "venue": "人工知能 29 (1), 2-3",
+   "year": "2014"
+  },
+  {
+   "title": "Automated test case generation considering object states in object-oriented programming",
+   "authors": "H Takamatsu, H Sato, S Oyama, M Kurihara",
+   "venue": "Proceedings of the International MultiConference of Engineers and Computer …",
+   "year": "2014"
+  },
+  {
+   "title": "Similarity joins on item set collections using zero-suppressed binary decision diagrams",
+   "authors": "Y Shirai, H Takashima, K Tsuruma, S Oyama",
+   "venue": "International Conference on Database Systems for Advanced Applications, 56-70",
+   "year": "2013"
+  },
+  {
+   "title": "ゼロサプレス型二分決定木を用いた集合間類似結合",
+   "authors": "白井康之， 高嶋宏之， 鶴間浩二， 小山聡",
+   "venue": "DEIM Forum, F10",
+   "year": "2013"
+  },
+  {
+   "title": "A robust energy artificial neuron based incremental self-organizing neural network with a dynamic structure",
+   "authors": "H Liu, H Sato, S Oyama, M Kurihara",
+   "venue": "2012 IEEE International Conference on Systems, Man, and Cybernetics (SMC …",
+   "year": "2012"
+  },
+  {
+   "title": "Searching the Web for alternative answers to questions on WebQA sites",
+   "authors": "N Takata, H Ohshima, S Oyama, K Tanaka",
+   "venue": "International Conference on Web-Age Information Management, 441-452",
+   "year": "2010"
+  },
+  {
+   "title": "Web information credibility analysis by geographical social support",
+   "authors": "H Ohshima, S Oyama, H Kondo, K Tanaka",
+   "venue": "Proceedings of the 3rd International Universal Communication Symposium, 193-196",
+   "year": "2009"
+  },
+  {
+   "title": "関係の類似性に基づく Web からのオブジェクト名検索",
+   "authors": "加藤",
+   "venue": "情報処理学会論文誌データベース (TOD) 2 (2), 110-125",
+   "year": "2009"
+  },
+  {
+   "title": "Modeling and analyzing review information on the web focusing on credibility",
+   "authors": "T Kobayashi, H Ohshima, S Oyama, K Tanaka",
+   "venue": "Proceedings of the 2009 ACM symposium on Applied Computing, 1316-1317",
+   "year": "2009"
+  },
+  {
+   "title": "Object Name Search from the Web Based on Relational Similarity",
+   "authors": "M KATO, H OSHIMA, S OYAMA, K TANAKA",
+   "venue": "情報処理学会論文誌トランザクション (CD-ROM) 2009 (1), 110-125",
+   "year": "2009"
+  },
+  {
+   "title": "Web からの語集合間の特定関係の抽出とその可視化",
+   "authors": "稲川雅之， 大島裕明， 小山聡， 田中克己",
+   "venue": "電子情報通信学会第 19 回データ工学ワークショップ (DEWS2008)",
+   "year": "2008"
+  },
+  {
+   "title": "継承関係と同位関係に基づく概念階層の Web からの抽出",
+   "authors": "服部峻， 大島裕明， 小山聡",
+   "venue": "日本データベース学会 letters/日本データベース学会 編 6 (2), 9-12",
+   "year": "2007"
+  },
+  {
+   "title": "コンテキストを用いたメールの情報補完",
+   "authors": "河重貴洋， 大島裕明， 小山聡， 田島敬史， 田中克己",
+   "venue": "電子情報通信学会技術研究報告; 信学技報 106 (150), 7-12",
+   "year": "2006"
+  },
+  {
+   "title": "Generating a dictionary about people based on automatic collection of timeline information",
+   "authors": "R Kimura, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 106 (149), 41-46",
+   "year": "2006"
+  },
+  {
+   "title": "サーチエンジンのクエリログを利用した同位語・話題語の発見と可視化",
+   "authors": "山口雅史， 大島裕明， 小山聡， 田中克己",
+   "venue": "電子情報通信学会技術研究報告; 信学技報 106 (148), 121-126",
+   "year": "2006"
+  },
+  {
+   "title": "Web からの人物事典生成のための経歴情報の自動収集",
+   "authors": "木村塁， 小山聡， 田中克己",
+   "venue": "DBSJ Letters 5 (2)",
+   "year": "2006"
+  },
+  {
+   "title": "複数 Web コンテンツの多面的閲覧のための空間インタフェース",
+   "authors": "小谷彬， 小山聡， 田中克己",
+   "venue": "第 16 回データ工学ワークショップ (DEWS2005) 論文集, pp. 6C–i7",
+   "year": "2005"
+  },
+  {
+   "title": "BlogRadio: Blog 情報の感情マイニングと可聴化に基づく Web 閲覧補完",
+   "authors": "郡宏志， 竹原幹人， 大島裕明， 小山聡， 田中克己",
+   "venue": "第 16 回データ工学ワークショップ (DEWS2005)",
+   "year": "2005"
+  },
+  {
+   "title": "Using feature conjunctions across examples for learning pairwise classifiers",
+   "authors": "S Oyama, CD Manning",
+   "venue": "Transactions of the Japanese Society for Artificial Intelligence 20 (2), 105-116",
+   "year": "2005"
+  },
+  {
+   "title": "文書構造を利用した Web からの話題発見",
+   "authors": "小山聡， 田中克己",
+   "venue": "電子情報通信学会第 14 回データ工学ワークショップ (DEWS2003)",
+   "year": "2003"
+  },
+  {
+   "title": "自律的伝搬機能を持つ Web アノテーションシステム",
+   "authors": "竹原幹人， 小山聡， 角谷和俊， 田中克己",
+   "venue": "第 14 回電子情報通信学会データ工学ワークショップ",
+   "year": "2003"
+  },
+  {
+   "title": "話題の階層構造を反映した Web 検索手法の提案",
+   "authors": "小山聡， 田中克巳",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 102 (209), 73-78",
+   "year": "2002"
+  },
+  {
+   "title": "レビュアーのプロファイルと地域性に起因するバイアス補正に基づくレビュー情報の信憑性向上",
+   "authors": "小林卓弥， 大島裕明， 小山聡， 田中克己",
+   "venue": "第 19 回データ工学ワークショップ (DEWS2008) 論文集",
+   "year": null
+  },
+  {
+   "title": "Static-graph estimation in hybrid gnns using behavioral-similarity and clustering-based methods",
+   "authors": "R Otani, K Namikoshi, Y Sakurai, M Guo, S Oyama",
+   "venue": "IEEE Access",
+   "year": "2026"
+  },
+  {
+   "title": "Behavioral-similarity and clustering-based methods for static graph estimation in hybrid GNNs (student abstract)",
+   "authors": "R Otani, K Namikoshi, Y Sakurai, M Guo, S Oyama",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (48), 41340 …",
+   "year": "2026"
+  },
+  {
+   "title": "Dataset Construction Using Item Response Theory for Educational Machine Learning Competitions",
+   "authors": "T Sakabe, Y Sakurai, E Tsutsumi, S Oyama",
+   "venue": "IEEE Access 13, 110226-110240",
+   "year": "2025"
+  },
+  {
+   "title": "Probability bounding: Post-hoc calibration via box-constrained softmax",
+   "authors": "K Atarashi, S Oyama, H Arai, H Kashima",
+   "venue": "arXiv preprint arXiv:2506.10572",
+   "year": "2025"
+  },
+  {
+   "title": "Counterfactual explanations of time varying rankings (student abstract)",
+   "authors": "R Ohtani, Y Sakurai, S Oyama",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (28), 29453 …",
+   "year": "2025"
+  },
+  {
+   "title": "Analysis of Surprisingly Popular Voting for Opinion Aggregation on Social Networks",
+   "authors": "Y Yamashita, Y Sakurai, S Oyama, M Onishi, A Morishima",
+   "venue": "IEEE Access 13, 23371-23383",
+   "year": "2025"
+  },
+  {
+   "title": "項目反応理論を用いた評価能力の高い機械学習データセット自動生成手法",
+   "authors": "阪部武暉， 櫻井祐子， 堤瑛美子， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 38 回 (2024), 2T4OS5a02-2T4OS5a02",
+   "year": "2024"
+  },
+  {
+   "title": "Proposing a new security game with reward and penalty",
+   "authors": "R Yoshioka, Y Sakurai, S Oyama, M Shinoda",
+   "venue": "2023 IEEE/WIC International Conference on Web Intelligence and Intelligent …",
+   "year": "2023"
+  },
+  {
+   "title": "自動倉庫用搬送機の排他制御への交渉アルゴリズムの導入",
+   "authors": "飯田匠， 野田五十樹， 小山聡， 近藤豊大， 左右田洋希， 上田真玄， ...",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 2F6GS504-2F6GS504",
+   "year": "2023"
+  },
+  {
+   "title": "逐次最適挿入法への部分的な全探索の導入の試み",
+   "authors": "澤口蒼， 野田五十樹， 小山聡",
+   "venue": "人工知能学会第二種研究会資料 2022 (SAI-044), 09",
+   "year": "2022"
+  },
+  {
+   "title": "Unsupervised feature learning for output control of generative models",
+   "authors": "K Toda, K Atarashi, S Oyama, M Kurihara",
+   "venue": "2020 Joint 11th International Conference on Soft Computing and Intelligent …",
+   "year": "2020"
+  },
+  {
+   "title": "ポケモン対戦に対する UCT アルゴリズムの有効性の調査",
+   "authors": "小山",
+   "venue": "ゲームプログラミングワークショップ 2016 論文集 2016, 44-48",
+   "year": "2016"
+  },
+  {
+   "title": "Establishing Relationships between Emotion Taxonomies Using the Vector Space Model",
+   "authors": "L Duan, S Oyama, M Kurihara, H Sato",
+   "venue": "Proceedings of the International MultiConference of Engineers and Computer …",
+   "year": "2015"
+  },
+  {
+   "title": "人気感度と先行ポイントを利用した顧客セグメント化とその応用",
+   "authors": "白井康之， 森田裕之， 中元政一， 小山聡",
+   "venue": "オペレーションズリサーチ: 経営の科学 59 (2), 88-95",
+   "year": "2014"
+  },
+  {
+   "title": "A Survey on Large Scale Corpora and Emotion Corpora",
+   "authors": "M Ptaszynski, R Rzepka, S Oyama, M Kurihara, K Araki",
+   "venue": "Information and Media Technologies 9 (4), 429-445",
+   "year": "2014"
+  },
+  {
+   "title": "Web 閲覧履歴に表れる単語の連想関係を考慮した情報推薦のためのユーザモデルの生成",
+   "authors": "福井康俊， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 665-666",
+   "year": "2013"
+  },
+  {
+   "title": "効率的な集合演算処理に基づくレシピ推薦機能",
+   "authors": "白井康之， 鶴間浩二， 小山聡",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 112 (75), 67-72",
+   "year": "2012"
+  },
+  {
+   "title": "A Partial Match Retrieval Method on P 2 P Networks using Skip Graph and Suffix Array",
+   "authors": "J TANAKA, R BANNO, H SATO, S OYAMA, M KURIHARA",
+   "venue": "Computer Software 29 (3)",
+   "year": "2012"
+  },
+  {
+   "title": "地域コンテキストを考慮した動的な特徴空間に基づく地理情報例示検索",
+   "authors": "加藤",
+   "venue": "情報処理学会論文誌 52 (12), 3448-3460",
+   "year": "2011"
+  },
+  {
+   "title": "Wikipedia リンク構造を用いた歴史エンティティの重要度計算",
+   "authors": "高橋侑久， 大島裕明， 山本光穂， 岩崎弘利， 小山聡， 田中克己",
+   "venue": "日本データベース学会論文誌= DBSJ journal/日本データベース学会 編 10 (1), 25-30",
+   "year": "2011"
+  },
+  {
+   "title": "アナロジーに基づく地理情報検索",
+   "authors": "加藤誠， 大島裕明， 小山聡， 田中克己",
+   "venue": "全国大会講演論文集 72, 125-126",
+   "year": "2010"
+  },
+  {
+   "title": "シソーラス利用による童話文からの感情情報読み取りシステム",
+   "authors": "堂腰裕明， 栗原正仁， 小山聡",
+   "venue": "全国大会講演論文集 72, 361-362",
+   "year": "2010"
+  },
+  {
+   "title": "Uenew: A Cross-Browsing Communication System Based on Peer-to-Peer Networks",
+   "authors": "R Banno, H Sato, S Oyama, M Kurihara",
+   "venue": "World Congress on Engineering 2012. July 4-6, 2012. London, UK. 2188, 697-701",
+   "year": "2010"
+  },
+  {
+   "title": "地物間の距離を考慮した動的な類似性尺度に基づく地理情報例示検索",
+   "authors": "加藤誠， 大島裕明， 小山聡， 田中克己",
+   "venue": "第 2 回データ工学と情報マネジメントに関するフォーラム (DEIM2010), D7-3",
+   "year": "2010"
+  },
+  {
+   "title": "Seeing past rivals: visualizing evolution of coordinate terms over time",
+   "authors": "H Ohshima, A Jatowt, S Oyama, K Tanaka",
+   "venue": "International Conference on Web Information Systems Engineering, 167-180",
+   "year": "2009"
+  },
+  {
+   "title": "アイデンティティを推定する (< 特集> Web アイデンティティと AI)",
+   "authors": "小山聡",
+   "venue": "人工知能 24 (4), 544-551",
+   "year": "2009"
+  },
+  {
+   "title": "共起に基づく Web からの類似関係のブートストラップ抽出",
+   "authors": "加藤誠， 大島裕明， 小山聡， 田中克己",
+   "venue": "日本データベース学会論文誌= DBSJ journal/日本データベース学会 編 8 (1), 11-16",
+   "year": "2009"
+  },
+  {
+   "title": "Web からの将来情報の発見・分析にむけて",
+   "authors": "金澤健介， 小山聡",
+   "venue": "情報処理学会研究報告= IPSJ SIG technical reports 2008 (88), 325-330",
+   "year": "2008"
+  },
+  {
+   "title": "語の共起を用いた Web の類似関係検索",
+   "authors": "加藤誠， 大島裕明， 小山聡， 田中克己",
+   "venue": "Web とデータベースに関するフォーラム (WebDB Forum 2008)",
+   "year": "2008"
+  },
+  {
+   "title": "Evaluation of reputations in cgm based on identification of reviewer's activity area",
+   "authors": "T Kobayashi, H Ohshima, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 107 (131), 211-216",
+   "year": "2007"
+  },
+  {
+   "title": "Extracting Conceptural Hierarchies from the Web by Term Coordinate and Property Inheritance Relationships",
+   "authors": "S Hattori, H Ohshima, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 107 (131), 127-132",
+   "year": "2007"
+  },
+  {
+   "title": "語の同位関連と性質の継承関連を用いた概念階層の Web からの抽出",
+   "authors": "服部峻， 大島裕明， 小山聡， 田中克己",
+   "venue": "電子情報通信学会技術研究報告; 信学技報 107 (131), 127-132",
+   "year": "2007"
+  },
+  {
+   "title": "Comparative Quality Evaluation of TV Contents Based on Web Analysis",
+   "authors": "Y Kabutoya, T Yumoto, S Oyama, K Tajima, K Tanaka",
+   "venue": "2007 IEEE International Workshop on Databases for Next Generation …",
+   "year": "2007"
+  },
+  {
+   "title": "Web 検索とクエリログを併用した同位語発見手法",
+   "authors": "大島裕明， 山口雅史， 小山聡， 田中克己",
+   "venue": "DBSJ Letters 5 (4)",
+   "year": "2007"
+  },
+  {
+   "title": "文書群を問合せとした兄弟カテゴリー文書の検索",
+   "authors": "大島裕明， 小山聡， 田中克己",
+   "venue": "電子情報通信学会論文誌 D 90 (2), 196-208",
+   "year": "2007"
+  },
+  {
+   "title": "TV ニュース映像の話題の網羅性・一般性・受容度の可視化による視聴支援",
+   "authors": "甲谷優， 湯本高行， 小山聡， 田島敬史， 田中克己",
+   "venue": "日本データベース学会 letters/日本データベース学会 編 6 (1), 61-64",
+   "year": "2007"
+  },
+  {
+   "title": "Web ページに対する典型的なクエリの発見",
+   "authors": "甲谷優， 湯本高行， 小山聡",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 107 (131), 49-54",
+   "year": "2007"
+  },
+  {
+   "title": "オブジェクトを特定する語集合の Web からの抽出",
+   "authors": "稲川雅之， 大島裕明， 小山聡， 田中克己",
+   "venue": "データベースと Web 情報システムに関するシンポジウム (DBWeb2007)",
+   "year": "2007"
+  },
+  {
+   "title": "Processing web aggregate queries by analyzing search engine indices",
+   "authors": "S OYAMA, T TEZUKA, H Ohshima, K TANAKA",
+   "venue": "Advances in Scalable Web Information Integration and Service, 14-23",
+   "year": "2007"
+  },
+  {
+   "title": "人物情報辞典の自動生成のための時系列情報自動収集",
+   "authors": "木村塁， 小山聡， 田中克己",
+   "venue": "電子情報通信学会技術研究報告; 信学技報 106 (149), 41-46",
+   "year": "2006"
+  },
+  {
+   "title": "オブジェクト識別のための人間の教師を用いない距離学習手法",
+   "authors": "小山聡， 田中克己",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 106 (38), 39-44",
+   "year": "2006"
+  },
+  {
+   "title": "Extracting semantic relationships between terms from PC documents and its applications to web search personalization",
+   "authors": "H Ohshima, S Oyama, K Tanaka",
+   "venue": "Asia-Pacific Web Conference, 579-590",
+   "year": "2006"
+  },
+  {
+   "title": "複数 Web サイトからの共通側面の抽出と類似サイト検索",
+   "authors": "小谷彬， 小山聡， 田中克己",
+   "venue": "電子情報通信学会第 17 回データ工学ワークショップ (DEWS2006) 論文集, 2C-i9",
+   "year": "2006"
+  },
+  {
+   "title": "質問キーワードの近接性と密度分布に基づくウェブ検索の改善手法",
+   "authors": "田馳， 手塚太郎， 小山聡， 田島敬史， 田中克己",
+   "venue": "DBSJ Letters 5 (1)",
+   "year": "2006"
+  },
+  {
+   "title": "Web ページの PageRank 値に基づくローカルコンテンツの品質推定",
+   "authors": "甲谷優， 湯本高行， 小山聡， 田島敬史， 田中克己",
+   "venue": "DEWS2006 予稿集",
+   "year": "2006"
+  },
+  {
+   "title": "文書群をクエリとした “似て非なる” 文書の検索",
+   "authors": "大島裕明， 小山聡， 田中克己",
+   "venue": "DBSJ Letters 5 (1)",
+   "year": "2006"
+  },
+  {
+   "title": "複数 Web サイトからの共通属性抽出による共通サイトマップの生成",
+   "authors": "小谷彬， 大島裕明， 小山聡",
+   "venue": "情報処理学会研究報告= IPSJ SIG technical reports 2006 (78), 43-49",
+   "year": "2006"
+  },
+  {
+   "title": "個人文書から抽出した語彙の意味関係に基づく web 情報検索",
+   "authors": "大島裕明， 小山聡， 田中克己",
+   "venue": "DBSJ Letters 4 (2)",
+   "year": "2005"
+  },
+  {
+   "title": "Extracting Personal Conceptual Structures from PC Documents and its Application to Web Search Personalization",
+   "authors": "H Ohshima, S Oyama, K Tanaka",
+   "venue": "21st International Conference on Data Engineering Workshops (ICDEW'05), 1228 …",
+   "year": "2005"
+  },
+  {
+   "title": "検索結果の概要を表すキーワード式生成による質問修正支援",
+   "authors": "松生泰典， 是津耕司， 小山聡， 田中克己",
+   "venue": "電子情報通信学会第 16 回データ工学ワークショップ (DEWS2005) 1C-i9",
+   "year": "2005"
+  },
+  {
+   "title": "携帯端末による電子メール交換に基づく Web 検索",
+   "authors": "赤星祐平， 小山聡， 角谷和俊， 田中克己",
+   "venue": "DBSJ Letters 2 (1)",
+   "year": "2003"
+  },
+  {
+   "title": "Web コンテンツの周辺情報提示によるナビゲーション支援",
+   "authors": "池田新平， 是津耕司， 小山聡， 田中克己",
+   "venue": "DBSJ LettersVol 2",
+   "year": "2003"
+  },
+  {
+   "title": "相対的検索質問とその質問処理方式",
+   "authors": "中島伸介， 小山聡， 角谷和俊， 田中克己",
+   "venue": "The Institute of Electronics, Information and Communication Engineers 102 …",
+   "year": "2002"
+  },
+  {
+   "title": "相対的質問とその質問処理方式",
+   "authors": "中島伸介， 木下真一， 小山聡",
+   "venue": "日本データベース学会 letters/日本データベース学会 編 1 (1), 7-10",
+   "year": "2002"
+  },
+  {
+   "title": "Web からの検索知識発見を利用した専門検索エンジンの構築",
+   "authors": "小山聡， 吉住貴幸",
+   "venue": "知識ベースシステム研究会/人工知能学会 [編] 54, 115-120",
+   "year": "2001"
+  },
+  {
+   "title": "デジタルシティ京都--市民のための公共情報空間の構築をめざして",
+   "authors": "小山聡， 平松薫， 山田幸一",
+   "venue": "Bit: コンピュータサイエンス誌 33 (4), 8-12",
+   "year": "2001"
+  },
+  {
+   "title": "Positive-unlabeled learning for training an entanglement detector",
+   "authors": "T Nohara, I Noda, S Oyama",
+   "venue": "Quantum Machine Intelligence 8 (1), 11",
+   "year": "2026"
+  },
+  {
+   "title": "MACC: Multi-Agent Collaborative Competition for Scientific Exploration",
+   "authors": "S Oyama, Y Sakurai, H Kashima",
+   "venue": "arXiv preprint arXiv:2603.03780",
+   "year": "2026"
+  },
+  {
+   "title": "生成 AI のアニメ風イラストと写実的なイラストにおけるバイアス比較",
+   "authors": "伊藤彩乃， 水野翔真， 浪越圭一， 櫻井祐子， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 40 回 (2026), 3YinA40-3YinA40",
+   "year": "2026"
+  },
+  {
+   "title": "項目反応理論における偏りのあるアンカー集合を用いた等化手法",
+   "authors": "川崎裕太， 阪部武暉， 浪越圭一， 櫻井祐子， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 40 回 (2026), 3M2GS10u04-3M2GS10u04",
+   "year": "2026"
+  },
+  {
+   "title": "実現可能性を重視した時間的順位変動の反実仮想説明",
+   "authors": "高野利空人， 白石竜大， 大谷龍生， 浪越圭一， 櫻井祐子， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 40 回 (2026), 5M2GS2c06-5M2GS2c06",
+   "year": "2026"
+  },
+  {
+   "title": "AutoML Arena: 自動機械学習エージェントによる予測モデリングコンペティション",
+   "authors": "落合悠貴， 新恭兵， 竹内孝， 櫻井祐子， 小山聡， 鹿島久嗣",
+   "venue": "人工知能学会全国大会論文集 第 40 回 (2026), 1H3OS4004-1H3OS4004",
+   "year": "2026"
+  },
+  {
+   "title": "BiLSTM-Transformer ハイブリッドモデルを用いた電磁流量計の異常検知",
+   "authors": "岡本誠太， 古賀亮一， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 40 回 (2026), 3E2GS2g02-3E2GS2g02",
+   "year": "2026"
+  },
+  {
+   "title": "Detecting and Mitigating Positional Bias in Zero-Shot Anomaly Detection",
+   "authors": "A Ito, T Sakabe, Y Sakurai, S Oyama",
+   "venue": "International Conference on Advanced Data Mining and Applications, 443-450",
+   "year": "2025"
+  },
+  {
+   "title": "ポイント獲得型コンペティションにおける参加行動分析",
+   "authors": "金子怜太， 浪越圭一， 小山聡， 篠田正人， 櫻井祐子",
+   "venue": "IEICE Conferences Archives",
+   "year": "2025"
+  },
+  {
+   "title": "An Efficient Point-of-Interest Placement Method Based on Betweenness Centrality",
+   "authors": "R Shiraishi, R Ohtani, Y Sakurai, S Oyama",
+   "venue": "International Conference on Database and Expert Systems Applications, 228-233",
+   "year": "2025"
+  },
+  {
+   "title": "媒介中心性に基づく POI の設置方法の検討",
+   "authors": "白石竜大， 大谷龍生， 小山聡， 櫻井祐子",
+   "venue": "人工知能学会全国大会論文集 第 39 回 (2025), 4J2GS503-4J2GS503",
+   "year": "2025"
+  },
+  {
+   "title": "機械学習コンペティション用データセットのユーザ評価",
+   "authors": "阪部武暉， 櫻井祐子， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 39 回 (2025), 4L3OS3804-4L3OS3804",
+   "year": "2025"
+  },
+  {
+   "title": "ゼロショット異常検知アルゴリズムにおけるバイアス問題",
+   "authors": "伊藤彩乃， 阪部武暉， 小山聡， 櫻井祐子",
+   "venue": "人工知能学会全国大会論文集 第 39 回 (2025), 2Win581-2Win581",
+   "year": "2025"
+  },
+  {
+   "title": "Theme 3. Trust in Data Driven Research",
+   "authors": "A Rauber, S Oyama, H Kashima, N Yanai, J Li, K Takeuchi, A Aizawa, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "ラベルの多様性を考慮した Dawid-Skene モデルの拡張",
+   "authors": "新恭兵， 荒井ひろみ， 小山聡， 波多野大督",
+   "venue": "人工知能学会全国大会論文集 第 38 回 (2024), 2T6OS5c02-2T6OS5c02",
+   "year": "2024"
+  },
+  {
+   "title": "大規模言語モデルを用いた因果推論におけるメタ認知プロンプトの効果検証",
+   "authors": "大谷龍生， 櫻井祐子， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 38 回 (2024), 2T5OS5b01-2T5OS5b01",
+   "year": "2024"
+  },
+  {
+   "title": "Predicate Classification Using Optimal Transport Loss in Scene Graph Generation",
+   "authors": "S Kurita, S Oyama, I Noda",
+   "venue": "arXiv preprint arXiv:2309.10430",
+   "year": "2023"
+  },
+  {
+   "title": "自己対戦型深層強化学習における探索結果の利用",
+   "authors": "神子島一弥， 野田五十樹， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 2D4GS202-2D4GS202",
+   "year": "2023"
+  },
+  {
+   "title": "部分全探索の逐次最適挿入法への導入による効果の詳細分析",
+   "authors": "澤口蒼， 野田五十樹， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 3Xin461-3Xin461",
+   "year": "2023"
+  },
+  {
+   "title": "シーングラフ生成における最適輸送損失を用いた物体間関係予測",
+   "authors": "栗田空知， 小山聡， 野田五十樹",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 1O4GS703-1O4GS703",
+   "year": "2023"
+  },
+  {
+   "title": "深層学習によるダブルオークション設計",
+   "authors": "末原剛志， 竹内孝， 鹿島久嗣， 小山聡， 櫻井祐子， 横尾真",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 1F4GS505-1F4GS505",
+   "year": "2023"
+  },
+  {
+   "title": "外部知識及び可視化の利用によるマルチモーダルフェイクニュース検出の説明性改善",
+   "authors": "田邉耕太， 野田五十樹， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 4Xin154-4Xin154",
+   "year": "2023"
+  },
+  {
+   "title": "報酬とペナルティを導入した数当てゲームの提案と均衡戦略の分析",
+   "authors": "吉岡陸， 櫻井祐子， 小山聡， 篠田正人",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 4Xin128-4Xin128",
+   "year": "2023"
+  },
+  {
+   "title": "言語情報と画像情報を用いた POI の業種予測のためのマルチモーダル深層モデル",
+   "authors": "澤田一正， 沖本祐典， 金森研太， 野田五十樹， 小山聡， 宰川潤二",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 2E4GS603-2E4GS603",
+   "year": "2023"
+  },
+  {
+   "title": "進化型計算による SAVS 料金探索のサービス利用者の傾向に応じた変化",
+   "authors": "後藤総馬， 野田五十樹， 小山聡",
+   "venue": "人工知能学会第二種研究会資料 2022 (SAI-044), 07",
+   "year": "2022"
+  },
+  {
+   "title": "訪問介護時の介護者の送迎問題に対する厳密解法と近似解法における比較実験",
+   "authors": "市川拓斗， 野田五十樹， 小山聡",
+   "venue": "人工知能学会第二種研究会資料 2022 (SAI-044), 13",
+   "year": "2022"
+  },
+  {
+   "title": "デマンドバスのサービス領域の形状とデマンドバスの各種サービス品質の関係",
+   "authors": "野田五十樹， 小山聡",
+   "venue": "人工知能学会第二種研究会資料 2022 (SAI-044), 08",
+   "year": "2022"
+  },
+  {
+   "title": "Sample complexity of learning multi-value opinions in social networks",
+   "authors": "M Shinoda, Y Sakurai, S Oyama",
+   "venue": "International Conference on Principles and Practice of Multi-Agent Systems …",
+   "year": "2022"
+  },
+  {
+   "title": "報酬と失敗コストを導入した数当てゲーム",
+   "authors": "吉岡陸， 櫻井祐子， 小山聡， 篠田正人",
+   "venue": "ゲームプログラミングワークショップ 2022 論文集 2022, 25-28",
+   "year": "2022"
+  },
+  {
+   "title": "ソーシャルネットワーク上での意見傾向推定のために必要なサンプル数の評価",
+   "authors": "篠田正人， 櫻井祐子， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 36 回 (2022), 3E3GS204-3E3GS204",
+   "year": "2022"
+  },
+  {
+   "title": "Sparse random feature maps for the item-multiset kernel",
+   "authors": "K Atarashi, S Oyama, M Kurihara",
+   "venue": "Neural Networks 143, 500-514",
+   "year": "2021"
+  },
+  {
+   "title": "Factorization Machine におけるスパース正則化を用いた組合せ特徴選択",
+   "authors": "新恭兵， 小山聡， 栗原正仁",
+   "venue": "電子情報通信学会技術研究報告; 信学技報 119 (476), 17-24",
+   "year": "2020"
+  },
+  {
+   "title": "協力ゲームに基づく教師なし/半教師ありデータ価値評価",
+   "authors": "櫻井祐子， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 34 回 (2020), 1P5GS701-1P5GS701",
+   "year": "2020"
+  },
+  {
+   "title": "Learning Relevant Molecular Representations via Self-Attentive Graph Neural Networks",
+   "authors": "S Kikuchi, I Takigawa, S Oyama, M Kurihara",
+   "venue": "2019 IEEE International Conference on Big Data (Big Data), 5364-5369",
+   "year": "2019"
+  },
+  {
+   "title": "Analysis of Coalition Formation in Cooperative Games Using Crowdsourcing and Machine Learning",
+   "authors": "Y Sakurai, S Oyama",
+   "venue": "Australasian Joint Conference on Artificial Intelligence, 78-88",
+   "year": "2019"
+  },
+  {
+   "title": "User-Adaptive Preparation of Mathematical Puzzles Using Item Response Theory and Deep Learning",
+   "authors": "M Kurihara, R Sekiya, S Oyama",
+   "venue": "(No Title)",
+   "year": "2019"
+  },
+  {
+   "title": "A Personalized Affect Response Model for Online News Articles.",
+   "authors": "K Atarashi, A Moriyama, S Oyama, M Kurihara",
+   "venue": "LaCATODA/BtG@ IJCAI, 5-10",
+   "year": "2019"
+  },
+  {
+   "title": "解釈性のあるフェイクニュース検出器の実装と評価",
+   "authors": "山本和矢， 小山聡， 栗原正仁",
+   "venue": "人工知能学会全国大会論文集 第 33 回 (2019), 3Rin237-3Rin237",
+   "year": "2019"
+  },
+  {
+   "title": "Effect of Viewing Directions on Deep Reinforcement Learning in 3D Virtual Environment Minecraft",
+   "authors": "T Matsui, S Oyama, M Kurihara",
+   "venue": "International Conference on Principles and Practice of Multi-Agent Systems …",
+   "year": "2018"
+  },
+  {
+   "title": "教育用データ解析コンペティション基盤の設計と実践",
+   "authors": "馬場， 雪乃， 高瀬， 朝海， 新恭兵， 小山",
+   "venue": "デジタルプラクティス 9 (4), 859-873",
+   "year": "2018"
+  },
+  {
+   "title": "Longer Distance Weight Prediction for Faster Training of Neural Networks",
+   "authors": "T Takase, S Oyama, M Kurihara",
+   "venue": "2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC …",
+   "year": "2018"
+  },
+  {
+   "title": "集合知を用いたメカニズム設計の検討",
+   "authors": "櫻井",
+   "venue": "第 80 回全国大会講演論文集 2018 (1), 23-24",
+   "year": "2018"
+  },
+  {
+   "title": "Effect of Viewing Directions on Deep Reinforcement Learning in 3D Virtual Environment Minecraft",
+   "authors": "M Kurihara, S Oyama, T Matsui",
+   "venue": "(No Title)",
+   "year": "2018"
+  },
+  {
+   "title": "3D 仮想環境 Minecraft における深層強化学習への視線方向の影響",
+   "authors": "松井太樹， 小山聡， 栗原正仁",
+   "venue": "人工知能学会全国大会論文集 第 32 回 (2018), 4Pin106-4Pin106",
+   "year": "2018"
+  },
+  {
+   "title": "Crowdsourcing Mechanism Design",
+   "authors": "Y Sakurai, M Matsuda, M Shinoda, S Oyama",
+   "venue": "International Conference on Principles and Practice of Multi-Agent Systems …",
+   "year": "2017"
+  },
+  {
+   "title": "クラウドワーカを利用したメカニズム設計のための一考察",
+   "authors": "櫻井祐子， 松田昌史， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 31 回 (2017), 4O2OS17b5-4O2OS17b5",
+   "year": "2017"
+  },
+  {
+   "title": "多基準評価値に基づく協調フィルタリングと評価値統合",
+   "authors": "森瀬寛己， 小山聡， 栗原正仁",
+   "venue": "人工知能学会全国大会論文集 第 31 回 (2017), 4O2OS17b2-4O2OS17b2",
+   "year": "2017"
+  },
+  {
+   "title": "シャプレイ値に基づくクラウドワーカの能力推定",
+   "authors": "櫻井祐子， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 30 回 (2016), 1L35-1L35",
+   "year": "2016"
+  },
+  {
+   "title": "属性ごとの観測確率を考慮したゼロショット学習",
+   "authors": "鈴木雅大， 佐藤晴彦， 小山聡， 栗原正仁， 松尾豊",
+   "venue": "情報処理学会論文誌 57 (5), 1499-1513",
+   "year": "2016"
+  },
+  {
+   "title": "Flexible Reward Plans to Elicit Truthful Predictions in Crowdsourcing",
+   "authors": "Y Sakurai, S Oyama, M Shinoda, M Yokoo",
+   "venue": "Proceedings of the AAAI Conference on Human Computation and Crowdsourcing 3 …",
+   "year": "2015"
+  },
+  {
+   "title": "キーワードのあいまい一致を導入したキーワードプログラミングシステムに関する研究",
+   "authors": "坂本悠輔",
+   "venue": "北海道大学",
+   "year": "2015"
+  },
+  {
+   "title": "Making Legacy Open Data Machine Readable by Crowdsourcing",
+   "authors": "S Oyama, Y Baba, I Ohmukai, H Dokoshi, H Kashima",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "OS-18 ヒューマンコンピュテーションとクラウドソーシング (オーガナイズドセッション,< 特集> 2014 年度人工知能学会全国大会 (第 28 回))",
+   "authors": "小山聡， 鹿島久嗣， 櫻井祐子， 馬場雪乃， 松原繁夫",
+   "venue": "人工知能 29 (6), 646-646",
+   "year": "2014"
+  },
+  {
+   "title": "Method sequence generation for multiple object states using dynamic symbolic execution",
+   "authors": "H Takamatsu, H Sato, S Oyama, M Kurihara",
+   "venue": "2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC …",
+   "year": "2014"
+  },
+  {
+   "title": "クラウドソーシングを用いたレガシーオープンデータの機械可読化",
+   "authors": "小山聡， 馬場雪乃， 大向一輝",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (182), 1-6",
+   "year": "2014"
+  },
+  {
+   "title": "Automated Test Generation for Object-Oriented Programs with Multiple Targets.",
+   "authors": "H Takamatsu, H Sato, S Oyama, M Kurihara",
+   "venue": "IAENG International Journal of Computer Science 41 (3), 46",
+   "year": "2014"
+  },
+  {
+   "title": "Analysis Using Popularity Awareness Index, Recency Index and Purchase Diversity",
+   "authors": "Y Shirai, H Morita, M Nakamoto, S Oyama",
+   "venue": "Advances in Data Mining: Applications and Theoretical Aspects: 14th …",
+   "year": "2014"
+  },
+  {
+   "title": "動的記号実行によるメソッドの複雑度を考慮したテストケース自動生成 (知能ソフトウェア工学)",
+   "authors": "高松宏樹， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (128 …",
+   "year": "2014"
+  },
+  {
+   "title": "大規模コーパス及び感情コーパスに関する調査",
+   "authors": "M Ptaszynski, R Rzepka",
+   "venue": "コンピュータ ソフトウェア 31 (2), 2_151-2_167",
+   "year": "2014"
+  },
+  {
+   "title": "属性ごとの観測確率を考慮した転移学習",
+   "authors": "鈴木雅大， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "人工知能学会全国大会論文集 第 28 回 (2014), 1G25-1G25",
+   "year": "2014"
+  },
+  {
+   "title": "動的記号実行によるメソッドの複雑度を考慮したテストケース自動生成",
+   "authors": "高松宏樹， 佐藤晴彦， 小山聡",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (127 …",
+   "year": "2014"
+  },
+  {
+   "title": "ヒューマンコンピュテーションの品質管理 (< 特集> ヒューマンコンピュテーションとクラウドソーシング)",
+   "authors": "小山聡",
+   "venue": "人工知能 29 (1), 27-33",
+   "year": "2014"
+  },
+  {
+   "title": "Multi-affect Estimation Considering Consistency among Crowdsourced Annotations",
+   "authors": "段磊， 小山聡， 佐藤晴彦， 栗原正仁",
+   "venue": "人工知能学会全国大会論文集 第 28 回 (2014), 1J35-1J35",
+   "year": "2014"
+  },
+  {
+   "title": "OS-07 ヒューマンコンピュテーションとクラウドソーシング (オーガナイズドセッション,< 特集> 2013 年度人工知能学会全国大会 (第 27 回))",
+   "authors": "小山聡， 鹿島久嗣， 櫻井祐子， 松原繁夫",
+   "venue": "人工知能 28 (6), 940-940",
+   "year": "2013"
+  },
+  {
+   "title": "属性ごとの予測能力に基づく属性ベース転移学習",
+   "authors": "鈴木雅大， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "IEICE Conferences Archives",
+   "year": "2013"
+  },
+  {
+   "title": "F-039 属性ごとの予測能力に基づく属性ベース転移学習 (F 分野: 人工知能・ゲーム)",
+   "authors": "鈴木， 雅大， 佐藤",
+   "venue": "情報科学技術フォーラム講演論文集 12 (2), 371-372",
+   "year": "2013"
+  },
+  {
+   "title": "選好度に基づく集合推薦と調理レシピへの応用",
+   "authors": "白井康之， 鶴間浩二， 高嶋宏之， 小山聡",
+   "venue": "電子情報通信学会論文誌 D 96 (5), 1246-1254",
+   "year": "2013"
+  },
+  {
+   "title": "ベイジアンネットワークを用いたユーザ店舗滞在状況の推定",
+   "authors": "坂東拓也， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 257-258",
+   "year": "2013"
+  },
+  {
+   "title": "Inferring Users' Intentions of Visits from Twitter",
+   "authors": "張承成， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 323-324",
+   "year": "2013"
+  },
+  {
+   "title": "A fast density-based clustering algorithm using fuzzy neighborhood functions",
+   "authors": "劉浩， 小山聡， 栗原正仁， 佐藤晴彦",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 399-400",
+   "year": "2013"
+  },
+  {
+   "title": "SRPG の対戦ログからの有望手順の獲得とそれを用いた AI の作成",
+   "authors": "成田卓也， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 91-92",
+   "year": "2013"
+  },
+  {
+   "title": "リスト型質問応答のための回答候補間共起情報を利用したスコアリング改善手法の提案",
+   "authors": "山本康貴， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 181-182",
+   "year": "2013"
+  },
+  {
+   "title": "クラウドソーシングを用いた同一性判定のための機械学習方式",
+   "authors": "王晶晶， 小山聡， 栗原正仁， 鹿島久嗣",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 321-322",
+   "year": "2013"
+  },
+  {
+   "title": "WEB 上のデータを用いた画像の自動タグ付け",
+   "authors": "東将央， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 131-132",
+   "year": "2013"
+  },
+  {
+   "title": "マルチタッチシステム環境における対話型遺伝的アルゴリズムを用いた嗜好探索システムの開発",
+   "authors": "片ノ坂卓磨， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 317-318",
+   "year": "2013"
+  },
+  {
+   "title": "物語文における心情推定の研究",
+   "authors": "段磊， 小山聡， 栗原正仁， 佐藤晴彦",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 319-320",
+   "year": "2013"
+  },
+  {
+   "title": "Twitter ユーザのフォロー関係に基づいた分類",
+   "authors": "山下拓也， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "第 75 回全国大会講演論文集 2013 (1), 107-108",
+   "year": "2013"
+  },
+  {
+   "title": "クラウドソーシングを用いたゲームレベルデザイン",
+   "authors": "三木康暉， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "人工知能学会全国大会論文集 第 27 回 (2013), 3M4OS07e2-3M4OS07e2",
+   "year": "2013"
+  },
+  {
+   "title": "オブジェクト指向プログラミングにおける内部状態を考慮したテストケース自動生成手法",
+   "authors": "高松宏樹， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "日本ソフトウェア科学会大会論文集/日本ソフトウェア科学会 編 30, 423-426",
+   "year": "2013"
+  },
+  {
+   "title": "クラウドソーシングを用いたゲームレベルデザインの効率化",
+   "authors": "三木康暉， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "人工知能学会全国大会論文集 27, 1-3",
+   "year": "2013"
+  },
+  {
+   "title": "Shop Inference System Using Location Data and Bayesian Network",
+   "authors": "T Bando, M Kurihara, S Oyama, H Sato",
+   "venue": "Proceedings of the International MultiConference of Engineers and Computer …",
+   "year": "2013"
+  },
+  {
+   "title": "Extracting Desirable Moves from Match Logs of SRPG Using n-Gram Statistics",
+   "authors": "T Narita, H Sato, S Oyama, M Kurihara",
+   "venue": "Proceedings of the International MultiConference of Engineers and Computer …",
+   "year": "2013"
+  },
+  {
+   "title": "Affect Annotation of Narrative Text Using Crowdsourcing",
+   "authors": "L Duan, S Oyama, H Sato, M Kurihara",
+   "venue": "情報処理学会第 75 回全国大会 6, 8",
+   "year": "2013"
+  },
+  {
+   "title": "Accurate Entity Resolution using Crowdsourcing",
+   "authors": "王晶晶， 小山聡， 栗原正仁， 鹿島久嗣",
+   "venue": "人工知能学会全国大会論文集 第 27 回 (2013), 2M5OS07b3-2M5OS07b3",
+   "year": "2013"
+  },
+  {
+   "title": "Joint estimation of multiple affects from crowdsourced annotations",
+   "authors": "段磊， 小山聡， 佐藤晴彦， 栗原正仁",
+   "venue": "人工知能学会全国大会論文集 第 27 回 (2013), 3M3OS07d6-3M3OS07d6",
+   "year": "2013"
+  },
+  {
+   "title": "P2P ネットワークにおけるスキップグラフと接尾辞配列を用いた部分一致検索手法",
+   "authors": "坂野遼平， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "コンピュータ ソフトウェア 29 (3), 3_164-3_180",
+   "year": "2012"
+  },
+  {
+   "title": "Recipe Recommendation Based on Efficient Set Operations",
+   "authors": "Y Shirai, K Tsuruma, S Oyama, H Takashima",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 112 (75), 67-72",
+   "year": "2012"
+  },
+  {
+   "title": "Overlay Weaver の ALM 機能拡張と P2P 型コミュニケーションシステム Uenew への応用",
+   "authors": "坂野遼平， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "コンピュータ ソフトウェア 29 (2), 2_123-2_139",
+   "year": "2012"
+  },
+  {
+   "title": "RBF ネットワークと強化学習的手法による評価関数を用いたゲーム AI",
+   "authors": "成田卓也， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "第 74 回全国大会講演論文集 2012 (1), 135-136",
+   "year": "2012"
+  },
+  {
+   "title": "キーワードプログラミングの改良と実装",
+   "authors": "坂本悠輔， 佐藤晴彦， 小山聡",
+   "venue": "日本ソフトウェア科学会大会論文集/日本ソフトウェア科学会 編 29, 349-365",
+   "year": "2012"
+  },
+  {
+   "title": "An Extension of Overlay Weaver with Application to a Cross-Browsing Communication System Based on Peer-to-Peer Networks",
+   "authors": "R BANNO, H SATO, S OYAMA, M KURIHARA",
+   "venue": "Computer Software 29 (2), 123-139",
+   "year": "2012"
+  },
+  {
+   "title": "インパクトを考慮した歴史エンティティの重要度計算手法",
+   "authors": "高橋",
+   "venue": "情報処理学会論文誌 52 (12), 3542-3557",
+   "year": "2011"
+  },
+  {
+   "title": "Web マイニングを用いた文章中の行為者及び被行為者の感情推定",
+   "authors": "堂腰裕明， 小山聡， 栗原正仁， ジェプカラファウ， 荒木健治， ...",
+   "venue": "情報処理北海道シンポジウム講演論文集 2011, 223-224",
+   "year": "2011"
+  },
+  {
+   "title": "大規模電子商取引データからの効果的な訴求表現の発見",
+   "authors": "櫻井祐子， 白井康之， 鶴間浩二， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 25 回 (2011), 1F41-1F41",
+   "year": "2011"
+  },
+  {
+   "title": "楽天データ分析ユーザーレビューに基づくサービス訴求項目の適合度評価",
+   "authors": "櫻井祐子， 白井康之， 鶴間浩二， 小山聡",
+   "venue": "ERATO 湊離散構造処理系プロジェクト",
+   "year": "2011"
+  },
+  {
+   "title": "P2P ネットワークにおけるスキップグラフと接尾辞配列を用いた部分一致検索手法の提案",
+   "authors": "坂野遼平， 佐藤晴彦， 小山聡",
+   "venue": "日本ソフトウェア科学会大会論文集/日本ソフトウェア科学会 編 28, 1-11",
+   "year": "2011"
+  },
+  {
+   "title": "楽天データの解析について",
+   "authors": "白井康之， 小山聡， 櫻井祐子， 川原純， 鶴間浩二",
+   "venue": "ERATO 湊離散構造処理系プロジェクト",
+   "year": "2011"
+  },
+  {
+   "title": "出現単語とメタな文章構造に基づく商品説明文のマイニング",
+   "authors": "白井康之， 櫻井祐子， 鶴間浩二， 小山聡",
+   "venue": "人工知能学会全国大会論文集 第 25 回 (2011), 2G31-2G31",
+   "year": "2011"
+  },
+  {
+   "title": "発信者分析による修飾語の信憑性判定",
+   "authors": "高橋良平",
+   "venue": "平成 22 年度情報処理学会関西支部支部大会講演論文集 2010",
+   "year": "2010"
+  },
+  {
+   "title": "リンク構造分析と時空間詳細度制御に基づくイベント情報の一般性・専門性発見と提示",
+   "authors": "高橋侑久",
+   "venue": "平成 22 年度情報処理学会関西支部支部大会講演論文集 2010",
+   "year": "2010"
+  },
+  {
+   "title": "可変スニペットとキーワード相関グラフを利用した検索補助インタフェースの提案",
+   "authors": "小山聡， 上條朋彦， 栗原正仁",
+   "venue": "全国大会講演論文集 72, 715-716",
+   "year": "2010"
+  },
+  {
+   "title": "話者適応手法を用いた合成音声の個性化",
+   "authors": "佐々木夏美， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "全国大会講演論文集 72, 299-300",
+   "year": "2010"
+  },
+  {
+   "title": "実体験情報を含む Blog を抽出するシステム",
+   "authors": "佐々木建， 小山聡， 栗原正仁",
+   "venue": "全国大会講演論文集 72, 497-498",
+   "year": "2010"
+  },
+  {
+   "title": "動的スクリプトにおけるルールの内部情報を考慮した多様性の向上",
+   "authors": "澤田海彦， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "全国大会講演論文集 72, 169-170",
+   "year": "2010"
+  },
+  {
+   "title": "複数の顔器官イラストの組み合わせによる顔イラストの作成支援システム",
+   "authors": "松野匠， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "全国大会講演論文集 72, 645-646",
+   "year": "2010"
+  },
+  {
+   "title": "キーワードプログラミングの改良と実装",
+   "authors": "坂本悠輔， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "全国大会講演論文集 72, 515-516",
+   "year": "2010"
+  },
+  {
+   "title": "Web オブジェクトの修飾語表現の信憑性検証",
+   "authors": "高橋良平， 小山聡， 大島裕明， 田中克己",
+   "venue": "全国大会講演論文集 72, 171-172",
+   "year": "2010"
+  },
+  {
+   "title": "Windows における大規模分散システムテストベッドの開発",
+   "authors": "東将央， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "全国大会講演論文集 72, 131-132",
+   "year": "2010"
+  },
+  {
+   "title": "質問に対する回答を含む Web ページの発見手法",
+   "authors": "高田夏希， 大島裕明， 小山聡， 田中克己",
+   "venue": "全国大会講演論文集 72, 113-114",
+   "year": "2010"
+  },
+  {
+   "title": "アプリケーション層マルチキャストにおけるアーカイブ取得方式の提案とその応用",
+   "authors": "坂野遼平， 佐藤晴彦， 小山聡， 栗原正仁",
+   "venue": "全国大会講演論文集 72, 409-410",
+   "year": "2010"
+  },
+  {
+   "title": "Comment-based Keyword Programming",
+   "authors": "Y Sakamoto, H Sato, S Oyama, M Kurihara",
+   "venue": "World Congress on Engineering 2012. July 4-6, 2012. London, UK. 2188, 750-754",
+   "year": "2010"
+  },
+  {
+   "title": "Cloud as Virtual Databases: Bridging Private Databases and Web Services",
+   "authors": "S Oyama, K Tanaka, H Ohshima",
+   "venue": "(No Title)",
+   "year": "2010"
+  },
+  {
+   "title": "オブジェクトに付けられた修飾語と内容の合致度判定",
+   "authors": "高橋良平",
+   "venue": "平成 21 年度情報処理学会関西支部支部大会講演論文集 2009",
+   "year": "2009"
+  },
+  {
+   "title": "質問応答コンテンツにおける補完情報分析と検索質問生成",
+   "authors": "高田夏希",
+   "venue": "平成 21 年度情報処理学会関西支部支部大会講演論文集 2009",
+   "year": "2009"
+  },
+  {
+   "title": "恣意的に名前付けされたオブジェクトの識別手法",
+   "authors": "高橋良平， 小山聡， 田中克己",
+   "venue": "日本データベース学会論文誌 8 (1), 5-10",
+   "year": "2009"
+  },
+  {
+   "title": "Seeing Past Rivals: Visualizing Evolution of Coordinate Terms over Time",
+   "authors": "A Jatowt, H Ohshima, S Oyama, K Tanaka",
+   "venue": "(No Title)",
+   "year": "2009"
+  },
+  {
+   "title": "Towards Improving Web Search: A Large-Scale Exploratory Study of Selected Aspects of User Search Behavior",
+   "authors": "A Jatowt, S Oyama, K Tanaka, H Ohshima, S Nakamura",
+   "venue": "(No Title)",
+   "year": "2009"
+  },
+  {
+   "title": "語の共起を用いた Web からの類似関係検索",
+   "authors": "加藤誠， 大島裕明， 小山聡， 田中克己",
+   "venue": "電子情報通信学会技術研究報告; 信学技報 108 (329), 9-10",
+   "year": "2008"
+  },
+  {
+   "title": "Detecting and Visualizing Coordinate Relationships over Time",
+   "authors": "O Hiroaki, J Adam, O Satoshi, T Katsumi",
+   "venue": "電子情報通信学会技術研究報告. DE, データ工学 108 (211), 31-32",
+   "year": "2008"
+  },
+  {
+   "title": "Assisting Pictogram Selection with Semantic Interpretation",
+   "authors": "T Takasaki, T Ishida, H Cho, S Oyama",
+   "venue": "(No Title)",
+   "year": "2008"
+  },
+  {
+   "title": "オブジェクト識別におけるクラスタ数決定方式",
+   "authors": "小山聡， 田中克己",
+   "venue": "電子情報通信学会論文誌 D 91 (3), 521-530",
+   "year": "2008"
+  },
+  {
+   "title": "Query Transformation by Visualizing and Utilizing Information about What Users Are or Are Not Searching",
+   "authors": "S Nakamura, T Yoshida, S Oyama, K Tanaka",
+   "venue": "(No Title)",
+   "year": "2008"
+  },
+  {
+   "title": "属性値が時間変化するオブジェクトを識別する確率モデル",
+   "authors": "小山聡， 白砂健一， 田中克己",
+   "venue": "人工知能学会全国大会論文集, 8-8",
+   "year": "2008"
+  },
+  {
+   "title": "Status of DSRC Interernational Standards",
+   "authors": "S Oyama",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 107 (393), 39-44",
+   "year": "2007"
+  },
+  {
+   "title": "A Web Browser with Autonomous Search for Complementary Information",
+   "authors": "T Yoshida, S Nakamura, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 107 (131), 497-502",
+   "year": "2007"
+  },
+  {
+   "title": "A Relational Database Interface to Search Engines for Processing Web Aggregate Queries",
+   "authors": "H Ohshima, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 107 (131), 297-302",
+   "year": "2007"
+  },
+  {
+   "title": "オブジェクト識別におけるクラスタ数決定方式",
+   "authors": "小山聡， 田中克己",
+   "venue": "人工知能学会全国大会論文集 第 21 回 (2007), 1C13-1C13",
+   "year": "2007"
+  },
+  {
+   "title": "補完情報の自律型検索機能を有する Web ブラウザ",
+   "authors": "吉田大我， 中村聡史， 小山聡",
+   "venue": "情報処理学会研究報告= IPSJ SIG technical reports 2007 (65), 497-502",
+   "year": "2007"
+  },
+  {
+   "title": "EaRDB: Web 集約質問処理のためのプラットフォーム",
+   "authors": "大島裕明， 小山聡， 田中克己",
+   "venue": "DBSJ Letters 6 (2), 49-52",
+   "year": "2007"
+  },
+  {
+   "title": "属性値が時間変化する Web オブジェクトの識別・検索手法の提案",
+   "authors": "白砂健一， 小山聡， 田中克己",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 107 (131 …",
+   "year": "2007"
+  },
+  {
+   "title": "Web 集約質問処理のための検索エンジンの関係データベースインタフェース",
+   "authors": "大島裕明， 小山聡， 田中克己",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 107 (131 …",
+   "year": "2007"
+  },
+  {
+   "title": "Web からの兄弟カテゴリ文書の検索",
+   "authors": "大島裕明， 小山聡， 田中克己",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 106 (149 …",
+   "year": "2006"
+  },
+  {
+   "title": "Searching Coordinate Terms based on Search Engine Indices and Discovering its Context",
+   "authors": "H Ohshima, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 106 (149), 125-130",
+   "year": "2006"
+  },
+  {
+   "title": "Searching Sibling Category Pages from the Web",
+   "authors": "H Ohshima, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 106 (149), 119-124",
+   "year": "2006"
+  },
+  {
+   "title": "Support of Search Results Trust by Metadata of Search Engines",
+   "authors": "S Konishi, T Tezuka, S Oyama, K Tajima, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 106 (149), 137-142",
+   "year": "2006"
+  },
+  {
+   "title": "Generation of Common Site Maps by Extracting Common Attributes from",
+   "authors": "A Kotani, H Ohshima, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 106 (149), 35-40",
+   "year": "2006"
+  },
+  {
+   "title": "サーチエンジンのメタデータを用いたサーチ結果の信用度判断支援",
+   "authors": "小西信次， 手塚太郎， 小山聡， 田島敬史， 田中克己",
+   "venue": "電子情報通信学会技術研究報告; 信学技報 106 (149), 137-142",
+   "year": "2006"
+  },
+  {
+   "title": "Discovering and Visualizing Coordinate Terms and Topic Terms Using Search Engine Query Log",
+   "authors": "M Yamaguchi, H Ohshima, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 106 (148), 121-126",
+   "year": "2006"
+  },
+  {
+   "title": "Americas School on Agents and Multiagent Systems 参加報告 (トピックス)",
+   "authors": "岡本昌之， 小山聡",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "Improving Web Retrieval Precision Based on Semantic Relationships and Proximity of Query Keywords",
+   "authors": "T Tezuka, K Tajima, C Tian, K Tanaka, S Oyama",
+   "venue": "(No Title)",
+   "year": "2006"
+  },
+  {
+   "title": "Context Matcher: Improved Web Search Using Query Term Context in Source Document and in Search Results",
+   "authors": "K Tanaka, S Oyama, T Kawashige, H Ohshima",
+   "venue": "(No Title)",
+   "year": "2006"
+  },
+  {
+   "title": "Sibling Page Search by Page Examples",
+   "authors": "K Tanaka, H Ohshima, S Oyama",
+   "venue": "(No Title)",
+   "year": "2006"
+  },
+  {
+   "title": "サーチエンジンのインデックスを利用した同位語検索と同位語コンテキストの発見",
+   "authors": "大島裕明， 小山聡， 田中克己",
+   "venue": "情報処理学会研究報告= IPSJ SIG technical reports 2006 (78), 161-168",
+   "year": "2006"
+  },
+  {
+   "title": "Approximate intensional representation of web search results",
+   "authors": "Y Matsuike, S Oyama, K Tanaka",
+   "venue": "International Conference on Web Information Systems Engineering, 607-608",
+   "year": "2005"
+  },
+  {
+   "title": "Approximate Intensional Representation of Web Search Results",
+   "authors": "S Oyama, Y Matsuike, K Tanaka",
+   "venue": "(No Title)",
+   "year": "2005"
+  },
+  {
+   "title": "検索語の閲覧文書と検索結果における文脈を利用した質問修正",
+   "authors": "小山聡",
+   "venue": "電子情報通信学会第 16 回データ工学ワークショップ (DEWS2005) 論文集",
+   "year": "2005"
+  },
+  {
+   "title": "異なる例からの素性の組合せを用いたペアワイズ分類器の学習",
+   "authors": "小山聡",
+   "venue": "人工知能学会論文誌 20 (2), 105-116",
+   "year": "2005"
+  },
+  {
+   "title": "Web 検索結果のクラスタリングと観点抽出に基づく閲覧インタフェース",
+   "authors": "八村太輔， 湯本高行， 赤星祐平， 小山聡， 田中克己",
+   "venue": "DEWS2005, 4B-i11",
+   "year": "2005"
+  },
+  {
+   "title": "利用者選好の半順序性に着目した Web 探索とナビゲーションの個別化",
+   "authors": "山口雅史， 大島裕明， 小山聡， 田中克己",
+   "venue": "電子情報通信学会 第 16 回データ工学ワークショップ (DEWS2005) 論文集",
+   "year": "2005"
+  },
+  {
+   "title": "個人コンテンツからの概念体系の生成とこれに基づく Web 検索のパーソナライゼーション",
+   "authors": "大島裕明， 小山聡， 田中克己",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 104 (177), 43-48",
+   "year": "2004"
+  },
+  {
+   "title": "話題構造グラフを用いたニューステーマの時間的推移抽出手法の提案",
+   "authors": "林英俊， 手塚太郎， 小山聡",
+   "venue": "電子情報通信学会技術研究報告= IEICE technical report: 信学技報 104 (177), 13-18",
+   "year": "2004"
+  },
+  {
+   "title": "Web 検索結果とその周辺情報の近似的内包表現とその視覚化",
+   "authors": "松生泰典， 是津耕司， 小山聡",
+   "venue": "情報処理学会研究報告= IPSJ SIG technical reports 2004 (71), 191-198",
+   "year": "2004"
+  },
+  {
+   "title": "Query Modification by Discovering Topics from Web Page Structures",
+   "authors": "K Tanaka, S Oyama",
+   "venue": "(No Title)",
+   "year": "2004"
+  },
+  {
+   "title": "ネット上の情報を分析する技術",
+   "authors": "櫻井茂明， 小山聡",
+   "venue": "知能と情報 15 (5), 498-505",
+   "year": "2003"
+  },
+  {
+   "title": "Americas School on Agents and Multiagent Systems 参加報告",
+   "authors": "岡本昌之， 小山聡",
+   "venue": "コンピュータ ソフトウェア 20 (1), 92-97",
+   "year": "2003"
+  },
+  {
+   "title": "WebFarm: 動物メタファを用いた Web ブックマーク再利用機構",
+   "authors": "日野洋一郎， 中島伸介， 小山聡， 田中克己",
+   "venue": "第 14 回データ工学ワークショップ論文集",
+   "year": "2003"
+  },
+  {
+   "title": "会議報告 ACM SIGKDD 2002",
+   "authors": "上田修功",
+   "venue": "人工知能 17 (6), 794-795",
+   "year": "2002"
+  },
+  {
+   "title": "ドメイン指向 Web 検索のための質問の精錬: 機械学習・データマイニング (< 特集>「人工知能分野における博士論文」)",
+   "authors": "小山聡",
+   "venue": "人工知能 17 (6), 773-773",
+   "year": "2002"
+  },
+  {
+   "title": "エンジンセル用計測装置 HERT シリーズ",
+   "authors": "三輪清和， 小山聡",
+   "venue": "Readout: Horiba technical reports, 47-51",
+   "year": "2001"
+  },
+  {
+   "title": "リンク構造の可視化による HITS アルゴリズムの分析",
+   "authors": "早水哲雄， 野村早恵子， 小山聡， 石田亨",
+   "venue": "人工知能学会全国大会論文集, 53-53",
+   "year": "2001"
+  },
+  {
+   "title": "ドメイン指向 Web 検索のためのドメイン判別ブール式の抽出",
+   "authors": "小山聡， 小久保卓， 石田亨",
+   "venue": "人工知能学会全国大会論文集, 50-50",
+   "year": "2001"
+  },
+  {
+   "title": "Analysis of HITS Algorithm by Visualizing Hyperlink Structure",
+   "authors": "T Hayamizu, S Nomura, S Oyama, T Ishida",
+   "venue": "Proceedings of the Annual Conference of JSAI 15th (2001), 53-53",
+   "year": "2001"
+  },
+  {
+   "title": "Extracting a Boolean expression of Keywords for Domain-Specific Web Search",
+   "authors": "S Oyama, T Kokubo, T Ishida",
+   "venue": "Proceedings of the Annual Conference of JSAI 15th (2001), 50-50",
+   "year": "2001"
+  },
+  {
+   "title": "Development of a vapor compression heat pump system using nonazeotropic refrigerant mixtures. Kongo reibai wo mochiita koseino joki asshukushiki heat pump no kaihatsu",
+   "authors": "T Fujii, S Oyama, H Takamatsu, K Shinzato, T Yara",
+   "venue": "Kyushu Daigaku Kino Busshitsu Kagaku Kenkyusho Hokoku;(Japan) 5 (2)",
+   "year": "1992"
+  },
+  {
+   "title": "A method for extracting dust from gaseous wash fluids",
+   "authors": "S Takakhasi, K Miyadera, T Miyamoto, S Oyama, S Tanaka",
+   "venue": "",
+   "year": "1983"
+  },
+  {
+   "title": "Hyperparameter Transfer Using Item Response Theory",
+   "authors": "T Sakabe, Y Sakurai, H Kashima, S Oyama",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Comparing Occupational Gender Bias in AI-Generated Anime-style and Realistic Illustrations",
+   "authors": "A Ito, S Mizuno, K Namikoshi, Y Sakurai, S Oyama",
+   "venue": "Generative and Protective AI for Content Creation",
+   "year": null
+  },
+  {
+   "title": "ヒューマンコンピュテーションとクラウドソーシング",
+   "authors": "小山聡",
+   "venue": "(No Title)",
+   "year": null
+  },
+  {
+   "title": "Retrieving Similar Relations from the Web Using Term Co-occurences",
+   "authors": "MP Kato, H Ohshima, S Oyama, K Tanaka",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 108 (329), 9-10",
+   "year": null
+  },
+  {
+   "title": "Auction mechanism design using deep learning",
+   "authors": "S Oyama, M Guo, M Yokoo",
+   "venue": "IEICE Technical Report; IEICE Tech. Rep. 119 (330)",
+   "year": null
+  },
+  {
+   "title": "深層学習を用いたオークションのメカニズム設計",
+   "authors": "櫻井祐子， 小山聡， 横尾真",
+   "venue": "電子情報通信学会技術研究報告; 信学技報 119 (330)",
+   "year": null
+  },
+  {
+   "title": "相対的質問とその質問処理方式 相対的質問とその質問処理方式",
+   "authors": "中島伸介， 木下真一， 小山聡， 角谷和俊， 田中克己",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Query refinement for domain-specific web search",
+   "authors": "小山聡",
+   "venue": "(No Title)",
+   "year": null
+  },
+  {
+   "title": "Web 画像の 「らしさ」 検索: 語の典型的特徴を表す語集合のソーシャルタギング情報からの取得による Web 画像検索",
+   "authors": "加藤誠， 大島裕明， 小山聡， 田中克己",
+   "venue": "moon 1, 0.82",
+   "year": null
+  },
+  {
+   "title": "Web コミュニティ発見のための HITS アルゴリズムの分析と改善, 電子情報通信学会論文時",
+   "authors": "野村早恵子， 小山聡， 早水哲雄， 石田享",
+   "venue": "VolJ85-D-1",
+   "year": null
+  },
+  {
+   "title": "Web コンテンツの周辺情報提示によるナビゲーション支援 によるナビゲーション支援",
+   "authors": "池田新平， 是津耕司， 小山聡， 田中克己",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "文書の論理構造を利用したウェブベース翻訳支援システム",
+   "authors": "高橋亜希子， 是津耕司， 小山聡， 田中克己",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "情報検索アルゴリズム情報検索アルゴリズム, 2002",
+   "authors": "高橋良平， 小山聡， 大島裕明， 田中克己",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Crowdsourcing Chart Digitizer",
+   "authors": "S Oyama, Y Baba, I Ohmukai, H Dokoshi, H Kashima",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "COOPERATIVE INFORMATION AGENTS",
+   "authors": "S OYAMA, K HIRAMATSU, T ISHIDA",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Cross-Media Search Environments for Education-Software Technologies for Search and Integration across Heterogeneous Media Archives",
+   "authors": "K Tanaka, Y Kiyoki, J Adachi, S Oyama, T Tezuka, H Ohshima, N Yoshida, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Extracting and Visualizing Common Aspects of Multiple Web Sites",
+   "authors": "A Kotani, S Oyama, K Tanaka",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

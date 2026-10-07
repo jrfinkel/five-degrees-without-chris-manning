@@ -1,0 +1,95 @@
+{
+ "user": "egmoOgkAAAAJ",
+ "pubs": [
+  {
+   "title": "No language left behind: Scaling human-centered machine translation",
+   "authors": "MR Costa-Jussà, J Cross, O Çelebi, M Elbayad, K Heafield, K Heffernan, ...",
+   "venue": "arXiv preprint arXiv:2207.04672",
+   "year": "2022"
+  },
+  {
+   "title": "Scaling neural machine translation to 200 languages",
+   "authors": "",
+   "venue": "Nature 630 (8018), 841-846",
+   "year": "2024"
+  },
+  {
+   "title": "Seamlessm4t: Massively multilingual & multimodal machine translation",
+   "authors": "L Barrault, YA Chung, MC Meglioli, D Dale, N Dong, PA Duquenne, ...",
+   "venue": "arXiv preprint arXiv:2308.11596",
+   "year": "2023"
+  },
+  {
+   "title": "Seamless: Multilingual Expressive and Streaming Speech Translation",
+   "authors": "L Barrault, YA Chung, MC Meglioli, D Dale, N Dong, M Duppenthaler, ...",
+   "venue": "arXiv preprint arXiv:2312.05187",
+   "year": "2023"
+  },
+  {
+   "title": "Neural generation meets real people: Towards emotionally engaging mixed-initiative conversations",
+   "authors": "A Paranjape, A See, K Kenealy, H Li, A Hardy, P Qi, KR Sadagopan, ...",
+   "venue": "arXiv preprint arXiv:2008.12348",
+   "year": "2020"
+  },
+  {
+   "title": "Small data, big impact: Leveraging minimal data for effective machine translation",
+   "authors": "J Maillard, C Gao, E Kalbassi, KR Sadagopan, V Goswami, P Koehn, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Joint speech and text machine translation for up to 100 languages",
+   "authors": "",
+   "venue": "Nature 637 (8046), 587-593",
+   "year": "2025"
+  },
+  {
+   "title": "Omnilingual asr: Open-source multilingual speech recognition for 1600+ languages",
+   "authors": "ASR Omnilingual, G Keren, A Kozhevnikov, Y Meng, C Ropers, M Setzler, ...",
+   "venue": "arXiv preprint arXiv:2511.09690",
+   "year": "2025"
+  },
+  {
+   "title": "BERT-A: Finetuning BERT with adapters and data augmentation",
+   "authors": "S Semnani, KR Sadagopan, F Tlili",
+   "venue": "Standford University 1, 2790-2799",
+   "year": "2019"
+  },
+  {
+   "title": "Know thy strengths: Comprehensive dialogue state tracking diagnostics",
+   "authors": "H Cho, C Sankar, C Lin, KR Sadagopan, S Shayandeh, A Celikyilmaz, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 5345-5359",
+   "year": "2022"
+  },
+  {
+   "title": "Neural generation meets real people: Building a social, informative open-domain dialogue agent",
+   "authors": "EA Chi, A Paranjape, A See, C Chiam, T Chang, K Kenealy, SK Lim, ...",
+   "venue": "arXiv preprint arXiv:2207.12021",
+   "year": "2022"
+  },
+  {
+   "title": "Characterizing and efficiently accelerating multimodal generation model inference",
+   "authors": "Y Lee, A Sun, B Hosmer, B Acun, C Balioglu, C Wang, CD Hernandez, ...",
+   "venue": "IEEE Micro, 2025",
+   "year": "2024"
+  },
+  {
+   "title": "CheckDST: Measuring real-world generalization of dialogue state tracking performance",
+   "authors": "H Cho, C Sankar, C Lin, KR Sadagopan, S Shayandeh, A Celikyilmaz, ...",
+   "venue": "arXiv preprint arXiv:2112.08321",
+   "year": "2021"
+  },
+  {
+   "title": "Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages",
+   "authors": "M Costa-jussa, O Team, G Keren, Y Meng, C Ropers, M Setzler, S Wang, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Re-Evolutionary Algorithms",
+   "authors": "D Agrawal, KR Sadagopan, F Tlili",
+   "venue": "arXiv preprint arXiv:1805.07917",
+   "year": "2018"
+  }
+ ]
+}

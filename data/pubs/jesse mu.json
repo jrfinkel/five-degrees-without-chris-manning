@@ -1,0 +1,185 @@
+{
+ "user": "djLcGEQAAAAJ",
+ "pubs": [
+  {
+   "title": "STaR: Self-taught reasoner bootstrapping reasoning with reasoning",
+   "authors": "E Zelikman, YT Wu, J Mu, ND Goodman",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Sleeper agents: Training deceptive llms that persist through safety training",
+   "authors": "E Hubinger, C Denison, J Mu, M Lambert, M Tong, M MacDiarmid, ...",
+   "venue": "arXiv preprint arXiv:2401.05566",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to compress prompts with gist tokens",
+   "authors": "J Mu, X Li, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2023"
+  },
+  {
+   "title": "Many-shot jailbreaking",
+   "authors": "C Anil, E Durmus, N Panickssery, M Sharma, J Benton, S Kundu, J Batson, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 129696-129742",
+   "year": "2024"
+  },
+  {
+   "title": "Compositional explanations of neurons",
+   "authors": "J Mu, J Andreas",
+   "venue": "Advances in Neural Information Processing Systems 33, 17153-17163",
+   "year": "2020"
+  },
+  {
+   "title": "Constitutional classifiers: Defending against universal jailbreaks across thousands of hours of red teaming",
+   "authors": "M Sharma, M Tong, J Mu, J Wei, J Kruthoff, S Goodfriend, E Ong, A Peng, ...",
+   "venue": "arXiv preprint arXiv:2501.18837",
+   "year": "2025"
+  },
+  {
+   "title": "Parkinson's disease subtypes identified from cluster analysis of motor and non-motor symptoms",
+   "authors": "J Mu, KR Chaudhuri, C Bielza, J de Pedro-Cuesta, P Larrañaga, ...",
+   "venue": "Frontiers in aging neuroscience 9, 301",
+   "year": "2017"
+  },
+  {
+   "title": "Simple probes can catch sleeper agents",
+   "authors": "M MacDiarmid, T Maxwell, N Schiefer, J Mu, J Kaplan, D Duvenaud, ...",
+   "venue": "URL https://www.anthropic.com/news/probes-catch-sleeper-agents",
+   "year": "2024"
+  },
+  {
+   "title": "Improving intrinsic exploration with language abstractions",
+   "authors": "J Mu, V Zhong, R Raileanu, M Jiang, N Goodman, T Rocktäschel, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 33947-33960",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent communication of generalizations",
+   "authors": "J Mu, N Goodman",
+   "venue": "Advances in neural information processing systems 34, 17994-18007",
+   "year": "2021"
+  },
+  {
+   "title": "Active learning helps pretrained models learn the intended task",
+   "authors": "A Tamkin, D Nguyen, S Deshpande, J Mu, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 35, 28140-28153",
+   "year": "2022"
+  },
+  {
+   "title": "Shaping visual representations with language for few-shot classification",
+   "authors": "J Mu, P Liang, N Goodman",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Learning to refer informatively by amortizing pragmatic reasoning",
+   "authors": "J White, J Mu, ND Goodman",
+   "venue": "arXiv preprint arXiv:2006.00418",
+   "year": "2020"
+  },
+  {
+   "title": "Improving policy learning via language dynamics distillation",
+   "authors": "V Zhong, J Mu, L Zettlemoyer, E Grefenstette, T Rocktäschel",
+   "venue": "Advances in Neural Information Processing Systems 35, 12504-12515",
+   "year": "2022"
+  },
+  {
+   "title": "Learning outside the box: Discourse-level features improve metaphor identification",
+   "authors": "J Mu, H Yannakoudakis, E Shutova",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Forecasting rare language model behaviors",
+   "authors": "E Jones, M Tong, J Mu, M Mahfoud, J Leike, R Grosse, J Kaplan, ...",
+   "venue": "arXiv preprint arXiv:2502.16797",
+   "year": "2025"
+  },
+  {
+   "title": "Do we need natural language? Exploring restricted language interfaces for complex domains",
+   "authors": "J Mu, A Sarkar",
+   "venue": "Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing …",
+   "year": "2019"
+  },
+  {
+   "title": "The meta-science of adult statistical word segmentation: Part 1",
+   "authors": "JK Hartshorne, L Skorb, SL Dietz, CR Garcia, GL Iozzo, KE Lamirato, ...",
+   "venue": "Collabra: Psychology 5 (1), 1",
+   "year": "2019"
+  },
+  {
+   "title": "Calibrate your listeners! Robust communication-based training for pragmatic speakers",
+   "authors": "R Wang, J White, J Mu, N Goodman",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 977-984",
+   "year": "2021"
+  },
+  {
+   "title": "Emergent covert signaling in adversarial reference games",
+   "authors": "D Yu, J Mu, N Goodman",
+   "venue": "Emergent Communication Workshop at ICLR 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Jailbreak defense in a narrow domain: Limitations of existing methods and a new transcript-classifier approach",
+   "authors": "TT Wang, J Hughes, H Sleight, R Schaeffer, R Agrawal, F Barez, ...",
+   "venue": "arXiv preprint arXiv:2412.02159",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-party referential communication in complex strategic games",
+   "authors": "J Mankewitz, V Boyce, B Waldon, G Loukatou, D Yu, J Mu, N Goodman, ...",
+   "venue": "OSF",
+   "year": "2021"
+  },
+  {
+   "title": "Parkinson’s disease subtypes identified from cluster analysis of motor and non-motor symptoms. Front Aging Neurosci 9: 301",
+   "authors": "J Mu, KR Chaudhuri, C Bielza, J de Pedro-Cuesta, P Larrañaga, ...",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Characterizing tradeoffs between teaching via language and demonstrations in multi-agent systems",
+   "authors": "D Yu, ND Goodman, J Mu",
+   "venue": "arXiv preprint arXiv:2305.11374",
+   "year": "2023"
+  },
+  {
+   "title": "In the zone: Measuring difficulty and progression in curriculum generation",
+   "authors": "RE Wang, J Mu, D Arumugam, N Jaques, N Goodman",
+   "venue": "Deep Reinforcement Learning Workshop NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating hierarchies of verb argument structure with hierarchical clustering",
+   "authors": "J Mu, JK Hartshorne, T O’Donnell",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Replication of frank, goldwater, griffiths, & tenenbaum (2010): Modeling human performance in statistical word segmentation, experiment 1",
+   "authors": "J Mu, J Ledoux, J Hartshorne",
+   "venue": "OSF",
+   "year": "2017"
+  },
+  {
+   "title": "ORIGINAL RESEARCH published: 20 September 2017",
+   "authors": "A Takeda, K Takahashi, TK Khoo, KR Chaudhuri, J Mu, KR Chaudhuri, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Jailbreak Defense in a Narrow Domain: Failures of existing methods and Improving Transcript-Based Classifiers",
+   "authors": "TT Wang, J Hughes, H Sleight, R Schaeffer, R Agrawal, F Barez, ...",
+   "venue": "The Third Workshop on New Frontiers in Adversarial Machine Learning",
+   "year": null
+  },
+  {
+   "title": "Emergent Covert Signaling in Adversarial Reference Games",
+   "authors": "D Yu, J Mu, N Goodman",
+   "venue": "Emergent Communication Workshop at ICLR 2022",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "user": "GaYmpIgAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Alpaca: A strong, replicable instruction-following model",
+   "authors": "R Taori, I Gulrajani, T Zhang, Y Dubois, X Li, C Guestrin, P Liang, ...",
+   "venue": "Stanford Center for Research on Foundation Models. https://crfm. stanford …",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Isolating sources of disentanglement in variational autoencoders",
+   "authors": "RTQ Chen, X Li, RB Grosse, DK Duvenaud",
+   "venue": "Advances in neural information processing systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Alpacaeval: An automatic evaluator of instruction-following models",
+   "authors": "X Li, T Zhang, Y Dubois, R Taori, I Gulrajani, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Alpacafarm: A simulation framework for methods that learn from human feedback",
+   "authors": "Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 30039-30069",
+   "year": "2023"
+  },
+  {
+   "title": "Large language models can be strong differentially private learners",
+   "authors": "X Li, F Tramer, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2110.05679",
+   "year": "2021"
+  },
+  {
+   "title": "Scalable gradients for stochastic differential equations",
+   "authors": "X Li, TKL Wong, RTQ Chen, D Duvenaud",
+   "venue": "International conference on artificial intelligence and statistics, 3870-3882",
+   "year": "2020"
+  },
+  {
+   "title": "Exploiting programmatic behavior of llms: Dual-use through standard security attacks",
+   "authors": "D Kang, X Li, I Stoica, C Guestrin, M Zaharia, T Hashimoto",
+   "venue": "2024 IEEE security and privacy workshops (SPW), 132-143",
+   "year": "2024"
+  },
+  {
+   "title": "Inference Suboptimality in Variational Autoencoders",
+   "authors": "C Cremer, X Li, D Duvenaud",
+   "venue": "International Conference on Machine Learning",
+   "year": "2018"
+  },
+  {
+   "title": "Neural sdes as infinite-dimensional gans",
+   "authors": "P Kidger, J Foster, X Li, TJ Lyons",
+   "venue": "International conference on machine learning, 5453-5463",
+   "year": "2021"
+  },
+  {
+   "title": "Foundation models and fair use",
+   "authors": "P Henderson, X Li, D Jurafsky, T Hashimoto, MA Lemley, P Liang",
+   "venue": "Journal of Machine Learning Research 24 (400), 1-79",
+   "year": "2023"
+  },
+  {
+   "title": "Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe",
+   "authors": "X Yue, HA Inan, X Li, G Kumar, J McAnallen, H Sun, D Levitan, R Sim",
+   "venue": "arXiv preprint arXiv:2210.14348",
+   "year": "2022"
+  },
+  {
+   "title": "Efficient and accurate gradients for neural sdes",
+   "authors": "P Kidger, J Foster, XC Li, T Lyons",
+   "venue": "Advances in neural information processing systems 34, 18747-18761",
+   "year": "2021"
+  },
+  {
+   "title": "Scalable gradients and variational inference for stochastic differential equations",
+   "authors": "X Li, TKL Wong, RTQ Chen, DK Duvenaud",
+   "venue": "Symposium on Advances in Approximate Bayesian Inference, 1-28",
+   "year": "2020"
+  },
+  {
+   "title": "Stochastic runge-kutta accelerates langevin monte carlo and beyond",
+   "authors": "X Li, Y Wu, L Mackey, MA Erdogdu",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Linguistic calibration of long-form generations",
+   "authors": "N Band, X Li, T Ma, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2404.00474",
+   "year": "2024"
+  },
+  {
+   "title": "Exploring the limits of differentially private deep learning with group-wise clipping",
+   "authors": "J He, X Li, D Yu, H Zhang, J Kulkarni, YT Lee, A Backurs, N Yu, J Bian",
+   "venue": "arXiv preprint arXiv:2212.01539",
+   "year": "2022"
+  },
+  {
+   "title": "Infinitely deep bayesian neural networks with stochastic differential equations",
+   "authors": "W Xu, RTQ Chen, X Li, D Duvenaud",
+   "venue": "International conference on artificial intelligence and statistics, 721-738",
+   "year": "2022"
+  },
+  {
+   "title": "When does differentially private learning not suffer in high dimensions?",
+   "authors": "X Li, D Liu, TB Hashimoto, HA Inan, J Kulkarni, YT Lee, A Guha Thakurta",
+   "venue": "Advances in Neural Information Processing Systems 35, 28616-28630",
+   "year": "2022"
+  },
+  {
+   "title": "When does preconditioning help or hurt generalization?",
+   "authors": "S Amari, J Ba, R Grosse, X Li, A Nitanda, T Suzuki, D Wu, J Xu",
+   "venue": "arXiv preprint arXiv:2006.10732",
+   "year": "2020"
+  },
+  {
+   "title": "Scalable ensembling for mitigating reward overoptimisation",
+   "authors": "AM Ahmed, R Rafailov, S Sharkov, X Li, S Koyejo",
+   "venue": "arXiv preprint arXiv:2406.01013",
+   "year": "2024"
+  },
+  {
+   "title": "A closer look at the calibration of differentially private learners",
+   "authors": "H Zhang, X Li, P Sen, S Roukos, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2210.08248",
+   "year": "2022"
+  },
+  {
+   "title": "Effective differentially private deep learning",
+   "authors": "X Li",
+   "venue": "Stanford University",
+   "year": "2024"
+  }
+ ]
+}

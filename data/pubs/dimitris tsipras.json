@@ -1,0 +1,155 @@
+{
+ "user": "26eh1jAAAAAJ",
+ "pubs": [
+  {
+   "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+   "authors": "A Madry, A Makelov, L Schmidt, D Tsipras, A Vladu",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2018"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Adversarial examples are not bugs, they are features",
+   "authors": "A Ilyas, S Santurkar, D Tsipras, L Engstrom, B Tran, A Madry",
+   "venue": "Neural Information Processing Systems (NeurIPS)",
+   "year": "2019"
+  },
+  {
+   "title": "How Does Batch Normalization Help Optimization?",
+   "authors": "S Santurkar, D Tsipras, A Ilyas, A Madry",
+   "venue": "Neural Information Processing Systems (NeurIPS)",
+   "year": "2018"
+  },
+  {
+   "title": "Robustness may be at odds with accuracy",
+   "authors": "D Tsipras, S Santurkar, L Engstrom, A Turner, A Madry",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2019"
+  },
+  {
+   "title": "On Evaluating Adversarial Robustness",
+   "authors": "N Carlini, A Athalye, N Papernot, W Brendel, J Rauber, D Tsipras, ...",
+   "venue": "arXiv preprint arXiv:1902.06705",
+   "year": "2019"
+  },
+  {
+   "title": "Adversarially robust generalization requires more data",
+   "authors": "L Schmidt, S Santurkar, D Tsipras, K Talwar, A Madry",
+   "venue": "Neural Information Processing Systems (NeurIPS)",
+   "year": "2018"
+  },
+  {
+   "title": "Exploring the Landscape of Spatial Robustness",
+   "authors": "L Engstrom, B Tran, D Tsipras, L Schmidt, A Madry",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2019"
+  },
+  {
+   "title": "What Can Transformers Learn In-Context? A Case Study of Simple Function Classes",
+   "authors": "S Garg, D Tsipras, P Liang, G Valiant",
+   "venue": "Neural Information Processing Systems (NeurIPS)",
+   "year": "2022"
+  },
+  {
+   "title": "Implementation Matters in Deep RL: A Case Study on PPO and TRPO",
+   "authors": "L Engstrom, A Ilyas, S Santurkar, D Tsipras, F Janoos, L Rudolph, ...",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2019"
+  },
+  {
+   "title": "Label-Consistent Backdoor Attacks",
+   "authors": "A Turner, D Tsipras, A Madry",
+   "venue": "arXiv preprint arXiv:1912.02771",
+   "year": "2019"
+  },
+  {
+   "title": "Dataset security for machine learning: Data poisoning, backdoor attacks, and defenses",
+   "authors": "M Goldblum, D Tsipras, C Xie, X Chen, A Schwarzschild, D Song, ...",
+   "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+   "year": "2022"
+  },
+  {
+   "title": "Adversarial robustness as a prior for learned representations",
+   "authors": "L Engstrom, A Ilyas, S Santurkar, D Tsipras, B Tran, A Madry",
+   "venue": "arXiv preprint arXiv:1906.00945",
+   "year": "2019"
+  },
+  {
+   "title": "Robustness (python library), 2019",
+   "authors": "L Engstrom, A Ilyas, S Santurkar, D Tsipras",
+   "venue": "https://github. com/MadryLab/robustness",
+   "year": null
+  },
+  {
+   "title": "Image Synthesis with a Single (Robust) Classifier",
+   "authors": "S Santurkar, A Ilyas, D Tsipras, L Engstrom, B Tran, A Madry",
+   "venue": "Neural Information Processing Systems (NeurIPS)",
+   "year": "2019"
+  },
+  {
+   "title": "BREEDS: Benchmarks for Subpopulation Shift",
+   "authors": "S Santurkar, D Tsipras, A Madry",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2021"
+  },
+  {
+   "title": "From imagenet to image classification: Contextualizing progress on benchmarks",
+   "authors": "D Tsipras, S Santurkar, L Engstrom, A Ilyas, A Madry",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2020"
+  },
+  {
+   "title": "Matrix Scaling and Balancing via Box Constrained Newton's Method and Interior Point Methods",
+   "authors": "MB Cohen, A Madry, D Tsipras, A Vladu",
+   "venue": "Foundations of Computer Science (FOCS)",
+   "year": "2017"
+  },
+  {
+   "title": "Editing a classifier by rewriting its prediction rules",
+   "authors": "S Santurkar, D Tsipras, M Elango, D Bau, A Torralba, A Madry",
+   "venue": "Neural Information Processing Systems (NeurIPS)",
+   "year": "2021"
+  },
+  {
+   "title": "A Closer Look at Deep Policy Gradients",
+   "authors": "A Ilyas, L Engstrom, S Santurkar, D Tsipras, F Janoos, L Rudolph, ...",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2020"
+  },
+  {
+   "title": "Identifying statistical bias in dataset replication",
+   "authors": "L Engstrom, A Ilyas, S Santurkar, D Tsipras, J Steinhardt, A Madry",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2020"
+  },
+  {
+   "title": "A Discussion of'Adversarial Examples Are Not Bugs, They Are Features': Discussion and Author Responses",
+   "authors": "L Engstrom, A Ilyas, A Madry, S Santurkar, B Tran, D Tsipras",
+   "venue": "Distill 4 (8), e00019. 7",
+   "year": "2019"
+  },
+  {
+   "title": "Combining Diverse Feature Priors",
+   "authors": "S Jain, D Tsipras, A Madry",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2022"
+  },
+  {
+   "title": "Efficient Money Burning in General Domains",
+   "authors": "D Fotakis, D Tsipras, C Tzamos, E Zampetakis",
+   "venue": "Theory of Computing Systems (ToCS)",
+   "year": "2016"
+  },
+  {
+   "title": "Learning Through the Lens of Robustness",
+   "authors": "D Tsipras",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2021"
+  }
+ ]
+}

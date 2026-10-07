@@ -1,0 +1,137 @@
+{
+ "user": "8APGEEkAAAAJ",
+ "pubs": [
+  {
+   "title": "Gepa: Reflective prompt evolution can outperform reinforcement learning",
+   "authors": "LA Agrawal, S Tan, D Soylu, N Ziems, R Khare, K Opsahl-Ong, A Singhvi, ...",
+   "venue": "International Conference on Learning Representations 2026, 8479-8565",
+   "year": "2026"
+  },
+  {
+   "title": "Having beer after prayer? measuring cultural bias in large language models",
+   "authors": "T Naous, MJ Ryan, A Ritter, W Xu",
+   "venue": "🏆 ACL 2024 1, 16366–16393",
+   "year": "2023"
+  },
+  {
+   "title": "Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs",
+   "authors": "K Opsahl-Ong*, MJ Ryan*, J Purtell, D Broman, C Potts, M Zaharia, ...",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Unintended impacts of llm alignment on global representation",
+   "authors": "MJ Ryan, W Held, D Yang",
+   "venue": "ACL 2024 1, 16121–16140",
+   "year": "2024"
+  },
+  {
+   "title": "Revisiting non-English Text Simplification: A Unified Multilingual Benchmark",
+   "authors": "MJ Ryan, T Naous, W Xu",
+   "venue": "🏆 ACL 2023 1, 4898–4927",
+   "year": "2023"
+  },
+  {
+   "title": "ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment",
+   "authors": "T Naous, MJ Ryan, A Lavrouk, M Chandra, W Xu",
+   "venue": "EMNLP 2024",
+   "year": "2023"
+  },
+  {
+   "title": "Distilling an end-to-end voice assistant without instruction training data",
+   "authors": "W Held, Y Zhang, M Li, W Shi, MJ Ryan, D Yang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "SynthesizeMe! inducing persona-guided prompts for personalized reward models in LLMs",
+   "authors": "MJ Ryan, O Shaikh, A Bhagirath, D Frees, W Held, D Yang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Audiojudge: Understanding what works in large audio model based speech evaluation",
+   "authors": "P Manakul, WH Gan, MJ Ryan, AS Khan, W Sirichotedumrong, ...",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Cloud computed machine learning based real-time litter detection using micro-uav surveillance",
+   "authors": "A Chung, DY Kim, E Kwok, M Ryan, E Tan, R Gamadia",
+   "venue": "2018 IEEE MIT Undergraduate Research Technology Conference (URTC), 1-4",
+   "year": "2018"
+  },
+  {
+   "title": "Cooperbench: Why coding agents cannot be your teammates yet",
+   "authors": "A Khatua, H Zhu, P Tran, A Prabhudesai, F Sadrieh, JK Lieberwirth, X Yu, ...",
+   "venue": "arXiv preprint arXiv:2601.13295",
+   "year": "2026"
+  },
+  {
+   "title": "Enronqa: Towards personalized rag over private documents",
+   "authors": "MJ Ryan, D Xu, C Nivera, D Campos",
+   "venue": "arXiv preprint arXiv:2505.00263",
+   "year": "2025"
+  },
+  {
+   "title": "Mind the Gap! Static and Interactive Evaluations of Large Audio Models",
+   "authors": "M Li*, WB Held*, MJ Ryan, K Pipatanakul, P Manakul, H Zhu, D Yang",
+   "venue": "arXiv preprint arXiv:2502.15919",
+   "year": "2025"
+  },
+  {
+   "title": "Autometrics: Approximate human judgments with automatically generated evaluators",
+   "authors": "MJ Ryan, Y Zhang, A Salunkhe, Y Chu, D Xu, D Yang",
+   "venue": "International Conference on Learning Representations 2026, 157462-157517",
+   "year": "2026"
+  },
+  {
+   "title": "LangProBe: a Language Program Benchmark.",
+   "authors": "S Tan, LA Agrawal, A Singhvi, L Lai, MJ Ryan, D Klein, O Khattab, K Sen, ...",
+   "venue": "EMNLP (Findings), 21489-21509",
+   "year": "2025"
+  },
+  {
+   "title": "Whose Knowledge Counts? Co-Designing Community-Centered AI Auditing Tools with Educators in Hawai'i",
+   "authors": "D Zhao, H Cha, M J Ryan, A Wang, R Baker-Ramos, EB Helekahi-Kaiwi, ...",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+   "authors": "ZZ Wang, A Gandhi, R Shao, A Chen, J Mueller, Z Liang, J Chen, M Ryan, ...",
+   "venue": "arXiv preprint arXiv:2609.04141",
+   "year": "2026"
+  },
+  {
+   "title": "To Lie or Not to Lie? Investigating The Biased Spread of Global Lies by LLMs",
+   "authors": "Z Khan, M Dogan, I Okoh, P Sadeghi, S Shrestha, SJC Nyah, ...",
+   "venue": "🏆 ACL 2026, 15209-15228",
+   "year": "2026"
+  },
+  {
+   "title": "Reflections and New Directions for Human-Centered Large Language Models",
+   "authors": "C Ziems, D Zhao, RE Wang, M Jörke, A Rushdi, A Deepak, S Yu, ...",
+   "venue": "arXiv preprint arXiv:2605.06901",
+   "year": "2026"
+  },
+  {
+   "title": "A Survey of Non-English Parallel Corpora for Text Simplification",
+   "authors": "M Ryan",
+   "venue": "Georgia Institute of Technology",
+   "year": "2025"
+  },
+  {
+   "title": "Facial Composite Generation from Natural Language Text Descriptions using Stacked Generative Adversarial Networks",
+   "authors": "M Ryan",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Knock Knock: Neural Joke Generation and Classification Final Report",
+   "authors": "R Faulkner, R Rex, M Ryan",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

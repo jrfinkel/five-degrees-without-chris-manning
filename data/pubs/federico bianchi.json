@@ -1,0 +1,515 @@
+{
+ "user": "1okGjb8AAAAJ",
+ "pubs": [
+  {
+   "title": "A visual–language foundation model for pathology image analysis using medical twitter",
+   "authors": "Z Huang, F Bianchi, M Yuksekgonul, TJ Montine, J Zou",
+   "venue": "Nature medicine 29 (9), 2307-2316",
+   "year": "2023"
+  },
+  {
+   "title": "Xstest: A test suite for identifying exaggerated safety behaviours in large language models",
+   "authors": "P Röttger, HR Kirk, B Vidgen, G Attanasio, F Bianchi, D Hovy",
+   "venue": "NAACL",
+   "year": "2024"
+  },
+  {
+   "title": "Optimizing generative AI by backpropagating language model feedback",
+   "authors": "M Yuksekgonul, F Bianchi, J Boen, S Liu, Z Huang, C Guestrin, J Zou",
+   "venue": "Nature",
+   "year": "2025"
+  },
+  {
+   "title": "When and why vision-language models behave like bags-of-words, and what to do about it?",
+   "authors": "M Yuksekgonul, F Bianchi, P Kalluri, D Jurafsky, J Zou",
+   "venue": "ICLR",
+   "year": "2023"
+  },
+  {
+   "title": "Easily accessible text-to-image generation amplifies demographic stereotypes at large scale",
+   "authors": "F Bianchi, P Kalluri, E Durmus, F Ladhak, M Cheng, D Nozza, ...",
+   "venue": "FAccT",
+   "year": "2023"
+  },
+  {
+   "title": "Pre-training is a hot topic: Contextualized document embeddings improve topic coherence",
+   "authors": "F Bianchi, S Terragni, D Hovy",
+   "venue": "ACL",
+   "year": "2021"
+  },
+  {
+   "title": "Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions",
+   "authors": "F Bianchi, M Suzgun, G Attanasio, P Röttger, D Jurafsky, T Hashimoto, ...",
+   "venue": "ICLR",
+   "year": "2024"
+  },
+  {
+   "title": "Cross-lingual contextualized topic models with zero-shot learning",
+   "authors": "F Bianchi, S Terragni, D Hovy, D Nozza, E Fersini",
+   "venue": "EACL",
+   "year": "2021"
+  },
+  {
+   "title": "HONEST: Measuring hurtful sentence completion in language models",
+   "authors": "D Nozza, F Bianchi, D Hovy",
+   "venue": "NAACL",
+   "year": "2021"
+  },
+  {
+   "title": "Experimental neural network enhanced quantum tomography",
+   "authors": "AM Palmieri, E Kovlakov, F Bianchi, D Yudin, S Straupe, JD Biamonte, ...",
+   "venue": "npj Quantum Information 6 (1), 1-5",
+   "year": "2020"
+  },
+  {
+   "title": "Dynamic cheatsheet: Test-time learning with adaptive memory",
+   "authors": "M Suzgun, M Yuksekgonul, F Bianchi, D Jurafsky, J Zou",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis",
+   "authors": "F Bianchi, PJ Chia, M Yuksekgonul, J Tagliabue, D Jurafsky, J Zou",
+   "venue": "ICML",
+   "year": "2024"
+  },
+  {
+   "title": "What the [MASK]? making sense of language-specific BERT models",
+   "authors": "D Nozza, F Bianchi, D Hovy",
+   "venue": "arXiv preprint arXiv:2003.02912",
+   "year": "2020"
+  },
+  {
+   "title": "Knowledge Graph Embeddings and Explainable AI",
+   "authors": "F Bianchi, G Rossiello, L Costabello, M Palmonari, P Minervini",
+   "venue": "Knowledge Graphs for eXplainable Artificial Intelligence: Foundations …",
+   "year": "2020"
+  },
+  {
+   "title": "Neural-symbolic integration and the semantic web",
+   "authors": "P Hitzler, F Bianchi, M Ebrahimi, MK Sarker",
+   "venue": "Semantic Web 11 (1), 3-11",
+   "year": "2020"
+  },
+  {
+   "title": "Contrastive language and vision learning of general fashion concepts",
+   "authors": "PJ Chia, G Attanasio, F Bianchi, S Terragni, AR Magalhaes, D Goncalves, ...",
+   "venue": "Scientific Reports 12 (1), 18958",
+   "year": "2022"
+  },
+  {
+   "title": "FEEL-IT: Emotion and sentiment classification for the Italian language",
+   "authors": "F Bianchi, D Nozza, D Hovy",
+   "venue": "Proceedings of the eleventh workshop on computational approaches to …",
+   "year": "2021"
+  },
+  {
+   "title": "“you sound just like your father” commercial machine translation systems include stylistic biases",
+   "authors": "D Hovy, F Bianchi, T Fornaciari",
+   "venue": "ACL",
+   "year": "2020"
+  },
+  {
+   "title": "Learning to discover at test time",
+   "authors": "M Yuksekgonul, D Koceja, X Li, F Bianchi, J McCaleb, X Wang, J Kautz, ...",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "Training Temporal Word Embeddings with a Compass",
+   "authors": "V Di Carlo, F Bianchi, M Palmonari",
+   "venue": "AAAI",
+   "year": "2019"
+  },
+  {
+   "title": "Measuring harmful sentence completion in language models for LGBTQIA+ individuals",
+   "authors": "D Nozza, F Bianchi, A Lauscher, D Hovy",
+   "venue": "Proceedings of the Second Workshop on Language Technology for Equality …",
+   "year": "2022"
+  },
+  {
+   "title": "Tough Tables: Carefully Evaluating Entity Linking for Tabular Data",
+   "authors": "V Cutrona, F Bianchi, E Jimenez-Ruiz, M Palmonari",
+   "venue": "International Semantic Web Conference (ISWC)",
+   "year": "2020"
+  },
+  {
+   "title": "Language models cannot reliably distinguish belief from knowledge and fact",
+   "authors": "M Suzgun, T Gur, F Bianchi, DE Ho, T Icard, D Jurafsky, J Zou",
+   "venue": "Nature Machine Intelligence 7 (11), 1780-1790",
+   "year": "2025"
+  },
+  {
+   "title": "Pipelines for Social Bias Testing of Large Language Models",
+   "authors": "D Nozza, F Bianchi, D Hovy",
+   "venue": "Challenges & Perspectives in Creating Large Language Models",
+   "year": "2022"
+  },
+  {
+   "title": "Contrastive language-image pre-training for the italian language",
+   "authors": "F Bianchi, G Attanasio, R Pisoni, S Terragni, G Sarti, D Balestri",
+   "venue": "CLIC-it",
+   "year": "2023"
+  },
+  {
+   "title": "Towards bridging the neuro-symbolic gap: Deep deductive reasoners",
+   "authors": "M Ebrahimi, A Eberhart, F Bianchi, P Hitzler",
+   "venue": "Applied Intelligence 51 (9), 6326-6348",
+   "year": "2021"
+  },
+  {
+   "title": "h4rm3l: A dynamic benchmark of composable jailbreak attacks for llm safety assessment",
+   "authors": "MKB Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, F Bianchi, ...",
+   "venue": "ICLR",
+   "year": "2025"
+  },
+  {
+   "title": "XLM-EMO: Multilingual emotion prediction in social media text",
+   "authors": "F Bianchi, D Nozza, D Hovy",
+   "venue": "Proceedings of the 12th Workshop on Computational Approaches to Subjectivity …",
+   "year": "2022"
+  },
+  {
+   "title": "Universal joy a data set and results for classifying emotions across languages",
+   "authors": "S Lamprinidis, F Bianchi, D Hardt, D Hovy",
+   "venue": "Proceedings of the eleventh workshop on computational approaches to …",
+   "year": "2021"
+  },
+  {
+   "title": "On the Capabilities of Logic Tensor Networks for Deductive Reasoning",
+   "authors": "F Bianchi, P Hitzler",
+   "venue": "Proceedings of the AAAI 2019 Spring Symposium on Combining Machine Learning …",
+   "year": "2019"
+  },
+  {
+   "title": "Sigir 2021 e-commerce workshop data challenge",
+   "authors": "J Tagliabue, C Greco, JF Roy, B Yu, PJ Chia, F Bianchi, G Cassani",
+   "venue": "arXiv preprint arXiv:2104.09423",
+   "year": "2021"
+  },
+  {
+   "title": "Labeling messages as AI-generated does not reduce their persuasive effects",
+   "authors": "IO Gallegos, C Shani, W Shi, F Bianchi, I Gainsburg, D Jurafsky, R Willer",
+   "venue": "PNAS nexus 5 (2), pgag008",
+   "year": "2026"
+  },
+  {
+   "title": "Beyond NDCG: behavioral testing of recommender systems with RecList",
+   "authors": "PJ Chia, J Tagliabue, F Bianchi, C He, B Ko",
+   "venue": "TheWebConf",
+   "year": "2022"
+  },
+  {
+   "title": "BERTective: Language models and contextual information for deception detection",
+   "authors": "T Fornaciari, F Bianchi, M Poesio, D Hovy",
+   "venue": "Proceedings of the 16th conference of the european chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Data-efficient strategies for expanding hate speech detection into under-resourced languages",
+   "authors": "P Röttger, D Nozza, F Bianchi, D Hovy",
+   "venue": "EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "On the gap between adoption and understanding in NLP",
+   "authors": "F Bianchi, D Hovy",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring the use of AI authors and reviewers at Agents4Science",
+   "authors": "F Bianchi, O Queen, N Thakkar, E Sun, J Zou",
+   "venue": "Nature Biotechnology 44 (1), 11-14",
+   "year": "2026"
+  },
+  {
+   "title": "Bert goes shopping: Comparing distributional models for product representations",
+   "authors": "F Bianchi, B Yu, J Tagliabue",
+   "venue": "ECNLP",
+   "year": "2021"
+  },
+  {
+   "title": "\" It's Not Just Hate'': A Multi-Dimensional Perspective on Detecting Harmful Speech Online",
+   "authors": "F Bianchi, SA Hills, P Rossini, D Hovy, R Tromble, N Tintarev",
+   "venue": "EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "Fantastic embeddings and how to align them: Zero-shot inference in a multi-shop scenario",
+   "authors": "F Bianchi, J Tagliabue, B Yu, L Bigon, C Greco",
+   "venue": "arXiv preprint arXiv:2007.14906",
+   "year": "2020"
+  },
+  {
+   "title": "Meaning modulations and stability in large language models: An analysis of BERT embeddings for psycholinguistic research",
+   "authors": "G Cassani, F Bianchi, G Attanasio, M Marelli, F Guenther",
+   "venue": "OSF",
+   "year": "2023"
+  },
+  {
+   "title": "When and why vision-language models behave like bags-of-words, and what to do about it?, 2023",
+   "authors": "M Yuksekgonul, F Bianchi, P Kalluri, D Jurafsky, J Zou",
+   "venue": "URL https://arxiv. org/abs/2210.01936 14",
+   "year": "2022"
+  },
+  {
+   "title": "Complementing logical reasoning with sub-symbolic commonsense",
+   "authors": "F Bianchi, M Palmonari, P Hitzler, L Serafini",
+   "venue": "International Joint Conference on Rules and Reasoning, 161-170",
+   "year": "2019"
+  },
+  {
+   "title": "Artificial intelligence accidents waiting to happen?",
+   "authors": "F Bianchi, AC Curry, D Hovy",
+   "venue": "Journal of Artificial Intelligence Research 76, 193-199",
+   "year": "2023"
+  },
+  {
+   "title": "SocioProbe: What, When, and Where Language Models Learn about Sociodemographics",
+   "authors": "A Lauscher, F Bianchi, S Bowman, D Hovy",
+   "venue": "EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "Beyond digital\" echo chambers\": The role of viewpoint diversity in political discussion",
+   "authors": "R Hada, A Ebrahimi Fard, S Shugars, F Bianchi, P Rossini, D Hovy, ...",
+   "venue": "Proceedings of the Sixteenth ACM International Conference on Web Search and …",
+   "year": "2023"
+  },
+  {
+   "title": "Actively learning to rank semantic associations for personalized contextual exploration of knowledge graphs",
+   "authors": "F Bianchi, M Palmonari, M Cremaschi, E Fersini",
+   "venue": "European Semantic Web Conference, 120-135",
+   "year": "2017"
+  },
+  {
+   "title": "Query2Prod2Vec Grounded Word Embeddings for eCommerce",
+   "authors": "F Bianchi, J Tagliabue, B Yu",
+   "venue": "NAACL-HLT",
+   "year": "2021"
+  },
+  {
+   "title": "Words with Consistent Diachronic Usage Patterns are Learned Earlier: A Computational Analysis Using Temporally Aligned Word Embeddings",
+   "authors": "G Cassani, F Bianchi, M Marelli",
+   "venue": "Cognitive Science",
+   "year": "2021"
+  },
+  {
+   "title": "HATE-ITA: Hate speech detection in Italian social media text",
+   "authors": "D Nozza, F Bianchi, G Attanasio",
+   "venue": "Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), 252-260",
+   "year": "2022"
+  },
+  {
+   "title": "Large language models are vulnerable to bait-and-switch attacks for generating harmful content",
+   "authors": "F Bianchi, J Zou",
+   "venue": "arXiv preprint arXiv:2402.13926",
+   "year": "2024"
+  },
+  {
+   "title": "Neuro-symbolic deductive reasoning for cross-knowledge graph entailment",
+   "authors": "M Ebrahimi, MK Sarker, F Bianchi, N Xie, A Eberhart, D Doran, HS Kim, ...",
+   "venue": "AAAI Spring Symposium: Combining Machine Learning with Knowledge Engineering",
+   "year": "2021"
+  },
+  {
+   "title": "Reasoning over RDF knowledge bases using deep learning",
+   "authors": "M Ebrahimi, MK Sarker, F Bianchi, N Xie, D Doran, P Hitzler",
+   "venue": "arXiv preprint arXiv:1811.04132",
+   "year": "2018"
+  },
+  {
+   "title": "Towards encoding time in text-based entity embeddings",
+   "authors": "F Bianchi, M Palmonari, D Nozza",
+   "venue": "International Semantic Web Conference, 56-71",
+   "year": "2018"
+  },
+  {
+   "title": "Multiclass classification of dephasing channels",
+   "authors": "AM Palmieri, F Bianchi, MGA Paris, C Benedetti",
+   "venue": "arXiv preprint arXiv:2108.01571",
+   "year": "2021"
+  },
+  {
+   "title": "Logic tensor networks: Theory and applications",
+   "authors": "L Serafini, S Badreddine, I Donadello, M Spranger, F Bianchi",
+   "venue": "Neuro-Symbolic Artificial Intelligence: The State of the Art, 370-394",
+   "year": "2021"
+  },
+  {
+   "title": "DaCENA: serendipitous news reading with data contexts",
+   "authors": "M Palmonari, G Uboldi, M Cremaschi, D Ciminieri, F Bianchi",
+   "venue": "European Semantic Web Conference, 133-137",
+   "year": "2015"
+  },
+  {
+   "title": "The embeddings that came in from the cold: Improving vectors for new and rare products with content-based inference",
+   "authors": "J Tagliabue, B Yu, F Bianchi",
+   "venue": "Proceedings of the 14th ACM Conference on Recommender Systems, 577-578",
+   "year": "2020"
+  },
+  {
+   "title": "Compass-aligned distributional embeddings for studying semantic differences across corpora",
+   "authors": "F Bianchi, V Di Carlo, P Nicoli, M Palmonari",
+   "venue": "arXiv preprint arXiv:2004.06519",
+   "year": "2020"
+  },
+  {
+   "title": "To err is human: systematic quantification of errors in published AI papers via LLM analysis",
+   "authors": "F Bianchi, Y Kwon, Z Izzo, L Zhang, J Zou",
+   "venue": "arXiv preprint arXiv:2512.05925",
+   "year": "2025"
+  },
+  {
+   "title": "Gender and Age Bias in Commercial Machine Translation",
+   "authors": "F Bianchi, T Fornaciari, D Hovy, D Nozza",
+   "venue": "Towards Responsible Machine Translation: Ethical and Legal Considerations in …",
+   "year": "2023"
+  },
+  {
+   "title": "DSGym: A Holistic Framework for Evaluating and Training Data Science Agents",
+   "authors": "F Nie, J Wang, H Hua, F Bianchi, Y Kwon, Z Qi, O Queen, S Zhu, J Zou",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "ReasonIF: Large Reasoning Models Fail to Follow Instructions During Reasoning",
+   "authors": "Y Kwon, S Zhu, F Bianchi, K Zhou, J Zou",
+   "venue": "Findings of the ACL",
+   "year": "2025"
+  },
+  {
+   "title": "MilaNLP at SemEval-2022 task 5: Using perceiver IO for detecting misogynous memes with text and image modalities",
+   "authors": "G Attanasio, D Nozza, F Bianchi",
+   "venue": "Proceedings of the 16th International Workshop on Semantic Evaluation …",
+   "year": "2022"
+  },
+  {
+   "title": "“An image is worth a thousand features”: scalable product representations for in-session type-ahead personalization",
+   "authors": "B Yu, J Tagliabue, C Greco, F Bianchi",
+   "venue": "Companion Proceedings of the Web Conference 2020, 461-470",
+   "year": "2020"
+  },
+  {
+   "title": "SWEAT: Scoring Polarization of Topics across Different Corpora",
+   "authors": "F Bianchi, M Marelli, P Nicoli, M Palmonari",
+   "venue": "EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction",
+   "authors": "F Bianchi, C Greco, J Tagliabue",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "NEST: Neural soft type constraints to improve entity linking in tables",
+   "authors": "V Cutrona, G Puleri, F Bianchi, M Palmonari",
+   "venue": "Further with Knowledge Graphs: Proceedings of the 17th International …",
+   "year": "2021"
+  },
+  {
+   "title": "\" Does it come in black?\" CLIP-like models are zero-shot recommenders",
+   "authors": "PJ Chia, J Tagliabue, F Bianchi, C Greco, D Goncalves",
+   "venue": "ECNLP",
+   "year": "2022"
+  },
+  {
+   "title": "Type Vector Representations from Text: An Empirical Analysis",
+   "authors": "F Bianchi, M Soto, M Palmonari, V Cutrona",
+   "venue": "Proceedings of the First Workshop on Deep Learning for Knowledge Graphs and …",
+   "year": "2018"
+  },
+  {
+   "title": "EvalRS 2023. Well-Rounded Recommender Systems For Real-World Deployments",
+   "authors": "F Bianchi, PJ Chia, C Greco, C Pomo, G Moreira, D Eynard, F Husain, ...",
+   "venue": "EvalRS Workshop CEUR",
+   "year": "2023"
+  },
+  {
+   "title": "Language Invariant Properties in Natural Language Processing",
+   "authors": "F Bianchi, D Nozza, D Hovy",
+   "venue": "Proceedings of NLP Power! The First Workshop on Efficient Benchmarking in NLP",
+   "year": "2022"
+  },
+  {
+   "title": "MilaNLP@ WASSA: Does BERT feel sad when you cry?",
+   "authors": "T Fornaciari, F Bianchi, D Nozza, D Hovy",
+   "venue": "Proceedings of the Eleventh Workshop on Computational Approaches to …",
+   "year": "2021"
+  },
+  {
+   "title": "Supporting Journalism by Combining Neural Language Generation and Knowledge Graphs",
+   "authors": "M Cremaschi, F Bianchi, A Maurino, AP Pierotti",
+   "venue": "Proceedings of the Sixth Italian Conference on Computational Linguistics",
+   "year": "2019"
+  },
+  {
+   "title": "Joint Learning of Entity and Type Embeddings for Analogical Reasoning with Entities",
+   "authors": "F Bianchi, M Palmonari",
+   "venue": "Proceedings of the 1st Workshop on Natural Language for Artificial …",
+   "year": "2017"
+  },
+  {
+   "title": "Evalrs: a rounded evaluation of recommender systems",
+   "authors": "J Tagliabue, F Bianchi, T Schnabel, G Attanasio, C Greco, GSP Moreira, ...",
+   "venue": "arXiv preprint arXiv:2207.05772",
+   "year": "2022"
+  },
+  {
+   "title": "A challenge for rounded evaluation of recommender systems",
+   "authors": "J Tagliabue, F Bianchi, T Schnabel, G Attanasio, C Greco, ...",
+   "venue": "Nature Machine Intelligence 5 (2), 181-182",
+   "year": "2023"
+  },
+  {
+   "title": "Twitter-Demographer: A Flow-based Tool to Enrich Twitter Data",
+   "authors": "F Bianchi, V Cutrona, D Hovy",
+   "venue": "EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "UNIMIB@ DIACR-Ita: Aligning Distributional Embeddings with a Compass for Semantic Change Detection in the Italian Language",
+   "authors": "F Belotti, F Bianchi, M Palmonari",
+   "venue": "EVALITA Evaluation of NLP and Speech Tools for Italian-December 17th, 2020, 451",
+   "year": "2020"
+  },
+  {
+   "title": "Mapping lexical knowledge to distributed models for ontology concept invention",
+   "authors": "M Vimercati, F Bianchi, M Soto, M Palmonari",
+   "venue": "International Conference of the Italian Association for Artificial …",
+   "year": "2019"
+  },
+  {
+   "title": "Is It Worth the (Environmental) Cost? Limited Evidence for Temporal Adaptation via Continuous Training",
+   "authors": "G Attanasio, D Nozza, F Bianchi, D Hovy",
+   "venue": "arXiv preprint arXiv:2210.07365",
+   "year": "2022"
+  },
+  {
+   "title": "E Pluribus Unum: Guidelines on multi-objective evaluation of recommender systems",
+   "authors": "PJ Chia, G Attanasio, J Tagliabue, F Bianchi, C Greco, GSP Moreira, ...",
+   "venue": "arXiv preprint arXiv:2304.10621",
+   "year": "2023"
+  },
+  {
+   "title": "ProSiT! Latent Variable Discovery with PROgressive SImilarity Thresholds",
+   "authors": "T Fornaciari, D Hovy, F Bianchi",
+   "venue": "arXiv preprint arXiv:2210.14763",
+   "year": "2022"
+  },
+  {
+   "title": "Is It Worth the (Environmental) Cost? Limited Evidence for the Benefits of Diachronic Continuous Training",
+   "authors": "G Attanasio, D Nozza, F Bianchi, D Hovy",
+   "venue": "CoRR",
+   "year": "2022"
+  },
+  {
+   "title": "On the composition and recommendation of multi-feature paths: a comprehensive approach",
+   "authors": "V Cutrona, F Bianchi, M Ciavotta, A Maurino",
+   "venue": "GeoInformatica 23 (3), 353-373",
+   "year": "2019"
+  }
+ ]
+}

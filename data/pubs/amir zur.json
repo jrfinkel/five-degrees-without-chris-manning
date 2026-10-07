@@ -1,0 +1,83 @@
+{
+ "user": "4FTWuWoAAAAJ",
+ "pubs": [
+  {
+   "title": "Causal abstraction: A theoretical foundation for mechanistic interpretability",
+   "authors": "A Geiger, D Ibeling, A Zur, M Chaudhary, S Chauhan, J Huang, A Arora, ...",
+   "venue": "Journal of Machine Learning Research 26 (83), 1-64",
+   "year": "2025"
+  },
+  {
+   "title": "Agents of chaos",
+   "authors": "N Shapira, C Wendler, A Yen, G Sarti, K Pal, O Floody, A Belfki, A Loftus, ...",
+   "venue": "arXiv preprint arXiv:2602.20021",
+   "year": "2026"
+  },
+  {
+   "title": "MIB: A mechanistic interpretability benchmark",
+   "authors": "A Mueller, A Geiger, S Wiegreffe, D Arad, I Arcuschin, A Belfki, YS Chan, ...",
+   "venue": "arXiv preprint arXiv:2504.13151",
+   "year": "2025"
+  },
+  {
+   "title": "Causal proxy models for concept-based model explanations",
+   "authors": "Z Wu, K D’Oosterlinck, A Geiger, A Zur, C Potts",
+   "venue": "International conference on machine learning, 37313-37334",
+   "year": "2023"
+  },
+  {
+   "title": "Token entanglement in subliminal learning",
+   "authors": "A Zur, Z Ying, AR Loftus, K Şahin, S Yu, L Quirke, TR Shaham, N Shapira, ...",
+   "venue": "Mechanistic Interpretability Workshop at NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Are language models aware of the road not taken? Token-level uncertainty and hidden state dynamics",
+   "authors": "A Zur, A Geiger, ES Lubana, E Bigelow",
+   "venue": "arXiv preprint arXiv:2511.04527",
+   "year": "2025"
+  },
+  {
+   "title": "Updating clip to prefer descriptions over captions",
+   "authors": "A Zur, E Kreiss, K D’Oosterlinck, C Potts, A Geiger",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Agents of Chaos. arXiv, 2026",
+   "authors": "N Shapira, C Wendler, A Yen, G Sarti, K Pal, O FLoody, A Belfki, A Loftus, ...",
+   "venue": "URL https://arxiv. org/abs/2602.20021",
+   "year": "2026"
+  },
+  {
+   "title": "The STEMentors Program: Promoting the Academic Readiness and Community Building of Students within General Chemistry",
+   "authors": "D DeWeese, JE Nardo, I Applebaum, S Sundrani, A Zur, RM Waymouth, ...",
+   "venue": "Journal of Chemical Education 101 (1), 88-96",
+   "year": "2024"
+  },
+  {
+   "title": "Surgical Activation Steering via Generative Causal Mediation",
+   "authors": "A Sankaranarayanan, A Zur, A Geiger, D Hadfield-Menell",
+   "venue": "arXiv e-prints, arXiv: 2602.16080",
+   "year": "2026"
+  },
+  {
+   "title": "Meta-learning for better learning: Using meta-learning methods to automatically label exam questions with detailed learning objectives",
+   "authors": "A Zur, I Applebaum, J Nardo, D DeWeese, S Sundrani, S Salehi",
+   "venue": "Proceedings of the 16th International Conference on Educational Data Mining …",
+   "year": "2023"
+  },
+  {
+   "title": "Forking fast: Efficiently estimating uncertainty dynamics in text generation",
+   "authors": "E Bigelow, A Zur, S Grant, T Haklay, C Rager, O Lewis, T McGrath, ...",
+   "venue": "arXiv preprint arXiv:2608.19611",
+   "year": "2026"
+  },
+  {
+   "title": "Pragmatic Explanation of Causal Inference from Correlational Statements",
+   "authors": "A Zur, E Goodwin, C Shain, R Hawkins",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 48",
+   "year": "2026"
+  }
+ ]
+}

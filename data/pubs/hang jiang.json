@@ -1,0 +1,161 @@
+{
+ "user": "9qvTNQ4AAAAJ",
+ "pubs": [
+  {
+   "title": "Contrastive Learning of Medical Visual Representations from Paired Images and Text",
+   "authors": "Y Zhang, H Jiang, Y Miura, C D. Manning, C P. Langlotz",
+   "venue": "Proceedings of the 7th Machine Learning for Healthcare Conference (MLHC)",
+   "year": "2022"
+  },
+  {
+   "title": "PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits",
+   "authors": "H Jiang, X Zhang, X Cao, C Breazeal, D Roy, J Kabbara",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Automatic Text-based Personality Recognition on Monologues and Multiparty Dialogues Using Attentive Networks and Contextual Embeddings (Student Abstract)",
+   "authors": "H Jiang, X Zhang, JD Choi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "year": "2020"
+  },
+  {
+   "title": "CommunityLM: Probing Partisan Worldviews from Language Models",
+   "authors": "H Jiang, D Beeferman, B Roy, D Roy",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Using Twitter Data to Understand Public Perceptions of Approved versus Off-label Use for COVID-19-related Medications",
+   "authors": "Y Hua, H Jiang, S Lin, J Yang, JM Plasek, DW Bates, L Zhou",
+   "venue": "Journal of the American Medical Informatics Association (JAMIA)",
+   "year": "2022"
+  },
+  {
+   "title": "Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis",
+   "authors": "H Jiang, Y Hua, D Beeferman, D Roy",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings",
+   "authors": "W Brannon, W Kang, S Fulay, H Jiang, B Roy, D Roy, J Kabbara",
+   "venue": "Proceedings of TextGraphs-17: Graph-based Methods for Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling",
+   "authors": "H Jiang, X Zhang, R Mahari, D Kessler, E Ma, T August, I Li, AS Pentland, ...",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking",
+   "authors": "H Jiang, S Gurajada, Q Lu, S Neelam, L Popa, P Sen, Y Li, A Gray",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluating large language models on wikipedia-style survey generation",
+   "authors": "F Gao, H Jiang, R Yang, Q Zeng, J Lu, M Blum, T She, Y Jiang, I Li",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 5405-5418",
+   "year": "2024"
+  },
+  {
+   "title": "Data Augmentation with Mobius Transformations",
+   "authors": "S Zhou, J Zhang, H Jiang, T Lundh, AY Ng",
+   "venue": "Machine Learning: Science and Technology 2 (2), 025016",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring Patterns of Stability and Change in Caregivers' Word Usage Across Early Childhood",
+   "authors": "H Jiang, MC Frank, V Kulkarni, A Fourtassi",
+   "venue": "Cognitive Science",
+   "year": "2022"
+  },
+  {
+   "title": "HealthGenie: A Knowledge-Driven LLM Framework for Tailored Dietary Guidance",
+   "authors": "F Gao, X Zhao, D Xia, Z Zhou, R Yang, J Lu, H Jiang, C Park, I Li",
+   "venue": "Proceedings of the 34th ACM International Conference on Information and …",
+   "year": "2025"
+  },
+  {
+   "title": "AudienceView: AI-Assisted Interpretation of Audience Feedback in Journalism",
+   "authors": "W Brannon, D Beeferman, H Jiang, A Heyward, D Roy",
+   "venue": "CSCW Companion '24: Companion Publication of the 2024 Conference on Computer …",
+   "year": "2024"
+  },
+  {
+   "title": "Topic Detection and Tracking with Time-aware Document Embeddings",
+   "authors": "H Jiang, D Beeferman, W Mao, D Roy",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Bridging Dictionary: AI-Generated Dictionary of Partisan Language Use",
+   "authors": "H Jiang, D Beeferman, W Brannon, A Heyward, D Roy",
+   "venue": "CSCW Companion '24: Companion Publication of the 2024 Conference on Computer …",
+   "year": "2024"
+  },
+  {
+   "title": "Ensemble BERT with Data Augmentation and Linguistic Knowledge on SQuAD 2.0",
+   "authors": "W Zhou, X Zhang, H Jiang",
+   "venue": "Tech Report",
+   "year": "2019"
+  },
+  {
+   "title": "CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?",
+   "authors": "H Chen, D Metelski, L Qi, T Xia, J Lee, S Brown, K Riley, F Wang, TY Liu, ...",
+   "venue": "arXiv preprint arXiv:2605.16679",
+   "year": "2026"
+  },
+  {
+   "title": "Human-AI narrative synthesis to foster shared understanding in civic decision-making",
+   "authors": "C Overney, H Jiang, U Haider, C Moe, J Mangat, F Pantano, EG McMillian, ...",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Automatic Detection of Research Values from Scientific Abstracts Across Computer Science Subfields",
+   "authors": "H Jiang, T August, L Soldaini, K Lo, M Antoniak",
+   "venue": "arXiv preprint arXiv:2502.16390",
+   "year": "2025"
+  },
+  {
+   "title": "Topic-time Heatmaps for Human-in-the-loop Topic Detection and Tracking",
+   "authors": "D Beeferman, H Jiang",
+   "venue": "arXiv preprint arXiv:2110.07337",
+   "year": "2021"
+  },
+  {
+   "title": "Neuro-Symbolic Approach for Entity Linking",
+   "authors": "H Jiang, S Gurajada, L Popa, P Sen, A Gray, Y Li",
+   "venue": "US Patent App. 17/202,406",
+   "year": "2022"
+  },
+  {
+   "title": "DialectGram: Automatic Detection of Dialectal Changes with Multi-geographic Resolution Analysis",
+   "authors": "H Jiang, H Hong, Y Chen, V Kulkarni",
+   "venue": "Proceedings of the Society for Computation in Linguistics (SCiL) 2020",
+   "year": "2020"
+  },
+  {
+   "title": "FaciliTrain: Practicing Facilitation Skills through AI-Simulated Group Dialogue",
+   "authors": "H Jiang, Y Zhu, D Yang, Y Kim, D Roy, J Kabbara",
+   "venue": "arXiv preprint arXiv:2607.10850",
+   "year": "2026"
+  },
+  {
+   "title": "HugAgent: Benchmarking LLMs for Simulation of Individualized Human Reasoning",
+   "authors": "CJ Li, Z Mo, Y Tang, A Qu, J Wu, KI Zhao, Y Gan, J Fan, J Yu, H Jiang, ...",
+   "venue": "arXiv preprint arXiv:2510.15144",
+   "year": "2025"
+  },
+  {
+   "title": "Language Models as Mirrors and Bridges for Intergroup Communication",
+   "authors": "H Jiang",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2025"
+  }
+ ]
+}

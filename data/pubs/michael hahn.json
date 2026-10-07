@@ -1,0 +1,461 @@
+{
+ "user": "9y9ALCQAAAAJ",
+ "pubs": [
+  {
+   "title": "Theoretical limitations of self-attention in neural sequence models",
+   "authors": "M Hahn",
+   "venue": "Transactions of the Association for Computational Linguistics 8, 156-171",
+   "year": "2020"
+  },
+  {
+   "title": "Universals of word order reflect optimization of grammars for efficient communication",
+   "authors": "M Hahn, D Jurafsky, R Futrell",
+   "venue": "Proceedings of the National Academy of Sciences 117 (5), 2347-2353",
+   "year": "2020"
+  },
+  {
+   "title": "A resource-rational model of human processing of recursive linguistic structure",
+   "authors": "M Hahn, R Futrell, R Levy, E Gibson",
+   "venue": "Proceedings of the National Academy of Sciences 119 (43), e2122602119",
+   "year": "2022"
+  },
+  {
+   "title": "A theory of emergent in-context learning as implicit structure induction",
+   "authors": "M Hahn, N Goyal",
+   "venue": "arXiv preprint arXiv:2303.07971",
+   "year": "2023"
+  },
+  {
+   "title": "RNNs can generate bounded hierarchical languages with optimal memory",
+   "authors": "J Hewitt, M Hahn, S Ganguli, P Liang, CD Manning",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Why are sensitive functions hard for transformers?",
+   "authors": "M Hahn, M Rofin",
+   "venue": "ACL 🏆 Best Paper Award",
+   "year": "2024"
+  },
+  {
+   "title": "Modeling word and morpheme order in natural language as an efficient trade-off of memory and surprisal.",
+   "authors": "M Hahn, J Degen, R Futrell",
+   "venue": "Psychological Review 128 (4), 726",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling human reading with neural attention",
+   "authors": "M Hahn, F Keller",
+   "venue": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "A unifying theory explains seemingly contradictory biases in perceptual estimation",
+   "authors": "M Hahn, XX Wei",
+   "venue": "Nature Neuroscience 27 (4), 793-804",
+   "year": "2024"
+  },
+  {
+   "title": "An information-theoretic explanation of adjective ordering preferences",
+   "authors": "M Hahn, J Degen, N Goodman, D Jurafsky, R Futrell",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "The expressive capacity of state space models: A formal language perspective",
+   "authors": "Y Sarrof, Y Veitsman, M Hahn",
+   "venue": "Advances in Neural Information Processing Systems (NeurIPS) 37, 41202-41241",
+   "year": "2024"
+  },
+  {
+   "title": "A formal framework for understanding length generalization in transformers",
+   "authors": "X Huang, A Yang, S Bhattamishra, Y Sarrof, A Krebs, H Zhou, P Nakkiran, ...",
+   "venue": "ICLR 2025",
+   "year": "2024"
+  },
+  {
+   "title": "Crosslinguistic word order variation reflects evolutionary pressures of dependency and information locality",
+   "authors": "M Hahn, Y Xu",
+   "venue": "Proceedings of the National Academy of Sciences 119 (24), e2122604119",
+   "year": "2022"
+  },
+  {
+   "title": "CoMeT: Integrating different levels of linguistic modeling for meaning assessment",
+   "authors": "N Ott, R Ziai, M Hahn, D Meurers",
+   "venue": "Second Joint Conference on Lexical and Computational Semantics (* SEM …",
+   "year": "2013"
+  },
+  {
+   "title": "Evaluating the meaning of answers to reading comprehension questions: A semantics-based approach",
+   "authors": "M Hahn, D Meurers",
+   "venue": "Proceedings of the Seventh Workshop on Building Educational Applications …",
+   "year": "2012"
+  },
+  {
+   "title": "A cross-linguistic pressure for uniform information density in word order",
+   "authors": "TH Clark, C Meister, T Pimentel, M Hahn, R Cotterell, R Futrell, R Levy",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 1048-1065",
+   "year": "2023"
+  },
+  {
+   "title": "Modeling task effects in human reading with neural network-based attention",
+   "authors": "M Hahn, F Keller",
+   "venue": "Cognition 230, 105289",
+   "year": "2023"
+  },
+  {
+   "title": "Separations in the representational capabilities of transformers and recurrent architectures",
+   "authors": "S Bhattamishra, M Hahn, P Blunsom, V Kanade",
+   "venue": "Advances in Neural Information Processing Systems 37, 36002-36045",
+   "year": "2024"
+  },
+  {
+   "title": "Information theory as a bridge between language function and language form",
+   "authors": "R Futrell, M Hahn",
+   "venue": "Frontiers in Communication 7, 657725",
+   "year": "2022"
+  },
+  {
+   "title": "Tabula nearly rasa: Probing the linguistic knowledge of character-level neural language models trained on unsegmented text",
+   "authors": "M Hahn, M Baroni",
+   "venue": "Transactions of the Association for Computational Linguistics 7, 467-484",
+   "year": "2019"
+  },
+  {
+   "title": "Sensitivity as a complexity measure for sequence classification tasks",
+   "authors": "M Hahn, D Jurafsky, R Futrell",
+   "venue": "Transactions of the Association for Computational Linguistics 9, 891-908",
+   "year": "2021"
+  },
+  {
+   "title": "Lower Bounds for Chain-of-Thought Reasoning in Hard-Attention Transformers",
+   "authors": "A Amiri, X Huang, M Rofin, M Hahn",
+   "venue": "Forty-second International Conference on Machine Learning (ICML 2025)",
+   "year": "2025"
+  },
+  {
+   "title": "Morpheme ordering across languages reflects optimization for processing efficiency",
+   "authors": "M Hahn, R Mathew, J Degen",
+   "venue": "Open Mind 5, 208-232",
+   "year": "2021"
+  },
+  {
+   "title": "Linguistic structure from a bottleneck on sequential information processing",
+   "authors": "R Futrell, M Hahn",
+   "venue": "Nature Human Behaviour 10 (3), 589-600",
+   "year": "2026"
+  },
+  {
+   "title": "An information-theoretic characterization of morphological fusion",
+   "authors": "N Rathi, M Hahn, R Futrell",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Estimating predictive rate–distortion curves via neural variational inference",
+   "authors": "M Hahn, R Futrell",
+   "venue": "Entropy 21 (7), 640",
+   "year": "2019"
+  },
+  {
+   "title": "Softmax Transformers are Turing-Complete",
+   "authors": "H Jiang, M Hahn, G Zetzsche, AW Lin",
+   "venue": "ICLR 2026",
+   "year": "2025"
+  },
+  {
+   "title": "Word order variation in Khoekhoe",
+   "authors": "M Hahn",
+   "venue": "Proceedings of the International Conference on Head-Driven Phrase Structure …",
+   "year": "2013"
+  },
+  {
+   "title": "InversionView: a general-purpose method for reading information from neural activations",
+   "authors": "X Huang, M Panwar, N Goyal, M Hahn",
+   "venue": "Advances in Neural Information Processing Systems (NeurIPS) 37, 137903-137964",
+   "year": "2024"
+  },
+  {
+   "title": "Visibly Counter Languages and the Structure of",
+   "authors": "M Hahn, A Krebs, KJ Lange, M Ludwig",
+   "venue": "International Symposium on Mathematical Foundations of Computer Science, 384-394",
+   "year": "2015"
+  },
+  {
+   "title": "Contextualize-then-aggregate: Circuits for in-context learning in gemma-2 2b",
+   "authors": "A Bakalova, Y Veitsman, X Huang, M Hahn",
+   "venue": "COLM 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Character-based surprisal as a model of human reading in the presence of errors",
+   "authors": "M Hahn, F Keller, Y Bisk, Y Belinkov",
+   "venue": "Proceedings of the 41st Annual Meeting of the Cognitive Science Society (CogSci)",
+   "year": "2019"
+  },
+  {
+   "title": "Benefits and Limitations of Communication in Multi-Agent Reasoning",
+   "authors": "M Rizvi-Martel, S Bhattamishra, N Rathi, G Rabusseau, M Hahn",
+   "venue": "ICLR 2026",
+   "year": "2025"
+  },
+  {
+   "title": "Lossy context surprisal predicts task-dependent patterns in relative clause processing",
+   "authors": "K McCurdy, M Hahn",
+   "venue": "Proceedings of the 28th conference on computational natural language …",
+   "year": "2024"
+  },
+  {
+   "title": "Explaining patterns of fusion in morphological paradigms using the memory--surprisal tradeoff",
+   "authors": "N Rathi, M Hahn, R Futrell",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Tug-of-war between idioms’ figurative and literal interpretations in LLMs",
+   "authors": "S Oh, X Huang, M Pink, M Hahn, V Demberg",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Arabic relativization patterns: A unified HPSG analysis",
+   "authors": "M Hahn",
+   "venue": "Proceedings of the International Conference on Head-Driven Phrase Structure …",
+   "year": "2012"
+  },
+  {
+   "title": "Proto-Modern South Arabian Vowels–A First Approximation",
+   "authors": "M Hahn",
+   "venue": "Unpublished ms",
+   "year": "2012"
+  },
+  {
+   "title": "Null conjuncts and bound pronouns in Arabic",
+   "authors": "M Hahn",
+   "venue": "Proceedings of the International Conference on Head-Driven Phrase Structure …",
+   "year": "2011"
+  },
+  {
+   "title": "Automata learning and identification of the support of language models",
+   "authors": "S Bhattamishra, M Hahn, V Kanade",
+   "venue": "The Fourteenth International Conference on Learning Representations",
+   "year": "2026"
+  },
+  {
+   "title": "Language models can learn implicit multi-hop reasoning, but only if they have lots of training data",
+   "authors": "Y Yao, Y Du, D Zhu, M Hahn, A Koller",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Identifiability of Bayesian models of perception",
+   "authors": "M Hahn, E Wang, XX Wei",
+   "venue": "Proceedings of the National Academy of Sciences 123 (37), e2601013123",
+   "year": "2026"
+  },
+  {
+   "title": "Born a Transformer--Always a Transformer? On the Effect of Pretraining on Architectural Abilities",
+   "authors": "M Jobanputra, Y Veitsman, Y Sarrof, A Bakalova, V Demberg, E Pavlick, ...",
+   "venue": "NeurIPS 2025, arXiv: 2505.21785",
+   "year": "2025"
+  },
+  {
+   "title": "Modeling fixation behavior in reading with character-level neural attention",
+   "authors": "S Yan, M Hahn, F Keller",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Crosslinguistic word orders enable an efficient tradeoff of memory and surprisal",
+   "authors": "M Hahn, R Futrell",
+   "venue": "Society for Computation in Linguistics 3 (1), 468-469",
+   "year": "2020"
+  },
+  {
+   "title": "Systematicity between Forms and Meanings across Languages Supports Efficient Communication",
+   "authors": "D Osmelak, Y Xu, M Hahn, K McCurdy",
+   "venue": "ACL 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Decomposing Representation Space into Interpretable Subspaces with Unsupervised Learning",
+   "authors": "X Huang, M Hahn",
+   "venue": "ICLR 2026",
+   "year": "2025"
+  },
+  {
+   "title": "Provably Learning Attention with Queries",
+   "authors": "S Bhattamishra, K Shah, M Hahn, V Kanade",
+   "venue": "arXiv preprint arXiv:2601.16873",
+   "year": "2026"
+  },
+  {
+   "title": "The Bayesian Origin of the Probability Weighting Function in Human Representation of Probabilities",
+   "authors": "X Tong, TTU Hoang, XX Wei, M Hahn",
+   "venue": "arXiv preprint arXiv:2510.04698",
+   "year": "2025"
+  },
+  {
+   "title": "More frequent verbs are associated with more diverse valency frames: Efficient principles at the lexicon-grammar interface",
+   "authors": "S Tao, L Donatelli, M Hahn",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Information locality in the processing of classifier-noun dependencies in Mandarin Chinese",
+   "authors": "H Hao, Y Yang, M Hahn",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 46",
+   "year": "2024"
+  },
+  {
+   "title": "How do syntactic statistics and semantic plausibility modulate local coherence effects",
+   "authors": "H Hao, M Hahn, E Kaiser",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 45 (45)",
+   "year": "2023"
+  },
+  {
+   "title": "Henkin semantics for reasoning with natural language",
+   "authors": "M Hahn, F Richter",
+   "venue": "Journal of language modelling 3 (2), 513-568",
+   "year": "2015"
+  },
+  {
+   "title": "Discovering Interpretable Algorithms by Decompiling Transformers to RASP",
+   "authors": "X Huang, A Bakalova, S Bhattamishra, W Merrill, M Hahn",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "Wreath products of distributive forest algebras",
+   "authors": "M Hahn, A Krebs, H Straubing",
+   "venue": "Proceedings of the 33rd Annual ACM/IEEE Symposium on Logic in Computer …",
+   "year": "2018"
+  },
+  {
+   "title": "An algebraic perspective on visibly pushdown languages",
+   "authors": "M Hahn",
+   "venue": "Master’s thesis at the University of Tübingen",
+   "year": "2015"
+  },
+  {
+   "title": "Predication and NP structure in an omnipredicative language: The case of Khoekhoe",
+   "authors": "M Hahn",
+   "venue": "Proceedings of the International Conference on Head-Driven Phrase Structure …",
+   "year": "2014"
+  },
+  {
+   "title": "CoMeT: Integrating different levels of linguistic modeling for meaning assessment",
+   "authors": "NORZM Hahn, D Meurers",
+   "venue": "Atlanta, Georgia, USA, 608",
+   "year": "2013"
+  },
+  {
+   "title": "Barriers to Universal Reasoning With Transformers (And How to Overcome Them)",
+   "authors": "O Kraus, Y Sarrof, Y Yao, A Koller, M Hahn",
+   "venue": "arXiv preprint arXiv:2604.25800",
+   "year": "2026"
+  },
+  {
+   "title": "Understanding the Emergence of Seemingly Useless Features in Next-Token Predictors",
+   "authors": "M Rofin, J Naghiyev, M Hahn",
+   "venue": "ICLR 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Toward an information-theoretic model of morphological fusion based on an efficient tradeoff of memory and surprisal",
+   "authors": "N Rathi, M Hahn, R Futrell",
+   "venue": "Language 102 (1), 46-79",
+   "year": "2026"
+  },
+  {
+   "title": "When Does LoRA Reuse Work? Theoretical Limits and Mechanisms for Recycling LoRAs Without Data Access",
+   "authors": "MY Chen, TTU Hoang, M Hahn, MS Sarfraz",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2026"
+  },
+  {
+   "title": "Pronominal Null Conjuncts in Arabic",
+   "authors": "M Hahn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Hidden Reasoning Must Leak, but Need Not Be Readable: Fundamental Opportunities and Limits for Chain-of-Thought Monitoring",
+   "authors": "M Mohammadkhani, M Krishna, Y Sarrof, M Hahn",
+   "venue": "arXiv preprint arXiv:2609.37312",
+   "year": "2026"
+  },
+  {
+   "title": "Algebraic Decomposition Theory for Transformer Length Generalization",
+   "authors": "A Yang, B Veseli, C Barloy, M Cadilhac, A Krebs, C Paperman, ...",
+   "venue": "arXiv preprint arXiv:2608.13433",
+   "year": "2026"
+  },
+  {
+   "title": "From Expressivity to Sample Complexity: Narrow Teachers for Transformers via C-RASP",
+   "authors": "M Rizvi-Martel, S Bhattamishra, G Rabusseau, M Hahn",
+   "venue": "arXiv preprint arXiv:2607.11760",
+   "year": "2026"
+  },
+  {
+   "title": "System-Mediated Attention Imbalances Make Vision-Language Models Say Yes",
+   "authors": "TT Chan, V Suresh, A Saha, M Hahn, V Demberg",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 38958-38979",
+   "year": "2026"
+  },
+  {
+   "title": "Understanding the Parameter Space Geometry of Transformers Encoding Boolean Functions",
+   "authors": "B Köver, A Butoi, A Svete, M Hahn, R Cotterell",
+   "venue": "arXiv preprint arXiv:2606.08768",
+   "year": "2026"
+  },
+  {
+   "title": "How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning",
+   "authors": "E Wang, Y Wang, A Bakalova, M Hahn",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "On the Ability of Transformers to Verify Plans",
+   "authors": "Y Sarrof, Y Du, K Stein, A Koller, S Thiébaux, M Hahn",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "Explaining patterns of fusion in morphological paradigms using the memory--surprisal",
+   "authors": "N Rathi, M Hahn, R Futrell",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Computational and Communicative Efficiency in Language",
+   "authors": "MH Hahn",
+   "venue": "Stanford University",
+   "year": "2022"
+  },
+  {
+   "title": "Supplementary Information: Morpheme Ordering across Languages Reflects Optimization for Processing Efficiency",
+   "authors": "M Hahn, R Mathew, J Degen",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Supplementary Information for: Modeling word and morpheme order in natural language as an efficient tradeoff of memory and surprisal",
+   "authors": "M Hahn, J Degen, R Futrell",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Supplemental Materials for “Universals of word order reflect optimization of grammars for efficient communication”",
+   "authors": "M Hahn, D Jurafsky, R Futrell",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Modeling Working Memory Capacity in Sentence Processing with Lossy-Context Surprisal",
+   "authors": "J Li, M Hahn, V Demberg",
+   "venue": "OSF",
+   "year": null
+  }
+ ]
+}

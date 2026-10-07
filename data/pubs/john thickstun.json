@@ -1,0 +1,47 @@
+{
+ "user": "HnxJXfsAAAAJ",
+ "pubs": [
+  {
+   "title": "Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals",
+   "authors": "N Gillman, C Herrmann, M Freeman, D Aggarwal, E Luo, D Sun, C Sun",
+   "venue": "NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Self-Correcting Self-Consuming Loops for Generative Model Training",
+   "authors": "N Gillman, M Freeman, D Aggarwal, CH Hsu, C Luo, Y Tian, C Sun",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Do music generation models encode music theory?",
+   "authors": "M Wei*, M Freeman*, C Donahue, C Sun",
+   "venue": "ISMIR 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Fourier Head: Helping Large Language Models Learn Complex Probability Distributions",
+   "authors": "N Gillman*, D Aggarwal*, M Freeman, S Singh, C Sun",
+   "venue": "ICLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals",
+   "authors": "N Gillman, Y Zhou, Z Tang, E Luo, A Chakravarthy, D Aggarwal, ...",
+   "venue": "CVPR 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Assessing Factual Music Comprehension in Large Audio Language Models",
+   "authors": "DC Lin, M Freeman, J Thickstun",
+   "venue": "ISMIR 2026",
+   "year": "2025"
+  },
+  {
+   "title": "The Reliability Gap in Agentic Evidence Verification for Materials Science",
+   "authors": "A Gong, JJ Kim, A Kabra, A Panigrahi, J Wang, AB Mulchandani, ...",
+   "venue": "ICLR 2026 Workshop on Foundation Models for Science: Real-World Impact and …",
+   "year": "2026"
+  }
+ ]
+}

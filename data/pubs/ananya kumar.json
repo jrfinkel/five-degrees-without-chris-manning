@@ -1,0 +1,77 @@
+{
+ "user": "dXzqCT4AAAAJ",
+ "pubs": [
+  {
+   "title": "Fine-tuning can distort pretrained features and underperform out-of-distribution",
+   "authors": "A Kumar, A Raghunathan, R Jones, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2202.10054",
+   "year": "2022"
+  },
+  {
+   "title": "Connect, not collapse: Explaining contrastive learning for unsupervised domain adaptation",
+   "authors": "K Shen, RM Jones, A Kumar, SM Xie, JZ HaoChen, T Ma, P Liang",
+   "venue": "International conference on machine learning, 19847-19878",
+   "year": "2022"
+  },
+  {
+   "title": "In-n-out: Pre-training and self-training using auxiliary information for out-of-distribution robustness",
+   "authors": "SM Xie, A Kumar, R Jones, F Khani, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2012.04550",
+   "year": "2020"
+  },
+  {
+   "title": "Fine-tuning can distort pretrained features and underperform out-of-distribution, 2022",
+   "authors": "A Kumar, A Raghunathan, R Jones, T Ma, P Liang",
+   "venue": "URL https://arxiv. org/abs/2202.10054 28",
+   "year": null
+  },
+  {
+   "title": "Fine-tuning can distort pretrained features and underperform out-ofdistribution. arXiv 2022",
+   "authors": "A Kumar, A Raghunathan, R Jones, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2202.10054",
+   "year": "2024"
+  },
+  {
+   "title": "Featureless deep learning methods for automated key-term extraction",
+   "authors": "K Khosla, R Jones, N Bowman",
+   "venue": "Stanford University",
+   "year": "2019"
+  },
+  {
+   "title": "How Does Contrastive Pre-training Connect Disparate Domains?",
+   "authors": "K Shen, RM Jones, A Kumar, SM Xie, P Liang",
+   "venue": "NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": "2021"
+  },
+  {
+   "title": "Temporal link prediction on the WikiLinkGraphs dataset",
+   "authors": "N Bowman, R Jones, S Shafi",
+   "venue": "Department of Computer Science, Stanford University",
+   "year": "2019"
+  },
+  {
+   "title": "Stack overflow query outcome prediction",
+   "authors": "R Jones, D Lin",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Fabrication of DDS-3, an 11.4 GHz damped-detuned structure",
+   "authors": "C Adolphsen, K Asano, J Elmer, Y Funchasi, Y Higashi, T Higo, N Hitomi, ...",
+   "venue": "Lawrence Livermore National Laboratory (LLNL), Livermore, CA (United States)",
+   "year": "1999"
+  },
+  {
+   "title": "FABRICATION OF DDS-3, AN 11.4 GHz DAMPED-DETUNED STRUCTURE",
+   "authors": "K Asano, Y Funahashi, Y Higashi, T Higo, N Hitomi, T Suzuki, T Takatomi, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Extracting Kinematic Information Using Pose Estimation",
+   "authors": "R Jones",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

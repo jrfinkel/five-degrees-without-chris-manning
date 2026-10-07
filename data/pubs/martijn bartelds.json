@@ -1,0 +1,185 @@
+{
+ "user": "6acanlUAAAAJ",
+ "pubs": [
+  {
+   "title": "Making more of little data: Improving low-resource automatic speech recognition using data augmentation",
+   "authors": "M Bartelds, N San, B McDonnell, D Jurafsky, M Wieling",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Neural representations for modeling variation in speech",
+   "authors": "M Bartelds, W de Vries, F Sanal, C Richter, M Liberman, M Wieling",
+   "venue": "Journal of Phonetics 92, 101137",
+   "year": "2022"
+  },
+  {
+   "title": "A new acoustic-based pronunciation distance measure",
+   "authors": "M Bartelds, C Richter, M Liberman, M Wieling",
+   "venue": "Frontiers in Artificial Intelligence 3, 39",
+   "year": "2020"
+  },
+  {
+   "title": "Leveraging pre-trained representations to improve access to untranscribed speech from endangered languages",
+   "authors": "N San*, M Bartelds*, M Browne, L Clifford, F Gibson, J Mansfield, D Nash, ...",
+   "venue": "2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU …",
+   "year": "2021"
+  },
+  {
+   "title": "Adapting monolingual models: Data can be scarce when language similarity is high",
+   "authors": "W de Vries*, M Bartelds*, M Nissim, M Wieling, *equal contribution",
+   "venue": "arXiv preprint arXiv:2105.02855",
+   "year": "2021"
+  },
+  {
+   "title": "Ml-superb 2.0: Benchmarking multilingual speech models across modeling constraints, languages, and datasets",
+   "authors": "J Shi, SH Wang, W Chen, M Bartelds, VB Kumar, J Tian, X Chang, ...",
+   "venue": "arXiv preprint arXiv:2406.08641",
+   "year": "2024"
+  },
+  {
+   "title": "Blab: Brutally long audio bench",
+   "authors": "O Ahia, M Bartelds, K Ahuja, H Gonen, V Hofmann, S Arora, SS Li, ...",
+   "venue": "arXiv preprint arXiv:2505.03054",
+   "year": "2025"
+  },
+  {
+   "title": "Quantifying language variation acoustically with few resources",
+   "authors": "M Bartelds, M Wieling",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Leveraging supplementary text data to kick-start automatic speech recognition system development with limited transcriptions",
+   "authors": "N San, M Bartelds, B Billings, E de Falco, H Feriza, J Safri, W Sahrozi, ...",
+   "venue": "Proceedings of the Sixth Workshop on the Use of Computational Methods in the …",
+   "year": "2023"
+  },
+  {
+   "title": "False Friends Are Not Foes: Investigating Vocabulary Overlap in Multilingual Language Models.",
+   "authors": "J Kallini, D Jurafsky, C Potts, M Bartelds",
+   "venue": "EMNLP (Findings), 21138-21154",
+   "year": "2025"
+  },
+  {
+   "title": "Automated speech tools for helping communities process restricted-access corpora for language revival efforts",
+   "authors": "N San, M Bartelds, T Ogunremi, A Mount, R Thompson, M Higgins, ...",
+   "venue": "Proceedings of the Fifth Workshop on the Use of Computational Methods in the …",
+   "year": "2022"
+  },
+  {
+   "title": "Cava: Comprehensive assessment of voice assistants",
+   "authors": "W Held, MJ Ryan, A Shrivastava, AS Khan, C Ziems, E Li, M Bartelds, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "The ML-SUPERB 2.0 challenge: Towards inclusive ASR benchmarking for all language varieties",
+   "authors": "W Chen, C Meng, J Shi, M Bartelds, SH Wang, HH Wang, R Mosquera, ...",
+   "venue": "arXiv preprint arXiv:2509.07139",
+   "year": "2025"
+  },
+  {
+   "title": "Olmoasr: Open models and data for training robust speech recognition models",
+   "authors": "H Ngo, M Deitke, M Bartelds, S Pratt, J Gardner, M Jordan, L Schmidt",
+   "venue": "arXiv preprint arXiv:2508.20869",
+   "year": "2025"
+  },
+  {
+   "title": "Measuring foreign accent strength using an acoustic distance measure",
+   "authors": "M Bartelds, W de Vries, C Richter, M Liberman, M Wieling",
+   "venue": "12th International Seminar on Speech Production. Haskins Press, 17-20",
+   "year": "2021"
+  },
+  {
+   "title": "Minority language happiness: The link between social inclusion, well-being, and speaking a regional language in the northern Netherlands",
+   "authors": "J Brouwer, R Buurke, F van den Berg, R Knooihuizen, H Loerts, ...",
+   "venue": "Ampersand 12, 100173",
+   "year": "2024"
+  },
+  {
+   "title": "A novel paradigm to investigate phonetic convergence in interaction",
+   "authors": "M Wieling, M Tiede, T Rebernik, L de Jong, A Braggaar, M Bartelds, ...",
+   "venue": "12th International Seminar on Speech Production, 1-4",
+   "year": "2021"
+  },
+  {
+   "title": "Improving Cross-domain Authorship Attribution by Combining Lexical and Syntactic Features.",
+   "authors": "M Bartelds, W de Vries",
+   "venue": "CLEF (Working Notes)",
+   "year": "2019"
+  },
+  {
+   "title": "Multiple estimates of the Frisian and Low Saxon speaker population size in The Netherlands",
+   "authors": "RSSJ Buurke, M Bartelds, R Knooihuizen, M Wieling",
+   "venue": "Linguistic Minorities in Europe Online",
+   "year": "2024"
+  },
+  {
+   "title": "CTC-DRO: Robust optimization for reducing language disparities in speech recognition",
+   "authors": "M Bartelds, A Nandi, MKB Doumbouya, D Jurafsky, T Hashimoto, ...",
+   "venue": "International Conference on Learning Representations 2026, 108297-108323",
+   "year": "2026"
+  },
+  {
+   "title": "Constructing Datasets From Public Police Body Camera Footage",
+   "authors": "J Rosas-Smith, M Bartelds, R Huang, LP García-Perera, K Livescu, ...",
+   "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2025"
+  },
+  {
+   "title": "Intergenerational language transmission of Frisian and Low Saxon in the Netherlands",
+   "authors": "R Buurke, M Bartelds, W Heeringa, R Knooihuizen, M Wieling",
+   "venue": "Journal of Language and Social Psychology 43 (5-6), 544-561",
+   "year": "2024"
+  },
+  {
+   "title": "Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens",
+   "authors": "P Manakul, WH Gan, M Bartelds, G Sun, W Held, D Yang",
+   "venue": "arXiv preprint arXiv:2602.16687",
+   "year": "2026"
+  },
+  {
+   "title": "Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition",
+   "authors": "N Roll, P Bhalerao, M Bartelds, A Pawar, Y Tatsumi, T Ogunremi, C Shani, ...",
+   "venue": "arXiv preprint arXiv:2601.06972",
+   "year": "2026"
+  },
+  {
+   "title": "Representing Low-Resource Languages and Dialects: Improved Neural Methods for Spoken Language Processing",
+   "authors": "M Bartelds",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Real-Time Voice AI Hears but Does Not Listen",
+   "authors": "M Bartelds, F Bianchi, J Zou",
+   "venue": "arXiv preprint arXiv:2606.26083",
+   "year": "2026"
+  },
+  {
+   "title": "Turning Speech Language Models into Multilingual Listeners",
+   "authors": "T Ògúnrèmí, D Jurafsky, C Manning, A Üstün, M Bartelds",
+   "venue": "arXiv preprint arXiv:2609.33204",
+   "year": "2026"
+  },
+  {
+   "title": "Voice\" Cloning\" is Style Transfer",
+   "authors": "K Zhou, F Bianchi, M Bartelds, A Pot, Y Kwon, J Zou",
+   "venue": "arXiv preprint arXiv:2605.16578",
+   "year": "2026"
+  },
+  {
+   "title": "\"Sorry, I Didn't Catch That\": How Speech Models Miss What Matters Most",
+   "authors": "K Zhou, M Bartelds, F Bianchi, J Zou",
+   "venue": "arXiv preprint arXiv:2602.12249",
+   "year": "2026"
+  },
+  {
+   "title": "Bilingual engagement and cognition across the adult lifespan: Insights from regional minority language speakers in the north of the Netherlands",
+   "authors": "F Van Den Berg, R Buurke, J Brouwer, H Loerts, R Knooihuizen, ...",
+   "venue": "Bilingualism: Language and Cognition, 1-14",
+   "year": "2025"
+  }
+ ]
+}

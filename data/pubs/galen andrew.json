@@ -1,0 +1,257 @@
+{
+ "user": "TNWwJ-UAAAAJ",
+ "pubs": [
+  {
+   "title": "Deep canonical correlation analysis",
+   "authors": "G Andrew, R Arora, J Bilmes, K Livescu",
+   "venue": "International conference on machine learning, 1247-1255",
+   "year": "2013"
+  },
+  {
+   "title": "Scalable training of L1-regularized log-linear models",
+   "authors": "G Andrew, J Gao",
+   "venue": "Proceedings of the 24th international conference on Machine learning, 33-40",
+   "year": "2007"
+  },
+  {
+   "title": "Applied federated learning: Improving google keyboard query suggestions",
+   "authors": "T Yang, G Andrew, H Eichner, H Sun, W Li, N Kong, D Ramage, ...",
+   "venue": "arXiv preprint arXiv:1812.02903",
+   "year": "2018"
+  },
+  {
+   "title": "A conditional random field word segmenter for sighan bakeoff 2005",
+   "authors": "H Tseng, PC Chang, G Andrew, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the fourth SIGHAN workshop on Chinese language Processing",
+   "year": "2005"
+  },
+  {
+   "title": "A field guide to federated optimization",
+   "authors": "J Wang, Z Charles, Z Xu, G Joshi, HB McMahan, M Al-Shedivat, G Andrew, ...",
+   "venue": "arXiv preprint arXiv:2107.06917",
+   "year": "2021"
+  },
+  {
+   "title": "Differentially private learning with adaptive clipping",
+   "authors": "G Andrew, O Thakkar, B McMahan, S Ramaswamy",
+   "venue": "Advances in neural information processing systems 34, 17455-17466",
+   "year": "2021"
+  },
+  {
+   "title": "Tregex and Tsurgeon: Tools for querying and manipulating tree data structures.",
+   "authors": "R Levy, G Andrew",
+   "venue": "LREC, 2231-2234",
+   "year": "2006"
+  },
+  {
+   "title": "A general approach to adding differential privacy to iterative training procedures",
+   "authors": "HB McMahan, G Andrew, U Erlingsson, S Chien, I Mironov, N Papernot, ...",
+   "venue": "arXiv preprint arXiv:1812.06210",
+   "year": "2018"
+  },
+  {
+   "title": "A portfolio approach to algorithm selection",
+   "authors": "K Leyton-Brown, E Nudelman, G Andrew, J McFadden, Y Shoham",
+   "venue": "IJCAI 3, 1542-1543",
+   "year": "2003"
+  },
+  {
+   "title": "Federated learning of gboard language models with differential privacy",
+   "authors": "Z Xu, Y Zhang, G Andrew, C Choquette, P Kairouz, B Mcmahan, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Interactive control of diverse complex characters with neural networks",
+   "authors": "I Mordatch, K Lowrey, G Andrew, Z Popovic, EV Todorov",
+   "venue": "Advances in neural information processing systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Query suggestion generation",
+   "authors": "G Andrew, S Park, RL Rounthwaite, SP Cucerzan, JP Buckley, J Chan",
+   "venue": "US Patent 7,984,004",
+   "year": "2011"
+  },
+  {
+   "title": "Differentially private learning with adaptive clipping",
+   "authors": "O Thakkar, G Andrew, HB McMahan",
+   "venue": "arXiv e-prints, arXiv: 1905.03871",
+   "year": "2019"
+  },
+  {
+   "title": "Training production language models without memorizing user data",
+   "authors": "S Ramaswamy, O Thakkar, R Mathews, G Andrew, HB McMahan, ...",
+   "venue": "arXiv preprint arXiv:2009.10031",
+   "year": "2020"
+  },
+  {
+   "title": "A hybrid markov/semi-markov conditional random field for sequence segmentation",
+   "authors": "G Andrew",
+   "venue": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language …",
+   "year": "2006"
+  },
+  {
+   "title": "Boosting as a metaphor for algorithm design",
+   "authors": "K Leyton-Brown, E Nudelman, G Andrew, J McFadden, Y Shoham",
+   "venue": "International Conference on Principles and Practice of Constraint …",
+   "year": "2003"
+  },
+  {
+   "title": "One-shot empirical privacy estimation for federated learning",
+   "authors": "G Andrew, P Kairouz, S Oh, A Oprea, HB McMahan, V Suriyakumar",
+   "venue": "International Conference on Learning Representations 2024, 19178-19198",
+   "year": "2024"
+  },
+  {
+   "title": "A comparative study of parameter estimation methods for statistical natural language processing",
+   "authors": "J Gao, G Andrew, M Johnson, K Toutanova",
+   "venue": "Proceedings of the 45th Annual Meeting of the Association of Computational …",
+   "year": "2007"
+  },
+  {
+   "title": "Federated learning with formal differential privacy guarantees",
+   "authors": "B McMahan, A Thakurta, G Andrew, B Balle, P Kairouz, D Ramage, ...",
+   "venue": "Google AI Blog",
+   "year": "2022"
+  },
+  {
+   "title": "Weighted linear model",
+   "authors": "R Moore, W Yih, G Andrew, K Toutanova",
+   "venue": "US Patent App. 11/485,015",
+   "year": "2007"
+  },
+  {
+   "title": "Applied federated learning: Improving google keyboard query suggestions. arXiv 2018",
+   "authors": "T Yang, G Andrew, H Eichner, H Sun, W Li, N Kong, D Ramage, ...",
+   "venue": "arXiv preprint arXiv:1812.02903",
+   "year": "2018"
+  },
+  {
+   "title": "Determining a similarity measure between queries",
+   "authors": "RL Rounthwaite, G Andrew, EM Kiciman, X Yin",
+   "venue": "US Patent 8,606,786",
+   "year": "2013"
+  },
+  {
+   "title": "Unleashing the power of randomization in auditing differentially private ml",
+   "authors": "K Pillutla, G Andrew, P Kairouz, HB McMahan, A Oprea, S Oh",
+   "venue": "Advances in Neural Information Processing Systems 36, 66201-66238",
+   "year": "2023"
+  },
+  {
+   "title": "TensorFlow privacy",
+   "authors": "G Andrew, S Chien, N Papernot",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Verb sense and subcategorization: Using joint inference to improve performance on complementary task",
+   "authors": "G Andrew, T Grenager, CD Manning",
+   "venue": "Proceedings of the 2004 Conference on Empirical Methods in Natural Language …",
+   "year": "2004"
+  },
+  {
+   "title": "Limited-memory quasi-newton optimization algorithm for L1-regularized objectives",
+   "authors": "G Andrew, J Gao",
+   "venue": "US Patent 7,933,847",
+   "year": "2011"
+  },
+  {
+   "title": "Sequential deep belief networks",
+   "authors": "G Andrew, J Bilmes",
+   "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2012"
+  },
+  {
+   "title": "Ranker selection for statistical natural language processing",
+   "authors": "J Gao, G Andrew, M Johnson, K Toutanova",
+   "venue": "US Patent 7,844,555",
+   "year": "2010"
+  },
+  {
+   "title": "Statistical resolution of scope ambiguity in natural language",
+   "authors": "G Andrew, B MacCartney",
+   "venue": "Unpublished manuscript",
+   "year": "2004"
+  },
+  {
+   "title": "How to dp-fy your data: A practical guide to generating synthetic data with differential privacy",
+   "authors": "N Ponomareva, Z Xu, HB McMahan, P Kairouz, L Rosenblatt, ...",
+   "venue": "Journal of Artificial Intelligence Research 86",
+   "year": "2026"
+  },
+  {
+   "title": "Importance and implementatin of training in cardiopulmonary resuscitation and automated external defibrillation in schools",
+   "authors": "M Diana, P Tom, B Jeff, E Alison, G Andrew, FH Mary",
+   "venue": "Circulation, 1-16",
+   "year": "2011"
+  },
+  {
+   "title": "Using articulatory measurements to learn better acoustic features",
+   "authors": "G Andrew, R Arora, S Bharadwaj, J Bilmes, M Hasegawa-Johnson, ...",
+   "venue": "Proc. Workshop on Speech Production in Automatic Speech Recognition",
+   "year": "2013"
+  },
+  {
+   "title": "Backpropagation in sequential deep neural networks",
+   "authors": "G Andrew, J Bilmes",
+   "venue": "NIPS",
+   "year": "2013"
+  },
+  {
+   "title": "Combinatorial auction test suite (CATS)",
+   "authors": "K Leyton-Brown, M Pearson, Y Shoham, E Nudelman, G Andrew, ...",
+   "venue": "online] http://www. cs. ubc. ca/~ kevinlb/CATS",
+   "year": "2011"
+  },
+  {
+   "title": "Deep canonical correlation analysis Proceedings of the 30th International Conference on Machine Learning",
+   "authors": "G Andrew, A Raman, B Jeff, LP Karen",
+   "venue": "PMLR",
+   "year": "2013"
+  },
+  {
+   "title": "JAX-Privacy: A library for differentially private machine learning",
+   "authors": "R McKenna, G Andrew, B Balle, V Doroshenko, A Ganesh, W Kong, ...",
+   "venue": "arXiv preprint arXiv:2602.17861",
+   "year": "2026"
+  },
+  {
+   "title": "Memory-efficient inference in dynamic graphical models using multiple cores",
+   "authors": "G Andrew, J Bilmes",
+   "venue": "Artificial Intelligence and Statistics, 47-53",
+   "year": "2012"
+  },
+  {
+   "title": "Advancing the State-of-the-Art in Empirical Privacy Auditing",
+   "authors": "N Mitchell, G Andrew, A Ganesh, B McMahan, P Kairouz",
+   "venue": "arXiv preprint arXiv:2606.10481",
+   "year": "2026"
+  },
+  {
+   "title": "Privacy-protecting distributed self-supervised learning",
+   "authors": "R Vemulapalli, GM Andrew, H Qi, HB McMahan, PA Mansfield",
+   "venue": "US Patent App. 18/880,035",
+   "year": "2025"
+  },
+  {
+   "title": "New Techniques in Deep Representation Learning",
+   "authors": "GM Andrew",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "l\\/Iemory-efﬁcient inference in dynamic graphical models using multiple cores",
+   "authors": "G Andrew, J Bilmes",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "New Techniques for Modeling Sequential Data",
+   "authors": "G Andrew",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

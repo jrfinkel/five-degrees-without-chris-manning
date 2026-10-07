@@ -1,0 +1,1313 @@
+{
+ "user": "vXQdb5kAAAAJ",
+ "pubs": [
+  {
+   "title": "Crema-d: Crowd-sourced emotional multimodal actors dataset",
+   "authors": "H Cao, DG Cooper, MK Keutmann, RC Gur, A Nenkova, R Verma",
+   "venue": "IEEE transactions on affective computing 5 (4), 377-390",
+   "year": "2014"
+  },
+  {
+   "title": "Automatic summarization",
+   "authors": "A Nenkova, K McKeown",
+   "venue": "Foundations and Trends in Information Retrieval 5 (2-3), 103-233",
+   "year": "2011"
+  },
+  {
+   "title": "Evaluating content selection in summarization: The pyramid method",
+   "authors": "A Nenkova, RJ Passonneau",
+   "venue": "Proceedings of the human language technology conference of the north …",
+   "year": "2004"
+  },
+  {
+   "title": "A survey of text summarization techniques",
+   "authors": "A Nenkova, K McKeown",
+   "venue": "Mining text data, 43-76",
+   "year": "2012"
+  },
+  {
+   "title": "Revisiting readability: A unified framework for predicting text quality",
+   "authors": "E Pitler, A Nenkova",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Beyond SumBasic: Task-focused summarization with sentence simplification and lexical expansion",
+   "authors": "L Vanderwende, H Suzuki, C Brockett, A Nenkova",
+   "venue": "Information processing & management 43 (6), 1606-1618",
+   "year": "2007"
+  },
+  {
+   "title": "The pyramid method: Incorporating human content selection variation in summarization evaluation",
+   "authors": "A Nenkova, R Passonneau, K McKeown",
+   "venue": "ACM Transactions on Speech and Language Processing (TSLP) 4 (2), 4-es",
+   "year": "2007"
+  },
+  {
+   "title": "The impact of frequency on summarization",
+   "authors": "A Nenkova, L Vanderwende",
+   "venue": "Microsoft Research, Redmond, Washington, Tech. Rep. MSR-TR-2005 101",
+   "year": "2005"
+  },
+  {
+   "title": "Tracking and summarizing news on a daily basis with Columbia’s Newsblaster",
+   "authors": "KR McKeown, R Barzilay, D Evans, V Hatzivassiloglou, JL Klavans, ...",
+   "venue": "Proceedings of the human language technology conference, 280-285",
+   "year": "2002"
+  },
+  {
+   "title": "Automatic sense prediction for implicit discourse relations in text",
+   "authors": "E Pitler, A Louis, A Nenkova",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Using syntax to disambiguate explicit discourse connectives in text",
+   "authors": "E Pitler, A Nenkova",
+   "venue": "Proceedings of the ACL-IJCNLP 2009 Conference Short Papers, 13-16",
+   "year": "2009"
+  },
+  {
+   "title": "A corpus with multi-level annotations of patients, interventions and outcomes to support language processing for medical literature",
+   "authors": "B Nye, JJ Li, R Patel, Y Yang, I Marshall, A Nenkova, BC Wallace",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: human language technologies",
+   "authors": "K Knight, A Nenkova, O Rambow",
+   "venue": "Proceedings of the 2016 Conference of the North American Chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Class-level spectral features for emotion recognition",
+   "authors": "D Bitouk, R Verma, A Nenkova",
+   "venue": "Speech communication 52 (7-8), 613-625",
+   "year": "2010"
+  },
+  {
+   "title": "A compositional context sensitive multi-document summarizer: exploring the factors that influence summarization",
+   "authors": "A Nenkova, L Vanderwende, K McKeown",
+   "venue": "Proceedings of the 29th annual international ACM SIGIR conference on …",
+   "year": "2006"
+  },
+  {
+   "title": "High frequency word entrainment in spoken dialogue",
+   "authors": "A Nenkova, A Gravano, J Hirschberg",
+   "venue": "Proceedings of ACL-08: HLT, Short Papers, 169-172",
+   "year": "2008"
+  },
+  {
+   "title": "Automatically assessing machine summary content without a gold standard",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Computational Linguistics 39 (2), 267-300",
+   "year": "2013"
+  },
+  {
+   "title": "Easily identifiable discourse relations",
+   "authors": "E Pitler, M Raghupathy, H Mehta, A Nenkova, A Lee, AK Joshi",
+   "venue": "COLING (Posters) 2008: 87-90",
+   "year": "2008"
+  },
+  {
+   "title": "Automatic text summarization of newswire: Lessons learned from the document understanding conference",
+   "authors": "A Nenkova",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "Acoustic-prosodic entrainment and social behavior",
+   "authors": "R Levitan, A Gravano, L Willson, Š Beňuš, J Hirschberg, A Nenkova",
+   "venue": "Proceedings of the 2012 Conference of the North American Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "Automatically evaluating content selection in summarization without human models",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Proceedings of the 2009 conference on empirical methods in natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Improving the estimation of word importance for news multi-document summarization",
+   "authors": "K Hong, A Nenkova",
+   "venue": "Proceedings of the 14th Conference of the European Chapter of the …",
+   "year": "2014"
+  },
+  {
+   "title": "Discourse indicators for content selection in summarization",
+   "authors": "A Louis, A Joshi, A Nenkova",
+   "venue": "Proceedings of the SIGDIAL 2010 Conference, 147-156",
+   "year": "2010"
+  },
+  {
+   "title": "Autodan: Interpretable gradient-based adversarial attacks on large language models",
+   "authors": "S Zhu, R Zhang, B An, G Wu, J Barrow, Z Wang, F Huang, A Nenkova, ...",
+   "venue": "arXiv preprint arXiv:2310.15140",
+   "year": "2023"
+  },
+  {
+   "title": "Speaker-sensitive emotion recognition via ranking: Studies on acted and spontaneous speech",
+   "authors": "H Cao, R Verma, A Nenkova",
+   "venue": "Computer speech & language 29 (1), 186-202",
+   "year": "2015"
+  },
+  {
+   "title": "Unidoc: Unified pretraining framework for document understanding",
+   "authors": "J Gu, J Kuen, VI Morariu, H Zhao, R Jain, N Barmpalios, A Nenkova, ...",
+   "venue": "Advances in Neural Information Processing Systems 34, 39-50",
+   "year": "2021"
+  },
+  {
+   "title": "Syntactic simplification for improving content selection in multi-document summarization",
+   "authors": "A Siddharthan, A Nenkova, K McKeown",
+   "venue": "COLING 2004: Proceedings of the 20th International Conference on …",
+   "year": "2004"
+  },
+  {
+   "title": "An assessment of the accuracy of automatic evaluation in summarization",
+   "authors": "K Owczarzak, J Conroy, HT Dang, A Nenkova",
+   "venue": "Proceedings of workshop on evaluation metrics and system comparison for …",
+   "year": "2012"
+  },
+  {
+   "title": "A Repository of State of the Art and Competitive Baseline Summaries for Generic News Summarization.",
+   "authors": "K Hong, JM Conroy, B Favre, A Kulesza, H Lin, A Nenkova",
+   "venue": "LREC, 1608-1616",
+   "year": "2014"
+  },
+  {
+   "title": "Automatic evaluation of linguistic quality in multi-document summarization",
+   "authors": "E Pitler, A Louis, A Nenkova",
+   "venue": "Proceedings of the 48th annual meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Do summaries help?",
+   "authors": "K McKeown, RJ Passonneau, DK Elson, A Nenkova, J Hirschberg",
+   "venue": "Proceedings of the 28th annual international ACM SIGIR conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "System and method for document collection, grouping and summarization",
+   "authors": "K McKeown, R Barzilay, D Evans, V Hatzivassiloglou, J Klavans, ...",
+   "venue": "US Patent App. 11/071,968",
+   "year": "2005"
+  },
+  {
+   "title": "Experiments in multidocument summarization",
+   "authors": "B Schiffman, A Nenkova, K McKeown",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "Trialstreamer: A living, automatically updated database of clinical trial reports",
+   "authors": "IJ Marshall, B Nye, J Kuiper, A Noel-Storr, R Marshall, R Maclean, ...",
+   "venue": "Journal of the American Medical Informatics Association 27 (12), 1903-1912",
+   "year": "2020"
+  },
+  {
+   "title": "A coherence model based on syntactic patterns",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Aggregating and predicting sequence labels from crowd annotations",
+   "authors": "AT Nguyen, BC Wallace, JJ Li, A Nenkova, M Lease",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Fast and accurate prediction of sentence specificity",
+   "authors": "J Li, A Nenkova",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 29 (1)",
+   "year": "2015"
+  },
+  {
+   "title": "What makes writing great? First experiments on article quality prediction in the science journalism domain",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Transactions of the Association for Computational Linguistics 1, 341-352",
+   "year": "2013"
+  },
+  {
+   "title": "Temporal effects on pre-trained models for language processing tasks",
+   "authors": "O Agarwal, A Nenkova",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 904-921",
+   "year": "2022"
+  },
+  {
+   "title": "Standardizing the measurement of text diversity: A tool and a comparative analysis of scores",
+   "authors": "C Shaib, VS Govindarajan, J Barrow, J Sun, AF Siu, BC Wallace, ...",
+   "venue": "arXiv preprint arXiv:2403.00553",
+   "year": "2024"
+  },
+  {
+   "title": "Summarization evaluation for text and speech: issues and approaches",
+   "authors": "A Nenkova",
+   "venue": "Proc. Interspeech 2006, paper 2079-Wed1WeS. 1",
+   "year": "2006"
+  },
+  {
+   "title": "Applying the pyramid method in DUC 2005",
+   "authors": "RJ Passonneau, A Nenkova, K McKeown, S Sigelman",
+   "venue": "Proceedings of the document understanding conference (DUC 05), Vancouver, BC …",
+   "year": "2005"
+  },
+  {
+   "title": "Automatic human utility evaluation of ASR systems: Does WER really predict performance?",
+   "authors": "B Favre, K Cheung, S Kazemian, A Lee, Y Liu, C Munteanu, A Nenkova, ...",
+   "venue": "Proc. Interspeech 2013, 3463-3467",
+   "year": "2013"
+  },
+  {
+   "title": "Measuring importance and query relevance in topic-focused multi-document summarization",
+   "authors": "S Gupta, A Nenkova, D Jurafsky",
+   "venue": "Proceedings of the 45th Annual Meeting of the Association for Computational …",
+   "year": "2007"
+  },
+  {
+   "title": "To memorize or to predict: Prominence labeling in conversational speech",
+   "authors": "A Nenkova, J Brenier, A Kothari, S Calhoun, L Whitton, D Beaver, ...",
+   "venue": "Human Language Technologies 2007: The Conference of the North American …",
+   "year": "2007"
+  },
+  {
+   "title": "Combining video, audio and lexical indicators of affect in spontaneous conversation via particle filtering",
+   "authors": "A Savran, H Cao, M Shah, A Nenkova, R Verma",
+   "venue": "Proceedings of the 14th ACM international conference on Multimodal …",
+   "year": "2012"
+  },
+  {
+   "title": "Automation of summary evaluation by the pyramid method",
+   "authors": "A Harnly, A Nenkova, R Passonneau, O Rambow",
+   "venue": "Recent Advances in Natural Language Processing (RANLP), 226-232",
+   "year": "2005"
+  },
+  {
+   "title": "Lexical use in emotional autobiographical narratives of persons with schizophrenia and healthy controls",
+   "authors": "K Hong, A Nenkova, ME March, AP Parker, R Verma, CG Kohler",
+   "venue": "Psychiatry research 225 (1-2), 40-49",
+   "year": "2015"
+  },
+  {
+   "title": "Pdftriage: Question answering over long, structured documents",
+   "authors": "J Saad-Falcon, J Barrow, A Siu, A Nenkova, S Yoon, RA Rossi, ...",
+   "venue": "Proceedings of the 2024 conference on empirical methods in natural language …",
+   "year": "2024"
+  },
+  {
+   "title": "A decade of automatic content evaluation of news summaries: Reassessing the state of the art",
+   "authors": "PA Rankel, J Conroy, HT Dang, A Nenkova",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Using entity features to classify implicit discourse relations",
+   "authors": "A Louis, A Joshi, R Prasad, A Nenkova",
+   "venue": "Proceedings of the SIGDIAL 2010 Conference, 59-62",
+   "year": "2010"
+  },
+  {
+   "title": "Acoustic and prosodic correlates of social behavior",
+   "authors": "A Gravano, R Levitan, L Willson, Š Beòuš, JB Hirschberg, A Nenkova",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "How to compare summarizers without target length? pitfalls, solutions and re-examination of the neural summarization literature",
+   "authors": "S Sun, O Shapira, I Dagan, A Nenkova",
+   "venue": "Proceedings of the Workshop on Methods for Optimizing and Evaluating Neural …",
+   "year": "2019"
+  },
+  {
+   "title": "Inducing lexical style properties for paraphrase and genre differentiation",
+   "authors": "E Pavlick, A Nenkova",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Columbia university at duc 2004",
+   "authors": "S Blair-Goldensohn, D Evans, V Hatzivassiloglou, K McKeown, ...",
+   "venue": "Proceedings of the Document Understanding Conference, DUC-2004, Boston, USA",
+   "year": "2004"
+  },
+  {
+   "title": "Information status distinctions and referring expressions: An empirical study of references to people in news summaries",
+   "authors": "A Siddharthan, A Nenkova, K McKeown",
+   "venue": "Computational Linguistics 37 (4), 811-842",
+   "year": "2011"
+  },
+  {
+   "title": "Predicting the fluency of text with shallow structural features: case studies of machine translation and human-written text",
+   "authors": "J Chae, A Nenkova",
+   "venue": "Proceedings of the 12th Conference of the European Chapter of the ACL (EACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Automatic identification of general and specific sentences by leveraging discourse annotations",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Proceedings of 5th international joint conference on natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Temporal Bayesian fusion for affect sensing: Combining video, audio, and lexical modalities",
+   "authors": "A Savran, H Cao, A Nenkova, R Verma",
+   "venue": "IEEE transactions on cybernetics 45 (9), 1927-1941",
+   "year": "2014"
+  },
+  {
+   "title": "Facilitating email thread access by extractive summary generation",
+   "authors": "A Nenkova, A Bagga",
+   "venue": "Recent Advances in Natural Language Processing III, Selected Papers from …",
+   "year": "2004"
+  },
+  {
+   "title": "References to named entities: a corpus study",
+   "authors": "A Nenkova, K McKeown",
+   "venue": "Companion Volume of the Proceedings of HLT-NAACL 2003-Short Papers, 70-72",
+   "year": "2003"
+  },
+  {
+   "title": "Assessing the discourse factors that influence the quality of machine translation",
+   "authors": "JJ Li, M Carpuat, A Nenkova",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Detecting prominence in conversational speech: pitch accent, givenness and focus",
+   "authors": "VKR Sridhar, A Nenkova, S Narayanan, D Jurafsky",
+   "venue": "Proc. SpeechProsody 2008, 453-456",
+   "year": "2008"
+  },
+  {
+   "title": "Modelling prominence and emphasis improves unit-selection synthesis",
+   "authors": "V Strom, A Nenkova, R Clark, Y Vazquez-Alvarez, J Brenier, S King, ...",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Columbia’s newsblaster: New features and future directions",
+   "authors": "K McKeown, R Barzilay, J Chen, D Elson, D Evans, JL Klavans, ...",
+   "venue": "Companion Volume of the Proceedings of HLT-NAACL 2003-Demonstrations, 15-16",
+   "year": "2003"
+  },
+  {
+   "title": "Interpretability analysis for named entity recognition to understand system predictions and how they can improve",
+   "authors": "O Agarwal, Y Yang, BC Wallace, A Nenkova",
+   "venue": "Computational Linguistics 47 (1), 117-140",
+   "year": "2021"
+  },
+  {
+   "title": "Can you summarize this? identifying correlates of input difficulty for multi-document summarization",
+   "authors": "A Nenkova, A Louis",
+   "venue": "Proceedings of ACL-08: HLT, 825-833",
+   "year": "2008"
+  },
+  {
+   "title": "Method and apparatus for summarizing one or more text messages using indicative summaries",
+   "authors": "A Bagga, AN Nenkova",
+   "venue": "US Patent 8,868,670",
+   "year": "2014"
+  },
+  {
+   "title": "Understanding the process of multi-document summarization: content selection, rewriting and evaluation",
+   "authors": "A Nenkova",
+   "venue": "Columbia University",
+   "year": "2006"
+  },
+  {
+   "title": "Structural features for predicting the linguistic quality of text: applications to machine translation, automatic summarization and human-authored text",
+   "authors": "A Nenkova, J Chae, A Louis, E Pitler",
+   "venue": "Conference of the European Association for Computational Linguistics, 222-241",
+   "year": "2009"
+  },
+  {
+   "title": "Method and apparatus for classification of relative position of one or more text messages in an email thread",
+   "authors": "A Bagga, A Nenkova",
+   "venue": "US Patent App. 10/833,262",
+   "year": "2006"
+  },
+  {
+   "title": "System combination for multi-document summarization",
+   "authors": "K Hong, M Marcus, A Nenkova",
+   "venue": "Proceedings of the 2015 conference on empirical methods in natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "State of the evidence: a survey of global disparities in clinical trials",
+   "authors": "IJ Marshall, V L'Esperance, R Marshall, J Thomas, A Noel-Storr, ...",
+   "venue": "BMJ global health 6 (1), e004145",
+   "year": "2021"
+  },
+  {
+   "title": "Cross-lingual discourse relation analysis: A corpus study and a semi-supervised classification system",
+   "authors": "JJ Li, M Carpuat, A Nenkova",
+   "venue": "Proceedings of COLING 2014, the 25th International Conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Prosodic cues for emotion: analysis with discrete characterization of intonation",
+   "authors": "H Cao, Š Beňuš, RC Gur, R Verma, A Nenkova",
+   "venue": "Speech prosody (Urbana, Ill.) 2014, 130",
+   "year": "2014"
+  },
+  {
+   "title": "Trialstreamer: mapping and browsing medical evidence in real-time",
+   "authors": "B Nye, A Nenkova, I Marshall, BC Wallace",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Entity-driven rewrite for multi-document summarization",
+   "authors": "A Nenkova",
+   "venue": "Proceedings of the Third International Joint Conference on Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "A corpus of general and specific sentences from news.",
+   "authors": "A Louis, A Nenkova",
+   "venue": "LREC 1818, 10",
+   "year": "2012"
+  },
+  {
+   "title": "Text specificity and impact on quality of news summaries",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Proceedings of the Workshop on Monolingual Text-To-Text Generation, 34-42",
+   "year": "2011"
+  },
+  {
+   "title": "Email classification for contact centers",
+   "authors": "A Nenkova, A Bagga",
+   "venue": "Proceedings of the 2003 ACM symposium on Applied computing, 789-792",
+   "year": "2003"
+  },
+  {
+   "title": "Performance confidence estimation for automatic summarization",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Proceedings of the 12th Conference of the European Chapter of the ACL (EACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Automatically learning cognitive status for multi-document summarization of newswire",
+   "authors": "A Nenkova, A Siddharthan, K McKeown",
+   "venue": "Proceedings of Human Language Technology Conference and Conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "Entity-switched datasets: An approach to auditing the in-domain robustness of named entity recognition models",
+   "authors": "O Agarwal, Y Yang, BC Wallace, A Nenkova",
+   "venue": "arXiv preprint arXiv:2004.04123",
+   "year": "2020"
+  },
+  {
+   "title": "A corpus of science journalism for analyzing writing quality",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Dialogue & Discourse 4, 87-117",
+   "year": "2013"
+  },
+  {
+   "title": "Word embeddings (also) encode human personality stereotypes",
+   "authors": "O Agarwal, F Durupınar, NI Badler, A Nenkova",
+   "venue": "Proceedings of the Eighth Joint Conference on Lexical and Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Understanding clinical trial reports: Extracting medical entities and their relations",
+   "authors": "BE Nye, J DeYoung, E Lehman, A Nenkova, IJ Marshall, BC Wallace",
+   "venue": "AMIA Summits on Translational Science Proceedings 2021, 485",
+   "year": "2021"
+  },
+  {
+   "title": "From toxicity in online comments to incivility in American news: Proceed with caution",
+   "authors": "A Hede, O Agarwal, L Lu, DC Mutz, A Nenkova",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "The feasibility of embedding based automatic evaluation for single document summarization",
+   "authors": "S Sun, A Nenkova",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Predicting annotation difficulty to improve task routing and model performance for biomedical information extraction",
+   "authors": "Y Yang, O Agarwal, C Tar, BC Wallace, A Nenkova",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Improving the annotation of sentence specificity",
+   "authors": "JJ Li, B O’Daniel, Y Wu, W Zhao, A Nenkova",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Reducing sparsity improves the recognition of implicit discourse relations",
+   "authors": "JJ Li, A Nenkova",
+   "venue": "Proceedings of the 15th Annual Meeting of the Special Interest Group on …",
+   "year": "2014"
+  },
+  {
+   "title": "DocTime: A document-level temporal dependency graph parser",
+   "authors": "P Mathur, V Morariu, V Kaynig-Fittkau, J Gu, F Dernoncourt, QH Tran, ...",
+   "venue": "Proceedings of the 2022 conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Emotion impacts speech recognition performance",
+   "authors": "R Munot, A Nenkova",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Detecting (un) important content for single-document news summarization",
+   "authors": "Y Yang, F Bao, A Nenkova",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "Detecting information-dense texts in multiple news domains",
+   "authors": "Y Yang, A Nenkova",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 28 (1)",
+   "year": "2014"
+  },
+  {
+   "title": "Combining ranking and classification to improve emotion recognition in spontaneous speech",
+   "authors": "H Cao, R Verma, A Nenkova",
+   "venue": "Proc. Interspeech 2012, 358-361",
+   "year": "2012"
+  },
+  {
+   "title": "Evaluation of named entity coreference",
+   "authors": "O Agarwal, S Subramanian, A Nenkova, D Roth",
+   "venue": "Proceedings of the Second Workshop on Computational Models of Reference …",
+   "year": "2019"
+  },
+  {
+   "title": "The columbia multi-document summarizer for DUC 2002",
+   "authors": "K McKeown, R Barzilay, S Blair-Goldensohn, D Evans, V Hatzivassiloglou, ...",
+   "venue": "Workshop on Automatic Summarization, 1-8",
+   "year": "2002"
+  },
+  {
+   "title": "Self-repetition in abstractive neural summarizers",
+   "authors": "N Salkar, T Trikalinos, BC Wallace, A Nenkova",
+   "venue": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Addressing class imbalance for improved recognition of implicit discourse relations",
+   "authors": "JJ Li, A Nenkova",
+   "venue": "Proceedings of the 15th Annual Meeting of the Special Interest Group on …",
+   "year": "2014"
+  },
+  {
+   "title": "Action unit models of facial expression of emotion in the presence of speech",
+   "authors": "M Shah, DG Cooper, H Cao, RC Gur, A Nenkova, R Verma",
+   "venue": "2013 Humaine Association Conference on Affective Computing and Intelligent …",
+   "year": "2013"
+  },
+  {
+   "title": "Intonational overload: Uses of the Downstepped (H*! H* L-L%) contour in read and spontaneous speech",
+   "authors": "JB Hirschberg, A Gravano, A Nenkova, E Sneed, G Ward",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "The (non) utility of linguistic features for predicting prominence in spontaneous speech",
+   "authors": "JM Brenier, A Nenkova, A Kothari, L Whitton, D Beaver, D Jurafsky",
+   "venue": "2006 IEEE Spoken Language Technology Workshop, 54-57",
+   "year": "2006"
+  },
+  {
+   "title": "Creating local coherence: An empirical assessment",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Human language technologies: The 2010 annual conference of the north …",
+   "year": "2010"
+  },
+  {
+   "title": "Automatic detection of contrastive elements in spontaneous speech",
+   "authors": "A Nenkova, D Jurafsky",
+   "venue": "2007 IEEE Workshop on Automatic Speech Recognition & Understanding (ASRU …",
+   "year": "2007"
+  },
+  {
+   "title": "Syntactic patterns improve information extraction for medical search",
+   "authors": "R Patel, Y Yang, I Marshall, A Nenkova, BC Wallace",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Animating synthetic dyadic conversations with variations based on context and agent attributes",
+   "authors": "L Sun, A Shoulson, P Huang, N Nelson, W Qin, A Nenkova, NI Badler",
+   "venue": "Computer Animation and Virtual Worlds 23 (1), 17-32",
+   "year": "2012"
+  },
+  {
+   "title": "Columbia at the document understanding conference 2003",
+   "authors": "A Nenkova, B Schiffman, A Schlaiker, S Blair-Goldensohn, R Barzilay, ...",
+   "venue": "Proceedings of the Document Understanding Workshop DUC 2003",
+   "year": "2003"
+  },
+  {
+   "title": "Summaries as captions: Generating figure captions for scientific documents with automated text summarization",
+   "authors": "CY Huang, TY Hsu, R Rossi, A Nenkova, S Kim, GYY Chan, E Koh, ...",
+   "venue": "Proceedings of the 16th International Natural Language Generation Conference …",
+   "year": "2023"
+  },
+  {
+   "title": "MGDoc: Pre-training with multi-granular hierarchy for document image understanding",
+   "authors": "Z Wang, J Gu, C Tensmeyer, N Barmpalios, A Nenkova, T Sun, J Shang, ...",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Influence functions for sequence tagging models",
+   "authors": "S Jain, V Manjunatha, BC Wallace, A Nenkova",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 824-839",
+   "year": "2022"
+  },
+  {
+   "title": "General versus specific sentences: automatic identification and application to analysis of news summaries",
+   "authors": "A Louis, A Nenkova",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Columbia’s newsblaster: New features and future directions (demo)",
+   "authors": "K McKeown, R Barzilay, J Chen, D Elson, D Evans, J Klavans, A Nenkova, ...",
+   "venue": "Proceedings of NAACL-HLT’03",
+   "year": "2003"
+  },
+  {
+   "title": "Detecting content-heavy sentences: A cross-language case study",
+   "authors": "JJ Li, A Nenkova",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Lexical differences in autobiographical narratives from schizophrenic patients and healthy controls",
+   "authors": "K Hong, CG Kohler, ME March, AA Parker, A Nenkova",
+   "venue": "Proceedings of the 2012 Joint conference on empirical methods in natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Predicting summary quality using limited human input.",
+   "authors": "A Louis, A Nenkova",
+   "venue": "TAC",
+   "year": "2009"
+  },
+  {
+   "title": "LayerDoc: layer-wise extraction of spatial hierarchical structure in visually-rich documents",
+   "authors": "P Mathur, R Jain, A Mehra, J Gu, F Dernoncourt, Q Tran, V Kaynig-Fittkau, ...",
+   "venue": "2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …",
+   "year": "2023"
+  },
+  {
+   "title": "Context-aware information-theoretic causal de-biasing for interactive sequence labeling",
+   "authors": "J Wu, R Wang, T Yu, R Zhang, H Zhao, S Li, R Henao, A Nenkova",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 3436-3448",
+   "year": "2022"
+  },
+  {
+   "title": "Identification and characterization of newsworthy verbs in world news",
+   "authors": "B Nye, A Nenkova",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Acoustic and lexical representations for affect prediction in spontaneous conversations",
+   "authors": "H Cao, A Savran, R Verma, A Nenkova",
+   "venue": "Computer speech & language 29 (1), 203-217",
+   "year": "2015"
+  },
+  {
+   "title": "The nature of theme and rheme accents",
+   "authors": "S Calhoun, S Calhoun, S Calhoun, M Nissim, M Steedman, J Brenier, ...",
+   "venue": "Proceedings of One--Day Meeting for Young Speech Researchers",
+   "year": "2003"
+  },
+  {
+   "title": "Verbose, laconic or just right: A simple computational model of content appropriateness under length constraints",
+   "authors": "A Louis, A Nenkova",
+   "venue": "Proceedings of the 14th Conference of the European Chapter of the …",
+   "year": "2014"
+  },
+  {
+   "title": "System and method for document collection, grouping and summarization",
+   "authors": "KR McKeown, R Barzilay, D Evans, VH Assiloglou, J Klavans, A Nenkova, ...",
+   "venue": "US Patent App. 13/435,176",
+   "year": "2012"
+  },
+  {
+   "title": "Improving emotion recognition using class-level spectral features",
+   "authors": "D Bitouk, A Nenkova, R Verma",
+   "venue": "Proc. Interspeech 2009, 2023-2026",
+   "year": "2009"
+  },
+  {
+   "title": "Evaluating multiple system summary lengths: A case study",
+   "authors": "O Shapira, D Gabay, H Ronen, J Bar-Ilan, Y Amsterdamer, A Nenkova, ...",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "An environment for transforming game character animations based on nationality and profession personality stereotypes",
+   "authors": "F Durupinar, K Wang, A Nenkova, N Badler",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence and …",
+   "year": "2016"
+  },
+  {
+   "title": "SOHES: Self-supervised open-world hierarchical entity segmentation",
+   "authors": "S Cao, J Gu, J Kuen, H Tan, R Zhang, H Zhao, A Nenkova, L Gui, T Sun, ...",
+   "venue": "International Conference on Learning Representations 2024, 16717-16738",
+   "year": "2024"
+  },
+  {
+   "title": "Learning the visualness of text using large vision-language models",
+   "authors": "G Verma, RA Rossi, C Tensmeyer, J Gu, A Nenkova",
+   "venue": "arXiv preprint arXiv:2305.10434",
+   "year": "2023"
+  },
+  {
+   "title": "“am i answering my job interview questions right?”: a NLP approach to predict degree of explanation in job interview responses",
+   "authors": "R Verrap, E Nirjhar, A Nenkova, T Chaspari",
+   "venue": "Proceedings of the Second Workshop on NLP for Positive Impact (NLP4PI), 122-129",
+   "year": "2022"
+  },
+  {
+   "title": "Sentisummary: Sentiment summarization for user product reviews",
+   "authors": "M Feczko, A Schaye, M Marcus, A Nenkova",
+   "venue": "proceedings of the 2008 IEEE/WIC/ACM International Conference on Web …",
+   "year": "2008"
+  },
+  {
+   "title": "A critical analysis of document out-of-distribution detection",
+   "authors": "J Gu, Y Ming, Y Zhou, J Kuen, V Morariu, H Zhao, R Zhang, N Barmpalios, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 4973-4999",
+   "year": "2023"
+  },
+  {
+   "title": "The utility and interplay of gazetteers and entity segmentation for named entity recognition in English",
+   "authors": "O Agarwal, A Nenkova",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "The instantiation discourse relation: A corpus analysis of its properties and improved detection",
+   "authors": "JJ Li, A Nenkova",
+   "venue": "Proceedings of the 2016 Conference of the North American Chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Adopd: A large-scale document page decomposition dataset",
+   "authors": "J Gu, X Shi, J Kuen, L Qi, R Zhang, A Liu, A Nenkova, T Sun",
+   "venue": "International Conference on Learning Representations 2024, 1760-1777",
+   "year": "2024"
+  },
+  {
+   "title": "Fact correction of natural language sentences using data tables",
+   "authors": "C Tensmeyer, DN Ribeiro, V Manjunatha, N Lipka, A Nenkova",
+   "venue": "US Patent 11,880,655",
+   "year": "2024"
+  },
+  {
+   "title": "Factual or contextual? disentangling error types in entity description generation",
+   "authors": "N Goyal, A Nenkova, H Daumé III",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Combining lexical and syntactic features for detecting content-dense texts in news",
+   "authors": "Y Yang, A Nenkova",
+   "venue": "Journal of Artificial Intelligence Research 60, 179-219",
+   "year": "2017"
+  },
+  {
+   "title": "Beyond SumBasic: Task-focused summarization with sentence simplification and lexical expansion: Text summarization",
+   "authors": "L Vanderwende, H SUZUKI, C BROCKETT, A NENKOVA",
+   "venue": "Information processing & management 43 (6), 1606-1618",
+   "year": "2007"
+  },
+  {
+   "title": "How Much Annotation is Needed to Compare Summarization Models?",
+   "authors": "C Shaib, J Barrow, A Siu, BC Wallace, A Nenkova",
+   "venue": "Proceedings of the Third Workshop on Bridging Human--Computer Interaction …",
+   "year": "2024"
+  },
+  {
+   "title": "Few-shot dialogue summarization via skeleton-assisted prompt transfer in prompt tuning",
+   "authors": "K Xie, T Yu, H Wang, J Wu, H Zhao, R Zhang, K Mahadik, A Nenkova, ...",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Named entity recognition in a very homogenous domain",
+   "authors": "O Agarwal, A Nenkova",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 1850-1855",
+   "year": "2023"
+  },
+  {
+   "title": "Label induction",
+   "authors": "RB Jain, M Yuan, VI Morariu, AN Nenkova, SB Naresh, N Barmpalios, ...",
+   "venue": "US Patent App. 18/048,900",
+   "year": "2024"
+  },
+  {
+   "title": "Web Table Formatting Affects Readability on Mobile Devices",
+   "authors": "C Tensmeyer, Z Bylinski, T Cai, D Miller, A Nenkova, A Niklaus, S Wallace",
+   "venue": "Proceedings of the ACM Web Conference 2023, 1334-1344",
+   "year": "2023"
+  },
+  {
+   "title": "Doclayouttts: Dataset and baselines for layout-informed document-level neural speech synthesis",
+   "authors": "P Mathur, F Dernoncourt, QH Tran, J Gu, A Nenkova, V Morariu, R Jain, ...",
+   "venue": "Proc. Interspeech 2022, 451-455",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling ambiguity in text: A corpus of legal literature",
+   "authors": "R Patel, A Nenkova",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Discourse factors in multi-document summarization",
+   "authors": "A Nenkova",
+   "venue": "PROCEEDINGS OF THE NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE 20 (4), 1654",
+   "year": "2005"
+  },
+  {
+   "title": "Evaluating content selection in human-or machine-generated summaries: the pyramid scoring method",
+   "authors": "RJ Passonneau, A Nenkova",
+   "venue": "",
+   "year": "2003"
+  },
+  {
+   "title": "Improving the coherence of multi-document summaries: a corpus study for modeling the syntactic realization of entities",
+   "authors": "A Nenkova, K McKeown",
+   "venue": "",
+   "year": "2003"
+  },
+  {
+   "title": "Dialogue skeleton assisted prompt transfer for dialogue summarization",
+   "authors": "T Yu, K Xie, J Wu, H Zhao, R Zhang, KV Mahadik, A Nenkova",
+   "venue": "US Patent App. 18/355,901",
+   "year": "2025"
+  },
+  {
+   "title": "Self-Cleaning: Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances",
+   "authors": "Z Chu, R Zhang, T Yu, R Jain, V Morariu, J Gu, A Nenkova",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2024, 196-210",
+   "year": "2024"
+  },
+  {
+   "title": "Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances",
+   "authors": "Z Chu, R Zhang, T Yu, R Jain, VI Morariu, J Gu, A Nenkova",
+   "venue": "arXiv preprint arXiv:2310.16790",
+   "year": "2023"
+  },
+  {
+   "title": "Summarization from leaderboards to practice: Choosing a representation backbone and ensuring robustness",
+   "authors": "D Demeter, O Agarwal, SB Igeri, M Sterbentz, N Molino, JM Conroy, ...",
+   "venue": "arXiv preprint arXiv:2306.10555",
+   "year": "2023"
+  },
+  {
+   "title": "Learning adaptive axis attentions in fine-tuning: Beyond fixed sparse attention patterns",
+   "authors": "Z Wang, J Gu, J Kuen, H Zhao, V Morariu, R Zhang, A Nenkova, T Sun, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 916-925",
+   "year": "2022"
+  },
+  {
+   "title": "LLM-as-a-judge failures at automating the identification of poor quality outputs in free-form texts",
+   "authors": "Z Li, X Wu, I Mondal, A Siu, JL Boyd-Graber, A Nenkova",
+   "venue": "Proceedings of The 5th New Frontiers in Summarization Workshop, 1-16",
+   "year": "2025"
+  },
+  {
+   "title": "Fine-grained attribution for document question answering",
+   "authors": "N Lipka, V Manjunatha, S BHARGAVA, SM Ravi, K Goswami, J Barrow, ...",
+   "venue": "US Patent App. 18/528,618",
+   "year": "2025"
+  },
+  {
+   "title": "ATLAS: A System for PDF-centric Human Interaction Data Collection",
+   "authors": "A Siu, Z Wang, J Hoeflich, N Kapasi, A Nenkova, T Sun",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Multimodal extraction across multiple granularities",
+   "authors": "VI Morariu, T Sun, N Barmpalios, Z Wang, J Gu, AN Nenkova, ...",
+   "venue": "US Patent App. 17/746,779",
+   "year": "2023"
+  },
+  {
+   "title": "Autistic children are faster at turn-taking, more strongly driven by their own tempo, and less coordinated with their interlocutor than neurotypical controls",
+   "authors": "R Fusaroli, C Cox, S Cho, MR Pelella, M Liberman, C Cieri, A Hauptmann, ...",
+   "venue": "INSAR 2023",
+   "year": "2023"
+  },
+  {
+   "title": "DI-2022: The Third Document Intelligence Workshop",
+   "authors": "A Nenkova, D Burdick, B Han, D Lewis, S Tata, D Tecuci",
+   "venue": "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and …",
+   "year": "2022"
+  },
+  {
+   "title": "Improving the Estimation of Word Importance for News Multi-Document Summarization-Extended Technical Report",
+   "authors": "K Hong, A Nenkova",
+   "venue": "Technical Reports MS-CIS-14-02, University of Pennsylvania",
+   "year": "2014"
+  },
+  {
+   "title": "System and method for document collection, grouping and summarization",
+   "authors": "KR McKeown, R Barzilay, D Evans, V Hatzivassiloglou, J Klavans, ...",
+   "venue": "US Patent App. 13/473,837",
+   "year": "2012"
+  },
+  {
+   "title": "Proceedings of the 46th Annual Meeting of the Association for Computational Linguistics on Human Language Technologies: Tutorial Abstracts",
+   "authors": "A Nenkova",
+   "venue": "Association for Computational Linguistics",
+   "year": "2008"
+  },
+  {
+   "title": "Columbia at the document understanding conference 2003",
+   "authors": "K McKeown, R Barzilay, A Nenkova, B Schiffman, S Sigelman, ...",
+   "venue": "",
+   "year": "2003"
+  },
+  {
+   "title": "Utilizing embedding-based claim-relation graphs for efficient syntopical reading of content collections",
+   "authors": "J Barrow, J Healey, F Dernoncourt, A Nenkova, V Morariu, R Jain, N Lipka",
+   "venue": "US Patent 12,632,673",
+   "year": "2026"
+  },
+  {
+   "title": "SQLSpace: A Representation Space for Text-to-SQL to Discover and Mitigate Robustness Gaps.",
+   "authors": "N Srikanth, VS Bursztyn, P Mathur, A Nenkova",
+   "venue": "EMNLP (Findings), 1533-1559",
+   "year": "2025"
+  },
+  {
+   "title": "Extracting document hierarchy using a multimodal, layer-wise link prediction neural network",
+   "authors": "V Morariu, P Mathur, R Jain, A Mehra, J Gu, F Dernoncourt, Q Tran, ...",
+   "venue": "US Patent 12,333,844",
+   "year": "2025"
+  },
+  {
+   "title": "Identifying visual text using vision-language models",
+   "authors": "J Gu, R Rossi, G Verma, C Tensmeyer, A Nenkova",
+   "venue": "US Patent App. 18/339,883",
+   "year": "2024"
+  },
+  {
+   "title": "Contextual query generation",
+   "authors": "W Haoliang, T Yu, S Kim, R Zhang, P Xu, J Wu, H Zhao, A Nenkova",
+   "venue": "US Patent App. 18/339,694",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on Bridging Human--Computer Interaction and Natural Language Processing",
+   "authors": "SL Blodgett, H Daumé III, M Madaio, A Nenkova, B O’Connor, H Wallach, ...",
+   "venue": "Proceedings of the Second Workshop on Bridging Human--Computer Interaction …",
+   "year": "2022"
+  },
+  {
+   "title": "FRED: Fall Risk Evaluation Database Based on Electronic Health Record Data",
+   "authors": "P Lu, X Li, S Jang, A Lee, S Pugh, A Watson, RI Bjarnadóttir, R Lucero, ...",
+   "venue": "2021 IEEE/ACM Conference on Connected Health: Applications, Systems and …",
+   "year": "2021"
+  },
+  {
+   "title": "Browsing health: Information extraction to support new interfaces for accessing medical evidence",
+   "authors": "S Parikh, E Conrad, O Agarwal, I Marshall, BC Wallace, A Nenkova",
+   "venue": "Proceedings of the Workshop on Extracting Structured Knowledge from …",
+   "year": "2019"
+  },
+  {
+   "title": "Transactions of the Association for Computational Linguistics, Volume 6",
+   "authors": "L Lee, M Johnson, K Toutanova, B Roark, L Frermann, SB Cohen, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 6",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the 3rd Workshop on Predicting and Improving Text Readability for Target Reader Populations (PITR)",
+   "authors": "S Williams, A Siddharthan, A Nenkova",
+   "venue": "Proceedings of the 3rd Workshop on Predicting and Improving Text Readability …",
+   "year": "2014"
+  },
+  {
+   "title": "Proceedings of Workshop on Evaluation Metrics and System Comparison for Automatic Summarization",
+   "authors": "J Conroy, HT Dang, A Nenkova, K Owczarzak",
+   "venue": "Proceedings of Workshop on Evaluation Metrics and System Comparison for …",
+   "year": "2012"
+  },
+  {
+   "title": "Automatic text understanding of content and text quality",
+   "authors": "ANI NENKOVA",
+   "venue": "Frontiers of Engineering 2011: Reports on Leading-Edge Engineering from the …",
+   "year": "2012"
+  },
+  {
+   "title": "A tableau method for graded intersections of modalities: A case for concept languages",
+   "authors": "A Nenkova",
+   "venue": "Journal of Logic, Language and Information 11 (1), 67-77",
+   "year": "2002"
+  },
+  {
+   "title": "Generating Edit-Inducing Questions for AI Research Manuscripts",
+   "authors": "S Joseph, Z Wang, J Healey, A Siu, JJ Li, A Nenkova",
+   "venue": "arXiv preprint arXiv:2609.36617",
+   "year": "2026"
+  },
+  {
+   "title": "LinkNav: Surfacing Interconnected Information in Scientific Articles",
+   "authors": "S Joseph, J Healey, JJ Li, A Nenkova",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Responding to a user query using machine learning",
+   "authors": "J Saad-Falcon, JD Barrow, V Manjunatha, A PRAKASH, RA Rossi, ...",
+   "venue": "US Patent 12,625,845",
+   "year": "2026"
+  },
+  {
+   "title": "Image and semantic based table recognition",
+   "authors": "J Gu, V Morariu, T Sun, JWY Kuen, A Nenkova",
+   "venue": "US Patent 12,597,281",
+   "year": "2026"
+  },
+  {
+   "title": "Dialogue state aware dialogue summarization",
+   "authors": "W Haoliang, K Xie, T Yu, J Wu, H Zhao, R Zhang, KV Mahadik, A Nenkova",
+   "venue": "US Patent 12,566,925",
+   "year": "2026"
+  },
+  {
+   "title": "Unified pretraining framework for document understanding",
+   "authors": "J Gu, AN Nenkova, N Barmpalios, VI Morariu, T Sun, RB Jain, JWY Kuen, ...",
+   "venue": "US Patent App. 19/239,469",
+   "year": "2025"
+  },
+  {
+   "title": "Generating hierarchical entity segmentations utilizing self-supervised machine learning models",
+   "authors": "J Gu, JWY Kuen, H Tan, R Zhang, H Zhao, A Nenkova, T Sun, S Cao",
+   "venue": "US Patent App. 18/632,933",
+   "year": "2025"
+  },
+  {
+   "title": "Assisted review of text content using a machine learning model",
+   "authors": "N Goyal, AN Nenkova, N Modani, A Maheshwari, IJ Nair",
+   "venue": "US Patent 12,406,135",
+   "year": "2025"
+  },
+  {
+   "title": "Reflowing documents to display semantically related content",
+   "authors": "C Tensmeyer, LIU Fuxiao, H Tan, A Nenkova",
+   "venue": "US Patent 12,400,384",
+   "year": "2025"
+  },
+  {
+   "title": "Position-based text-to-speech model",
+   "authors": "P Mathur, F Dernoncourt, QH Tran, J Gu, A Nenkova, VI Morariu, RB Jain, ...",
+   "venue": "US Patent App. 18/528,116",
+   "year": "2025"
+  },
+  {
+   "title": "Generating temporal dependency graphs",
+   "authors": "P Mathur, V Morariu, V Kaynig-Fittkau, J Gu, F Dernoncourt, Q Tran, ...",
+   "venue": "US Patent App. 18/493,465",
+   "year": "2025"
+  },
+  {
+   "title": "Systems and methods for data correction",
+   "authors": "V Manjunatha, S Jain, RB Jain, AN Nenkova, CA Tensmeyer, ...",
+   "venue": "US Patent App. 18/047,335",
+   "year": "2024"
+  },
+  {
+   "title": "Adaptive sparse attention pattern",
+   "authors": "J Gu, Z Wang, JWY Kuen, H Zhao, VI Morariu, R Zhang, AN Nenkova, ...",
+   "venue": "US Patent App. 17/740,497",
+   "year": "2023"
+  },
+  {
+   "title": "Do Shapes Have Feelings? a Remote Administration of the Social Attribution Task in Autistic Children",
+   "authors": "A Knox, K Tena, MR Pelella, A Hauptmann, M Covello, AS Russell, ...",
+   "venue": "INSAR 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Feasibility of Longitudinal Telephone-Based Voice Sampling in Autistic Children and Teens",
+   "authors": "MR Pelella, A Knox, A Hauptmann, K Tena, AT Hulick, AS Russell, ...",
+   "venue": "INSAR 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Transactions of the Association for Computational Linguistics, Volume 8",
+   "authors": "M Johnson, B Roark, A Nenkova",
+   "venue": "Transactions of the Association for Computational Linguistics 8",
+   "year": "2020"
+  },
+  {
+   "title": "When News Gets Personal: the Evolution of Content in the Successive Retelling of Events",
+   "authors": "S Melumad, Y Duk Kim, R Meyer, A Nenkova",
+   "venue": "ACR North American Advances",
+   "year": "2018"
+  },
+  {
+   "title": "EAGER: Predicting Domain-level Reading Comprehension Difficulty to Support Adult Learning",
+   "authors": "A Nenkova",
+   "venue": "NSF Award Number 1748771. Directorate for Computer and Information Science …",
+   "year": "2017"
+  },
+  {
+   "title": "Phrase Generalization: a Corpus Study in Multi-Document Abstracts and Original News Alignments",
+   "authors": "A Di Felippo, A Nenkova",
+   "venue": "Proceedings of the 10th Linguistic Annotation Workshop held in conjunction …",
+   "year": "2016"
+  },
+  {
+   "title": "INLG and SIGDIAL 2014",
+   "authors": "M Mitchell, K McCoy, D McDonald, A Cahill, A Nenkova, H Hastie",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Proceedings of the 15th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL)",
+   "authors": "K Georgila, M Stone, H Hastie, A Nenkova",
+   "venue": "Proceedings of the 15th Annual Meeting of the Special Interest Group on …",
+   "year": "2014"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on Predicting and Improving Text Readability for Target Reader Populations",
+   "authors": "S Williams, A Siddharthan, A Nenkova",
+   "venue": "Proceedings of the Second Workshop on Predicting and Improving Text …",
+   "year": "2013"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Predicting and Improving Text Readability for target reader populations",
+   "authors": "S Williams, A Siddharthan, A Nenkova",
+   "venue": "Proceedings of the First Workshop on Predicting and Improving Text …",
+   "year": "2012"
+  },
+  {
+   "title": "Proceedings of the Third Workshop on Speech and Language Processing for Assistive Technologies",
+   "authors": "J Alexandersson, P Ljunglöf, KF McCoy, B Roark, A Waller",
+   "venue": "Proceedings of the Third Workshop on Speech and Language Processing for …",
+   "year": "2012"
+  },
+  {
+   "title": "Proceedings of the NAACL HLT 2012 Student Research Workshop",
+   "authors": "R Levitan, M Ott, R Levy, A Nenkova",
+   "venue": "Proceedings of the NAACL HLT 2012 Student Research Workshop",
+   "year": "2012"
+  },
+  {
+   "title": "NAACL-HLT 2012 Student Workshop",
+   "authors": "A Nenkova",
+   "venue": "NSF Award Number 1220521. Directorate for Computer and Information Science …",
+   "year": "2012"
+  },
+  {
+   "title": "Proceedings of the Workshop on Automatic Summarization for Different Genres, Media, and Languages",
+   "authors": "A Nenkova, J Hirschberg, Y Liu",
+   "venue": "Proceedings of the Workshop on Automatic Summarization for Different Genres …",
+   "year": "2011"
+  },
+  {
+   "title": "CI-P: Collaborative Research: Summarizing Opinion and Speaker Attitude in Speech",
+   "authors": "A Nenkova",
+   "venue": "NSF Award Number 1059257. Directorate for Computer and Information Science …",
+   "year": "2011"
+  },
+  {
+   "title": "Using Entity Features to Classify Implicit Discourse Relations",
+   "authors": "AK Joshi, A Louis, A Nenkova, R Prasad",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Discourse Indicators for Content Selection in Summaization",
+   "authors": "AK Joshi, A Louis, A Nenkova",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Class-Level Spectral Features for Emotion Recognition",
+   "authors": "R Verma, D Bitouk, A Nenkova",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "CAREER: Capturing Content and Linguistic Quality in Automatic Extractive and Abstractive Summarization",
+   "authors": "A Nenkova",
+   "venue": "NSF Award Number 0953445. Directorate for Computer and Information Science …",
+   "year": "2010"
+  },
+  {
+   "title": "Class-level spectral features for emotion recognition",
+   "authors": "A Nenkova",
+   "venue": "Speech Communication",
+   "year": "2010"
+  },
+  {
+   "title": "RI-Medium: Collaborative Research: Corpus-based Studies of Lexical, Acoustic, And Discourse Entrainment in Spoken Dialogue",
+   "authors": "A Nenkova",
+   "venue": "NSF Award Number 0803159. Directorate for Computer and Information Science …",
+   "year": "2008"
+  },
+  {
+   "title": "Measuring importance and query relevance in topic-focused multi-document summarization",
+   "authors": "A Nenkova, S Gupta, D Jurafsky",
+   "venue": "Proceedings of the 45th Annual Meeting of the ACL on Interactive Poster and …",
+   "year": "2007"
+  },
+  {
+   "title": "Automatically Learning Cognitive Status for Multi-Document Summarization of Newswire",
+   "authors": "K McKeown, A Nenkova, A Siddharthan",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "General versus specific sentences: automatic identification and application to analysis of news summaries",
+   "authors": "A Nenkova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Automatic Evaluation of Linguistic Quality in Multi-Document Summarization",
+   "authors": "A Nenkova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "EigenLoRA: Recycle trained Adapters for Resource Efficient Adaptation and Inference",
+   "authors": "P Kaushik, A Mishra, A Vaidya, R Addanki, RA Rossi, A Nenkova, A Liu, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "IEEE Signal Processing Society",
+   "authors": "H LI, E FOSLER-LUSSIER, H HACIHABIBOGLU, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "IEEE Signal Processing Society",
+   "authors": "D HAkkANI-TüR, F FONTANA, E FOSLER-LUSSIER, H HACIHABIBOGLU, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Temporal Browsing and Visualization of Large News Corpora",
+   "authors": "J Liu, A Vo, Q Wang, A Nenkova, A Louis",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

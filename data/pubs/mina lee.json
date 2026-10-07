@@ -1,0 +1,239 @@
+{
+ "user": "Z7H58GIAAAAJ",
+ "pubs": [
+  {
+   "title": "On the Opportunities and Risks of Foundation Models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities",
+   "authors": "M Lee, P Liang, Q Yang",
+   "venue": "Conference on Human Factors in Computing Systems (CHI)",
+   "year": "2022"
+  },
+  {
+   "title": "SPoC: Search-based Pseudocode to Code",
+   "authors": "S Kulal, P Pasupat, K Chandra, M Lee, O Padon, A Aiken, PS Liang",
+   "venue": "Neural Information Processing Systems (NeurIPS)",
+   "year": "2019"
+  },
+  {
+   "title": "Enabling Language Models to Fill in the Blanks",
+   "authors": "C Donahue, M Lee, P Liang",
+   "venue": "Association for Computational Linguistics (ACL)",
+   "year": "2020"
+  },
+  {
+   "title": "A Design Space for Intelligent and Interactive Writing Assistants",
+   "authors": "M Lee, KI Gero, JJY Chung, SB Shum, V Raheja, H Shen, S Venugopalan, ...",
+   "venue": "Conference on Human Factors in Computing Systems (CHI)",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating Human-Language Model Interaction",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "Transactions on Machine Learning Research (TMLR)",
+   "year": "2023"
+  },
+  {
+   "title": "Building machines that learn and think with people",
+   "authors": "KM Collins, I Sucholutsky, U Bhatt, K Chandra, L Wong, M Lee, CE Zhang, ...",
+   "venue": "Nature human behaviour 8 (10), 1851-1863",
+   "year": "2024"
+  },
+  {
+   "title": "Synthesizing Regular Expressions from Examples for Introductory Automata Assignments",
+   "authors": "M Lee, S So, H Oh",
+   "venue": "Generative Programming: Concepts and Experiences (GPCE)",
+   "year": "2016"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Effects of LLM use and note-taking on reading comprehension and memory: A randomised experiment in secondary schools",
+   "authors": "P Kreijkes, V Kewenig, M Kuvalja, M Lee, JM Hofman, S Vitello, A Sellen, ...",
+   "venue": "Computers & Education, 105514",
+   "year": "2025"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Human-centered evaluation and auditing of language models",
+   "authors": "Z Xiao, WH Deng, MS Lam, M Eslami, J Kim, M Lee, QV Liao",
+   "venue": "Extended Abstracts of the CHI Conference on Human Factors in Computing …",
+   "year": "2024"
+  },
+  {
+   "title": "Understanding, protecting, and augmenting human cognition with generative ai: A synthesis of the chi 2025 tools for thought workshop",
+   "authors": "L Tankelevitch, EL Glassman, J He, A Kittur, M Lee, S Palani, A Sarkar, ...",
+   "venue": "arXiv preprint arXiv:2508.21036",
+   "year": "2025"
+  },
+  {
+   "title": "Towards Explainable AI Writing Assistants for Non-native English Speakers",
+   "authors": "Y Kim, M Lee, D Kim, SJ Lee",
+   "venue": "Workshop on Intelligent and Interactive Writing Assistants (In2Writing)",
+   "year": "2023"
+  },
+  {
+   "title": "Tools for thought: Research and design for understanding, protecting, and augmenting human cognition with generative ai",
+   "authors": "L Tankelevitch, EL Glassman, J He, M Kazemitabaar, A Kittur, M Lee, ...",
+   "venue": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors …",
+   "year": "2025"
+  },
+  {
+   "title": "Swords⚔️: A Benchmark for Lexical Substitution with Improved Data Coverage and Quality",
+   "authors": "M Lee, C Donahue, A Iyabor, R Jia, P Liang",
+   "venue": "North American Chapter of the Association for Computational Linguistics (NAACL)",
+   "year": "2021"
+  },
+  {
+   "title": "Investigating the effects of LLM use on critical thinking under time constraints: Access timing and time availability",
+   "authors": "J Zhi, H Kumar, M Lee",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Unraveling misinformation propagation in llm reasoning",
+   "authors": "Y Feng, Y Wang, S Cui, B Faltings, M Lee, J Zhou",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025, 11683 …",
+   "year": "2025"
+  },
+  {
+   "title": "Design Opportunities for Explainable AI Paraphrasing Tools: A User Study with Non-native English Speakers",
+   "authors": "Y Kim, TLV Le, D Kim, M Lee, SJ Lee",
+   "venue": "Designing Interactive Systems Conference (DIS)",
+   "year": "2025"
+  },
+  {
+   "title": "Learning Autocomplete Systems as a Communication Game",
+   "authors": "M Lee, TB Hashimoto, P Liang",
+   "venue": "Neural Information Processing Systems (NeurIPS) Workshop on Emergent …",
+   "year": "2019"
+  },
+  {
+   "title": "Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing",
+   "authors": "I Cheong, A Guo, M Lee, Z Liao, K Kadoma, D Go, JC Chang, ...",
+   "venue": "arXiv preprint arXiv:2507.01418",
+   "year": "2025"
+  },
+  {
+   "title": "Optimizing diversity and quality through base-aligned model collaboration",
+   "authors": "Y Wang, C Yang, T Huang, M Chen, J May, M Lee",
+   "venue": "arXiv preprint arXiv:2511.05650",
+   "year": "2025"
+  },
+  {
+   "title": "“Helping Me Versus Doing It for Me”: Designing for Agency in LLM-Infused Writing Tools for Science Journalism",
+   "authors": "S Nishal, M Lee, N Diakopoulos, J Wortman Vaughan",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Human-centered evaluation and auditing of language models",
+   "authors": "YL Liu, WH Deng, MS Lam, M Eslami, J Kim, QV Liao, W Xu, J Novikova, ...",
+   "venue": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors …",
+   "year": "2025"
+  },
+  {
+   "title": "How Problematic Writer-AI Interactions (Rather than Problematic AI) Hinder Writers' Idea Generation",
+   "authors": "K Umarova, T Wise, Z Lyu, M Lee, Q Yang",
+   "venue": "arXiv preprint arXiv:2503.11915",
+   "year": "2025"
+  },
+  {
+   "title": "Dongyoung Go, Joseph Chee Chang, Peter Henderson, Mor Naaman, and Amy X. Zhang. 2025. Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI …",
+   "authors": "I Cheong, A Guo, M Lee, Z Liao, K Kadoma",
+   "venue": "arXiv preprint arXiv:2507.01418",
+   "year": "2025"
+  },
+  {
+   "title": "TempLM: Distilling Language Models into Template-Based Generators",
+   "authors": "T Zhang, M Lee, L Li, E Shen, TB Hashimoto",
+   "venue": "Association for Computational Linguistics (ACL)",
+   "year": "2022"
+  },
+  {
+   "title": "What Does AI Do for Cultural Interpretation? A Randomized Experiment on Close Reading Poems with Exposure to AI Interpretation",
+   "authors": "J Zhi, H Long, RJ So, M Lee",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "What Shapes Writers' Decisions to Disclose AI Use?",
+   "authors": "J Fang, M Lee",
+   "venue": "arXiv preprint arXiv:2505.20727",
+   "year": "2025"
+  },
+  {
+   "title": "Audience Impressions of Narrative Structures and Personal Language Style in Science Communication on Social Media",
+   "authors": "G Li, Y Teng, J Kawai-Yue, U Ahmed, AS Tantiwongse, JY Liang, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Writing with AI Can Reduce Gender Bias in Hiring Evaluations",
+   "authors": "ATH Liu, M Lee, X Bai",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Could AI Make Legalese Comprehensible to the Public?",
+   "authors": "M Lee, JM Hofman, DM Rothschild, DG Goldstein",
+   "venue": "Available at SSRN",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Intelligent and Interactive Writing Assistants (In2Writing 2022)",
+   "authors": "TH Huang, V Raheja, D Kang, JJY Chung, D Gissin, M Lee, KI Gero",
+   "venue": "Proceedings of the First Workshop on Intelligent and Interactive Writing …",
+   "year": "2022"
+  },
+  {
+   "title": "What Influences Readers' and Writers' Perceived Necessity of AI Disclosure?",
+   "authors": "J Fang, VX Wen, M Lee",
+   "venue": "The 2026 ACM Conference on Fairness, Accountability, and Transparency, 894-920",
+   "year": "2026"
+  },
+  {
+   "title": "\" I never would have thought to say this\": Example-Based Exploration to Balance Scientists' Writing Preferences with Public Science Communication Strategies",
+   "authors": "G Li, Y Teng, J Kawai-Yue, U Ahmed, AS Tantiwongse, JY Liang, ...",
+   "venue": "arXiv preprint arXiv:2502.05287",
+   "year": "2025"
+  },
+  {
+   "title": "“I would have completely trusted the LLM’s response”: Changes in Students’ Understanding and Behaviors After an AI Literacy Hallucination Lesson",
+   "authors": "G LI, J LIU, J SOLYST, D FRANKLIN, M LEE",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "What Does AI Do for Cultural Interpretation? A Randomized Experiment on Close Reading with Exposure to AI",
+   "authors": "J Zhi, H Long, RJ So, M Lee",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Combining Structured Tasks and Behavioral Logs for Measuring AI’s Impact on Cognition",
+   "authors": "J Zhi, M Lee",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Pre-registered on",
+   "authors": "J Shu, E Phelps",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

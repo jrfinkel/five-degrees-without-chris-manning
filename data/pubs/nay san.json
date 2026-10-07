@@ -1,0 +1,113 @@
+{
+ "user": "z_KqSbwAAAAJ",
+ "pubs": [
+  {
+   "title": "Making More of Little Data: Improving Low-Resource Automatic Speech Recognition Using Data Augmentation",
+   "authors": "M Bartelds, N San, B McDonnell, D Jurafsky, M Wieling",
+   "venue": "arXiv preprint arXiv:2305.10951",
+   "year": "2023"
+  },
+  {
+   "title": "Building Speech Recognition Systems for Language Documentation: The CoEDL Endangered Language Pipeline and Inference System (ELPIS).",
+   "authors": "B Foley, JT Arnold, R Coto-Solano, G Durantin, TM Ellison, D van Esch, ...",
+   "venue": "SLTU, 205-209",
+   "year": "2018"
+  },
+  {
+   "title": "Leveraging pre-trained representations to improve access to untranscribed speech from endangered languages",
+   "authors": "N San, M Bartelds, M Browne, L Clifford, F Gibson, J Mansfield, D Nash, ...",
+   "venue": "2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU …",
+   "year": "2021"
+  },
+  {
+   "title": "Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens",
+   "authors": "N San, G Paraskevopoulos, A Arora, X He, P Kaur, O Adams, D Jurafsky",
+   "venue": "Proceedings of the 6th Workshop on Research in Computational Linguistic …",
+   "year": "2024"
+  },
+  {
+   "title": "People who share encounters with racism are silenced online by humans and machines, but a guideline-reframing intervention holds promise",
+   "authors": "C Lee, K Gligorić, PR Kalluri, M Harrington, E Durmus, KL Sanchez, ...",
+   "venue": "Proceedings of the National Academy of Sciences 121 (38), e2322764121",
+   "year": "2024"
+  },
+  {
+   "title": "Future Directions in Technological Support for Language Documentation",
+   "authors": "D van Esch, B Foley, N San",
+   "venue": "Proceedings of the Workshop on Computational Methods for Endangered …",
+   "year": "2019"
+  },
+  {
+   "title": "The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources",
+   "authors": "S Longpre, S Biderman, A Albalak, H Schoelkopf, D McDuff, S Kapoor, ...",
+   "venue": "arXiv preprint arXiv:2406.16746",
+   "year": "2024"
+  },
+  {
+   "title": "Leveraging supplementary text data to kick-start automatic speech recognition system development with limited transcriptions",
+   "authors": "N San, M Bartelds, B Billings, E de Falco, H Feriza, J Safri, W Sahrozi, ...",
+   "venue": "Proceedings of the Sixth Workshop on the Use of Computational Methods in the …",
+   "year": "2023"
+  },
+  {
+   "title": "Developing Speech Processing Pipelines for Police Accountability",
+   "authors": "A Field, P Verma, N San, JL Eberhardt, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2306.06086",
+   "year": "2023"
+  },
+  {
+   "title": "Automated speech tools for helping communities process restricted-access corpora for language revival efforts",
+   "authors": "N San, M Bartelds, A Mount, R Thompson, M Higgins, R Barker, ...",
+   "venue": "Proceedings of the Fifth Workshop on the Use of Computational Methods in the …",
+   "year": "2022"
+  },
+  {
+   "title": "Pre-stopping in Arabana",
+   "authors": "M Harvey, N San, M Carew, S Strangways, J Simpson, C Stockigt",
+   "venue": "Australian Journal of Linguistics 39 (4), 419-462",
+   "year": "2019"
+  },
+  {
+   "title": "Managing Transcription Data for Automatic Speech Recognition with Elpis",
+   "authors": "B Foley, D van Esch, N San",
+   "venue": "The Open Handbook of Linguistic Data Management, 437",
+   "year": "2022"
+  },
+  {
+   "title": "Text-setting in Kaytetye",
+   "authors": "N San, M Turpin",
+   "venue": "Proceedings of the Annual Meetings on Phonology 9",
+   "year": "2021"
+  },
+  {
+   "title": "The Kaytetye segmental inventory",
+   "authors": "M Harvey, N San, M Proctor, F Panther, M Turpin",
+   "venue": "Australian Journal of Linguistics 43 (1), 33-68",
+   "year": "2023"
+  },
+  {
+   "title": "A Quantitative Analysis of Vowel Variation in Kaytetye",
+   "authors": "N San",
+   "venue": "Macquarie University, Faculty of Human Sciences, Department of Linguistics",
+   "year": "2016"
+  },
+  {
+   "title": "Improving Access to Untranscribed Speech Corpora Using AI",
+   "authors": "NM San",
+   "venue": "Stanford University",
+   "year": "2024"
+  },
+  {
+   "title": "Elpis speech recognition software: assistance for language material transcription",
+   "authors": "J Wiles, B Foley, N Lambourne, N San, H Keightley",
+   "venue": "University of Queensland",
+   "year": "2018"
+  },
+  {
+   "title": "Improving access to untranscribed speech by leveraging spoken term detection and self-supervised learning of speech representations",
+   "authors": "N San, M Bartelds, D Jurafsky",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

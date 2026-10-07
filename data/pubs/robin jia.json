@@ -1,0 +1,599 @@
+{
+ "user": "ajZ-_O0AAAAJ",
+ "pubs": [
+  {
+   "title": "Know what you don’t know: Unanswerable questions for SQuAD",
+   "authors": "P Rajpurkar, R Jia, P Liang",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Adversarial examples for evaluating reading comprehension systems",
+   "authors": "R Jia, P Liang",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "Dynabench: Rethinking benchmarking in NLP",
+   "authors": "D Kiela, M Bartolo, Y Nie, D Kaushik, A Geiger, Z Wu, B Vidgen, G Prasad, ...",
+   "venue": "Proceedings of the 2021 conference of the North American chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Delete, retrieve, generate: a simple approach to sentiment and style transfer",
+   "authors": "J Li, R Jia, H He, P Liang",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Data recombination for neural semantic parsing",
+   "authors": "R Jia, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Certified robustness to adversarial word substitutions",
+   "authors": "R Jia, A Raghunathan, K Göksel, P Liang",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Masked language modeling and the distributional hypothesis: Order word matters pre-training for little",
+   "authors": "K Sinha, R Jia, D Hupkes, J Pineau, A Williams, D Kiela",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "MRQA 2019 shared task: Evaluating generalization in reading comprehension",
+   "authors": "A Fisch, A Talmor, R Jia, M Seo, E Choi, D Chen",
+   "venue": "Proceedings of the 2nd workshop on machine reading for question answering, 1-13",
+   "year": "2019"
+  },
+  {
+   "title": "Selective question answering under domain shift",
+   "authors": "A Kamath, R Jia, P Liang",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Document-level n-ary relation extraction with multiscale representation learning",
+   "authors": "R Jia, C Wong, H Poon",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "With little power comes great responsibility",
+   "authors": "D Card, P Henderson, U Khandelwal, R Jia, K Mahowald, D Jurafsky",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluation Examples Are Not Equally Informative: How Should That Change NLP Leaderboards?",
+   "authors": "P Rodriguez, J Barrow, A Hoyle, JP Lalor, R Jia, J Boyd-Graber",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Robust encodings: A framework for combating adversarial typos",
+   "authors": "E Jones, R Jia, A Raghunathan, P Liang",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Improving question answering model robustness with synthetic adversarial data generation",
+   "authors": "M Bartolo, T Thrush, R Jia, S Riedel, P Stenetorp, D Kiela",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models",
+   "authors": "D Fu, TQ Chen, R Jia, V Sharan",
+   "venue": "arXiv preprint arXiv:2310.17086",
+   "year": "2023"
+  },
+  {
+   "title": "Knowledge base question answering by case-based reasoning over subgraphs",
+   "authors": "R Das, A Godbole, A Naik, E Tower, M Zaheer, H Hajishirzi, R Jia, ...",
+   "venue": "International Conference on Machine Learning, 4777-4793",
+   "year": "2022"
+  },
+  {
+   "title": "Data Curation Alone Can Stabilize In-context Learning",
+   "authors": "TY Chang, R Jia",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Dynaboard: An evaluation-as-a-service platform for holistic next-generation benchmarking",
+   "authors": "Z Ma, K Ethayarajh, T Thrush, S Jain, L Wu, R Jia, C Potts, A Williams, ...",
+   "venue": "Advances in Neural Information Processing Systems 34, 10351-10367",
+   "year": "2021"
+  },
+  {
+   "title": "Mx1 and Mx2 key antiviral proteins are surprisingly lost in toothed whales",
+   "authors": "BA Braun, A Marcovitz, JG Camp, R Jia, G Bejerano",
+   "venue": "Proceedings of the National Academy of Sciences 112 (26), 8036-8040",
+   "year": "2015"
+  },
+  {
+   "title": "“Reverse genomics” predicts function of human conserved noncoding elements",
+   "authors": "A Marcovitz, R Jia, G Bejerano",
+   "venue": "Molecular biology and evolution 33 (5), 1358-1369",
+   "year": "2016"
+  },
+  {
+   "title": "Proving membership in LLM pretraining data via data watermarks",
+   "authors": "J Wei, R Wang, R Jia",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 13306-13320",
+   "year": "2024"
+  },
+  {
+   "title": "Mechanistic interpretability of emotion inference in large language models",
+   "authors": "AN Tak, A Banayeeanzade, A Bolourani, M Kian, R Jia, J Gratch",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 13090-13120",
+   "year": "2025"
+  },
+  {
+   "title": "How predictable are large language model capabilities? a case study on big-bench",
+   "authors": "Q Ye, H Fu, X Ren, R Jia",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 7493-7517",
+   "year": "2023"
+  },
+  {
+   "title": "Pre-trained large language models use fourier features to compute addition",
+   "authors": "T Zhou, D Fu, V Sharan, R Jia",
+   "venue": "Advances in Neural Information Processing Systems 37, 25120-25151",
+   "year": "2024"
+  },
+  {
+   "title": "Do Localization Methods Actually Localize Memorized Data in LLMs? A Tale of Two Benchmarks",
+   "authors": "TY Chang, J Thomason, R Jia",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Isobench: Benchmarking multimodal foundation models on isomorphic representations",
+   "authors": "D Fu, R Guo, G Khalighinejad, O Liu, B Dhingra, D Yogatama, R Jia, ...",
+   "venue": "arXiv preprint arXiv:2404.01266",
+   "year": "2024"
+  },
+  {
+   "title": "Models in the loop: Aiding crowdworkers with generative annotation assistants",
+   "authors": "M Bartolo, T Thrush, S Riedel, P Stenetorp, R Jia, D Kiela",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Analyzing dynamic adversarial training data in the limit",
+   "authors": "E Wallace, A Williams, R Jia, D Kiela",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 202-217",
+   "year": "2022"
+  },
+  {
+   "title": "On continual model refinement in out-of-distribution data streams",
+   "authors": "BY Lin, SI Wang, XV Lin, R Jia, L Xiao, X Ren, W Yih",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Do Question Answering Modeling Improvements Hold Across Benchmarks?",
+   "authors": "NF Liu, T Lee, R Jia, P Liang",
+   "venue": "arXiv preprint arXiv:2102.01065",
+   "year": "2021"
+  },
+  {
+   "title": "To what extent do human explanations of model behavior align with actual model behavior?",
+   "authors": "G Prasad, Y Nie, M Bansal, R Jia, D Kiela, A Williams",
+   "venue": "Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting …",
+   "year": "2021"
+  },
+  {
+   "title": "Do Explanations Help Users Detect Errors in Open-Domain QA? An Evaluation of Spoken vs. Visual Explanations",
+   "authors": "AV González, G Bansal, A Fan, Y Mehdad, R Jia, S Iyer",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Swords: A Benchmark for Lexical Substitution with Improved Data Coverage and Quality",
+   "authors": "M Lee, C Donahue, R Jia, A Iyabor, P Liang",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Human Evaluation of Spoken vs. Visual Explanations for Open-Domain QA",
+   "authors": "AV Gonzalez, G Bansal, A Fan, R Jia, Y Mehdad, S Iyer",
+   "venue": "arXiv preprint arXiv:2012.15075",
+   "year": "2020"
+  },
+  {
+   "title": "Fone: Precise single-token number embeddings via fourier features",
+   "authors": "T Zhou, D Fu, M Soltanolkotabi, R Jia, V Sharan",
+   "venue": "International Conference on Learning Representations 2026, 28485-28516",
+   "year": "2026"
+  },
+  {
+   "title": "Question answering infused pre-training of general-purpose contextualized representations",
+   "authors": "R Jia, M Lewis, L Zettlemoyer",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 711-728",
+   "year": "2022"
+  },
+  {
+   "title": "Language Models Can Infer Action Semantics for Symbolic Planners from Environment Feedback",
+   "authors": "WB Zhu, I Singh, R Jia, J Thomason",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Tldr: Token-level detective reward model for large vision language models",
+   "authors": "D Fu, T Xiao, R Wang, W Zhu, P Zhang, G Pang, R Jia, L Chen",
+   "venue": "International Conference on Learning Representations 2025, 45205-45236",
+   "year": "2025"
+  },
+  {
+   "title": "On the robustness of reading comprehension models to entity renaming",
+   "authors": "J Yan, Y Xiao, S Mukherjee, BY Lin, R Jia, X Ren",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "The statistical advantage of automatic NLG metrics at the system level",
+   "authors": "J Wei, R Jia",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "On the importance of adaptive data collection for extremely imbalanced pairwise tasks",
+   "authors": "S Mussmann, R Jia, P Liang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 3400-3413",
+   "year": "2020"
+  },
+  {
+   "title": "Chain-of-questions training with latent answers for robust multistep question answering",
+   "authors": "W Zhu, J Thomason, R Jia",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Robust data watermarking in language models by injecting fictitious knowledge",
+   "authors": "X Cui, J Wei, S Swayamdipta, R Jia",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 14292-14306",
+   "year": "2025"
+  },
+  {
+   "title": "N-ary relation prediction over text spans",
+   "authors": "H Poon, C Wong, JIA Robin",
+   "venue": "US Patent 10,943,068",
+   "year": "2021"
+  },
+  {
+   "title": "Efficient end-to-end visual document understanding with rationale distillation",
+   "authors": "W Zhu, A Agarwal, M Joshi, R Jia, J Thomason, K Toutanova",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Are sample-efficient nlp models more robust?",
+   "authors": "NF Liu, A Kumar, P Liang, R Jia",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Textual steering vectors can improve visual understanding in multimodal large language models",
+   "authors": "WH Gan, D Fu, J Asilis, O Liu, V Sharan, R Jia, W Neiswanger",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Rethinking backdoor detection evaluation for language models",
+   "authors": "J Yan, WJ Mo, X Ren, R Jia",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Estimating large language model capabilities without labeled test data",
+   "authors": "H Fu, Q Ye, A Xu, X Ren, R Jia",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 9530-9546",
+   "year": "2023"
+  },
+  {
+   "title": "Benchmarking long-tail generalization with likelihood splits",
+   "authors": "A Godbole, R Jia",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 963-983",
+   "year": "2023"
+  },
+  {
+   "title": "Learning concepts through conversations in spoken dialogue systems",
+   "authors": "R Jia, L Heck, D Hakkani-Tür, G Nikolov",
+   "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2017"
+  },
+  {
+   "title": "Operationalizing content moderation “accuracy” in the Digital Services Act",
+   "authors": "JTZ Wei, F Zufall, R Jia",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7 (1 …",
+   "year": "2024"
+  },
+  {
+   "title": "Hubble: a model suite to advance the study of llm memorization",
+   "authors": "J Wei, A Godbole, MA Khan, R Wang, X Zhu, J Flemings, N Kashyap, ...",
+   "venue": "International Conference on Learning Representations 2026, 124703-124764",
+   "year": "2026"
+  },
+  {
+   "title": "Verify with caution: The pitfalls of relying on imperfect factuality metrics",
+   "authors": "A Godbole, R Jia",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 22889-22912",
+   "year": "2025"
+  },
+  {
+   "title": "Contrastive Novelty-Augmented Learning: Anticipating Outliers with Large Language Models",
+   "authors": "A Xu, X Ren, R Jia",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Why Do Some Inputs Break Low-Bit LLM Quantization?",
+   "authors": "TY Chang, M Zhang, J Thomason, R Jia",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "SCENE: Self-labeled counterfactuals for extrapolating to negative examples",
+   "authors": "D Fu, A Godbole, R Jia",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Generalization differences between end-to-end and neuro-symbolic vision-language reasoning systems",
+   "authors": "W Zhu, J Thomason, R Jia",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 4697-4711",
+   "year": "2022"
+  },
+  {
+   "title": "Know when to abstain: Calibrating question answering system under domain shift",
+   "authors": "R Jia, W Xie",
+   "venue": "Technical report, Stanford University",
+   "year": "2020"
+  },
+  {
+   "title": "Contextleak: Auditing leakage in private in-context learning methods",
+   "authors": "J Choi, S Cao, X Dong, A Banayeeanzade, WB Zhu, R Jia, ...",
+   "venue": "arXiv preprint arXiv:2512.16059",
+   "year": "2025"
+  },
+  {
+   "title": "PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models",
+   "authors": "WB Zhu, M Chai, I Singh, R Jia, J Thomason",
+   "venue": "arXiv preprint arXiv:2506.20097",
+   "year": "2025"
+  },
+  {
+   "title": "Teaching Models to Understand (but not Generate) High-risk Data",
+   "authors": "R Wang, M Finlayson, L Soldaini, S Swayamdipta, R Jia",
+   "venue": "arXiv preprint arXiv:2505.03052",
+   "year": "2025"
+  },
+  {
+   "title": "When parts are greater than sums: Individual LLM components can outperform full models",
+   "authors": "TY Chang, J Thomason, R Jia",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Building Robust Natural Language Processing Systems",
+   "authors": "R Jia",
+   "venue": "PQDT-Global",
+   "year": "2020"
+  },
+  {
+   "title": "Cancer-Myth: Evaluating large language models on patient questions with false presuppositions",
+   "authors": "WB Zhu, T Chen, XV Yu, CY Lin, J Law, M Jizzini, JJ Nieva, R Liu, R Jia",
+   "venue": "arXiv preprint arXiv:2504.11373",
+   "year": "2025"
+  },
+  {
+   "title": "LLM Unlearning Without an Expert Curated Dataset",
+   "authors": "X Zhu, M Zhang, O Liu, R Jia, W Neiswanger",
+   "venue": "arXiv preprint arXiv:2508.06595",
+   "year": "2025"
+  },
+  {
+   "title": "Value-Aware Stochastic KV Cache Eviction for Reasoning Models",
+   "authors": "TY Chang, HY Fu, D Fu, C Yang, J Thomason, R Jia",
+   "venue": "arXiv preprint arXiv:2606.03928",
+   "year": "2026"
+  },
+  {
+   "title": "Function induction and task generalization: An interpretability study with off-by-one addition",
+   "authors": "Q Ye, R Jia, X Ren",
+   "venue": "International Conference on Learning Representations 2026, 88017-88054",
+   "year": "2026"
+  },
+  {
+   "title": "Precise Debugging Benchmark: Is Your Model Debugging or Regenerating?",
+   "authors": "WB Zhu, M Chai, S Wang, Y Liu, S Bian, H Dong, W Neiswanger, R Jia",
+   "venue": "arXiv preprint arXiv:2604.17338",
+   "year": "2026"
+  },
+  {
+   "title": "Does VLN Pretraining Work with Nonsensical or Irrelevant Instructions?",
+   "authors": "W Zhu, I Singh, Y Huang, R Jia, J Thomason",
+   "venue": "arXiv preprint arXiv:2311.17280",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Machine Reading for Question Answering",
+   "authors": "A Fisch, A Talmor, R Jia, M Seo, E Choi, D Chen",
+   "venue": "Proceedings of the 2nd Workshop on Machine Reading for Question Answering",
+   "year": "2019"
+  },
+  {
+   "title": "Convergent Evolution: How Different Language Models Learn Similar Number Representations",
+   "authors": "D Fu, T Zhou, M Belkin, V Sharan, R Jia",
+   "venue": "arXiv preprint arXiv:2604.20817",
+   "year": "2026"
+  },
+  {
+   "title": "PDDL-Mind: Large Language Models are Capable on Belief Reasoning with Reliable State Tracking",
+   "authors": "WB Zhu, QT Yi, R Jia, J Thomason",
+   "venue": "arXiv preprint arXiv:2604.17819",
+   "year": "2026"
+  },
+  {
+   "title": "Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks",
+   "authors": "Y Yang, T Liu, WB Zhu, T Shi, L Song, R Jia",
+   "venue": "arXiv preprint arXiv:2604.11610",
+   "year": "2026"
+  },
+  {
+   "title": "EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors",
+   "authors": "A Banayeeanzade, Q Yang, D Fu, S Hong, E Babinsky, A Samuel, ...",
+   "venue": "arXiv preprint arXiv:2602.21218",
+   "year": "2026"
+  },
+  {
+   "title": "Promote, Suppress, Iterate: How Language Models Answer One-to-Many Factual Queries",
+   "authors": "TL Yan, R Jia",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Interrogating LLM design under copyright law",
+   "authors": "J Tian-Zheng Wei, M Wang, A Godbole, J Choi, R Jia",
+   "venue": "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and …",
+   "year": "2025"
+  },
+  {
+   "title": "When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction",
+   "authors": "Y Yang, R Jia",
+   "venue": "arXiv preprint arXiv:2505.16170",
+   "year": "2025"
+  },
+  {
+   "title": "Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs",
+   "authors": "A Banayeeanzade, Q Yang, D Tarsadiya, F Bahrani, L Blas, A Samuel, ...",
+   "venue": "arXiv preprint arXiv:2605.11128",
+   "year": "2026"
+  },
+  {
+   "title": "Psychological Steering of Large Language Models",
+   "authors": "L Blas, R Jia, E Ferrara",
+   "venue": "arXiv preprint arXiv:2604.14463",
+   "year": "2026"
+  },
+  {
+   "title": "TokenSmith: Streamlining Data Editing, Search, and Inspection for Large-Scale Language Model Training and Interpretability",
+   "authors": "MA Khan, A Godbole, J Wei, RY Wang, J Flemings, KP Gummadi, ...",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Interrogating LLM design under a fair learning doctrine",
+   "authors": "JTZ Wei, M Wang, A Godbole, JH Choi, R Jia",
+   "venue": "arXiv preprint arXiv:2502.16290",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the Workshop on Machine Reading for Question Answering",
+   "authors": "E Choi, M Seo, D Chen, R Jia, J Berant",
+   "venue": "Proceedings of the Workshop on Machine Reading for Question Answering",
+   "year": "2018"
+  },
+  {
+   "title": "Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data",
+   "authors": "Q Ye, D Fu, R Jia, V Sharan",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift",
+   "authors": "Z Huang, GL Carvalho, D Fu, R Jia",
+   "venue": "arXiv preprint arXiv:2607.17524",
+   "year": "2026"
+  },
+  {
+   "title": "EUDAIMONIA: Evaluating Undesirable Dynamics in AI",
+   "authors": "JR Huang, WB Zhu, Z Liu, N Fast, R Iyer, R Jia",
+   "venue": "arXiv preprint arXiv:2605.30654",
+   "year": "2026"
+  },
+  {
+   "title": "Spiking the training data to correct for test set contamination",
+   "authors": "JTZ Wei, J Li, A Godbole, R Jia",
+   "venue": "arXiv preprint arXiv:2605.24818",
+   "year": "2026"
+  },
+  {
+   "title": "Generating Complex Code Analyzers from Natural Language Questions",
+   "authors": "A Nazari, S Sabouri, WB Zhu, R Jia, S Chattopadhyay, M Raghothaman",
+   "venue": "arXiv preprint arXiv:2605.09304",
+   "year": "2026"
+  },
+  {
+   "title": "SHRED: Retain-Set-Free Unlearning via Self-Distillation with Logit Demotion",
+   "authors": "Z Hu, A Godbole, JTZ Wei, M Rostami, J Thomason, R Jia",
+   "venue": "arXiv preprint arXiv:2605.07482",
+   "year": "2026"
+  },
+  {
+   "title": "How Language Models Process Negation",
+   "authors": "Z Zhou, T Zhou, R Jia, J May",
+   "venue": "arXiv preprint arXiv:2605.03052",
+   "year": "2026"
+  },
+  {
+   "title": "Spiking the training data to correct for test set contamination",
+   "authors": "J Tian-Zheng Wei, J Li, A Godbole, R Jia",
+   "venue": "arXiv e-prints, arXiv: 2605.24818",
+   "year": "2026"
+  },
+  {
+   "title": "EUDAIMONIA: Evaluating Undesirable Dynamics in AI",
+   "authors": "J Rui Huang, WB Zhu, Z Liu, N Fast, R Iyer, R Jia",
+   "venue": "arXiv e-prints, arXiv: 2605.30654",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Large Language Model Memorization (L2M2)",
+   "authors": "R Jia, E Wallace, Y Huang, T Pimentel, P Maini, V Dankers, J Wei, P Lesci",
+   "venue": "Proceedings of the First Workshop on Large Language Model Memorization (L2M2)",
+   "year": "2025"
+  },
+  {
+   "title": "Interrogating LLM design under copyright law",
+   "authors": "JTZ Wei, M Wang, A Godbole, JH Choi, R Jia",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Dynamic Adversarial Data Collection",
+   "authors": "M Bartolo, H Kirk, P Rodriguez, K Margatina, T Thrush, R Jia, P Stenetorp, ...",
+   "venue": "Proceedings of the First Workshop on Dynamic Adversarial Data Collection",
+   "year": "2022"
+  },
+  {
+   "title": "CS229 FINAL REPORT: UNSUPERVISED LEARNING OF TEMPORALLY COHERENT FEATURES FOR ACTION RECOGNITION",
+   "authors": "Z Huang, R Jia, K Sankaran",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Algorithmic Primitives of Theory of Mind Benchmarks",
+   "authors": "QT Yi, WB Zhu, R Jia, J Thomason",
+   "venue": "COLM 2026 Workshop on Efficient Reasoning",
+   "year": null
+  },
+  {
+   "title": "Spiking the training data to adjust for test set contamination",
+   "authors": "J Wei, J Li, A Godbole, R Jia",
+   "venue": "ICML Workshop on Technical AI Governance Research",
+   "year": null
+  },
+  {
+   "title": "CS 221 FINAL PROJECT: AUTOMATIC SCORE FOLLOWING",
+   "authors": "R JIA",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

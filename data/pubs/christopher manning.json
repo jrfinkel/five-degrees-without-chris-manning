@@ -1,0 +1,3929 @@
+{
+ "user": "1zmDOdwAAAAJ",
+ "pubs": [
+  {
+   "title": "GloVe: Global vectors for word representation",
+   "authors": "J Pennington, R Socher, CD Manning",
+   "venue": "2014 conference on empirical methods in natural language processing (EMNLP …",
+   "year": "2014"
+  },
+  {
+   "title": "Introduction to Information Retrieval",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Cambridge: Cambridge University Press",
+   "year": "2008"
+  },
+  {
+   "title": "Foundations of Statistical Natural Language Processing",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Cambridge, MA: MIT Press",
+   "year": "1999"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Effective approaches to attention-based neural machine translation",
+   "authors": "MT Luong, H Pham, CD Manning",
+   "venue": "EMNLP 2015 [arXiv preprint arXiv:1508.04025], 1412–1421",
+   "year": "2015"
+  },
+  {
+   "title": "Direct preference optimization: Your language model is secretly a reward model",
+   "authors": "R Rafailov, A Sharma, E Mitchell, S Ermon, CD Manning, C Finn",
+   "venue": "Advances in Neural Information Processing Systems [arXiv:2305.18290] 36 …",
+   "year": "2023"
+  },
+  {
+   "title": "Recursive deep models for semantic compositionality over a sentiment treebank",
+   "authors": "R Socher, A Perelygin, J Wu, J Chuang, CD Manning, AY Ng, C Potts",
+   "venue": "2013 Conference on Empirical Methods in Natural Language Processing, 1631-1642",
+   "year": "2013"
+  },
+  {
+   "title": "The Stanford CoreNLP Natural Language Processing Toolkit",
+   "authors": "CD Manning, M Surdeanu, J Bauer, J Finkel, SJ Bethard, D McClosky",
+   "venue": "ACL System Demonstrations, 55–60",
+   "year": "2014"
+  },
+  {
+   "title": "HotpotQA: A dataset for diverse, explainable multi-hop question answering",
+   "authors": "Z Yang, P Qi, S Zhang, Y Bengio, WW Cohen, R Salakhutdinov, ...",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP) [arXiv preprint …",
+   "year": "2018"
+  },
+  {
+   "title": "Electra: Pre-training text encoders as discriminators rather than generators",
+   "authors": "K Clark, MT Luong, QV Le, CD Manning",
+   "venue": "International Conference on Learning Representations (ICLR) [arXiv preprint …",
+   "year": "2020"
+  },
+  {
+   "title": "A large annotated corpus for learning natural language inference",
+   "authors": "SR Bowman, G Angeli, C Potts, CD Manning",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP 2015). arXiv …",
+   "year": "2015"
+  },
+  {
+   "title": "Feature-rich part-of-speech tagging with a cyclic dependency network",
+   "authors": "K Toutanova, D Klein, CD Manning, Y Singer",
+   "venue": "Proceedings of the 2003 human language technology conference of the north …",
+   "year": "2003"
+  },
+  {
+   "title": "Improved semantic representations from tree-structured long short-term memory networks",
+   "authors": "KS Tai, R Socher, CD Manning",
+   "venue": "ACL 2015 [arXiv:1503.00075] Proceedings of the 53rd Annual Meeting of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Get to the point: Summarization with pointer-generator networks",
+   "authors": "A See, PJ Liu, CD Manning",
+   "venue": "ACL 2017 (arXiv preprint arXiv:1704.04368)",
+   "year": "2017"
+  },
+  {
+   "title": "Incorporating non-local information into information extraction systems by Gibbs sampling",
+   "authors": "JR Finkel, T Grenager, C Manning",
+   "venue": "Proceedings of the 43rd annual meeting on association for computational …",
+   "year": "2005"
+  },
+  {
+   "title": "GQA: A new dataset for real-world visual reasoning and compositional question answering",
+   "authors": "DA Hudson, CD Manning",
+   "venue": "Proceedings of the IEEE Conference on Computer Vision and Pattern …",
+   "year": "2019"
+  },
+  {
+   "title": "Accurate unlexicalized parsing",
+   "authors": "D Klein, CD Manning",
+   "venue": "Proceedings of the 41st Annual Meeting of the Association for Computational …",
+   "year": "2003"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Transactions on Machine Learning Research [arXiv preprint arXiv:2211.09110] 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Stanza: A python natural language processing toolkit for many human languages",
+   "authors": "P Qi, Y Zhang, Y Zhang, J Bolton, CD Manning",
+   "venue": "ACL System Demonstrations [arXiv preprint arXiv:2003.07082], 101–108",
+   "year": "2020"
+  },
+  {
+   "title": "Generating typed dependency parses from phrase structure parses",
+   "authors": "MC De Marneffe, B MacCartney, CD Manning",
+   "venue": "Proceedings of the 5th International Conference on Language Resources and …",
+   "year": "2006"
+  },
+  {
+   "title": "Introduction to information retrieval",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Cambridge: Cambridge University Press",
+   "year": "2008"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "Transactions on Machine Learning Research [arXiv preprint arXiv:2206.04615] 2023",
+   "year": "2022"
+  },
+  {
+   "title": "What does BERT look at? An analysis of BERT's attention",
+   "authors": "K Clark, U Khandelwal, O Levy, CD Manning",
+   "venue": "BlackboxNLP 2019 [arXiv preprint arXiv:1906.04341]",
+   "year": "2019"
+  },
+  {
+   "title": "Advances in natural language processing",
+   "authors": "J Hirschberg, CD Manning",
+   "venue": "Science 349 (6245), 261-266",
+   "year": "2015"
+  },
+  {
+   "title": "Reasoning with neural tensor networks for knowledge base completion",
+   "authors": "R Socher, D Chen, CD Manning, A Ng",
+   "venue": "Advances in neural information processing systems 26",
+   "year": "2013"
+  },
+  {
+   "title": "A fast and accurate dependency parser using neural networks",
+   "authors": "D Chen, CD Manning",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Zero-shot learning through cross-modal transfer",
+   "authors": "R Socher, M Ganjoo, CD Manning, AY Ng",
+   "venue": "Advances in Neural Information Processing Systems (NIPS 2013) [arXiv …",
+   "year": "2013"
+  },
+  {
+   "title": "Universal dependencies v1: A multilingual treebank collection",
+   "authors": "J Nivre, MC De Marneffe, F Ginter, Y Goldberg, J Hajic, CD Manning, ...",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Parsing natural scenes and natural language with recursive neural networks",
+   "authors": "R Socher, CCY Lin, AY Ng, CD Manning",
+   "venue": "International Conference in Machine Learning, 129-136",
+   "year": "2011"
+  },
+  {
+   "title": "A structural probe for finding syntax in word representations",
+   "authors": "J Hewitt, CD Manning",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora",
+   "authors": "D Ramage, D Hall, R Nallapati, CD Manning",
+   "venue": "Proceedings of the 2009 conference on empirical methods in natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Baselines and bigrams: Simple, good sentiment and topic classification",
+   "authors": "SI Wang, CD Manning",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Semantic compositionality through recursive matrix-vector spaces",
+   "authors": "R Socher, B Huval, CD Manning, AY Ng",
+   "venue": "Proceedings of the 2012 joint conference on empirical methods in natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions",
+   "authors": "R Socher, J Pennington, EH Huang, AY Ng, CD Manning",
+   "venue": "Proceedings of the 2011 Conference on Empirical Methods in Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Coqa: A conversational question answering challenge",
+   "authors": "S Reddy, D Chen, CD Manning",
+   "venue": "Transactions of the Association for Computational Linguistics 7, 249-266",
+   "year": "2019"
+  },
+  {
+   "title": "Deep biaffine attention for neural dependency parsing",
+   "authors": "T Dozat, CD Manning",
+   "venue": "International Conference on Learning Representations (ICLR 2017 …",
+   "year": "2017"
+  },
+  {
+   "title": "Improving word representations via global context and multiple word prototypes",
+   "authors": "EH Huang, R Socher, CD Manning, AY Ng",
+   "venue": "Proceedings of the 50th annual meeting of the association for computational …",
+   "year": "2012"
+  },
+  {
+   "title": "DetectGPT: Zero-shot machine-generated text detection using probability curvature",
+   "authors": "E Mitchell, Y Lee, A Khazatsky, CD Manning, C Finn",
+   "venue": "Proceedings of the 40th International Conference on Machine Learning (ICML …",
+   "year": "2023"
+  },
+  {
+   "title": "Enriching the knowledge sources used in a maximum entropy part-of-speech tagger",
+   "authors": "K Toutanova, CD Manning",
+   "venue": "2000 Joint SIGDAT conference on Empirical methods in natural language …",
+   "year": "2000"
+  },
+  {
+   "title": "Contrastive learning of medical visual representations from paired images and text",
+   "authors": "Y Zhang, H Jiang, Y Miura, CD Manning, CP Langlotz",
+   "venue": "arXiv preprint arXiv:2010.00747 [Machine Learning for Healthcare MLHC 2022]",
+   "year": "2020"
+  },
+  {
+   "title": "Universal dependencies",
+   "authors": "MC De Marneffe, CD Manning, J Nivre, D Zeman",
+   "venue": "Computational linguistics 47 (2), 255-308",
+   "year": "2021"
+  },
+  {
+   "title": "Position-aware attention and supervised data improve slot filling",
+   "authors": "Y Zhang, V Zhong, D Chen, G Angeli, CD Manning",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "Parsing with compositional vector grammars",
+   "authors": "R Socher, J Bauer, CD Manning, AY Ng",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "The Stanford typed dependencies representation",
+   "authors": "MC de Marneffe, CD Manning",
+   "venue": "Coling 2008: proceedings of the workshop on cross-framework and cross-domain …",
+   "year": "2008"
+  },
+  {
+   "title": "Dynamic pooling and unfolding recursive autoencoders for paraphrase detection",
+   "authors": "R Socher, E Huang, J Pennington, CD Manning, A Ng",
+   "venue": "Advances in neural information processing systems 24",
+   "year": "2011"
+  },
+  {
+   "title": "Stanford typed dependencies manual",
+   "authors": "MC de Marneffe, CD Manning",
+   "venue": "http://nlp.stanford.edu/software/dependencies_manual.pdf, 338-345",
+   "year": "2008"
+  },
+  {
+   "title": "Better word representations with recursive neural networks for morphology",
+   "authors": "MT Luong, R Socher, CD Manning",
+   "venue": "Proceedings of the seventeenth conference on computational natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Fast Exact Inference with a Factored Model for Natural Language Parsing",
+   "authors": "D Klein, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 15: Proceedings of the …",
+   "year": "2003"
+  },
+  {
+   "title": "Just ask for calibration: Strategies for eliciting calibrated confidence scores from language models fine-tuned with human feedback",
+   "authors": "K Tian, E Mitchell, A Zhou, A Sharma, R Rafailov, H Yao, C Finn, ...",
+   "venue": "EMNLP 2023 [arXiv preprint arXiv:2305.14975], 5433–5442",
+   "year": "2023"
+  },
+  {
+   "title": "Leveraging Linguistic Structure For Open Domain Information Extraction",
+   "authors": "G Angeli, MJ Premkumar, CD Manning",
+   "venue": "ACL 2015, 344–354",
+   "year": "2015"
+  },
+  {
+   "title": "Graph convolution over pruned dependency trees improves relation extraction",
+   "authors": "Y Zhang, P Qi, CD Manning",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Grounded Compositional Semantics for Finding and Describing Images with Sentences",
+   "authors": "R Socher, A Karpathy, QV Le, CD Manning, AY Ng",
+   "venue": "Transactions of the Association for Computational Linguistics 2, 207−218",
+   "year": "2014"
+  },
+  {
+   "title": "Fast model editing at scale",
+   "authors": "E Mitchell, C Lin, A Bosselut, C Finn, CD Manning",
+   "venue": "ICLR 2022 [arXiv preprint arXiv:2110.11309]",
+   "year": "2021"
+  },
+  {
+   "title": "Multi-instance multi-label learning for relation extraction",
+   "authors": "M Surdeanu, J Tibshirani, R Nallapati, CD Manning",
+   "venue": "2012 joint conference on empirical methods in natural language processing …",
+   "year": "2012"
+  },
+  {
+   "title": "Raptor: Recursive abstractive processing for tree-organized retrieval",
+   "authors": "P Sarthi, S Abdullah, A Tuli, S Khanna, A Goldie, CD Manning",
+   "venue": "ICLR 2024 [arXiv preprint arXiv:2401.18059]",
+   "year": "2024"
+  },
+  {
+   "title": "Universal dependencies v2: An evergrowing multilingual treebank collection",
+   "authors": "J Nivre, MC de Marneffe, F Ginter, J Hajič, CD Manning, S Pyysalo, ...",
+   "venue": "LREC 2020 [arXiv preprint arXiv:2004.10643], 4034--4043",
+   "year": "2020"
+  },
+  {
+   "title": "Convolutional-recursive deep learning for 3d object classification",
+   "authors": "R Socher, B Huval, B Bath, CD Manning, A Ng",
+   "venue": "Advances in neural information processing systems 25",
+   "year": "2012"
+  },
+  {
+   "title": "Termite: Visualization techniques for assessing textual topic models",
+   "authors": "J Chuang, CD Manning, J Heer",
+   "venue": "Proceedings of the international working conference on advanced visual …",
+   "year": "2012"
+  },
+  {
+   "title": "Universal Stanford dependencies: A cross-linguistic typology",
+   "authors": "MC De Marneffe, T Dozat, N Silveira, K Haverinen, F Ginter, J Nivre, ...",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "CoNLL 2017 shared task: multilingual parsing from raw text to universal dependencies",
+   "authors": "D Zeman, M Popel, M Straka, J Hajic, J Nivre, F Ginter, J Luotolahti, ...",
+   "venue": "Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw …",
+   "year": "2017"
+  },
+  {
+   "title": "Bilingual word embeddings for phrase-based machine translation",
+   "authors": "WY Zou, R Socher, DM Cer, CD Manning",
+   "venue": "Proceedings of EMNLP 2013, 1393–1398",
+   "year": "2013"
+  },
+  {
+   "title": "From instance-level constraints to space-level constraints: Making the most of prior knowledge in data clustering",
+   "authors": "D Klein, SD Kamvar, CD Manning",
+   "venue": "Proceedings of the 19th International Conference on Machine Learning, 307-314",
+   "year": "2002"
+  },
+  {
+   "title": "Compositional attention networks for machine reasoning",
+   "authors": "DA Hudson, CD Manning",
+   "venue": "ICLR 2018 (arXiv preprint arXiv:1803.03067)",
+   "year": "2018"
+  },
+  {
+   "title": "Foundations of statistical language processing",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Cambridge, MA: MIT Press",
+   "year": "1999"
+  },
+  {
+   "title": "A thorough examination of the CNN/Daily Mail reading comprehension task",
+   "authors": "D Chen, J Bolton, CD Manning",
+   "venue": "ACL 2016 (arXiv preprint arXiv:1606.02858)",
+   "year": "2016"
+  },
+  {
+   "title": "Hallucination-free? Assessing the reliability of leading AI legal research tools",
+   "authors": "V Magesh, F Surani, M Dahl, M Suzgun, CD Manning, DE Ho",
+   "venue": "Journal of Empirical Legal Studies [arXiv preprint arXiv:2405.20362] 22 (2 …",
+   "year": "2025"
+  },
+  {
+   "title": "Part-of-speech tagging from 97% to 100%: Is it time for some linguistics?",
+   "authors": "CD Manning",
+   "venue": "International conference on intelligent text processing and computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Studying the history of ideas using topic models",
+   "authors": "D Hall, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Memory-Based Model Editing at Scale",
+   "authors": "E Mitchell, C Lin, A Bosselut, CD Manning, C Finn",
+   "venue": "International Conference on Machine Learning [arXiv preprint arXiv:2206 …",
+   "year": "2022"
+  },
+  {
+   "title": "Extrapolation methods for accelerating PageRank computations",
+   "authors": "SD Kamvar, TH Haveliwala, CD Manning, GH Golub",
+   "venue": "Proceedings of the 12th international conference on World Wide Web, 261-270",
+   "year": "2003"
+  },
+  {
+   "title": "Corpus-based induction of syntactic structure: Models of dependency and constituency",
+   "authors": "D Klein, CD Manning",
+   "venue": "Proceedings of the 42nd annual meeting of the association for computational …",
+   "year": "2004"
+  },
+  {
+   "title": "Fast dropout training",
+   "authors": "S Wang, C Manning",
+   "venue": "international conference on machine learning, 118-126",
+   "year": "2013"
+  },
+  {
+   "title": "Ergativity: Argument structure and grammatical relations",
+   "authors": "CD Manning",
+   "venue": "Stanford University",
+   "year": "1994"
+  },
+  {
+   "title": "A conditional random field word segmenter for Sighan Bakeoff 2005",
+   "authors": "H Tseng, PC Chang, G Andrew, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the fourth SIGHAN workshop on Chinese language Processing",
+   "year": "2005"
+  },
+  {
+   "title": "Emergent linguistic structure in artificial neural networks trained by self-supervision",
+   "authors": "CD Manning, K Clark, J Hewitt, U Khandelwal, O Levy",
+   "venue": "Proceedings of the National Academy of Sciences 117 (48), 30046-30054",
+   "year": "2020"
+  },
+  {
+   "title": "SUTime: A library for recognizing and normalizing time expressions.",
+   "authors": "AX Chang, CD Manning",
+   "venue": "LREC 12, 3735-3740",
+   "year": "2012"
+  },
+  {
+   "title": "Stanford Neural Machine Translation Systems for Spoken Language Domains",
+   "authors": "MT Luong, CD Manning",
+   "venue": "IWSLT 2015",
+   "year": "2015"
+  },
+  {
+   "title": "A multi-pass sieve for coreference resolution",
+   "authors": "K Raghunathan, H Lee, S Rangarajan, N Chambers, M Surdeanu, ...",
+   "venue": "Proceedings of the 2010 conference on empirical methods in natural language …",
+   "year": "2010"
+  },
+  {
+   "title": "Probabilistic models of language processing and acquisition",
+   "authors": "N Chater, CD Manning",
+   "venue": "Trends in cognitive sciences 10 (7), 335-344",
+   "year": "2006"
+  },
+  {
+   "title": "Deep reinforcement learning for mention-ranking coreference models",
+   "authors": "K Clark, CD Manning",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP 2016) [arXiv:1609 …",
+   "year": "2016"
+  },
+  {
+   "title": "Key-Value Retrieval Networks for Task-Oriented Dialogue",
+   "authors": "M Eric, L Krishnan, F Charette, CD Manning",
+   "venue": "Proceedings of the 18th Annual SIGdial Meeting on Discourse and Dialogue …",
+   "year": "2017"
+  },
+  {
+   "title": "Achieving open vocabulary neural machine translation with hybrid word-character models",
+   "authors": "MT Luong, CD Manning",
+   "venue": "Proceedings of the Association for Computational Linguistics 2016 [arXiv …",
+   "year": "2016"
+  },
+  {
+   "title": "Exploiting the block structure of the web for computing pagerank",
+   "authors": "SD Kamvar, TH Haveliwala, C Manning, GH Golub",
+   "venue": "Technical report, Stanford University",
+   "year": "2003"
+  },
+  {
+   "title": "Semi-supervised sequence modeling with cross-view training",
+   "authors": "K Clark, MT Luong, CD Manning, Q Le",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Spectral learning",
+   "authors": "SD Kamvar, D Klein, CD Manning",
+   "venue": "International Joint Conference on Artificial Intelligence, 561–566",
+   "year": "2003"
+  },
+  {
+   "title": "GreaseLM: Graph REASoning Enhanced Language Models",
+   "authors": "X Zhang, A Bosselut, M Yasunaga, H Ren, P Liang, CD Manning, ...",
+   "venue": "International Conference on Learning Representations [arXiv:2201.08860]",
+   "year": "2022"
+  },
+  {
+   "title": "Improving coreference resolution by learning entity-level distributed representations",
+   "authors": "K Clark, CD Manning",
+   "venue": "Association for Computational Linguistics (ACL 2016). [arXiv preprint arXiv …",
+   "year": "2016"
+  },
+  {
+   "title": "Text classification and Naive Bayes",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval, chapter 13, 234-265",
+   "year": "2008"
+  },
+  {
+   "title": "Generating semantically precise scene graphs from textual descriptions for improved image retrieval",
+   "authors": "S Schuster, R Krishna, A Chang, L Fei-Fei, CD Manning",
+   "venue": "Proceedings of the Fourth Workshop on Vision and Language, 70-80",
+   "year": "2015"
+  },
+  {
+   "title": "Learning continuous phrase representations and syntactic parsing with recursive neural networks",
+   "authors": "R Socher, CD Manning, AY Ng",
+   "venue": "Proceedings of the NIPS-2010 deep learning and unsupervised feature learning …",
+   "year": "2010"
+  },
+  {
+   "title": "Bilingual word representations with monolingual quality in mind",
+   "authors": "MT Luong, H Pham, CD Manning",
+   "venue": "Proceedings of the 1st workshop on vector space modeling for natural …",
+   "year": "2015"
+  },
+  {
+   "title": "Probabilistic syntax",
+   "authors": "CD Manning",
+   "venue": "Probabilistic Linguistics, 289-341",
+   "year": "2003"
+  },
+  {
+   "title": "Finding contradictions in text",
+   "authors": "MC De Marneffe, AN Rafferty, CD Manning",
+   "venue": "Proceedings of ACL-08: HLT, 1039-1047",
+   "year": "2008"
+  },
+  {
+   "title": "A fast unified model for parsing and sentence understanding",
+   "authors": "SR Bowman, J Gauthier, A Rastogi, R Gupta, CD Manning, C Potts",
+   "venue": "ACL 2016 [arXiv preprint arXiv:1603.06021], 1466–1477",
+   "year": "2016"
+  },
+  {
+   "title": "Optimizing Chinese word segmentation for machine translation performance",
+   "authors": "PC Chang, M Galley, CD Manning",
+   "venue": "Proceedings of the third workshop on statistical machine translation, 224-232",
+   "year": "2008"
+  },
+  {
+   "title": "Nested named entity recognition",
+   "authors": "JR Finkel, CD Manning",
+   "venue": "Proceedings of the 2009 conference on empirical methods in natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "A gold standard dependency corpus for English",
+   "authors": "N Silveira, T Dozat, MC De Marneffe, S Bowman, M Connor, J Bauer, ...",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "MQuAKE: Assessing knowledge editing in language models via multi-hop questions",
+   "authors": "Z Zhong, Z Wu, CD Manning, C Potts, D Chen",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP 2023) [arXiv …",
+   "year": "2023"
+  },
+  {
+   "title": "Deep Bidirectional Language-Knowledge Graph Pretraining",
+   "authors": "M Yasunaga, A Bosselut, H Ren, X Zhang, CD Manning, P Liang, ...",
+   "venue": "NeurIPS 2022 [arXiv preprint arXiv:2210.09338]",
+   "year": "2022"
+  },
+  {
+   "title": "Scoring, term weighting and the vector space model",
+   "authors": "C Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to Information Retrieval, chapter 6, 109-133",
+   "year": "2008"
+  },
+  {
+   "title": "A simple and effective hierarchical phrase reordering model",
+   "authors": "M Galley, CD Manning",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Last words: Computational linguistics and deep learning",
+   "authors": "CD Manning",
+   "venue": "Computational Linguistics 41 (4), 701-707",
+   "year": "2015"
+  },
+  {
+   "title": "Interpretation and trust: Designing model-driven visualizations for text analysis",
+   "authors": "J Chuang, D Ramage, C Manning, J Heer",
+   "venue": "Proceedings of the SIGCHI conference on human factors in computing systems …",
+   "year": "2012"
+  },
+  {
+   "title": "Universal dependency parsing from scratch",
+   "authors": "P Qi, T Dozat, Y Zhang, CD Manning",
+   "venue": "CoNLL 2018 [arXiv preprint arXiv:1901.10457]",
+   "year": "2018"
+  },
+  {
+   "title": "Enhanced English Universal Dependencies: An improved representation for natural language understanding tasks",
+   "authors": "S Schuster, CD Manning",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Methods and apparatus for using a modified index to provide search results in response to an ambiguous search query",
+   "authors": "BT Smith, S Brin, S Ghemawat, CD Manning",
+   "venue": "US Patent 6,529,903",
+   "year": "2003"
+  },
+  {
+   "title": "Automatic acquisition of a large subcategorization dictionary from corpora",
+   "authors": "CD Manning",
+   "venue": "31st Annual Meeting of the Association for Computational Linguistics, 235-242",
+   "year": "1993"
+  },
+  {
+   "title": "Learning by abstraction: The neural state machine",
+   "authors": "DA Hudson, CD Manning",
+   "venue": "Neural Information Processing Systems (NeurIPS) [arXiv preprint arXiv:1907 …",
+   "year": "2019"
+  },
+  {
+   "title": "Is it harder to parse Chinese, or the Chinese Treebank?",
+   "authors": "R Levy, CD Manning",
+   "venue": "41st Annual Meeting of the Association for Computational Linguistics, 439-446",
+   "year": "2003"
+  },
+  {
+   "title": "Soft constraints mirror hard constraints: Voice and person in English and Lummi",
+   "authors": "J Bresnan, S Dingare, CD Manning",
+   "venue": "Proceedings of the LFG01 Conference, 13-32",
+   "year": "2001"
+  },
+  {
+   "title": "The efficacy of human post-editing for language translation",
+   "authors": "S Green, J Heer, CD Manning",
+   "venue": "Proceedings of the SIGCHI conference on human factors in computing systems …",
+   "year": "2013"
+  },
+  {
+   "title": "Human language understanding & reasoning",
+   "authors": "CD Manning",
+   "venue": "Daedalus 151 (2), 127-138",
+   "year": "2022"
+  },
+  {
+   "title": "Fine-tuning language models for factuality",
+   "authors": "K Tian, E Mitchell, H Yao, CD Manning, C Finn",
+   "venue": "ICLR 2024 [arXiv preprint arXiv:2311.08401]",
+   "year": "2023"
+  },
+  {
+   "title": "Clustering the tagged web",
+   "authors": "D Ramage, P Heymann, CD Manning, H Garcia-Molina",
+   "venue": "Proceedings of the Second ACM International Conference on Web Search and …",
+   "year": "2009"
+  },
+  {
+   "title": "A generative constituent-context model for improved grammar induction",
+   "authors": "D Klein, CD Manning",
+   "venue": "Proceedings of the 40th annual meeting of the association for computational …",
+   "year": "2002"
+  },
+  {
+   "title": "Deep learning for NLP (without magic)",
+   "authors": "R Socher, CD Manning",
+   "venue": "NAACL HLT 2013 Tutorial Abstracts, 1-3",
+   "year": "2013"
+  },
+  {
+   "title": "Partially labeled topic models for interpretable text mining",
+   "authors": "D Ramage, CD Manning, S Dumais",
+   "venue": "Proceedings of the 17th ACM SIGKDD international conference on Knowledge …",
+   "year": "2011"
+  },
+  {
+   "title": "Artificial intelligence definitions",
+   "authors": "C Manning",
+   "venue": "HAI, Stanford University, 1",
+   "year": "2020"
+  },
+  {
+   "title": "ReFT: Representation finetuning for language models",
+   "authors": "Z Wu, A Arora, Z Wang, A Geiger, D Jurafsky, CD Manning, C Potts",
+   "venue": "arXiv preprint arXiv:2404.03592",
+   "year": "2024"
+  },
+  {
+   "title": "Topic modeling for the social sciences",
+   "authors": "D Ramage, E Rosen, J Chuang, CD Manning, DA McFarland",
+   "venue": "NIPS 2009 workshop on applications for topic models: text and beyond 5 (27), 1-4",
+   "year": "2009"
+  },
+  {
+   "title": "A* parsing: fast exact Viterbi parse selection",
+   "authors": "D Klein, CD Manning",
+   "venue": "Proceedings of the 2003 Conference of the North American Chapter of the …",
+   "year": "2003"
+  },
+  {
+   "title": "An extended model of natural logic",
+   "authors": "B MacCartney, CD Manning",
+   "venue": "Proceedings of the eight international conference on computational semantics …",
+   "year": "2009"
+  },
+  {
+   "title": "Modeling biological processes for reading comprehension",
+   "authors": "J Berant, V Srikumar, PC Chen, A Vander Linden, B Harding, B Huang, ...",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Stanford’s graph-based neural dependency parser at the CoNLL 2017 shared task",
+   "authors": "T Dozat, P Qi, CD Manning",
+   "venue": "Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw …",
+   "year": "2017"
+  },
+  {
+   "title": "Modeling semantic containment and exclusion in natural language inference",
+   "authors": "B MacCartney, CD Manning",
+   "venue": "Proceedings of the 22nd International Conference on Computational …",
+   "year": "2008"
+  },
+  {
+   "title": "Max-Margin Parsing",
+   "authors": "B Taskar, D Klein, M Collins, D Koller, CD Manning",
+   "venue": "EMNLP 2004, 1-8",
+   "year": "2004"
+  },
+  {
+   "title": "Natural logic for textual inference",
+   "authors": "B MacCartney, CD Manning",
+   "venue": "Proceedings of the ACL-PASCAL workshop on textual entailment and …",
+   "year": "2007"
+  },
+  {
+   "title": "Named entity recognition with character-level models",
+   "authors": "D Klein, J Smarr, H Nguyen, CD Manning",
+   "venue": "Proceedings of the seventh conference on Natural language learning at HLT …",
+   "year": "2003"
+  },
+  {
+   "title": "Mapping the increasing use of LLMs in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "COLM 2024 [arXiv preprint arXiv:2404.01268]",
+   "year": "2024"
+  },
+  {
+   "title": "Universal Dependencies 1.2",
+   "authors": "J Nivre, Ž Agić, MJ Aranzabe, M Asahara, A Atutxa, M Ballesteros, J Bauer, ...",
+   "venue": "Universal dependencies Consortium 1",
+   "year": "2015"
+  },
+  {
+   "title": "Which words are hard to recognize? Prosodic, lexical, and disfluency factors that increase speech recognition error rates",
+   "authors": "S Goldwater, D Jurafsky, CD Manning",
+   "venue": "Speech Communication 52 (3), 181-200",
+   "year": "2010"
+  },
+  {
+   "title": "Entity-centric coreference resolution with model stacking",
+   "authors": "K Clark, CD Manning",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "ContractNLI: A dataset for document-level natural language inference for contracts",
+   "authors": "Y Koreeda, CD Manning",
+   "venue": "Findings of ACL: EMNLP 2021 [arXiv preprint arXiv:2110.01799], 1907-1919",
+   "year": "2021"
+  },
+  {
+   "title": "LinGO Redwoods: A Rich and Dynamic Treebank for HPSG",
+   "authors": "S Oepen, E Callahan, D Flickinger, CD Manning, K Toutanova",
+   "venue": "Beyond PARSEVAL: Towards Improved Evaluation Measures for Parsing Systems …",
+   "year": "2002"
+  },
+  {
+   "title": "Efficient, Feature-based, Conditional Random Field Parsing.",
+   "authors": "JR Finkel, A Kleeman, CD Manning",
+   "venue": "Proceedings of the 46th Annual Meeting of the Association for Computational …",
+   "year": "2008"
+  },
+  {
+   "title": "Joint parsing and named entity recognition",
+   "authors": "JR Finkel, CD Manning",
+   "venue": "Proceedings of Human Language Technologies: The 2009 Annual Conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "A global joint model for semantic role labeling",
+   "authors": "K Toutanova, A Haghighi, CD Manning",
+   "venue": "Computational Linguistics 34 (2), 161-191",
+   "year": "2008"
+  },
+  {
+   "title": "Learning spatial knowledge for text to 3D scene generation",
+   "authors": "A Chang, M Savva, CD Manning",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "An effective two-stage model for exploiting non-local dependencies in named entity recognition",
+   "authors": "V Krishnan, CD Manning",
+   "venue": "Proceedings of the 21st international conference on computational …",
+   "year": "2006"
+  },
+  {
+   "title": "BAM! Born-Again Multi-Task Networks for Natural Language Understanding",
+   "authors": "K Clark, MT Luong, U Khandelwal, CD Manning, QV Le",
+   "venue": "ACL 2019 [arXiv preprint arXiv:1907.04829]",
+   "year": "2019"
+  },
+  {
+   "title": "Better Arabic parsing: Baselines, evaluations, and analysis",
+   "authors": "S Green, CD Manning",
+   "venue": "Proceedings of the 23rd International Conference on Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Lexical semantic relatedness with random graph walks",
+   "authors": "T Hughes, D Ramage",
+   "venue": "Proceedings of the 2007 joint conference on empirical methods in natural …",
+   "year": "2007"
+  },
+  {
+   "title": "Joint learning improves semantic role labeling",
+   "authors": "K Toutanova, A Haghighi, CD Manning",
+   "venue": "Proceedings of the 43rd Annual Meeting of the Association for Computational …",
+   "year": "2005"
+  },
+  {
+   "title": "Log-linear models for label ranking",
+   "authors": "O Dekel, Y Singer, CD Manning",
+   "venue": "Advances in neural information processing systems 16",
+   "year": "2003"
+  },
+  {
+   "title": "BioMedLM: A 2.7B parameter language model trained on biomedical text",
+   "authors": "E Bolton, A Venigalla, M Yasunaga, D Hall, B Xiong, T Lee, R Daneshjou, ...",
+   "venue": "arXiv preprint arXiv:2403.18421",
+   "year": "2024"
+  },
+  {
+   "title": "WikiWalk: random walks on Wikipedia for semantic relatedness",
+   "authors": "E Yeh, D Ramage, CD Manning, E Agirre, A Soroa",
+   "venue": "Proceedings of the 2009 workshop on graph-based methods for natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Event extraction as dependency parsing",
+   "authors": "D McClosky, M Surdeanu, CD Manning",
+   "venue": "Proceedings of the 49th annual meeting of the association for computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Hierarchical bayesian domain adaptation",
+   "authors": "JR Finkel, CD Manning",
+   "venue": "Proceedings of human language technologies: The 2009 annual conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Optimizing the factual correctness of a summary: A study of summarizing radiology reports",
+   "authors": "Y Zhang, D Merck, EB Tsai, CD Manning, CP Langlotz",
+   "venue": "ACL 2020 [arXiv preprint arXiv:1911.02541], 5108–5120",
+   "year": "2019"
+  },
+  {
+   "title": "Compression of neural machine translation models via pruning",
+   "authors": "A See, MT Luong, CD Manning",
+   "venue": "Proceedings of the 20th SIGNLL Conference on Computational Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "Robust textual inference via graph matching",
+   "authors": "A Haghighi, AY Ng, CD Manning",
+   "venue": "Proceedings of Human Language Technology Conference and Conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "AxBench: Steering LLM? Even simple baselines outperform sparse autoencoders",
+   "authors": "Z Wu, A Arora, A Geiger, Z Wang, J Huang, D Jurafsky, CD Manning, ...",
+   "venue": "arXiv preprint arXiv:2501.17148",
+   "year": "2025"
+  },
+  {
+   "title": "Recursive neural networks can learn logical semantics",
+   "authors": "S Bowman, C Potts, CD Manning",
+   "venue": "Proceedings of the 3rd workshop on continuous vector space models and their …",
+   "year": "2015"
+  },
+  {
+   "title": "Did it happen? The pragmatic complexity of veridicality assessment",
+   "authors": "MC De Marneffe, CD Manning, C Potts",
+   "venue": "Computational linguistics 38 (2), 301-333",
+   "year": "2012"
+  },
+  {
+   "title": "Simpler but more accurate semantic dependency parsing",
+   "authors": "T Dozat, CD Manning",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Learning language games through interaction",
+   "authors": "SI Wang, P Liang, CD Manning",
+   "venue": "Proceedings of the Association for Computational Linguistics [arXiv preprint …",
+   "year": "2016"
+  },
+  {
+   "title": "Exploiting context for biomedical entity recognition: From syntax to the web",
+   "authors": "JR Finkel, S Dingare, H Nguyen, M Nissim, CD Manning, G Sinclair",
+   "venue": "Proceedings of the international joint workshop on natural language …",
+   "year": "2004"
+  },
+  {
+   "title": "Parsing to Stanford Dependencies: Trade-offs between speed and accuracy",
+   "authors": "D Cer, MC de Marneffe, D Jurafsky, CD Manning",
+   "venue": "Proceedings of LREC",
+   "year": "2010"
+  },
+  {
+   "title": "Discriminative reordering with Chinese grammatical relations features",
+   "authors": "PC Chang, H Tseng, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Third Workshop on Syntax and Structure in Statistical …",
+   "year": "2009"
+  },
+  {
+   "title": "Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset",
+   "authors": "P Henderson, MS Krass, L Zheng, N Guha, CD Manning, D Jurafsky, ...",
+   "venue": "NeurIPS 2022 Datasets and Benchmarks Track [arXiv preprint arXiv:2207.00220]",
+   "year": "2022"
+  },
+  {
+   "title": "Voice and grammatical relations in Indonesian: A new perspective",
+   "authors": "IW Arka, C Manning",
+   "venue": "The Proceedings of the LFG '98 Conference",
+   "year": "1998"
+  },
+  {
+   "title": "Differentiating language usage through topic models",
+   "authors": "DA McFarland, D Ramage, J Chuang, J Heer, CD Manning, D Jurafsky",
+   "venue": "Poetics 41 (6), 607-625",
+   "year": "2013"
+  },
+  {
+   "title": "Biomedical and clinical English model packages in the Stanza Python NLP library",
+   "authors": "Y Zhang, Y Zhang, P Qi, CD Manning, CP Langlotz",
+   "venue": "Journal of the American Medical Informatics Association [arXiv preprint …",
+   "year": "2020"
+  },
+  {
+   "title": "The lexical integrity of Japanese causatives",
+   "authors": "C Manning, IA Sag, M Iida",
+   "venue": "Studies in contemporary phrase structure grammar, 39-79",
+   "year": "1999"
+  },
+  {
+   "title": "Optimization, Maxent Models, and Conditional Estimation without Magic",
+   "authors": "C Manning, D Klein",
+   "venue": "HLT-NAACL 2003 - Tutorial Abstracts, 8-8",
+   "year": "2003"
+  },
+  {
+   "title": "Probabilistic tree-edit models with structured latent variables for textual entailment and question answering",
+   "authors": "M Wang, CD Manning",
+   "venue": "Proceedings of the 23rd International Conference on Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "and Prabhakar Raghavan",
+   "authors": "H Schütze, CD Manning",
+   "venue": "Introduction to information retrieval 39",
+   "year": "2008"
+  },
+  {
+   "title": "Combining distant and partial supervision for relation extraction",
+   "authors": "G Angeli, J Tibshirani, J Wu, CD Manning",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Parsing and hypergraphs",
+   "authors": "D Klein, CD Manning",
+   "venue": "Proceedings of the Seventh International Workshop on Parsing Technologies …",
+   "year": "2001"
+  },
+  {
+   "title": "Quantifying large language model usage in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "Nature Human Behaviour 9 (12), 2599-2609",
+   "year": "2025"
+  },
+  {
+   "title": "Learning to summarize radiology findings",
+   "authors": "Y Zhang, DY Ding, T Qian, CD Manning, CP Langlotz",
+   "venue": "LOUHI 2018 [arXiv preprint arXiv:1809.04698]: Ninth International Workshop …",
+   "year": "2018"
+  },
+  {
+   "title": "The LinGO Redwoods treebank motivation and preliminary applications",
+   "authors": "S Oepen, K Toutanova, S Shieber, C Manning, D Flickinger, T Brants",
+   "venue": "COLING 2002: 17th international conference on Computational linguistics 2 …",
+   "year": "2002"
+  },
+  {
+   "title": "Do Massively Pretrained Language Models Make Better Storytellers?",
+   "authors": "A See, A Pappu, R Saxena, A Yerukola, CD Manning",
+   "venue": "CoNLL 2019 [arXiv preprint arXiv:1909.10705]",
+   "year": "2019"
+  },
+  {
+   "title": "Topic model diagnostics: Assessing domain relevance via topical alignment",
+   "authors": "J Chuang, S Gupta, C Manning, J Heer",
+   "venue": "International conference on machine learning, 612-620",
+   "year": "2013"
+  },
+  {
+   "title": "Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers",
+   "authors": "S Gupta, CD Manning",
+   "venue": "IJCNLP",
+   "year": "2011"
+  },
+  {
+   "title": "Answering Complex Open-domain Questions Through Iterative Query Generation",
+   "authors": "P Qi, X Lin, L Mehr, Z Wang, CD Manning",
+   "venue": "EMNLP 2019 [arXiv preprint arXiv:1910.07000]",
+   "year": "2019"
+  },
+  {
+   "title": "Learning to recognize features of valid textual entailments",
+   "authors": "B MacCartney, T Grenager, MC Marneffe, D Cer, CD Manning",
+   "venue": "NAACL 2006, 41-48",
+   "year": "2006"
+  },
+  {
+   "title": "Improved pattern learning for bootstrapped entity extraction",
+   "authors": "S Gupta, CD Manning",
+   "venue": "Proceedings of the eighteenth conference on computational natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "A phrase-based alignment model for natural language inference",
+   "authors": "B MacCartney, M Galley, CD Manning",
+   "venue": "Proceedings of the 2008 Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue",
+   "authors": "M Eric, CD Manning",
+   "venue": "EACL (arXiv preprint arXiv:1701.04024)",
+   "year": "2017"
+  },
+  {
+   "title": "Dissociations between argument structure and grammatical relations",
+   "authors": "C Manning, IA Sag",
+   "venue": "Lexical and Constructional Aspects of Linguistic Explanation. Stanford: CSLI …",
+   "year": "1999"
+  },
+  {
+   "title": "Solving the problem of cascading errors: Approximate Bayesian inference for linguistic annotation pipelines",
+   "authors": "JR Finkel, CD Manning, AY Ng",
+   "venue": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language …",
+   "year": "2006"
+  },
+  {
+   "title": "Text to 3d scene generation with rich lexical grounding",
+   "authors": "A Chang, W Monroe, M Savva, C Potts, CD Manning",
+   "venue": "ACL 2015 [arXiv preprint arXiv:1505.06289] 1, 53–62",
+   "year": "2015"
+  },
+  {
+   "title": "NaturalLI: Natural logic inference for common sense reasoning",
+   "authors": "G Angeli, CD Manning",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Complex predicates and information spreading in LFG",
+   "authors": "AD Andrews, CD Manning",
+   "venue": "Stanford, CA: Center for the Study of Language and Information",
+   "year": "1999"
+  },
+  {
+   "title": "Parsing three German treebanks: Lexicalized and unlexicalized baselines",
+   "authors": "AN Rafferty, CD Manning",
+   "venue": "Proceedings of the workshop on parsing German, 40-46",
+   "year": "2008"
+  },
+  {
+   "title": "Methods and apparatus for using a modified index to provide search results in response to an ambiguous search query",
+   "authors": "BT Smith, S Brin, S Ghemawat, CD Manning",
+   "venue": "US Patent 6,865,575",
+   "year": "2005"
+  },
+  {
+   "title": "Truncation Sampling as Language Model Desmoothing",
+   "authors": "J Hewitt, CD Manning, P Liang",
+   "venue": "Findings of EMNLP 2022 [arXiv preprint arXiv:2210.15191]",
+   "year": "2022"
+  },
+  {
+   "title": "Exploring the boundaries: gene and protein identification in biomedical text",
+   "authors": "J Finkel, S Dingare, CD Manning, M Nissim, B Alex, C Grover",
+   "venue": "BMC bioinformatics 6 (Suppl 1), S5",
+   "year": "2005"
+  },
+  {
+   "title": "Conditional structure versus conditional estimation in NLP models",
+   "authors": "D Klein, CD Manning",
+   "venue": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language …",
+   "year": "2002"
+  },
+  {
+   "title": "Learning alignments and leveraging natural logic",
+   "authors": "N Chambers, D Cer, T Grenager, D Hall, C Kiddon, B MacCartney, ...",
+   "venue": "Proceedings of the ACL-PASCAL workshop on textual entailment and …",
+   "year": "2007"
+  },
+  {
+   "title": "Mind your outliers! Investigating the negative impact of outliers on active learning for visual question answering",
+   "authors": "S Karamcheti, R Krishna, L Fei-Fei, CD Manning",
+   "venue": "ACL 2021 [arXiv preprint arXiv:2107.02331], 7265-7281",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring sentiment summarization",
+   "authors": "P Beineke, T Hastie, C Manning, S Vaithyanathan",
+   "venue": "Proceedings of the AAAI spring symposium on exploring attitude and affect in …",
+   "year": "2004"
+  },
+  {
+   "title": "Verbalized sampling: How to mitigate mode collapse and unlock LLM diversity",
+   "authors": "J Zhang, S Yu, D Chong, A Sicilia, MR Tomz, CD Manning, W Shi",
+   "venue": "ICML 2026 [arXiv preprint arXiv:2510.01171]",
+   "year": "2025"
+  },
+  {
+   "title": "Random walks for text semantic similarity",
+   "authors": "D Ramage, AN Rafferty, CD Manning",
+   "venue": "Proceedings of the 2009 workshop on graph-based methods for natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Named entity recognition with bilingual constraints",
+   "authors": "W Che, M Wang, CD Manning, T Liu",
+   "venue": "Proceedings of the 2013 conference of the North American chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Multiword Expression Identification with Tree Substitution Grammars: A Parsing tour de force with French",
+   "authors": "S Green, MC de Marneffe, J Bauer, CD Manning",
+   "venue": "Empirical Methods in Natural Language Processing, 725-735",
+   "year": "2011"
+  },
+  {
+   "title": "Forum77: An analysis of an online health forum dedicated to addiction recovery",
+   "authors": "D MacLean, S Gupta, A Lembke, C Manning, J Heer",
+   "venue": "Proceedings of the 18th ACM Conference on Computer Supported Cooperative …",
+   "year": "2015"
+  },
+  {
+   "title": "A generative model for semantic role labeling",
+   "authors": "CA Thompson, R Levy, CD Manning",
+   "venue": "European conference on machine learning, 397-408",
+   "year": "2003"
+  },
+  {
+   "title": "Aspect specific sentiment analysis using hierarchical deep learning",
+   "authors": "H Lakkaraju, R Socher, C Manning",
+   "venue": "NIPS Workshop on deep learning and representation learning, 1-9",
+   "year": "2014"
+  },
+  {
+   "title": "Enforcing transitivity in coreference resolution",
+   "authors": "JR Finkel, CD Manning",
+   "venue": "Proceedings of ACL-08: HLT, Short Papers, 45-48",
+   "year": "2008"
+  },
+  {
+   "title": "Finding Universal Grammatical Relations in Multilingual BERT",
+   "authors": "EA Chi, J Hewitt, CD Manning",
+   "venue": "ACL 2020 [arXiv preprint arXiv:2005.04511]",
+   "year": "2020"
+  },
+  {
+   "title": "Interpreting and extending classical agglomerative clustering algorithms using a model-based approach",
+   "authors": "SD Kamvar, D Klein, CD Manning",
+   "venue": "International Conference on Machine Learning 19, 283-290",
+   "year": "2002"
+  },
+  {
+   "title": "TokensRegex: Defining cascaded regular expressions over tokens",
+   "authors": "AX Chang, CD Manning",
+   "venue": "Technical Report CSTR 2014-02, Department of Computer Science, Stanford …",
+   "year": "2014"
+  },
+  {
+   "title": "Argument structure, valence, and binding",
+   "authors": "CD Manning, IA Sag",
+   "venue": "Nordic Journal of Linguistics 21",
+   "year": "1998"
+  },
+  {
+   "title": "Ensemble models for dependency parsing: cheap and good?",
+   "authors": "M Surdeanu, CD Manning",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Robust machine translation evaluation with entailment features",
+   "authors": "S Padó, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Robust textual inference via learning and abductive reasoning",
+   "authors": "R Raina, AY Ng, CD Manning",
+   "venue": "AAAI, 1099-1105",
+   "year": "2005"
+  },
+  {
+   "title": "Word Segmentation of Informal Arabic with Domain Adaptation",
+   "authors": "W Monroe, S Green, CD Manning",
+   "venue": "ACL 2014 (Proceedings of the 52nd Annual Meeting of the Association for …",
+   "year": "2014"
+  },
+  {
+   "title": "Computing PageRank using power extrapolation",
+   "authors": "T Haveliwala, S Kamvar, D Klein, C Manning, G Golub",
+   "venue": "Stanford University Technical Report",
+   "year": "2003"
+  },
+  {
+   "title": "“Without the clutter of unimportant words” Descriptive keyphrases for text visualization",
+   "authors": "J Chuang, CD Manning, J Heer",
+   "venue": "ACM Transactions on Computer-Human Interaction (TOCHI) 19 (3), 1-29",
+   "year": "2012"
+  },
+  {
+   "title": "Morphological features help POS tagging of unknown words across language varieties",
+   "authors": "H Tseng, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the fourth SIGHAN workshop on Chinese language processing",
+   "year": "2005"
+  },
+  {
+   "title": "Extensions to HMM-based statistical word alignment models",
+   "authors": "K Toutanova, HT Ilhan, CD Manning",
+   "venue": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language …",
+   "year": "2002"
+  },
+  {
+   "title": "Cross-lingual projected expectation regularization for weakly supervised learning",
+   "authors": "M Wang, CD Manning",
+   "venue": "Transactions of the Association for Computational Linguistics 2, 55-66",
+   "year": "2014"
+  },
+  {
+   "title": "Stochastic HPSG parse disambiguation using the Redwoods corpus",
+   "authors": "K Toutanova, CD Manning, D Flickinger, S Oepen",
+   "venue": "Research on Language and Computation 3 (1), 83-105",
+   "year": "2005"
+  },
+  {
+   "title": "Learning random walk models for inducing word dependency distributions",
+   "authors": "K Toutanova, CD Manning, AY Ng",
+   "venue": "Proceedings of the twenty-first international conference on Machine learning …",
+   "year": "2004"
+  },
+  {
+   "title": "Model combination for event extraction in BioNLP 2011",
+   "authors": "S Riedel, D McClosky, M Surdeanu, A McCallum, CD Manning",
+   "venue": "Proceedings of BioNLP Shared Task 2011 Workshop, 51-55",
+   "year": "2011"
+  },
+  {
+   "title": "Parsing models for identifying multiword expressions",
+   "authors": "S Green, MC de Marneffe, CD Manning",
+   "venue": "Computational Linguistics 39 (1), 195-227",
+   "year": "2013"
+  },
+  {
+   "title": "Viterbi training improves unsupervised dependency parsing",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Fourteenth Conference on Computational Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "SceneSeer: 3D scene design with natural language",
+   "authors": "AX Chang, M Eric, M Savva, CD Manning",
+   "venue": "arXiv preprint arXiv:1703.00050",
+   "year": "2017"
+  },
+  {
+   "title": "Lexical acquisition",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, Chapter 8, 265-314",
+   "year": "1999"
+  },
+  {
+   "title": "RNNs can generate bounded hierarchical languages with optimal memory",
+   "authors": "J Hewitt, M Hahn, S Ganguli, P Liang, CD Manning",
+   "venue": "EMNLP 2020 [arXiv preprint arXiv:2010.07515]",
+   "year": "2020"
+  },
+  {
+   "title": "Pre-Training Transformers as Energy-Based Cloze Models",
+   "authors": "K Clark, MT Luong, QV Le, CD Manning",
+   "venue": "EMNLP 2020 [arXiv preprint arXiv:2012.08561]",
+   "year": "2020"
+  },
+  {
+   "title": "Conditional probing: measuring usable information beyond a baseline",
+   "authors": "J Hewitt, K Ethayarajh, P Liang, CD Manning",
+   "venue": "EMNLP 2021 [arXiv preprint arXiv:2109.09234]",
+   "year": "2021"
+  },
+  {
+   "title": "Natural language grammar induction using a constituent-context model",
+   "authors": "D Klein, CD Manning",
+   "venue": "Advances in neural information processing systems 14",
+   "year": "2001"
+  },
+  {
+   "title": "Human effort and machine learnability in computer aided translation",
+   "authors": "S Green, SI Wang, J Chuang, J Heer, S Schuster, CD Manning",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "A system for identifying named entities in biomedical text: how results from two evaluations reflect on both the system and the evaluations",
+   "authors": "S Dingare, M Nissim, J Finkel, C Manning, C Grover",
+   "venue": "Comparative and functional genomics 6 (1‐2), 77-85",
+   "year": "2005"
+  },
+  {
+   "title": "The infinite tree",
+   "authors": "JR Finkel, T Grenager, CD Manning",
+   "venue": "Proceedings of the Annual Meeting of the Association for Computational …",
+   "year": "2007"
+  },
+  {
+   "title": "Grokking of hierarchical structure in vanilla transformers",
+   "authors": "S Murty, P Sharma, J Andreas, CD Manning",
+   "venue": "Association for Computational Linguistics 2023, short papers [arXiv preprint …",
+   "year": "2023"
+  },
+  {
+   "title": "Natural language grammar induction with a generative constituent-context model",
+   "authors": "D Klein, CD Manning",
+   "venue": "Pattern recognition 38 (9), 1407-1419",
+   "year": "2005"
+  },
+  {
+   "title": "Combining heterogeneous classifiers for word sense disambiguation",
+   "authors": "D Klein, K Toutanova, HT Ilhan, SD Kamvar, CD Manning",
+   "venue": "Proceedings of the ACL-02 workshop on Word sense disambiguation: recent …",
+   "year": "2002"
+  },
+  {
+   "title": "Tree-structured composition in neural networks without tree-structured architectures",
+   "authors": "SR Bowman, CD Manning, C Potts",
+   "venue": "arXiv preprint arXiv:1506.04834",
+   "year": "2015"
+  },
+  {
+   "title": "Learning new facts from knowledge bases with neural tensor networks and semantic word vectors",
+   "authors": "D Chen, R Socher, CD Manning, AY Ng",
+   "venue": "ICLR 2013 workshop track [arXiv preprint arXiv:1301.3618]",
+   "year": "2013"
+  },
+  {
+   "title": "Unsupervised learning of field segmentation models for information extraction",
+   "authors": "T Grenager, D Klein, CD Manning",
+   "venue": "Proceedings of the 43rd Annual Meeting of the Association for Computational …",
+   "year": "2005"
+  },
+  {
+   "title": "Self-destructing models: Increasing the costs of harmful dual uses of foundation models",
+   "authors": "P Henderson, E Mitchell, C Manning, D Jurafsky, C Finn",
+   "venue": "Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society …",
+   "year": "2023"
+  },
+  {
+   "title": "An emulator for fine-tuning large language models using small language models",
+   "authors": "E Mitchell, R Rafailov, A Sharma, C Finn, CD Manning",
+   "venue": "ICLR 2024 [arXiv preprint arXiv:2310.12962]",
+   "year": "2023"
+  },
+  {
+   "title": "Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference",
+   "authors": "E Mitchell, JJ Noh, S Li, WS Armstrong, A Agarwal, P Liu, C Finn, ...",
+   "venue": "EMNLP 2022 [arXiv preprint arXiv:2211.11875]",
+   "year": "2022"
+  },
+  {
+   "title": "A simple distant supervision approach for the TAC-KBP slot filling task",
+   "authors": "M Surdeanu, D McClosky, J Tibshirani, J Bauer, AX Chang, VI Spitkovsky, ...",
+   "venue": "Proceedings of the Third Text Analysis Conference (TAC 2010)",
+   "year": "2010"
+  },
+  {
+   "title": "Foundations of statistical natural language processing. Cambridge, MA: MIT Press",
+   "authors": "CD Manning, H Schütze",
+   "venue": "",
+   "year": "1999"
+  },
+  {
+   "title": "Predictive translation memory: A mixed-initiative system for human language translation",
+   "authors": "S Green, J Chuang, J Heer, CD Manning",
+   "venue": "Proceedings of the 27th annual ACM symposium on User interface software and …",
+   "year": "2014"
+  },
+  {
+   "title": "Naturalizing a programming language via interactive learning",
+   "authors": "SI Wang, S Ginn, P Liang, CD Manning",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "“Was it good? It was provocative.” Learning the meaning of scalar adjectives",
+   "authors": "MC De Marneffe, CD Manning, C Potts",
+   "venue": "Proceedings of the 48th annual meeting of the association for computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Deep dependencies from context-free statistical parsers: correcting the surface dependency approximation",
+   "authors": "R Levy, CD Manning",
+   "venue": "Proceedings of the 42nd Annual Meeting of the Association for Computational …",
+   "year": "2004"
+  },
+  {
+   "title": "Answering Open-Domain Questions of Varying Reasoning Steps from Text",
+   "authors": "P Qi, H Lee, OTG Sido, CD Manning",
+   "venue": "EMNLP 2021, 3599–3614",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluating word embeddings using a representative suite of practical tasks",
+   "authors": "NN Kennard, G Angeli, CD Manning",
+   "venue": "Proceedings of the 1st workshop on evaluating vector-space representations …",
+   "year": "2016"
+  },
+  {
+   "title": "Effect of non-linear deep architecture in sequence labeling",
+   "authors": "M Wang, CD Manning",
+   "venue": "Proceedings of the Sixth International Joint Conference on Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Probabilistic parsing using left corner language models",
+   "authors": "CD Manning, B Carpenter",
+   "venue": "Proceedings of the Fifth International Workshop on Parsing Technologies, 147-158",
+   "year": "1997"
+  },
+  {
+   "title": "Unsupervised discovery of a statistical verb lexicon",
+   "authors": "T Grenager, CD Manning",
+   "venue": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language …",
+   "year": "2006"
+  },
+  {
+   "title": "Synthetic Disinformation Attacks on Automated Fact Verification Systems",
+   "authors": "Y Du, A Bosselut, CD Manning",
+   "venue": "AAAI 2022 [arXiv preprint arXiv:2202.09381]",
+   "year": "2022"
+  },
+  {
+   "title": "A theory of non-constituent coordination based on finite-state rules",
+   "authors": "JT Maxwell, CD Manning",
+   "venue": "Proceedings of LFG 96",
+   "year": "1996"
+  },
+  {
+   "title": "Parsing time: Learning to interpret time expressions",
+   "authors": "G Angeli, CD Manning, D Jurafsky",
+   "venue": "Proceedings of the 2012 Conference of the North American Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "Introduction to Information Retrieval",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Cambridge, England: Cambridge University Press",
+   "year": "2008"
+  },
+  {
+   "title": "Phrasal: a toolkit for statistical machine translation with facilities for extraction and incorporation of arbitrary model features",
+   "authors": "D Cer, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the NAACL HLT 2010 Demonstration Session, 9-12",
+   "year": "2010"
+  },
+  {
+   "title": "A reasoning-focused legal retrieval benchmark",
+   "authors": "L Zheng, N Guha, J Arifov, S Zhang, M Skreta, CD Manning, P Henderson, ...",
+   "venue": "Proceedings of the 2025 Symposium on Computer Science and Law, 169-193",
+   "year": "2025"
+  },
+  {
+   "title": "Syn-QG: Syntactic and shallow semantic rules for question generation",
+   "authors": "K Dhole, CD Manning",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "The best lexical metric for phrase-based statistical MT system optimization",
+   "authors": "D Cer, CD Manning, D Jurafsky",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Accurate non-hierarchical phrase-based translation",
+   "authors": "M Galley, CD Manning",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Measuring machine translation quality as semantic equivalence: A metric based on entailment features",
+   "authors": "S Padó, D Cer, M Galley, D Jurafsky, CD Manning",
+   "venue": "Machine Translation 23 (2), 181-193",
+   "year": "2009"
+  },
+  {
+   "title": "Parse disambiguation for a rich HPSG grammar",
+   "authors": "K Toutanova, C Manning, S Shieber, D Flickinger, S Oepen",
+   "venue": "First Workshop on Treebanks and Linguistic Theories (TLT2002), 253-263",
+   "year": "2002"
+  },
+  {
+   "title": "Characterizing intrinsic compositionality in transformers with tree projections",
+   "authors": "S Murty, P Sharma, J Andreas, CD Manning",
+   "venue": "ICLR 2023 [arXiv preprint arXiv:2211.01288]",
+   "year": "2022"
+  },
+  {
+   "title": "Hierarchical clustering",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to Information Retrieval, chapter 17, 377-401",
+   "year": "2008"
+  },
+  {
+   "title": "The EOS Decision and Length Extrapolation",
+   "authors": "B Newman, J Hewitt, P Liang, CD Manning",
+   "venue": "BlackboxNLP 2020 [arXiv preprint arXiv:2010.07174]",
+   "year": "2020"
+  },
+  {
+   "title": "Hierarchical joint learning: Improving joint parsing and named entity recognition with non-jointly labeled data",
+   "authors": "JR Finkel, CD Manning",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Learning to distinguish valid textual entailments",
+   "authors": "MC De Marneffe, B MacCartney, T Grenager, D Cer, A Rafferty, ...",
+   "venue": "Proceedings of the Second PASCAL Challenges Workshop",
+   "year": "2006"
+  },
+  {
+   "title": "Parsing with treebank grammars: Empirical bounds, theoretical models, and the structure of the Penn treebank",
+   "authors": "D Klein, CD Manning",
+   "venue": "Proceedings of the 39th Annual Meeting on Association for Computational …",
+   "year": "2001"
+  },
+  {
+   "title": "Induced lexico-syntactic patterns improve information extraction from online medical forums",
+   "authors": "S Gupta, DL MacLean, J Heer, CD Manning",
+   "venue": "Journal of the American Medical Informatics Association 21 (5), 902-909",
+   "year": "2014"
+  },
+  {
+   "title": "Using feature conjunctions across examples for learning pairwise classifiers",
+   "authors": "S Oyama, CD Manning",
+   "venue": "European Conference on Machine Learning, 322-333",
+   "year": "2004"
+  },
+  {
+   "title": "Global belief recursive neural networks",
+   "authors": "R Paulus, R Socher, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "MoEUT: Mixture-of-experts universal transformers",
+   "authors": "R Csordás, K Irie, J Schmidhuber, C Potts, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 37, 28589-28614",
+   "year": "2025"
+  },
+  {
+   "title": "Learning distributed representations for multilingual text sequences",
+   "authors": "H Pham, MT Luong, CD Manning",
+   "venue": "Proceedings of the 1st Workshop on Vector Space Modeling for Natural …",
+   "year": "2015"
+  },
+  {
+   "title": "Joint word alignment and bilingual named entity recognition using dual decomposition",
+   "authors": "M Wang, W Che, CD Manning",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Synthetic Data Generation and Multi-Step Reinforcement Learning for Reasoning and Tool Use",
+   "authors": "A Goldie, A Mirhoseini, H Zhou, I Cai, CD Manning",
+   "venue": "Second Conference on Language Modeling [arXiv preprint arXiv:2504.04736]",
+   "year": "2025"
+  },
+  {
+   "title": "Natural language processing",
+   "authors": "D Jurafsky, C Manning",
+   "venue": "Coursera course, https://www.youtube.com/playlist?list …",
+   "year": "2012"
+  },
+  {
+   "title": "Legal docket classification: where machine learning stumbles",
+   "authors": "R Nallapati, CD Manning",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Collocations",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, Chapter 5, 151-189",
+   "year": "1999"
+  },
+  {
+   "title": "Analyzing the Verbal Noun",
+   "authors": "C Manning",
+   "venue": "Japanese/Korean Linguistics: Volume 3 3, 236",
+   "year": "1993"
+  },
+  {
+   "title": "pyvene: A library for understanding and improving PyTorch models via interventions",
+   "authors": "Z Wu, A Geiger, A Arora, J Huang, Z Wang, N Goodman, CD Manning, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Deep neural language models for machine translation",
+   "authors": "MT Luong, M Kayser, CD Manning",
+   "venue": "Proceedings of the Nineteenth Conference on Computational Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Phrasal: A toolkit for new directions in statistical machine translation",
+   "authors": "S Green, D Cer, CD Manning",
+   "venue": "WMT",
+   "year": "2014"
+  },
+  {
+   "title": "Distributional phrase structure induction",
+   "authors": "D Klein, CD Manning",
+   "venue": "Proceedings of the ACL 2001 Workshop on Computational Natural Language …",
+   "year": "2001"
+  },
+  {
+   "title": "Robust subgraph generation improves abstract meaning representation parsing",
+   "authors": "K Werling, G Angeli, CD Manning",
+   "venue": "Association for Computational Linguistics (ACL 2015)",
+   "year": "2015"
+  },
+  {
+   "title": "Effective bilingual constraints for semi-supervised learning of named entity recognizers",
+   "authors": "M Wang, W Che, C Manning",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 27 (1), 919-925",
+   "year": "2013"
+  },
+  {
+   "title": "Quadratic-time dependency parsing for machine translation",
+   "authors": "M Galley, CD Manning",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Regularization and search for minimum error rate training",
+   "authors": "D Cer, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Third Workshop on Statistical Machine Translation, 26-34",
+   "year": "2008"
+  },
+  {
+   "title": "Towards ecologically valid research on language user interfaces",
+   "authors": "H De Vries, D Bahdanau, C Manning",
+   "venue": "arXiv preprint arXiv:2007.14435",
+   "year": "2020"
+  },
+  {
+   "title": "Event extraction as dependency parsing for BioNLP 2011",
+   "authors": "D McClosky, M Surdeanu, CD Manning",
+   "venue": "Proceedings of BioNLP Shared Task 2011 Workshop, 41-45",
+   "year": "2011"
+  },
+  {
+   "title": "Fast and adaptive online training of feature-rich translation models",
+   "authors": "S Green, SI Wang, D Cer, CD Manning",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Hindsight: Posterior-guided training of retrievers for improved open-ended generation",
+   "authors": "A Paranjape, O Khattab, C Potts, M Zaharia, CD Manning",
+   "venue": "ICLR 2022 [arXiv preprint arXiv:2110.07752]",
+   "year": "2021"
+  },
+  {
+   "title": "Stanford’s Distantly Supervised Slot Filling Systems for KBP 2014",
+   "authors": "G Angeli, S Gupta, MJ Premkumar, CD Manning, C Ré, J Tibshirani, ...",
+   "venue": "Text Analysis Conference Proceedings",
+   "year": "2014"
+  },
+  {
+   "title": "Local textual inference: it’s hard to circumscribe, but you know it when you see it–and NLP needs it",
+   "authors": "CD Manning",
+   "venue": "Ms., Stanford University",
+   "year": "2006"
+  },
+  {
+   "title": "Solving logic puzzles: From robust processing to precise semantics",
+   "authors": "I Lev, B MacCartney, CD Manning, R Levy",
+   "venue": "Proceedings of the 2nd Workshop on Text Meaning and Interpretation, 9-16",
+   "year": "2004"
+  },
+  {
+   "title": "AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark",
+   "authors": "W Chai, E Song, Y Du, C Meng, V Madhavan, O Bar-Tal, JN Hwang, S Xie, ...",
+   "venue": "ICLR 2025 [arXiv preprint arXiv:2410.03051]",
+   "year": "2024"
+  },
+  {
+   "title": "Nnetnav: Unsupervised learning of browser agents through environment interaction in the wild",
+   "authors": "S Murty, H Zhu, D Bahdanau, CD Manning",
+   "venue": "arXiv preprint arXiv:2410.02907",
+   "year": "2024"
+  },
+  {
+   "title": "Spectral Chinese Restaurant Processes: Nonparametric Clustering Based on Similarities",
+   "authors": "R Socher, A Maas, CD Manning",
+   "venue": "Fourteenth International Conference on Artificial Intelligence and …",
+   "year": "2011"
+  },
+  {
+   "title": "Evaluation in information retrieval",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval, chapter 8, 188-210",
+   "year": "2008"
+  },
+  {
+   "title": "Meta-learning online adaptation of language models",
+   "authors": "N Hu, E Mitchell, CD Manning, C Finn",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Semantic parsing for text to 3d scene generation",
+   "authors": "A Chang, M Savva, CD Manning",
+   "venue": "Proceedings of the ACL 2014 workshop on semantic parsing, 17-21",
+   "year": "2014"
+  },
+  {
+   "title": "SLM: Learning a discourse language representation with sentence unshuffling",
+   "authors": "H Lee, DA Hudson, K Lee, CD Manning",
+   "venue": "EMNLP 2020 [arXiv preprint arXiv:2010.16249]",
+   "year": "2020"
+  },
+  {
+   "title": "Neural generation meets real people: Towards emotionally engaging mixed-initiative conversations",
+   "authors": "A Paranjape, A See, K Kenealy, H Li, A Hardy, P Qi, KR Sadagopan, ...",
+   "venue": "arXiv preprint arXiv:2008.12348",
+   "year": "2020"
+  },
+  {
+   "title": "Manning.(2014) Glove: Global vectors for word representation",
+   "authors": "J Pennington, R Socher, D Christopher",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": null
+  },
+  {
+   "title": "h4rm3l: A language for composable jailbreak attack synthesis",
+   "authors": "MKB Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, F Bianchi, ...",
+   "venue": "ICLR 2025 [arXiv preprint arXiv:2408.04811]",
+   "year": "2024"
+  },
+  {
+   "title": "More constructions, more genres: Extending Stanford dependencies",
+   "authors": "MC De Marneffe, M Connor, N Silveira, SR Bowman, T Dozat, ...",
+   "venue": "Proceedings of the second international conference on dependency linguistics …",
+   "year": "2013"
+  },
+  {
+   "title": "Do Language Models Use Their Depth Efficiently?",
+   "authors": "R Csordás, CD Manning, C Potts",
+   "venue": "NeurIPS 2025 [arXiv preprint arXiv:2505.13898]",
+   "year": "2025"
+  },
+  {
+   "title": "Fixing model bugs with natural language patches",
+   "authors": "S Murty, CD Manning, S Lundberg, MT Ribeiro",
+   "venue": "EMNLP 2022 [arXiv preprint arXiv:2211.03318]",
+   "year": "2022"
+  },
+  {
+   "title": "Robust textual inference using diverse knowledge sources",
+   "authors": "R Raina, A Haghighi, C Cox, J Finkel, J Michels, K Toutanova, ...",
+   "venue": "Proc. of the 1st PASCAL Recognising Textual Entailment Challenge Workshop …",
+   "year": "2005"
+  },
+  {
+   "title": "统计自然语言处理基础",
+   "authors": "曼宁， 许策， 苑春法",
+   "venue": "电子工业出版社",
+   "year": "2005"
+  },
+  {
+   "title": "Recurrent neural networks learn to store and generate sequences using non-linear representations",
+   "authors": "R Csordás, C Potts, CD Manning, A Geiger",
+   "venue": "BlackboxNLP 2024 [arXiv preprint arXiv:2408.10920], 248-262",
+   "year": "2024"
+  },
+  {
+   "title": "Interactive learning of spatial knowledge for text to 3D scene generation",
+   "authors": "A Chang, M Savva, CD Manning",
+   "venue": "Proceedings of the Workshop on Interactive Language Learning, Visualization …",
+   "year": "2014"
+  },
+  {
+   "title": "The leaf path projection view of parse trees: Exploring string kernels for HPSG parse selection",
+   "authors": "K Toutanova, P Markova, CD Manning",
+   "venue": "Proceedings of the 2004 conference on Empirical Methods in Natural Language …",
+   "year": "2004"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Combining Natural Logic and Shallow Reasoning for Question Answering",
+   "authors": "G Angeli, N Nayak, CD Manning",
+   "venue": "ACL",
+   "year": "2016"
+  },
+  {
+   "title": "Machine translation evaluation and optimization",
+   "authors": "B Dorr, J Olive, J McCary, C Christianson, B Dorr, M Snover, N Madnani, ...",
+   "venue": "Handbook of natural language processing and machine translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Flat clustering",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval, chapter 16, 321-345",
+   "year": "2008"
+  },
+  {
+   "title": "An exploration of sentiment summarization",
+   "authors": "P Beineke, T Hastie, C Manning, S Vaithyanathan",
+   "venue": "Proceedings of AAAI 3, 12-15",
+   "year": "2003"
+  },
+  {
+   "title": "Natural language translation at the intersection of AI and HCI",
+   "authors": "S Green, J Heer, CD Manning",
+   "venue": "Communications of the ACM 58 (9), 46-53",
+   "year": "2015"
+  },
+  {
+   "title": "Bootstrapped Self Training for Knowledge Base Population.",
+   "authors": "G Angeli, V Zhong, D Chen, AT Chaganty, J Bolton, MJJ Premkumar, ...",
+   "venue": "TAC",
+   "year": "2015"
+  },
+  {
+   "title": "Learning distributed representations for structured output prediction",
+   "authors": "V Srikumar, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "Natural logic and natural language inference",
+   "authors": "B MacCartney, CD Manning",
+   "venue": "Computing Meaning 4, 129-147",
+   "year": "2014"
+  },
+  {
+   "title": "P. raghavan and H. Schutze, An Introduction to Information Retrieval",
+   "authors": "CD Manning, SCD Manning",
+   "venue": "Cambridge university press",
+   "year": "2008"
+  },
+  {
+   "title": "Robust Graph Alignment Methods for Textual Inference and Machine Reading.",
+   "authors": "MC de Marneffe, T Grenager, B MacCartney, DM Cer, D Ramage, ...",
+   "venue": "AAAI Spring Symposium: Machine Reading, 36-42",
+   "year": "2007"
+  },
+  {
+   "title": "Robust logistic regression using shift parameters",
+   "authors": "J Tibshirani, CD Manning",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "How useful and usable are dictionaries for speakers of Australian indigenous languages?",
+   "authors": "M Corris, C Manning, S Poetsch, J Simpson",
+   "venue": "International Journal of Lexicography 17 (1), 33-68",
+   "year": "2004"
+  },
+  {
+   "title": "Bagel: Bootstrapping agents by guiding exploration with language",
+   "authors": "S Murty, C Manning, P Shaw, M Joshi, K Lee",
+   "venue": "arXiv preprint arXiv:2403.08140",
+   "year": "2024"
+  },
+  {
+   "title": "Stay hungry, stay focused: Generating informative and specific questions in information-seeking conversations",
+   "authors": "P Qi, Y Zhang, CD Manning",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020 [arXiv …",
+   "year": "2020"
+  },
+  {
+   "title": "Spied: Stanford pattern based information extraction and diagnostics",
+   "authors": "S Gupta, CD Manning",
+   "venue": "Proceedings of the Workshop on Interactive Language Learning, Visualization …",
+   "year": "2014"
+  },
+  {
+   "title": "Event Extraction Using Distant Supervision",
+   "authors": "K Reschke, M Jankowiak, M Surdeanu, CD Manning, D Jurafsky",
+   "venue": "LREC",
+   "year": "2014"
+  },
+  {
+   "title": "Stanford's distantly supervised slot-filling system",
+   "authors": "M Surdeanu, S Gupta, J Bauer, D McClosky, AX Chang, VI Spitkovsky, ...",
+   "venue": "Proceedings of the Text Analytics Conference",
+   "year": "2011"
+  },
+  {
+   "title": "Combining joint models for biomedical event extraction",
+   "authors": "D McClosky, S Riedel, M Surdeanu, A McCallum, CD Manning",
+   "venue": "BMC bioinformatics 13 (Suppl 11), S9",
+   "year": "2012"
+  },
+  {
+   "title": "Understanding and predicting user dissatisfaction in a neural generative chatbot",
+   "authors": "A See, CD Manning",
+   "venue": "Proceedings of the 22nd Annual Meeting of the Special Interest Group on …",
+   "year": "2021"
+  },
+  {
+   "title": "Philosophers are mortal: Inferring the truth of unseen facts",
+   "authors": "G Angeli, CD Manning",
+   "venue": "Proceedings of the seventeenth conference on computational natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Textual entailment features for machine translation evaluation",
+   "authors": "S Padó, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Fourth Workshop on Statistical Machine Translation, 37-41",
+   "year": "2009"
+  },
+  {
+   "title": "Kirrkirr: Software for browsing and visual exploration of a structured Warlpiri dictionary",
+   "authors": "CD Manning, K Jansz, N Indurkhya",
+   "venue": "Literary and Linguistic Computing 16 (2), 135-151",
+   "year": "2001"
+  },
+  {
+   "title": "SUTime: Evaluation in TempEval-3",
+   "authors": "A Chang, CD Manning",
+   "venue": "Second Joint Conference on Lexical and Computational Semantics (* SEM …",
+   "year": "2013"
+  },
+  {
+   "title": "Backpack Language Models",
+   "authors": "J Hewitt, J Thickstun, CD Manning, P Liang",
+   "venue": "ACL 2023 [arXiv preprint arXiv:2305.16765], 9103-9125",
+   "year": "2023"
+  },
+  {
+   "title": "Customizing an information extraction system to a new domain",
+   "authors": "M Surdeanu, D McClosky, M Smith, A Gusev, CD Manning",
+   "venue": "Proceedings of the ACL 2011 Workshop on Relational Models of Semantics, 2-10",
+   "year": "2011"
+  },
+  {
+   "title": "Improved models of distortion cost for statistical machine translation",
+   "authors": "S Green, M Galley, CD Manning",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Disambiguating “DE” for Chinese-English machine translation",
+   "authors": "PC Chang, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Fourth Workshop on Statistical Machine Translation, 215-223",
+   "year": "2009"
+  },
+  {
+   "title": "Matrix decompositions and latent semantic indexing",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval, chapter 18, 369-384",
+   "year": "2008"
+  },
+  {
+   "title": "Which words are hard to recognize? Prosodic, lexical, and disfluency factors that increase ASR error rates",
+   "authors": "S Goldwater, D Jurafsky, CD Manning",
+   "venue": "Proceedings of ACL-08: HLT, 380-388",
+   "year": "2008"
+  },
+  {
+   "title": "Feature selection for a rich HPSG grammar using decision trees",
+   "authors": "K Toutanova, CD Manning",
+   "venue": "COLING-02: The 6th Conference on Natural Language Learning 2002 (CoNLL-2002)",
+   "year": "2002"
+  },
+  {
+   "title": "Short message communications: users, topics, and in-language processing",
+   "authors": "R Munro, CD Manning",
+   "venue": "Proceedings of the 2nd ACM Symposium on Computing for Development, 1-10",
+   "year": "2012"
+  },
+  {
+   "title": "Deciding entailment and contradiction with stochastic and edit distance-based alignment",
+   "authors": "S Padó, MC de Marneffe, B MacCartney, AN Rafferty, E Yeh, CD Manning",
+   "venue": "Proceedings of the Text Analysis Conference",
+   "year": "2008"
+  },
+  {
+   "title": "Logistic regression (with R)",
+   "authors": "C Manning",
+   "venue": "Changes 4, 1-15",
+   "year": "2007"
+  },
+  {
+   "title": "Dictionaries and endangered languages",
+   "authors": "M Corris, C Manning, S Poetsch, J Simpson",
+   "venue": "Language Endangerment and Language Maintenance, 329-347",
+   "year": "2002"
+  },
+  {
+   "title": "BioMedLM: a domain-specific large language model for biomedical text",
+   "authors": "E Bolton, D Hall, M Yasunaga, T Lee, C Manning, P Liang",
+   "venue": "Stanford CRFM Blog",
+   "year": "2022"
+  },
+  {
+   "title": "You only need one model for open-domain question answering",
+   "authors": "H Lee, A Kedia, J Lee, A Paranjape, CD Manning, KG Woo",
+   "venue": "EMNLP 2022 [arXiv preprint arXiv:2112.07381]",
+   "year": "2021"
+  },
+  {
+   "title": "TopicFlow Model: Unsupervised Learning of Topic-specific Influences of Hyperlinked Documents",
+   "authors": "R Nallapati, D McFarland, C Manning",
+   "venue": "Artificial Intelligence and Statistics, 543-551",
+   "year": "2011"
+  },
+  {
+   "title": "Detecting Label Errors using Pre-Trained Language Models",
+   "authors": "D Chong, J Hong, CD Manning",
+   "venue": "EMNLP 2022 [arXiv preprint arXiv:2205.12702]",
+   "year": "2022"
+  },
+  {
+   "title": "Distributed representations of words to guide bootstrapped entity classifiers",
+   "authors": "S Gupta, CD Manning",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Understanding human language: Can NLP and deep learning help?",
+   "authors": "C Manning",
+   "venue": "Proceedings of the 39th International ACM SIGIR conference on Research and …",
+   "year": "2016"
+  },
+  {
+   "title": "Learning Distributed Word Representations for Natural Logic Reasoning.",
+   "authors": "SR Bowman, C Potts, CD Manning",
+   "venue": "AAAI Spring Symposia",
+   "year": "2015"
+  },
+  {
+   "title": "Feature noising for log-linear structured prediction",
+   "authors": "SI Wang, M Wang, S Wagner, P Liang, CD Manning",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Support vector machines and machine learning on documents",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to Information Retrieval, 319-348",
+   "year": "2008"
+  },
+  {
+   "title": "ReCOGS: How incidental details of a logical form overshadow an evaluation of semantic interpretation",
+   "authors": "Z Wu, CD Manning, C Potts",
+   "venue": "Transactions of the Association for Computational Linguistics [arXiv …",
+   "year": "2023"
+  },
+  {
+   "title": "Entity clustering across languages",
+   "authors": "S Green, N Andrews, MR Gormley, M Dredze, CD Manning",
+   "venue": "Proceedings of the 2012 Conference of the North American Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "Probabilistic information retrieval",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to Information Retrieval, 220-235",
+   "year": "2009"
+  },
+  {
+   "title": "Naïve Bayes text classification",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval, 234-265",
+   "year": "2008"
+  },
+  {
+   "title": "Vector space classification",
+   "authors": "C Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to Information Retrieval, 289-317",
+   "year": "2008"
+  },
+  {
+   "title": "DReCa: A general task augmentation strategy for few-shot natural language inference",
+   "authors": "S Murty, TB Hashimoto, CD Manning",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Bilingual Dictionaries for Australian Languages: User studies on the place of paper and electronic dictionaries",
+   "authors": "M Corris, C Manning, S Poetsch, J Simpson",
+   "venue": "Proceedings of the ninth Euralex International Congress, EURALEX, 169-181",
+   "year": "2000"
+  },
+  {
+   "title": "Information spreading and levels of representation in LFG",
+   "authors": "AD Andrews, CD Manning",
+   "venue": "Technical Report No. CSLI-93-176, Center for the Study of Language and …",
+   "year": "1993"
+  },
+  {
+   "title": "A comparison of named-entity disambiguation and word sense disambiguation",
+   "authors": "A Chang, VI Spitkovsky, CD Manning, E Agirre",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Sentences with Gapping: Parsing and Reconstructing Elided Predicates",
+   "authors": "S Schuster, J Nivre, CD Manning",
+   "venue": "NAACL 2018 [arXiv preprint arXiv:1804.06922]",
+   "year": "2018"
+  },
+  {
+   "title": "Stanford log-linear part-of-speech tagger",
+   "authors": "K Toutanova, D Klein, C Manning, W Morgan, A Rafferty, M Galley, ...",
+   "venue": "The Stanford Natural Language Processing Group, Stanford University Std.",
+   "year": "2000"
+  },
+  {
+   "title": "On-the-job learning with bayesian decision theory",
+   "authors": "K Werling, AT Chaganty, PS Liang, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Risk analysis for intellectual property litigation",
+   "authors": "M Surdeanu, R Nallapati, G Gregory, J Walker, CD Manning",
+   "venue": "Proceedings of the 13th international conference on artificial intelligence …",
+   "year": "2011"
+  },
+  {
+   "title": "Regularization, adaptation, and non-independent features improve hidden conditional random fields for phone classification",
+   "authors": "YH Sung, C Boulis, C Manning, D Jurafsky",
+   "venue": "2007 IEEE Workshop on Automatic Speech Recognition & Understanding (ASRU …",
+   "year": "2007"
+  },
+  {
+   "title": "Language model detectors are easily optimized against",
+   "authors": "C Nicks, E Mitchell, R Rafailov, A Sharma, C Manning, C Finn, S Ermon",
+   "venue": "International Conference on Learning Representations 2024, 7807-7826",
+   "year": "2024"
+  },
+  {
+   "title": "Legal claim identification: Information extraction with hierarchically labeled data",
+   "authors": "M Surdeanu, R Nallapati, C Manning",
+   "venue": "Workshop on Semantic Processing of Legal Texts at LREC 2010 5, 22",
+   "year": "2010"
+  },
+  {
+   "title": "NP subject detection in verb-initial Arabic clauses",
+   "authors": "S Green, C Sathi, CD Manning",
+   "venue": "Proceedings of the Third Workshop on Computational Approaches to Arabic …",
+   "year": "2009"
+  },
+  {
+   "title": "Factored A* Search for Models over Sequences and Trees",
+   "authors": "D Klein, CD Manning",
+   "venue": "INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE 18, 1246-1251",
+   "year": "2003"
+  },
+  {
+   "title": "Romance is so complex",
+   "authors": "C Manning",
+   "venue": "Center for the Study of Language and Information",
+   "year": "1992"
+  },
+  {
+   "title": "MrT5: Dynamic Token Merging for Efficient Byte-level Language Models",
+   "authors": "J Kallini, S Murty, CD Manning, C Potts, R Csordás",
+   "venue": "ICLR 2025 [arXiv preprint arXiv:2410.20771]",
+   "year": "2024"
+  },
+  {
+   "title": "Textual analogy parsing: What's shared and what's compared among analogous facts",
+   "authors": "M Lamm, AT Chaganty, CD Manning, D Jurafsky, P Liang",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP 2018) [arXiv …",
+   "year": "2018"
+  },
+  {
+   "title": "Importance sampling for unbiased on-demand evaluation of knowledge base population",
+   "authors": "A Chaganty, A Paranjape, P Liang, CD Manning",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Stanford-UBC Entity Linking at TAC-KBP.",
+   "authors": "AX Chang, VI Spitkovsky, E Yeh, CD Manning, E Agirre",
+   "venue": "TAC",
+   "year": "2010"
+  },
+  {
+   "title": "Stanford-UBC at TAC-KBP.",
+   "authors": "E Agirre, AX Chang, D Jurafsky, CD Manning, VI Spitkovsky, E Yeh",
+   "venue": "TAC",
+   "year": "2009"
+  },
+  {
+   "title": "Argument structure as a locus for binding theory",
+   "authors": "CD Manning",
+   "venue": "Proceedings of the 1st LFG conference. Grenoble, France",
+   "year": "1996"
+  },
+  {
+   "title": "Learning Biological Processes with Global Constraints",
+   "authors": "AT Scaria, J Berant, M Wang, CD Manning, J Lewis, B Harding, P Clark",
+   "venue": "EMNLP 2013",
+   "year": "2013"
+  },
+  {
+   "title": "The term vocabulary and postings lists",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval, 44-78",
+   "year": "2008"
+  },
+  {
+   "title": "On being the right scale: Sizing large collections of 3D models",
+   "authors": "M Savva, AX Chang, G Bernstein, CD Manning, P Hanrahan",
+   "venue": "SIGGRAPH Asia 2014 Indoor Scene Understanding Where Graphics Meets Vision, 1-11",
+   "year": "2014"
+  },
+  {
+   "title": "Instruction following without instruction tuning",
+   "authors": "J Hewitt, NF Liu, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:2409.14254",
+   "year": "2024"
+  },
+  {
+   "title": "Pushdown layers: Encoding recursive structure in transformer language models",
+   "authors": "S Murty, P Sharma, J Andreas, CD Manning",
+   "venue": "EMNLP 2023 [arXiv preprint arXiv:2310.19089]",
+   "year": "2023"
+  },
+  {
+   "title": "Stanford crfm introduces pubmedgpt 2.7 b",
+   "authors": "E Bolton, D Hall, M Yasunaga, T Lee, C Manning, P Liang",
+   "venue": "Stanford Human-Centered Artificial Intelligence",
+   "year": "2022"
+  },
+  {
+   "title": "Mistral–a journey towards reproducible language model training",
+   "authors": "S Karamcheti, L Orr, J Bolton, T Zhang, K Goel, A Narayan, R Bommasani, ...",
+   "venue": "URL: https://github. com/stanford-crfm/mistral",
+   "year": "2021"
+  },
+  {
+   "title": "Arc-swift: A novel transition system for dependency parsing",
+   "authors": "P Qi, CD Manning",
+   "venue": "ACL 2017 [arXiv preprint arXiv:1705.04434], 110–117",
+   "year": "2017"
+  },
+  {
+   "title": "A dictionary of nonsubsective adjectives",
+   "authors": "N Nayak, M Kowarsky, G Angeli, CD Manning",
+   "venue": "Technical Report CSTR 2014-04, Department of Computer Science, Stanford …",
+   "year": "2014"
+  },
+  {
+   "title": "Document Exploration with Topic Modeling: Designing Interactive Visualizations to Support Effective Analysis Workflows",
+   "authors": "J Chuang, Y Hu, A Jin, JD Wilkerson, DA McFarland, CD Manning, J Heer",
+   "venue": "Workshop on Topic Models: Computation, Application, and Evaluation at NIPS 2013",
+   "year": "2013"
+  },
+  {
+   "title": "Subword variation in text message classification",
+   "authors": "R Munro, CD Manning",
+   "venue": "Human language technologies: The 2010 annual conference of the north …",
+   "year": "2010"
+  },
+  {
+   "title": "Language models for information retrieval",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to Information Retrieval, 237-252",
+   "year": "2008"
+  },
+  {
+   "title": "Relevance feedback and query expansion",
+   "authors": "CD Manning, P Raghavan, H Schtze",
+   "venue": "Introduction to Information Retrieval. Cambridge University Press, New York",
+   "year": "2008"
+  },
+  {
+   "title": "The stanford parser: A statistical parser",
+   "authors": "D Klein, C Manning",
+   "venue": "The Stanford Natural Language Processing Group–http://nlp. stanford. edu …",
+   "year": "2002"
+  },
+  {
+   "title": "Mini but mighty: Efficient multilingual pretraining with linguistically-informed data selection",
+   "authors": "T Ògúnrẹ̀mí, D Jurafsky, CD Manning",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 1251-1266",
+   "year": "2023"
+  },
+  {
+   "title": "Two knives cut better than one: Chinese word segmentation with dual decomposition",
+   "authors": "M Wang, R Voigt, CD Manning",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Transphoner: Automated mnemonic keyword generation",
+   "authors": "M Savva, AX Chang, CD Manning, P Hanrahan",
+   "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …",
+   "year": "2014"
+  },
+  {
+   "title": "The t test (Hypothesis Testing in Collocations)",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, section 5.3.1, 163-166",
+   "year": "1999"
+  },
+  {
+   "title": "When can I Speak? Predicting initiation points for spoken dialogue agents",
+   "authors": "S Li, A Paranjape, CD Manning",
+   "venue": "SIGdial 2022 [arXiv preprint arXiv:2208.03812]",
+   "year": "2022"
+  },
+  {
+   "title": "Gapping constructions in universal dependencies v2",
+   "authors": "S Schuster, M Lamm, CD Manning",
+   "venue": "Proceedings of the NoDaLiDa 2017 workshop on Universal Dependencies (UDW …",
+   "year": "2017"
+  },
+  {
+   "title": "Does universal dependencies need a parsing representation? An investigation of English",
+   "authors": "N Silveira, C Manning",
+   "venue": "Depling 2015, 310",
+   "year": "2015"
+  },
+  {
+   "title": "Universal dependencies 1.1",
+   "authors": "Ž Agic, MJ Aranzabe, A Atutxa, C Bosco, J Choi, MC de Marneffe, T Dozat, ...",
+   "venue": "LINDAT/CLARIN digital library at Institute of Formal and Applied Linguistics …",
+   "year": "2015"
+  },
+  {
+   "title": "The SNLI corpus",
+   "authors": "SR Bowman, G Angeli, C Potts, CD Manning",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "An empirical comparison of features and tuning for phrase-based machine translation",
+   "authors": "S Green, D Cer, CD Manning",
+   "venue": "Proceedings of the Ninth Workshop on Statistical Machine Translation, 466-476",
+   "year": "2014"
+  },
+  {
+   "title": "Accurate unsupervised joint named-entity extraction from unaligned parallel text",
+   "authors": "R Munro, CD Manning",
+   "venue": "Proceedings of the 4th Named Entity Workshop (NEWS) 2012, 21-29",
+   "year": "2012"
+  },
+  {
+   "title": "An O(n³) Agenda-Based Chart Parser for Arbitrary Probabilistic Context-Free Grammars",
+   "authors": "D Klein, CD Manning",
+   "venue": "Technical Report, Stanford Computer Science",
+   "year": "2001"
+  },
+  {
+   "title": "Rethinking text segmentation models: An information extraction case study",
+   "authors": "C Manning",
+   "venue": "University of Sydney",
+   "year": "1998"
+  },
+  {
+   "title": "CS224n: natural language processing with deep learning",
+   "authors": "C Manning, R Socher, GG Fang, R Mundra",
+   "venue": "Lecture note, 200",
+   "year": "2017"
+  },
+  {
+   "title": "Stanford at TAC KBP 2016: Sealing Pipeline Leaks and Understanding Chinese.",
+   "authors": "Y Zhang, AT Chaganty, A Paranjape, D Chen, J Bolton, P Qi, CD Manning",
+   "venue": "TAC",
+   "year": "2016"
+  },
+  {
+   "title": "Simple MAP inference via low-rank relaxations",
+   "authors": "R Frostig, SI Wang, P Liang, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "Learning constraints for consistent timeline extraction",
+   "authors": "D McClosky, CD Manning",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Doing named entity recognition? Don’t optimize for F1",
+   "authors": "C Manning",
+   "venue": "NLPers Blog 25",
+   "year": "2006"
+  },
+  {
+   "title": "Finding educational resources on the web: Exploiting automatic extraction of metadata",
+   "authors": "C Thompson, J Smarr, H Nguyen, CD Manning",
+   "venue": "International Workshop & Tutorial on Adaptive Text Extraction and Mining …",
+   "year": "2003"
+  },
+  {
+   "title": "Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching",
+   "authors": "T Ogunremi, CD Manning, D Jurafsky",
+   "venue": "6th Workshop on Computational Approaches to Linguistic Code-Switching [arXiv …",
+   "year": "2023"
+  },
+  {
+   "title": "JamPatoisNLI: A Jamaican Patois Natural Language Inference Dataset",
+   "authors": "RA Armstrong, J Hewitt, C Manning",
+   "venue": "Findings of EMNLP [arXiv preprint https://arxiv.org/abs/2212.03419]",
+   "year": "2022"
+  },
+  {
+   "title": "Paris and Stanford at EPE 2017: Downstream evaluation of graph-based dependency representations",
+   "authors": "S Schuster, ÉV de La Clergerie, MD Candito, B Sagot, CD Manning, ...",
+   "venue": "EPE 2017-The First Shared Task on Extrinsic Parser Evaluation, 47-59",
+   "year": "2017"
+  },
+  {
+   "title": "信息检索导论",
+   "authors": "CD Manning, P Raghavan, H Schutze",
+   "venue": "北京: 人民邮电出版社",
+   "year": "2010"
+  },
+  {
+   "title": "Improved Representation Steering for Language Models",
+   "authors": "Z Wu, Q Yu, A Arora, CD Manning, C Potts",
+   "venue": "NeurIPS 2025 [arXiv preprint arXiv:2505.20809]",
+   "year": "2025"
+  },
+  {
+   "title": "LawInstruct: A resource for studying language model adaptation to the legal domain",
+   "authors": "J Niklaus, L Zheng, AD McCarthy, C Hahn, BM Rosen, P Henderson, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 127-152",
+   "year": "2025"
+  },
+  {
+   "title": "Stemming and lemmatization",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval",
+   "year": "2008"
+  },
+  {
+   "title": "An NLP benchmark dataset for assessing corporate climate policy engagement",
+   "authors": "G Morio, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 36, 39678-39702",
+   "year": "2023"
+  },
+  {
+   "title": "Natural language processing with deep learning",
+   "authors": "C Manning, R Socher",
+   "venue": "Lecture Notes Stanford University School of Engineering",
+   "year": "2017"
+  },
+  {
+   "title": "TinkerBell: Cross-lingual Cold-Start Knowledge Base Construction.",
+   "authors": "M Al-Badrashiny, J Bolton, AT Chaganty, K Clark, C Harman, L Huang, ...",
+   "venue": "TAC",
+   "year": "2017"
+  },
+  {
+   "title": "Stanford's 2013 KBP System",
+   "authors": "G Angeli, AT Chaganty, AX Chang, K Reschke, J Tibshirani, JY Wu, ...",
+   "venue": "Proceedings of the Sixth Text Analysis Conference (TAC 2013)",
+   "year": "2013"
+  },
+  {
+   "title": "SPEDE: Probabilistic edit distance metrics for MT evaluation",
+   "authors": "M Wang, CD Manning",
+   "venue": "Proceedings of the seventh workshop on statistical machine translation, 76-83",
+   "year": "2012"
+  },
+  {
+   "title": "Which universities lead and lag? Toward university rankings based on scholarly output",
+   "authors": "D Ramage, CD Manning, DA McFarland",
+   "venue": "NIPS Workshop on Computational Social Science and the Wisdom of the Crowds",
+   "year": "2010"
+  },
+  {
+   "title": "Multi-word expressions in textual inference: Much ado about nothing?",
+   "authors": "MC de Marneffe, S Padó, CD Manning",
+   "venue": "Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer), 1-9",
+   "year": "2009"
+  },
+  {
+   "title": "Verb sense and subcategorization: Using joint inference to improve performance on complementary task",
+   "authors": "G Andrew, T Grenager, CD Manning",
+   "venue": "Proceedings of the 2004 Conference on Empirical Methods in Natural Language …",
+   "year": "2004"
+  },
+  {
+   "title": "Kirrkirr: Interactive visualisation and multimedia from a structured Warlpiri dictionary",
+   "authors": "K Jansz, C Manning, N Indurkhya",
+   "venue": "AusWeb99 [Fifth Australian World Wide Web Conference, Ballina, April 1999]",
+   "year": "1999"
+  },
+  {
+   "title": "A New Pair of GloVes",
+   "authors": "R Carlson, J Bauer, CD Manning",
+   "venue": "arXiv preprint arXiv:2507.18103",
+   "year": "2025"
+  },
+  {
+   "title": "Human-like informative conversations: Better acknowledgements using conditional mutual information",
+   "authors": "A Paranjape, CD Manning",
+   "venue": "North American Chapter of the Association for Computational Linguistics …",
+   "year": "2021"
+  },
+  {
+   "title": "Generalized Linear Mixed Models (illustrated with R on Bresnan et al.’s datives data)",
+   "authors": "C Manning",
+   "venue": "Unpublished handout. http://nlp. stanford. edu/~ manning/courses/ling289 …",
+   "year": "2007"
+  },
+  {
+   "title": "Effective social chatbot strategies for increasing user initiative",
+   "authors": "A Hardy, A Paranjape, CD Manning",
+   "venue": "Proceedings of the 22nd annual meeting of the special interest group on …",
+   "year": "2021"
+  },
+  {
+   "title": "Veridicality and utterance understanding",
+   "authors": "MC de Marneffe, CD Manning, C Potts",
+   "venue": "2011 IEEE Fifth International Conference on Semantic Computing, 430-437",
+   "year": "2011"
+  },
+  {
+   "title": "Vvedenie v informacionnyj poisk",
+   "authors": "KD Manning, P Raghavan, H Shjutce",
+   "venue": "M.: OOO «ID Vil'jams",
+   "year": "2011"
+  },
+  {
+   "title": "Evaluation of clustering",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval, section 16.3, 327-331",
+   "year": "2008"
+  },
+  {
+   "title": "The segmentation problem in morphology learning",
+   "authors": "CD Manning",
+   "venue": "New Methods in Language Processing and Computational Natural Language Learning",
+   "year": "1998"
+  },
+  {
+   "title": "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models",
+   "authors": "A Laitenberger, CD Manning, NF Liu",
+   "venue": "EMNLP 2025 [arXiv preprint arXiv:2506.03989], 32547-32557",
+   "year": "2025"
+  },
+  {
+   "title": "Web search basics: Near-duplicates and shingling",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval, 437-442",
+   "year": "2008"
+  },
+  {
+   "title": "Classifying unknown proper noun phrases without context",
+   "authors": "J Smarr, CD Manning",
+   "venue": "Online: http://dbpubs. stanford. edu/pub/2002-46",
+   "year": "2002"
+  },
+  {
+   "title": "Word Sense Disambiguation",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, Chapter 7, 229-263",
+   "year": "1999"
+  },
+  {
+   "title": "PragmatiCQA: A dataset for pragmatic question answering in conversations",
+   "authors": "P Qi, N Du, CD Manning, J Huang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 6175-6191",
+   "year": "2023"
+  },
+  {
+   "title": "Presupposed content and entailments in natural language inference",
+   "authors": "D Clausen, CD Manning",
+   "venue": "Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer), 70-73",
+   "year": "2009"
+  },
+  {
+   "title": "Template sampling for leveraging domain knowledge in information extraction",
+   "authors": "C Cox, J Nicolson, JR Finkel, C Manning, P Langley",
+   "venue": "First PASCAL Challenges Workshop",
+   "year": "2005"
+  },
+  {
+   "title": "Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent",
+   "authors": "EA Chi, A Paranjape, A See, C Chiam, K Kenealy, SK Lim, A Hardy, ...",
+   "venue": "SIGdial 2022 [arXiv preprint arXiv:2207.12021]",
+   "year": "2022"
+  },
+  {
+   "title": "Representations for language: From word embeddings to sentence meanings",
+   "authors": "C Manning",
+   "venue": "Simons Institute for the Theory of Computing, UC Berkeley",
+   "year": "2017"
+  },
+  {
+   "title": "Introduction to information retrieval. Choice Reviews Online, 46 (05), 46–2715",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "Corractive learning: Learning from noisy data through human interaction",
+   "authors": "R Nallapati, M Surdeanu, C Manning",
+   "venue": "IJCAI workshop on intelligence and interaction",
+   "year": "2009"
+  },
+  {
+   "title": "Model editing with canonical examples",
+   "authors": "J Hewitt, S Chen, LL Xie, E Adams, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:2402.06155",
+   "year": "2024"
+  },
+  {
+   "title": "Challenges for information extraction from dialogue in criminal law",
+   "authors": "J Hong, C Voss, CD Manning",
+   "venue": "Proceedings of the 1st Workshop on NLP for Positive Impact, 71-81",
+   "year": "2021"
+  },
+  {
+   "title": "GloVe: Global vectors for word representation website",
+   "authors": "J Pennington, R Socher, C Manning",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Information extraction and named entity recognition",
+   "authors": "C Manning",
+   "venue": "California: Stanford University",
+   "year": "2012"
+  },
+  {
+   "title": "Maxent models and discriminative estimation",
+   "authors": "C Manning",
+   "venue": "CS 224N lecture notes, Spring",
+   "year": "2005"
+  },
+  {
+   "title": "What's related? Generalizing approaches to related articles in medicine",
+   "authors": "HR Strasberg, CD Manning, TC Rindfleisch, KL Melmon",
+   "venue": "Proceedings of the AMIA Symposium, 838",
+   "year": "2000"
+  },
+  {
+   "title": "Romance Complex Predicates: In defence of the right-branching structure",
+   "authors": "CD Manning",
+   "venue": "Presented at Workshop on Surface-Based Syntax and Romance Languages, 1996 …",
+   "year": "1996"
+  },
+  {
+   "title": "MSCAW-coref: Multilingual, singleton and conjunction-aware word-level coreference resolution",
+   "authors": "H Liu, J Bauer, K D’Oosterlinck, C Potts, CD Manning",
+   "venue": "Proceedings of the seventh workshop on computational models of reference …",
+   "year": "2024"
+  },
+  {
+   "title": "Statistical Uncertainty in Word Embeddings: GloVe-V",
+   "authors": "A Vallebueno, C Handan-Nader, CD Manning, DE Ho",
+   "venue": "EMNLP 2024 [arXiv preprint arXiv:2406.12165], 9032–9047",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating the factual correctness for abstractive summarization",
+   "authors": "Y Zhang",
+   "venue": "CS230 Project",
+   "year": "2019"
+  },
+  {
+   "title": "Qsrl: A semantic role-labeling schema for quantitative facts",
+   "authors": "M Lamm, A Chaganty, D Jurafsky, CD Manning, P Liang",
+   "venue": "Proceedings of the 1st Financial Narrative Processing Workshop",
+   "year": "2018"
+  },
+  {
+   "title": "Natural language processing",
+   "authors": "C Manning",
+   "venue": "Proceedings of 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Blind domain transfer for named entity recognition using generative latent topic models",
+   "authors": "R Nallapati, M Surdeanu, C Manning",
+   "venue": "Proceedings of the NIPS 2010 workshop on transfer learning via rich …",
+   "year": "2010"
+  },
+  {
+   "title": "Evaluation of unranked retrieval sets",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to Information Retrieval, section 8.3, 142-145",
+   "year": "2009"
+  },
+  {
+   "title": "Mechanisms vs. Outcomes: Probing for Syntax Fails to Explain Performance on Targeted Syntactic Evaluations",
+   "authors": "A Agarwal, J Jian, CD Manning, S Murty",
+   "venue": "EMNLP 2025 [arXiv preprint arXiv:2506.16678], 33725-33745",
+   "year": "2025"
+  },
+  {
+   "title": "AI for scaling legal reform: mapping and redacting racial covenants in Santa Clara County",
+   "authors": "F Surani, M Suzgun, V Raman, CD Manning, P Henderson, DE Ho",
+   "venue": "Journal of Legal Analysis [arXiv preprint arXiv:2503.03888] 18, 151-181",
+   "year": "2025"
+  },
+  {
+   "title": "Handwritten Code Recognition for Pen-and-Paper CS Education",
+   "authors": "MS Islam, MKB Doumbouya, CD Manning, C Piech",
+   "venue": "Proceedings of the Eleventh ACM Conference on Learning@ Scale [arXiv e …",
+   "year": "2024"
+  },
+  {
+   "title": "On Measuring the Intrinsic Few-Shot Hardness of Datasets",
+   "authors": "X Zhao, S Murty, CD Manning",
+   "venue": "EMNLP 2022 [arXiv preprint arXiv:2211.09113]",
+   "year": "2022"
+  },
+  {
+   "title": "Learning from limited labels for long legal dialogue",
+   "authors": "J Hong, D Chong, CD Manning",
+   "venue": "Proceedings of the Natural Legal Language Processing Workshop 2021, 190-204",
+   "year": "2021"
+  },
+  {
+   "title": "Capturing logical structure of visually structured documents with multimodal transition parser",
+   "authors": "Y Koreeda, CD Manning",
+   "venue": "Proceedings of the Natural Legal Language Processing Workshop 2021, 144-154",
+   "year": "2021"
+  },
+  {
+   "title": "Neural, neural everywhere: Controlled generation meets scaffolded, structured dialogue",
+   "authors": "EA Chi, C Chiam, T Chang, SK Lim, C Rastogi, A Iyabor, Y He, ...",
+   "venue": "Alexa Prize Proceedings",
+   "year": "2021"
+  },
+  {
+   "title": "Positive diversity tuning for machine translation system combination",
+   "authors": "D Cer, CD Manning, D Jurafsky",
+   "venue": "Proceedings of the Eighth Workshop on Statistical Machine Translation, 320-328",
+   "year": "2013"
+  },
+  {
+   "title": "情報検索の基礎",
+   "authors": "CD Manning, P Raghavan, H Schütze, 岩野和生, 黒川利明, 濱田誠司, ...",
+   "venue": "共立出版",
+   "year": "2012"
+  },
+  {
+   "title": "Introduction to information search",
+   "authors": "CD Manning, P Raghavan, X Schutze",
+   "venue": "Moscow, Russia: ID Williams",
+   "year": "2011"
+  },
+  {
+   "title": "Dissociating functor-argument structure from surface phrase structure: the relationship of HPSG Order Domains to LFG",
+   "authors": "CD Manning",
+   "venue": "Unpublished Manuscript. URL https://nlp.stanford.edu/~manning/papers …",
+   "year": "1995"
+  },
+  {
+   "title": "Flawn-t5: An empirical examination of effective instruction-tuning data mixtures for legal reasoning",
+   "authors": "J Niklaus, L Zheng, AD McCarthy, C Hahn, BM Rosen, P Henderson, ...",
+   "venue": "arXiv preprint arXiv:2404.02127",
+   "year": "2024"
+  },
+  {
+   "title": "Dialogue Distillery: Crafting Interpolable, Interpretable, and Introspectable Dialogue from LLMs",
+   "authors": "RA Chi, J Kim, S Hickmann, S Li, G Chi, T Atchariyachanvanit, K Yu, ...",
+   "venue": "Alexa Prize SocialBot Grand Challenge 5",
+   "year": "2023"
+  },
+  {
+   "title": "Challenges of acquiring compositional inductive biases via meta-learning",
+   "authors": "E Mitchell, C Finn, C Manning",
+   "venue": "AAAI Workshop on Meta-Learning and MetaDL Challenge, 138-148",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluating the word-expert approach for named-entity disambiguation",
+   "authors": "AX Chang, VI Spitkovsky, CD Manning, E Agirre",
+   "venue": "arXiv preprint arXiv:1603.04767",
+   "year": "2016"
+  },
+  {
+   "title": "Stanford University’s submissions to the WMT 2014 translation task",
+   "authors": "J Neidert, S Schuster, S Green, K Heafield, CD Manning",
+   "venue": "Proceedings of the Ninth Workshop on Statistical Machine Translation, 150-156",
+   "year": "2014"
+  },
+  {
+   "title": "Stanford's system for parsing the English web",
+   "authors": "D McClosky, W Che, M Recasens, M Wang, R Socher, C Manning",
+   "venue": "Workshop on the Syntactic Analysis of Non-Canonical Language (SANCL 2012 …",
+   "year": "2012"
+  },
+  {
+   "title": "Stanford-UBC Entity Linking at TAC-KBP, Again.",
+   "authors": "AX Chang, VI Spitkovsky, CD Manning, E Agirre",
+   "venue": "TAC",
+   "year": "2011"
+  },
+  {
+   "title": "Identifying conflicting information in texts",
+   "authors": "MC de Marneffe, AR Rafferty, CD Manning",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "StanfordTokenizer",
+   "authors": "C Manning, T Grow, T Grenager, J Finkel, J Bauer",
+   "venue": "URL: http://nlp. stanford. edu/software/tokenizer. shtml",
+   "year": "2010"
+  },
+  {
+   "title": "Graphical model representations of word lattices",
+   "authors": "G Ji, J Bilmes, J Michels, K Kirchhoff, C Manning",
+   "venue": "2006 IEEE Spoken Language Technology Workshop, 162-165",
+   "year": "2006"
+  },
+  {
+   "title": "Using XSL and XQL for efficient, customised access to dictionary information",
+   "authors": "K Jansz, WJ Sng, C Manning, N Indurkhya",
+   "venue": "",
+   "year": "2000"
+  },
+  {
+   "title": "Assessing the potential of mid-sized language models for clinical QA",
+   "authors": "E Bolton, B Xiong, V Muralidharan, J Schamroth, V Muralidharan, ...",
+   "venue": "arXiv preprint arXiv:2404.15894",
+   "year": "2024"
+  },
+  {
+   "title": "Large-scale quantitative evaluation of dialogue agents’ response strategies against offensive users",
+   "authors": "H Li, D Soylu, CD Manning",
+   "venue": "Proceedings of the 22nd Annual Meeting of the Special Interest Group on …",
+   "year": "2021"
+  },
+  {
+   "title": "Large-scale examination of academic publications using statistical models",
+   "authors": "J Chuang, D Ramage, DA McFarland, CD Manning, J Heer",
+   "venue": "Proc. AVI Workshop Supporting Asynchronous Collaboration Visual Anal. Syst",
+   "year": "2012"
+  },
+  {
+   "title": "Optimizing local probability models for statistical parsing",
+   "authors": "K Toutanova, M Mitchell, CD Manning",
+   "venue": "European Conference on Machine Learning, 409-420",
+   "year": "2003"
+  },
+  {
+   "title": "On the three subjects in Indonesian: Evidence from binding",
+   "authors": "IW Arka, CD Manning",
+   "venue": "Proceedings of the Third LFG Conference (LFG-98), University of Queensland …",
+   "year": "1998"
+  },
+  {
+   "title": "Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces",
+   "authors": "S Yu, D Chong, A Nandi, D Soylu, J Sun, CD Manning, W Shi",
+   "venue": "arXiv preprint arXiv:2605.10913",
+   "year": "2026"
+  },
+  {
+   "title": "Sneaking syntax into transformer language models with tree regularization",
+   "authors": "A Nandi, CD Manning, S Murty",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "ReportParse: A Unified NLP Tool for Extracting Document Structure and Semantics of Corporate Sustainability Reporting",
+   "authors": "G Morio, SY In, J Yoon, H Rowlands, C Manning",
+   "venue": "IJCAI 2024 Demo Track, 8749--8753",
+   "year": "2024"
+  },
+  {
+   "title": "Predicting narratives of climate obstruction in social media advertising",
+   "authors": "H Rowlands, G Morio, D Tanner, CD Manning",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 5547-5558",
+   "year": "2024"
+  },
+  {
+   "title": "Semgrex and Ssurgeon, searching and manipulating dependency graphs",
+   "authors": "J Bauer, C Kiddon, E Yeh, A Shan, CD Manning",
+   "venue": "arXiv preprint arXiv:2404.16250",
+   "year": "2024"
+  },
+  {
+   "title": "Faster Phrase-Based Decoding by Refining Feature State",
+   "authors": "K Heafield, M Kayser, CD Manning",
+   "venue": "Proceedings of the Association for Computational Linguistics",
+   "year": "2014"
+  },
+  {
+   "title": "Feature-rich phrase-based translation: Stanford University’s submission to the WMT 2013 translation task",
+   "authors": "S Green, D Cer, K Reschke, R Voigt, J Bauer, SI Wang, N Silveira, ...",
+   "venue": "Proceedings of the eighth workshop on statistical machine translation, 148-153",
+   "year": "2013"
+  },
+  {
+   "title": "Architectures, rules, and preferences: A festschrift for Joan Bresnan",
+   "authors": "G Jäger, J Grimshaw, J Maling, C Manning, J Simpson, A Zaenen",
+   "venue": "CSLI Publications",
+   "year": "2007"
+  },
+  {
+   "title": "Machine translation for Nko: Tools, corpora, and baseline results",
+   "authors": "M Doumbouya, BM Diané, SF Cissé, D Diané, A Sow, SM Doumbouya, ...",
+   "venue": "Proceedings of the Eighth Conference on Machine Translation, 312-343",
+   "year": "2023"
+  },
+  {
+   "title": "Mapping Three Decades of Intellectual Change in Academia",
+   "authors": "D Ramage, CD Manning, DA McFarland",
+   "venue": "arXiv preprint arXiv:2004.01291",
+   "year": "2020"
+  },
+  {
+   "title": "A close examination of factual correctness evaluation in abstractive summarization",
+   "authors": "Y Zhang, Y Zhang, CD Manning",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Stanford at TAC KBP 2017: Building a Trilingual Relational Knowledge Graph.",
+   "authors": "AT Chaganty, A Paranjape, J Bolton, M Lamm, J Lei, A See, K Clark, ...",
+   "venue": "TAC",
+   "year": "2017"
+  },
+  {
+   "title": "Improved semantic representations from tree-structured long short-term memory networks Comput",
+   "authors": "KS Tai, R Socher, CD Manning",
+   "venue": "Sci 5 (1), 36",
+   "year": "2015"
+  },
+  {
+   "title": "Relaxations for inference in restricted Boltzmann machines",
+   "authors": "SI Wang, R Frostig, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:1312.6205",
+   "year": "2013"
+  },
+  {
+   "title": "岩野和生, 黒川利明, 濱田誠司, 村上明子 (訳)",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "情報検索の基礎, 共立出版",
+   "year": "2012"
+  },
+  {
+   "title": "Deep learning for natural language processing",
+   "authors": "R Socher, CD Manning, AY Ng",
+   "venue": "Neural Information Processing Systems (NIPS)",
+   "year": "2010"
+  },
+  {
+   "title": "The Bernoulli model",
+   "authors": "CD Manning, P Raghavan, H Schuetze",
+   "venue": "Introduction to Information Retrieval, 234-265",
+   "year": "2009"
+  },
+  {
+   "title": "Probabilistic Context Free Grammars",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, Chapter 11, 381-405",
+   "year": "1999"
+  },
+  {
+   "title": "A dictionary database template for Australian languages",
+   "authors": "B Baker, CD Manning",
+   "venue": "Proceedings of Australex 1998",
+   "year": "1998"
+  },
+  {
+   "title": "Transcribe, translate, or transliterate: An investigation of intermediate representations in spoken language models",
+   "authors": "T Ògúnremí, CD Manning, D Jurafsky, K Livescu",
+   "venue": "2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 1-7",
+   "year": "2025"
+  },
+  {
+   "title": "Tversky neural networks: Psychologically plausible deep learning with differentiable tversky similarity",
+   "authors": "MKB Doumbouya, D Jurafsky, CD Manning",
+   "venue": "arXiv preprint arXiv:2506.11035",
+   "year": "2025"
+  },
+  {
+   "title": "AI on trial: Legal models hallucinate in 1 out of 6 (or more) benchmarking queries",
+   "authors": "V Magesh, F Surani, M Dahl, M Suzgun, CD Manning, DE Ho",
+   "venue": "Stanford Institute for Human-Centered Artificial Intelligence",
+   "year": "2024"
+  },
+  {
+   "title": "Do \"English\" Named Entity Recognizers Work Well on Global Englishes?",
+   "authors": "A Shan, J Bauer, R Carlson, C Manning",
+   "venue": "arXiv preprint arXiv:2404.13465",
+   "year": "2024"
+  },
+  {
+   "title": "Human-centered artificial intelligence",
+   "authors": "C Manning",
+   "venue": "Artificial Intelligence Definitions",
+   "year": "2020"
+  },
+  {
+   "title": "Deep learning for natural language processing (without magic)",
+   "authors": "R Socher, C Manning",
+   "venue": "Keynote at the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Term frequency and weighting",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to information retrieval. 1st ed",
+   "year": "2008"
+  },
+  {
+   "title": "Microvariation in LFG and OT",
+   "authors": "GS Seiler, J Grimshaw, J Maling, C Manning, J Simpson, A Zaenen",
+   "venue": "Architectures, Rules, and Preferences: A Festschrift for Joan Bresnan",
+   "year": "2007"
+  },
+  {
+   "title": "Machine Learning: ECML 2004",
+   "authors": "S Oyama, CD Manning",
+   "venue": "New York: Springer",
+   "year": "2004"
+  },
+  {
+   "title": "Language learning: Beyond thunderdome",
+   "authors": "CD Manning",
+   "venue": "Proceedings of the Eighth Conference on Computational Natural Language …",
+   "year": "2004"
+  },
+  {
+   "title": "Rens Bod, Beyond grammar: an experience-based theory of language. Stanford, CA: CSLI Publications, 1998. Pp. xiii+168.",
+   "authors": "CD Manning",
+   "venue": "Journal of Linguistics 38 (2), 441-462",
+   "year": "2002"
+  },
+  {
+   "title": "Fondations of Statistical Natural Language Processing (pp. 534-6)",
+   "authors": "CD Manning, H Schütze",
+   "venue": "MIT Press, Cambridge, MA",
+   "year": "1999"
+  },
+  {
+   "title": "Evaluation measures",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, section 8.1, 267-271",
+   "year": "1999"
+  },
+  {
+   "title": "Statistical approaches to natural language processing",
+   "authors": "C Manning, H Schütze",
+   "venue": "Prentice-Hall",
+   "year": "1999"
+  },
+  {
+   "title": "Topics in information retrieval",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, Chapter 15, 529-574",
+   "year": "1999"
+  },
+  {
+   "title": "The proceedings of the LFG'98 Conference",
+   "authors": "IW Arka, CD Manning, M Butt, TH King",
+   "venue": "CSLI Publications",
+   "year": "1998"
+  },
+  {
+   "title": "Markov Models",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, Chapter 9, 317-340",
+   "year": "1996"
+  },
+  {
+   "title": "PubMedGPT 2.7 B",
+   "authors": "E Bolton, D Hall, M Yasunaga, T Lee, C Manning, P Liang",
+   "venue": "Technical report. Stanford University Center for Research on Foundation …",
+   "year": "2022"
+  },
+  {
+   "title": "Improved semantic representations from tree-structured long short-term memory networks. arXiv preprint arXiv: 1503",
+   "authors": "KS Tai, R Socher, CD Manning",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Machine translation from text",
+   "authors": "N Habash, J Olive, C Christianson, J McCary, N Habash, A de Gispert, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Vvedenie v informatsionnyi poisk [Introduction to information search]",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Moscow, Williams",
+   "year": "2011"
+  },
+  {
+   "title": "Web crawling and indexes",
+   "authors": "C Manning, P Raghavan, H Schütze",
+   "venue": "Introduction to Information Retrieval, 405-420",
+   "year": "2009"
+  },
+  {
+   "title": "Stanford University’s Chinese-to-English statistical machine translation system for the 2008 NIST evaluation",
+   "authors": "M Galley, PC Chang, D Cer, JR Finkel, CD Manning",
+   "venue": "Proceedings of the 2008 NIST Open Machine Translation Evaluation Workshop …",
+   "year": "2008"
+  },
+  {
+   "title": "Statistical foundations of natural language processing",
+   "authors": "CD Manning, H Schütze",
+   "venue": "The MIT Press, Londin, England",
+   "year": "2001"
+  },
+  {
+   "title": "Dirty Hands",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, section 1.4, 19-34",
+   "year": "1999"
+  },
+  {
+   "title": "DistillKac: Few-step image generation via damped wave equations",
+   "authors": "W Han, C Meng, C Manning, S Ermon",
+   "venue": "International Conference on Learning Representations 2026, 117309-117329",
+   "year": "2026"
+  },
+  {
+   "title": "Drop Dropout on Single-Epoch Language Model Pretraining",
+   "authors": "H Liu, J Bauer, CD Manning",
+   "venue": "Findings of ACL 2025 [arXiv preprint arXiv:2505.24788], 2157-2166",
+   "year": "2025"
+  },
+  {
+   "title": "Towards a quantitative analysis of coarticulation with a phoneme-to-articulatory model",
+   "authors": "C Fan, JM Henderson, C Manning, FR Willett",
+   "venue": "arXiv preprint arXiv:2408.05641",
+   "year": "2024"
+  },
+  {
+   "title": "The case for universal dependencies",
+   "authors": "CD Manning",
+   "venue": "Proceedings of the Third International Conference on Dependency Linguistics …",
+   "year": "2015"
+  },
+  {
+   "title": "Learning a product of experts with elitist lasso",
+   "authors": "M Wang, CD Manning",
+   "venue": "Proceedings of the Sixth International Joint Conference on Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Probabilistic finite state machines for regression-based MT evaluation",
+   "authors": "M Wang, CD Manning",
+   "venue": "2012 Joint Conference on Empirical Methods in Natural Language Processing …",
+   "year": "2012"
+  },
+  {
+   "title": "Fast dropout training for logistic regression",
+   "authors": "S Wang, CD Manning",
+   "venue": "NIPS workshop on log-linear models",
+   "year": "2012"
+  },
+  {
+   "title": "Hidden conditional random fields for speech recognition",
+   "authors": "YH Sung",
+   "venue": "Stanford University",
+   "year": "2010"
+  },
+  {
+   "title": "Stanford University’s Arabic-to-English Statistical Machine Translation System for the 2009 NIST MT Open Evaluation",
+   "authors": "M Galley, DC Spence Green, PC Chang, CD Manning",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Improving Chinese-English machine translation through better source-side linguistic processing",
+   "authors": "PC Chang",
+   "venue": "Stanford University",
+   "year": "2009"
+  },
+  {
+   "title": "Hierarchical clustering An Introduction to Information Retrieval (pp. 377-400)",
+   "authors": "CD Manning, P Raghavan, H Schütze",
+   "venue": "Cambridge, England: Cambridge University Press",
+   "year": "2009"
+  },
+  {
+   "title": "What's needed for lexical databases? Experiences with Kirrkirr",
+   "authors": "C Manning, K Parton",
+   "venue": "Proceedings of the IRCS Workshop on Linguistic Databases, 167-173",
+   "year": "2001"
+  },
+  {
+   "title": "Probabilistic models in computational linguistics",
+   "authors": "C Manning",
+   "venue": "Stanford Natural Language Processing Group",
+   "year": "2000"
+  },
+  {
+   "title": "Part-of-speech tagging",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, Chapter 10, 341-380",
+   "year": "1999"
+  },
+  {
+   "title": "Valency versus binding: On the distinctness of argument structure",
+   "authors": "C Manning",
+   "venue": "Colloque de Syntaxe et Semantique de Paris",
+   "year": "1995"
+  },
+  {
+   "title": "There is no free benchmark: An institutional view of legal AI benchmarking",
+   "authors": "N Guha, AK Zhang, C Tsang, CD Manning, J Nyarko, DE Ho",
+   "venue": "Proceedings of the National Academy of Sciences 123 (30), e2509757122",
+   "year": "2026"
+  },
+  {
+   "title": "In-Order Transition-Based Parsing for Vietnamese",
+   "authors": "J Bauer, H Bui, V Thai, CD Manning",
+   "venue": "Journal of Computer Science and Cybernetics 39 (3), 207-221",
+   "year": "2023"
+  },
+  {
+   "title": "Software Document Terminology Recognition.",
+   "authors": "S Nojiri, CD Manning",
+   "venue": "AAAI Spring Symposia",
+   "year": "2015"
+  },
+  {
+   "title": "Proceedings of the Fifteenth Conference on Computational Natural Language Learning",
+   "authors": "S Goldwater, CD Manning",
+   "venue": "Proceedings of the Fifteenth Conference on Computational Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Proceedings of the Workshop on Cross-Framework and Cross-Domain Parser Evaluation",
+   "authors": "J Bos, E Briscoe, A Cahill, J Carroll, S Clark, A Copestake, D Flickinger, ...",
+   "venue": "COLING 2008",
+   "year": "2008"
+  },
+  {
+   "title": "Grammatical relations versus binding: On the distinctness of argument structure",
+   "authors": "CD Manning",
+   "venue": "Empirical issues in formal syntax and semantics: Selected papers from the …",
+   "year": "1997"
+  },
+  {
+   "title": "Presents embedded under pasts",
+   "authors": "C Manning",
+   "venue": "Manuscript",
+   "year": "1992"
+  },
+  {
+   "title": "A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection",
+   "authors": "G Morio, H Rowlands, D Stammbach, CD Manning, P Henderson",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "WebDS: An End-to-End Benchmark for Web-based Data Science",
+   "authors": "E Hsu, HM Yam, I Bouissou, A John, R Thota, J Koe, V Putta, G Dharesan, ...",
+   "venue": "International Conference on Learning Representations 2026, 31777-31795",
+   "year": "2026"
+  },
+  {
+   "title": "Humans and transformer LMs: Abstraction drives language learning",
+   "authors": "J Jian, CD Manning",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "High-Accuracy Transition-Based Constituency Parsing",
+   "authors": "J Bauer, CD Manning",
+   "venue": "Proceedings of the 18th International Conference on Parsing Technologies …",
+   "year": "2025"
+  },
+  {
+   "title": "Osiris: A lightweight open-source hallucination detection system",
+   "authors": "A Shan, J Bauer, CD Manning",
+   "venue": "arXiv preprint arXiv:2505.04844",
+   "year": "2025"
+  },
+  {
+   "title": "Neural abstructions: Abstractions that support construction for grounded language learning",
+   "authors": "K Burns, CD Manning, L Fei-Fei",
+   "venue": "CtrlGen: Controllable Generative Modeling in Language and Vision Workshop at …",
+   "year": "2021"
+  },
+  {
+   "title": "Identifying focus, techniques and domain of scientific papers",
+   "authors": "S Gupta, CD Manning",
+   "venue": "Proceedings of the Nips-10 Workshop on Computational Social Science and the …",
+   "year": "2010"
+  },
+  {
+   "title": "Voice and grammatical relations in Indonesian: A new perspective",
+   "authors": "IW Arka, CD Manning",
+   "venue": "Voice and Grammatical Relations in Austronesian Languages, 45-69",
+   "year": "2008"
+  },
+  {
+   "title": "Exploring the Utility of ResearchCyc for Reasoning from Natural Language",
+   "authors": "C Manning, A Ng",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "Using feature conjunctions across examples for learning pairwise classifiers",
+   "authors": "S Oyama, CD Manning",
+   "venue": "Transactions of the Japanese Society for Artificial Intelligence 20 (2), 105-116",
+   "year": "2005"
+  },
+  {
+   "title": "Parse selection on the Redwoods corpus: 3rd growth results",
+   "authors": "K Toutanova, CD Manning, S Oepen, D Flickinger",
+   "venue": "CS Technical Report, Stanford University",
+   "year": "2003"
+  },
+  {
+   "title": "Stochastic OT and Syntactic Variation",
+   "authors": "J Bresnan, C Manning",
+   "venue": "Ms., NWAVE Workshop",
+   "year": "2002"
+  },
+  {
+   "title": "Introduction (of Foundations of Statistical Natural Language Processing)",
+   "authors": "CD Manning, H Schutze",
+   "venue": "Foundations of Statistical Natural Language Processing, Chapter 1, 3-36",
+   "year": "1999"
+  },
+  {
+   "title": "Clustering",
+   "authors": "C Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, Chapter 14, 495-528",
+   "year": "1999"
+  },
+  {
+   "title": "Synonym Retrieval Using Word Vectors from Text Data",
+   "authors": "K Kasahara, T Kato, C Manning",
+   "venue": "Woring Papers of Third Symposium on Logical Formalization of Commonsense …",
+   "year": "1998"
+  },
+  {
+   "title": "Romance complex predicates: phrasal and functional structure",
+   "authors": "CD Manning",
+   "venue": "Ms, University of Syndey",
+   "year": "1996"
+  },
+  {
+   "title": "Relating projections",
+   "authors": "M Dalrymple, PK Halvorsen, RM Kaplan, C Manning, J Maxwell, ...",
+   "venue": "Unpublished manuscript. Xerox",
+   "year": "1992"
+  },
+  {
+   "title": "Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space",
+   "authors": "H Liu, S Murty, CD Manning, R Csordás",
+   "venue": "arXiv preprint arXiv:2510.00219",
+   "year": "2025"
+  },
+  {
+   "title": "Natural Language Processing with Deep Learning CS224N/Ling284",
+   "authors": "CD Manning",
+   "venue": "Lecture",
+   "year": "2019"
+  },
+  {
+   "title": "Robust Deep Semantics for Language Understanding",
+   "authors": "C Manning, D Jurafsky, P Liang",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the 3rd Workshop on Continuous Vector Space Models and their Compositionality",
+   "authors": "A Allauzen, E Grefenstette, KM Hermann, H Larochelle, W Yih",
+   "venue": "Proceedings of the 3rd Workshop on Continuous Vector Space Models and their …",
+   "year": "2015"
+  },
+  {
+   "title": "Discovery of Deep Structure from Unlabeled Data",
+   "authors": "AY Ng, CD Manning",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Distillation",
+   "authors": "RH Florian, J Olive, C Christianson, J McCary, RH Florian, C Fournelle, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Natural Language Processing Tools for the Digital Humanities.",
+   "authors": "CD Manning",
+   "venue": "Digital Humanities, 16",
+   "year": "2011"
+  },
+  {
+   "title": "Lexicon schemas and related data models: When standards meet users",
+   "authors": "T Trippel, M Maxwell, G Corbett, C Prince, C Manning, S Grimes, S Moran",
+   "venue": "6th International Conference on Language Resources and Evaluation (LREC …",
+   "year": "2008"
+  },
+  {
+   "title": "Machine learning of entity recognizers for modular retargetable natural language processing",
+   "authors": "C Grover, E Klein, C Manning, K Markert, M Nissim",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Programming for linguists: Java™ technology for language researchers. By Michael Hammond. Oxford: Blackwell, 2002. Pp. 288. ISBN 0631230424. $45.",
+   "authors": "C Manning",
+   "venue": "Language 81 (3), 740-742",
+   "year": "2005"
+  },
+  {
+   "title": "Inducing Novel Gene-Drug Interactions from the Biomedical Literature",
+   "authors": "SD Kamvar, DE Oliver, CD Manning, RB Altman",
+   "venue": "",
+   "year": "2003"
+  },
+  {
+   "title": "Kirrkirr: Experiences with a flexible software interface to indigenous dictionaries",
+   "authors": "C Manning",
+   "venue": "",
+   "year": "1999"
+  },
+  {
+   "title": "Lexical Conceptual Structure and Marathi",
+   "authors": "C Manning",
+   "venue": "Ms., Stanford University",
+   "year": "1991"
+  },
+  {
+   "title": "Incremental spectral classification for weakly supervised text learning",
+   "authors": "SD Kamvar, D Klein, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Turning Speech Language Models into Multilingual Listeners",
+   "authors": "T Ògúnrèmí, D Jurafsky, C Manning, A Üstün, M Bartelds",
+   "venue": "arXiv preprint arXiv:2609.33204",
+   "year": "2026"
+  },
+  {
+   "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+   "authors": "S Yu, N Tomlin, M Abdulhai, X Lu, D Chong, A Hou, D Soylu, S Levine, ...",
+   "venue": "arXiv preprint arXiv:2608.12253",
+   "year": "2026"
+  },
+  {
+   "title": "Natural Language Processing: How NSF Supports Visionary New Approaches to NLP",
+   "authors": "K McKeown, CD Manning",
+   "venue": "Communications of the ACM 69 (8), 62-69",
+   "year": "2026"
+  },
+  {
+   "title": "At the boundary: Law and AI",
+   "authors": "DE Ho, J Nyarko, V Parli, CD Manning",
+   "venue": "Proceedings of the National Academy of Sciences 123 (30), e2606704123",
+   "year": "2026"
+  },
+  {
+   "title": "SecureForge: Finding and Preventing Vulnerabilities in LLM-Generated Code via Prompt Optimization",
+   "authors": "H Liu, L Einstein, J Yang, J Baumann, D Eddy, CD Manning, ...",
+   "venue": "arXiv preprint arXiv:2605.08382",
+   "year": "2026"
+  },
+  {
+   "title": "RAG-DOLL: Zero-Shot LLM Multi-Hop Question Answering by Simultaneously Planning Over Documents and Strategies",
+   "authors": "H Liu, AF Hardy, S Akinwande, RJ Moss, D Eddy, CD Manning, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "The Surprising Victory of NLP: From Philosophy to Agentic Language Models",
+   "authors": "CD Manning",
+   "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and …",
+   "year": "2025"
+  },
+  {
+   "title": "Universal Dependencies for Sindhi",
+   "authors": "J Bauer, S Shah, M Shaheer, MAA Talpur, Z Sanjrani, S Qureshi, ...",
+   "venue": "Proceedings of the Eighth Workshop on Universal Dependencies (UDW …",
+   "year": "2025"
+  },
+  {
+   "title": "Datasheet: h4rm3l Toolkit and Red-Teaming Results for GPT-3.5/4, Claude3, and Llama3",
+   "authors": "MKB Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, F Bianchi, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "International Workshop on Sustainable Transition with AI (STAI 2024)",
+   "authors": "G Morio, SY In, YJ Lee, CD Manning",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "모델을 통한 고전 중국어 정보처리",
+   "authors": "MC de Marneffe, CD Manning, J Nivre, D Zeman",
+   "venue": "Computational Linguistics 47 (2), 255-308",
+   "year": "2021"
+  },
+  {
+   "title": "Universal Dependency Parsing from Scratch",
+   "authors": "CD Manning",
+   "venue": "arXiv (Cornell University)",
+   "year": "2019"
+  },
+  {
+   "title": "Paris and Stanford at EPE 2017: Downstream Evaluation of Graph-based Dependency Representations",
+   "authors": "CD Manning",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Natural Language Translation at the Intersection of AI and HCI Old questions being answered with both AI and HCI.",
+   "authors": "S Green, J Heer, CD Manning",
+   "venue": "Queue 13 (6), 30-42",
+   "year": "2015"
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Continuous Vector Space Models and their Compositionality (CVSC)",
+   "authors": "A Allauzen, R Bernardi, E Grefenstette, H Larochelle, CD Manning, W Yih",
+   "venue": "Proceedings of the 2nd Workshop on Continuous Vector Space Models and their …",
+   "year": "2014"
+  },
+  {
+   "title": "Stanford Universal dependencies",
+   "authors": "MC de Marneffe, CD Manning",
+   "venue": "EACL Universal Dependency Meeting",
+   "year": "2014"
+  },
+  {
+   "title": "Supplementary Material: Modeling Biological Processes for Reading Comprehension",
+   "authors": "J Berant, V Srikumar, PC Chen, B Huang, CD Manning, A Vander Linden, ...",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Faust: Flexible Acquistion and Understanding System for Text",
+   "authors": "LL Voss, DE Wilkins, D Israel, C Manning, D Jurafsky, DS Weld, ...",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment (Supplementary Materials)",
+   "authors": "J Chuang, S Gupta, CD Manning, J Heer",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Supplementary Material: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+   "authors": "R Socher, A Perelygin, JY Wu, J Chuang, CD Manning, AY Ng, C Potts",
+   "venue": "EMNLP 2013",
+   "year": "2013"
+  },
+  {
+   "title": "Model combination for event extraction in BioNLP 2011",
+   "authors": "CD Manning",
+   "venue": "Proceedings of the Bionlp Shared Task 2011 Workshop",
+   "year": "2011"
+  },
+  {
+   "title": "Entity Clustering Across Languages",
+   "authors": "CD Manning",
+   "venue": "NAACL}",
+   "year": "2011"
+  },
+  {
+   "title": "Proceedings of the NAACL HLT 2010 First International Workshop on Formalisms and Methodology for Learning by Reading",
+   "authors": "R Mulkar-Mehta, J Allen, JR Hobbs, E Hovy, B Magnini, CD Manning",
+   "venue": "Proceedings of the NAACL HLT 2010 First International Workshop on Formalisms …",
+   "year": "2010"
+  },
+  {
+   "title": "Probabilistic Tree-Edit Models with Structured Latent Variables for Textual Entailment and Question Answering",
+   "authors": "CD Manning",
+   "venue": "The 23~(rd) International Conference on Computational Linguistics …",
+   "year": "2010"
+  },
+  {
+   "title": "Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer)",
+   "authors": "C Callison-Burch, I Dagan, CD Manning, M Pennacchiotti, FM Zanzotto",
+   "venue": "Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer)",
+   "year": "2009"
+  },
+  {
+   "title": "Evaluating MT output with entailment technology",
+   "authors": "S Padó, M Galley, D Jurafsky, C Manning",
+   "venue": "AMTA workshop: Metrics MATR - Metrics for Machine Translation Challenge",
+   "year": "2008"
+  },
+  {
+   "title": "Studying the history of ideas using topic models",
+   "authors": "D Jurafsky, CD Manning, D Hall",
+   "venue": "Proceedings of the Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Lexicon Schemas and Related Data Models: when standards meet users",
+   "authors": "GG Corbett, T Trippel, M Maxwell, C Prince, C Manning, S Grimes, ...",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Information Retrieval and Web Search",
+   "authors": "C Manning, P Nayak, P Raghavan",
+   "venue": "Computer Science Department, Stanford University, Stanford, CA 94305",
+   "year": "2008"
+  },
+  {
+   "title": "Alon Lischinsky",
+   "authors": "CD Manning, P Raghavan",
+   "venue": "Corpus Linguistics 2013 8 (1), 177",
+   "year": "2008"
+  },
+  {
+   "title": "Aligning semantic graphs for textual inference and machine reading",
+   "authors": "C Manning",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Morphological features help POS tagging of unknown words across language varieties",
+   "authors": "CD Manning",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "LinGO redwoods",
+   "authors": "S Oepen, D Flickinger, K Toutanova, CD Manning",
+   "venue": "Research on Language and Computation 2 (4), 575-596",
+   "year": "2004"
+  },
+  {
+   "title": "Exploring the boundaries: Gene and protein identification in biomedical text",
+   "authors": "S Dingare, J Finkel, C Manning, M Nissim, B Alex, C Grover",
+   "venue": "Proceedings of the BioCreative Workshop",
+   "year": "2004"
+  },
+  {
+   "title": "Deep dependencies from context-free statistical parsers",
+   "authors": "CD Manning",
+   "venue": "Proceedings of the 42nd Annual Meeting on Association for Computational …",
+   "year": "2004"
+  },
+  {
+   "title": "Solving logic puzzles",
+   "authors": "B MacCartney, CD Manning, R Lévy",
+   "venue": "Proceedings of the 2nd Workshop on Text Meaning and Interpretation-TextMean'04",
+   "year": "2004"
+  },
+  {
+   "title": "Exploiting context for biomedical entity recognition",
+   "authors": "H Van Nguyen, G Sinclair, JR Finkel, S Dingare, M Nissim, CD Manning",
+   "venue": "Proceedings of the International Joint Workshop on Natural Language …",
+   "year": "2004"
+  },
+  {
+   "title": "Parsing and Graphs",
+   "authors": "D Klein, C Manning",
+   "venue": "",
+   "year": "2001"
+  },
+  {
+   "title": "Stanford University's Arabic-to-English Statistical Machine Translation System for the 2009 NIST MT Open Evaluation",
+   "authors": "C Manning",
+   "venue": "",
+   "year": "2000"
+  },
+  {
+   "title": "CorrActive Learning: Learning from Noisy Data through Human Interaction",
+   "authors": "CD Manning",
+   "venue": "",
+   "year": "2000"
+  },
+  {
+   "title": "Linguistics in an Age of Engineering",
+   "authors": "CD Manning",
+   "venue": "Proceedings of the 13th Pacific Asia Conference on Language, Information and …",
+   "year": "1999"
+  },
+  {
+   "title": "Likelihood ratios",
+   "authors": "CD Manning, H Schütze",
+   "venue": "Foundations of Statistical Natural Language Processing, section 5.3.4, 172-175",
+   "year": "1999"
+  },
+  {
+   "title": "Review: Zero Syntax: Experiencers and Cascades",
+   "authors": "C Manning",
+   "venue": "Language 73 (3), 608-611",
+   "year": "1997"
+  },
+  {
+   "title": "Word and Compound Clustering for Natural",
+   "authors": "A Ushioda, J Carbonell, R Carpenter, C Manning",
+   "venue": "",
+   "year": "1997"
+  },
+  {
+   "title": "Information Spreading and Levels of Representation In LFG",
+   "authors": "CD Manning",
+   "venue": "Report No. CSLl-93",
+   "year": "1993"
+  },
+  {
+   "title": "LFG within King’s descriptive formalism",
+   "authors": "C Manning",
+   "venue": "Ms., Stanford University",
+   "year": "1991"
+  },
+  {
+   "title": "Which words are hard to recognize? Prosodic, lexical, and disﬂuency factors that increase ASR error rates",
+   "authors": "CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Factored A* Search for Models over Sequences and Trees",
+   "authors": "CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "TRANSFORMERS WITH TREE PROJECTIONS",
+   "authors": "S Murty, P Sharma, J Andreas, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Coling 2008: Proceedings of the workshop on Cross-Framework and Cross-Domain Parser Evaluation August 2008",
+   "authors": "S Clark, A Copestake, D Flickinger, J van Genabith, J Hockenmaier, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Fast deterministic dropout training",
+   "authors": "S Wang, C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Teaching language models with canonical examples",
+   "authors": "J Hewitt, SL Chen, P Liang, CD Manning",
+   "venue": "R0-FoMo 2023: Robustness of Few-shot and Zero-shot Learning in Large …",
+   "year": null
+  },
+  {
+   "title": "QuASI: Question Answering using Statistics, Semantics, and Inference",
+   "authors": "M Hearst, J Feldman, C Manning, S Narayanan",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Incorporating Structure into Language Models",
+   "authors": "A Paranjape, S Reddy, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Unification-based lexicalist frameworks: An overview",
+   "authors": "C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Deep Learning of Hierarchical Structure",
+   "authors": "C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Kirrkirr: Software for the Flexible and Interactive Visualisation of a Structured Warlpiri Dictionary",
+   "authors": "C Manning, K Jansz, N Inkurkhya",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Machine learning for IR ranking",
+   "authors": "C Manning, P Nayak",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "EXPLOITING LONG-DISTANCE CONTEXT IN TRANSITION-BASED DEPENDENCY PARSING WITH RECURRENT NEURAL NETWORKS",
+   "authors": "J Gauthier, D Chen, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Annotation guidelines for marking contradictions",
+   "authors": "MC de Marneffe, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "State-of-the-Art Multilingual NER Using Loosely Aligned Text Whitepaper Stanford University, 2012",
+   "authors": "R Munro, C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Language varieties",
+   "authors": "C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Accurate Unsupervised Learning of Field Structure Models for Information Extraction",
+   "authors": "T Grenager, D Klein, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Conditional Estimation of HMMs for Information Extraction",
+   "authors": "J Smarr, H Nguyen, D Klein, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Section 5: Searching for Better Automatic MT Metrics",
+   "authors": "A Lavie, A Agarwal, M Snover, N Madnani, B Dorr, R Schwartz, N Habash, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Probabilistic Head-driven parsing of natural language",
+   "authors": "C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Applying Hierarchical Classification Techniques Without A Hierarchy",
+   "authors": "M Chavira, DK Wong, C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Gibbs Sampler for Spatial Clustering with the Distance-dependent Chinese Restaurant Process",
+   "authors": "R Socher, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Inducing Syntactic Structure: Constituency and Dependency",
+   "authors": "D Klein, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Distributional Models for Corpus-Based Syntax Learning",
+   "authors": "D Klein, CD Manning",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

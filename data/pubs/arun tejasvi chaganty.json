@@ -1,0 +1,233 @@
+{
+ "user": "mIFso2kAAAAJ",
+ "pubs": [
+  {
+   "title": "Rarr: Researching and revising what language models say, using language models",
+   "authors": "L Gao, Z Dai, P Pasupat, A Chen, AT Chaganty, Y Fan, V Zhao, N Lao, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Spectral experts for estimating mixtures of linear regressions",
+   "authors": "AT Chaganty, P Liang",
+   "venue": "International conference on machine learning, 1040-1048",
+   "year": "2013"
+  },
+  {
+   "title": "The price of debiasing automatic metrics in natural language evalaution",
+   "authors": "A Chaganty, S Mussmann, P Liang",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Tensor factorization via matrix factorization",
+   "authors": "V Kuleshov, A Chaganty, P Liang",
+   "venue": "Artificial Intelligence and Statistics, 507-516",
+   "year": "2015"
+  },
+  {
+   "title": "Dialog inpainting: Turning documents into dialogs",
+   "authors": "Z Dai, AT Chaganty, VY Zhao, A Amini, QM Rashid, M Green, K Guu",
+   "venue": "International conference on machine learning, 4558-4586",
+   "year": "2022"
+  },
+  {
+   "title": "Efficiently sampling probabilistic programs via program analysis",
+   "authors": "A Chaganty, A Nori, S Rajamani",
+   "venue": "Artificial Intelligence and Statistics, 153-160",
+   "year": "2013"
+  },
+  {
+   "title": "Bootstrapped Self Training for Knowledge Base Population.",
+   "authors": "G Angeli, V Zhong, D Chen, AT Chaganty, J Bolton, MJJ Premkumar, ...",
+   "venue": "TAC",
+   "year": "2015"
+  },
+  {
+   "title": "Estimating latent-variable graphical models using moments and likelihoods",
+   "authors": "AT Chaganty, P Liang",
+   "venue": "International Conference on Machine Learning, 1872-1880",
+   "year": "2014"
+  },
+  {
+   "title": "On-the-job learning with bayesian decision theory",
+   "authors": "K Werling, AT Chaganty, PS Liang, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Probabilistic model approximation for statistical relational learning",
+   "authors": "AT Chaganty, A Lal, AV Nori, S Rajamani",
+   "venue": "US Patent App. 13/308,571",
+   "year": "2013"
+  },
+  {
+   "title": "Attributed text generation via post-hoc research and revision",
+   "authors": "L Gao, Z Dai, P Pasupat, A Chen, AT Chaganty, Y Fan, VY Zhao, N Lao, ...",
+   "venue": "arXiv preprint arXiv:2210.08726",
+   "year": "2022"
+  },
+  {
+   "title": "Textual analogy parsing: What’s shared and what’s compared among analogous facts",
+   "authors": "M Lamm, A Chaganty, CD Manning, D Jurafsky, P Liang",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Importance sampling for unbiased on-demand evaluation of knowledge base population",
+   "authors": "A Chaganty, A Paranjape, P Liang, CD Manning",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Beyond single items: Exploring user preferences in item sets with the conversational playlist curation dataset",
+   "authors": "AT Chaganty, M Leszczynski, S Zhang, R Ganti, K Balog, F Radlinski",
+   "venue": "Proceedings of the 46th International ACM SIGIR Conference on Research and …",
+   "year": "2023"
+  },
+  {
+   "title": "How much is 131 million dollars? putting numbers in perspective with compositional descriptions",
+   "authors": "A Chaganty, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Talk the walk: Synthetic data generation for conversational music recommendation",
+   "authors": "M Leszczynski, S Zhang, R Ganti, K Balog, F Radlinski, F Pereira, ...",
+   "venue": "arXiv preprint arXiv:2301.11489",
+   "year": "2023"
+  },
+  {
+   "title": "Stanford at TAC KBP 2016: Sealing Pipeline Leaks and Understanding Chinese.",
+   "authors": "Y Zhang, AT Chaganty, A Paranjape, D Chen, J Bolton, P Qi, CD Manning",
+   "venue": "TAC",
+   "year": "2016"
+  },
+  {
+   "title": "TinkerBell: Cross-lingual Cold-Start Knowledge Base Construction.",
+   "authors": "M Al-Badrashiny, J Bolton, AT Chaganty, K Clark, C Harman, L Huang, ...",
+   "venue": "TAC",
+   "year": "2017"
+  },
+  {
+   "title": "Stanford's 2013 KBP System.",
+   "authors": "G Angeli, AT Chaganty, AX Chang, K Reschke, J Tibshirani, J Wu, ...",
+   "venue": "TAC",
+   "year": "2013"
+  },
+  {
+   "title": "Combining relational learning with SMT solvers using CEGAR",
+   "authors": "A Chaganty, A Lal, AV Nori, SK Rajamani",
+   "venue": "International Conference on Computer Aided Verification, 447-462",
+   "year": "2013"
+  },
+  {
+   "title": "Mimic and rephrase: Reflective listening in open-ended dialogue",
+   "authors": "J Dieter, T Wang, AT Chaganty, G Angeli, A Chang",
+   "venue": "Proceedings of the 23rd Conference on Computational Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Learning in a small world",
+   "authors": "AT Chaganty, P Gaur, B Ravindran",
+   "venue": "Proceedings of the 11th International Conference on Autonomous Agents and …",
+   "year": "2012"
+  },
+  {
+   "title": "Generating synthetic data for conversational music recommendation using random walks and language models",
+   "authors": "M Leszczynski, R Ganti, S Zhang, K Balog, F Radlinski, F Pereira, ...",
+   "venue": "arXiv preprint arXiv:2301.11489",
+   "year": "2023"
+  },
+  {
+   "title": "Qsrl: A semantic role-labeling schema for quantitative facts",
+   "authors": "M Lamm, A Chaganty, D Jurafsky, CD Manning, P Liang",
+   "venue": "Proceedings of the 1st Financial Narrative Processing Workshop",
+   "year": "2018"
+  },
+  {
+   "title": "Estimating mixture models via mixtures of polynomials",
+   "authors": "S Wang, AT Chaganty, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Stanford at TAC KBP 2017: Building a Trilingual Relational Knowledge Graph.",
+   "authors": "AT Chaganty, A Paranjape, J Bolton, M Lamm, J Lei, A See, K Clark, ...",
+   "venue": "TAC",
+   "year": "2017"
+  },
+  {
+   "title": "Simultaneous diagonalization: the asymmetric, low-rank, and noisy settings",
+   "authors": "V Kuleshov, AT Chaganty, P Liang",
+   "venue": "arXiv preprint arXiv:1501.06318",
+   "year": "2015"
+  },
+  {
+   "title": "Quote attribution for literary text with neural networks",
+   "authors": "A Chaganty, G Muzny",
+   "venue": "Avaliable at http://cs224d. stanford. edu/reports/ChagantyArun. pdf",
+   "year": "2014"
+  },
+  {
+   "title": "Discovering Continuous Homomorphisms for Transfer",
+   "authors": "AT Chaganty, B Ravindran",
+   "venue": "European Workshop for Reinforcement Learning",
+   "year": "2012"
+  },
+  {
+   "title": "Dialog Generation Using Single-Speaker Documents",
+   "authors": "Y Zhao, AT Chaganty, K Gu, Z Dai",
+   "venue": "US Patent App. 18/866,446",
+   "year": "2025"
+  },
+  {
+   "title": "Conformal retrofitting via Riemannian manifolds: distilling task-specific graphs into pretrained embeddings",
+   "authors": "J Dieter, AT Chaganty",
+   "venue": "arXiv preprint arXiv:2010.04842",
+   "year": "2020"
+  },
+  {
+   "title": "Natural Language Evaluation with Humans in the Loop and Statistical Estimators",
+   "authors": "AT Chaganty",
+   "venue": "Stanford University",
+   "year": "2018"
+  },
+  {
+   "title": "Estimating Mixture Models via Mixtures of Polynomials",
+   "authors": "SI Wang, AT Chaganty, P Liang",
+   "venue": "arXiv preprint arXiv:1603.08482",
+   "year": "2016"
+  },
+  {
+   "title": "Tensor Factorization via Matrix Factorization",
+   "authors": "AT Chagantyú",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Estimating Latent Variable Graphical Models with Moments and Likelihoods",
+   "authors": "AT Chaganty, P Liang",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Joint Inference as Bi-clustering on Graphs",
+   "authors": "MC Iordan, A Chaganty, V Ramanathan",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Scaling Up Simultaneous Diagonalization",
+   "authors": "V Kuleshov, AT Chaganty, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for Spectral Experts for Estimating Mixtures of Linear Regressions",
+   "authors": "AT Chaganty, P Liang",
+   "venue": "Journal of Machine Learning Research 1, 11",
+   "year": null
+  }
+ ]
+}

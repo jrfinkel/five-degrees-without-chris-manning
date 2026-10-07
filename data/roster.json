@@ -233,15 +233,11 @@
  },
  {
   "name": "Arun Tejasvi Chaganty",
-  "source": "site",
+  "source": "both",
   "dept": "Computer Science",
   "role": null,
   "url": "http://arun.chagantys.org/",
   "section": "Yifan Mai"
- },
- {
-  "name": "Arun Chaganty",
-  "source": "list"
  },
  {
   "name": "Nate Chambers",
@@ -413,15 +409,11 @@
  },
  {
   "name": "Chris(topher) Cox",
-  "source": "site",
+  "source": "both",
   "dept": "Symbolic Systems. 2004-2005",
   "role": null,
   "url": "https://www.facebook.com/chris.cox",
   "section": "Yifan Mai"
- },
- {
-  "name": "Chris Cox",
-  "source": "list"
  },
  {
   "name": "Róbert Csordás",
@@ -440,7 +432,7 @@
   "section": "Faculty"
  },
  {
-  "name": "Karel D&#39;Oosterlinck",
+  "name": "Karel D'Oosterlinck",
   "source": "site",
   "dept": "Linguistics and CSLI",
   "role": null,
@@ -581,7 +573,11 @@
  },
  {
   "name": "Jenny Finkel",
-  "source": "list"
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://nlp.stanford.edu/jrfinkel/",
+  "section": "Yifan Mai"
  },
  {
   "name": "Roy Frostig",
@@ -809,15 +805,11 @@
  },
  {
   "name": "David Hall",
-  "source": "site",
+  "source": "both",
   "dept": "Symbolic Systems",
   "role": null,
   "url": "https://www.linkedin.com/in/dlwhall",
   "section": "Yifan Mai"
- },
- {
-  "name": "David LW Hall",
-  "source": "list"
  },
  {
   "name": "Will Hamilton",
@@ -1544,14 +1536,6 @@
   "section": "Yifan Mai"
  },
  {
-  "name": "Jenny Rose Finkel Mason",
-  "source": "site",
-  "dept": "Computer Science",
-  "role": null,
-  "url": "http://nlp.stanford.edu/jrfinkel/",
-  "section": "Yifan Mai"
- },
- {
   "name": "David McClosky",
   "source": "both",
   "dept": "Computer Science",
@@ -1721,15 +1705,11 @@
  },
  {
   "name": "Julia (Neidert) Neizonek",
-  "source": "site",
+  "source": "both",
   "dept": "Symbolic Systems",
   "role": null,
   "url": "https://www.linkedin.com/in/julia-neidert/overlay/about-this-profile/",
   "section": "Yifan Mai"
- },
- {
-  "name": "Julia Neizonek",
-  "source": "list"
  },
  {
   "name": "Ani Nenkova",

@@ -1,0 +1,353 @@
+{
+ "user": "Lwr5ozgAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Transactions on Machine Learning Research (TMLR), 2023",
+   "year": "2022"
+  },
+  {
+   "title": "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT",
+   "authors": "O Khattab, M Zaharia",
+   "venue": "Proceedings of the 43rd International ACM SIGIR Conference on Research and …",
+   "year": "2020"
+  },
+  {
+   "title": "DSPy: Compiling Declarative Language Model Calls into Self-improving Pipelines",
+   "authors": "O Khattab, A Singhvi, P Maheshwari, Z Zhang, K Santhanam, ...",
+   "venue": "The Twelfth International Conference on Learning Representations (ICLR'24)",
+   "year": "2024"
+  },
+  {
+   "title": "ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction",
+   "authors": "K Santhanam*, O Khattab*, J Saad-Falcon, C Potts, M Zaharia",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "GEPA: Reflective prompt evolution can outperform reinforcement learning",
+   "authors": "LA Agrawal, S Tan, D Soylu, N Ziems, R Khare, K Opsahl-Ong, A Singhvi, ...",
+   "venue": "ICLR 2026 (Oral)",
+   "year": "2025"
+  },
+  {
+   "title": "ARES: An automated evaluation framework for retrieval-augmented generation systems",
+   "authors": "J Saad-Falcon, O Khattab, C Potts, M Zaharia",
+   "venue": "NAACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Demonstrate-search-predict: Composing retrieval and language models for knowledge-intensive nlp",
+   "authors": "O Khattab, K Santhanam, XL Li, D Hall, P Liang, C Potts, M Zaharia",
+   "venue": "arXiv preprint arXiv:2212.14024",
+   "year": "2022"
+  },
+  {
+   "title": "Optimizing instructions and demonstrations for multi-stage language model programs",
+   "authors": "K Opsahl-Ong, MJ Ryan, J Purtell, D Broman, C Potts, M Zaharia, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models",
+   "authors": "Y Shao, Y Jiang, TA Kanell, P Xu, O Khattab, MS Lam",
+   "venue": "NAACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "The shift from models to compound ai systems",
+   "authors": "M Zaharia, O Khattab, L Chen, JQ Davis, H Miller, C Potts, J Zou, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Learning passage impacts for inverted indexes",
+   "authors": "A Mallia, O Khattab, T Suel, N Tonellotto",
+   "venue": "Proceedings of the 44th international ACM SIGIR conference on research and …",
+   "year": "2021"
+  },
+  {
+   "title": "PLAID: An Efficient Engine for Late Interaction Retrieval",
+   "authors": "K Santhanam*, O Khattab*, C Potts, M Zaharia",
+   "venue": "Proceedings of the 31st ACM International Conference on Information and …",
+   "year": "2022"
+  },
+  {
+   "title": "Meta-Harness: End-to-end optimization of model harnesses",
+   "authors": "Y Lee, R Nair, Q Zhang, K Lee, O Khattab, C Finn",
+   "venue": "arXiv preprint arXiv:2603.28052",
+   "year": "2026"
+  },
+  {
+   "title": "Relevance-guided Supervision for OpenQA with ColBERT",
+   "authors": "O Khattab, C Potts, M Zaharia",
+   "venue": "Transactions of the Association for Computational Linguistics 9, 929-944",
+   "year": "2021"
+  },
+  {
+   "title": "Recursive language models",
+   "authors": "AL Zhang, T Kraska, O Khattab",
+   "venue": "arXiv preprint arXiv:2512.24601",
+   "year": "2025"
+  },
+  {
+   "title": "Baleen: Robust Multi-Hop Reasoning at Scale via Condensed Retrieval",
+   "authors": "O Khattab, C Potts, M Zaharia",
+   "venue": "Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS'21)",
+   "year": "2021"
+  },
+  {
+   "title": "Image and Data Mining in Reticular Chemistry Powered by GPT-4V",
+   "authors": "Z Zheng, Z He, O Khattab, N Rampal, MA Zaharia, C Borgs, JT Chayes, ...",
+   "venue": "Digital Discovery",
+   "year": "2024"
+  },
+  {
+   "title": "Papillon: Privacy preservation from internet-based and local language model ensembles",
+   "authors": "L Siyan, VC Raghuram, O Khattab, J Hirschberg, Z Yu",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Introducing Neural Bag of Whole-Words with ColBERTer: Contextualized Late Interactions using Enhanced Reduction",
+   "authors": "S Hofstätter, O Khattab, S Althammer, M Sertkan, A Hanbury",
+   "venue": "Proceedings of the 31st ACM International Conference on Information and …",
+   "year": "2022"
+  },
+  {
+   "title": "Fine-tuning and prompt optimization: Two great steps that work better together",
+   "authors": "D Soylu, C Potts, O Khattab",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "UDAPDR: unsupervised domain adaptation via LLM prompting and distillation of rerankers",
+   "authors": "J Saad-Falcon, O Khattab, K Santhanam, R Florian, M Franz, S Roukos, ...",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Hindsight: Posterior-guided training of retrievers for improved open-ended generation",
+   "authors": "A Paranjape, O Khattab, C Potts, M Zaharia, CD Manning",
+   "venue": "Proceedings of The Tenth International Conference on Learning …",
+   "year": "2022"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Meta-harness: End-to-end optimization of model harnesses, 2026",
+   "authors": "Y Lee, R Nair, Q Zhang, K Lee, O Khattab, C Finn",
+   "venue": "URL https://arxiv. org/abs/2603.28052",
+   "year": "2026"
+  },
+  {
+   "title": "Dspy assertions: Computational constraints for self-refining language model pipelines",
+   "authors": "A Singhvi, M Shetty, S Tan, C Potts, K Sen, M Zaharia, O Khattab",
+   "venue": "arXiv preprint arXiv:2312.13382",
+   "year": "2023"
+  },
+  {
+   "title": "WARP: An efficient engine for multi-vector retrieval",
+   "authors": "JL Scheerer, M Zaharia, C Potts, G Alonso, O Khattab",
+   "venue": "Proceedings of the 48th international ACM SIGIR conference on research and …",
+   "year": "2025"
+  },
+  {
+   "title": "Grounding by trying: Llms with reinforcement learning-enhanced retrieval",
+   "authors": "S Hsu, O Khattab, C Finn, A Sharma",
+   "venue": "arXiv preprint arXiv:2410.23214",
+   "year": "2024"
+  },
+  {
+   "title": "Freshstack: Building realistic benchmarks for evaluating retrieval on technical documents",
+   "authors": "N Thakur, J Lin, S Havens, M Carbin, O Khattab, A Drozdov",
+   "venue": "NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "In-context learning for extreme multi-label classification",
+   "authors": "K D'Oosterlinck, O Khattab, F Remy, T Demeester, C Develder, C Potts",
+   "venue": "arXiv preprint arXiv:2401.12178",
+   "year": "2024"
+  },
+  {
+   "title": "Finding the best of both worlds: Faster and more robust top-k document retrieval",
+   "authors": "O Khattab, M Hammoud, T Elsayed",
+   "venue": "Proceedings of the 43rd international ACM SIGIR conference on research and …",
+   "year": "2020"
+  },
+  {
+   "title": "LA3: A scalable link-and locality-aware linear algebra-based graph analytics system",
+   "authors": "Y Ahmad, O Khattab, A Malik, A Musleh, M Hammoud, M Kutlu, ...",
+   "venue": "Proceedings of the VLDB Endowment 11 (8), 920-933",
+   "year": "2018"
+  },
+  {
+   "title": "Drowning in documents: consequences of scaling reranker inference",
+   "authors": "M Jacob, E Lindgren, M Zaharia, M Carbin, O Khattab, A Drozdov",
+   "venue": "ReNeuIR 2025",
+   "year": "2024"
+  },
+  {
+   "title": "Building efficient and effective OpenQA systems for low-resource languages",
+   "authors": "E Budur, R Özçelik, D Soylu, O Khattab, T Güngör, C Potts",
+   "venue": "Knowledge-Based Systems 302, 112243",
+   "year": "2024"
+  },
+  {
+   "title": "Moving beyond downstream task accuracy for information retrieval benchmarking",
+   "authors": "K Santhanam, J Saad-Falcon, M Franz, O Khattab, A Sil, R Florian, ...",
+   "venue": "ACL 2023 Findings",
+   "year": "2022"
+  },
+  {
+   "title": "optimize_anything: Unified Text Optimization can Outperform Specialized Systems",
+   "authors": "LA Agrawal, D Lee, S Tan, W Ma, K Elmaaroufi, R Sandadi, SA Seshia, ...",
+   "venue": "Proceedings of the ACM Conference on AI and Agentic Systems, 1-16",
+   "year": "2026"
+  },
+  {
+   "title": "Indicirsuite: Multilingual dataset and neural information models for indian languages",
+   "authors": "S Haq, A Sharma, O Khattab, N Chhaya, P Bhattacharyya",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Do LLMs benefit from their own words?",
+   "authors": "JY Huang, L Choshen, W Sun, O Khattab, RF Astudillo, M Damani, ...",
+   "venue": "arXiv preprint arXiv:2602.24287",
+   "year": "2026"
+  },
+  {
+   "title": "ColBERT-Serve: efficient multi-stage memory-mapped scoring",
+   "authors": "K Huang, T Venkatesh, U Dingankar, A Mallia, D Campos, J Jiao, C Potts, ...",
+   "venue": "European Conference on Information Retrieval, 21-30",
+   "year": "2025"
+  },
+  {
+   "title": "PolyHJ: A polymorphic main-memory hash join paradigm for multi-core machines",
+   "authors": "O Khattab, M Hammoud, O Shekfeh",
+   "venue": "Proceedings of the 27th ACM International Conference on Information and …",
+   "year": "2018"
+  },
+  {
+   "title": "Vector policy optimization: Training for diversity improves test-time search",
+   "authors": "R Bahlous-Boldi, I Puri, I Shenfeld, A Kumar, M Damani, S Risi, O Khattab, ...",
+   "venue": "arXiv preprint arXiv:2605.22817",
+   "year": "2026"
+  },
+  {
+   "title": "Composing Policy Gradients and Prompt Optimization for Language Model Programs",
+   "authors": "N Ziems, D Soylu, LA Agrawal, I Miller, L Lai, C Qian, K Song, M Jiang, ...",
+   "venue": "Proceedings of the ACM Conference on AI and Agentic Systems, 197-213",
+   "year": "2026"
+  },
+  {
+   "title": "OBLIQ-Bench: Exposing Overlooked Bottlenecks in Modern Retrievers with Latent and Implicit Queries",
+   "authors": "D Tchuindjo, D Shah, O Khattab",
+   "venue": "arXiv preprint arXiv:2605.06235",
+   "year": "2026"
+  },
+  {
+   "title": "Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations",
+   "authors": "RE Wang, P Wirawarn, K Lam, O Khattab, D Demszky",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 12654 …",
+   "year": "2024"
+  },
+  {
+   "title": "PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents",
+   "authors": "Z Gu, Q Zhang, O Khattab, S Madden",
+   "venue": "arXiv preprint arXiv:2605.19932",
+   "year": "2026"
+  },
+  {
+   "title": "Backtracing: Retrieving the Cause of the Query",
+   "authors": "RE Wang, P Wirawarn, O Khattab, N Goodman, D Demszky",
+   "venue": "EACL Findings 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Langprobe: a language programs benchmark",
+   "authors": "S Tan, LA Agrawal, A Singhvi, L Lai, MJ Ryan, D Klein, O Khattab, K Sen, ...",
+   "venue": "EMNLP 2025 Findings",
+   "year": "2025"
+  },
+  {
+   "title": "Lir: The first workshop on late interaction and multi vector retrieval@ ecir 2026",
+   "authors": "B Clavié, X Li, A Chaffin, O Khattab, T Aarsen, M Faysse, J Li",
+   "venue": "European Conference on Information Retrieval, 158-168",
+   "year": "2026"
+  },
+  {
+   "title": "Reasoning-Intensive Regression",
+   "authors": "D Tchuindjo, O Khattab",
+   "venue": "Proceedings of the ACM Conference on AI and Agentic Systems, 551-583",
+   "year": "2026"
+  },
+  {
+   "title": "Prompts as Auto-Optimized Training Hyperparameters: Training Best-in-Class IR Models from Scratch with 10 Gold Labels",
+   "authors": "J Xian, S Samuel, F Khoubsirat, R Pradeep, MA Sultan, R Florian, ...",
+   "venue": "arXiv preprint arXiv:2406.11706",
+   "year": "2024"
+  },
+  {
+   "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+   "authors": "S Kim, Y Lee, B Liu, D Ko, R Shao, S Kim, G Neubig, PW Koh, ...",
+   "venue": "arXiv preprint arXiv:2610.02202",
+   "year": "2026"
+  },
+  {
+   "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+   "authors": "Z Li, J Liu, M Vukelic, N Shen, S Lall, A Thakur, A Zhang, O Khattab, ...",
+   "venue": "arXiv preprint arXiv:2609.26891",
+   "year": "2026"
+  },
+  {
+   "title": "Carnot: Interpretable, Interactive, and Optimized Execution of Deep Research Queries",
+   "authors": "M Russo, Y Agarwal, T Li, Z Gu, M Cafarella, O Khattab, T Kraska, ...",
+   "venue": "arXiv preprint arXiv:2608.09532",
+   "year": "2026"
+  },
+  {
+   "title": "Dossier: Deep Research via Ledger-Driven Branching Search and Query Encoding Learning",
+   "authors": "O Chabra, N Ziems, M Jiang, O Khattab, H Balakrishnan",
+   "venue": "Proceedings of the ACM Conference on AI and Agentic Systems, 263-275",
+   "year": "2026"
+  },
+  {
+   "title": "Building More Reliable and Scalable AI Systems with Foundation Model Programming",
+   "authors": "O Khattab",
+   "venue": "Stanford University",
+   "year": "2024"
+  },
+  {
+   "title": "Resources and Evaluations for Multi-Distribution Dense Information Retrieval",
+   "authors": "S Chatterjee, O Khattab, S Arora",
+   "venue": "SIGIR REML 2023; arXiv preprint arXiv:2306.12601",
+   "year": "2023"
+  },
+  {
+   "title": "Meta-Harness: Beyond-Reward Agent Improvement from Language, Traces, and Sparse Task Outcomes",
+   "authors": "Y Lee, RS Nair, Q Zhang, K Lee, O Khattab, C Finn",
+   "venue": "Third Reinforcement Learning Beyond Rewards Workshop at the Reinforcement …",
+   "year": null
+  },
+  {
+   "title": "optimize anything: A Unified Framework for LLM-Based Mathematical and Scientific Optimization",
+   "authors": "LA Agrawal, D Lee, S Tan, W Ma, K Elmaaroufi, R Sandadi, SA Seshia, ...",
+   "venue": "3rd AI for Math Workshop: Toward Self-Evolving Scientific Agents",
+   "year": null
+  }
+ ]
+}

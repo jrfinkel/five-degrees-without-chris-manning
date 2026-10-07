@@ -1,0 +1,239 @@
+{
+ "user": "w8ZDbO8AAAAJ",
+ "pubs": [
+  {
+   "title": "Gemini: a family of highly capable multimodal models",
+   "authors": "G Team, R Anil, S Borgeaud, JB Alayrac, J Yu, R Soricut, J Schalkwyk, ...",
+   "venue": "arXiv preprint arXiv:2312.11805",
+   "year": "2023"
+  },
+  {
+   "title": "Finetuned language models are zero-shot learners",
+   "authors": "J Wei, M Bosma, VY Zhao, K Guu, AW Yu, B Lester, N Du, AM Dai, QV Le",
+   "venue": "arXiv preprint arXiv:2109.01652",
+   "year": "2021"
+  },
+  {
+   "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
+   "authors": "G Comanici, E Bieber, M Schaekermann, I Pasupat, N Sachdeva, I Dhillon, ...",
+   "venue": "arXiv preprint arXiv:2507.06261",
+   "year": "2025"
+  },
+  {
+   "title": "Retrieval augmented language model pre-training",
+   "authors": "K Guu, K Lee, Z Tung, P Pasupat, M Chang",
+   "venue": "International conference on machine learning, 3929-3938",
+   "year": "2020"
+  },
+  {
+   "title": "Rarr: Researching and revising what language models say, using language models",
+   "authors": "L Gao, Z Dai, P Pasupat, A Chen, AT Chaganty, Y Fan, V Zhao, N Lao, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Traversing Knowledge Graphs in Vector Space",
+   "authors": "K Guu, J Miller, P Liang",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2015"
+  },
+  {
+   "title": "Reinforcement learning on web interfaces using workflow-guided exploration",
+   "authors": "EZ Liu, K Guu, P Pasupat, T Shi, P Liang",
+   "venue": "arXiv preprint arXiv:1802.08802",
+   "year": "2018"
+  },
+  {
+   "title": "Promptagator: Few-shot dense retrieval from 8 examples",
+   "authors": "Z Dai, VY Zhao, J Ma, Y Luan, J Ni, J Lu, A Bakalov, K Guu, KB Hall, ...",
+   "venue": "arXiv preprint arXiv:2209.11755",
+   "year": "2022"
+  },
+  {
+   "title": "Generating Sentences by Editing Prototypes",
+   "authors": "K Guu, TB Hashimoto, Y Oren, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 437-450",
+   "year": "2018"
+  },
+  {
+   "title": "From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood",
+   "authors": "K Guu, P Pasupat, EZ Liu, P Liang",
+   "venue": "Association for Computational Linguistics (ACL)",
+   "year": "2017"
+  },
+  {
+   "title": "A Retrieve-and-Edit Framework for Predicting Structured Outputs",
+   "authors": "TB Hashimoto, K Guu, Y Oren, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems, 10073-10083",
+   "year": "2018"
+  },
+  {
+   "title": "Transforming question answering datasets into natural language inference datasets",
+   "authors": "D Demszky, K Guu, P Liang",
+   "venue": "arXiv preprint arXiv:1809.02922",
+   "year": "2018"
+  },
+  {
+   "title": "Towards tracing knowledge in language models back to the training data",
+   "authors": "E Akyürek, T Bolukbasi, F Liu, B Xiong, I Tenney, J Andreas, K Guu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 2429-2446",
+   "year": "2022"
+  },
+  {
+   "title": "Pretraining with contrastive sentence objectives improves discourse performance of language models",
+   "authors": "D Iter, K Guu, L Lansing, D Jurafsky",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Neurips 2020 efficientqa competition: Systems, analyses and lessons learned",
+   "authors": "S Min, J Boyd-Graber, C Alberti, D Chen, E Choi, M Collins, K Guu, ...",
+   "venue": "NeurIPS 2020 Competition and Demonstration Track, 86-111",
+   "year": "2021"
+  },
+  {
+   "title": "Can long-context language models subsume retrieval, rag, sql, and more?",
+   "authors": "J Lee, A Chen, Z Dai, D Dua, DS Sachan, M Boratko, Y Luan, SMR Arnold, ...",
+   "venue": "arXiv preprint arXiv:2406.13121",
+   "year": "2024"
+  },
+  {
+   "title": "Finetuned language models are zero-shot learners. arXiv 2021",
+   "authors": "J Wei, M Bosma, VY Zhao, K Guu, AW Yu, B Lester, N Du, AM Dai, QV Le",
+   "venue": "arXiv preprint arXiv:2109.01652 10",
+   "year": "2021"
+  },
+  {
+   "title": "Dialog inpainting: Turning documents into dialogs",
+   "authors": "Z Dai, AT Chaganty, VY Zhao, A Amini, QM Rashid, M Green, K Guu",
+   "venue": "International conference on machine learning, 4558-4586",
+   "year": "2022"
+  },
+  {
+   "title": "Unlocking compositional generalization in pre-trained models using intermediate representations",
+   "authors": "J Herzig, P Shaw, MW Chang, K Guu, P Pasupat, Y Zhang",
+   "venue": "arXiv preprint arXiv:2104.07478",
+   "year": "2021"
+  },
+  {
+   "title": "Light timeout optimization",
+   "authors": "X Gu, K Gu, D Nulu",
+   "venue": "US Patent 8,538,596",
+   "year": "2013"
+  },
+  {
+   "title": "Neural data augmentation via example extrapolation",
+   "authors": "K Lee, K Guu, L He, T Dozat, HW Chung",
+   "venue": "arXiv preprint arXiv:2102.01335",
+   "year": "2021"
+  },
+  {
+   "title": "Purr: Efficiently editing language model hallucinations by denoising language model corruptions",
+   "authors": "A Chen, P Pasupat, S Singh, H Lee, K Guu",
+   "venue": "arXiv preprint arXiv:2305.14908",
+   "year": "2023"
+  },
+  {
+   "title": "Kermit: Generative insertion-based modeling for sequences",
+   "authors": "W Chan, N Kitaev, K Guu, M Stern, J Uszkoreit",
+   "venue": "arXiv preprint arXiv:1906.01604",
+   "year": "2019"
+  },
+  {
+   "title": "Mapping natural language commands to web elements",
+   "authors": "P Pasupat, TS Jiang, E Liu, K Guu, P Liang",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Simfluence: Modeling the influence of individual training examples by simulating training runs",
+   "authors": "K Guu, A Webson, E Pavlick, L Dixon, I Tenney, T Bolukbasi",
+   "venue": "arXiv preprint arXiv:2303.08114",
+   "year": "2023"
+  },
+  {
+   "title": "Controllable semantic parsing via retrieval augmentation",
+   "authors": "P Pasupat, Y Zhang, K Guu",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Attributed text generation via post-hoc research and revision",
+   "authors": "L Gao, Z Dai, P Pasupat, A Chen, AT Chaganty, Y Fan, VY Zhao, N Lao, ...",
+   "venue": "arXiv preprint arXiv:2210.08726",
+   "year": "2022"
+  },
+  {
+   "title": "Meta-learning fast weight language models",
+   "authors": "K Clark, K Guu, MW Chang, P Pasupat, G Hinton, M Norouzi",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Bayesian multiscale modeling of closed curves in point clouds",
+   "authors": "K Gu, D Pati, DB Dunson",
+   "venue": "Journal of the American Statistical Association 109 (508), 1481-1494",
+   "year": "2014"
+  },
+  {
+   "title": "Towards physician-centered oversight of conversational diagnostic AI",
+   "authors": "E Vedadi, D Barrett, N Harris, E Wulczyn, S Reddy, R Ruparel, ...",
+   "venue": "arXiv preprint arXiv:2507.15743",
+   "year": "2025"
+  },
+  {
+   "title": "Few-shot recalibration of language models",
+   "authors": "XL Li, U Khandelwal, K Guu",
+   "venue": "arXiv preprint arXiv:2403.18286",
+   "year": "2024"
+  },
+  {
+   "title": "Learning abstract models for strategic exploration and fast reward transfer",
+   "authors": "EZ Liu, R Keramati, S Seshadri, K Guu, P Pasupat, E Brunskill, P Liang",
+   "venue": "arXiv preprint arXiv:2007.05896",
+   "year": "2020"
+  },
+  {
+   "title": "LOFT: Scalable and more realistic long-context evaluation",
+   "authors": "J Lee, A Chen, Z Dai, D Dua, DS Sachan, M Boratko, Y Luan, S Arnold, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 6713-6738",
+   "year": "2025"
+  },
+  {
+   "title": "Can Long-Context Language Models Subsume Retrieval, SQL, and More?",
+   "authors": "J Lee, A Chen, Z Dai, D Dua, DS Sachan, M Boratko, Y Luan, S Arnold, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Dialog Inpainting: Turning Documents into Dialogs",
+   "authors": "A Amini, AT Chaganty, K Guu, M Green, QM Rashid, V Zhao, Z Dai",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Unlocking Compositional Generalization in Pre-trained ModelsUsing Intermediate Representations",
+   "authors": "I Pasupat, J Herzig, K Guu, MW Chang, P Shaw, Y Zhang",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Calibrated on Average, but not Within Each Slice: Few-shot Calibration for All Slices of a Distribution",
+   "authors": "XL Li, U Khandelwal, K Guu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Hierarchy-Driven Exploration for Reinforcement Learning",
+   "authors": "EZ Liu, R Keramati, S Seshadri, K Guu, P Pasupat, E Brunskill, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Cell Segmentation via Shape Modeling",
+   "authors": "K Gu, M Mayhew, A Hartemink",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

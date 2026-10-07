@@ -1,0 +1,323 @@
+{
+ "user": "bCwtPMUAAAAJ",
+ "pubs": [
+  {
+   "title": "The diversity–innovation paradox in science",
+   "authors": "B Hofstra, VV Kulkarni, S Munoz-Najar Galvez, B He, D Jurafsky, ...",
+   "venue": "Proceedings of the National Academy of Sciences 117 (17), 9284-9291",
+   "year": "2020"
+  },
+  {
+   "title": "Theano: A Python framework for fast computation of mathematical expressions",
+   "authors": "TTD Team, R Al-Rfou, G Alain, A Almahairi, C Angermueller, D Bahdanau, ...",
+   "venue": "arXiv preprint arXiv:1605.02688",
+   "year": "2016"
+  },
+  {
+   "title": "Statistically significant detection of linguistic change",
+   "authors": "V Kulkarni, R Al-Rfou, B Perozzi, S Skiena",
+   "venue": "Proceedings of the 24th international conference on world wide web, 625-635",
+   "year": "2015"
+  },
+  {
+   "title": "Hate Lingo: A Target-based Linguistic Analysis of Hate Speech in Social Media",
+   "authors": "M ElSherief, V Kulkarni, D Nguyen, WY Wang, E Belding",
+   "venue": "ICWSM 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Don't walk, skip! online learning of multi-scale network embeddings",
+   "authors": "B Perozzi, V Kulkarni, H Chen, S Skiena",
+   "venue": "Proceedings of the 2017 IEEE/ACM international conference on advances in …",
+   "year": "2017"
+  },
+  {
+   "title": "A paper ceiling: Explaining the persistent underrepresentation of women in printed news",
+   "authors": "E Shor, A Van De Rijt, A Miltsov, V Kulkarni, S Skiena",
+   "venue": "American Sociological Review 80 (5), 960-984",
+   "year": "2015"
+  },
+  {
+   "title": "POLYGLOT-NER: Massive Multilingual Named Entity Recognition",
+   "authors": "R Al-Rfou, V Kulkarni, B Perozzi, S Skiena",
+   "venue": "Proceedings of the 2015 SIAM International Conference on Data Mining, 586-594",
+   "year": "2015"
+  },
+  {
+   "title": "TWEETQA: A social media focused question answering dataset",
+   "authors": "W Xiong, J Wu, H Wang, V Kulkarni, M Yu, S Chang, X Guo, WY Wang",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Multi-view Models for Political Ideology Detection of News Articles",
+   "authors": "V Kulkarni, J Ye, S Skiena, WY Wang",
+   "venue": "EMNLP 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Freshman or fresher? quantifying the geographic variation of internet language",
+   "authors": "V Kulkarni, B Perozzi, S Skiena",
+   "venue": "arXiv preprint arXiv:1510.06786",
+   "year": "2015"
+  },
+  {
+   "title": "Latent Human Traits in the Language of Social Media: An Open-Vocabulary Approach",
+   "authors": "V Kulkarni, ML Kern, D Stillwell, M Kosinski, S Matz, L Ungar, S Skiena, ...",
+   "venue": "PLOS One",
+   "year": "2018"
+  },
+  {
+   "title": "Human centered NLP with user-factor adaptation",
+   "authors": "V Lynn, Y Son, V Kulkarni, N Balasubramanian, HA Schwartz",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "To drop or not to drop: Robustness, consistency and differential privacy properties of dropout",
+   "authors": "P Jain, V Kulkarni, A Thakurta, O Williams",
+   "venue": "arXiv preprint arXiv:1503.02031",
+   "year": "2015"
+  },
+  {
+   "title": "Dolores: deep contextualized knowledge graph embeddings",
+   "authors": "H Wang, V Kulkarni, WY Wang",
+   "venue": "arXiv preprint arXiv:1811.00147",
+   "year": "2018"
+  },
+  {
+   "title": "Simple models for word formation in slang",
+   "authors": "V Kulkarni, WY Wang",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.",
+   "authors": "P Shukla, C Elmadjian, R Sharan, V Kulkarni, M Turk, WY Wang",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Personalized text generation with fine-grained linguistic control",
+   "authors": "B Alhafni, V Kulkarni, D Kumar, V Raheja",
+   "venue": "Proceedings of the 1st Workshop on Personalization of Generative AI Systems …",
+   "year": "2024"
+  },
+  {
+   "title": "TopicBERT for energy efficient document classification",
+   "authors": "Y Chaudhary, P Gupta, K Saxena, V Kulkarni, T Runkler, H Schütze",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 1682-1690",
+   "year": "2020"
+  },
+  {
+   "title": "Multilabel learning via supervised joint embedding of documents and labels",
+   "authors": "A Soni, Y Mehdad, A Pappu, V Kulkarni, S Chen",
+   "venue": "US Patent 10,552,501",
+   "year": "2020"
+  },
+  {
+   "title": "SOCIALITE-LLAMA: An instruction-tuned model for social scientific tasks",
+   "authors": "G Dey, AV Ganesan, YK Lal, M Shah, S Sinha, M Matero, S Giorgi, ...",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Spivavtor: An instruction tuned Ukrainian text editing model",
+   "authors": "A Saini, A Chernodub, V Raheja, V Kulkarni",
+   "venue": "Proceedings of the Third Ukrainian Natural Language Processing Workshop …",
+   "year": "2024"
+  },
+  {
+   "title": "Exploring patterns of stability and change in caregivers' word usage across early childhood",
+   "authors": "H Jiang, MC Frank, V Kulkarni, A Fourtassi",
+   "venue": "Cognitive Science 46 (7), e13177",
+   "year": "2022"
+  },
+  {
+   "title": "Inducing Language Networks from Continuous Space Word Representations",
+   "authors": "SS Bryan Perozzi, Rami Al-Rfou’, Vivek Kulkarni",
+   "venue": "Complex Net V 549, 261-273",
+   "year": "2014"
+  },
+  {
+   "title": "mEdIT: Multilingual text editing via instruction tuning",
+   "authors": "V Raheja, D Alikaniotis, V Kulkarni, B Alhafni, D Kumar",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Women who break the glass ceiling get a “paper cut”: Gender, fame, and media sentiment",
+   "authors": "E Shor, A Van de Rijt, V Kulkarni",
+   "venue": "Social Problems 71 (2), 509-530",
+   "year": "2024"
+  },
+  {
+   "title": "LMSOC: An approach for socially sensitive pretraining",
+   "authors": "V Kulkarni, S Mishra, A Haghighi",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 2967-2975",
+   "year": "2021"
+  },
+  {
+   "title": "Domain adaptation for named entity recognition in online media with word embeddings",
+   "authors": "V Kulkarni, Y Mehdad, T Chevalier",
+   "venue": "arXiv preprint arXiv:1612.00148",
+   "year": "2016"
+  },
+  {
+   "title": "Tfw, damngina, juvie, and hotsie-totsie: On the linguistic and social aspects of internet slang",
+   "authors": "V Kulkarni, WY Wang",
+   "venue": "arXiv preprint arXiv:1712.08291",
+   "year": "2017"
+  },
+  {
+   "title": "On the distribution of lexical features in social media",
+   "authors": "F Almodaresi, L Ungar, V Kulkarni, M Zakeri, S Giorgi, HA Schwartz",
+   "venue": "Annual Meeting of the Association for Computational Linguistics",
+   "year": "2017"
+  },
+  {
+   "title": "NTULM: Enriching social media text representations with non-textual units",
+   "authors": "J Li, S Mishra, A El-Kishky, S Mehta, V Kulkarni",
+   "venue": "Proceedings of the Eighth Workshop on Noisy User-generated Text (W-NUT 2022 …",
+   "year": "2022"
+  },
+  {
+   "title": "Simple neologism based domain independent models to predict year of authorship",
+   "authors": "V Kulkarni, Y Tian, P Dandiwala, S Skiena",
+   "venue": "Proceedings of the 27th International Conference on Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Citation histories of papers: sometimes the rich get richer, sometimes they don't",
+   "authors": "MJ Hazoglu, V Kulkarni, SS Skiena, KA Dill",
+   "venue": "arXiv preprint arXiv:1703.04746",
+   "year": "2017"
+  },
+  {
+   "title": "Sex differences in the human connectome",
+   "authors": "V Kulkarni, JS Pudipeddi, L Akoglu, JT Vogelstein, RJ Vogelstein, ...",
+   "venue": "International conference on brain and health informatics, 82-91",
+   "year": "2013"
+  },
+  {
+   "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
+   "authors": "T Yang, S Paul, V Srinivasan, V Kulkarni, S Chappidi",
+   "venue": "arXiv preprint arXiv:2606.25161",
+   "year": "2026"
+  },
+  {
+   "title": "Writing assistants should model social factors of language",
+   "authors": "V Kulkarni, V Raheja",
+   "venue": "arXiv preprint arXiv:2303.16275",
+   "year": "2023"
+  },
+  {
+   "title": "CTM-a model for large-scale multi-view tweet topic classification",
+   "authors": "V Kulkarni, K Leung, A Haghighi",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "On the convergent properties of word embedding methods",
+   "authors": "Y Tian, V Kulkarni, B Perozzi, S Skiena",
+   "venue": "arXiv preprint arXiv:1605.03956",
+   "year": "2016"
+  },
+  {
+   "title": "APIO: Automatic prompt induction and optimization for grammatical error correction and text simplification",
+   "authors": "A Chernodub, A Saini, Y Huh, V Kulkarni, V Raheja",
+   "venue": "Proceedings of the 15th International Conference on Recent Advances in …",
+   "year": "2025"
+  },
+  {
+   "title": "What should I ask? Using conversationally informative rewards for goal-oriented visual dialogue",
+   "authors": "P Shuklar, C Elmadjian, R Sharan, V Kulkarni, WY Wang, M Turk",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Latent Personal Memory: Represent personal memory as dynamic soft prompts",
+   "authors": "D Das, A Amballa, YM Saidutta, V Srinivasan, V Kulkarni, S Chappidi",
+   "venue": "arXiv preprint arXiv:2606.20911",
+   "year": "2026"
+  },
+  {
+   "title": "From sunblock to softblock: Analyzing the correlates of neology in published writing and on social media",
+   "authors": "M Ryskina, MR Gormley, K Mahowald, DR Mortensen, T Berg-Kirkpatrick, ...",
+   "venue": "The Proceedings for the 6th International Workshop on Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "DialectGram: Detecting Dialectal Variation at Multiple Geographic Resolutions",
+   "authors": "H Jiang, H Hong, Y Chen, V Kulkarni",
+   "venue": "arXiv preprint arXiv:1910.01818",
+   "year": "2019"
+  },
+  {
+   "title": "Statistical models for linguistic variation in online media",
+   "authors": "V Kulkarni",
+   "venue": "State University of New York at Stony Brook",
+   "year": "2017"
+  },
+  {
+   "title": "Exploring the power of GPU’s for training Deep Belief Networks",
+   "authors": "V Kulkarni",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Twice-Twitter Content Embeddings.",
+   "authors": "X Liu, B Golshan, K Leung, A Saini, V Kulkarni, A Mollahosseini, J Mo",
+   "venue": "DL4SR@ CIKM",
+   "year": "2022"
+  },
+  {
+   "title": "Mohone: Modeling higher order network effects in knowledgegraphs via network infused embeddings",
+   "authors": "H Yu, V Kulkarni, W Wang",
+   "venue": "arXiv preprint arXiv:1811.00198",
+   "year": "2018"
+  },
+  {
+   "title": "Looking Back: Alan Turing-The Father of Computer Science",
+   "authors": "V Kulkarni",
+   "venue": "CSI Communications, India",
+   "year": "2015"
+  },
+  {
+   "title": "VOYAGER: A Training Free Approach for Generating Diverse Datasets using LLMs",
+   "authors": "A Amballa, YM Saidutta, CH Lin, V Kulkarni, S Chappidi",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Automatic code generation from informal specifications of text editing and grammar correction guidelines",
+   "authors": "D Kumar, V Raheja, V Kulkarni, D Alikaniotis",
+   "venue": "US Patent App. 18/587,303",
+   "year": "2025"
+  },
+  {
+   "title": "Conforming digital documents to style guides",
+   "authors": "V Kulkarni, C Leacock, D Alikaniotis, M Gubin",
+   "venue": "US Patent App. 18/977,100",
+   "year": "2025"
+  },
+  {
+   "title": "Supervised machine learning for the detection of troll profiles in twitter social network: Application to a real case of cyberbullying",
+   "authors": "C Llewellyn, L Cram, A Favero, RL Hill, A Grover, J Leskovec, J Devlin, ...",
+   "venue": "Logic Journal of the IGPL 26, 187-205",
+   "year": "2019"
+  },
+  {
+   "title": "Statistical Models for Linguistic Variation in Social Media",
+   "authors": "V Kulkarni",
+   "venue": "Stony Brook University",
+   "year": "2016"
+  },
+  {
+   "title": "Multilingual Named Entity Recognition",
+   "authors": "VV Kulkarni",
+   "venue": "The Graduate School, Stony Brook University: Stony Brook, NY.",
+   "year": "2014"
+  }
+ ]
+}

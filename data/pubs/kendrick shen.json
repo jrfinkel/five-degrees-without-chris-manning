@@ -1,0 +1,35 @@
+{
+ "user": "cZneVpUAAAAJ",
+ "pubs": [
+  {
+   "title": "Theoretical analysis of self-training with deep networks on unlabeled data",
+   "authors": "C Wei, K Shen, Y Chen, T Ma",
+   "venue": "arXiv preprint arXiv:2010.03622",
+   "year": "2020"
+  },
+  {
+   "title": "Extending the wilds benchmark for unsupervised adaptation",
+   "authors": "S Sagawa, PW Koh, T Lee, I Gao, SM Xie, K Shen, A Kumar, W Hu, ...",
+   "venue": "arXiv preprint arXiv:2112.05090",
+   "year": "2021"
+  },
+  {
+   "title": "Connect, not collapse: Explaining contrastive learning for unsupervised domain adaptation",
+   "authors": "K Shen, RM Jones, A Kumar, SM Xie, JZ HaoChen, T Ma, P Liang",
+   "venue": "International conference on machine learning, 19847-19878",
+   "year": "2022"
+  },
+  {
+   "title": "Theoretical analysis of self-training with deep networks on unlabeled data, 2020",
+   "authors": "C Wei, K Shen, Y Chen, T Ma",
+   "venue": "URL https://openreview. net/forum",
+   "year": "2010"
+  },
+  {
+   "title": "Extending the WILDS Benchmark for Unsupervised Adaptation",
+   "authors": "T Lee, I Gao, SM Xie, K Shen, A Kumar, W Hu, M Yasunaga, H Marklund, ...",
+   "venue": "arXiv preprint arXiv:2112.05090",
+   "year": "2021"
+  }
+ ]
+}

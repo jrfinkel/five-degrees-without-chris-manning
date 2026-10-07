@@ -1,0 +1,125 @@
+{
+ "user": "AGZ7icsAAAAJ",
+ "pubs": [
+  {
+   "title": "Answering open-domain questions of varying reasoning steps from text",
+   "authors": "P Qi, H Lee, O Sido, CD Manning",
+   "venue": "EMNLP2021",
+   "year": "2020"
+  },
+  {
+   "title": "Quote recommendation in dialogue using deep neural network",
+   "authors": "H Lee, Y Ahn, H Lee, S Ha, S Lee",
+   "venue": "Proceedings of the 39th International ACM SIGIR conference on Research and …",
+   "year": "2016"
+  },
+  {
+   "title": "SLM: Learning a discourse language representation with sentence unshuffling",
+   "authors": "H Lee, DA Hudson, K Lee, CD Manning",
+   "venue": "EMNLP2020",
+   "year": "2020"
+  },
+  {
+   "title": "A multi-stage memory augmented neural network for machine reading comprehension",
+   "authors": "S Yu, SR Indurthi, S Back, H Lee",
+   "venue": "Proceedings of the workshop on machine reading for question answering, 21-30",
+   "year": "2018"
+  },
+  {
+   "title": "On-device neural language model based word prediction",
+   "authors": "S Yu, N Kulkarni, H Lee, J Kim",
+   "venue": "Proceedings of the 27th international conference on computational …",
+   "year": "2018"
+  },
+  {
+   "title": "You only need one model for open-domain question answering",
+   "authors": "H Lee, A Kedia, J Lee, A Paranjape, CD Manning, KG Woo",
+   "venue": "EMNLP2022",
+   "year": "2021"
+  },
+  {
+   "title": "NeurQuRI: Neural question requirement inspector for answerability prediction in machine reading comprehension",
+   "authors": "S Back, SC Chinthakindi, A Kedia, H Lee, J Choo",
+   "venue": "International conference on learning representations",
+   "year": "2020"
+  },
+  {
+   "title": "FiE: Building a Global Probability Space by Leveraging Early Fusion in Encoder for Open-Domain Question Answering",
+   "authors": "A Kedia, MA Zaidi, H Lee",
+   "venue": "EMNLP2022",
+   "year": "2022"
+  },
+  {
+   "title": "Oghenetegiri” TG” Sido, and Christopher D",
+   "authors": "P Qi, H Lee",
+   "venue": "arXiv preprint arXiv:2010.12527",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to generate questions by learning to recover answer-containing sentences",
+   "authors": "S Back, A Kedia, SC Chinthakindi, H Lee, J Choo",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Sparse logit sampling: Accelerating knowledge distillation in LLMs",
+   "authors": "MA Zaidi, A Kedia, J Ahn, T Kwon, K Lee, H Lee, J Lee",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models",
+   "authors": "A Kedia, MA Zaidi, S Khyalia, J Jung, H Goka, H Lee",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Syllable-level neural language model for agglutinative language",
+   "authors": "S Yu, N Kulkarni, H Lee, J Kim",
+   "venue": "Proceedings of the First Workshop on Subword and Character Level Models in …",
+   "year": "2017"
+  },
+  {
+   "title": "A hop-by-hop reliability support scheme for wireless sensor networks",
+   "authors": "H Lee, Y Ko, D Lee",
+   "venue": "Fourth Annual IEEE International Conference on Pervasive Computing and …",
+   "year": "2006"
+  },
+  {
+   "title": "Electronic apparatus for compressing language model, electronic apparatus for providing recommendation word and operation methods thereof",
+   "authors": "YU Seung-Hak, N Kulkarni, S Hee-Jun, HJ Lee",
+   "venue": "US Patent 10,691,886",
+   "year": "2020"
+  },
+  {
+   "title": "Span-Selective Linear Attention Transformers for Effective and Robust Schema-Guided Dialogue State Tracking",
+   "authors": "B Bebensee, H Lee",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Method and apparatus for recommending word",
+   "authors": "HJ Lee, YU Seung-Hak",
+   "venue": "US Patent 10,846,477",
+   "year": "2020"
+  },
+  {
+   "title": "An embedded deep learning based word prediction",
+   "authors": "S Yu, N Kulkarni, H Lee, J Kim",
+   "venue": "arXiv preprint arXiv:1707.01662",
+   "year": "2017"
+  },
+  {
+   "title": "Method and apparatus for recommending word",
+   "authors": "HJ Lee, YU Seung-Hak",
+   "venue": "US Patent App. 17/099,831",
+   "year": "2021"
+  },
+  {
+   "title": "ASGen: Answer-containing Sentence Generation to Pre-Train Question Generator for Scale-up Data in Question Answering",
+   "authors": "A Kedia, SC Chinthakindi, S Back, H Lee, J Choo",
+   "venue": "",
+   "year": "2019"
+  }
+ ]
+}

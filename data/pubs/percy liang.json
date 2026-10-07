@@ -1,0 +1,3047 @@
+{
+ "user": "pouyVyUAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Squad: 100,000+ questions for machine comprehension of text",
+   "authors": "P Rajpurkar, J Zhang, K Lopyrev, P Liang",
+   "venue": "Proceedings of the 2016 conference on empirical methods in natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "Generative agents: Interactive simulacra of human behavior",
+   "authors": "JS Park, J O'Brien, CJ Cai, MR Morris, P Liang, MS Bernstein",
+   "venue": "Proceedings of the 36th annual acm symposium on user interface software and …",
+   "year": "2023"
+  },
+  {
+   "title": "Prefix-tuning: Optimizing continuous prompts for generation",
+   "authors": "XL Li, P Liang",
+   "venue": "Proceedings of the 59th annual meeting of the association for computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Lost in the middle: How language models use long contexts",
+   "authors": "NF Liu, K Lin, J Hewitt, A Paranjape, M Bevilacqua, F Petroni, P Liang",
+   "venue": "Transactions of the association for computational linguistics 12, 157-173",
+   "year": "2024"
+  },
+  {
+   "title": "Emergent abilities of large language models",
+   "authors": "J Wei",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding black-box predictions via influence functions",
+   "authors": "PW Koh, P Liang",
+   "venue": "International conference on machine learning, 1885-1894",
+   "year": "2017"
+  },
+  {
+   "title": "Openvla: An open-source vision-language-action model",
+   "authors": "MJ Kim, K Pertsch, S Karamcheti, T Xiao, A Balakrishna, S Nair, ...",
+   "venue": "arXiv preprint arXiv:2406.09246",
+   "year": "2024"
+  },
+  {
+   "title": "Know what you don’t know: Unanswerable questions for SQuAD",
+   "authors": "P Rajpurkar, R Jia, P Liang",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Stanford alpaca: An instruction-following llama model",
+   "authors": "R Taori, I Gulrajani, T Zhang, Y Dubois, X Li, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization",
+   "authors": "S Sagawa, PW Koh, TB Hashimoto, P Liang",
+   "venue": "arXiv preprint arXiv:1911.08731",
+   "year": "2019"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Semantic parsing on freebase from question-answer pairs",
+   "authors": "J Berant, A Chou, R Frostig, P Liang",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Wilds: A benchmark of in-the-wild distribution shifts",
+   "authors": "PW Koh, S Sagawa, H Marklund, SM Xie, M Zhang, A Balsubramani, ...",
+   "venue": "International conference on machine learning, 5637-5664",
+   "year": "2021"
+  },
+  {
+   "title": "Strategies for pre-training graph neural networks",
+   "authors": "W Hu, B Liu, J Gomes, M Zitnik, P Liang, V Pande, J Leskovec",
+   "venue": "arXiv preprint arXiv:1905.12265",
+   "year": "2019"
+  },
+  {
+   "title": "Concept bottleneck models",
+   "authors": "PW Koh, T Nguyen, YS Tang, S Mussmann, E Pierson, B Kim, P Liang",
+   "venue": "International conference on machine learning, 5338-5348",
+   "year": "2020"
+  },
+  {
+   "title": "Adversarial examples for evaluating reading comprehension systems",
+   "authors": "R Jia, P Liang",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "s1: Simple test-time scaling",
+   "authors": "N Muennighoff, Z Yang, W Shi, XL Li, L Fei-Fei, H Hajishirzi, L Zettlemoyer, ...",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Diffusion-lm improves controllable text generation",
+   "authors": "X Li, J Thickstun, I Gulrajani, PS Liang, TB Hashimoto",
+   "venue": "Advances in neural information processing systems 35, 4328-4343",
+   "year": "2022"
+  },
+  {
+   "title": "An explanation of in-context learning as implicit bayesian inference",
+   "authors": "SM Xie, A Raghunathan, P Liang, T Ma",
+   "venue": "arXiv preprint arXiv:2111.02080",
+   "year": "2021"
+  },
+  {
+   "title": "Whose opinions do language models reflect?",
+   "authors": "S Santurkar, E Durmus, F Ladhak, C Lee, P Liang, T Hashimoto",
+   "venue": "International conference on machine learning, 29971-30004",
+   "year": "2023"
+  },
+  {
+   "title": "Fine-tuning can distort pretrained features and underperform out-of-distribution",
+   "authors": "A Kumar, A Raghunathan, R Jones, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2202.10054",
+   "year": "2022"
+  },
+  {
+   "title": "Certified defenses for data poisoning attacks",
+   "authors": "J Steinhardt, PWW Koh, PS Liang",
+   "venue": "Advances in neural information processing systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "Certified defenses against adversarial examples",
+   "authors": "A Raghunathan, J Steinhardt, P Liang",
+   "venue": "arXiv preprint arXiv:1801.09344",
+   "year": "2018"
+  },
+  {
+   "title": "Compositional semantic parsing on semi-structured tables",
+   "authors": "P Pasupat, P Liang",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Flexgen: High-throughput generative inference of large language models with a single gpu",
+   "authors": "Y Sheng, L Zheng, B Yuan, Z Li, M Ryabinin, B Chen, P Liang, C Ré, ...",
+   "venue": "International Conference on Machine Learning, 31094-31116",
+   "year": "2023"
+  },
+  {
+   "title": "Alpacaeval: An automatic evaluator of instruction-following models",
+   "authors": "X Li, T Zhang, Y Dubois, R Taori, I Gulrajani, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "QuAC: Question answering in context",
+   "authors": "E Choi, H He, M Iyyer, M Yatskar, W Yih, Y Choi, P Liang, L Zettlemoyer",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Length-controlled alpacaeval: A simple way to debias automatic evaluators",
+   "authors": "Y Dubois, B Galambosi, P Liang, TB Hashimoto",
+   "venue": "arXiv preprint arXiv:2404.04475",
+   "year": "2024"
+  },
+  {
+   "title": "QA-GNN: Reasoning with language models and knowledge graphs for question answering",
+   "authors": "M Yasunaga, H Ren, A Bosselut, P Liang, J Leskovec",
+   "venue": "Proceedings of the 2021 conference of the North American chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Benchmarking large language models for news summarization",
+   "authors": "T Zhang, F Ladhak, E Durmus, P Liang, K McKeown, TB Hashimoto",
+   "venue": "Transactions of the Association for Computational Linguistics 12, 39-57",
+   "year": "2024"
+  },
+  {
+   "title": "Alpaca: A strong, replicable instruction-following model",
+   "authors": "R Taori, I Gulrajani, T Zhang, Y Dubois, X Li, C Guestrin, P Liang, ...",
+   "venue": "Stanford Center for Research on Foundation Models. https://crfm. stanford …",
+   "year": "2023"
+  },
+  {
+   "title": "What can transformers learn in-context? a case study of simple function classes",
+   "authors": "S Garg, D Tsipras, PS Liang, G Valiant",
+   "venue": "Advances in neural information processing systems 35, 30583-30598",
+   "year": "2022"
+  },
+  {
+   "title": "Designing and interpreting probes with control tasks",
+   "authors": "J Hewitt, P Liang",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Alpacafarm: A simulation framework for methods that learn from human feedback",
+   "authors": "Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 30039-30069",
+   "year": "2023"
+  },
+  {
+   "title": "Unlabeled data improves adversarial robustness",
+   "authors": "Y Carmon, A Raghunathan, L Schmidt, JC Duchi, PS Liang",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Fairness without demographics in repeated loss minimization",
+   "authors": "T Hashimoto, M Srivastava, H Namkoong, P Liang",
+   "venue": "International conference on machine learning, 1929-1938",
+   "year": "2018"
+  },
+  {
+   "title": "Fine-tuning vision-language-action models: Optimizing speed and success",
+   "authors": "MJ Kim, C Finn, P Liang",
+   "venue": "arXiv preprint arXiv:2502.19645",
+   "year": "2025"
+  },
+  {
+   "title": "Dropout training as adaptive regularization",
+   "authors": "S Wager, S Wang, PS Liang",
+   "venue": "Advances in neural information processing systems 26",
+   "year": "2013"
+  },
+  {
+   "title": "Just train twice: Improving group robustness without training group information",
+   "authors": "EZ Liu, B Haghgoo, AS Chen, A Raghunathan, PW Koh, S Sagawa, ...",
+   "venue": "International conference on machine learning, 6781-6792",
+   "year": "2021"
+  },
+  {
+   "title": "Contrastive decoding: Open-ended text generation as optimization",
+   "authors": "XL Li, A Holtzman, D Fried, P Liang, J Eisner, TB Hashimoto, ...",
+   "venue": "Proceedings of the 61st annual meeting of the association for computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Coauthor: Designing a human-ai collaborative writing dataset for exploring language model capabilities",
+   "authors": "M Lee, P Liang, Q Yang",
+   "venue": "Proceedings of the 2022 CHI conference on human factors in computing systems …",
+   "year": "2022"
+  },
+  {
+   "title": "Advances in neural information processing systems",
+   "authors": "M Mozer, P Smolensky, D Touretzky",
+   "venue": "",
+   "year": "1989"
+  },
+  {
+   "title": "Learning dependency-based compositional semantics",
+   "authors": "P Liang, MI Jordan, D Klein",
+   "venue": "Computational Linguistics 39 (2), 389-446",
+   "year": "2013"
+  },
+  {
+   "title": "Delete, retrieve, generate: a simple approach to sentiment and style transfer",
+   "authors": "J Li, R Jia, H He, P Liang",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Semantic parsing via paraphrasing",
+   "authors": "J Berant, P Liang",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Learning a SAT solver from single-bit supervision",
+   "authors": "D Selsam, M Lamm, B Bünz, P Liang, L de Moura, DL Dill",
+   "venue": "arXiv preprint arXiv:1802.03685",
+   "year": "2018"
+  },
+  {
+   "title": "Large language models can be strong differentially private learners",
+   "authors": "X Li, F Tramer, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2110.05679",
+   "year": "2021"
+  },
+  {
+   "title": "Linkbert: Pretraining language models with document links",
+   "authors": "M Yasunaga, J Leskovec, P Liang",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Verified uncertainty calibration",
+   "authors": "A Kumar, PS Liang, T Ma",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Social simulacra: Creating populated prototypes for social computing systems",
+   "authors": "JS Park, L Popowski, C Cai, MR Morris, P Liang, MS Bernstein",
+   "venue": "Proceedings of the 35th annual ACM symposium on user interface software and …",
+   "year": "2022"
+  },
+  {
+   "title": "Generative agent simulations of 1,000 people",
+   "authors": "JS Park, CQ Zou, A Shaw, BM Hill, C Cai, MR Morris, R Willer, P Liang, ...",
+   "venue": "arXiv preprint arXiv:2411.10109 52",
+   "year": "2024"
+  },
+  {
+   "title": "Selection via proxy: Efficient data selection for deep learning",
+   "authors": "C Coleman, C Yeh, S Mussmann, B Mirzasoleiman, P Bailis, P Liang, ...",
+   "venue": "arXiv preprint arXiv:1906.11829",
+   "year": "2019"
+  },
+  {
+   "title": "Alignment by agreement",
+   "authors": "P Liang, B Taskar, D Klein",
+   "venue": "Proceedings of the Human Language Technology Conference of the NAACL, Main …",
+   "year": "2006"
+  },
+  {
+   "title": "Semidefinite relaxations for certifying robustness to adversarial examples",
+   "authors": "A Raghunathan, J Steinhardt, PS Liang",
+   "venue": "Advances in neural information processing systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Data recombination for neural semantic parsing",
+   "authors": "R Jia, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "An investigation of why overparameterization exacerbates spurious correlations",
+   "authors": "S Sagawa, A Raghunathan, PW Koh, P Liang",
+   "venue": "International conference on machine learning, 8346-8356",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluating verifiability in generative search engines",
+   "authors": "NF Liu, T Zhang, P Liang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 7001-7025",
+   "year": "2023"
+  },
+  {
+   "title": "Doremi: Optimizing data mixtures speeds up language model pretraining",
+   "authors": "SM Xie, H Pham, X Dong, N Du, H Liu, Y Lu, PS Liang, QV Le, T Ma, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 69798-69818",
+   "year": "2023"
+  },
+  {
+   "title": "Greaselm: Graph reasoning enhanced language models for question answering",
+   "authors": "X Zhang, A Bosselut, M Yasunaga, H Ren, P Liang, CD Manning, ...",
+   "venue": "arXiv preprint arXiv:2201.08860",
+   "year": "2022"
+  },
+  {
+   "title": "Mlagentbench: Evaluating language agents on machine learning experimentation",
+   "authors": "Q Huang, J Vora, P Liang, J Leskovec",
+   "venue": "arXiv preprint arXiv:2310.03302",
+   "year": "2023"
+  },
+  {
+   "title": "Accuracy on the line: on the strong correlation between out-of-distribution and in-distribution generalization",
+   "authors": "JP Miller, R Taori, A Raghunathan, S Sagawa, PW Koh, V Shankar, ...",
+   "venue": "International conference on machine learning, 7721-7735",
+   "year": "2021"
+  },
+  {
+   "title": "Demonstrate-search-predict: Composing retrieval and language models for knowledge-intensive nlp",
+   "authors": "O Khattab, K Santhanam, XL Li, D Hall, P Liang, C Potts, M Zaharia",
+   "venue": "arXiv preprint arXiv:2212.14024",
+   "year": "2022"
+  },
+  {
+   "title": "Semi-supervised learning for natural language",
+   "authors": "P Liang",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2005"
+  },
+  {
+   "title": "Traversing knowledge graphs in vector space",
+   "authors": "K Guu, J Miller, P Liang",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Robust distortion-free watermarks for language models",
+   "authors": "R Kuditipudi, J Thickstun, T Hashimoto, P Liang",
+   "venue": "arXiv preprint arXiv:2307.15593",
+   "year": "2023"
+  },
+  {
+   "title": "Building a semantic parser overnight",
+   "authors": "Y Wang, J Berant, P Liang",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Beyond iid: three levels of generalization for question answering on knowledge bases",
+   "authors": "Y Gu, S Kase, M Vanni, B Sadler, P Liang, X Yan, Y Su",
+   "venue": "Proceedings of the web conference 2021, 3477-3488",
+   "year": "2021"
+  },
+  {
+   "title": "Prismatic vlms: Investigating the design space of visually-conditioned language models",
+   "authors": "S Karamcheti, S Nair, A Balakrishna, P Liang, T Kollar, D Sadigh",
+   "venue": "arXiv preprint arXiv:2402.07865",
+   "year": "2024"
+  },
+  {
+   "title": "Data selection for language models via importance resampling",
+   "authors": "SM Xie, S Santurkar, T Ma, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 36, 34201-34227",
+   "year": "2023"
+  },
+  {
+   "title": "Reinforcement learning on web interfaces using workflow-guided exploration",
+   "authors": "EZ Liu, K Guu, P Pasupat, T Shi, P Liang",
+   "venue": "arXiv preprint arXiv:1802.08802",
+   "year": "2018"
+  },
+  {
+   "title": "World of bits: An open-domain platform for web-based agents",
+   "authors": "T Shi, A Karpathy, L Fan, J Hernandez, P Liang",
+   "venue": "International Conference on Machine Learning, 3135-3144",
+   "year": "2017"
+  },
+  {
+   "title": "Sophia: A scalable stochastic second-order optimizer for language model pre-training",
+   "authors": "H Liu, Z Li, D Hall, P Liang, T Ma",
+   "venue": "International conference on learning representations 2024, 1621-1650",
+   "year": "2024"
+  },
+  {
+   "title": "Deep bidirectional language-knowledge graph pretraining",
+   "authors": "M Yasunaga, A Bosselut, H Ren, X Zhang, CD Manning, PS Liang, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 37309-37323",
+   "year": "2022"
+  },
+  {
+   "title": "Certified robustness to adversarial word substitutions",
+   "authors": "R Jia, A Raghunathan, K Göksel, P Liang",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Spoc: Search-based pseudocode to code",
+   "authors": "S Kulal, P Pasupat, K Chandra, M Lee, O Padon, A Aiken, PS Liang",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Generating sentences by editing prototypes",
+   "authors": "K Guu, TB Hashimoto, Y Oren, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 437-450",
+   "year": "2018"
+  },
+  {
+   "title": "Learning bilingual lexicons from monolingual corpora",
+   "authors": "A Haghighi, P Liang, T Berg-Kirkpatrick, D Klein",
+   "venue": "Proceedings of ACL-08: Hlt, 771-779",
+   "year": "2008"
+  },
+  {
+   "title": "Learning semantic correspondences with less supervision",
+   "authors": "P Liang, MI Jordan, D Klein",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Stronger data poisoning attacks break data sanitization defenses",
+   "authors": "PW Koh, J Steinhardt, P Liang",
+   "venue": "Machine Learning 111 (1), 1-47",
+   "year": "2022"
+  },
+  {
+   "title": "Surgical fine-tuning improves adaptation to distribution shifts",
+   "authors": "Y Lee, AS Chen, F Tajwar, A Kumar, H Yao, P Liang, C Finn",
+   "venue": "arXiv preprint arXiv:2210.11466",
+   "year": "2022"
+  },
+  {
+   "title": "Redpajama: an open dataset for training large language models",
+   "authors": "M Weber, DY Fu, Q Anthony, Y Oren, S Adams, A Alexandrov, X Lyu, ...",
+   "venue": "Advances in neural information processing systems 37, 116462-116492",
+   "year": "2024"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "R Bommasani, P Liang, T Lee",
+   "venue": "Annals of the New York Academy of Sciences 1525 (1), 140-146",
+   "year": "2023"
+  },
+  {
+   "title": "Understanding self-training for gradual domain adaptation",
+   "authors": "A Kumar, T Ma, P Liang",
+   "venue": "International conference on machine learning, 5468-5479",
+   "year": "2020"
+  },
+  {
+   "title": "Adversarial training can hurt generalization",
+   "authors": "A Raghunathan, SM Xie, F Yang, JC Duchi, P Liang",
+   "venue": "arXiv preprint arXiv:1906.06032",
+   "year": "2019"
+  },
+  {
+   "title": "An end-to-end discriminative approach to machine translation",
+   "authors": "P Liang, A Bouchard-Côté, D Klein, B Taskar",
+   "venue": "Proceedings of the 21st International Conference on Computational …",
+   "year": "2006"
+  },
+  {
+   "title": "Selective question answering under domain shift",
+   "authors": "A Kamath, R Jia, P Liang",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Understanding and mitigating the tradeoff between robustness and accuracy",
+   "authors": "A Raghunathan, SM Xie, F Yang, J Duchi, P Liang",
+   "venue": "arXiv preprint arXiv:2002.10716",
+   "year": "2020"
+  },
+  {
+   "title": "Retrieval-augmented multimodal language modeling",
+   "authors": "M Yasunaga, A Aghajanyan, W Shi, R James, J Leskovec, P Liang, ...",
+   "venue": "arXiv preprint arXiv:2211.12561",
+   "year": "2022"
+  },
+  {
+   "title": "Foundation models and fair use",
+   "authors": "P Henderson, X Li, D Jurafsky, T Hashimoto, MA Lemley, P Liang",
+   "venue": "Journal of Machine Learning Research 24 (400), 1-79",
+   "year": "2023"
+  },
+  {
+   "title": "On the accuracy of influence functions for measuring group effects",
+   "authors": "PWW Koh, KS Ang, H Teo, PS Liang",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Unifying human and statistical evaluation for natural language generation",
+   "authors": "TB Hashimoto, H Zhang, P Liang",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Holistic evaluation of text-to-image models",
+   "authors": "T Lee, M Yasunaga, C Meng, Y Mai, JS Park, A Gupta, Y Zhang, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 69981-70011",
+   "year": "2023"
+  },
+  {
+   "title": "Cybench: A framework for evaluating cybersecurity capabilities and risks of language models",
+   "authors": "AK Zhang, N Perry, R Dulepet, J Ji, C Menders, JW Lin, E Jones, ...",
+   "venue": "arXiv preprint arXiv:2408.08926 40",
+   "year": "2024"
+  },
+  {
+   "title": "Decoupling strategy and generation in negotiation dialogues",
+   "authors": "H He, D Chen, A Balakrishnan, P Liang",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Stanford alpaca: an instruction-following llama model (2023)",
+   "authors": "R Taori, I Gulrajani, T Zhang, Y Dubois, X Li, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Embodied agent interface: Benchmarking llms for embodied decision making",
+   "authors": "M Li, S Zhao, Q Wang, K Wang, Y Zhou, S Srivastava, C Gokmen, T Lee, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 100428-100534",
+   "year": "2024"
+  },
+  {
+   "title": "Learning symmetric collaborative dialogue agents with dynamic knowledge graph embeddings",
+   "authors": "H He, A Balakrishnan, M Eric, P Liang",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Online EM for unsupervised models",
+   "authors": "P Liang, D Klein",
+   "venue": "Proceedings of human language technologies: The 2009 annual conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Cosmos policy: Fine-tuning video models for visuomotor control and planning",
+   "authors": "MJ Kim, Y Gao, TY Lin, YC Lin, Y Ge, G Lam, P Liang, S Song, MY Liu, ...",
+   "venue": "arXiv preprint arXiv:2601.16163",
+   "year": "2026"
+  },
+  {
+   "title": "A hitting time analysis of stochastic gradient langevin dynamics",
+   "authors": "Y Zhang, P Liang, M Charikar",
+   "venue": "Conference on Learning Theory, 1980-2022",
+   "year": "2017"
+  },
+  {
+   "title": "Synthesizing program input grammars",
+   "authors": "O Bastani, R Sharma, A Aiken, P Liang",
+   "venue": "ACM SIGPLAN Notices 52 (6), 95-110",
+   "year": "2017"
+  },
+  {
+   "title": "Picking on the same person: Does algorithmic monoculture lead to outcome homogenization?",
+   "authors": "R Bommasani, KA Creel, A Kumar, D Jurafsky, PS Liang",
+   "venue": "Advances in neural information processing systems 35, 3663-3678",
+   "year": "2022"
+  },
+  {
+   "title": "Language-driven representation learning for robotics",
+   "authors": "S Karamcheti, S Nair, AS Chen, T Kollar, C Finn, D Sadigh, P Liang",
+   "venue": "arXiv preprint arXiv:2302.12766",
+   "year": "2023"
+  },
+  {
+   "title": "Enabling language models to fill in the blanks",
+   "authors": "C Donahue, M Lee, P Liang",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Distributionally robust language modeling",
+   "authors": "Y Oren, S Sagawa, TB Hashimoto, P Liang",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "The foundation model transparency index",
+   "authors": "R Bommasani, K Klyman, S Longpre, S Kapoor, N Maslej, B Xiong, ...",
+   "venue": "arXiv preprint arXiv:2310.12941",
+   "year": "2023"
+  },
+  {
+   "title": "A simple domain-independent probabilistic approach to generation",
+   "authors": "G Angeli, P Liang, D Klein",
+   "venue": "Proceedings of the 2010 Conference on Empirical Methods in Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Graph-based, self-supervised program repair from diagnostic feedback",
+   "authors": "M Yasunaga, P Liang",
+   "venue": "International Conference on Machine Learning, 10799-10808",
+   "year": "2020"
+  },
+  {
+   "title": "Biomedlm: A 2.7 b parameter language model trained on biomedical text",
+   "authors": "E Bolton, A Venigalla, M Yasunaga, D Hall, B Xiong, T Lee, R Daneshjou, ...",
+   "venue": "arXiv preprint arXiv:2403.18421",
+   "year": "2024"
+  },
+  {
+   "title": "The infinite PCFG using hierarchical Dirichlet processes",
+   "authors": "P Liang, S Petrov, MI Jordan, D Klein",
+   "venue": "Proceedings of the 2007 joint conference on empirical methods in natural …",
+   "year": "2007"
+  },
+  {
+   "title": "Evaluating human-language model interaction",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arXiv:2212.09746",
+   "year": "2022"
+  },
+  {
+   "title": "Learning language games through interaction",
+   "authors": "SI Wang, P Liang, CD Manning",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "From language to programs: Bridging reinforcement learning and maximum marginal likelihood",
+   "authors": "K Guu, P Pasupat, E Liu, P Liang",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "A retrieve-and-edit framework for predicting structured outputs",
+   "authors": "TB Hashimoto, K Guu, Y Oren, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Large language models as analogical reasoners",
+   "authors": "M Yasunaga, X Chen, Y Li, P Pasupat, J Leskovec, P Liang, EH Chi, ...",
+   "venue": "International Conference on Learning Representations 2024, 17019-17045",
+   "year": "2024"
+  },
+  {
+   "title": "Openvla: An open-source vision-language-action model, 2024",
+   "authors": "MJ Kim, K Pertsch, S Karamcheti, T Xiao, A Balakrishna, S Nair, ...",
+   "venue": "URL https://arxiv. org/abs/2406.09246 1 (2), 4",
+   "year": "2024"
+  },
+  {
+   "title": "Transforming question answering datasets into natural language inference datasets",
+   "authors": "D Demszky, K Guu, P Liang",
+   "venue": "arXiv preprint arXiv:1809.02922",
+   "year": "2018"
+  },
+  {
+   "title": "Training classifiers with natural language explanations",
+   "authors": "B Hancock, P Varma, S Wang, M Bringmann, P Liang, C Ré",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "A data driven approach for algebraic loop invariants",
+   "authors": "R Sharma, S Gupta, B Hariharan, A Aiken, P Liang, AV Nori",
+   "venue": "European Symposium on Programming, 574-592",
+   "year": "2013"
+  },
+  {
+   "title": "Decentralized training of foundation models in heterogeneous environments",
+   "authors": "B Yuan, Y He, J Davis, T Zhang, T Dao, B Chen, PS Liang, C Re, C Zhang",
+   "venue": "Advances in Neural Information Processing Systems 35, 25464-25477",
+   "year": "2022"
+  },
+  {
+   "title": "A game-theoretic approach to generating spatial descriptions",
+   "authors": "D Golland, P Liang, D Klein",
+   "venue": "Proceedings of the 2010 conference on empirical methods in natural language …",
+   "year": "2010"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (arXiv: 2108.07258). arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Codified audio language modeling learns useful representations for music information retrieval",
+   "authors": "R Castellon, C Donahue, P Liang",
+   "venue": "arXiv preprint arXiv:2107.05677",
+   "year": "2021"
+  },
+  {
+   "title": "Spectral experts for estimating mixtures of linear regressions",
+   "authors": "AT Chaganty, P Liang",
+   "venue": "International conference on machine learning, 1040-1048",
+   "year": "2013"
+  },
+  {
+   "title": "Lambda dependency-based compositional semantics",
+   "authors": "P Liang",
+   "venue": "arXiv preprint arXiv:1309.4408",
+   "year": "2013"
+  },
+  {
+   "title": "Learning programs: A hierarchical Bayesian approach.",
+   "authors": "P Liang, MI Jordan, D Klein",
+   "venue": "ICML 10, 639-646",
+   "year": "2010"
+  },
+  {
+   "title": "Calibrated structured prediction",
+   "authors": "V Kuleshov, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Extending the wilds benchmark for unsupervised adaptation",
+   "authors": "S Sagawa, PW Koh, T Lee, I Gao, SM Xie, K Shen, A Kumar, W Hu, ...",
+   "venue": "arXiv preprint arXiv:2112.05090",
+   "year": "2021"
+  },
+  {
+   "title": "Break-it-fix-it: Unsupervised learning for program repair",
+   "authors": "M Yasunaga, P Liang",
+   "venue": "International conference on machine learning, 11941-11952",
+   "year": "2021"
+  },
+  {
+   "title": "The price of debiasing automatic metrics in natural language evalaution",
+   "authors": "A Chaganty, S Mussmann, P Liang",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "An asymptotic analysis of generative, discriminative, and pseudolikelihood estimators",
+   "authors": "P Liang, MI Jordan",
+   "venue": "Proceedings of the 25th international conference on Machine learning, 584-591",
+   "year": "2008"
+  },
+  {
+   "title": "No, to the right: Online language corrections for robotic manipulation via shared autonomy",
+   "authors": "Y Cui, S Karamcheti, R Palleti, N Shivakumar, P Liang, D Sadigh",
+   "venue": "Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot …",
+   "year": "2023"
+  },
+  {
+   "title": "Learning executable semantic parsers for natural language understanding",
+   "authors": "P Liang",
+   "venue": "Communications of the ACM 59 (9), 68-76",
+   "year": "2016"
+  },
+  {
+   "title": "Generative agents: Interactive simulacra of human behavior, 2023",
+   "authors": "JS Park, JC O’Brien, CJ Cai, MR Morris, P Liang, MS Bernstein",
+   "venue": "URL https://arxiv. org/abs/2304.03442",
+   "year": null
+  },
+  {
+   "title": "Medalign: A clinician-generated dataset for instruction following with electronic medical records",
+   "authors": "SL Fleming, A Lozano, WJ Haberkorn, JA Jindal, E Reis, R Thapa, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (20), 22021 …",
+   "year": "2024"
+  },
+  {
+   "title": "Prodigy: Enabling in-context learning over graphs",
+   "authors": "Q Huang, H Ren, P Chen, G Kržmanc, D Zeng, PS Liang, J Leskovec",
+   "venue": "Advances in Neural Information Processing Systems 36, 16302-16317",
+   "year": "2023"
+  },
+  {
+   "title": "Truncation sampling as language model desmoothing",
+   "authors": "J Hewitt, CD Manning, P Liang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 3414-3427",
+   "year": "2022"
+  },
+  {
+   "title": "Connect, not collapse: Explaining contrastive learning for unsupervised domain adaptation",
+   "authors": "K Shen, RM Jones, A Kumar, SM Xie, JZ HaoChen, T Ma, P Liang",
+   "venue": "International conference on machine learning, 19847-19878",
+   "year": "2022"
+  },
+  {
+   "title": "Enabling certification of verification-agnostic networks via memory-efficient semidefinite programming",
+   "authors": "S Dathathri, K Dvijotham, A Kurakin, A Raghunathan, J Uesato, RR Bunel, ...",
+   "venue": "Advances in Neural Information Processing Systems 33, 5318-5331",
+   "year": "2020"
+  },
+  {
+   "title": "Robust encodings: A framework for combating adversarial typos",
+   "authors": "E Jones, R Jia, A Raghunathan, P Liang",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Linking people in videos with “their” names using coreference resolution",
+   "authors": "V Ramanathan, A Joulin, P Liang, L Fei-Fei",
+   "venue": "European conference on computer vision, 95-110",
+   "year": "2014"
+  },
+  {
+   "title": "On the societal impact of open foundation models",
+   "authors": "S Kapoor, R Bommasani, K Klyman, S Longpre, A Ramaswami, P Cihon, ...",
+   "venue": "arXiv preprint arXiv:2403.07918",
+   "year": "2024"
+  },
+  {
+   "title": "Squad: 100,000+ questions for machine comprehension of text, 2016",
+   "authors": "P Rajpurkar, J Zhang, K Lopyrev, P Liang",
+   "venue": "URL https://arxiv. org/abs/1606.05250",
+   "year": "2016"
+  },
+  {
+   "title": "Learning from measurements in exponential families",
+   "authors": "P Liang, MI Jordan, D Klein",
+   "venue": "Proceedings of the 26th annual international conference on machine learning …",
+   "year": "2009"
+  },
+  {
+   "title": "Robustness to spurious correlations via human annotations",
+   "authors": "M Srivastava, T Hashimoto, P Liang",
+   "venue": "International Conference on Machine Learning, 9109-9119",
+   "year": "2020"
+  },
+  {
+   "title": "Emergent abilities of large language models (2022)",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2025"
+  },
+  {
+   "title": "Biodiscoveryagent: An ai agent for designing genetic perturbation experiments",
+   "authors": "Y Roohani, A Lee, Q Huang, J Vora, Z Steinhart, K Huang, A Marson, ...",
+   "venue": "International Conference on Learning Representations 2025, 26417-26466",
+   "year": "2025"
+  },
+  {
+   "title": "Generative agents: Interactive simulacra of human behavior. arXiv",
+   "authors": "JS Park, JC O’Brien, CJ Cai, MR Morris, P Liang, MS Bernstein",
+   "venue": "arXiv preprint arXiv:2304.03442",
+   "year": "2023"
+  },
+  {
+   "title": "Pun generation with surprise",
+   "authors": "H He, N Peng, P Liang",
+   "venue": "Proceedings of the 2019 conference of the north American chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Ai regulation has its own alignment problem: The technical and institutional feasibility of disclosure, registration, licensing, and auditing",
+   "authors": "N Guha, CM Lawrence, LA Gailmard, KT Rodolfa, F Surani, R Bommasani, ...",
+   "venue": "Geo. Wash. L. Rev. 92, 1473",
+   "year": "2024"
+  },
+  {
+   "title": "Decoupling exploration and exploitation for meta-reinforcement learning without sacrifices",
+   "authors": "EZ Liu, A Raghunathan, P Liang, C Finn",
+   "venue": "International conference on machine learning, 6925-6935",
+   "year": "2021"
+  },
+  {
+   "title": "On the learnability of watermarks for language models",
+   "authors": "C Gu, X LI, P Liang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2024, 38745-38768",
+   "year": "2024"
+  },
+  {
+   "title": "Adaptivity and optimism: An improved exponentiated gradient algorithm",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "International conference on machine learning, 1593-1601",
+   "year": "2014"
+  },
+  {
+   "title": "Task-oriented dialogue as dataflow synthesis",
+   "authors": "J Andreas, J Bufe, D Burkett, C Chen, J Clausman, J Crawford, K Crim, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 8, 556-571",
+   "year": "2020"
+  },
+  {
+   "title": "Simpler context-dependent logical forms via model projections",
+   "authors": "R Long, P Pasupat, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Vhelm: A holistic evaluation of vision language models",
+   "authors": "T Lee, H Tu, CH Wong, W Zheng, Y Zhou, Y Mai, JS Roberts, M Yasunaga, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 140632-140666",
+   "year": "2024"
+  },
+  {
+   "title": "Tensor factorization via matrix factorization",
+   "authors": "V Kuleshov, A Chaganty, P Liang",
+   "venue": "Artificial Intelligence and Statistics, 507-516",
+   "year": "2015"
+  },
+  {
+   "title": "Introducing v0. 5 of the ai safety benchmark from mlcommons",
+   "authors": "B Vidgen, A Agrawal, AM Ahmed, V Akinwande, N Al-Nuaimi, N Alfaraj, ...",
+   "venue": "arXiv preprint arXiv:2404.12241",
+   "year": "2024"
+  },
+  {
+   "title": "Defending against whitebox adversarial attacks via randomized discretization",
+   "authors": "Y Zhang, P Liang",
+   "venue": "The 22nd International Conference on Artificial Intelligence and Statistics …",
+   "year": "2019"
+  },
+  {
+   "title": "Medhelm: Holistic evaluation of large language models for medical tasks",
+   "authors": "S Bedi, H Cui, M Fuentes, A Unell, M Wornow, JM Banda, N Kotecha, ...",
+   "venue": "arXiv preprint arXiv:2505.23802",
+   "year": "2025"
+  },
+  {
+   "title": "Understanding warmup-stable-decay learning rates: A river valley loss landscape perspective",
+   "authors": "K Wen, Z Li, J Wang, D Hall, P Liang, T Ma",
+   "venue": "arXiv preprint arXiv:2410.05192",
+   "year": "2024"
+  },
+  {
+   "title": "Establishing best practices in building rigorous agentic benchmarks",
+   "authors": "Y Zhu, T Jin, Y Pruksachatkun, A Zhang, S Liu, S Cui, S Kapoor, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Bringing machine learning and compositional semantics together",
+   "authors": "P Liang, C Potts",
+   "venue": "Annu. Rev. Linguist. 1 (1), 355-376",
+   "year": "2015"
+  },
+  {
+   "title": "Fantastic pretraining optimizers and where to find them",
+   "authors": "K Wen, D Hall, T Ma, P Liang",
+   "venue": "International Conference on Learning Representations 2026, 144731-144838",
+   "year": "2026"
+  },
+  {
+   "title": "RNNs can generate bounded hierarchical languages with optimal memory",
+   "authors": "J Hewitt, M Hahn, S Ganguli, P Liang, CD Manning",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Convexified convolutional neural networks",
+   "authors": "Y Zhang, P Liang, MJ Wainwright",
+   "venue": "International Conference on Machine Learning, 4044-4053",
+   "year": "2017"
+  },
+  {
+   "title": "Holistic evaluation of large language models for medical tasks with MedHELM",
+   "authors": "S Bedi, H Cui, M Fuentes, A Unell, M Wornow, JM Banda, N Kotecha, ...",
+   "venue": "Nature medicine 32 (3), 943-951",
+   "year": "2026"
+  },
+  {
+   "title": "Benchmarking large language models as ai research agents",
+   "authors": "Q Huang, J Vora, P Liang, J Leskovec",
+   "venue": "NeurIPS 2023 foundation models for decision making workshop",
+   "year": "2023"
+  },
+  {
+   "title": "Conditional probing: measuring usable information beyond a baseline",
+   "authors": "J Hewitt, K Ethayarajh, P Liang, CD Manning",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Pre-training graph neural networks",
+   "authors": "W Hu, B Liu, J Gomes, M Zitnik, P Liang, V Pande, J Leskovec",
+   "venue": "arXiv preprint arXiv:1905.12265",
+   "year": "2019"
+  },
+  {
+   "title": "Considerations for governing open foundation models",
+   "authors": "R Bommasani, S Kapoor, K Klyman, S Longpre, A Ramaswami, D Zhang, ...",
+   "venue": "Science 386 (6718), 151-153",
+   "year": "2024"
+  },
+  {
+   "title": "Cocktailsgd: Fine-tuning foundation models over 500mbps networks",
+   "authors": "J Wang, Y Lu, B Yuan, B Chen, P Liang, C De Sa, C Re, C Zhang",
+   "venue": "International Conference on Machine Learning, 36058-36076",
+   "year": "2023"
+  },
+  {
+   "title": "Structure compilation: trading structure for features",
+   "authors": "P Liang, H Daumé III, D Klein",
+   "venue": "Proceedings of the 25th international conference on Machine learning, 592-599",
+   "year": "2008"
+  },
+  {
+   "title": "Imitation learning of agenda-based semantic parsers",
+   "authors": "J Berant, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 3, 545-558",
+   "year": "2015"
+  },
+  {
+   "title": "Removing spurious features can hurt accuracy and affect groups disproportionately",
+   "authors": "F Khani, P Liang",
+   "venue": "Proceedings of the 2021 ACM conference on fairness, accountability, and …",
+   "year": "2021"
+  },
+  {
+   "title": "Curran Associates",
+   "authors": "M Ranzato, A Beygelzimer, Y Dauphin, P Liang, JW Vaughan",
+   "venue": "Inc.: Red Hook, NY, USA 34, 22419-22430",
+   "year": "2021"
+  },
+  {
+   "title": "Ai risk categorization decoded (air 2024): From government regulations to corporate policies",
+   "authors": "Y Zeng, K Klyman, A Zhou, Y Yang, M Pan, R Jia, D Song, P Liang, B Li",
+   "venue": "arXiv preprint arXiv:2406.17864",
+   "year": "2024"
+  },
+  {
+   "title": "Holistic agent leaderboard: The missing infrastructure for ai agent evaluation",
+   "authors": "S Kapoor, B Stroebl, P Kirgis, N Nadgir, Z Siegel, B Wei, T Xue, Z Chen, ...",
+   "venue": "International Conference on Learning Representations 2026, 98778-98849",
+   "year": "2026"
+  },
+  {
+   "title": "Naturalizing a programming language via interactive learning",
+   "authors": "SI Wang, S Ginn, P Liang, CD Manning",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Roboarena: Distributed real-world evaluation of generalist robot policies",
+   "authors": "P Atreya, K Pertsch, T Lee, MJ Kim, A Jain, A Kuramshin, C Eppner, ...",
+   "venue": "arXiv preprint arXiv:2506.18123",
+   "year": "2025"
+  },
+  {
+   "title": "Air-bench 2024: A safety benchmark based on risk categories from regulations and policies",
+   "authors": "Y Zeng, Y Yang, A Zhou, JZ Tan, Y Tu, Y Mai, K Klyman, M Pan, R Jia, ...",
+   "venue": "arXiv preprint arXiv:2407.17436",
+   "year": "2024"
+  },
+  {
+   "title": "Selective classification can magnify disparities across groups",
+   "authors": "E Jones, S Sagawa, PW Koh, A Kumar, P Liang",
+   "venue": "arXiv preprint arXiv:2010.14134",
+   "year": "2020"
+  },
+  {
+   "title": "Frangel: component-based synthesis with control structures",
+   "authors": "K Shi, J Steinhardt, P Liang",
+   "venue": "Proceedings of the ACM on Programming Languages 3 (POPL), 1-29",
+   "year": "2019"
+  },
+  {
+   "title": "Prefix-tuning: Optimizing continuous prompts for generation, 2021",
+   "authors": "XL Li, P Liang",
+   "venue": "arXiv preprint arXiv:2101.00190 10",
+   "year": null
+  },
+  {
+   "title": "A safe harbor for ai evaluation and red teaming",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2403.04893",
+   "year": "2024"
+  },
+  {
+   "title": "Anticipatory music transformer",
+   "authors": "J Thickstun, D Hall, C Donahue, P Liang",
+   "venue": "arXiv preprint arXiv:2306.08620",
+   "year": "2023"
+  },
+  {
+   "title": "In-n-out: Pre-training and self-training using auxiliary information for out-of-distribution robustness",
+   "authors": "SM Xie, A Kumar, R Jones, F Khani, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2012.04550",
+   "year": "2020"
+  },
+  {
+   "title": "Environment-driven lexicon induction for high-level instructions",
+   "authors": "D Misra, K Tao, P Liang, A Saxena",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Prefix-tuning: Optimizing continuous prompts for generation. arXiv 2021",
+   "authors": "XL Li, P Liang",
+   "venue": "arXiv preprint arXiv:2101.00190 10",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Developing bug-free machine learning systems with formal mathematics",
+   "authors": "D Selsam, P Liang, DL Dill",
+   "venue": "International conference on machine learning, 3047-3056",
+   "year": "2017"
+  },
+  {
+   "title": "The eos decision and length extrapolation",
+   "authors": "B Newman, J Hewitt, P Liang, CD Manning",
+   "venue": "Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting …",
+   "year": "2020"
+  },
+  {
+   "title": "Video event understanding using natural language descriptions",
+   "authors": "V Ramanathan, P Liang, L Fei-Fei",
+   "venue": "Proceedings of the IEEE international conference on computer vision, 905-912",
+   "year": "2013"
+  },
+  {
+   "title": "Length-controlled alpacaeval: A simple way to debias automatic evaluators, 2024",
+   "authors": "Y Dubois, B Galambosi, P Liang, TB Hashimoto",
+   "venue": "URL https://arxiv. org/abs/2404.04475",
+   "year": null
+  },
+  {
+   "title": "Inferring logical forms from denotations",
+   "authors": "P Pasupat, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Fine-tuning vision-language-action models: Optimizing speed and success, 2025",
+   "authors": "MJ Kim, C Finn, P Liang",
+   "venue": "URL https://arxiv. org/abs/2502.19645",
+   "year": "2016"
+  },
+  {
+   "title": "International scientific report on the safety of advanced ai (interim report)",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2412.05282",
+   "year": "2024"
+  },
+  {
+   "title": "Lm-critic: Language models for unsupervised grammatical error correction",
+   "authors": "M Yasunaga, J Leskovec, P Liang",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Mapping natural language commands to web elements",
+   "authors": "P Pasupat, TS Jiang, E Liu, K Guu, P Liang",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Learning nongenerative grammatical models for document analysis",
+   "authors": "M Shilman, P Liang, P Viola",
+   "venue": "Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1 2 …",
+   "year": "2005"
+  },
+  {
+   "title": "Squad: 100,000+ questions for machine comprehension of text. arXiv 2016",
+   "authors": "P Rajpurkar, J Zhang, K Lopyrev, P Liang",
+   "venue": "arXiv preprint arXiv:1606.05250 10",
+   "year": null
+  },
+  {
+   "title": "Scaling abstraction refinement via pruning",
+   "authors": "P Liang, M Naik",
+   "venue": "Proceedings of the 32Nd ACM SIGPLAN Conference on Programming Language …",
+   "year": "2011"
+  },
+  {
+   "title": "A probabilistic approach to diachronic phonology",
+   "authors": "A Bouchard-Côté, P Liang, TL Griffiths, D Klein",
+   "venue": "Proceedings of the 2007 Joint Conference on Empirical Methods in Natural …",
+   "year": "2007"
+  },
+  {
+   "title": "Training natural language system with generated dialogues",
+   "authors": "JDE Rusak, DLW Hall, DL Klein, PS Liang",
+   "venue": "US Patent 11,145,291",
+   "year": "2021"
+  },
+  {
+   "title": "Macro grammars and holistic triggering for efficient semantic parsing",
+   "authors": "Y Zhang, P Pasupat, P Liang",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "LLM agents grounded in self-reports enable general-purpose simulation of individuals",
+   "authors": "JS Park, CQ Zou, J Kamphorst, N Egan, A Shaw, BM Hill, C Cai, ...",
+   "venue": "arXiv preprint arXiv:2411.10109",
+   "year": "2024"
+  },
+  {
+   "title": "Benchmarking and improving generator-validator consistency of language models",
+   "authors": "X LI, V Shrivastava, S Li, T Hashimoto, P Liang",
+   "venue": "International Conference on Learning Representations 2024, 44038-44055",
+   "year": "2024"
+  },
+  {
+   "title": "al (2022) Training language models to follow instructions with human feedback",
+   "authors": "L Ouyang, J Wu, X Jiang, D Almeida, CL Wainwright, P Mishkin, C Zhang, ...",
+   "venue": "Adv Neural Inf Process Syst 35, 27730-27744",
+   "year": null
+  },
+  {
+   "title": "Foundation model transparency reports",
+   "authors": "R Bommasani, K Klyman, S Longpre, B Xiong, S Kapoor, N Maslej, ...",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7 (1), 181-195",
+   "year": "2024"
+  },
+  {
+   "title": "Zero-shot entity extraction from web pages",
+   "authors": "P Pasupat, P Liang",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Machine unlearning doesn't do what you think: Lessons for generative ai policy, research, and practice",
+   "authors": "AF Cooper, CA Choquette-Choo, M Bogen, M Jagielski, K Filippova, K Liu, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Ecosystem graphs: The social footprint of foundation models",
+   "authors": "R Bommasani, D Soylu, TI Liao, KA Creel, P Liang",
+   "venue": "arXiv preprint arXiv:2303.15772",
+   "year": "2023"
+  },
+  {
+   "title": "Do foundation model providers comply with the draft EU AI Act",
+   "authors": "R Bommasani, K Klyman, D Zhang, P Liang",
+   "venue": "Stanford Center for Research on Foundation Models",
+   "year": "2023"
+  },
+  {
+   "title": "Learning minimal abstractions",
+   "authors": "P Liang, O Tripp, M Naik",
+   "venue": "Proceedings of the 38th annual ACM SIGPLAN-SIGACT symposium on Principles of …",
+   "year": "2011"
+  },
+  {
+   "title": "Altitude training: Strong bounds for single-layer dropout",
+   "authors": "S Wager, W Fithian, S Wang, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "Ailuminate: Introducing v1. 0 of the ai risk and reliability benchmark from mlcommons",
+   "authors": "S Ghosh, H Frase, A Williams, S Luger, P Röttger, F Barez, S McGregor, ...",
+   "venue": "arXiv preprint arXiv:2503.05731",
+   "year": "2025"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "Model equality testing: Which model is this api serving?",
+   "authors": "I Gao, P Liang, C Guestrin",
+   "venue": "International Conference on Learning Representations 2025, 86369-86382",
+   "year": "2025"
+  },
+  {
+   "title": "Strategies for pre-training graph neural networks. 2019",
+   "authors": "W Hu, B Liu, J Gomes, M Zitnik, P Liang, V Pande, J Leskovec",
+   "venue": "arXiv preprint arXiv:1905.12265",
+   "year": "1905"
+  },
+  {
+   "title": "Improving self-supervised learning by characterizing idealized representations",
+   "authors": "Y Dubois, S Ermon, TB Hashimoto, PS Liang",
+   "venue": "Advances in neural information processing systems 35, 11279-11296",
+   "year": "2022"
+  },
+  {
+   "title": "Subhro Roy",
+   "authors": "J Andreas, J Bufe, D Burkett, C Chen, J Clausman, J Crawford, K Crim, ...",
+   "venue": "Jesse Rusak, Beth Short, Div Slomin, Ben Snyder, Stephon Striplin, Yu Su …",
+   "year": "2020"
+  },
+  {
+   "title": "Calibrated ensembles can mitigate accuracy tradeoffs under distribution shift",
+   "authors": "A Kumar, T Ma, P Liang, A Raghunathan",
+   "venue": "Uncertainty in Artificial Intelligence, 1041-1051",
+   "year": "2022"
+  },
+  {
+   "title": "Lila: Language-informed latent actions",
+   "authors": "S Karamcheti, M Srivastava, P Liang, D Sadigh",
+   "venue": "Conference on robot learning, 1379-1390",
+   "year": "2022"
+  },
+  {
+   "title": "Shaping visual representations with language for few-shot classification",
+   "authors": "J Mu, P Liang, N Goodman",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "On the relationship between data efficiency and error for uncertainty sampling",
+   "authors": "S Mussmann, P Liang",
+   "venue": "International Conference on Machine Learning, 3674-3682",
+   "year": "2018"
+  },
+  {
+   "title": "Type-based MCMC",
+   "authors": "P Liang, MI Jordan, D Klein",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Worldgym: World model as an environment for policy evaluation",
+   "authors": "J Quevedo, AK Sharma, Y Sun, V Suryavanshi, P Liang, S Yang",
+   "venue": "International Conference on Learning Representations 2026, 78932-78957",
+   "year": "2026"
+  },
+  {
+   "title": "Roboreward: General-purpose vision-language reward models for robotics",
+   "authors": "T Lee, A Wagenmaker, K Pertsch, P Liang, S Levine, C Finn",
+   "venue": "arXiv preprint arXiv:2601.00675",
+   "year": "2026"
+  },
+  {
+   "title": "The foundation model transparency index v1. 1: May 2024",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "arXiv preprint arXiv:2407.12929",
+   "year": "2024"
+  },
+  {
+   "title": "Melody transcription via generative pre-training",
+   "authors": "C Donahue, J Thickstun, P Liang",
+   "venue": "arXiv preprint arXiv:2212.01884",
+   "year": "2022"
+  },
+  {
+   "title": "Probabilistic grammars and hierarchical Dirichlet processes",
+   "authors": "P Liang, M Jordan, D Klein",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Identifiability and unmixing of latent parse trees",
+   "authors": "DJ Hsu, SM Kakade, PS Liang",
+   "venue": "Advances in neural information processing systems 25",
+   "year": "2012"
+  },
+  {
+   "title": "Llamas Know What GPTs Don't Show: Surrogate Models for Confidence Estimation",
+   "authors": "V Shrivastava, P Liang, A Kumar",
+   "venue": "arXiv preprint arXiv:2311.08877",
+   "year": "2023"
+  },
+  {
+   "title": "ExpBERT: Representation engineering with natural language explanations",
+   "authors": "S Murty, PW Koh, P Liang",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Has the machine learning review process become more arbitrary as the field has grown? the neurips 2021 consistency experiment",
+   "authors": "A Beygelzimer, YN Dauphin, P Liang, JW Vaughan",
+   "venue": "arXiv preprint arXiv:2306.03262",
+   "year": "2023"
+  },
+  {
+   "title": "Is a caption worth a thousand images? a controlled study for representation learning",
+   "authors": "S Santurkar, Y Dubois, R Taori, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2207.07635",
+   "year": "2022"
+  },
+  {
+   "title": "No true state-of-the-art? ood detection methods are inconsistent across datasets",
+   "authors": "F Tajwar, A Kumar, SM Xie, P Liang",
+   "venue": "arXiv preprint arXiv:2109.05554",
+   "year": "2021"
+  },
+  {
+   "title": "Active learning of points-to specifications",
+   "authors": "O Bastani, R Sharma, A Aiken, P Liang",
+   "venue": "Proceedings of the 39th ACM SIGPLAN Conference on Programming Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Autobencher: Towards declarative benchmark construction",
+   "authors": "X LI, F Kaiyom, E Liu, Y Mai, P Liang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2025, 94357-94386",
+   "year": "2025"
+  },
+  {
+   "title": "Feature noise induces loss discrepancy across groups",
+   "authors": "F Khani, P Liang",
+   "venue": "International conference on machine learning, 5209-5219",
+   "year": "2020"
+  },
+  {
+   "title": "Prediction with a short memory",
+   "authors": "V Sharan, S Kakade, P Liang, G Valiant",
+   "venue": "Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing …",
+   "year": "2018"
+  },
+  {
+   "title": "Unsupervised risk estimation using only conditional independence structure",
+   "authors": "J Steinhardt, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 29",
+   "year": "2016"
+  },
+  {
+   "title": "Mle-dojo: Interactive environments for empowering llm agents in machine learning engineering",
+   "authors": "R Qiang, Y Zhuang, Y Li, D Sagar VK, R Zhang, C Li, I Wong, S Yang, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Backpack language models",
+   "authors": "J Hewitt, J Thickstun, CD Manning, P Liang",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Agreement-based learning",
+   "authors": "PS Liang, D Klein, M Jordan",
+   "venue": "Advances in Neural Information Processing Systems 20",
+   "year": "2007"
+  },
+  {
+   "title": "Extracting memorized pieces of (copyrighted) books from open-weight language models",
+   "authors": "AF Cooper, MA Lemley, A Casasola, A Ahmed, A Gokaslan, AB Cyphert, ...",
+   "venue": "arXiv preprint arXiv:2505.12546",
+   "year": "2025"
+  },
+  {
+   "title": "The 2024 foundation model transparency index",
+   "authors": "R Bommasani, K Klyman, S Kapoor, S Longpre, B Xiong, N Maslej, ...",
+   "venue": "arXiv preprint arXiv:2407.12929",
+   "year": "2024"
+  },
+  {
+   "title": "Image2struct: Benchmarking structure extraction for vision-language models",
+   "authors": "JS Roberts, T Lee, CH Wong, M Yasunaga, Y Mai, P Liang",
+   "venue": "Advances in Neural Information Processing Systems 37, 115058-115097",
+   "year": "2024"
+  },
+  {
+   "title": "Out-of-domain robustness via targeted augmentations",
+   "authors": "I Gao, S Sagawa, PW Koh, T Hashimoto, P Liang",
+   "venue": "International conference on machine learning, 10800-10834",
+   "year": "2023"
+  },
+  {
+   "title": "Reliable and efficient amortized model-based evaluation",
+   "authors": "S Truong, Y Tu, P Liang, B Li, S Koyejo",
+   "venue": "arXiv preprint arXiv:2503.13335",
+   "year": "2025"
+  },
+  {
+   "title": "Robust expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JDE Rusak, D Klein",
+   "venue": "US Patent 11,132,499",
+   "year": "2021"
+  },
+  {
+   "title": "Bountybench: Dollar impact of ai agent attackers and defenders on real-world cybersecurity systems",
+   "authors": "A Zhang, J Ji, C Menders, R Dulepet, T Qin, R Wang, J Wu, K Liao, J Li, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Advancing science-and evidence-based AI policy",
+   "authors": "R Bommasani, S Arora, J Chayes, Y Choi, MF Cuéllar, L Fei-Fei, DE Ho, ...",
+   "venue": "Science 389 (6759), 459-461",
+   "year": "2025"
+  },
+  {
+   "title": "Air-bench 2024: A safety benchmark based on regulation and policies specified risk categories",
+   "authors": "Y Zeng, Y Yang, A Zhou, J Tan, Y Tu, Y Mai, K Klyman, M Pan, R Jia, ...",
+   "venue": "International Conference on Learning Representations 2025, 63997-64031",
+   "year": "2025"
+  },
+  {
+   "title": "Know what you don’t know: Unanswerable questions for SQuAD. arXiv 2018",
+   "authors": "P Rajpurkar, R Jia, P Liang",
+   "venue": "arXiv preprint arXiv:1806.03822",
+   "year": "2024"
+  },
+  {
+   "title": "Ecosystem-level analysis of deployed machine learning reveals homogeneous outcomes",
+   "authors": "C Toups, R Bommasani, K Creel, S Bana, D Jurafsky, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 36, 51178-51201",
+   "year": "2023"
+  },
+  {
+   "title": "Can small and synthetic benchmarks drive modeling innovation? a retrospective study of question answering modeling approaches",
+   "authors": "NFLTL Robin, JP Liang",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Inferring multidimensional rates of aging from cross-sectional data",
+   "authors": "E Pierson, PW Koh, T Hashimoto, D Koller, J Leskovec, N Eriksson, ...",
+   "venue": "The 22nd International Conference on Artificial Intelligence and Statistics …",
+   "year": "2019"
+  },
+  {
+   "title": "Unanimous prediction for 100% precision with application to learning semantic mappings",
+   "authors": "F Khani, M Rinard, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Feature noising for log-linear structured prediction",
+   "authors": "SI Wang, M Wang, S Wagner, P Liang, CD Manning",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Videoagent: Self-improving video generation",
+   "authors": "A Soni, S Venkataraman, A Chandra, S Fischmeister, P Liang, B Dai, ...",
+   "venue": "arXiv preprint arXiv:2410.10076",
+   "year": "2024"
+  },
+  {
+   "title": "Insights into pre-training via simpler synthetic tasks",
+   "authors": "Y Wu, F Li, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 35, 21844-21857",
+   "year": "2022"
+  },
+  {
+   "title": "Estimating latent-variable graphical models using moments and likelihoods",
+   "authors": "AT Chaganty, P Liang",
+   "venue": "International Conference on Machine Learning, 1872-1880",
+   "year": "2014"
+  },
+  {
+   "title": "A dynamic evaluation of the precision of static heap abstractions",
+   "authors": "P Liang, O Tripp, M Naik, M Sagiv",
+   "venue": "ACM Sigplan Notices 45 (10), 411-427",
+   "year": "2010"
+  },
+  {
+   "title": "Analyzing the errors of unsupervised learning",
+   "authors": "P Liang, D Klein",
+   "venue": "Proceedings of ACL-08: HLT, 879-887",
+   "year": "2008"
+  },
+  {
+   "title": "The 2025 foundation model transparency index",
+   "authors": "A Wan, K Klyman, S Kapoor, N Maslej, S Longpre, B Xiong, P Liang, ...",
+   "venue": "arXiv preprint arXiv:2512.10169",
+   "year": "2025"
+  },
+  {
+   "title": "Vlaw: Iterative co-improvement of vision-language-action policy and world model",
+   "authors": "Y Guo, T Lee, LX Shi, J Chen, P Liang, C Finn",
+   "venue": "arXiv preprint arXiv:2602.12063",
+   "year": "2026"
+  },
+  {
+   "title": "On-the-job learning with bayesian decision theory",
+   "authors": "K Werling, AT Chaganty, PS Liang, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Extracting books from production language models",
+   "authors": "A Ahmed, AF Cooper, S Koyejo, P Liang",
+   "venue": "arXiv preprint arXiv:2601.02671",
+   "year": "2026"
+  },
+  {
+   "title": "Learning adaptive language interfaces through decomposition",
+   "authors": "S Karamcheti, D Sadigh, P Liang",
+   "venue": "Proceedings of the First Workshop on Interactive and Executable Semantic …",
+   "year": "2020"
+  },
+  {
+   "title": "Planning, inference and pragmatics in sequential language games",
+   "authors": "F Khani, ND Goodman, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 543-555",
+   "year": "2018"
+  },
+  {
+   "title": "Beyond positive scaling: How negation impacts scaling trends of language models",
+   "authors": "Y Zhang, M Yasunaga, Z Zhou, JZ HaoChen, J Zou, P Liang, S Yeung",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 7479-7498",
+   "year": "2023"
+  },
+  {
+   "title": "Swords: A benchmark for lexical substitution with improved data coverage and quality",
+   "authors": "M Lee, C Donahue, R Jia, A Iyabor, P Liang",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "The NeurIPS 2021 consistency experiment",
+   "authors": "A Beygelzimer, Y Dauphin, P Liang, JW Vaughan",
+   "venue": "Neural Information Processing Systems blog post, https://blog. neurips. cc …",
+   "year": "2021"
+  },
+  {
+   "title": "Textual analogy parsing: What’s shared and what’s compared among analogous facts",
+   "authors": "M Lamm, A Chaganty, CD Manning, D Jurafsky, P Liang",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Importance sampling for unbiased on-demand evaluation of knowledge base population",
+   "authors": "A Chaganty, A Paranjape, P Liang, CD Manning",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Learning overcomplete hmms",
+   "authors": "V Sharan, SM Kakade, PS Liang, G Valiant",
+   "venue": "Advances in Neural Information Processing Systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "A probabilistic approach to language change",
+   "authors": "A Bouchard-Côté, PS Liang, D Klein, T Griffiths",
+   "venue": "Advances in Neural Information Processing Systems 20",
+   "year": "2007"
+  },
+  {
+   "title": "Language models may verbatim complete text they were not explicitly trained on",
+   "authors": "KZ Liu, CA Choquette-Choo, M Jagielski, P Kairouz, S Koyejo, P Liang, ...",
+   "venue": "arXiv preprint arXiv:2503.17514",
+   "year": "2025"
+  },
+  {
+   "title": "Introducing the NeurIPS 2021 paper checklist",
+   "authors": "A Beygelzimer, Y Dauphin, P Liang, JW Vaughan",
+   "venue": "NeurIPS blog",
+   "year": "2021"
+  },
+  {
+   "title": "Eliciting language model behaviors with investigator agents",
+   "authors": "XL Li, N Chowdhury, DD Johnson, T Hashimoto, P Liang, S Schwettmann, ...",
+   "venue": "arXiv preprint arXiv:2502.01236",
+   "year": "2025"
+  },
+  {
+   "title": "Catformer: Designing stable transformers via sensitivity analysis",
+   "authors": "JQ Davis, A Gu, K Choromanski, T Dao, C Re, C Finn, P Liang",
+   "venue": "International Conference on Machine Learning, 2489-2499",
+   "year": "2021"
+  },
+  {
+   "title": "Instruction following without instruction tuning",
+   "authors": "J Hewitt, NF Liu, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:2409.14254",
+   "year": "2024"
+  },
+  {
+   "title": "Mistral–a journey towards reproducible language model training",
+   "authors": "S Karamcheti, L Orr, J Bolton, T Zhang, K Goel, A Narayan, R Bommasani, ...",
+   "venue": "URL: https://github. com/stanford-crfm/mistral",
+   "year": "2021"
+  },
+  {
+   "title": "Learning parsing rules and argument identification from crowdsourcing of proposed command inputs",
+   "authors": "JD Uszkoreit, P Liang",
+   "venue": "US Patent 9,123,336",
+   "year": "2015"
+  },
+  {
+   "title": "Pre-training under infinite compute",
+   "authors": "K Kim, S Kotha, P Liang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2026, 74596-74636",
+   "year": "2026"
+  },
+  {
+   "title": "Auditing prompt caching in language model apis",
+   "authors": "C Gu, XL Li, R Kuditipudi, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2502.07776",
+   "year": "2025"
+  },
+  {
+   "title": "The responsible foundation model development cheatsheet: A review of tools & resources",
+   "authors": "S Longpre, S Biderman, A Albalak, H Schoelkopf, D McDuff, S Kapoor, ...",
+   "venue": "arXiv preprint arXiv:2406.16746",
+   "year": "2024"
+  },
+  {
+   "title": "Just one byte (per gradient): A note on low-bandwidth decentralized language model finetuning using shared randomness",
+   "authors": "E Zelikman, Q Huang, P Liang, N Haber, ND Goodman",
+   "venue": "arXiv preprint arXiv:2306.10015",
+   "year": "2023"
+  },
+  {
+   "title": "Out-of-distribution robustness via targeted augmentations",
+   "authors": "I Gao, S Sagawa, PW Koh, T Hashimoto, P Liang",
+   "venue": "NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": "2022"
+  },
+  {
+   "title": "Maximum weighted loss discrepancy",
+   "authors": "F Khani, A Raghunathan, P Liang",
+   "venue": "arXiv preprint arXiv:1906.03518",
+   "year": "2019"
+  },
+  {
+   "title": "Uncertainty sampling is preconditioned stochastic gradient descent on zero-one loss",
+   "authors": "S Mussmann, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Efficient geometric algorithms for parsing in two dimensions",
+   "authors": "P Liang, M Narasimhan, M Shilman, P Viola",
+   "venue": "Eighth International Conference on Document Analysis and Recognition (ICDAR …",
+   "year": "2005"
+  },
+  {
+   "title": "In-house evaluation is not enough: Towards robust third-party flaw disclosure for general-purpose ai",
+   "authors": "S Longpre, K Klyman, RE Appel, S Kapoor, R Bommasani, M Sahar, ...",
+   "venue": "arXiv preprint arXiv:2503.16861",
+   "year": "2025"
+  },
+  {
+   "title": "Composed fine-tuning: Freezing pre-trained denoising autoencoders for improved generalization",
+   "authors": "SM Xie, T Ma, P Liang",
+   "venue": "International Conference on Machine Learning, 11424-11435",
+   "year": "2021"
+  },
+  {
+   "title": "How much is 131 million dollars? putting numbers in perspective with compositional descriptions",
+   "authors": "A Chaganty, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Learning where to sample in structured prediction",
+   "authors": "T Shi, J Steinhardt, P Liang",
+   "venue": "Artificial Intelligence and Statistics, 875-884",
+   "year": "2015"
+  },
+  {
+   "title": "Evaluating robot policies in a world model",
+   "authors": "J Quevedo, P Liang, S Yang",
+   "venue": "arXiv e-prints, arXiv: 2506.00613",
+   "year": "2025"
+  },
+  {
+   "title": "Trustworthy social bias measurement",
+   "authors": "R Bommasani, P Liang",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7 (1), 210-224",
+   "year": "2024"
+  },
+  {
+   "title": "Improving transparency in ai language models: A holistic evaluation",
+   "authors": "R Bommasani, D Zhang, T Lee, P Liang",
+   "venue": "Foundation Model Issue Brief Series",
+   "year": "2023"
+  },
+  {
+   "title": "Is a caption worth a thousand images? a study on representation learning",
+   "authors": "S Santurkar, Y Dubois, R Taori, P Liang, T Hashimoto",
+   "venue": "The Eleventh International Conference on Learning Representations",
+   "year": "2023"
+  },
+  {
+   "title": "Simple MAP inference via low-rank relaxations",
+   "authors": "R Frostig, SI Wang, P Liang, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "A permutation-augmented sampler for DP mixture models",
+   "authors": "P Liang, MI Jordan, B Taskar",
+   "venue": "Proceedings of the 24th international conference on Machine learning, 545-552",
+   "year": "2007"
+  },
+  {
+   "title": "On the importance of adaptive data collection for extremely imbalanced pairwise tasks",
+   "authors": "S Mussmann, R Jia, P Liang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 3400-3413",
+   "year": "2020"
+  },
+  {
+   "title": "Estimation from indirect supervision with linear moments",
+   "authors": "A Raghunathan, R Frostig, J Duchi, P Liang",
+   "venue": "International conference on machine learning, 2568-2577",
+   "year": "2016"
+  },
+  {
+   "title": "Asymptotically optimal regularization in smooth parametric models",
+   "authors": "PS Liang, G Bouchard, F Bach, M Jordan",
+   "venue": "Advances in Neural Information Processing Systems 22",
+   "year": "2009"
+  },
+  {
+   "title": "LawInstruct: A resource for studying language model adaptation to the legal domain",
+   "authors": "J Niklaus, L Zheng, AD McCarthy, C Hahn, BM Rosen, P Henderson, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 127-152",
+   "year": "2025"
+  },
+  {
+   "title": "How do authors’ perceptions of their papers compare with co-authors’ perceptions and peer-review decisions?",
+   "authors": "C Rastogi, I Stelmakh, A Beygelzimer, YN Dauphin, P Liang, ...",
+   "venue": "Plos one 19 (4), e0300710",
+   "year": "2024"
+  },
+  {
+   "title": "Position: A safe harbor for AI evaluation and red teaming",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "Forty-first International Conference on Machine Learning",
+   "year": "2024"
+  },
+  {
+   "title": "Ahelm: A holistic evaluation of audio-language models",
+   "authors": "T Lee, H Tu, CH Wong, Z Wang, S Yang, Y Mai, Y Zhou, C Xie, P Liang",
+   "venue": "arXiv preprint arXiv:2508.21376",
+   "year": "2025"
+  },
+  {
+   "title": "Independence tests for language models",
+   "authors": "S Zhu, A Ahmed, R Kuditipudi, P Liang",
+   "venue": "arXiv preprint arXiv:2502.12292",
+   "year": "2025"
+  },
+  {
+   "title": "Sheet sage: Lead sheets from music audio",
+   "authors": "C Donahue, P Liang",
+   "venue": "Proc. ISMIR Late-Breaking and Demo, 1-3",
+   "year": "2021"
+  },
+  {
+   "title": "Data collection for a new conversational dialogue system",
+   "authors": "PS Liang, D Klein, LS Gillick, JR Cohen, LK Arsenault, JJ Clausman, ...",
+   "venue": "US Patent 10,824,798",
+   "year": "2020"
+  },
+  {
+   "title": "Towards realistic MIDI instrument synthesizers",
+   "authors": "R Castellon, C Donahue, P Liang",
+   "venue": "NeurIPS Workshop on Machine Learning for Creativity and Design",
+   "year": "2020"
+  },
+  {
+   "title": "A tight analysis of greedy yields subexponential time approximation for uniform decision tree",
+   "authors": "R Li, P Liang, S Mussmann",
+   "venue": "Proceedings of the Fourteenth Annual ACM-SIAM Symposium on Discrete …",
+   "year": "2020"
+  },
+  {
+   "title": "Learning parsing rules and argument identification from crowdsourcing of proposed command inputs",
+   "authors": "JD Uszkoreit, P Liang",
+   "venue": "US Patent 9,672,201",
+   "year": "2017"
+  },
+  {
+   "title": "Learning with relaxed supervision",
+   "authors": "J Steinhardt, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "The statistics of streaming sparse regression",
+   "authors": "J Steinhardt, S Wager, P Liang",
+   "venue": "arXiv preprint arXiv:1412.4182",
+   "year": "2014"
+  },
+  {
+   "title": "Utilizing grammatical parsing for structured layout analysis",
+   "authors": "P Viola, M Shilman, M Narasimhan, P Liang",
+   "venue": "US Patent App. 11/119,451",
+   "year": "2006"
+  },
+  {
+   "title": "Speceval: Evaluating model adherence to behavior specifications",
+   "authors": "A Ahmed, K Klyman, Y Zeng, S Koyejo, P Liang",
+   "venue": "arXiv preprint arXiv:2509.02464",
+   "year": "2025"
+  },
+  {
+   "title": "Improving dynamic object interactions in text-to-video generation with ai feedback",
+   "authors": "H Furuta, H Zen, D Schuurmans, A Faust, Y Matsuo, P Liang, S Yang",
+   "venue": "arXiv preprint arXiv:2412.02617",
+   "year": "2024"
+  },
+  {
+   "title": "Language model developers should report train-test overlap",
+   "authors": "AK Zhang, K Klyman, Y Mai, Y Levine, Y Zhang, R Bommasani, P Liang",
+   "venue": "arXiv preprint arXiv:2410.08385",
+   "year": "2024"
+  },
+  {
+   "title": "Learning autocomplete systems as a communication game",
+   "authors": "M Lee, TB Hashimoto, P Liang",
+   "venue": "arXiv preprint arXiv:1911.06964",
+   "year": "2019"
+  },
+  {
+   "title": "Know what you don’t know: Unanswerable questions for squad. arXiv preprint arXiv: 180603822",
+   "authors": "P Rajpurkar, R Jia, P Liang",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Unsupervised transformation learning via convex relaxations",
+   "authors": "TB Hashimoto, PS Liang, JC Duchi",
+   "venue": "Advances in neural information processing systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "Comparing ai agents to cybersecurity professionals in real-world penetration testing",
+   "authors": "J Lin, E Jones, D Jasper, E Ho, A Wu, A Yang, N Perry, A Zou, ...",
+   "venue": "International Conference on Learning Representations 2026, 1872-1902",
+   "year": "2026"
+  },
+  {
+   "title": "Ecosystem graphs: Documenting the foundation model supply chain",
+   "authors": "R Bommasani, D Soylu, TI Liao, KA Creel, P Liang",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7 (1), 196-209",
+   "year": "2024"
+  },
+  {
+   "title": "A path for science-and evidence-based AI policy",
+   "authors": "R Bommasani, S Arora, Y Choi, L Fei-Fei, DE Ho, D Jurafsky, S Koyejo, ...",
+   "venue": "https://understanding-ai-safety. org",
+   "year": "2024"
+  },
+  {
+   "title": "Autobencher: Creating salient, novel, difficult datasets for language models",
+   "authors": "XL Li, EZ Liu, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2407.08351 1",
+   "year": "2024"
+  },
+  {
+   "title": "Are sample-efficient nlp models more robust?",
+   "authors": "NF Liu, A Kumar, P Liang, R Jia",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "E (n) equivariant normalizing flows",
+   "authors": "E Hoogeboom, F Fuchs, I Posner, M Welling, M Ranzato, A Beygelzimer, ...",
+   "venue": "Adv. Neural Inf. Process. Syst. 34, 4181-4192",
+   "year": "2021"
+  },
+  {
+   "title": "Ambitious data science can be painless",
+   "authors": "H Monajemi, R Murri, E Jonas, P Liang, V Stodden, D Donoho",
+   "venue": "Harvard Data Science Review 1 (1)",
+   "year": "2019"
+  },
+  {
+   "title": "Semi-supervised learning for natural language. Master's thesis",
+   "authors": "P Liang, M Collins, P Liang",
+   "venue": "MIT",
+   "year": "2005"
+  },
+  {
+   "title": "The Mighty ToRR: A Benchmark for Table Reasoning and Robustness in LLMs",
+   "authors": "S Ashury-Tahan, Y Mai, A Gera, Y Perlitz, A Yehudai, E Bandel, ...",
+   "venue": "Proceedings of the First Workshop on Structured Understanding, Retrieval …",
+   "year": "2026"
+  },
+  {
+   "title": "Model editing with canonical examples",
+   "authors": "J Hewitt, S Chen, LL Xie, E Adams, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:2402.06155",
+   "year": "2024"
+  },
+  {
+   "title": "The IMO grand challenge",
+   "authors": "D Selsam, L de Moura, K Buzzard, R Barton, P Liang, S Loos, F Wiedijk",
+   "venue": "URL https://imo-grand-challenge. github. io",
+   "year": "2020"
+  },
+  {
+   "title": "Learning fast-mixing models for structured prediction",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "International Conference on Machine Learning, 1063-1072",
+   "year": "2015"
+  },
+  {
+   "title": "Beat the long tail: Distribution-aware speculative decoding for RL training",
+   "authors": "Z Shao, V Srivatsa, S Srivastava, Q Wu, A Ariyak, A Patel, J Wang, ...",
+   "venue": "Proceedings of Machine Learning and Systems 8, 1626-1638",
+   "year": "2026"
+  },
+  {
+   "title": "Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy and Research",
+   "authors": "AF Cooper, CA Choquette-Choo, M Bogen, K Klyman, M Jagielski, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Reinforcement learning for machine learning engineering agents",
+   "authors": "S Yang, J He-Yueya, P Liang",
+   "venue": "International Conference on Learning Representations 2026, 156989-157011",
+   "year": "2026"
+  },
+  {
+   "title": "Simulating human behavior with ai agents",
+   "authors": "JS Park, CQ Zou, A Shaw, BM Hill, CJ Cai, MR Morris, R Willer, P Liang, ...",
+   "venue": "2025-05-20]. https://hai. stanford. edu/policy/simulatinghuman-behavior-with …",
+   "year": "2025"
+  },
+  {
+   "title": "Vocal sandbox: Continual learning and adaptation for situated human-robot collaboration",
+   "authors": "J Grannen, S Karamcheti, S Mirchandani, P Liang, D Sadigh",
+   "venue": "arXiv preprint arXiv:2411.02599",
+   "year": "2024"
+  },
+  {
+   "title": "Cheaply estimating inference efficiency metrics for autoregressive transformer models",
+   "authors": "D Narayanan, K Santhanam, P Henderson, R Bommasani, T Lee, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 66518-66538",
+   "year": "2023"
+  },
+  {
+   "title": "Ensembles and cocktails: Robust finetuning for natural language generation",
+   "authors": "J Hewitt, XL Li, SM Xie, B Newman, P Liang",
+   "venue": "NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": "2021"
+  },
+  {
+   "title": "Expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JJ Clausman",
+   "venue": "US Patent 10,586,530",
+   "year": "2020"
+  },
+  {
+   "title": "Qsrl: A semantic role-labeling schema for quantitative facts",
+   "authors": "M Lamm, A Chaganty, D Jurafsky, CD Manning, P Liang",
+   "venue": "Proceedings of the 1st Financial Narrative Processing Workshop",
+   "year": "2018"
+  },
+  {
+   "title": "Blackbox model provenance via palimpsestic membership inference",
+   "authors": "R Kuditipudi, J Huang, S Zhu, D Yang, C Potts, P Liang",
+   "venue": "Advances in Neural Information Processing Systems 38, 162337-162367",
+   "year": "2026"
+  },
+  {
+   "title": "Mle-smith: Scaling mle tasks with automated multi-agent pipeline",
+   "authors": "R Qiang, Y Zhuang, A Singh, P Liang, C Zhang, S Yang, B Dai",
+   "venue": "International Conference on Learning Representations 2026, 5963-5990",
+   "year": "2026"
+  },
+  {
+   "title": "Language models prefer what they know: Relative confidence estimation via confidence preferences",
+   "authors": "V Shrivastava, A Kumar, P Liang",
+   "venue": "arXiv preprint arXiv:2502.01126",
+   "year": "2025"
+  },
+  {
+   "title": "Evaluating self-supervised learning via risk decomposition",
+   "authors": "Y Dubois, T Hashimoto, P Liang",
+   "venue": "International Conference on Machine Learning, 8779-8820",
+   "year": "2023"
+  },
+  {
+   "title": "Squad: 100,000+ questions for machine comprehension of text. arXiv preprint arXiv: 1606",
+   "authors": "P Rajpurkar, J Zhang, K Lopyrev, P Liang",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "On the Interaction between Norm and Dimensionality: Multiple Regimes in Learning.",
+   "authors": "P Liang, N Srebro",
+   "venue": "ICML, 647-654",
+   "year": "2010"
+  },
+  {
+   "title": "The stanford natural language processing group",
+   "authors": "C Manning, D Jurafsky, P Liang",
+   "venue": "The Stanford Parser: A statistical parser, http://nlp. stanford. edu …",
+   "year": "2008"
+  },
+  {
+   "title": "Algorithmic monocultures in hiring",
+   "authors": "R Bommasani, SH Bana, KA Creel, D Jurafsky, P Liang",
+   "venue": "The 2026 ACM Conference on Fairness, Accountability, and Transparency, 6351-6382",
+   "year": "2026"
+  },
+  {
+   "title": "Replaying pre-training data improves fine-tuning",
+   "authors": "S Kotha, P Liang",
+   "venue": "arXiv preprint arXiv:2603.04964",
+   "year": "2026"
+  },
+  {
+   "title": "Flawn-t5: An empirical examination of effective instruction-tuning data mixtures for legal reasoning",
+   "authors": "J Niklaus, L Zheng, AD McCarthy, C Hahn, BM Rosen, P Henderson, ...",
+   "venue": "arXiv preprint arXiv:2404.02127",
+   "year": "2024"
+  },
+  {
+   "title": "Utterance annotation user interface",
+   "authors": "JDE Rusak, PS Liang",
+   "venue": "US Patent 10,861,440",
+   "year": "2020"
+  },
+  {
+   "title": "Learning abstract models for strategic exploration and fast reward transfer",
+   "authors": "EZ Liu, R Keramati, S Seshadri, K Guu, P Pasupat, E Brunskill, P Liang",
+   "venue": "arXiv preprint arXiv:2007.05896",
+   "year": "2020"
+  },
+  {
+   "title": "Talking to computers in natural language",
+   "authors": "P Liang",
+   "venue": "XRDS: Crossroads, The ACM Magazine for Students 21 (1), 18-21",
+   "year": "2014"
+  },
+  {
+   "title": "Filtering with abstract particles",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "International Conference on Machine Learning, 727-735",
+   "year": "2014"
+  },
+  {
+   "title": "Fantastic Pretraining Optimizers and Where to Find Them II: Hyperball Optimization",
+   "authors": "K Wen, X Dang, K Lyu, T Ma, P Liang",
+   "venue": "arXiv preprint arXiv:2606.16899",
+   "year": "2026"
+  },
+  {
+   "title": "On the entropy calibration of language models",
+   "authors": "S Cao, G Valiant, P Liang",
+   "venue": "Advances in Neural Information Processing Systems 38, 85034-85071",
+   "year": "2026"
+  },
+  {
+   "title": "Position: In-house evaluation is not enough. towards robust third-party evaluation and flaw disclosure for general-purpose AI",
+   "authors": "S Longpre, K Klyman, RE Appel, S Kapoor, R Bommasani, M Sahar, ...",
+   "venue": "Forty-second International Conference on Machine Learning Position Paper Track",
+   "year": "2025"
+  },
+  {
+   "title": "Lexinvariant language models",
+   "authors": "Q Huang, E Zelikman, S Chen, Y Wu, G Valiant, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 36, 23990-24012",
+   "year": "2023"
+  },
+  {
+   "title": "Robust expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JDE Rusak, D Klein",
+   "venue": "US Patent App. 17/448,289",
+   "year": "2022"
+  },
+  {
+   "title": "Shared autonomy for robotic manipulation with language corrections",
+   "authors": "S Karamcheti, R Palleti, Y Cui, P Liang, D Sadigh",
+   "venue": "ACL Workshop on Learning with Natural Language Supervision 2",
+   "year": "2022"
+  },
+  {
+   "title": "Expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JJ Clausman",
+   "venue": "US Patent 11,195,516",
+   "year": "2021"
+  },
+  {
+   "title": "Wilds: A benchmark of in-the-wild distribution shifts",
+   "authors": "H Marklund, SM Xie, M Zhang, A Balsubramani, W Hu, M Yasunaga, ...",
+   "venue": "arXiv preprint arXiv:2012.07421",
+   "year": "2020"
+  },
+  {
+   "title": "Prediction with a short memory",
+   "authors": "S Kakade, P Liang, V Sharan, G Valiant",
+   "venue": "arXiv preprint arXiv:1612.02526",
+   "year": "2016"
+  },
+  {
+   "title": "SQuad: 100,000+ questions for machine comprehension of text. EMNLP 2016-Conference on Empirical Methods in Natural Language Processing, Proceedings, 2383–2392",
+   "authors": "P Rajpurkar, J Zhang, K Lopyrev, P Liang",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Semi-supervised learning for natural language. M. eng",
+   "authors": "P Liang",
+   "venue": "thesis, Massachusetts Institute of Technology",
+   "year": "2005"
+  },
+  {
+   "title": "Calibrated ensembles-a simple way to mitigate ID-OOD accuracy tradeoffs",
+   "authors": "A Kumar, A Raghunathan, T Ma, P Liang",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Explore then execute: Adapting without rewards via factorized meta-reinforcement learning",
+   "authors": "EZ Liu, A Raghunathan, P Liang, C Finn",
+   "venue": "arXiv preprint arXiv:2008.02790",
+   "year": "2020"
+  },
+  {
+   "title": "Estimating mixture models via mixtures of polynomials",
+   "authors": "S Wang, AT Chaganty, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "DecodingTrust-Agent platform (DTap): A controllable and interactive red-teaming platform for AI agents",
+   "authors": "Z Chen, X Liu, H Tong, C Guo, Y Nie, J Zhang, M Kang, C Xu, Q Liu, X Liu, ...",
+   "venue": "arXiv preprint arXiv:2605.04808",
+   "year": "2026"
+  },
+  {
+   "title": "Relative scaling laws for llms",
+   "authors": "W Held, D Hall, P Liang, D Yang",
+   "venue": "arXiv preprint arXiv:2510.24626",
+   "year": "2025"
+  },
+  {
+   "title": "The California report on frontier AI policy",
+   "authors": "R Bommasani, SR Singer, RE Appel, S Cen, AF Cooper, LA Gailmard, ...",
+   "venue": "arXiv preprint arXiv:2506.17303",
+   "year": "2025"
+  },
+  {
+   "title": "Videoagent: Self-improving video generation for embodied planning",
+   "authors": "A Soni, S Venkataraman, A Chandra, S Fischmeister, P Liang, B Dai, ...",
+   "venue": "NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for …",
+   "year": "2025"
+  },
+  {
+   "title": "Designing live human-ai collaboration for musical improvisation",
+   "authors": "N Becker, R Louie, J Thickstun, P Liang",
+   "venue": "CHI Workshop on Generative AI and HCI (GenAICHI)",
+   "year": "2024"
+  },
+  {
+   "title": "Flexible and expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JJ Clausman",
+   "venue": "US Patent 11,069,340",
+   "year": "2021"
+  },
+  {
+   "title": "Corpus specific queries for corpora from search query",
+   "authors": "JD Uszkoreit, P Liang, DM Bikel, PK Gupta, O Bar-or",
+   "venue": "US Patent 9,251,202",
+   "year": "2016"
+  },
+  {
+   "title": "Relaxations for inference in restricted Boltzmann machines",
+   "authors": "SI Wang, R Frostig, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:1312.6205",
+   "year": "2013"
+  },
+  {
+   "title": "Beyond a single extractor: Re-thinking html-to-text extraction for llm pre-training",
+   "authors": "J Li, JP Gardner, D Kang, F Shi, K Singh, CL Li, H Shandilya, DLW Hall, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2026, 5836-5861",
+   "year": "2026"
+  },
+  {
+   "title": "Cheaply evaluating inference efficiency metrics for autoregressive transformer APIs",
+   "authors": "D Narayanan, K Santhanam, P Henderson, R Bommasani, T Lee, P Liang",
+   "venue": "arXiv preprint arXiv:2305.02440",
+   "year": "2023"
+  },
+  {
+   "title": "A retrospective on the NeurIPS 2021 ethics review process",
+   "authors": "S Bengio, ID Raji, A Beygelzimer, Y Dauphin, P Liang, JW Vaughan",
+   "venue": "Nerural Information Processing Systems",
+   "year": "2021"
+  },
+  {
+   "title": "Generalized binary search for split-neighborly problems",
+   "authors": "S Mussmann, P Liang",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 1561-1569",
+   "year": "2018"
+  },
+  {
+   "title": "12 Data Augmentation via Lévy Processes",
+   "authors": "S Wager, W Fithian, P Liang",
+   "venue": "Perturbations, Optimization, and Statistics, 343",
+   "year": "2016"
+  },
+  {
+   "title": "CS229T/STAT231: Statistical learning theory (Winter 2016)",
+   "authors": "P Liang",
+   "venue": "Stanford, CA, USA, Tech. Rep. CS229T/STAT231",
+   "year": "2016"
+  },
+  {
+   "title": "SQuAD: 100,000+ questions for machine comprehension of text (arXiv: 1606.05250). arXiv",
+   "authors": "P Rajpurkar, J Zhang, K Lopyrev, P Liang",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Identifying underserved command inputs",
+   "authors": "JD Uszkoreit, P Liang, DM Bikel",
+   "venue": "US Patent 9,177,553",
+   "year": "2015"
+  },
+  {
+   "title": "Simultaneous diagonalization: the asymmetric, low-rank, and noisy settings",
+   "authors": "V Kuleshov, AT Chaganty, P Liang",
+   "venue": "arXiv preprint arXiv:1501.06318",
+   "year": "2015"
+  },
+  {
+   "title": "The NeurIPS 2021 Consistency Experiment; 2021",
+   "authors": "A Beygelzimer, Y Dauphin, P Liang, J Wortman Vaughan",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "How Does Contrastive Pre-training Connect Disparate Domains?",
+   "authors": "K Shen, RM Jones, A Kumar, SM Xie, P Liang",
+   "venue": "NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": "2021"
+  },
+  {
+   "title": "Learning a SAT solver from single-bit supervision. arXiv",
+   "authors": "D Selsam, M Lamm, B Bünz, P Liang, L de Moura, DL Dill",
+   "venue": "arXiv preprint arXiv:1802.03685",
+   "year": "2018"
+  },
+  {
+   "title": "Parsing annotator framework from external services",
+   "authors": "JD Uszkoreit, P Liang, DM Bikel",
+   "venue": "US Patent 9,183,196",
+   "year": "2015"
+  },
+  {
+   "title": "Methods and experiments with bounded tree-width Markov networks",
+   "authors": "P Liang, N Srebro",
+   "venue": "",
+   "year": "2004"
+  },
+  {
+   "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text, arXiv e-prints (2016)",
+   "authors": "P Rajpurkar, J Zhang, K Lopyrev, P Liang",
+   "venue": "arXiv preprint arXiv:1606.05250",
+   "year": null
+  },
+  {
+   "title": "Estimating near-verbatim extraction risk in language models with decoding-constrained beam search",
+   "authors": "AF Cooper, MA Lemley, C De Sa, L Duesterwald, A Casasola, J Hayes, ...",
+   "venue": "arXiv preprint arXiv:2603.24917",
+   "year": "2026"
+  },
+  {
+   "title": "Data-efficient pre-training by scaling synthetic megadocs",
+   "authors": "K Kim, S Kotha, Y Choi, T Hashimoto, N Haber, P Liang",
+   "venue": "arXiv preprint arXiv:2603.18534",
+   "year": "2026"
+  },
+  {
+   "title": "Uq: Assessing language models on unsolved questions",
+   "authors": "F Nie, KZ Liu, Z Wang, R Sun, W Liu, W Shi, H Yao, L Zhang, AY Ng, ...",
+   "venue": "arXiv preprint arXiv:2508.17580",
+   "year": "2025"
+  },
+  {
+   "title": "Llamas Know What GPTs Don't Show: Surrogate Models for Selective Classification",
+   "authors": "V Shrivastava, P Liang, A Kumar",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Select Via Proxy: Efficient Data Selection for Training Deep Networks",
+   "authors": "C Coleman, S Mussmann, B Mirzasoleiman, P Bailis, P Liang, J Leskovec, ...",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Reified context models",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "International Conference on Machine Learning, 1043-1052",
+   "year": "2015"
+  },
+  {
+   "title": "Extractable Memorization From First Principles",
+   "authors": "AF Cooper, M Swanberg, J Hayes, L Duesterwald, C De Sa, DE Ho, ...",
+   "venue": "Available at SSRN 7118018",
+   "year": "2026"
+  },
+  {
+   "title": "Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline",
+   "authors": "T Lee, P Liang",
+   "venue": "arXiv preprint arXiv:2605.26132",
+   "year": "2026"
+  },
+  {
+   "title": "Audits Under Resource, Data, and Access Constraints: Scaling Laws For Less Discriminatory Alternatives",
+   "authors": "S Cen, S Goyal, Z Javed, A Karthik, P Liang, D Ho",
+   "venue": "Advances in Neural Information Processing Systems 38, 3833-3872",
+   "year": "2026"
+  },
+  {
+   "title": "Structured Prompting Enables More Robust, Holistic Evaluation of Language Models",
+   "authors": "A Aali, MA Mohsin, V Bikia, A Singhvi, R Gaus, S Bedi, H Cui, M Fuentes, ...",
+   "venue": "arXiv e-prints, arXiv: 2511.20836",
+   "year": "2025"
+  },
+  {
+   "title": "Foundation Models and Copyright Questions",
+   "authors": "P Henderson, X Li, D Jurafsky, T Hashimoto, MA Lemley, P Liang",
+   "venue": "Stanford University Human-Centered Artificial Intelligence, November",
+   "year": "2023"
+  },
+  {
+   "title": "Decaf: generating fair synthetic data using causally-aware generative networks",
+   "authors": "T Kyono, B van Breugel, J Berrevoets, M van der Schaar, M Ranzato, ...",
+   "venue": "NeurIPS. cc 34, 1-13",
+   "year": "2021"
+  },
+  {
+   "title": "Formal methods for probabilistic programming",
+   "authors": "D Selsam, P Liang, DL Dill",
+   "venue": "Workshop on Probabilistic Programming Languages, Semantics, and Systems",
+   "year": "2018"
+  },
+  {
+   "title": "Unsupervised risk estimation with only structural assumptions",
+   "authors": "J Steinhardt, P Liang",
+   "venue": "Preprint",
+   "year": "2016"
+  },
+  {
+   "title": "Foundation Models and the EU AI Act",
+   "authors": "R Bommasani, A Hau, K Klyman, P Liang",
+   "venue": "NeurIPS 2024 Workshop on Regulatable ML",
+   "year": "2024"
+  },
+  {
+   "title": "Stanford cs 191w senior project: Timing attacks on prompt caching in language model apis",
+   "authors": "C Gu, XL Li, R Kuditipudi, P Liang, T Hashimoto",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "One-sided matrix completion from two observations per row",
+   "authors": "S Cao, P Liang, G Valiant",
+   "venue": "International Conference on Machine Learning, 3599-3624",
+   "year": "2023"
+  },
+  {
+   "title": "Improving representational continuity via continued pretraining",
+   "authors": "M Sun, A Kumar, D Madaan, P Liang",
+   "venue": "arXiv preprint arXiv:2302.13289",
+   "year": "2023"
+  },
+  {
+   "title": "Dense Retrieval of Knowledge Graphs for Question Answering",
+   "authors": "SR Nangi, M Yasunaga, H Ren, Q Huang, P Liang, J Leskovec",
+   "venue": "Second Workshop on Knowledge Augmented Methods for Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Simple baselines are strong performers for differentially private natural language processing",
+   "authors": "X Li, F Tramer, P Liang, T Hashimoto",
+   "venue": "NeurIPS 2021 Workshop Privacy in Machine Learning",
+   "year": "2021"
+  },
+  {
+   "title": "35th Conference on Neural Information Processing Systems (NeurIPS 2021): Online, 6-14 December 2021",
+   "authors": "PS Liang, A Beygelzimmer, JW Vaughan, Y Dauphin",
+   "venue": "Curran Associates, Incorporated",
+   "year": "2021"
+  },
+  {
+   "title": "Advances in Neural Information Processing Systems",
+   "authors": "F Bao, G Wu, C Li, J Zhu, B Zhang, A Beygelzimer, Y Dauphin, P Liang, ...",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "When covariate-shifted data augmentation increases test error and how to fix it",
+   "authors": "SM Xie, A Raghunathan, F Yang, JC Duchi, P Liang",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Parsing rule augmentation based on query sequence and action co-occurrence",
+   "authors": "JD Uszkoreit, P Liang, DM Bikel, CI Chelba",
+   "venue": "US Patent 9,299,339",
+   "year": "2016"
+  },
+  {
+   "title": "Exceptions to action invocation from parsing rules",
+   "authors": "JD Uszkoreit, P Liang, DM Bikel",
+   "venue": "US Patent 9,117,452",
+   "year": "2015"
+  },
+  {
+   "title": "Spectral Experts for Estimating Mixtures of Linear Regressions",
+   "authors": "A Tejasvi Chaganty, P Liang",
+   "venue": "arXiv e-prints, arXiv: 1306.3729",
+   "year": "2013"
+  },
+  {
+   "title": "Static thread-escape analysis vis dynamic heap abstractions",
+   "authors": "M Naik, P Liang, M Sagiv",
+   "venue": "from Naik’s website",
+   "year": "2010"
+  },
+  {
+   "title": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots",
+   "authors": "J Moore, A Mock, Y Mai, JR Anthis, R Louie, W Agnew, A Mehta, ...",
+   "venue": "arXiv preprint arXiv:2608.05004",
+   "year": "2026"
+  },
+  {
+   "title": "Position: Language model developers should report train-test overlap",
+   "authors": "AK Zhang, K Klyman, Y Mai, Y Levine, Y Zhang, R Bommasani, P Liang",
+   "venue": "Forty-second International Conference on Machine Learning Position Paper Track",
+   "year": "2025"
+  },
+  {
+   "title": "Understanding and mitigating the tradeoff between robustness and accuracy",
+   "authors": "A Aditi Raghunathan, S Michael, MX Xie, F Yang, J Duchi, P Liang",
+   "venue": "Proceedings of the 37th International Conference on Machine Learning, PMLR",
+   "year": "2022"
+  },
+  {
+   "title": "Decoupling Exploration and Exploitation for Meta-Reinforcement Learning without Sacrifices",
+   "authors": "E Zheran Liu, A Raghunathan, P Liang, C Finn",
+   "venue": "arXiv e-prints, arXiv: 2008.02790",
+   "year": "2020"
+  },
+  {
+   "title": "Simplifying models with unlabeled output data",
+   "authors": "SM Xie, T Ma, P Liang",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Learning Abstract Models for Long-Horizon Exploration",
+   "authors": "EZ Liu, R Keramati, S Seshadri, K Guu, P Pasupat, E Brunskill, P Liang",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Robust Deep Semantics for Language Understanding",
+   "authors": "C Manning, D Jurafsky, P Liang",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Lattice semantic parsing",
+   "authors": "JD Uszkoreit, P Liang, DM Bikel",
+   "venue": "US Patent 9,280,970",
+   "year": "2016"
+  },
+  {
+   "title": "How Much of a Hypertree can be Captured by Windmills?",
+   "authors": "P Liang, N Srebro",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "A dynamic data structure for checking hyperacyclicity",
+   "authors": "P Liang, N Srebro",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "2 Huffman Coding",
+   "authors": "ED Scribes, P Liang, D Malan",
+   "venue": "Citeseer",
+   "year": "1952"
+  },
+  {
+   "title": "Multimodal Foundation Models for Healthcare",
+   "authors": "M Yasunaga, P Liang",
+   "venue": "Artificial Intelligence in Neurosurgery, 4-13",
+   "year": "2027"
+  },
+  {
+   "title": "MobileCybench: Evaluating Agent Vulnerability Discovery via Executable Probes",
+   "authors": "AK Zhang, A Huang, J Ji, W Han, T Qin, N Demilew, MTY Liu, B Song, ...",
+   "venue": "arXiv preprint arXiv:2609.23980",
+   "year": "2026"
+  },
+  {
+   "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+   "authors": "A Jha, M Li, J Leskovec, P Liang, L Zettlemoyer",
+   "venue": "arXiv preprint arXiv:2609.11917",
+   "year": "2026"
+  },
+  {
+   "title": "Prefix Sliding for efficient test-time scaling",
+   "authors": "N Muennighoff, Z Wang, Z Chen, W Shi, B Hui, J Yang, D Jiang, ...",
+   "venue": "arXiv preprint arXiv:2608.26070",
+   "year": "2026"
+  },
+  {
+   "title": "DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents",
+   "authors": "B Li, Z Chen, X Liu, H Tong, C Guo, Y Nie, J Zhang, M Kang, C Xu, Q Liu, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "The Mighty ToRR: A Benchmark for Table Reasoning and Robustness in LLMs",
+   "authors": "SA Tahan, Y Mai, A Gera, Y Perlitz, A Yehudai, E Bandel, L Choshen, ...",
+   "venue": "Annual Meeting of the Association for Computational Linguistics",
+   "year": "2026"
+  },
+  {
+   "title": "Extractable Memorization From First Principles",
+   "authors": "A Feder Cooper, M Swanberg, J Hayes, L Duesterwald, C De Sa, DE Ho, ...",
+   "venue": "arXiv e-prints, arXiv: 2607.12649",
+   "year": "2026"
+  },
+  {
+   "title": "FLARE-AI: Flaw Reporting for AI",
+   "authors": "S Longpre, E Zhu, C Ezell, A Ghosh, S McGregor, K Paeth, K Klyman, ...",
+   "venue": "arXiv preprint arXiv:2606.31567",
+   "year": "2026"
+  },
+  {
+   "title": "Economic Evaluations of Language Models",
+   "authors": "A Wan, S Hatgis-Kessell, T Aguirre, P Liang, R Bommasani",
+   "venue": "arXiv preprint arXiv:2607.19375",
+   "year": "2026"
+  },
+  {
+   "title": "Applied Theatre and Techno Scenery as Tools for Peacebuilding and Trauma Awareness among Communities Affected by Boko Haram Insurgency",
+   "authors": "A Anandkumar, C Finn, P Liang, Y Bengio, A Courville, F Chollet, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Estimating near-verbatim extraction risk in language models with decoding-constrained beam search",
+   "authors": "A Feder Cooper, MA Lemley, C De Sa, L Duesterwald, A Casasola, ...",
+   "venue": "arXiv e-prints, arXiv: 2603.24917",
+   "year": "2026"
+  },
+  {
+   "title": "When RL Meets Adaptive Speculative Training: A Unified Training-Serving System",
+   "authors": "J Wang, F Bie, J Li, Z Zhou, Z Shao, Y Wang, Y Liu, Q Wu, A May, ...",
+   "venue": "arXiv preprint arXiv:2602.06932",
+   "year": "2026"
+  },
+  {
+   "title": "Methods and systems for explainable interactive generation of compositions",
+   "authors": "L De Brouwer, WA DE BROUWER, G Trooskens, BR RESNICK, ...",
+   "venue": "US Patent App. 18/667,665",
+   "year": "2025"
+  },
+  {
+   "title": "Infrastructure and Innovation in Augmented Reality Scenography: Assessing the Challenges and Potentials of AR Integration in Nigerian Performance Spaces",
+   "authors": "C Finn, P Liang, Y Bengio, A Courville, F Chollet, X Huang",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Extracting memorized pieces of (copyrighted) books from open-weight language models",
+   "authors": "A Feder Cooper, A Gokaslan, AB Cyphert, C De Sa, MA Lemley, DE Ho, ...",
+   "venue": "arXiv e-prints, arXiv: 2505.12546",
+   "year": "2025"
+  },
+  {
+   "title": "Language Models May Verbatim Complete Text They Were Not Explicitly Trained On",
+   "authors": "K Ziyu Liu, CA Choquette-Choo, M Jagielski, P Kairouz, S Koyejo, P Liang, ...",
+   "venue": "arXiv e-prints, arXiv: 2503.17514",
+   "year": "2025"
+  },
+  {
+   "title": "NeurIPS 2025 Foundation Models Meet Embodied Agents Challenge: Systems, Analysis, and Lessons Learned",
+   "authors": "E Docs, T Bao, Q Wang, K Wang, BY Zhou, T Lee, LE Li, W Liu, R Zhang, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy and Research",
+   "authors": "A Feder Cooper, CA Choquette-Choo, M Bogen, K Klyman, M Jagielski, ...",
+   "venue": "arXiv e-prints, arXiv: 2412.06966",
+   "year": "2024"
+  },
+  {
+   "title": "Image2Struct: Benchmarking Structure Extraction for Vision-Language Models",
+   "authors": "J Somerville Roberts, T Lee, C Heem Wong, M Yasunaga, Y Mai, P Liang",
+   "venue": "arXiv e-prints, arXiv: 2410.22456",
+   "year": "2024"
+  },
+  {
+   "title": "AI RISK CATEGORIZATION DECODED (AIR 2024)",
+   "authors": "YI ZENG, K KLYMAN, A ZHOU, YU YANG, M PAN, R JIA, D SONG, ...",
+   "venue": "AGI-ARTIFICIAL GENERAL INTELLIGENCE-ROBOTICS-SAFETY & ALIGNMENT Учредители …",
+   "year": "2024"
+  },
+  {
+   "title": "Position",
+   "authors": "S Kapoor, R Bommasani, K Klyman, S Longpre, A Ramaswami, P Cihon, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Expandable dialogue system",
+   "authors": "PS Liang, DLW Hall, JJ Clausman",
+   "venue": "US Patent 11,842,724",
+   "year": "2023"
+  },
+  {
+   "title": "Truncated Marginal Neural Ratio Estimation",
+   "authors": "A Cole, P Forre, G Louppe, BK Miller, C Weniger, REIM Ranzato, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Extending the WILDS Benchmark for Unsupervised Adaptation",
+   "authors": "T Lee, I Gao, SM Xie, K Shen, A Kumar, W Hu, M Yasunaga, H Marklund, ...",
+   "venue": "arXiv preprint arXiv:2112.05090",
+   "year": "2021"
+  },
+  {
+   "title": "Just Train Twice: Improving Group Robustness without Training Group Information",
+   "authors": "E Zheran Liu, B Haghgoo, AS Chen, A Raghunathan, PW Koh, S Sagawa, ...",
+   "venue": "arXiv e-prints, arXiv: 2107.09044",
+   "year": "2021"
+  },
+  {
+   "title": "Learning Abstract Models for Strategic Exploration and Fast Reward Transfer",
+   "authors": "E Zheran Liu, R Keramati, S Seshadri, K Guu, P Pasupat, E Brunskill, ...",
+   "venue": "arXiv e-prints, arXiv: 2007.05896",
+   "year": "2020"
+  },
+  {
+   "title": "Learning to Automate Social Engineering Resistance (LASER)",
+   "authors": "D Song, L Song, BY Zhao, B Li, C Re, P Liang",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Pretraining deep learning molecular representations for property prediction",
+   "authors": "B Liu, W Hu, J Leskovec, P Liang, V Pande",
+   "venue": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 258",
+   "year": "2019"
+  },
+  {
+   "title": "The price of debiasing automatic metrics in natural language evaluation",
+   "authors": "A Tejasvi Chaganty, S Mussman, P Liang",
+   "venue": "arXiv e-prints, arXiv: 1807.02202",
+   "year": "2018"
+  },
+  {
+   "title": "LEARNING A SAT SOLVER FROM SINGLE-BIT SUPER",
+   "authors": "D Selsam, M Lamm, B Bünz, P Liang, DL Dill, L de Moura",
+   "venue": "arXiv preprint arXiv:1802.03685",
+   "year": "2018"
+  },
+  {
+   "title": "Identifying underserved command inputs",
+   "authors": "JD Uszkoreit, P Liang, DM Bikel",
+   "venue": "US Patent 9,812,124",
+   "year": "2017"
+  },
+  {
+   "title": "Identifying underserved command inputs",
+   "authors": "JD Uszkoreit, P Liang, DM Bikel",
+   "venue": "US Patent 9,704,481",
+   "year": "2017"
+  },
+  {
+   "title": "How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions",
+   "authors": "A Tejasvi Chaganty, P Liang",
+   "venue": "arXiv e-prints, arXiv: 1609.00070",
+   "year": "2016"
+  },
+  {
+   "title": "Estimating Mixture Models via Mixtures of Polynomials",
+   "authors": "SI Wang, AT Chaganty, P Liang",
+   "venue": "arXiv preprint arXiv:1603.08482",
+   "year": "2016"
+  },
+  {
+   "title": "Exceptions to action invocation from parsing rules",
+   "authors": "JD Uszkoreit, P Liang, DM Bikel",
+   "venue": "US Patent 9,275,034",
+   "year": "2016"
+  },
+  {
+   "title": "CAREER: Interactive Training of Semantic Parsers via Paraphrasing",
+   "authors": "P Liang",
+   "venue": "NSF Award Number 1552635. Directorate for Computer and Information Science …",
+   "year": "2016"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on Vector Space Modeling for Natural Language Processing",
+   "authors": "P Blunsom, SB Cohen, PS Dhillon, P Liang",
+   "venue": "Proceedings of the 1st Workshop on Vector Space Modeling for Natural …",
+   "year": "2015"
+  },
+  {
+   "title": "Errata for “Semi-Supervised Learning for natural language”",
+   "authors": "P Liang",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Online Review Analysis Using Unsupervised Aspect-Sentiment Model",
+   "authors": "T Zhang, Z Shi, P Liang",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Estimating Latent Variable Graphical Models with Moments and Likelihoods",
+   "authors": "AT Chaganty, P Liang",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "776 Probabilistic grammars and hierarchical Dirichlet processes",
+   "authors": "P Liang, M Jordan, D Klein",
+   "venue": "The Oxford Handbook of Applied Bayesian Analysis, 776-822",
+   "year": "2013"
+  },
+  {
+   "title": "An Asymptotic Analysis of Estimators: Generative, Discriminative, Pseudolikelihood",
+   "authors": "P Liang, MI Jordan",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "A permutation-augmented sampler for DP mixture models",
+   "authors": "B Taskar, P Liang, M Jordan",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "An End-to-End Discriminative Approach to Machine Translation",
+   "authors": "B Taskar, D Klein, A Bouchard-Côté, P Liang",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "Linear Programming in Bounded Tree-width Markov Networks",
+   "authors": "P Liang, N Srebro",
+   "venue": "Workshop on Mathematical Programming in Data Mining and Machine Learning …",
+   "year": "2005"
+  },
+  {
+   "title": "Потерянные в середине: как языковые модели используют длинные контексты (Lost in the Middle: How Language Models Use Long Contexts)",
+   "authors": "NF Liu, K Lin, J Hewitt, A Paranjape, M Bevilacqua, F Petroni, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Mapping the AI Supply Chain: Tracking Relationships, Partnerships, and Dependencies in the AI Industry",
+   "authors": "SH Cen, LA Gailmard, J Kim, R Bommasani, DE Ho, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Site navigation",
+   "authors": "P Liang, D Klein",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The Mighty ToRR: A Benchmark for Table Reasoning and Robustness in LLMs",
+   "authors": "A Yehudai, E Bandel, L Choshen, E Shnarch, P Liang, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Methods and Experiments With Bounded",
+   "authors": "P Liang, N Srebro",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Curating High Quality Pretraining Data for Language Models via Compression Ratios",
+   "authors": "E Obbad, B Miranda, DLW Hall, R Schaeffer, S Koyejo, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "RoboReward: A Dataset and Benchmark for Vision-Language Reward Models in Robotics",
+   "authors": "T Lee, A Wagenmaker, K Pertsch, P Liang, S Levine, C Finn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Scheduling data improves fine-tuning data efficiency",
+   "authors": "S Kotha, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "AIR-BENCH 2024: Safety Evaluation Based on Risk Categories from Regulations and Policies",
+   "authors": "Y Zeng, Y Yang, A Zhou, JZ Tan, Y Tu, Y Mai, K Klyman, M Pan, R Jia, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "2nd Workshop on Mathematical and Empirical Understanding of Foundation Models",
+   "authors": "SM Xie, A Kumar, S Min, S Malladi, LM Dery, A Raghunathan, T Ma, ...",
+   "venue": "ICLR 2024 Workshops",
+   "year": null
+  },
+  {
+   "title": "Robust Encodings: A Framework for Combating Adversarial Typos",
+   "authors": "EJR Jia, A Raghunathan, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Teaching language models with canonical examples",
+   "authors": "J Hewitt, SL Chen, P Liang, CD Manning",
+   "venue": "R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation …",
+   "year": null
+  },
+  {
+   "title": "Hierarchy-Driven Exploration for Reinforcement Learning",
+   "authors": "EZ Liu, R Keramati, S Seshadri, K Guu, P Pasupat, E Brunskill, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Task-Agnostic Robust Encodings for Combating Adversarial Typos",
+   "authors": "E Jones, R Jia, A Raghunathan, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Samuel R. Bowman, Curriculum Vitae",
+   "authors": "TF Icard, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Section: Video Event Understanding using Natural Language Descriptions",
+   "authors": "V Ramanathan, P Liang, L Fei-Fei",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Parsing Regular Expressions with Paraphrasing",
+   "authors": "Y Wang, J Berant, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "End-to-End Discriminative Training for Machine Translation",
+   "authors": "P Liang, A Bouchard-Côté, D Klein, B Taskar",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for the Paper: Environment-Driven Lexicon Induction for High-Level Instructions",
+   "authors": "DK Misra, K Tao, P Liang, A Saxena",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Scaling Up Simultaneous Diagonalization",
+   "authors": "V Kuleshov, AT Chaganty, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning Semantic Parsers for Natural Language Understanding",
+   "authors": "P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Data Structure for Maintaining Acyclicity in Hypergraphs",
+   "authors": "P Liang, N Srebro",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Linking people in videos with “their” names using coreference resolution (Supplementary Material)",
+   "authors": "V Ramanathan, A Joulin, P Liang, L Fei-Fei",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for Spectral Experts for Estimating Mixtures of Linear Regressions",
+   "authors": "AT Chaganty, P Liang",
+   "venue": "Journal of Machine Learning Research 1, 11",
+   "year": null
+  },
+  {
+   "title": "Using Unlabeled Data for Segmentation Tasks in Natural Language Processing",
+   "authors": "P Liang, M Collins",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

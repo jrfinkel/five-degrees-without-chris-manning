@@ -1,0 +1,131 @@
+{
+ "user": "n4g6v6kAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "When and why vision-language models behave like bags-of-words, and what to do about it?",
+   "authors": "M Yuksekgonul, F Bianchi, P Kalluri, D Jurafsky, J Zou",
+   "venue": "arXiv preprint arXiv:2210.01936",
+   "year": "2022"
+  },
+  {
+   "title": "Easily accessible text-to-image generation amplifies demographic stereotypes at large scale",
+   "authors": "F Bianchi, P Kalluri, E Durmus, F Ladhak, M Cheng, D Nozza, ...",
+   "venue": "Proceedings of the 2023 ACM conference on fairness, accountability, and …",
+   "year": "2023"
+  },
+  {
+   "title": "The values encoded in machine learning research",
+   "authors": "A Birhane, P Kalluri, D Card, W Agnew, R Dotan, M Bao",
+   "venue": "Proceedings of the 2022 ACM Conference on Fairness, Accountability, and …",
+   "year": "2020"
+  },
+  {
+   "title": "AI generates covertly racist decisions about people based on their dialect",
+   "authors": "V Hofmann, PR Kalluri, D Jurafsky, S King",
+   "venue": "Nature 633 (8028), 147-154",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "Don’t ask if artificial intelligence is good or fair, ask how it shifts power",
+   "authors": "P Kalluri",
+   "venue": "Nature 583 (7815), 169-169",
+   "year": "2020"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Learning controllable fair representations",
+   "authors": "J Song, P Kalluri, A Grover, S Zhao, S Ermon",
+   "venue": "The 22nd International conference on artificial intelligence and statistics …",
+   "year": "2019"
+  },
+  {
+   "title": "Dialect prejudice predicts AI decisions about people's character, employability, and criminality",
+   "authors": "V Hofmann, PR Kalluri, D Jurafsky, S King",
+   "venue": "arXiv preprint arXiv:2403.00742",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Computer-vision research powers surveillance technology",
+   "authors": "PR Kalluri, W Agnew, M Cheng, K Owens, L Soldaini, A Birhane",
+   "venue": "Nature 643 (8070), 73-79",
+   "year": "2025"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "The surveillance AI pipeline",
+   "authors": "PR Kalluri, W Agnew, M Cheng, K Owens, L Soldaini, A Birhane",
+   "venue": "arXiv preprint arXiv:2309.15084",
+   "year": "2023"
+  },
+  {
+   "title": "People who share encounters with racism are silenced online by humans and machines, but a guideline-reframing intervention holds promise",
+   "authors": "C Lee, K Gligorić, PR Kalluri, M Harrington, E Durmus, KL Sanchez, ...",
+   "venue": "Proceedings of the National Academy of Sciences 121 (38), e2322764121",
+   "year": "2024"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2022. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 5",
+   "year": null
+  },
+  {
+   "title": "Demographic stereotypes in text-to-image generation",
+   "authors": "F Bianchi, P Kalluri, E Durmus, F Ladhak, M Cheng, D Nozza, ...",
+   "venue": "Stanford Institute for Human-Centered Artificial Intelligence",
+   "year": "2023"
+  },
+  {
+   "title": "Evaluating the social impact of generative AI systems",
+   "authors": "I Solaiman, Z Talat, W Agnew, L Ahmad, DK Baker, SL Blodgett, C Chen, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Inside Ai: How Artificial Intelligence is Concentrating Power",
+   "authors": "PR Kalluri",
+   "venue": "Stanford University",
+   "year": "2024"
+  },
+  {
+   "title": "Building retrieval-augmented generation (rag) for internal knowledge bases",
+   "authors": "C Joshua, A Banerjee, MA Kaplan, A Willie, PR Kalluri, W Agnew, ...",
+   "venue": "Preprint/technical report",
+   "year": "2025"
+  },
+  {
+   "title": "Affinity-based Interpretation of Triangle Social Scenarios",
+   "authors": "P Kalluri, P Gervás",
+   "venue": "International Conference on Agents and Artificial Intelligence 2, 640-647",
+   "year": "2017"
+  }
+ ]
+}

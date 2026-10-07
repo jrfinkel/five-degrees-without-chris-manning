@@ -1,0 +1,245 @@
+{
+ "user": "exGxFFAAAAAJ",
+ "pubs": [
+  {
+   "title": "What is the Jeopardy Model? A Quasi-Synchronous Grammar for QA.",
+   "authors": "M Wang, NA Smith, T Mitamura",
+   "venue": "EMNLP-CoNLL 7, 22-32",
+   "year": "2007"
+  },
+  {
+   "title": "The role of social networks in online shopping: information passing, price of trust, and consumer choice",
+   "authors": "S Guo, M Wang, J Leskovec",
+   "venue": "Proceedings of the 12th ACM conference on Electronic commerce, 157-166",
+   "year": "2011"
+  },
+  {
+   "title": "Evaluating Contributions of Natural Language Parsers to Protein-Protein Interaction Extraction",
+   "authors": "K Sagae, E Davis, A Lavie, B MacWhinney, S Wintner, K Sagae, A Lavie, ...",
+   "venue": "Bioinformatics 25, 238-258",
+   "year": "2007"
+  },
+  {
+   "title": "Probabilistic tree-edit models with structured latent variables for textual entailment and question answering",
+   "authors": "M Wang, CD Manning",
+   "venue": "Proceedings of the 23rd International Conference on Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Named Entity Recognition with Bilingual Constraints.",
+   "authors": "W Che, M Wang, CD Manning, T Liu",
+   "venue": "HLT-NAACL, 52-62",
+   "year": "2013"
+  },
+  {
+   "title": "Cross-lingual Pseudo-Projected Expectation Regularization for Weakly Supervised Learning",
+   "authors": "M Wang, CD Manning",
+   "venue": "arXiv preprint arXiv:1310.1597",
+   "year": "2013"
+  },
+  {
+   "title": "Effect of non-linear deep architecture in sequence labeling",
+   "authors": "M Wang, CD Manning",
+   "venue": "Proceedings of the 6th International Joint Conference on Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "A survey of answer extraction techniques in factoid question answering",
+   "authors": "M Wang",
+   "venue": "Proceedings of the Human Language Technology Conference and North American …",
+   "year": "2006"
+  },
+  {
+   "title": "A fast, accurate deterministic parser for Chinese",
+   "authors": "M Wang, K Sagae, T Mitamura",
+   "venue": "Proceedings of the 21st International Conference on Computational …",
+   "year": "2006"
+  },
+  {
+   "title": "A Re-examination of Dependency Path Kernels for Relation Extraction.",
+   "authors": "M Wang",
+   "venue": "IJCNLP, 841-846",
+   "year": "2008"
+  },
+  {
+   "title": "Joint Word Alignment and Bilingual Named Entity Recognition Using Dual Decomposition.",
+   "authors": "M Wang, W Che, CD Manning",
+   "venue": "ACL (1), 1073-1082",
+   "year": "2013"
+  },
+  {
+   "title": "A Dual-layer CRFs Based Joint Decoding Method for Cascaded Segmentation and Labeling Tasks.",
+   "authors": "Y Shi, M Wang",
+   "venue": "IJCAI, 1707-1712",
+   "year": "2007"
+  },
+  {
+   "title": "Effective Bilingual Constraints for Semi-Supervised Learning of Named Entity Recognizers.",
+   "authors": "M Wang, W Che, CD Manning",
+   "venue": "AAAI",
+   "year": "2013"
+  },
+  {
+   "title": "Discriminative probabilistic models for passage based retrieval",
+   "authors": "M Wang, L Si",
+   "venue": "Proceedings of the 31st annual international ACM SIGIR conference on …",
+   "year": "2008"
+  },
+  {
+   "title": "Feature Noising for Log-Linear Structured Prediction.",
+   "authors": "S Wang, M Wang, S Wager, P Liang, CD Manning",
+   "venue": "EMNLP, 1170-1179",
+   "year": "2013"
+  },
+  {
+   "title": "Learning biological processes with global constraints",
+   "authors": "AT Scaria, J Berant, M Wang, CD Manning, J Lewis, B Harding, P Clark",
+   "venue": "Proceedings of EMNLP",
+   "year": "2013"
+  },
+  {
+   "title": "Two knives cut better than one: Chinese word segmentation with dual decomposition",
+   "authors": "M Wang, R Voigt, CD Manning",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "JAVELIN III: Cross-lingual question answering from Japanese and Chinese documents",
+   "authors": "T Mitamura, F Lin, H Shima, M Wang, J Ko, J Betteridge, M Bilotti, ...",
+   "venue": "Proceedings of NTCIR-6 Workshop Meeting, 202-209",
+   "year": "2007"
+  },
+  {
+   "title": "SPEDE: Probabilistic edit distance metrics for MT evaluation",
+   "authors": "M Wang, CD Manning",
+   "venue": "Proceedings of the Seventh Workshop on Statistical Machine Translation, 76-83",
+   "year": "2012"
+  },
+  {
+   "title": "Cmu javelin system for ntcir5 clqa1",
+   "authors": "F Lin, H Shima, M Wang, T Mitamura",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "An internal agent architecture incorporating standard reasoning components and standards-based agent communication",
+   "authors": "M Wang, M Purvis, M Nowostawski",
+   "venue": "Intelligent Agent Technology, IEEE/WIC/ACM International Conference on, 58-64",
+   "year": "2005"
+  },
+  {
+   "title": "Keyword translation accuracy and cross-lingual question answering in Chinese and Japanese",
+   "authors": "T Mitamura, M Wang, H Shima, F Lin",
+   "venue": "Proceedings of the Workshop on Multilingual Question Answering, 31-38",
+   "year": "2006"
+  },
+  {
+   "title": "Stanford’s system for parsing the English web",
+   "authors": "D McClosky, W Che, M Recasens, M Wang, R Socher, C Manning",
+   "venue": "Workshop on the Syntactic Analysis of Non-Canonical Language (SANCL 2012 …",
+   "year": "2012"
+  },
+  {
+   "title": "A Framework with a Peer Fostering Mechanism for Mobile P2P Game Development.",
+   "authors": "H Wolf, M Wang",
+   "venue": "ICMB, 109-115",
+   "year": "2005"
+  },
+  {
+   "title": "An agent-based collaborative framework for mobile p2p applications",
+   "authors": "M Wang, H Wolf, M Purvis, M Purvis",
+   "venue": "Agents and Peer-to-Peer Computing, 132-144",
+   "year": "2006"
+  },
+  {
+   "title": "Stanford: probabilistic edit distance metrics for STS",
+   "authors": "M Wang, D Cer",
+   "venue": "Proceedings of the First Joint Conference on Lexical and Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Modular approach to error analysis and evaluation for multilingual question answering",
+   "authors": "H Shima, M Wang, F Lin, T Mitamura",
+   "venue": "Proceedings of the Fifth International Conference on Language Resources and …",
+   "year": "2006"
+  },
+  {
+   "title": "Declarative agent programming support for a FIPA-compliant agent platform",
+   "authors": "M Wang, M Nowostawski, M Purvis",
+   "venue": "Programming Multi-Agent Systems, 252-266",
+   "year": "2006"
+  },
+  {
+   "title": "Learning a product of experts with elitist lasso",
+   "authors": "M Wang, CD Manning",
+   "venue": "Proceedings of the 6th International Joint Conference on Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Probabilistic finite state machines for regression-based MT evaluation",
+   "authors": "M Wang, CD Manning",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Using part-of-speech reranking to improve chinese word segmentation",
+   "authors": "M Wang, Y Shi",
+   "venue": "Proceedings of the Fifth SIGHAN Workshop on Chinese Language Processing, 205-208",
+   "year": "2006"
+  },
+  {
+   "title": "Tree Conditional Random Fields for Japanese Semantic Role Labeling",
+   "authors": "S Arora, F Lin, H Shima, M Wang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Bilingual and Cross-lingual Learning of Sequence Models with Bitext",
+   "authors": "M Wang",
+   "venue": "Stanford University",
+   "year": "2014"
+  },
+  {
+   "title": "The Role of Chatting in Online Shopping",
+   "authors": "T Chou, S Guo, M Wang",
+   "venue": "Sell 10000 (15000), 20000",
+   "year": null
+  },
+  {
+   "title": "Learning hidden variable models for blog retrieval",
+   "authors": "M Wang",
+   "venue": "Proceedings of the 33rd international ACM SIGIR conference on Research and …",
+   "year": "2010"
+  },
+  {
+   "title": "A Framework with Peer Fostering Mechanism for Mobile P2P Application Development",
+   "authors": "H Wolf, M Wang",
+   "venue": "University of Otago, Dunedin, New Zealand.[C28]",
+   "year": "2004"
+  },
+  {
+   "title": "Language and Statistics Spring 2006 Detecting Fake from Real Article",
+   "authors": "A Ahmed, M Wang, Y Wu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Cross-Lingual Question Answering from Japanese and Chinese Documents in the JAVELIN III System",
+   "authors": "T MITAMURA, H SHIMA, J KO, M WANG, F LIN, J BETTERIDGE, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "NLP Lab Project Report",
+   "authors": "M Wang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Justin Betteridge, Matthew Bilotti, Andrew Schlaikjer and Eric Nyberg Language Technologies Institute School of Computer Science Carnegie Mellon University",
+   "authors": "T Mitamura, F Lin, H Shima, M Wang, J Ko",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

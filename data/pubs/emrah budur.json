@@ -1,0 +1,59 @@
+{
+ "user": "zSNd03UAAAAJ",
+ "pubs": [
+  {
+   "title": "Data and representation for Turkish natural language inference",
+   "authors": "E Budur, R Özçelik, T Gungor, C Potts",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "LIDE: Language identification from text documents",
+   "authors": "P Mathur, A Misra, E Budur",
+   "venue": "arXiv preprint arXiv:1701.03682",
+   "year": "2017"
+  },
+  {
+   "title": "Structural Analysis of Criminal Network and Predicting Hidden Links using Machine Learning",
+   "authors": "E Budur, S Lee, VS Kong",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Building efficient and effective OpenQA systems for low-resource languages",
+   "authors": "E Budur, R Özçelik, D Soylu, O Khattab, T Güngör, C Potts",
+   "venue": "Knowledge-Based Systems 302, 112243",
+   "year": "2024"
+  },
+  {
+   "title": "Conversational open-domain question answering for resource-constrained languages",
+   "authors": "E Budur, T Güngör",
+   "venue": "Turkish Journal of Electrical Engineering and Computer Sciences 33 (2), 203-223",
+   "year": "2025"
+  },
+  {
+   "title": "Use of machine translation to obtain labeled datasets for resource-constrained languages",
+   "authors": "E Budur, R Özçelik, T Güngör, C Potts",
+   "venue": "CoRR, abs",
+   "year": "2004"
+  },
+  {
+   "title": "Domain-aware conversational open question answering for resource-constrained languages",
+   "authors": "E BUDUR",
+   "venue": "FEN BİLİMLERİ ENSTİTÜSÜ",
+   "year": "2024"
+  },
+  {
+   "title": "Turkish Question Answering Dataset (SQuAD-TR).",
+   "authors": "E Budur, O Khattab, Ö Rıza, D Soylu, T Güngör, C Potts",
+   "venue": "Boğaziçi University",
+   "year": "2022"
+  },
+  {
+   "title": "Scalable, Trie-based Approximate Entity Extraction for Real-Time Financial Transaction Screening",
+   "authors": "E Budur",
+   "venue": "arXiv preprint arXiv:1701.03492",
+   "year": "2017"
+  }
+ ]
+}

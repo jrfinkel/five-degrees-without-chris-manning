@@ -1,0 +1,59 @@
+{
+ "user": "ENbP8PkAAAAJ",
+ "pubs": [
+  {
+   "title": "Can we achieve more with less? exploring data augmentation for toxic comment classification",
+   "authors": "C Rastogi, N Mofid, FI Hsiao",
+   "venue": "arXiv preprint arXiv:2007.00875",
+   "year": "2020"
+  },
+  {
+   "title": "Routing algorithms as tools for integrating social distancing with emergency evacuation",
+   "authors": "YL Tsai, C Rastogi, PK Kitanidis, CB Field",
+   "venue": "Scientific reports 11 (1), 19623",
+   "year": "2021"
+  },
+  {
+   "title": "Neural generation meets real people: Building a social, informative open-domain dialogue agent",
+   "authors": "EA Chi, A Paranjape, A See, C Chiam, T Chang, K Kenealy, SK Lim, ...",
+   "venue": "Proceedings of the 23rd Annual Meeting of the Special Interest Group on …",
+   "year": "2022"
+  },
+  {
+   "title": "Neural, neural everywhere: Controlled generation meets scaffolded, structured dialogue",
+   "authors": "EA Chi, C Chiam, T Chang, SK Lim, C Rastogi, A Iyabor, Y He, ...",
+   "venue": "Alexa Prize Proceedings",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring graph based approaches for author name disambiguation",
+   "authors": "C Rastogi, P Agarwal, S Singh",
+   "venue": "arXiv preprint arXiv:2312.08388",
+   "year": "2023"
+  },
+  {
+   "title": "Squeezegan: Image to image translation with minimum parameters",
+   "authors": "S Kelkar, C Rastogi, S Gupta, GN Pillai",
+   "venue": "2018 International Joint Conference on Neural Networks (IJCNN), 1-6",
+   "year": "2018"
+  },
+  {
+   "title": "Classification of extension and flexion positions of thumb, index and middle fingers using EEG Signal",
+   "authors": "FOM Joseph, S Gupta, C Rastogi, RR Mirdha, A Puwar, U Maheshwari, ...",
+   "venue": "2016 6th IEEE International Conference on Control System, Computing and …",
+   "year": "2016"
+  },
+  {
+   "title": "Hochauflösende Messung der Geschwindigkeit für Realistische Simulation des Rennradfahrens auf einem Ergometer",
+   "authors": "A Artiga Gonzalez, M Gratkowski, C Rastogi, D Saupe",
+   "venue": "11. Symposium der dvs-Sektion Sportinformatik, 132-137",
+   "year": "2016"
+  },
+  {
+   "title": "Tidy analysis of TyDi: Analysing knowledge sharing in Multilingual domain",
+   "authors": "A Jindal, C Rastogi",
+   "venue": "https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/reports/custom …",
+   "year": null
+  }
+ ]
+}

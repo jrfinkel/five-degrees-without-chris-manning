@@ -1,0 +1,89 @@
+{
+ "user": "7SUV6rQAAAAJ",
+ "pubs": [
+  {
+   "title": "On the Opportunities and Risks of Foundation Models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "Stanford AI Lab whitepaper",
+   "year": "2021"
+  },
+  {
+   "title": "How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings",
+   "authors": "K Ethayarajh",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "KTO: Model Alignment as Prospect Theoretic Optimization",
+   "authors": "K Ethayarajh, W Xu, N Muennighoff, D Jurafsky, D Kiela",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Understanding Dataset Difficulty with -Usable Information",
+   "authors": "K Ethayarajh, Y Choi, S Swayamdipta",
+   "venue": "ICML",
+   "year": "2022"
+  },
+  {
+   "title": "Utility is in the Eye of the User: A Critique of NLP Leaderboards",
+   "authors": "K Ethayarajh, D Jurafsky",
+   "venue": "EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Understanding Undesirable Word Embedding Associations",
+   "authors": "K Ethayarajh, D Duvenaud, G Hirst",
+   "venue": "ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Towards Understanding Linear Word Analogies",
+   "authors": "K Ethayarajh, D Duvenaud, G Hirst",
+   "venue": "ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Unsupervised Random Walk Sentence Embeddings: A Strong but Simple Baseline",
+   "authors": "K Ethayarajh",
+   "venue": "ACL - Repl4NLP",
+   "year": "2018"
+  },
+  {
+   "title": "Conditional probing: measuring usable information beyond a baseline",
+   "authors": "J Hewitt, K Ethayarajh, P Liang, CD Manning",
+   "venue": "EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "Dynaboard: An Evaluation-As-A-Service Platform for Holistic Next-Generation Benchmarking",
+   "authors": "Z Ma*, K Ethayarajh*, T Thrush*, S Jain, L Wu, R Jia, C Potts, A Williams, ...",
+   "venue": "NeurIPS",
+   "year": "2021"
+  },
+  {
+   "title": "Anchor points: Benchmarking models with much fewer examples",
+   "authors": "R Vivek, K Ethayarajh, D Yang, D Kiela",
+   "venue": "EACL 2024",
+   "year": "2023"
+  },
+  {
+   "title": "The Authenticity Gap in Human Evaluation",
+   "authors": "K Ethayarajh, D Jurafsky",
+   "venue": "EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "Mecha-nudges for Machines",
+   "authors": "G Frey, K Ethayarajh",
+   "venue": "arXiv preprint arXiv:2603.23433",
+   "year": "2026"
+  },
+  {
+   "title": "Humanline: Online Alignment as Perceptual Loss",
+   "authors": "S Liu, N Muennighoff, K Ethayarajh",
+   "venue": "arXiv preprint arXiv:2509.24207",
+   "year": "2025"
+  }
+ ]
+}

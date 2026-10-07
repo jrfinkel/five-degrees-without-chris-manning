@@ -1,0 +1,1919 @@
+{
+ "user": "3j08YoAAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Recursive deep models for semantic compositionality over a sentiment treebank",
+   "authors": "R Socher, A Perelygin, J Wu, J Chuang, CD Manning, AY Ng, C Potts",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Learning word vectors for sentiment analysis",
+   "authors": "A Maas, RE Daly, PT Pham, D Huang, AY Ng, C Potts",
+   "venue": "Proceedings of the 49th annual meeting of the association for computational …",
+   "year": "2011"
+  },
+  {
+   "title": "A large annotated corpus for learning natural language inference",
+   "authors": "SR Bowman, G Angeli, C Potts, CD Manning",
+   "venue": "Proceedings of the 2015 conference on empirical methods in natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "The logic of conventional implicatures",
+   "authors": "C Potts",
+   "venue": "Oxford University Press, USA",
+   "year": "2005"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "The expressive dimension",
+   "authors": "C Potts",
+   "venue": "Theoretical linguistics 33 (2), 165-198",
+   "year": "2007"
+  },
+  {
+   "title": "Colbertv2: Effective and efficient retrieval via lightweight late interaction",
+   "authors": "K Santhanam, O Khattab, J Saad-Falcon, C Potts, M Zaharia",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Dspy: Compiling declarative language model calls into self-improving pipelines",
+   "authors": "O Khattab, A Singhvi, P Maheshwari, Z Zhang, K Santhanam, ...",
+   "venue": "arXiv preprint arXiv:2310.03714",
+   "year": "2023"
+  },
+  {
+   "title": "Dynabench: Rethinking benchmarking in NLP",
+   "authors": "D Kiela, M Bartolo, Y Nie, D Kaushik, A Geiger, Z Wu, B Vidgen, G Prasad, ...",
+   "venue": "Proceedings of the 2021 conference of the North American chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "A computational approach to politeness with application to social factors",
+   "authors": "C Danescu-Niculescu-Mizil, M Sudhof, D Jurafsky, J Leskovec, C Potts",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Gepa: Reflective prompt evolution can outperform reinforcement learning",
+   "authors": "LA Agrawal, S Tan, D Soylu, N Ziems, R Khare, K Opsahl-Ong, A Singhvi, ...",
+   "venue": "International Conference on Learning Representations 2026, 8479-8565",
+   "year": "2026"
+  },
+  {
+   "title": "No country for old members: User lifecycle and linguistic change in online communities",
+   "authors": "C Danescu-Niculescu-Mizil, R West, D Jurafsky, J Leskovec, C Potts",
+   "venue": "Proceedings of the 22nd international conference on World Wide Web, 307-318",
+   "year": "2013"
+  },
+  {
+   "title": "Ares: An automated evaluation framework for retrieval-augmented generation systems",
+   "authors": "J Saad-Falcon, O Khattab, C Potts, M Zaharia",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Dspy: Compiling declarative language model calls into state-of-the-art pipelines",
+   "authors": "O Khattab, A Singhvi, P Maheshwari, Z Zhang, K Santhanam, S Haq, ...",
+   "venue": "International Conference on Learning Representations 2024, 54928-54958",
+   "year": "2024"
+  },
+  {
+   "title": "Causal abstractions of neural networks",
+   "authors": "A Geiger, H Lu, T Icard, C Potts",
+   "venue": "Advances in neural information processing systems 34, 9574-9586",
+   "year": "2021"
+  },
+  {
+   "title": "Demonstrate-search-predict: Composing retrieval and language models for knowledge-intensive nlp",
+   "authors": "O Khattab, K Santhanam, XL Li, D Hall, P Liang, C Potts, M Zaharia",
+   "venue": "arXiv preprint arXiv:2212.14024",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "A fast unified model for parsing and sentence understanding",
+   "authors": "SR Bowman, J Gauthier, A Rastogi, R Gupta, CD Manning, C Potts",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Mquake: Assessing knowledge editing in language models via multi-hop questions",
+   "authors": "Z Zhong, Z Wu, CD Manning, C Potts, D Chen",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Presupposition and implicature",
+   "authors": "C Potts",
+   "venue": "The handbook of contemporary semantic theory, 168-202",
+   "year": "2015"
+  },
+  {
+   "title": "Optimizing instructions and demonstrations for multi-stage language model programs",
+   "authors": "K Opsahl-Ong, MJ Ryan, J Purtell, D Broman, C Potts, M Zaharia, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Perspective-shifting with appositives and expressives",
+   "authors": "JA Harris, C Potts",
+   "venue": "Linguistics and Philosophy 32 (6), 523-552",
+   "year": "2009"
+  },
+  {
+   "title": "Reft: Representation finetuning for language models",
+   "authors": "Z Wu, A Arora, Z Wang, A Geiger, D Jurafsky, CD Manning, C Potts",
+   "venue": "Advances in Neural Information Processing Systems 37, 63908-63962",
+   "year": "2024"
+  },
+  {
+   "title": "Exploiting social network structure for person-to-person sentiment analysis",
+   "authors": "R West, HS Paskov, J Leskovec, C Potts",
+   "venue": "Transactions of the Association for Computational Linguistics 2, 297-310",
+   "year": "2014"
+  },
+  {
+   "title": "Fitting in or standing out? The tradeoffs of structural and cultural embeddedness",
+   "authors": "A Goldberg, SB Srivastava, VG Manian, W Monroe, C Potts",
+   "venue": "American Sociological Review 81 (6), 1190-1222",
+   "year": "2016"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Mapping the increasing use of LLMs in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "arXiv preprint arXiv:2404.01268",
+   "year": "2024"
+  },
+  {
+   "title": "Finding alignments between interpretable causal variables and distributed neural representations",
+   "authors": "A Geiger, Z Wu, C Potts, T Icard, N Goodman",
+   "venue": "Causal Learning and Reasoning, 160-187",
+   "year": "2024"
+  },
+  {
+   "title": "Enculturation trajectories: Language, cultural adaptation, and individual outcomes in organizations",
+   "authors": "SB Srivastava, A Goldberg, VG Manian, C Potts",
+   "venue": "Management Science 64 (3), 1348-1364",
+   "year": "2018"
+  },
+  {
+   "title": "The syntax and semantics of As-parentheticals",
+   "authors": "C Potts",
+   "venue": "Natural Language & Linguistic Theory 20 (3), 623-689",
+   "year": "2002"
+  },
+  {
+   "title": "Causal abstraction: A theoretical foundation for mechanistic interpretability",
+   "authors": "A Geiger, D Ibeling, A Zur, M Chaudhary, S Chauhan, J Huang, A Arora, ...",
+   "venue": "Journal of Machine Learning Research 26 (83), 1-64",
+   "year": "2025"
+  },
+  {
+   "title": "The shift from models to compound ai systems",
+   "authors": "M Zaharia, O Khattab, L Chen, JQ Davis, H Miller, C Potts, J Zou, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "The logic of conventional implicatures",
+   "authors": "CG Potts",
+   "venue": "University of California, Santa Cruz",
+   "year": "2003"
+  },
+  {
+   "title": "The pragmatic values of evidential sentences",
+   "authors": "C Davis, C Potts, M Speas",
+   "venue": "Semantics and Linguistic Theory, 71-88",
+   "year": "2007"
+  },
+  {
+   "title": "The dimensions of quotation",
+   "authors": "C Potts",
+   "venue": "Direct compositionality 14, 405-431",
+   "year": "2007"
+  },
+  {
+   "title": "The life and death of discourse entities: Identifying singleton mentions",
+   "authors": "M Recasens, MC De Marneffe, C Potts",
+   "venue": "Proceedings of the 2013 conference of the North American chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Conventional implicatures: A distinguished class of meanings",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Axbench: Steering llms? even simple baselines outperform sparse autoencoders",
+   "authors": "Z Wu, A Arora, A Geiger, Z Wang, J Huang, D Jurafsky, CD Manning, ...",
+   "venue": "arXiv preprint arXiv:2501.17148",
+   "year": "2025"
+  },
+  {
+   "title": "PLAID: an efficient engine for late interaction retrieval",
+   "authors": "K Santhanam, O Khattab, C Potts, M Zaharia",
+   "venue": "Proceedings of the 31st ACM International Conference on Information …",
+   "year": "2022"
+  },
+  {
+   "title": "Did it happen? The pragmatic complexity of veridicality assessment",
+   "authors": "MC De Marneffe, CD Manning, C Potts",
+   "venue": "Computational linguistics 38 (2), 301-333",
+   "year": "2012"
+  },
+  {
+   "title": "Crowdsourcing and language studies: the new generation of linguistic data",
+   "authors": "R Munro, S Bethard, V Kuperman, VT Lai, R Melnick, C Potts, ...",
+   "venue": "Proceedings of the NAACL HLT 2010 workshop on creating speech and language …",
+   "year": "2010"
+  },
+  {
+   "title": "Harmonic Grammar with linear programming: from linear systems to linguistic typology",
+   "authors": "C Potts, J Pater, K Jesney, R Bhatt, M Becker",
+   "venue": "Phonology 27 (1), 77-117",
+   "year": "2010"
+  },
+  {
+   "title": "Japanese honorifics as emotive definite descriptions",
+   "authors": "C Potts, S Kawahara",
+   "venue": "Proceedings of SALT 14 (0), 253-270",
+   "year": "2011"
+  },
+  {
+   "title": "Methods, apparatus and systems for annotation of text documents",
+   "authors": "C Potts, E Lin, A Maas, A Itharaju, K Reschke, J Vincent",
+   "venue": "US Patent 11,263,391",
+   "year": "2022"
+  },
+  {
+   "title": "Quantifying large language model usage in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "Nature Human Behaviour 9 (12), 2599-2609",
+   "year": "2025"
+  },
+  {
+   "title": "Interpretability at scale: Identifying causal mechanisms in alpaca",
+   "authors": "Z Wu, A Geiger, T Icard, C Potts, N Goodman",
+   "venue": "Advances in neural information processing systems 36, 78205-78226",
+   "year": "2023"
+  },
+  {
+   "title": "Conventional implicature and expressive content",
+   "authors": "C Potts",
+   "venue": "Semantics: An International Handbook of Natural Language Meaning. DeGruyter …",
+   "year": "2008"
+  },
+  {
+   "title": "Into the conventional‐implicature dimension",
+   "authors": "C Potts",
+   "venue": "Philosophy compass 2 (4), 665-679",
+   "year": "2007"
+  },
+  {
+   "title": "Colors in context: A pragmatic neural model for grounded language understanding",
+   "authors": "W Monroe, RXD Hawkins, N Goodman, C Potts",
+   "venue": "Transactions of the Association for Computational Linguistics 5, 325-338",
+   "year": "2017"
+  },
+  {
+   "title": "The Lexical Semantics of Parenthical‐as and Appositive‐which",
+   "authors": "C Potts",
+   "venue": "Syntax 5 (1), 55-88",
+   "year": "2002"
+  },
+  {
+   "title": "Text to 3d scene generation with rich lexical grounding",
+   "authors": "A Chang, W Monroe, M Savva, C Potts, CD Manning",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Inducing causal structure for interpretable neural networks",
+   "authors": "A Geiger, Z Wu, H Lu, J Rozner, E Kreiss, T Icard, N Goodman, C Potts",
+   "venue": "International Conference on Machine Learning, 7324-7338",
+   "year": "2022"
+  },
+  {
+   "title": "Neural natural language inference models partially embed theories of lexical entailment and negation",
+   "authors": "A Geiger, K Richardson, C Potts",
+   "venue": "Proceedings of the third blackboxnlp workshop on analyzing and interpreting …",
+   "year": "2020"
+  },
+  {
+   "title": "Mission: Impossible language models",
+   "authors": "J Kallini, I Papadimitriou, R Futrell, K Mahowald, C Potts",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "That straight talk: Sarah Palin and the sociolinguistics of demonstratives",
+   "authors": "EK Acton, C Potts",
+   "venue": "Journal of Sociolinguistics 18 (1), 3-31",
+   "year": "2014"
+  },
+  {
+   "title": "On the negativity of negation",
+   "authors": "C Potts",
+   "venue": "Semantics and linguistic theory, 636-659",
+   "year": "2010"
+  },
+  {
+   "title": "Relevance-guided supervision for openqa with colbert",
+   "authors": "O Khattab, C Potts, M Zaharia",
+   "venue": "Transactions of the association for computational linguistics 9, 929-944",
+   "year": "2021"
+  },
+  {
+   "title": "Dspy: Compiling declarative language model calls into self-improving pipelines, 2023",
+   "authors": "O Khattab, A Singhvi, P Maheshwari, Z Zhang, K Santhanam, ...",
+   "venue": "URL https://arxiv. org/abs/2310.03714 3",
+   "year": "2021"
+  },
+  {
+   "title": "Recursive neural networks can learn logical semantics",
+   "authors": "S Bowman, C Potts, CD Manning",
+   "venue": "Proceedings of the 3rd workshop on continuous vector space models and their …",
+   "year": "2015"
+  },
+  {
+   "title": "Embedded implicatures as pragmatic inferences under compositional lexical uncertainty",
+   "authors": "C Potts, D Lassiter, R Levy, MC Frank",
+   "venue": "Journal of Semantics 33 (4), 755-802",
+   "year": "2015"
+  },
+  {
+   "title": "Gepa: Reflective prompt evolution can outperform reinforcement learning, 2025",
+   "authors": "LA Agrawal, S Tan, D Soylu, N Ziems, R Khare, K Opsahl-Ong, A Singhvi, ...",
+   "venue": "URL https://arxiv. org/abs/2507.19457 2 (3), 4",
+   "year": "2025"
+  },
+  {
+   "title": "DynaSent: A dynamic benchmark for sentiment analysis",
+   "authors": "C Potts, Z Wu, A Geiger, D Kiela",
+   "venue": "Proceedings of the 59th annual meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Affective ‘this’",
+   "authors": "C Potts, F Schwarz",
+   "venue": "Linguistic Issues in Language Technology 3",
+   "year": "2010"
+  },
+  {
+   "title": "Pragmatically informative image captioning with character-level inference",
+   "authors": "R Cohn-Gordon, N Goodman, C Potts",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Baleen: Robust multi-hop reasoning at scale via condensed retrieval",
+   "authors": "O Khattab, C Potts, M Zaharia",
+   "venue": "Advances in Neural Information Processing Systems 34, 27670-27682",
+   "year": "2021"
+  },
+  {
+   "title": "Model theory and the content of OT constraints",
+   "authors": "C Potts, GK Pullum",
+   "venue": "Phonology 19 (3), 361-393",
+   "year": "2002"
+  },
+  {
+   "title": "Bringing machine learning and compositional semantics together",
+   "authors": "P Liang, C Potts",
+   "venue": "Annu. Rev. Linguist. 1 (1), 355-376",
+   "year": "2015"
+  },
+  {
+   "title": "The centrality of expressive indices",
+   "authors": "C Potts",
+   "venue": "Theoretical Linguistics 33 (2), 255-268",
+   "year": "2007"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Expressives and identity conditions",
+   "authors": "C Potts, A Asudeh, S Cable, Y Hara, E McCready, L Alonso-Ovalle, ...",
+   "venue": "Linguistic Inquiry 40 (2), 356-366",
+   "year": "2009"
+  },
+  {
+   "title": "Sentiment flow through hyperlink networks",
+   "authors": "M Miller, C Sathi, D Wiesenthal, J Leskovec, C Potts",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 5 …",
+   "year": "2011"
+  },
+  {
+   "title": "Expressive content as conventional implicature",
+   "authors": "C Potts",
+   "venue": "Proceedings-Nels 33, 303-322",
+   "year": "2003"
+  },
+  {
+   "title": "Recursive neural networks can learn logical semantics",
+   "authors": "SR Bowman, C Potts, CD Manning",
+   "venue": "arXiv preprint arXiv:1406.1827",
+   "year": "2014"
+  },
+  {
+   "title": "Dynaboard: An evaluation-as-a-service platform for holistic next-generation benchmarking",
+   "authors": "Z Ma, K Ethayarajh, T Thrush, S Jain, L Wu, R Jia, C Potts, A Williams, ...",
+   "venue": "Advances in Neural Information Processing Systems 34, 10351-10367",
+   "year": "2021"
+  },
+  {
+   "title": "Tree-structured composition in neural networks without tree-structured architectures",
+   "authors": "SR Bowman, CD Manning, C Potts",
+   "venue": "arXiv preprint arXiv:1506.04834",
+   "year": "2015"
+  },
+  {
+   "title": "Cebab: Estimating the causal effects of real-world concepts on nlp model behavior",
+   "authors": "ED Abraham, K D'Oosterlinck, A Feder, Y Gat, A Geiger, C Potts, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 17582-17596",
+   "year": "2022"
+  },
+  {
+   "title": "Demystifying verbatim memorization in large language models",
+   "authors": "J Huang, D Yang, C Potts",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "The narrowing acquisition path: From expressive small clauses to declaratives",
+   "authors": "C Potts, T Roeper",
+   "venue": "The syntax of nonsententials: Multi-disciplinary perspectives, 183-201",
+   "year": "2006"
+  },
+  {
+   "title": "RAVEL: Evaluating interpretability methods on disentangling language model representations",
+   "authors": "J Huang, Z Wu, C Potts, M Geva, A Geiger",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "A data-driven framework for mapping domains of human neurobiology",
+   "authors": "E Beam, C Potts, RA Poldrack, A Etkin",
+   "venue": "Nature neuroscience 24 (12), 1733-1744",
+   "year": "2021"
+  },
+  {
+   "title": "“Was it good? It was provocative.” Learning the meaning of scalar adjectives",
+   "authors": "MC De Marneffe, CD Manning, C Potts",
+   "venue": "Proceedings of the 48th annual meeting of the association for computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Learning in the rational speech acts model",
+   "authors": "W Monroe, C Potts",
+   "venue": "arXiv preprint arXiv:1510.06807",
+   "year": "2015"
+  },
+  {
+   "title": "Rigorously assessing natural language explanations of neurons",
+   "authors": "J Huang, A Geiger, K D’Oosterlinck, Z Wu, C Potts",
+   "venue": "Proceedings of the 6th BlackboxNLP Workshop: Analyzing and Interpreting …",
+   "year": "2023"
+  },
+  {
+   "title": "Causal abstraction for faithful model interpretation",
+   "authors": "A Geiger, C Potts, T Icard",
+   "venue": "arXiv preprint arXiv:2301.04709, 9",
+   "year": "2023"
+  },
+  {
+   "title": "The pragmatics of expressive content: Evidence from large corpora",
+   "authors": "N Constant, C Davis, C Potts, F Schwarz",
+   "venue": "Sprache und Datenverarbeitung 33 (1-2), 5-21",
+   "year": "2009"
+  },
+  {
+   "title": "Moeut: Mixture-of-experts universal transformers",
+   "authors": "R Csordás, K Irie, J Schmidhuber, C Potts, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 37, 28589-28614",
+   "year": "2024"
+  },
+  {
+   "title": "Talkdown: A corpus for condescension detection in context",
+   "authors": "Z Wang, C Potts",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Representing social media users for sarcasm detection",
+   "authors": "YA Kolchinski, C Potts",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Emergence of Gricean maxims from multi-agent decision theory",
+   "authors": "A Vogel, M Bodoia, C Potts, D Jurafsky",
+   "venue": "Proceedings of the 2013 conference of the north american chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Fine-tuning and prompt optimization: Two great steps that work better together",
+   "authors": "D Soylu, C Potts, O Khattab",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "CausalGym: Benchmarking causal interpretability methods on linguistic tasks",
+   "authors": "A Arora, D Jurafsky, C Potts",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "pyvene: A library for understanding and improving PyTorch models via interventions",
+   "authors": "Z Wu, A Geiger, A Arora, J Huang, Z Wang, N Goodman, CD Manning, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "When even no’s neg is splitsville",
+   "authors": "C Potts",
+   "venue": "URL: http://ling. ucsc. edu/Jorge/potts. html, 1-4",
+   "year": "2000"
+  },
+  {
+   "title": "An incremental iterated response model of pragmatics",
+   "authors": "R Cohn-Gordon, N Goodman, C Potts",
+   "venue": "Proceedings of the Society for Computation in Linguistics (SCiL) 2019, 81-90",
+   "year": "2019"
+  },
+  {
+   "title": "Lexicalized intonational meaning",
+   "authors": "C Potts",
+   "venue": "University of Massachusetts Occasional Papers 30, 129-146",
+   "year": "2005"
+  },
+  {
+   "title": "Affective demonstratives and the division of pragmatic labor",
+   "authors": "C Davis, C Potts",
+   "venue": "Logic, Language and Meaning: 17th Amsterdam Colloquium, Amsterdam, The …",
+   "year": "2010"
+  },
+  {
+   "title": "Anchored preference optimization and contrastive revisions: Addressing underspecification in alignment",
+   "authors": "K D'Oosterlinck, W Xu, C Develder, T Demeester, A Singh, C Potts, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 13, 442-460",
+   "year": "2025"
+  },
+  {
+   "title": "UDAPDR: Unsupervised domain adaptation via LLM prompting and distillation of rerankers",
+   "authors": "J Saad-Falcon, O Khattab, K Santhanam, R Florian, M Franz, S Roukos, ...",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Context matters for image descriptions for accessibility: Challenges for referenceless evaluation metrics",
+   "authors": "E Kreiss, C Bennett, S Hooshmand, E Zelikman, MR Morris, C Potts",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Hindsight: Posterior-guided training of retrievers for improved open-ended generation",
+   "authors": "A Paranjape, O Khattab, C Potts, M Zaharia, CD Manning",
+   "venue": "arXiv preprint arXiv:2110.07752",
+   "year": "2021"
+  },
+  {
+   "title": "Linguistic optimization",
+   "authors": "J Pater, R Bhatt, C Potts",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Data and representation for Turkish natural language inference",
+   "authors": "E Budur, R Özçelik, T Gungor, C Potts",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Mittens: an extension of glove for learning domain-specialized representations",
+   "authors": "N Dingwall, C Potts",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Improving pretraining data using perplexity correlations",
+   "authors": "T Thrush, C Potts, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2025, 17475-17509",
+   "year": "2025"
+  },
+  {
+   "title": "Do language models use their depth efficiently?",
+   "authors": "R Csordás, CD Manning, C Potts",
+   "venue": "Advances in Neural Information Processing Systems 38, 160313-160362",
+   "year": "2026"
+  },
+  {
+   "title": "Causal proxy models for concept-based model explanations",
+   "authors": "Z Wu, K D’Oosterlinck, A Geiger, A Zur, C Potts",
+   "venue": "International conference on machine learning, 37313-37334",
+   "year": "2023"
+  },
+  {
+   "title": "Exclamatives and heightened emotion: Extracting pragmatic generalizations from large corpora",
+   "authors": "C Potts, F Schwarz",
+   "venue": "Ms., UMass Amherst, 1-29",
+   "year": "2008"
+  },
+  {
+   "title": "Recurrent neural networks learn to store and generate sequences using non-linear representations",
+   "authors": "R Csordás, C Potts, CD Manning, A Geiger",
+   "venue": "Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting …",
+   "year": "2024"
+  },
+  {
+   "title": "Goal-driven answers in the Cards dialogue corpus",
+   "authors": "C Potts",
+   "venue": "Proceedings of the 30th west coast conference on formal linguistics, 1-20",
+   "year": "2012"
+  },
+  {
+   "title": "Posing fair generalization tasks for natural language inference",
+   "authors": "A Geiger, I Cases, L Karttunen, C Potts",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Base models beat aligned models at randomness and creativity",
+   "authors": "P West, C Potts",
+   "venue": "arXiv preprint arXiv:2505.00047",
+   "year": "2025"
+  },
+  {
+   "title": "Implicatures and nested beliefs in approximate Decentralized-POMDPs",
+   "authors": "A Vogel, C Potts, D Jurafsky",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "OT-HELP 2",
+   "authors": "R Staubs, M Becker, C Potts, P Praat, J McCarthy, J Pater",
+   "venue": "Software Package. University of Massachussetts, Amherst",
+   "year": "2010"
+  },
+  {
+   "title": "Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models",
+   "authors": "B Prystawski, P Thibodeau, C Potts, ND Goodman",
+   "venue": "arXiv preprint arXiv:2209.08141",
+   "year": "2022"
+  },
+  {
+   "title": "Dspy assertions: Computational constraints for self-refining language model pipelines",
+   "authors": "A Singhvi, M Shetty, S Tan, C Potts, K Sen, M Zaharia, O Khattab",
+   "venue": "arXiv preprint arXiv:2312.13382",
+   "year": "2023"
+  },
+  {
+   "title": "Interpretive economy, Schelling points, and evolutionary stability",
+   "authors": "C Potts",
+   "venue": "Manuscript, UMass Amherst",
+   "year": "2008"
+  },
+  {
+   "title": "Recursive routing networks: Learning to compose modules for language understanding",
+   "authors": "I Cases, C Rosenbaum, M Riemer, A Geiger, T Klinger, A Tamkin, O Li, ...",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Retrofitting distributional embeddings to knowledge graphs with functional relations",
+   "authors": "B Lengerich, A Maas, C Potts",
+   "venue": "Proceedings of the 27th international conference on computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Concadia: Towards image-based text generation with a purpose",
+   "authors": "E Kreiss, F Fang, N Goodman, C Potts",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Rational speech act models of pragmatic reasoning in reference games",
+   "authors": "MC Frank, AG Emilsson, B Peloquin, ND Goodman, C Potts",
+   "venue": "PsyArXiv",
+   "year": "2016"
+  },
+  {
+   "title": "Predicting perspectival orientation for appositives",
+   "authors": "J Harris, C Potts",
+   "venue": "Proceedings from the Annual Meeting of the Chicago Linguistic Society 45 (1 …",
+   "year": "2009"
+  },
+  {
+   "title": "Semantic parsing engine",
+   "authors": "K Reschke, B Peloquin, C Potts, T Paul",
+   "venue": "US Patent App. 15/796,597",
+   "year": "2018"
+  },
+  {
+   "title": "Sentiment expression conditioned by affective transitions and social forces",
+   "authors": "M Sudhof, A Goméz Emilsson, AL Maas, C Potts",
+   "venue": "Proceedings of the 20th ACM SIGKDD international conference on Knowledge …",
+   "year": "2014"
+  },
+  {
+   "title": "Harmonic grammar with linear programming",
+   "authors": "J Pater, C Potts, R Bhatt",
+   "venue": "Ms, University of Massachusetts, Amherst",
+   "year": "2007"
+  },
+  {
+   "title": "Not a simple yes or no: Uncertainty in indirect answers",
+   "authors": "MC De Marneffe, S Grimm, C Potts",
+   "venue": "Proceedings of the SIGDIAL 2009 Conference, 136-143",
+   "year": "2009"
+  },
+  {
+   "title": "Lexical semantics with large language models: A case study of English “break”",
+   "authors": "E Petersen, C Potts",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 490-511",
+   "year": "2023"
+  },
+  {
+   "title": "WARP: An efficient engine for multi-vector retrieval",
+   "authors": "JL Scheerer, M Zaharia, C Potts, G Alonso, O Khattab",
+   "venue": "Proceedings of the 48th international ACM SIGIR conference on research and …",
+   "year": "2025"
+  },
+  {
+   "title": "Learning Distributed Word Representations for Natural Logic Reasoning.",
+   "authors": "SR Bowman, C Potts, CD Manning",
+   "venue": "AAAI Spring Symposia",
+   "year": "2015"
+  },
+  {
+   "title": "Recogs: How incidental details of a logical form overshadow an evaluation of semantic interpretation",
+   "authors": "Z Wu, CD Manning, C Potts",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 1719-1733",
+   "year": "2023"
+  },
+  {
+   "title": "Relational reasoning and generalization using nonsymbolic neural networks.",
+   "authors": "A Geiger, A Carstensen, MC Frank, C Potts",
+   "venue": "Psychological Review 130 (2), 308",
+   "year": "2023"
+  },
+  {
+   "title": "Trust propagation with mixed-effects models",
+   "authors": "J Overgoor, E Wulczyn, C Potts",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 6 …",
+   "year": "2012"
+  },
+  {
+   "title": "Intonational sentence-type conventions for perlocutionary effects: An experimental investigation",
+   "authors": "S Jeong, C Potts",
+   "venue": "Semantics and Linguistic Theory, 1-22",
+   "year": "2016"
+  },
+  {
+   "title": "Causal distillation for language models",
+   "authors": "Z Wu, A Geiger, J Rozner, E Kreiss, H Lu, T Icard, C Potts, N Goodman",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "ReaSCAN: Compositional reasoning in language grounding",
+   "authors": "Z Wu, E Kreiss, DC Ong, C Potts",
+   "venue": "arXiv preprint arXiv:2109.08994",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling the lifespan of discourse entities with application to coreference resolution",
+   "authors": "MC De Marneffe, M Recasens, C Potts",
+   "venue": "Journal of Artificial Intelligence Research 52, 445-475",
+   "year": "2015"
+  },
+  {
+   "title": "In-context learning for extreme multi-label classification",
+   "authors": "K D'Oosterlinck, O Khattab, F Remy, T Demeester, C Develder, C Potts",
+   "venue": "arXiv preprint arXiv:2401.12178",
+   "year": "2024"
+  },
+  {
+   "title": "Conversational implicatures via general pragmatic pressures",
+   "authors": "C Potts",
+   "venue": "Annual Conference of the Japanese Society for Artificial Intelligence, 205-218",
+   "year": "2006"
+  },
+  {
+   "title": "Mrt5: Dynamic token merging for efficient byte-level language models",
+   "authors": "J Kallini, S Murty, C Manning, C Potts, R Csordás",
+   "venue": "International Conference on Learning Representations 2025, 56646-56669",
+   "year": "2025"
+  },
+  {
+   "title": "Modeling Expert Effects and Common Ground Using Questions Under Discussion.",
+   "authors": "A Djalali, D Clausen, S Lauer, K Schultz, C Potts",
+   "venue": "AAAI Fall Symposium: Building Representations of Common Ground with …",
+   "year": "2011"
+  },
+  {
+   "title": "No vacuous quantification constraints in syntax",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "BioDEX: Large-scale biomedical adverse drug event extraction for real-world pharmacovigilance",
+   "authors": "K D’Oosterlinck, F Remy, J Deleu, T Demeester, C Develder, K Zaporojets, ...",
+   "venue": "Findings of the association for computational linguistics: EMNLP 2023, 13425 …",
+   "year": "2023"
+  },
+  {
+   "title": "Stress-testing neural models of natural language inference with multiply-quantified sentences",
+   "authors": "A Geiger, I Cases, L Karttunen, C Potts",
+   "venue": "arXiv preprint arXiv:1810.13033",
+   "year": "2018"
+  },
+  {
+   "title": "Learning to generate compositional color descriptions",
+   "authors": "W Monroe, N Goodman, C Potts",
+   "venue": "Proceedings of the 2016 conference on empirical methods in natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "ScoNe: Benchmarking negation reasoning in language models with fine-tuning and in-context learning",
+   "authors": "JS She, C Potts, SR Bowman, A Geiger",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Decrypting cryptic crosswords: Semantically complex wordplay puzzles as a target for nlp",
+   "authors": "J Rozner, C Potts, K Mahowald",
+   "venue": "Advances in Neural Information Processing Systems 34, 11409-11421",
+   "year": "2021"
+  },
+  {
+   "title": "Pragmatic issue-sensitive image captioning",
+   "authors": "A Nie, R Cohn-Gordon, C Potts",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 1924-1938",
+   "year": "2020"
+  },
+  {
+   "title": "Formal pragmatics",
+   "authors": "C Potts",
+   "venue": "The Routledge Encyclopedia of Pragmatics, 167-170",
+   "year": "2009"
+  },
+  {
+   "title": "Gio: Gradient information optimization for training dataset selection",
+   "authors": "D Everaert, C Potts",
+   "venue": "International Conference on Learning Representations 2024, 26343-26378",
+   "year": "2024"
+  },
+  {
+   "title": "CAW-coref: conjunction-aware word-level coreference resolution",
+   "authors": "K D’Oosterlinck, SK Bitew, B Papineau, C Potts, T Demeester, C Develder",
+   "venue": "Proceedings of The Sixth Workshop on Computational Models of Reference …",
+   "year": "2023"
+  },
+  {
+   "title": "Mistral–a journey towards reproducible language model training",
+   "authors": "S Karamcheti, L Orr, J Bolton, T Zhang, K Goel, A Narayan, R Bommasani, ...",
+   "venue": "URL: https://github. com/stanford-crfm/mistral",
+   "year": "2021"
+  },
+  {
+   "title": "A case for deep learning in semantics: Response to Pater",
+   "authors": "C Potts",
+   "venue": "Language 95 (1), e115-e124",
+   "year": "2019"
+  },
+  {
+   "title": "Causal interventions reveal shared structure across English filler–gap constructions",
+   "authors": "S Boguraev, C Potts, K Mahowald",
+   "venue": "Proceedings of the 2025 conference on empirical methods in natural language …",
+   "year": "2025"
+  },
+  {
+   "title": "Postmortem memory of public figures in news and social media",
+   "authors": "R West, J Leskovec, C Potts",
+   "venue": "Proceedings of the National Academy of Sciences 118 (38), e2106152118",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to reason pragmatically with cognitive limitations",
+   "authors": "A Vogel, A Gomez Emilsson, MC Frank, D Jurafsky, C Potts",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Characterizing English preposing in PP constructions",
+   "authors": "C Potts",
+   "venue": "Journal of Linguistics, 1-39",
+   "year": "2024"
+  },
+  {
+   "title": "The snli corpus",
+   "authors": "SR Bowman, G Angeli, C Potts, CD Manning",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Three kinds of transderivational constraint",
+   "authors": "C Potts",
+   "venue": "Syntax at Santa Cruz 3, 21-40",
+   "year": "2001"
+  },
+  {
+   "title": "Improved representation steering for language models",
+   "authors": "Z Wu, Q Yu, A Arora, CD Manning, C Potts",
+   "venue": "Advances in Neural Information Processing Systems 38, 160589-160641",
+   "year": "2026"
+  },
+  {
+   "title": "Data storage and retrieval system including a knowledge graph employing multiple subgraphs and a linking layer including multiple linking nodes, and methods, apparatus and …",
+   "authors": "C Potts, K Reschke, N Dingwall, A Itharaju",
+   "venue": "US Patent App. 17/355,046",
+   "year": "2022"
+  },
+  {
+   "title": "Negotiating lexical uncertainty and speaker expertise with disjunction",
+   "authors": "C Potts, R Levy",
+   "venue": "Proceedings of the annual meeting of the berkeley linguistics society 41 (41)",
+   "year": "2015"
+  },
+  {
+   "title": "Corpus evidence for preference-driven interpretation",
+   "authors": "A Djalali, S Lauer, C Potts",
+   "venue": "Logic, Language and Meaning: 18th Amsterdam Colloquium, Amsterdam, The …",
+   "year": "2012"
+  },
+  {
+   "title": "Building efficient and effective OpenQA systems for low-resource languages",
+   "authors": "E Budur, R Özçelik, D Soylu, O Khattab, T Güngör, C Potts",
+   "venue": "Knowledge-Based Systems 302, 112243",
+   "year": "2024"
+  },
+  {
+   "title": "Context-vqa: Towards context-aware and purposeful visual question answering",
+   "authors": "N Naik, C Potts, E Kreiss",
+   "venue": "2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW …",
+   "year": "2023"
+  },
+  {
+   "title": "Systematicity in GPT-3’s interpretation of novel English noun compounds",
+   "authors": "S Li, R Carlson, C Potts",
+   "venue": "Findings of the association for computational linguistics: Emnlp 2022, 717-728",
+   "year": "2022"
+  },
+  {
+   "title": "Developing linguistic theories using annotated corpora",
+   "authors": "MC de Marneffe, C Potts",
+   "venue": "Handbook of linguistic annotation, 411-438",
+   "year": "2017"
+  },
+  {
+   "title": "Hypersteer: Activation steering at scale with hypernetworks",
+   "authors": "J Sun, S Baskaran, Z Wu, M Sklar, C Potts, A Geiger",
+   "venue": "arXiv preprint arXiv:2506.03292",
+   "year": "2025"
+  },
+  {
+   "title": "Veridicality and utterance understanding",
+   "authors": "MC de Marneffe, CD Manning, C Potts",
+   "venue": "2011 IEEE Fifth International Conference on Semantic Computing, 430-437",
+   "year": "2011"
+  },
+  {
+   "title": "How far can pragmatic mechanisms take us?",
+   "authors": "C Potts",
+   "venue": "THEORETICAL LINGUISTICS-BERLIN AND NEW YORK- 32 (3), 307",
+   "year": "2006"
+  },
+  {
+   "title": "Bayesian scaling laws for in-context learning",
+   "authors": "A Arora, D Jurafsky, C Potts, ND Goodman",
+   "venue": "arXiv preprint arXiv:2410.16531",
+   "year": "2024"
+  },
+  {
+   "title": "Inducing character-level structure in subword-based language models with type-level interchange intervention training",
+   "authors": "J Huang, Z Wu, K Mahowald, C Potts",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 12163-12180",
+   "year": "2023"
+  },
+  {
+   "title": "Moving beyond downstream task accuracy for information retrieval benchmarking",
+   "authors": "K Santhanam, J Saad-Falcon, M Franz, O Khattab, A Sil, R Florian, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 11613-11628",
+   "year": "2023"
+  },
+  {
+   "title": "Effective feature representation for clinical text concept extraction",
+   "authors": "Y Tao, B Godefroy, G Genthial, C Potts",
+   "venue": "Proceedings of the 2nd Clinical Natural Language Processing Workshop, 1-14",
+   "year": "2019"
+  },
+  {
+   "title": "Multi-dimensional sentiment analysis with learned representations",
+   "authors": "AL Maas, AY Ng, C Potts",
+   "venue": "Stanford Univ Zugriff am 9, 2014",
+   "year": "2011"
+  },
+  {
+   "title": "Wait a minute! What kind of discourse strategy is this",
+   "authors": "C Potts",
+   "venue": "Ms. University of Massachusetts Amherst",
+   "year": "2008"
+  },
+  {
+   "title": "Conversational implicature: interacting with grammar",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "A reply to makelov et al.(2023)'s\" interpretability illusion\" arguments",
+   "authors": "Z Wu, A Geiger, J Huang, A Arora, T Icard, C Potts, ND Goodman",
+   "venue": "arXiv preprint arXiv:2401.12631",
+   "year": "2024"
+  },
+  {
+   "title": "Communication-based evaluation for natural language generation",
+   "authors": "B Newman, R Cohn-Gordon, C Potts",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2020, 116-126",
+   "year": "2020"
+  },
+  {
+   "title": "The narrowing acquisition path: From declarative to expressive small clauses",
+   "authors": "C Potts, T Roeper",
+   "venue": "The syntax of nonsententials: Multi-disciplinary perspectives, 183-201",
+   "year": "2006"
+  },
+  {
+   "title": "False Friends Are Not Foes: Investigating Vocabulary Overlap in Multilingual Language Models.",
+   "authors": "J Kallini, D Jurafsky, C Potts, M Bartelds",
+   "venue": "EMNLP (Findings), 21138-21154",
+   "year": "2025"
+  },
+  {
+   "title": "I am a strange dataset: Metalinguistic tests for language models",
+   "authors": "T Thrush, J Moore, M Monares, C Potts, D Kiela",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Identifying the limits of cross-domain knowledge transfer for pretrained models",
+   "authors": "Z Wu, NF Liu, C Potts",
+   "venue": "Proceedings of the 7th Workshop on Representation Learning for NLP, 100-110",
+   "year": "2022"
+  },
+  {
+   "title": "Comparative economy conditions in natural language syntax",
+   "authors": "C Potts",
+   "venue": "North American Summer School in Logic, Language, and Information 1, Workshop …",
+   "year": "2002"
+  },
+  {
+   "title": "MSCAW-coref: Multilingual, singleton and conjunction-aware word-level coreference resolution",
+   "authors": "H Liu, J Bauer, K D’Oosterlinck, C Potts, CD Manning",
+   "venue": "Proceedings of the seventh workshop on computational models of reference …",
+   "year": "2024"
+  },
+  {
+   "title": "Generating bilingual pragmatic color references",
+   "authors": "W Monroe, J Hu, A Jong, C Potts",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Enculturation trajectories and individual attainment: An interactional language use model of cultural dynamics in organizations",
+   "authors": "SB Srivastava, A Goldberg, VG Manian, C Potts",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Conversational implicature: an overview",
+   "authors": "C Potts",
+   "venue": "Retrieved from",
+   "year": "2012"
+  },
+  {
+   "title": "Japanese honorifics as emotive definite descriptions",
+   "authors": "C Potts, S Kawahara",
+   "venue": "Proceedings of SALT 14, 235-254",
+   "year": "2005"
+  },
+  {
+   "title": "Keeping world and will apart: A discourse-based semantics for imperatives",
+   "authors": "C Potts",
+   "venue": "Talk delivered at the NYU Syntax/Semantics Lecture Series",
+   "year": "2003"
+  },
+  {
+   "title": "Blackbox model provenance via palimpsestic membership inference",
+   "authors": "R Kuditipudi, J Huang, S Zhu, D Yang, C Potts, P Liang",
+   "venue": "Advances in Neural Information Processing Systems 38, 162337-162367",
+   "year": "2026"
+  },
+  {
+   "title": "Internal causal mechanisms robustly predict language model out-of-distribution behaviors",
+   "authors": "J Huang, J Tao, T Icard, D Yang, C Potts",
+   "venue": "arXiv preprint arXiv:2505.11770",
+   "year": "2025"
+  },
+  {
+   "title": "Mechanistic evaluation of transformers and state space models",
+   "authors": "A Arora, N Rathi, NR Selvam, R Csordás, D Jurafsky, C Potts",
+   "venue": "arXiv preprint arXiv:2505.15105",
+   "year": "2025"
+  },
+  {
+   "title": "HyperDAS: Towards automating mechanistic interpretability with hypernetworks",
+   "authors": "J Sun, J Huang, S Baskaran, K D'Oosterlinck, C Potts, M Sklar, A Geiger",
+   "venue": "International Conference on Learning Representations 2025, 8341-8358",
+   "year": "2025"
+  },
+  {
+   "title": "Detecting contradictory COVID-19 drug efficacy claims from biomedical literature",
+   "authors": "D Sosa, M Suresh, C Potts, R Altman",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "The performative nature of expressive content",
+   "authors": "C Potts",
+   "venue": "Talk given at the University of Connecticut (November 17) and the University …",
+   "year": "2003"
+  },
+  {
+   "title": "ColBERT-Serve: efficient multi-stage memory-mapped scoring",
+   "authors": "K Huang, T Venkatesh, U Dingankar, A Mallia, D Campos, J Jiao, C Potts, ...",
+   "venue": "European Conference on Information Retrieval, 21-30",
+   "year": "2025"
+  },
+  {
+   "title": "Methods, apparatus and systems for annotation of text documents",
+   "authors": "C Potts, E Lin, A Maas, A Itharaju, K Reschke, J Vincent",
+   "venue": "US Patent 12,014,135",
+   "year": "2024"
+  },
+  {
+   "title": "Concadia: Tackling image accessibility with context",
+   "authors": "E Kreiss, ND Goodman, C Potts",
+   "venue": "arXiv preprint arXiv:2104.08376",
+   "year": "2021"
+  },
+  {
+   "title": "Dispatched routing networks",
+   "authors": "C Rosenbaum, I Cases, M Riemer, A Geiger, L Karttunen, JD Greene, ...",
+   "venue": "arXiv preprint arXiv:1907.04434",
+   "year": "2019"
+  },
+  {
+   "title": "On the effective use of pretraining for natural language inference",
+   "authors": "I Cases, MT Luong, C Potts",
+   "venue": "arXiv preprint arXiv:1710.02076",
+   "year": "2017"
+  },
+  {
+   "title": "Evidential marking, interrogatives, and the maxim of quality",
+   "authors": "C Davis, C Potts, P Speas",
+   "venue": "17th conference of semantics and linguistic theory, held at the University …",
+   "year": "2007"
+  },
+  {
+   "title": "The shift from models to compound ai systems, 2024",
+   "authors": "M Zaharia, O Khattab, L Chen, JQ Davis, H Miller, C Potts, J Zou, ...",
+   "venue": "URL http://bair. berkeley. edu/blog/2024/02/18/compound-ai-systems",
+   "year": null
+  },
+  {
+   "title": "Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention",
+   "authors": "J Huang, D Wurgaft, R Bansal, L Ruis, N Saphra, D Alvarez-Melis, ...",
+   "venue": "arXiv preprint arXiv:2605.29548",
+   "year": "2026"
+  },
+  {
+   "title": "CHART-6: human-centered evaluation of data visualization understanding in vision-language models",
+   "authors": "A Verma, K Mukherjee, C Potts, E Kreiss, JE Fan",
+   "venue": "arXiv preprint arXiv:2505.17202",
+   "year": "2025"
+  },
+  {
+   "title": "Point in time predictive graphical model exploration",
+   "authors": "K Reschke, A Suklikar, A Maas, C Potts",
+   "venue": "US Patent App. 15/070,267",
+   "year": "2017"
+  },
+  {
+   "title": "A layered semantics for utterance modifiers",
+   "authors": "C Potts",
+   "venue": "Talk presented at the Workshop on Direct Compositionality, Brown University",
+   "year": "2003"
+  },
+  {
+   "title": "Counterfactual simulation training for chain-of-thought faithfulness",
+   "authors": "P Hase, C Potts",
+   "venue": "arXiv preprint arXiv:2602.20710",
+   "year": "2026"
+  },
+  {
+   "title": "AmazonQAC: A large-scale, naturalistic query autocomplete dataset",
+   "authors": "D Everaert, R Patki, T Zheng, C Potts",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Updating clip to prefer descriptions over captions",
+   "authors": "A Zur, E Kreiss, K D’Oosterlinck, C Potts, A Geiger",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "The shift from models to compound AI systems. The Berkeley Artificial Intelligence Research Blog",
+   "authors": "M Zaharia, O Khattab, L Chen, JQ Davis, H Miller, C Potts, J Zou, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Compositionality",
+   "authors": "RM Nefdt, C Potts",
+   "venue": "Open encyclopedia of cognitive science. MIT Press. https://doi. org/10.21428 …",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating human and machine understanding of data visualizations",
+   "authors": "A Verma, K Mukherjee, C Potts, E Kreiss, JE Fan",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 46",
+   "year": "2024"
+  },
+  {
+   "title": "Retrieval augmented spelling correction for E-commerce applications",
+   "authors": "X Guo, R Patki, D Everaert, C Potts",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "ContextRef: evaluating referenceless metrics for image description generation",
+   "authors": "E Kreiss, E Zelikman, C Potts, N Haber",
+   "venue": "International Conference on Learning Representations 2024, 22698-22718",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-teacher distillation for multilingual spelling correction",
+   "authors": "J Zhang, X Guo, S Bodapati, C Potts",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Vehicle change and anti-pronominal contexts",
+   "authors": "C Potts",
+   "venue": "Ms., New York University",
+   "year": "1999"
+  },
+  {
+   "title": "Composing Policy Gradients and Prompt Optimization for Language Model Programs",
+   "authors": "N Ziems, D Soylu, LA Agrawal, I Miller, L Lai, C Qian, K Song, M Jiang, ...",
+   "venue": "Proceedings of the ACM Conference on AI and Agentic Systems, 197-213",
+   "year": "2026"
+  },
+  {
+   "title": "Addressing divergent representations from causal interventions on neural networks",
+   "authors": "S Grant, SJ Han, A Tartaglini, C Potts",
+   "venue": "International Conference on Learning Representations 2026, 11330-11356",
+   "year": "2026"
+  },
+  {
+   "title": "Invisible failures in human-AI interactions",
+   "authors": "C Potts, M Sudhof",
+   "venue": "arXiv preprint arXiv:2603.15423",
+   "year": "2026"
+  },
+  {
+   "title": "The shift from models to compound AI systems",
+   "authors": "R Gupta, M Zaharia, O Khattab, L Chen, JQ Davis, H Miller, C Potts, J Zou, ...",
+   "venue": "Berkeley Artificial Intelligence Research Blog. Retrieved from http://bair …",
+   "year": "2024"
+  },
+  {
+   "title": "Assessment and mitigation of inconsistencies in llm-based evaluations",
+   "authors": "S Ghazarian, Y Zou, S Shah, N Peng, A Beniwal, C Potts, N Sadagopan",
+   "venue": "GenAI Evaluation KDD",
+   "year": "2024"
+  },
+  {
+   "title": "Context Matters for Image Description Evaluation: Challenges for Referenceless Metrics",
+   "authors": "E Kreiss, C Bennett, S Hooshmand, E Zelikman, MR Morris, C Potts",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Fitting in or standing out",
+   "authors": "A Goldberg, G Manian, W Monroe, C Potts, SB Srivastava",
+   "venue": "The tradeoffs of structural and cultural embeddedness. Academy of Management …",
+   "year": "2015"
+  },
+  {
+   "title": "Indirect answers and cooperation: On Asher and Lascarides’s ‘Making the right commitments in dialogue’",
+   "authors": "C Potts",
+   "venue": "Workshop on Implicatures November 21, 23",
+   "year": "2008"
+  },
+  {
+   "title": "Integrated pragmatic values",
+   "authors": "C Potts",
+   "venue": "MS, UMass Amherst",
+   "year": "2006"
+  },
+  {
+   "title": "Honorific marking: Interpreted and interpretable",
+   "authors": "A Asudeh, C Potts",
+   "venue": "Phi Workshop, McGill University",
+   "year": "2004"
+  },
+  {
+   "title": "Introduction to pragmatics",
+   "authors": "C Potts",
+   "venue": "The New York Institute of Cognitive and Culture Studies, Session I (Week I …",
+   "year": "2004"
+  },
+  {
+   "title": "(Only) some crossover effects repaired",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2001"
+  },
+  {
+   "title": "Fast Byte Latent Transformer",
+   "authors": "J Kallini, A Pagnoni, T Limisiewicz, G Ghosh, L Zettlemoyer, C Potts, ...",
+   "venue": "arXiv preprint arXiv:2605.08044",
+   "year": "2026"
+  },
+  {
+   "title": "Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning",
+   "authors": "Q Yu, A Tartaglini, P Hase, C Guestrin, C Potts",
+   "venue": "arXiv preprint arXiv:2604.22074",
+   "year": "2026"
+  },
+  {
+   "title": "Diagnosing bottlenecks in data visualization understanding by vision-language models",
+   "authors": "AR Tartaglini, S Grant, D Wurgaft, C Potts, JE Fan",
+   "venue": "arXiv preprint arXiv:2510.21740",
+   "year": "2025"
+  },
+  {
+   "title": "CommVQA: Situating visual question answering in communicative contexts",
+   "authors": "NS Naik, C Potts, E Kreiss",
+   "venue": "Proceedings of the 2024 conference on empirical methods in natural language …",
+   "year": "2024"
+  },
+  {
+   "title": "Semantic parsing engine",
+   "authors": "K Reschke, B Peloquin, C Potts, T Paul",
+   "venue": "US Patent App. 17/012,319",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling Subjective Assessments of Guilt in Newspaper Crime Narratives",
+   "authors": "E Kreiss, Z Wang, C Potts",
+   "venue": "Proceedings of the 24th Conference on Computational Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Expressives and the limits of compositionality",
+   "authors": "C Potts",
+   "venue": "Symposium on the Semantics and Pragmatics of Pejoratives–APA Pacific …",
+   "year": "2013"
+  },
+  {
+   "title": "The dynamics of Apposition",
+   "authors": "C Potts",
+   "venue": "Handout available at http://www. stanford. edu/~ cgpotts/talks/potts …",
+   "year": "2009"
+  },
+  {
+   "title": "Structuring sense, vol. 1: In name only, and: Structuring sense, vol 2: The normal course of events (review)",
+   "authors": "C Potts",
+   "venue": "Language 84 (2), 343-369",
+   "year": "2008"
+  },
+  {
+   "title": "Semantics–pragmatics interactions",
+   "authors": "C Potts",
+   "venue": "The Cambridge Encyclopedia of the Language Sciences. Cambridge University …",
+   "year": "2007"
+  },
+  {
+   "title": "Language models as tools for investigating the distinction between possible and impossible natural languages",
+   "authors": "J Kallini, C Potts",
+   "venue": "arXiv preprint arXiv:2512.09394",
+   "year": "2025"
+  },
+  {
+   "title": "Structured Prompts Improve Evaluation of Language Models",
+   "authors": "A Aali, MA Mohsin, V Bikia, A Singhvi, R Gaus, S Bedi, H Cui, M Fuentes, ...",
+   "venue": "arXiv preprint arXiv:2511.20836",
+   "year": "2025"
+  },
+  {
+   "title": "Structured Prompting Enables More Robust, Holistic Evaluation of Language Models",
+   "authors": "A Aali, MA Mohsin, V Bikia, A Singhvi, R Gaus, S Bedi, H Cui, M Fuentes, ...",
+   "venue": "arXiv e-prints, arXiv: 2511.20836",
+   "year": "2025"
+  },
+  {
+   "title": "Distinguishing fair from unfair compositional generalization tasks",
+   "authors": "A Jabbar, C Condoravdi, C Potts",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Multi-objective neural retrieval for query autocomplete",
+   "authors": "R Patki, S Bodapati, C Potts",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Characterizing Image Accessibility on Wikipedia across Languages",
+   "authors": "E Kreiss, K Srinivasan, T Piccardi, JA Hermosillo, C Bennett, ...",
+   "venue": "arXiv preprint arXiv:2305.09038",
+   "year": "2023"
+  },
+  {
+   "title": "Could a Purely Self-Supervised Foundation Model Achieve Grounded Language Understanding",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Teaching pragmatics",
+   "authors": "C Potts",
+   "venue": "Teaching linguistics: Reflections on practice, 51-65",
+   "year": "2011"
+  },
+  {
+   "title": "That straight talk”: demonstratives, solidarity, and Sarah Palin",
+   "authors": "E Acton, C Potts",
+   "venue": "40th New Ways of Analyzing Variation conference. Washington, DC: Georgetown …",
+   "year": "2011"
+  },
+  {
+   "title": "Paul Grice: Philosopher and Linguist",
+   "authors": "C Potts",
+   "venue": "Mind 115 (459), 743-747",
+   "year": "2006"
+  },
+  {
+   "title": "A paradox of AI fluency",
+   "authors": "C Potts, M Sudhof",
+   "venue": "arXiv preprint arXiv:2604.25905",
+   "year": "2026"
+  },
+  {
+   "title": "Synthetic Data for any Differentiable Target",
+   "authors": "T Thrush, SM Park, H Brunborg, L Bailey, M Roed, N Band, C Potts, ...",
+   "venue": "arXiv preprint arXiv:2604.08423",
+   "year": "2026"
+  },
+  {
+   "title": "Document Optimization for Black-Box Retrieval via Reinforcement Learning",
+   "authors": "O Uzan, R Polonsky, D Kiela, C Potts",
+   "venue": "arXiv preprint arXiv:2604.05087",
+   "year": "2026"
+  },
+  {
+   "title": "Structured Prompting Enables More Robust Evaluation of Language Models.",
+   "authors": "A Aali, MA Mohsin, V Bikia, A Singhvi, R Gaus, S Bedi, H Cui, M Fuentes, ...",
+   "venue": "URL: https://arxiv. org/abs/2511.20836",
+   "year": "2025"
+  },
+  {
+   "title": "Natural Language Understanding",
+   "authors": "B McCartney, C Potts",
+   "venue": "Supervised Sentiment Analysis, 1-82",
+   "year": "2020"
+  },
+  {
+   "title": "A probabilistic pragmatics for English singular some",
+   "authors": "L Esposito, C Potts",
+   "venue": "Semantics and Linguistic Theory, 22-42",
+   "year": "2020"
+  },
+  {
+   "title": "Modeling drug-disease relations with linguistic and knowledge graph constraints",
+   "authors": "B Godefroy, C Potts",
+   "venue": "arXiv preprint arXiv:1904.00313",
+   "year": "2019"
+  },
+  {
+   "title": "MIT and Rutgers University",
+   "authors": "K von Fintel, A Gillies",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "UMass Amherst Linguistics Sentiment Corpora",
+   "authors": "N Constant, C Davis, C Potts, F Schwarz",
+   "venue": "URL: http://semanticsarchive. net/Archive/jQ0ZGZiM/readme. html",
+   "year": "2009"
+  },
+  {
+   "title": "Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization",
+   "authors": "C Blank, Z Ying, C Potts, P Hase, J Huang",
+   "venue": "arXiv preprint arXiv:2608.31079",
+   "year": "2026"
+  },
+  {
+   "title": "Methods, apparatus and systems for annotation of text documents",
+   "authors": "C Potts, E Lin, A Maas, A Itharaju, K Reschke, J Vincent",
+   "venue": "US Patent App. 18/667,852",
+   "year": "2025"
+  },
+  {
+   "title": "Prompt optimization improves robustness of language model benchmarks for medical tasks",
+   "authors": "A Aali, MA Mohsin, V Bikia, A Singhvi, S Bedi, H Cui, MAF Hernandez, ...",
+   "venue": "Machine Learning for Health 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Prompts as Auto-Optimized Training Hyperparameters: Training Best-in-Class IR Models from Scratch with 10 Gold Labels",
+   "authors": "J Xian, S Samuel, F Khoubsirat, R Pradeep, MA Sultan, R Florian, ...",
+   "venue": "arXiv preprint arXiv:2406.11706",
+   "year": "2024"
+  },
+  {
+   "title": "Is the asymmetry in negative strengthening the result of adjectival polarity or face considerations?",
+   "authors": "S Jeong, C Potts, J Degen",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 46",
+   "year": "2024"
+  },
+  {
+   "title": "Color Overmodification Emerges from Data-Driven Learning and Pragmatic Reasoning",
+   "authors": "F Fang, K Sinha, ND Goodman, C Potts, E Kreiss",
+   "venue": "arXiv preprint arXiv:2205.09172",
+   "year": "2022"
+  },
+  {
+   "title": "Learning Compositional Negation in Populations of Roth-Erev and Neural Agents",
+   "authors": "G Todd, S Steinert-Threlkeld, C Potts",
+   "venue": "arXiv preprint arXiv:2012.04107",
+   "year": "2020"
+  },
+  {
+   "title": "A computational knowledge engine for human neuroscience",
+   "authors": "E Beam, C Potts, RA Poldrack, A Etkin",
+   "venue": "bioRxiv, 701540",
+   "year": "2019"
+  },
+  {
+   "title": "Natural Language Inference",
+   "authors": "C Potts",
+   "venue": "CS 224U Course Notes, Stanford University. Available online at: https://web …",
+   "year": "2019"
+  },
+  {
+   "title": "Structuring sense, vol. 1: In name only. By Hagit Borer. Oxford: Oxford University Press, 2005. Pp. xvi, 310. ISBN 0199263906. 49.95.",
+   "authors": "C Potts",
+   "venue": "Language 84 (2), 343-369",
+   "year": "2008"
+  },
+  {
+   "title": "Expressive content and the semantics of contexts NSF Grant No. BCS-0642752",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Comments on Paul Portner’s ‘Instructions for interpretation as separate performatives’",
+   "authors": "F Schwarz",
+   "venue": "Comments presented at the Cambridge Workshop on Indexicality, Speech Acts …",
+   "year": "2004"
+  },
+  {
+   "title": "What we should do is blame do",
+   "authors": "C Potts",
+   "venue": "Unpublished manuscript]. University of California Santa Cruz",
+   "year": "2001"
+  },
+  {
+   "title": "Oxford studies in theoretical linguistics",
+   "authors": "J Merchant, U Lahiri, L Marten, P Ackema, A Neeleman, C Potts, ...",
+   "venue": "",
+   "year": "2001"
+  },
+  {
+   "title": "Matryoshka attribution: Learning to attribute language model outputs to representations and weights",
+   "authors": "A Arora, K Acharya, N Hu, Y Zhang, N Goodman, D Jurafsky, C Potts",
+   "venue": "arXiv preprint arXiv:2609.25518",
+   "year": "2026"
+  },
+  {
+   "title": "Verbalizing Subliminal Learning Effects Using Text Optimization",
+   "authors": "N Hu, S Koyejo, C Potts",
+   "venue": "arXiv preprint arXiv:2609.16927",
+   "year": "2026"
+  },
+  {
+   "title": "Do Language Models Consistently Encode the Current Year?",
+   "authors": "S van Adrichem, A Bhaskar, D Yang, C Potts, J Huang",
+   "venue": "arXiv preprint arXiv:2608.15507",
+   "year": "2026"
+  },
+  {
+   "title": "PreFT: Prefill-only finetuning for efficient inference",
+   "authors": "A Lanpouthakoun, A Arora, Z Wu, D Pai, B Keigwin, D Jurafsky, C Potts",
+   "venue": "arXiv preprint arXiv:2605.14217",
+   "year": "2026"
+  },
+  {
+   "title": "Transcoder Adapters for Reasoning-Model Diffing",
+   "authors": "N Hu, J Ward, T Icard, C Potts",
+   "venue": "arXiv preprint arXiv:2602.20904",
+   "year": "2026"
+  },
+  {
+   "title": "Exploring the mechanisms that enable multimodal reasoning about data visualizations in vision-language models",
+   "authors": "AR Tartaglini, C Potts, JE Fan",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "CommVQA: Situating Visual Question Answering in Communicative Contexts",
+   "authors": "N Shankar Naik, C Potts, E Kreiss",
+   "venue": "arXiv e-prints, arXiv: 2402.15002",
+   "year": "2024"
+  },
+  {
+   "title": "Is the asymmetry in negative strengthening the result of adjectival polarity or face",
+   "authors": "S Jeong, C Potts, J Degen",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 46 (0)",
+   "year": "2024"
+  },
+  {
+   "title": "Flexible Model Interpretability through Natural Language Model Editing",
+   "authors": "K D'Oosterlinck, T Demeester, C Develder, C Potts",
+   "venue": "arXiv preprint arXiv:2311.10905",
+   "year": "2023"
+  },
+  {
+   "title": "Reproducible and Efficient Multi-modal Open Retrieval Question Answering",
+   "authors": "A Sil, B Iyer, RG Reddy, J Sen, W Chen, C Potts",
+   "venue": "International Joint Conference on Artificial Intelligence",
+   "year": "2023"
+  },
+  {
+   "title": "Psychologically-informed chain-of-thought prompts for metaphor understanding in large",
+   "authors": "B Prystawski, P Thibodeau, C Potts",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 45 (45)",
+   "year": "2023"
+  },
+  {
+   "title": "Turkish Question Answering Dataset (SQuAD-TR).",
+   "authors": "E Budur, O Khattab, Ö Rıza, D Soylu, T Güngör, C Potts",
+   "venue": "Boğaziçi University",
+   "year": "2022"
+  },
+  {
+   "title": "Compositionality or generalization?",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Enculturation Trajectories and Individual Attainment: An Interactional Language Use Model",
+   "authors": "SB Srivastava, A Goldberg, G Manian, C Potts",
+   "venue": "Academy of Management Proceedings 2016 (1), 10318",
+   "year": "2016"
+  },
+  {
+   "title": "IRLE",
+   "authors": "SB Srivastava, A Goldberg, VG Manian, C Potts",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Cultural Adaptation Predicts Group Membership: An Interactional Language Use Model",
+   "authors": "A Goldberg, VG Manian, C Potts, SB Srivastava",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Modeling the Lifespan of Discourse Entities: Nature or Nurture?",
+   "authors": "MC de Marneffe, M Recasens, C Potts",
+   "venue": "2nd Conference of the American Pragmatics Association",
+   "year": "2014"
+  },
+  {
+   "title": "Pragmatics",
+   "authors": "C Potts",
+   "venue": "The Oxford Handbook of Computational Linguistics 1",
+   "year": "2013"
+  },
+  {
+   "title": "RI: Medium: Bringing Sentiment Analysis and Social Network Analysis Together",
+   "authors": "CG Potts",
+   "venue": "NSF Award Number 1159679. Directorate for Computer and Information Science …",
+   "year": "2012"
+  },
+  {
+   "title": "Expressive Content and the Semantics of Contexts",
+   "authors": "CG Potts",
+   "venue": "NSF Award 6 (642752), 42752",
+   "year": "2007"
+  },
+  {
+   "title": "The compositional independence of expressives",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Instructions for S&P authors using LATEX 2ε",
+   "authors": "K von Fintel, C Potts, C Shan",
+   "venue": "Semantics and Pragmatics, 2: 1-14",
+   "year": "2007"
+  },
+  {
+   "title": "Constraint weighting as linear programming",
+   "authors": "J Pater, C Potts, R Bhatt",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "A description of the algorithms for ‘Integrated pragmatic values’",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "are independent of the main-clause's content, which is identical to that of# The linguist is",
+   "authors": "C Potts",
+   "venue": "Papers on Prosody 30, 129",
+   "year": "2005"
+  },
+  {
+   "title": "Model-theoretic syntax",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2004"
+  },
+  {
+   "title": "I henceiorth refer to as the at-issue entailments. ¹ Section 3 takes up the task of working systematically through this characterization, amplifying each of its points and bringing",
+   "authors": "C Potts",
+   "venue": "Proceedings of NELS. 33, 303",
+   "year": "2003"
+  },
+  {
+   "title": "North East Linguistics Societ y",
+   "authors": "C Potts",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "4.5 The (Im) possible Languages Group",
+   "authors": "C Potts, MC de Marneffe, K Demuth, R Frank, J Luis, HB Gastaldi, C Haley, ...",
+   "venue": "Linguistics and Language Models: What Can They Learn from Each Other?, 206",
+   "year": null
+  },
+  {
+   "title": "WHAT DO LANGUAGE MODELS KNOW ABOUT TIME?",
+   "authors": "S van Adrichem, A Bhaskar, J Huang, C Potts, D Yang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Anchored Optimization and Contrastive Revisions: Addressing Reward Hacking in Alignment",
+   "authors": "K D'Oosterlinck, W Xu, C Develder, T Demeester, A Singh, C Potts, ...",
+   "venue": "Neurips Safe Generative AI Workshop 2024",
+   "year": null
+  },
+  {
+   "title": "Stanford University and UC San Diego",
+   "authors": "C Potts, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Intuitive Image Descriptions are Context-Sensitive",
+   "authors": "S Hooshmand, E Kreiss, C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction",
+   "authors": "C Potts, M Zaharia",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Karenina: Modeling the Complexity of Negative Emotions to Better Serve Industry Goals",
+   "authors": "M Sudhof, L Croteau, C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Semantic role labeling",
+   "authors": "C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Linguists for Deep Learning; or: How I Learned to Stop Worrying and Love Neural Networks",
+   "authors": "C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Probabilistic integration of linguistic framing in ad-hoc pragmatic implicatures",
+   "authors": "AG Emilsson, MC Frank, N Goodman, C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "with applications to social factors",
+   "authors": "C Danescu-Niculescu-Mizil, M Sudhof, D Jurafsky, J Leskovec, C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The pragmatics of questions and answers",
+   "authors": "C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Exploiting Social Network Structure for Person-to-Person Sentiment Analysis (Supplementary Material to [WPLP14])",
+   "authors": "R West, HS Paskov, J Leskovec, C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Null subjects in English",
+   "authors": "S Chung, C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Paul Grice: Philosopher and linguist, by Siobhan Chapman. Houndmills, basingstoke, Hampshire: Palgrave Macmillan, 2005. Pp. VII+ 247. H/b£ 45",
+   "authors": "C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The pragmatics of expressive content: Evidence from large corpora",
+   "authors": "C Davis, N Constant, C Potts, F Schwarz",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The Impact of Syntax on the Interpretation and Graphical Depiction of Underspecified Propositions",
+   "authors": "A Kalb, D Barker-Plummer, D Castaneda, C Potts, R Cox, R Dale",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Embedded appositives (Annotated data set)",
+   "authors": "C Potts",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A new factual basis for conventional implicatures",
+   "authors": "C Potts",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

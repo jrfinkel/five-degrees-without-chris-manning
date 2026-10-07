@@ -1,0 +1,149 @@
+{
+ "user": "3D8Y_FgAAAAJ",
+ "pubs": [
+  {
+   "title": "Deep Reinforcement Learning for Dialogue Generation",
+   "authors": "J Li, W Monroe, A Ritter, M Galley, J Gao, D Jurafsky",
+   "venue": "EMNLP",
+   "year": "2016"
+  },
+  {
+   "title": "Adversarial Learning for Neural Dialogue Generation",
+   "authors": "J Li, W Monroe, T Shi, A Ritter, D Jurafsky",
+   "venue": "EMNLP",
+   "year": "2017"
+  },
+  {
+   "title": "Understanding Neural Networks through Representation Erasure",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1612.08220",
+   "year": "2016"
+  },
+  {
+   "title": "Fitting in or Standing Out? The Tradeoffs of Structural and Cultural Embeddedness",
+   "authors": "A Goldberg, SB Srivastava, VG Manian, W Monroe, C Potts",
+   "venue": "American Sociological Review 81 (6), 1190-1222",
+   "year": "2016"
+  },
+  {
+   "title": "A Simple, Fast Diverse Decoding Algorithm for Neural Generation",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1611.08562",
+   "year": "2016"
+  },
+  {
+   "title": "Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding",
+   "authors": "W Monroe, RXD Hawkins, ND Goodman, C Potts",
+   "venue": "TACL 5, 325-338",
+   "year": "2017"
+  },
+  {
+   "title": "Text to 3D Scene Generation with Rich Lexical Grounding",
+   "authors": "A Chang, W Monroe, M Savva, C Potts, CD Manning",
+   "venue": "ACL-IJCNLP",
+   "year": "2015"
+  },
+  {
+   "title": "Word Segmentation of Informal Arabic with Domain Adaptation",
+   "authors": "W Monroe, S Green, CD Manning",
+   "venue": "ACL",
+   "year": "2014"
+  },
+  {
+   "title": "Learning in the Rational Speech Acts Model",
+   "authors": "W Monroe",
+   "venue": "Stanford University",
+   "year": "2018"
+  },
+  {
+   "title": "Learning to Decode for Future Success",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1701.06549",
+   "year": "2017"
+  },
+  {
+   "title": "Learning in the Rational Speech Acts Model",
+   "authors": "W Monroe, C Potts",
+   "venue": "Amsterdam Colloquium",
+   "year": "2015"
+  },
+  {
+   "title": "Icorating: A deep-learning system for scam ico identification",
+   "authors": "S Bian, Z Deng, F Li, W Monroe, P Shi, Z Sun, W Wu, S Wang, WY Wang, ...",
+   "venue": "arXiv preprint arXiv:1803.03670",
+   "year": "2018"
+  },
+  {
+   "title": "Simultaneous translation and paraphrase for language education",
+   "authors": "S Mayhew, K Bicknell, C Brust, B McDowell, W Monroe, B Settles",
+   "venue": "Proceedings of the fourth workshop on neural generation and translation, 232-243",
+   "year": "2020"
+  },
+  {
+   "title": "Learning to Generate Compositional Color Descriptions",
+   "authors": "W Monroe, ND Goodman, C Potts",
+   "venue": "EMNLP",
+   "year": "2016"
+  },
+  {
+   "title": "Data distillation for controlling specificity in dialogue generation",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1702.06703",
+   "year": "2017"
+  },
+  {
+   "title": "Understanding the rational speech act model",
+   "authors": "A Yuan, W Monroe, Y Bai, N Kushman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Large language model augmented exercise retrieval for personalized language learning",
+   "authors": "A Xu, W Monroe, K Bicknell",
+   "venue": "Proceedings of the 14th Learning Analytics and Knowledge Conference, 284-294",
+   "year": "2024"
+  },
+  {
+   "title": "Generating Bilingual Pragmatic Color References",
+   "authors": "W Monroe, J Hu, A Jong, C Potts",
+   "venue": "NAACL-HLT",
+   "year": "2018"
+  },
+  {
+   "title": "Dependency Parsing Features for Semantic Parsing",
+   "authors": "W Monroe, Y Wang",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Logistic Regression",
+   "authors": "C Piech, W Monroe",
+   "venue": "CS 109 Lecture Notes",
+   "year": "2017"
+  },
+  {
+   "title": "3D Scene Retrieval from Text with Semantic Parsing",
+   "authors": "W Monroe",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "WhoSaidIt: Human-LLM Collaborative Annotation for Text-Based Multilingual Speaker-Attribute Classification",
+   "authors": "L Gao, W Monroe, D Smith, M Jemison, J Lee",
+   "venue": "arXiv preprint arXiv:2605.26070",
+   "year": "2026"
+  },
+  {
+   "title": "The Normal Distribution",
+   "authors": "C Piech, W Monroe",
+   "venue": "CS 109 Lecture Notes",
+   "year": "2017"
+  },
+  {
+   "title": "Automating the Search for Faster Matrix Multiplication Algorithms",
+   "authors": "W Monroe",
+   "venue": "Stanford University",
+   "year": "2013"
+  }
+ ]
+}

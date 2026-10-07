@@ -1,0 +1,107 @@
+{
+ "user": "XalUZEoAAAAJ",
+ "pubs": [
+  {
+   "title": "Q-learning with ucb exploration is sample efficient for infinite-horizon mdp",
+   "authors": "K Dong, Y Wang, X Chen, L Wang",
+   "venue": "International Conference on Learning Representations 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Exploration via hindsight goal generation",
+   "authors": "Z Ren, K Dong, Y Zhou, Q Liu, J Peng",
+   "venue": "Advances in Neural Information Processing Systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving",
+   "authors": "K Dong, T Ma",
+   "venue": "International Conference on Machine Learning 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Provable model-based nonlinear bandit and reinforcement learning: Shelve optimism, embrace virtual curvature",
+   "authors": "K Dong, J Yang, T Ma",
+   "venue": "Advances in neural information processing systems 34, 26168-26182",
+   "year": "2021"
+  },
+  {
+   "title": "Root-n-regret for learning in markov decision processes with function approximation and low bellman rank",
+   "authors": "K Dong, J Peng, Y Wang, Y Zhou",
+   "venue": "Conference on Learning Theory, 1554-1557",
+   "year": "2020"
+  },
+  {
+   "title": "On the expressivity of neural networks for deep reinforcement learning",
+   "authors": "K Dong, Y Luo, T Yu, C Finn, T Ma",
+   "venue": "International conference on machine learning, 2627-2637",
+   "year": "2020"
+  },
+  {
+   "title": "Design of experiments for stochastic contextual linear bandits",
+   "authors": "A Zanette, K Dong, JN Lee, E Brunskill",
+   "venue": "Advances in Neural Information Processing Systems 34, 22720-22731",
+   "year": "2021"
+  },
+  {
+   "title": "First steps toward understanding the extrapolation of nonlinear models to unseen domains",
+   "authors": "K Dong, T Ma",
+   "venue": "International Conference on Learning Representations 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Beyond ntk with vanilla gradient descent: A mean-field analysis of neural networks with polynomial width, samples, and time",
+   "authors": "A Mahankali, H Zhang, K Dong, M Glasgow, T Ma",
+   "venue": "Advances in Neural Information Processing Systems 36, 57367-57480",
+   "year": "2023"
+  },
+  {
+   "title": "Formal theorem proving by rewarding llms to decompose proofs hierarchically",
+   "authors": "K Dong, A Mahankali, T Ma",
+   "venue": "arXiv preprint arXiv:2411.01829",
+   "year": "2024"
+  },
+  {
+   "title": "Multinomial logit bandit with low switching cost",
+   "authors": "K Dong, Y Li, Q Zhang, Y Zhou",
+   "venue": "International Conference on Machine Learning, 2607-2615",
+   "year": "2020"
+  },
+  {
+   "title": "Asymptotic instance-optimal algorithms for interactive decision making",
+   "authors": "K Dong, T Ma",
+   "venue": "International Conference on Learning Representations 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Scaling self-play with self-guidance",
+   "authors": "L Bailey, K Wen, K Dong, T Hashimoto, T Ma",
+   "venue": "arXiv preprint arXiv:2604.20209",
+   "year": "2026"
+  },
+  {
+   "title": "Model-based offline reinforcement learning with local misspecification",
+   "authors": "K Dong, Y Flet-Berliac, A Nie, E Brunskill",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (6), 7423-7431",
+   "year": "2023"
+  },
+  {
+   "title": "Toward L_∞ Recovery of Nonlinear Functions: A Polynomial Sample Complexity Bound for Gaussian Random Fields",
+   "authors": "K Dong, T Ma",
+   "venue": "The Thirty Sixth Annual Conference on Learning Theory, 2877-2918",
+   "year": "2023"
+  },
+  {
+   "title": "Refined analysis of fpl for adversarial markov decision processes",
+   "authors": "Y Wang, K Dong",
+   "venue": "arXiv preprint arXiv:2008.09251",
+   "year": "2020"
+  },
+  {
+   "title": "Mathematical Aspects of Deep Reinforcement Learning",
+   "authors": "K Dong",
+   "venue": "Stanford University",
+   "year": "2025"
+  }
+ ]
+}

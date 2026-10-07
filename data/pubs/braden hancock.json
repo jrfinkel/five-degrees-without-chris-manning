@@ -1,0 +1,203 @@
+{
+ "user": "28y0Xe4AAAAJ",
+ "pubs": [
+  {
+   "title": "The llama 3 herd of models",
+   "authors": "A Dubey, A Jauhri, A Pandey, A Kadian, A Al-Dahle, A Letman, A Mathur, ...",
+   "venue": "arXiv e-prints, arXiv: 2407.21783",
+   "year": "2024"
+  },
+  {
+   "title": "Learning from dialogue after deployment: Feed yourself, chatbot!",
+   "authors": "B Hancock, A Bordes, PE Mazare, J Weston",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Training complex models with multi-task weak supervision",
+   "authors": "A Ratner, B Hancock, J Dunnmon, F Sala, S Pandey, C Ré",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 33 (01), 4763-4771",
+   "year": "2019"
+  },
+  {
+   "title": "Snorkel drybell: A case study in deploying weak supervision at industrial scale",
+   "authors": "SH Bach, D Rodriguez, Y Liu, C Luo, H Shao, C Xia, S Sen, A Ratner, ...",
+   "venue": "Proceedings of the 2019 International Conference on Management of Data, 362-375",
+   "year": "2019"
+  },
+  {
+   "title": "Training classifiers with natural language explanations",
+   "authors": "B Hancock, P Varma, S Wang, M Bringmann, P Liang, C Ré",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Fonduer: Knowledge base construction from richly formatted data",
+   "authors": "S Wu, L Hsiao, X Cheng, B Hancock, T Rekatsinas, P Levis, C Ré",
+   "venue": "Proceedings of the 2018 international conference on management of data, 1301 …",
+   "year": "2018"
+  },
+  {
+   "title": "Language models in the loop: Incorporating prompting into weak supervision",
+   "authors": "R Smith, JA Fries, B Hancock, SH Bach",
+   "venue": "ACM/JMS Journal of Data Science 1 (2), 1-30",
+   "year": "2024"
+  },
+  {
+   "title": "Snorkel metal: Weak supervision for multi-task learning",
+   "authors": "A Ratner, B Hancock, J Dunnmon, R Goldman, C Ré",
+   "venue": "Proceedings of the Second Workshop on Data Management for End-To-End Machine …",
+   "year": "2018"
+  },
+  {
+   "title": "A Machine-Compiled Database of Genome-Wide Association Studies",
+   "authors": "V Kuleshov, J Ding, B Hancock, A Ratner, C Ré, S Batzoglou, M Snyder",
+   "venue": "Bio-Ontologies 2017",
+   "year": "2017"
+  },
+  {
+   "title": "The Smart Normal Constraint Method for Directly Generating a Smart Pareto Set",
+   "authors": "BJ Hancock, CA Mattson",
+   "venue": "Structural and Multidisciplinary Optimization, 1-13",
+   "year": "2013"
+  },
+  {
+   "title": "After Sandy Hook Elementary: A year in the gun control debate on Twitter",
+   "authors": "A Benton, B Hancock, G Coppersmith, JW Ayers, M Dredze",
+   "venue": "arXiv preprint arXiv:1610.02060",
+   "year": "2016"
+  },
+  {
+   "title": "Generating titles for web tables",
+   "authors": "B Hancock, H Lee, C Yu",
+   "venue": "The World Wide Web Conference, 638-647",
+   "year": "2019"
+  },
+  {
+   "title": "Recommender Systems for the Department of Defense and  Intelligence Community",
+   "authors": "V Gadepally, B Hancock, K Greenfield, J Campbell, W Campbell, ...",
+   "venue": "The Lincoln Laboratory Journal 22 (1), 74-89",
+   "year": "2016"
+  },
+  {
+   "title": "The Role of Massively Multi-Task and Weak Supervision in Software 2.0.",
+   "authors": "AJ Ratner, B Hancock, C Ré",
+   "venue": "CIDR",
+   "year": "2019"
+  },
+  {
+   "title": "Collective supervision of topic models for predicting surveys with social media",
+   "authors": "A Benton, M Paul, B Hancock, M Dredze",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 30 (1)",
+   "year": "2016"
+  },
+  {
+   "title": "Computing on masked data to improve the security of big data",
+   "authors": "V Gadepally, B Hancock, B Kaiser, J Kepner, P Michaleas, M Varia, ...",
+   "venue": "2015 IEEE International Symposium on Technologies for Homeland Security (HST …",
+   "year": "2015"
+  },
+  {
+   "title": "DMLR: Data-centric Machine Learning Research--Past, Present and Future",
+   "authors": "L Oala, M Maskey, L Bat-Leah, A Parrish, NM Gürel, TS Kuo, Y Liu, R Dror, ...",
+   "venue": "arXiv preprint arXiv:2311.13028",
+   "year": "2023"
+  },
+  {
+   "title": "Usage scenarios for design space exploration with a dynamic multiobjective optimization formulation",
+   "authors": "SK Curtis, BJ Hancock, CA Mattson",
+   "venue": "Research in Engineering Design 24 (4), 395-409",
+   "year": "2013"
+  },
+  {
+   "title": "Reducing shock interactions in transonic turbine via three-dimensional aerodynamic shaping",
+   "authors": "BJ Hancock, JP Clark",
+   "venue": "Journal of Propulsion and Power 30 (5), 1248-1256",
+   "year": "2014"
+  },
+  {
+   "title": "Divergent exploration in design with a dynamic multiobjective optimization formulation",
+   "authors": "SK Curtis, CA Mattson, BJ Hancock, PK Lewis",
+   "venue": "Structural and Multidisciplinary Optimization 47 (5), 645-657",
+   "year": "2012"
+  },
+  {
+   "title": "Somebody's watching: The ever-growing internet of things",
+   "authors": "B Hancock, LN Hancock",
+   "venue": "Phi kappa phi forum 96 (3), 13-16",
+   "year": "2016"
+  },
+  {
+   "title": "Parallel vectorized algebraic AES in Matlab for rapid prototyping of encrypted sensor processing algorithms and database analytics",
+   "authors": "J Kepner, V Gadepally, B Hancock, P Michaleas, E Michel, M Varia",
+   "venue": "2015 IEEE High Performance Extreme Computing Conference (HPEC), 1-8",
+   "year": "2015"
+  },
+  {
+   "title": "Systems and Methods for Programmatic Labeling of Training Data for Machine Learning Models via Clustering and Language Model Prompting",
+   "authors": "RN Smith, BR Fowler, F Poms, N Iyer, B Hancock, R Malani",
+   "venue": "US Patent App. 18/389,404",
+   "year": "2024"
+  },
+  {
+   "title": "Systems and Methods for Programmatic Labeling of Training Data for Machine Learning Models via Clustering",
+   "authors": "F Poms, N Iyer, B Hancock, R Malani",
+   "venue": "US Patent App. 18/214,024",
+   "year": "2023"
+  },
+  {
+   "title": "L-dominance: An approximate-domination mechanism for adaptive resolution of Pareto frontiers",
+   "authors": "BJ Hancock, TB Nysetvold, CA Mattson",
+   "venue": "Structural and Multidisciplinary Optimization 52 (2), 269-279",
+   "year": "2015"
+  },
+  {
+   "title": "L-Dominance: A New Mechanism Combining ε-Dominance and Pareto Knee Exploitation in Evolutionary Multi-objective Optimization",
+   "authors": "B Hancock, TB Nysetvold, CA Mattson",
+   "venue": "53rd AIAA Aerospace Sciences Meeting, 0381",
+   "year": "2015"
+  },
+  {
+   "title": "ACM/IMS",
+   "authors": "W Miao, L Liu, Y Li, EJT Tchetgen, Z Geng, L Zhou, F Koehler, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Weak Supervision from High-level Abstractions",
+   "authors": "BJ Hancock",
+   "venue": "Stanford University",
+   "year": "2019"
+  },
+  {
+   "title": "International Student Conference Recipients",
+   "authors": "ML Brunacini, MJ Wolf, DR Stralka, J Schneiders, MER Shelley, C Shields, ...",
+   "venue": "Delft University of Technology",
+   "year": "2016"
+  },
+  {
+   "title": "L-Dominance: A New Mechanism Combining ǫ-Dominance and Pareto Knee Exploitation in Evolutionary Multi-objective Optimization",
+   "authors": "BJ Hancock, TB Nysetvold, CA Mattson",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Direct Generation of Smart Pareto Sets in Multiobjective Optimization",
+   "authors": "B Hancock, DCA Mattson",
+   "venue": "Journal of Undergraduate Research 2014 (1), 115",
+   "year": "2014"
+  },
+  {
+   "title": "Creation of an Interactive Early-Stage Design Environment",
+   "authors": "B Hancock, DC Mattson",
+   "venue": "Journal of Undergraduate Research 2013 (1), 2024",
+   "year": "2013"
+  },
+  {
+   "title": "Reducing Shock Interactions in a Single Stage High Pressure Turbine via 3D Aerodynamic Shaping",
+   "authors": "B Hancock",
+   "venue": "51st AIAA Aerospace Sciences Meeting including the New Horizons Forum and …",
+   "year": "2013"
+  }
+ ]
+}

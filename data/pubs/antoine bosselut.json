@@ -1,0 +1,1205 @@
+{
+ "user": "XD9hkJwAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "COMET: Commonsense transformers for automatic knowledge graph construction",
+   "authors": "A Bosselut, H Rashkin, M Sap, C Malaviya, A Celikyilmaz, Y Choi",
+   "venue": "ACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "QA-GNN: Reasoning with language models and knowledge graphs for question answering",
+   "authors": "M Yasunaga, H Ren, A Bosselut, P Liang, J Leskovec",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Fast model editing at scale",
+   "authors": "E Mitchell, C Lin, A Bosselut, C Finn, CD Manning",
+   "venue": "ICLR 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Meditron-70b: Scaling medical pretraining for large language models",
+   "authors": "Z Chen, AH Cano, A Romanou, A Bonnet, K Matoba, F Salvi, ...",
+   "venue": "arXiv preprint arXiv:2311.16079",
+   "year": "2023"
+  },
+  {
+   "title": "Memory-based model editing at scale",
+   "authors": "E Mitchell, C Lin, A Bosselut, CD Manning, C Finn",
+   "venue": "ICML 2022",
+   "year": "2022"
+  },
+  {
+   "title": "(comet-) atomic 2020: On symbolic and neural commonsense knowledge graphs",
+   "authors": "JD Hwang, C Bhagavatula, R Le Bras, J Da, K Sakaguchi, A Bosselut, ...",
+   "venue": "AAAI 2021",
+   "year": "2021"
+  },
+  {
+   "title": "GreaseLM: Graph reasoning enhanced language models for question answering",
+   "authors": "X Zhang, A Bosselut, M Yasunaga, H Ren, P Liang, CD Manning, ...",
+   "venue": "ICLR 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Deep communicating agents for abstractive summarization",
+   "authors": "A Celikyilmaz, A Bosselut, X He, Y Choi",
+   "venue": "NAACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Deep bidirectional language-knowledge graph pretraining",
+   "authors": "M Yasunaga, A Bosselut, H Ren, X Zhang, CD Manning, PS Liang, ...",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Learning to write with cooperative discriminators",
+   "authors": "A Holtzman, J Buys, M Forbes, A Bosselut, D Golub, Y Choi",
+   "venue": "ACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Global MMLU: Understanding and addressing cultural and linguistic biases in multilingual evaluation",
+   "authors": "S Singh, A Romanou, C Fourrier, DI Adelani, JG Ngui, D Vila-Suero, ...",
+   "venue": "ACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Refiner: Reasoning feedback on intermediate representations",
+   "authors": "D Paul, M Ismayilzada, M Peyrard, B Borges, A Bosselut, R West, ...",
+   "venue": "EACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "The gem benchmark: Natural language generation, its evaluation and metrics",
+   "authors": "S Gehrmann, T Adewumi, K Aggarwal, PS Ammanamanchi, A Aremu, ...",
+   "venue": "Proceedings of the First Workshop on Natural Language Generation, Evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "A Design Space for Intelligent and Interactive Writing Assistants",
+   "authors": "M Lee, KI Gero, JJY Chung, SB Shum, V Raheja, H Shen, S Venugopalan, ...",
+   "venue": "CHI 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Dynamic neuro-symbolic knowledge graph construction for zero-shot commonsense question answering",
+   "authors": "A Bosselut, R Le Bras, Y Choi",
+   "venue": "AAAI 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning",
+   "authors": "D Paul, R West, A Bosselut, B Faltings",
+   "venue": "EMNLP 2024 (Findings)",
+   "year": "2024"
+  },
+  {
+   "title": "Commonsense knowledge base completion with structural and semantic context",
+   "authors": "C Malaviya, C Bhagavatula, A Bosselut, Y Choi",
+   "venue": "AAAI 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Counterfactual story reasoning and generation",
+   "authors": "L Qin, A Bosselut, A Holtzman, C Bhagavatula, E Clark, Y Choi",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Commonsense reasoning for natural language processing",
+   "authors": "M Sap, V Shwartz, A Bosselut, Y Choi, D Roth",
+   "venue": "ACL 2020 Tutorial Abstracts",
+   "year": "2020"
+  },
+  {
+   "title": "Simulating action dynamics with neural process networks",
+   "authors": "A Bosselut, O Levy, A Holtzman, C Ennis, D Fox, Y Choi",
+   "venue": "ICLR 2018",
+   "year": "2017"
+  },
+  {
+   "title": "Disco: distilling counterfactuals with large language models",
+   "authors": "Z Chen, Q Gao, A Bosselut, A Sabharwal, K Richardson",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Mitigating Label Biases for In-context Learning",
+   "authors": "Y Fei, Y Hou, Z Chen, A Bosselut",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Modeling naive psychology of characters in simple commonsense stories",
+   "authors": "H Rashkin, A Bosselut, M Sap, K Knight, Y Choi",
+   "venue": "ACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Measuring what matters: Construct validity in large language model benchmarks",
+   "authors": "AM Bean, RO Kearns, A Romanou, FS Hafner, H Mayne, J Batzner, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Wiqa: A dataset for\" what if...\" reasoning over procedural text",
+   "authors": "N Tandon, BD Mishra, K Sakaguchi, A Bosselut, P Clark",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Back to the future: Unsupervised backprop-based decoding for counterfactual and abductive commonsense reasoning",
+   "authors": "L Qin, V Shwartz, P West, C Bhagavatula, J Hwang, RL Bras, A Bosselut, ...",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "INCLUDE: Evaluating multilingual language understanding with regional knowledge",
+   "authors": "A Romanou, N Foroutan, A Sotnikova, Z Chen, SH Nelaturu, S Singh, ...",
+   "venue": "ICLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Reasoning about actions and state changes by injecting commonsense knowledge",
+   "authors": "N Tandon, BD Mishra, J Grus, W Yih, A Bosselut, P Clark",
+   "venue": "EMNLP 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Discourse-aware neural rewards for coherent text generation",
+   "authors": "A Bosselut, A Celikyilmaz, X He, J Gao, PS Huang, Y Choi",
+   "venue": "NAACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models",
+   "authors": "Y Hou, J Li, Y Fei, A Stolfo, W Zhou, G Zeng, A Bosselut, M Sachan",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Could ChatGPT get an engineering degree? Evaluating higher education vulnerability to AI assistants",
+   "authors": "B Borges, N Foroutan, D Bayazit, A Sotnikova, S Montariol, T Nazaretsky, ...",
+   "venue": "Proceedings of the National Academy of Sciences 121 (49), e2414955121",
+   "year": "2024"
+  },
+  {
+   "title": "Synthetic disinformation attacks on automated fact verification systems",
+   "authors": "Y Du*, A Bosselut*, CD Manning",
+   "venue": "AAAI 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Efficient Tool Use with Chain-of-Abstraction Reasoning",
+   "authors": "S Gao, J Dwivedi-Yu, P Yu, XE Tan, R Pasunuru, O Golovneva, K Sinha, ...",
+   "venue": "COLING 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Apertus: Democratizing open and compliant llms for global language environments",
+   "authors": "A Hernández-Cano, A Hägele, A Hao Huang, A Romanou, AJ Solergibert, ...",
+   "venue": "ACL 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Rethinking skill extraction in the job market domain using large language models",
+   "authors": "K Nguyen, M Zhang, S Montariol, A Bosselut",
+   "venue": "Proceedings of the First Workshop on Natural Language Processing for Human …",
+   "year": "2024"
+  },
+  {
+   "title": "Efficient adaptation of pretrained transformers for abstractive summarization",
+   "authors": "A Hoang, A Bosselut, A Celikyilmaz, Y Choi",
+   "venue": "arXiv preprint arXiv:1906.00138",
+   "year": "2019"
+  },
+  {
+   "title": "CRAB: Assessing the Strength of Causal Relationships Between Real-world Events",
+   "authors": "A Romanou, S Montariol, D Paul, L Laugier, K Aberer, A Bosselut",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Everything happens for a reason: Discovering the purpose of actions in procedural text",
+   "authors": "B Dalvi, N Tandon, A Bosselut, W Yih, P Clark",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "ConGeo: Robust Cross-view Geo-localization across Ground View Variations",
+   "authors": "L Mi, C Xu, J Castillo-Navarro, S Montariol, W Yang, A Bosselut, D Tuia",
+   "venue": "ECCV 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Creativity in ai: Progresses and challenges",
+   "authors": "M Ismayilzada, D Paul, A Bosselut, L van der Plas",
+   "venue": "arXiv preprint arXiv:2410.17218",
+   "year": "2024"
+  },
+  {
+   "title": "Instruction-tuning aligns llms to the human brain",
+   "authors": "KL Aw, S Montariol, B AlKhamissi, M Schrimpf, A Bosselut",
+   "venue": "arXiv preprint arXiv:2312.00575",
+   "year": "2023"
+  },
+  {
+   "title": "LLMs Are In-Context Bandit Reinforcement Learners",
+   "authors": "G Monea, A Bosselut, K Brantley, Y Artzi",
+   "venue": "COLM 2025",
+   "year": "2025"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Analyzing commonsense emergence in few-shot knowledge models",
+   "authors": "J Da, RL Bras, X Lu, Y Choi, A Bosselut",
+   "venue": "arXiv preprint arXiv:2101.00297",
+   "year": "2021"
+  },
+  {
+   "title": "\" I'm Not Mad\": Commonsense Implications of Negation and Contradiction",
+   "authors": "L Jiang, A Bosselut, C Bhagavatula, Y Choi",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units",
+   "authors": "B AlKhamissi, G Tuckute, A Bosselut*, M Schrimpf*",
+   "venue": "NAACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "From Language to Cognition: How LLMs Outgrow the Human Language Network",
+   "authors": "B AlKhamissi, G Tuckute, Y Tang, T Binhuraib, A Bosselut*, M Schrimpf*",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Evaluating Morphological Compositional Generalization in Large Language Models",
+   "authors": "M Ismayilzada, D Circi, J Sälevä, H Sirin, A Köksal, B Dhingra, A Bosselut, ...",
+   "venue": "NAACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Discovering knowledge-critical subnetworks in pretrained language models",
+   "authors": "D Bayazit, N Foroutan, Z Chen, G Weiss, A Bosselut",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives",
+   "authors": "S Gao, B Borges, S Oh, D Bayazit, S Kanno, H Wakaki, Y Mitsufuji, ...",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Be consistent! improving procedural text comprehension using label consistency",
+   "authors": "X Du, BD Mishra, N Tandon, A Bosselut, W Yih, P Clark, C Cardie",
+   "venue": "NAACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Creative preference optimization",
+   "authors": "M Ismayilzada, A Laverghetta Jr, SA Luchini, R Patel, A Bosselut, ...",
+   "venue": "EMNLP 2025 (Findings)",
+   "year": "2025"
+  },
+  {
+   "title": "Discovering language-neutral sub-networks in multilingual language models",
+   "authors": "N Foroutan, M Banaei, R Lebret, A Bosselut, K Aberer",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering",
+   "authors": "W Wang, T Fang, W Ding, B Xu, X Liu, Y Song, A Bosselut",
+   "venue": "EMNLP 2023 (Findings)",
+   "year": "2023"
+  },
+  {
+   "title": "Rational metareasoning for large language models",
+   "authors": "CN De Sabbata, TR Sumers, B AlKhamissi, A Bosselut, TL Griffiths",
+   "venue": "arXiv preprint arXiv:2410.05563",
+   "year": "2024"
+  },
+  {
+   "title": "Course Recommender Systems Need to Consider the Job Market",
+   "authors": "J Frej, A Dai, S Montariol, A Bosselut, T Käser",
+   "venue": "SIGIR 2024",
+   "year": "2024"
+  },
+  {
+   "title": "JobSkape: A framework for generating synthetic job postings to enhance skill matching",
+   "authors": "A Magron, A Dai, M Zhang, S Montariol, A Bosselut",
+   "venue": "Proceedings of the First Workshop on Natural Language Processing for Human …",
+   "year": "2024"
+  },
+  {
+   "title": "Discourse understanding and factual consistency in abstractive summarization",
+   "authors": "S Gabriel, A Bosselut, J Da, A Holtzman, J Buys, K Lo, A Celikyilmaz, ...",
+   "venue": "EACL 2021",
+   "year": "2019"
+  },
+  {
+   "title": "Comfact: A benchmark for linking contextual commonsense knowledge",
+   "authors": "S Gao, JD Hwang, S Kanno, H Wakaki, Y Mitsufuji, A Bosselut",
+   "venue": "EMNLP 2022 (Findings)",
+   "year": "2022"
+  },
+  {
+   "title": "CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks",
+   "authors": "M Ismayilzada, D Paul, S Montariol, M Geva, A Bosselut",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "others. 2025. Measuring what matters: Construct validity in large language model benchmarks",
+   "authors": "AM Bean, RO Kearns, A Romanou, FS Hafner, H Mayne, J Batzner, ...",
+   "venue": "arXiv preprint arXiv:2511.04703",
+   "year": "1"
+  },
+  {
+   "title": "Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs",
+   "authors": "T Fang, Z Chen, Y Song, A Bosselut",
+   "venue": "ACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Procedural reading comprehension with attribute-aware context flow",
+   "authors": "A Amini, A Bosselut, BD Mishra, Y Choi, H Hajishirzi",
+   "venue": "AKBC 2020",
+   "year": "2020"
+  },
+  {
+   "title": "RECKONING: Reasoning through Dynamic Knowledge Encoding",
+   "authors": "Z Chen, G Weiss, E Mitchell, A Celikyilmaz, A Bosselut",
+   "venue": "NeurIPS 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Conversational multi-hop reasoning with neural commonsense knowledge and symbolic logic rules",
+   "authors": "F Arabshahi, J Lee, A Bosselut, Y Choi, T Mitchell",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Learning prototypical event structure from photo albums",
+   "authors": "A Bosselut, J Chen, D Warren, H Hajishirzi, Y Choi",
+   "venue": "ACL 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Reliable evaluation and benchmarks for statement autoformalization",
+   "authors": "A Poiroux, G Weiss, V Kunčak, A Bosselut",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "EPFL-MAKE at “Discharge Me!”: an LLM system for automatically generating discharge summaries of clinical electronic health record",
+   "authors": "H Wu, P Boulenger, A Faure, B Céspedes, F Boukil, N Morel, Z Chen, ...",
+   "venue": "Proceedings of the 23rd Workshop on Biomedical Natural Language Processing …",
+   "year": "2024"
+  },
+  {
+   "title": "Edited media understanding frames: Reasoning about the intent and implications of visual misinformation",
+   "authors": "J Da, M Forbes, R Zellers, A Zheng, JD Hwang, A Bosselut, Y Choi",
+   "venue": "ACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Brittlebench: Quantifying LLM robustness via prompt sensitivity",
+   "authors": "A Romanou, M Ibrahim, C Ross, C Shaib, K Oktar, SJ Bell, A Ovalle, ...",
+   "venue": "arXiv preprint arXiv:2603.13285",
+   "year": "2026"
+  },
+  {
+   "title": "Exploiting structural and semantic context for commonsense knowledge base completion",
+   "authors": "C Malaviya, C Bhagavatula, A Bosselut, Y Choi",
+   "venue": "arXiv preprint arXiv:1910.02915",
+   "year": "2019"
+  },
+  {
+   "title": "Improving autoformalization using type checking",
+   "authors": "A Poiroux, G Weiss, V Kunčak, A Bosselut",
+   "venue": "arXiv e-prints, arXiv: 2406.07222",
+   "year": "2024"
+  },
+  {
+   "title": "Parity-aware byte-pair encoding: Improving cross-lingual fairness in tokenization",
+   "authors": "N Foroutan, C Meister, D Paul, J Niklaus, S Ahmadi, A Bosselut, ...",
+   "venue": "ACL 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Brain-like language processing via a shallow untrained multihead attention network",
+   "authors": "B AlKhamissi, G Tuckute, A Bosselut*, M Schrimpf*",
+   "venue": "arXiv preprint arXiv:2406.15109",
+   "year": "2024"
+  },
+  {
+   "title": "On-the-fly attention modulation for neural generation",
+   "authors": "Y Dong, C Bhagavatula, X Lu, JD Hwang, A Bosselut, JCK Cheung, ...",
+   "venue": "ACL 2021 (Findings)",
+   "year": "2021"
+  },
+  {
+   "title": "Backpropagation-based decoding for unsupervised counterfactual and abductive reasoning",
+   "authors": "L Qin, V Shwartz, P West, C Bhagavatula, JD Hwang, R Le Bras, ...",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Context is Gold to find the Gold Passage: Evaluating and Training Contextual Document Embeddings",
+   "authors": "M Conti, M Faysse, G Viaud, A Bosselut, C Hudelot, P Colombo",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Retrieval-based interleaved visual chain-of-thought in real-world driving scenarios",
+   "authors": "C Corbiere, S Roburin, S Montariol, A Bosselut, A Alahi",
+   "venue": "arXiv preprint arXiv:2501.04671",
+   "year": "2025"
+  },
+  {
+   "title": "Large language models are catalyzing chemistry education",
+   "authors": "Y Du, C Duan, AM Bran, A Sotnikova, Y Qu, HJ Kulik, A Bosselut, J Xu, ...",
+   "venue": "American Chemical Society (ACS)",
+   "year": "2024"
+  },
+  {
+   "title": "Measuring what matters: Construct validity in large language model benchmarks, 2025",
+   "authors": "AM Bean, RO Kearns, A Romanou, FS Hafner, H Mayne, J Batzner, ...",
+   "venue": "URL https://arxiv. org/abs/2511.04703",
+   "year": null
+  },
+  {
+   "title": "A logical fallacy-informed framework for argument generation",
+   "authors": "L Mouchel, D Paul, S Cui, R West, A Bosselut, B Faltings",
+   "venue": "NAACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Drivingvqa: Analyzing visual chain-of-thought reasoning of vision language models in real-world scenarios with driving theory tests",
+   "authors": "C Corbière, S Roburin, S Montariol, A Bosselut, A Alahi",
+   "venue": "arXiv e-prints, arXiv: 2501.04671",
+   "year": "2025"
+  },
+  {
+   "title": "Let me teach you: Pedagogical foundations of feedback for language models",
+   "authors": "B Borges, N Tandon, T Käser, A Bosselut",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "ConVQG: Contrastive Visual Question Generation with Multimodal Guidance",
+   "authors": "L Mi, S Montariol, J Castillo-Navarro, X Dai, A Bosselut, D Tuia",
+   "venue": "AAAI 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Leaninteract: A python interface for lean 4, 2025",
+   "authors": "A Poiroux, V Kuncak, A Bosselut",
+   "venue": "URL https://github. com/augustepoiroux/LeanInteract",
+   "year": null
+  },
+  {
+   "title": "Enhancing procedural writing through personalized example retrieval: a case study on cooking recipes",
+   "authors": "P Mejia-Domenzain, J Frej, SP Neshaei, L Mouchel, T Nazaretsky, ...",
+   "venue": "International Journal of Artificial Intelligence in Education 35 (1), 330-366",
+   "year": "2025"
+  },
+  {
+   "title": "Conditional set generation using Seq2seq models",
+   "authors": "A Madaan, D Rajagopal, N Tandon, Y Yang, A Bosselut",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "End-to-end task-oriented dialog modeling with semi-structured knowledge management",
+   "authors": "S Gao, R Takanobu, A Bosselut, M Huang",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 30, 2173-2187",
+   "year": "2022"
+  },
+  {
+   "title": "Cooperative generator-discriminator networks for abstractive summarization with narrative flow",
+   "authors": "S Gabriel, A Bosselut, A Holtzman, K Lo, A Celikyilmaz, Y Choi",
+   "venue": "arXiv preprint arXiv:1907.01272",
+   "year": "2019"
+  },
+  {
+   "title": "Greaselm: Graph reasoning enhanced language models for question answering, 2022",
+   "authors": "X Zhang, A Bosselut, M Yasunaga, H Ren, P Liang, CD Manning, ...",
+   "venue": "URL https://arxiv. org/abs/2201.08860",
+   "year": null
+  },
+  {
+   "title": "Exploring Defeasibility in Causal Reasoning",
+   "authors": "S Cui, L Milikic, Y Feng, M Ismayilzada, D Paul, A Bosselut, B Faltings",
+   "venue": "ACL 2024 (Findings)",
+   "year": "2024"
+  },
+  {
+   "title": "Mixture of cognitive reasoners: Modular reasoning with brain-like specialization",
+   "authors": "B AlKhamissi, CN De Sabbata, G Tuckute, Z Chen, M Schrimpf, ...",
+   "venue": "ICLR 2026",
+   "year": "2026"
+  },
+  {
+   "title": "\" Flex Tape Can't Fix That\": Bias and Misinformation in Edited Language Models",
+   "authors": "K Halevy, A Sotnikova, B AlKhamissi, S Montariol, A Bosselut",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Meditron: Open medical foundation models adapted for clinical practice",
+   "authors": "Z Chen, A Romanou, A Bonnet, B Alkhamissy, A Hernández-Cano, ...",
+   "venue": "Research Square Platform LLC",
+   "year": "2024"
+  },
+  {
+   "title": "MEDITRON: Open Medical Foundation Models Adapted for Clinical Practice",
+   "authors": "Z Chen, A Romanou, A Bonnet, A Hernández-Cano, B Alkhamissi, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "kogito: A Commonsense Knowledge Inference Toolkit",
+   "authors": "M Ismayilzada, A Bosselut",
+   "venue": "EACL 2023: System Demonstrations",
+   "year": "2023"
+  },
+  {
+   "title": "Everything happens for a reason: Discovering the purpose of actions in procedural text",
+   "authors": "BD Mishra, N Tandon, A Bosselut, W Yih, P Clark",
+   "venue": "arXiv preprint arXiv:1909.04745",
+   "year": "2019"
+  },
+  {
+   "title": "DiffuCOMET: Contextual Commonsense Knowledge Diffusion",
+   "authors": "S Gao, M Ismayilzada, M Zhao, H Wakaki, Y Mitsufuji, A Bosselut",
+   "venue": "ACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "MEDITRON: Open medical foundation models adapted for clinical practice",
+   "authors": "A Bosselut, Z Chen, A Romanou, A Bonnet, A Hernández-Cano, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "The amazing world of neural language generation",
+   "authors": "Y Ji, A Bosselut, T Wolf, A Celikyilmaz",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "VinaBench: Benchmark for Faithful and Consistent Visual Narratives",
+   "authors": "S Gao, S Mathew, L Mi, S Mamooler, M Zhao, H Wakaki, Y Mitsufuji, ...",
+   "venue": "CVPR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Breaking the Language Barrier: Improving Cross-Lingual Reasoning with Structured Self-Attention",
+   "authors": "N Foroutan, M Banaei, K Aberer, A Bosselut",
+   "venue": "EMNLP 2023 (Findings)",
+   "year": "2023"
+  },
+  {
+   "title": "Efficient tool use with chain-of-abstraction reasoning (2024)",
+   "authors": "S Gao, J Dwivedi-Yu, P Yu, XE Tan, R Pasunuru, O Golovneva, K Sinha, ...",
+   "venue": "arXiv preprint arXiv:2401.17464",
+   "year": null
+  },
+  {
+   "title": "Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining",
+   "authors": "D Bayazit, A Mueller, A Bosselut",
+   "venue": "ACL 2026",
+   "year": "2026"
+  },
+  {
+   "title": "RLMEval: Evaluating Research-Level Neural Theorem Proving",
+   "authors": "A Poiroux, A Bosselut, V Kunčak",
+   "venue": "EMNLP 2025 (Findings)",
+   "year": "2025"
+  },
+  {
+   "title": "Edited media understanding: Reasoning about implications of manipulated images",
+   "authors": "J Da, M Forbes, R Zellers, A Zheng, JD Hwang, A Bosselut, Y Choi",
+   "venue": "arXiv preprint arXiv:2012.04726",
+   "year": "2020"
+  },
+  {
+   "title": "Tracking the Limits of Knowledge Propagation: How LLMs Fail at Multi-Step Reasoning with Conflicting Knowledge",
+   "authors": "Y Feng, Z Chen, H Wu, J Zhou, A Bosselut",
+   "venue": "EACL 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Improving autoformalization using type checking, 2025",
+   "authors": "A Poiroux, G Weiss, V Kuncak, A Bosselut",
+   "venue": "URL https://arxiv. org/abs/2406.07222",
+   "year": null
+  },
+  {
+   "title": "Perk: Long-context reasoning as parameter-efficient test-time learning",
+   "authors": "Z Chen, A Romanou, G Weiss, A Bosselut",
+   "venue": "ICLR 2026",
+   "year": "2026"
+  },
+  {
+   "title": "ConLID: Supervised Contrastive Learning for Low-Resource Language Identification",
+   "authors": "N Foroutan, J Saydaliev, YE Kim, A Bosselut",
+   "venue": "EACL 2026",
+   "year": "2026"
+  },
+  {
+   "title": "AbstRaL: Augmenting LLMs' Reasoning by Reinforcing Abstract Thinking",
+   "authors": "S Gao, A Bosselut, S Bengio, E Abbe",
+   "venue": "14th International Conference on Learning Representations (ICLR 2026)",
+   "year": "2026"
+  },
+  {
+   "title": "Revisiting multilingual data mixtures in language model pretraining",
+   "authors": "N Foroutan, P Teiletche, AK Tarun, A Bosselut",
+   "venue": "arXiv preprint arXiv:2510.25947",
+   "year": "2025"
+  },
+  {
+   "title": "Fine-tuning vision-language models for animal behavior analysis",
+   "authors": "S Mamooler, H Qi, V Gabeff, S Montariol, A Bosselut, A Mathis",
+   "venue": "LLM for scientific discovery: reasoning, assistance, and collaboration",
+   "year": "2025"
+  },
+  {
+   "title": "Understanding few-shot commonsense knowledge models",
+   "authors": "J Da, R Le Bras, X Lu, Y Choi, A Bosselut",
+   "venue": "CoRR abs/2101.00297",
+   "year": "2021"
+  },
+  {
+   "title": "Do LLMs Game Formalization? Evaluating Faithfulness in Logical Reasoning",
+   "authors": "K Kim, A Poiroux, A Bosselut",
+   "venue": "arXiv preprint arXiv:2604.19459",
+   "year": "2026"
+  },
+  {
+   "title": "GeoExplorer: Active Geo-localization with Curiosity-Driven Exploration",
+   "authors": "L Mi, M Bechaz, Z Chen, A Bosselut, D Tuia",
+   "venue": "ICCV 2025",
+   "year": "2025"
+  },
+  {
+   "title": "ComperDial: Commonsense Persona-grounded Dialogue Dataset and Benchmark",
+   "authors": "H Wakaki*, Y Mitsufuji*, Y Maeda, Y Nishimura, S Gao, M Zhao, ...",
+   "venue": "arXiv preprint arXiv:2406.11228",
+   "year": "2024"
+  },
+  {
+   "title": "Drivingvqa: A dataset for interleaved visual chain-of-thought in real-world driving scenarios",
+   "authors": "C Corbière, S Roburin, S Montariol, A Bosselut, A Alahi",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2026, 3309-3333",
+   "year": "2026"
+  },
+  {
+   "title": "Measuring what Matters: Construct Validity in Large Language Model Benchmarks. arXiv",
+   "authors": "AM Bean, RO Kearns, A Romanou, FS Hafner, H Mayne, J Batzner, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Fast model editing at scale. arXiv",
+   "authors": "E Mitchell, C Lin, A Bosselut, C Finn, CD Manning",
+   "venue": "arXiv preprint arXiv:2110.11309",
+   "year": "2021"
+  },
+  {
+   "title": "CAVE: Detecting and Explaining Commonsense Anomalies in Visual Environments",
+   "authors": "R Bhagwatkar, S Montariol, A Romanou, B Borges, I Rish, A Bosselut",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Challenges for AI in multimodal STEM assessments: A human-AI comparison",
+   "authors": "A de Chillaz, A Sotnikova, P Jermann, A Bosselut",
+   "venue": "Proceedings of the 20th Workshop on Innovative Use of NLP for Building …",
+   "year": "2025"
+  },
+  {
+   "title": "Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs",
+   "authors": "D Fan, V Sabolčec, M Ansaripour, AK Tarun, M Jaggi, A Bosselut, I Schlag",
+   "venue": "arXiv preprint arXiv:2504.06219",
+   "year": "2025"
+  },
+  {
+   "title": "PICLe: Pseudo-Annotations for In-Context Learning in Low-Resource Named Entity Detection",
+   "authors": "S Mamooler, S Montariol, A Mathis*, A Bosselut*",
+   "venue": "NAACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Iclr 2025 workshop on bidirectional human-ai alignment",
+   "authors": "H Shen, Z Ma, R Ghosh, T Knearem, MX Liu, T Wu, A Monroy-Hernández, ...",
+   "venue": "ICLR 2025 Workshop Proposals",
+   "year": "2025"
+  },
+  {
+   "title": "Instruction-tuned LLMs with World Knowledge are More Aligned to the Human Brain",
+   "authors": "KL Aw, S Montariol, B AlKhamissi, M Schrimpf, A Bosselut",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Rethinking skill extraction in the job market domain using large language models (2024)",
+   "authors": "KC Nguyen, M Zhang, S Montariol, A Bosselut",
+   "venue": "arXiv preprint arXiv:2402.03832",
+   "year": "2024"
+  },
+  {
+   "title": "epfllm megatron-LLM",
+   "authors": "AH Cano, M Pagliardini, A Köpf, K Matoba, A Mohtashami, OS Fan, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Fast model editing at scale",
+   "authors": "M Eric, L Charles, B Antoine, F Chelsea",
+   "venue": "International Conference on Learning Representations",
+   "year": "2022"
+  },
+  {
+   "title": "The amazing world of generation",
+   "authors": "TWY Ji, A Bosselut, A Celikyilmaz",
+   "venue": "EMNLP tutorials",
+   "year": "2020"
+  },
+  {
+   "title": "RLMEval: Evaluating research-level neural theorem proving, 2025a",
+   "authors": "A Poiroux, A Bosselut, V Kuncak",
+   "venue": "URL https://arxiv. org/abs/2510.25427",
+   "year": null
+  },
+  {
+   "title": "Can performant llms be ethical? quantifying the impact of web crawling opt-outs, 2025",
+   "authors": "D Fan, V Sabolcec, M Ansaripour, AK Tarun, M Jaggi, A Bosselut, I Schlag",
+   "venue": "URL https://arxiv. org/abs/2504.06219",
+   "year": null
+  },
+  {
+   "title": "epfllm megatron-llm, 2023",
+   "authors": "AH Cano, M Pagliardini, A Köpf, K Matoba, A Mohtashami, X Wang, ...",
+   "venue": "URL https://github. com/epfLLM/Megatron-LLM",
+   "year": null
+  },
+  {
+   "title": "Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents",
+   "authors": "N Talokar, AK Tarun, M Mandal, M Andriushchenko, A Bosselut",
+   "venue": "ICML 2026",
+   "year": "2026"
+  },
+  {
+   "title": "For Better or for Worse, Transformers Seek Patterns for Memorization",
+   "authors": "M Panwar, G Weiss, N Goyal, A Bosselut",
+   "venue": "NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Measuring what matters: construct validity in large language model benchmarks. arXiv. doi: 10.48550",
+   "authors": "AM Bean, RO Kearns, A Romanou, FS Hafner, H Mayne, J Batzner",
+   "venue": "arXiv preprint arXiv.2511.04703",
+   "year": "2025"
+  },
+  {
+   "title": "Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning. arXiv",
+   "authors": "D Paul, R West, A Bosselut, B Faltings",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating language model agency through negotiations. arXiv [Preprint](2024)",
+   "authors": "TR Davidson, V Veselovsky, M Josifoski, M Peyrard, A Bosselut, ...",
+   "venue": "arXiv preprint arXiv:2401.04536",
+   "year": "2024"
+  },
+  {
+   "title": "Commonsense Knowledge Base Completion with Structural and Semantic Context.(2019)",
+   "authors": "C Malaviya, C Bhagavatula, A Bosselut, Y Choi",
+   "venue": "arXiv preprint arXiv:1910.02915",
+   "year": "2019"
+  },
+  {
+   "title": "Simulating action dynamics with neural process networks",
+   "authors": "B Antoine, L Omer, H Ari, E Corin, F Dieter",
+   "venue": "ArXiv",
+   "year": "2018"
+  },
+  {
+   "title": "Arxgen: Corpus of arxiv articles for deep generative models",
+   "authors": "A Celikyilmaz, A Bosselut, D Shen",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Fast Model Editing at Scale, June 2022",
+   "authors": "E Mitchell, C Lin, A Bosselut, C Finn, CD Manning",
+   "venue": "URL http://arxiv. org/abs/2110.11309",
+   "year": null
+  },
+  {
+   "title": "Creative preference optimization, 2025",
+   "authors": "M Ismayilzada, A Laverghetta Jr, SA Luchini, R Patel, A Bosselut, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Reckoning: Reasoning through dynamic knowledge encoding, 2023",
+   "authors": "Z Chen, G Weiss, E Mitchell, A Celikyilmaz, A Bosselut",
+   "venue": "URL: https://github. com/eric11eca/reckoning-metakg. doi 10",
+   "year": null
+  },
+  {
+   "title": "Analyzing Commonsense 370 Emergence in Few-shot Knowledge Models. September 2021",
+   "authors": "J Da, R Le Bras, X Lu, Y Choi, A Bosselut",
+   "venue": "URL https://openreview 371",
+   "year": null
+  },
+  {
+   "title": "Badr 740 Alkhamissi, Kyle Matoba, Francesco Salvi, Matteo Pagliardini, Simin Fan, et al",
+   "authors": "A Bosselut, Z Chen, A Romanou, A Bonnet, A Hernández-Cano",
+   "venue": "Meditron: Open medical 741",
+   "year": null
+  },
+  {
+   "title": "The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units, 2024",
+   "authors": "B AlKhamissi, G Tuckute, A Bosselut, M Schrimpf",
+   "venue": "URL http://arxiv. org/abs/2411.02280",
+   "year": null
+  },
+  {
+   "title": "Positional fragility in LLMs: How offset effects reshape our understanding of memorization risks, 2025",
+   "authors": "Y Xu, AJS i Llaquet, A Bosselut, I Schlag",
+   "venue": "URL https://arxiv. org/abs/2505.13171",
+   "year": null
+  },
+  {
+   "title": "AI meets Mathematics Education: Supporting Instructors in Large Mathematics Classes with Context-Aware AI",
+   "authors": "JV Barghorn, A Sotnikova, S Friedli, A Bosselut",
+   "venue": "CHI 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Positional Fragility in LLMs: How Offset Effects Reshape Our Understanding of Memorization Risks",
+   "authors": "Y Xu, A Bosselut, I Schlag",
+   "venue": "NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Gallop: Gradient-based sparse learning on low-magnitude parameters",
+   "authors": "A Choudhary, Y Sulaıman, L Mauch, GB Hacene, F Cardinaux, A Bosselut",
+   "venue": "arXiv preprint arXiv:2510.19778",
+   "year": "2025"
+  },
+  {
+   "title": "Augmenting LLMs' Reasoning by Reinforcing Abstract Thinking",
+   "authors": "S Gao, A Bosselut, S Bengio, E Abbe",
+   "venue": "arXiv e-prints, arXiv: 2506.07751",
+   "year": "2025"
+  },
+  {
+   "title": "Training Visual Language Models with Object Detection: Grounded Change Descriptions in Satellite Images",
+   "authors": "JL Prado, S Montariol, J Castillo-Navarro, D Tuia, A Bosselut",
+   "venue": "IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium …",
+   "year": "2024"
+  },
+  {
+   "title": "Instruction-tuning Aligns LLMs to the Human Brain",
+   "authors": "K Loong Aw, S Montariol, B AlKhamissi, M Schrimpf, A Bosselut",
+   "venue": "arXiv e-prints, arXiv: 2312.00575",
+   "year": "2023"
+  },
+  {
+   "title": "Understanding Natural Language with Commonsense Knowledge Representation, Reasoning, and Simulation",
+   "authors": "A Bosselut",
+   "venue": "University of Washington",
+   "year": "2020"
+  },
+  {
+   "title": "Everything happens for a reason: Discovering the purpose of actions in procedural text",
+   "authors": "B Dalvi Mishra, N Tandon, A Bosselut, W Yih, P Clark",
+   "venue": "arXiv e-prints, arXiv: 1909.04745",
+   "year": "2019"
+  },
+  {
+   "title": "Lingua Franca or Probing Artifact? Rethinking Latent Language in Multilingual LLMs",
+   "authors": "D Bayazit, B AlKhamissi, A Bosselut",
+   "venue": "EMNLP 2026 (Findings)",
+   "year": "2026"
+  },
+  {
+   "title": "DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics",
+   "authors": "S Gao, H Zhao, Z Chen, S Mamooler, AR Bhattacharya, Q Wu, H Wakaki, ...",
+   "venue": "ICML 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models",
+   "authors": "Y Tong, Y Hou, S Cui, A Bosselut, M Sachan",
+   "venue": "ICML 2026",
+   "year": "2026"
+  },
+  {
+   "title": "AbstRaL: Augmenting LLMs’ Reasoning by Reinforcing Abstract Thinking",
+   "authors": "S Gao, A Bosselut, S Bengio, E Abbe",
+   "venue": "ICLR 2026",
+   "year": "2026"
+  },
+  {
+   "title": "An Engineering Journey Training Large Language Models at Scale on Alps: The Apertus Experience",
+   "authors": "J Coles, S Schuppli, L Drescher, FR Mohamed, E Palme, H Mendonça, ...",
+   "venue": "arXiv preprint arXiv:2604.12973",
+   "year": "2026"
+  },
+  {
+   "title": "Large Language Models Align with the Human Brain during Creative Thinking",
+   "authors": "M Ismayilzada, SA Luchini, A Gokce, B AlKhamissi, A Bosselut, ...",
+   "venue": "COLM 2026",
+   "year": "2026"
+  },
+  {
+   "title": "CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge",
+   "authors": "M Ismayilzada, R Cuomao, D Yurshevich, A Sotnikova, L van der Plas, ...",
+   "venue": "COLM 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Retrieval-based interleaved visual chain-of-thought in real-world driving scenarios",
+   "authors": "C Corbière, S Roburin, S Montariol, A Bosselut, A Alahi",
+   "venue": "EACL 2026 (Findings)",
+   "year": "2026"
+  },
+  {
+   "title": "ACM TechBrief: Buy versus Build an LLM",
+   "authors": "J Lu, Z Xu, W Tjhi, J Li, A Bosselut, P Wei Koh, M Kankanhalli",
+   "venue": "ACM",
+   "year": "2026"
+  },
+  {
+   "title": "Buy versus Build an LLM: A Decision Framework for Governments",
+   "authors": "J Lu, Z Xu, W Tjhi, J Li, A Bosselut, PW Koh, M Kankanhalli",
+   "venue": "ACM Technology Policy Council",
+   "year": "2026"
+  },
+  {
+   "title": "Measuring what Matters: Construct Validity in Large Language Model Benchmarks",
+   "authors": "AM Bean, RO Kearns, A Romanou, FS Hafner, H Mayne, J Batzner, ...",
+   "venue": "NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Reliable Evaluation and Benchmarks for Statement Autoformalization",
+   "authors": "A Poiroux, G Weiss, V Kunčak, A Bosselut",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs",
+   "authors": "D Fan, V Sabolčec, M Ansaripour, AK Tarun, M Jaggi, A Bosselut, I Schlag",
+   "venue": "COLM 2025",
+   "year": "2025"
+  },
+  {
+   "title": "DEMOCRATIZING OPEN AND COMPLIANT LLMS FOR GLOBAL LANGUAGE ENVIRONMENTS",
+   "authors": "A Hernández-Cano",
+   "venue": "arXiv preprint arXiv:2509.14233",
+   "year": "2025"
+  },
+  {
+   "title": "Snegha A",
+   "authors": "A Romanou, N Foroutan, A Sotnikova, SH Nelaturu, S Singh, ...",
+   "venue": "Alfonso Amayuelas, Azril Hafizi Amirudin, Viraat Aryabumi, Danylo Boiko …",
+   "year": "2025"
+  },
+  {
+   "title": "Instruction-tuning Aligns LLMs to the Human Brain",
+   "authors": "KL Aw, S Montariol, B AlKhamissi, M Schrimpf*, A Bosselut*",
+   "venue": "COLM 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Improving autoformalization using type checking",
+   "authors": "A Poiroux, G Weiss, V Kunčak, A Bosselut",
+   "venue": "arXiv e-prints, arXiv: 2406.07222",
+   "year": "2024"
+  },
+  {
+   "title": "Could ChatGPT be an Engineer? Evaluating Higher Education Vulnerability to AI Assistants",
+   "authors": "B Borges, N Foroutan, D Bayazit, S Montariol, M Banaei, A Sakhaeirad, ...",
+   "venue": "AI for Education: Bridging Innovation and Responsibility at the 38th AAAI …",
+   "year": "2024"
+  },
+  {
+   "title": "epfLLM Megatron-LLM",
+   "authors": "A Hernández Cano, M Pagliardini, A Köpf, KM Matoba, A Mohtashami, ...",
+   "venue": "École Polytechnique Fédérale de Lausanne",
+   "year": "2023"
+  },
+  {
+   "title": "epfllm megatron-LLM",
+   "authors": "AH Cano, M Pagliardini, A Köpf, K Matoba, A Mohtashami, OS Fan, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on Natural Language Generation, Evaluation, and Metrics (GEM)",
+   "authors": "A Bosselut, K Chandu, K Dhole, V Gangal, S Gehrmann, Y Jernite, ...",
+   "venue": "Proceedings of the Second Workshop on Natural Language Generation …",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Commonsense Representation and Reasoning (CSRR 2022)",
+   "authors": "A Bosselut, X Li, BY Lin, V Shwartz, BP Majumder, YK Lal, R Rudinger, ...",
+   "venue": "Proceedings of the First Workshop on Commonsense Representation and …",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Natural Language Generation, Evaluation, and Metrics (GEM)",
+   "authors": "A Bosselut, E Durmus, VP Gangal, S Gehrmann, Y Jernite, ...",
+   "venue": "Proceedings of the First Workshop on Natural Language Generation, Evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "Jure Leskovec, and Jure Leskovec",
+   "authors": "M Yasunaga, M Yasunaga, H Ren, H Ren, H Ren, A Bosselut, A Bosselut, ...",
+   "venue": "QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question …",
+   "year": "2021"
+  },
+  {
+   "title": "HWANG JD 1, BHAGAVATULA CH. 1, LE BRAS R. 1, DA J. 1",
+   "authors": "K SAKAGUCHI, A BOSSELUT, YE CHOI",
+   "venue": "PROCEEDINGS OF THE AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE Учредители …",
+   "year": "2021"
+  },
+  {
+   "title": "Analyzing commonsense emergence in few-shot knowledge models",
+   "authors": "J Da, RL Bras, X Lu, Y Choi, A Bosselut",
+   "venue": "AKBC 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the Workshop on Methods for Optimizing and Evaluating Neural Language Generation",
+   "authors": "A Bosselut, A Celikyilmaz, M Ghazvininejad, S Iyer, U Khandelwal, ...",
+   "venue": "Proceedings of the Workshop on Methods for Optimizing and Evaluating Neural …",
+   "year": "2019"
+  },
+  {
+   "title": "Learning to Write by Learning the Objective",
+   "authors": "A Holtzman, J Buys, M Forbes, A Bosselut, Y Choi",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Introductory Tutorial: Commonsense Reasoning for Natural Language Processing",
+   "authors": "M Sap, V Shwartz, A Bosselut, Y Choi, D Roth",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Instruction-tuning aligns LLMs to the human brain (2024)",
+   "authors": "KL Aw, S Montariol, B AlKhamissi, M Schrimpf, A Bosselut",
+   "venue": "URL https://arxiv. org/abs/2312.00575",
+   "year": null
+  },
+  {
+   "title": "LeanInteract: A Python Interface for Lean 4. 2025. url: https://github. com/augustepoiroux",
+   "authors": "A Poiroux, V Kuncak, A Bosselut",
+   "venue": "LeanInteract (visited on 05/04/2026)",
+   "year": null
+  },
+  {
+   "title": "Robert 460 West, and Boi Faltings",
+   "authors": "D Paul, M Ismayilzada, M Peyrard, B Borges, A Bosselut",
+   "venue": "Refiner: Reasoning feedback on intermediate representations. arXiv 461",
+   "year": null
+  },
+  {
+   "title": "ACM TechBriefs",
+   "authors": "J Lu, Z Xu, W Tjhi, J Li, A Bosselut, PW Koh, M Kankanhalli",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "INCLUDE: EVALUATING MULTILINGUAL LANGUAGE UNDERSTANDING",
+   "authors": "M CONTRIBUTORS",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "RIV-CoT: Retrieval-Based Interleaved Visual Chain-of-Thought for Multimodal Reasoning",
+   "authors": "C Corbière, S Roburin, S Montariol, A Bosselut, A Alahi",
+   "venue": "NeurIPS 2025 Workshop on Space in Vision, Language, and Embodied AI",
+   "year": null
+  },
+  {
+   "title": "Supplementary Materials for “GeoExplorer: Active Geo-localization with Curiosity-Driven Exploration”",
+   "authors": "L Mi, M Béchaz, Z Chen, A Bosselut, D Tuia",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning to write by learning the objective, 2018a",
+   "authors": "A Holtzman, J Buys, M Forbes, A Bosselut, Y Choi",
+   "venue": "URL https://openreview. net/forum",
+   "year": null
+  },
+  {
+   "title": "RLMEval: Evaluating Autoformalization on Research-Level Mathematics",
+   "authors": "A Poiroux, A Bosselut, V Kunčak",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning to Write with Cooperative Discriminators: Supplementary Material",
+   "authors": "A Holtzman, J Buys, M Forbes, A Bosselut, D Golub, Y Choi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Efficient Tool Use with Chain-of-Abstraction Reasoning",
+   "authors": "QA Wiki",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Manning Christopher D., and Leskovec Jure. 2022",
+   "authors": "Z Xikun, B Antoine, Y Michihiro, R Hongyu",
+   "venue": "GreaseLM: Graph REASoning enhanced language models. In 10th International …",
+   "year": null
+  },
+  {
+   "title": "A Simple Untrained Recurrent Attention Architecture Aligns to the Human Language Network",
+   "authors": "B AlKhamissi",
+   "venue": "Swiss Federal Institute of Technology), Lausanne, 1015 Switzerland",
+   "year": null
+  },
+  {
+   "title": "Transformer Commonsense Models for Knowledge Graph Construction",
+   "authors": "A Bosselut, H Rashkin, M Sap, C Malaviya, A Celikyilmaz, Y Choi",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "user": "IbhAfU4AAAAJ",
+ "pubs": [
+  {
+   "title": "Recursive deep models for semantic compositionality over a sentiment treebank",
+   "authors": "R Socher, A Perelygin, J Wu, J Chuang, CD Manning, AY Ng, C Potts",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Recursive deep models for semantic compositionality over a sentiment treebank",
+   "authors": "JYWJC Christopher, DMAYN Richard, AP Socher, C Potts",
+   "venue": "In Proceedings of the conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Detecting audiovideo asynchrony",
+   "authors": "A Perelygin, MR Jones",
+   "venue": "Machine Learning, Stanford, http://cs229. stanford. edu/projects2011. html",
+   "year": "2011"
+  },
+  {
+   "title": "Semantic Compositionality and Deep Learning for Sentiment Analysis",
+   "authors": "A Perelygin",
+   "venue": "",
+   "year": "2012"
+  }
+ ]
+}

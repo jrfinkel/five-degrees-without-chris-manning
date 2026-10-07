@@ -1,0 +1,137 @@
+{
+ "user": "eOtrcOkAAAAJ",
+ "pubs": [
+  {
+   "title": "A large annotated corpus for learning natural language inference",
+   "authors": "SR Bowman, G Angeli, C Potts, CD Manning",
+   "venue": "Proceedings of the 2015 conference on empirical methods in natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "Position-aware attention and supervised data improve slot filling",
+   "authors": "Y Zhang, V Zhong, D Chen, G Angeli, CD Manning",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "Leveraging linguistic structure for open domain information extraction",
+   "authors": "G Angeli, MJJ Premkumar, CD Manning",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "A simple domain-independent probabilistic approach to generation",
+   "authors": "G Angeli, P Liang, D Klein",
+   "venue": "Proceedings of the 2010 Conference on Empirical Methods in Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Combining distant and partial supervision for relation extraction",
+   "authors": "G Angeli, J Tibshirani, J Wu, CD Manning",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Naturalli: Natural logic inference for common sense reasoning",
+   "authors": "G Angeli, CD Manning",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Evaluating word embeddings using a representative suite of practical tasks",
+   "authors": "NN Kennard, G Angeli, CD Manning",
+   "venue": "Proceedings of the 1st workshop on evaluating vector-space representations …",
+   "year": "2016"
+  },
+  {
+   "title": "Parsing Time: Learning to Interpret Time Expressions",
+   "authors": "G Angeli, CD Manning, D Jurafsky",
+   "venue": "NAACL",
+   "year": "2012"
+  },
+  {
+   "title": "Robust subgraph generation improves abstract meaning representation parsing",
+   "authors": "K Werling, G Angeli, CD Manning",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Stanford’s distantly supervised slot filling systems for KBP 2014",
+   "authors": "G Angeli, S Gupta, MJ Premkumar, CD Manning, C Ré, J Tibshirani, ...",
+   "venue": "Text Analysis Conference (TAC) Proceedings",
+   "year": "2014"
+  },
+  {
+   "title": "Combining natural logic and shallow reasoning for question answering",
+   "authors": "G Angeli, NN Kennard, CD Manning",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Bootstrapped Self Training for Knowledge Base Population.",
+   "authors": "G Angeli, V Zhong, D Chen, AT Chaganty, J Bolton, MJJ Premkumar, ...",
+   "venue": "TAC",
+   "year": "2015"
+  },
+  {
+   "title": "Philosophers are mortal: Inferring the truth of unseen facts",
+   "authors": "G Angeli, CD Manning",
+   "venue": "Proceedings of the seventeenth conference on computational natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Language-independent discriminative parsing of temporal expressions",
+   "authors": "G Angeli, J Uszkoreit",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "A dictionary of nonsubsective adjectives",
+   "authors": "N Nayak, M Kowarsky, G Angeli, CD Manning",
+   "venue": "Technical Report CSTR 2014-04, Department of Computer Science, Stanford …",
+   "year": "2014"
+  },
+  {
+   "title": "The snli corpus",
+   "authors": "SR Bowman, G Angeli, C Potts, CD Manning",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Stanford's 2013 KBP System.",
+   "authors": "G Angeli, AT Chaganty, AX Chang, K Reschke, J Tibshirani, J Wu, ...",
+   "venue": "TAC",
+   "year": "2013"
+  },
+  {
+   "title": "Mimic and rephrase: Reflective listening in open-ended dialogue",
+   "authors": "J Dieter, T Wang, AT Chaganty, G Angeli, A Chang",
+   "venue": "Proceedings of the 23rd Conference on Computational Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Learning open domain knowledge from text",
+   "authors": "GG Angeli",
+   "venue": "Stanford University",
+   "year": "2016"
+  },
+  {
+   "title": "Adaptive Composite Map Projections in D3",
+   "authors": "S Sakshuwong, G Angeli",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Creation and Control of an Internet Controlled Mars Rover Model",
+   "authors": "G Angeli, C Walker",
+   "venue": "American Astronomical Society Meeting Abstracts 211, 94.07",
+   "year": "2007"
+  },
+  {
+   "title": "Multilingual Temporal Parsing",
+   "authors": "G Angeli, J Uszkoreit",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,413 @@
+{
+ "user": "X-Agfu8AAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "Technical Report",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "TMLR (Featured)",
+   "year": "2022"
+  },
+  {
+   "title": "Stanza: A Python natural language processing toolkit for many human languages",
+   "authors": "P Qi, Y Zhang, Y Zhang, J Bolton, CD Manning",
+   "venue": "ACL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Mind the gap: Understanding the modality gap in multi-modal contrastive representation learning",
+   "authors": "VW Liang*, Y Zhang*, Y Kwon*, S Yeung, JY Zou",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Humanity's last exam",
+   "authors": "L Phan, A Gatti, Z Han, N Li, J Hu, H Zhang, CBC Zhang, M Shaaban, ...",
+   "venue": "Nature",
+   "year": "2025"
+  },
+  {
+   "title": "Can large language models provide useful feedback on research papers? A large-scale empirical analysis",
+   "authors": "W Liang*, Y Zhang*, H Cao*, B Wang, D Ding, X Yang, K Vodrahalli, S He, ...",
+   "venue": "NEJM AI",
+   "year": "2023"
+  },
+  {
+   "title": "Videoagent: Long-form video understanding with large language model as agent",
+   "authors": "X Wang*, Y Zhang*, O Zohar, S Yeung-Levy",
+   "venue": "ECCV 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Inverse Scaling: When Bigger Isn't Better",
+   "authors": "IR McKenzie, A Lyzhov, M Pieler, A Parrish, A Mueller, A Prabhu, ...",
+   "venue": "TMLR (Featured)",
+   "year": "2023"
+  },
+  {
+   "title": "Biomedical and clinical English model packages for the Stanza Python NLP library",
+   "authors": "Y Zhang, Y Zhang, P Qi, CD Manning, CP Langlotz",
+   "venue": "JAMIA 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Language models as recommender systems: Evaluations and limitations",
+   "authors": "Y Zhang, H Ding, Z Shui, Y Ma, J Zou, A Deoras, H Wang",
+   "venue": "NeurIPS 2021 ICBINB Workshop",
+   "year": "2021"
+  },
+  {
+   "title": "Why are Visually-Grounded Language Models Bad at Image Classification?",
+   "authors": "Y Zhang, A Unell, X Wang, D Ghosh, Y Su, L Schmidt, S Yeung-Levy",
+   "venue": "NeurIPS 2024",
+   "year": "2024"
+  },
+  {
+   "title": "MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks",
+   "authors": "A Nie, Y Zhang, A Amdekar, C Piech, TH Hashimoto, T Gerstenberg",
+   "venue": "NeurIPS 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Diagnosing and rectifying vision models using language",
+   "authors": "Y Zhang, JZ HaoChen, SC Huang, KC Wang, J Zou, S Yeung",
+   "venue": "ICLR 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Describing Differences in Image Sets with Natural Language",
+   "authors": "L Dunlap*, Y Zhang*, X Wang, R Zhong, T Darrell, J Steinhardt, ...",
+   "venue": "CVPR 2024 (Oral)",
+   "year": "2023"
+  },
+  {
+   "title": "Jiuge: A human-machine collaborative chinese classical poetry generation system",
+   "authors": "G Zhipeng, X Yi, M Sun, W Li, C Yang, J Liang, H Chen, Y Zhang, R Li",
+   "venue": "ACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature",
+   "authors": "A Lozano, MW Sun, J Burgess, L Chen, JJ Nirschl, J Gu, I Lopez, J Aklilu, ...",
+   "venue": "CVPR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research",
+   "authors": "J Burgess, JJ Nirschl, L Bravo-Sánchez, A Lozano, SR Gupte, ...",
+   "venue": "CVPR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "VetTag: improving automated veterinary diagnosis coding via large-scale language modeling",
+   "authors": "Y Zhang*, A Nie*, A Zehnder, RL Page, J Zou",
+   "venue": "Nature (npj) Digital Medicine",
+   "year": "2019"
+  },
+  {
+   "title": "Connect, Collapse, Corrupt: Learning Cross-Modal Tasks with Uni-Modal Data",
+   "authors": "Y Zhang*, E Sui*, S Yeung-Levy",
+   "venue": "ICLR 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Micro-Bench: A Microscopy Benchmark for Vision-Language Understanding",
+   "authors": "A Lozano, J Nirschl, J Burgess, SR Gupte, Y Zhang, A Unell, S Yeung",
+   "venue": "NeurIPS 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Equibench: Benchmarking code reasoning capabilities of large language models via equivalence checking",
+   "authors": "A Wei, J Cao, R Li, H Chen, Y Zhang, Z Wang, Y Sun, Y Liu, ...",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Machine Learning-guided Lipid Nanoparticle Design for mRNA Delivery",
+   "authors": "DY Ding, Y Zhang, Y Jia, J Sun",
+   "venue": "ICML 2023 CompBio Workshop",
+   "year": "2023"
+  },
+  {
+   "title": "DeepTag: inferring diagnoses from veterinary clinical notes",
+   "authors": "A Nie, A Zehnder, RL Page, Y Zhang, AL Pineda, MA Rivas, ...",
+   "venue": "Nature (npj) Digital Medicine",
+   "year": "2018"
+  },
+  {
+   "title": "Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation",
+   "authors": "Y Zhang*, Y Su*, Y Liu, X Wang, J Burgess, E Sui, C Wang, J Aklilu, ...",
+   "venue": "CVPR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "THUOCL: Tsinghua open Chinese lexicon",
+   "authors": "S Han, Y Zhang, Y Ma, C Tu, Z Guo, Z Liu, M Sun",
+   "venue": "Technical Report",
+   "year": "2016"
+  },
+  {
+   "title": "Temporal preference optimization for long-form video understanding",
+   "authors": "R Li, X Wang, Y Zhang, O Zohar, Z Wang, S Yeung-Levy",
+   "venue": "arXiv preprint arXiv:2501.13919",
+   "year": "2025"
+  },
+  {
+   "title": "CellFlux: Simulating Cellular Morphology Changes via Flow Matching",
+   "authors": "Y Zhang*, Y Su*, C Wang, T Li, Z Wefers, J Nirschl, J Burgess, D Ding, ...",
+   "venue": "ICML 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models",
+   "authors": "Y Zhang, M Yasunaga, Z Zhou, JZ HaoChen, J Zou, P Liang, S Yeung",
+   "venue": "ACL 2023 (Findings)",
+   "year": "2023"
+  },
+  {
+   "title": "Adapting Pre-trained Vision Transformers from 2D to 3D through Weight Inflation Improves Medical Image Segmentation",
+   "authors": "Y Zhang, SC Huang, Z Zhou, MP Lungren, S Yeung",
+   "venue": "PMLR",
+   "year": "2022"
+  },
+  {
+   "title": "Data or Language Supervision: What Makes CLIP Better than DINO?",
+   "authors": "Y Liu*, Y Zhang*, D Ghosh, L Schmidt, S Yeung-Levy",
+   "venue": "EMNLP 2025 (Findings)",
+   "year": "2025"
+  },
+  {
+   "title": "Video Action Differencing",
+   "authors": "J Burgess, X Wang, Y Zhang, A Rau, A Lozano, L Dunlap, T Darrell, ...",
+   "venue": "ICLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "NegVQA: Can Vision Language Models Understand Negation?",
+   "authors": "Y Zhang, Y Su, Y Liu, S Yeung-Levy",
+   "venue": "ACL 2025 (Findings)",
+   "year": "2025"
+  },
+  {
+   "title": "Can Large Language Models Match the Conclusions of Systematic Reviews?",
+   "authors": "C Polzak, A Lozano, MW Sun, J Burgess, Y Zhang, K Wu, S Yeung-Levy",
+   "venue": "ICLR 2026",
+   "year": "2025"
+  },
+  {
+   "title": "Modality gap-driven subspace alignment training paradigm for multimodal large language models",
+   "authors": "X Yu, Y Xin, Y Zhang, W Zhang, C Liu, H Zhao, C Liu, X Hu, Z Qiao, ...",
+   "venue": "arXiv preprint arXiv:2602.07026",
+   "year": "2026"
+  },
+  {
+   "title": "Mechanistic Interpretability Meets Vision Language Models: Insights and Limitations",
+   "authors": "Y Liu*, Y Zhang*, S Yeung-Levy",
+   "venue": "ICLR 2025 (Blog)",
+   "year": "2025"
+  },
+  {
+   "title": "Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions",
+   "authors": "X Sun, M Li, MW Sun, M Endo, S Wu, C Li, Y Zhang, Z Wang, ...",
+   "venue": "CVPR 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Evaluating the factual correctness for abstractive summarization",
+   "authors": "Y Zhang",
+   "venue": "CS230 Project",
+   "year": "2019"
+  },
+  {
+   "title": "MuSLR: Multimodal Symbolic Logical Reasoning",
+   "authors": "J Xu, H Fei, Y Zhang, L Pan, Q Huang, Q Liu, P Nakov, MY Kan, WY Wang, ...",
+   "venue": "NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Closing the Modality Gap for Mixed Modality Search",
+   "authors": "B Li*, Y Zhang*, X Wang, W Liang, L Schmidt, S Yeung-Levy",
+   "venue": "TMLR",
+   "year": "2025"
+  },
+  {
+   "title": "Tool verification for test-time reinforcement learning",
+   "authors": "R Liao, N Röhrich, X Wang, Y Zhang, Y Samadzadeh, V Tresp, ...",
+   "venue": "NeurIPS 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Enhancing transformer with sememe knowledge",
+   "authors": "Y Zhang, C Yang, Z Zhou, Z Liu",
+   "venue": "ACL 2020 RepL4NLP Workshop",
+   "year": "2020"
+  },
+  {
+   "title": "PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR",
+   "authors": "J Burgess, JN Hansen, D Peng, Y Zhang, A Lozano, MW Sun, E Lundberg, ...",
+   "venue": "EACL 2026",
+   "year": "2026"
+  },
+  {
+   "title": "A close examination of factual correctness evaluation in abstractive summarization",
+   "authors": "Y Zhang, Y Zhang, CD Manning",
+   "venue": "CS224N Project",
+   "year": "2020"
+  },
+  {
+   "title": "V-GRPO: Online Reinforcement Learning for Denoising Generative Models Is Easier than You Think",
+   "authors": "B Tang*, Y Zhang*, X Wang, J Mao, L Schmidt, S Yeung-Levy",
+   "venue": "CVPR 2026 (Findings)",
+   "year": "2026"
+  },
+  {
+   "title": "Pre-trained Language Models Do Not Help Auto-regressive Text-to-Image Generation",
+   "authors": "Y Zhang, B McKinzie, Z Gan, V Shankar, A Toshev",
+   "venue": "EMNLP 2024 (Oral)",
+   "year": "2023"
+  },
+  {
+   "title": "Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents",
+   "authors": "X Sun, X Wang, L Schmidt, S Yeung-Levy, Y Zhang",
+   "venue": "ECCV 2026",
+   "year": "2026"
+  },
+  {
+   "title": "A large-scale vision-language dataset derived from open scientific literature to advance biomedical generalist ai",
+   "authors": "A Lozano, MW Sun, J Burgess, JJ Nirschl, C Polzak, Y Zhang, L Chen, ...",
+   "venue": "arXiv preprint arXiv:2503.22727",
+   "year": "2025"
+  },
+  {
+   "title": "CellFluxV2 : An Image Generative Foundation Model for Virtual Cell Modeling",
+   "authors": "Y Zhang, Y Su, Z Wefers, S Su, H Li, T Li, C Wang, J Burgess, A Lozano, ...",
+   "venue": "bioRxiv, 2026.01. 19.696785",
+   "year": "2026"
+  },
+  {
+   "title": "Inducing grammar from long short-term memory networks by shapley decomposition",
+   "authors": "Y Zhang, A Nie",
+   "venue": "ACL 2020 SR Workshop",
+   "year": "2020"
+  },
+  {
+   "title": "Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning",
+   "authors": "S Wu, X Wang, Y Zhang, H Zhu, S Yeung-Levy",
+   "venue": "ICLR 2026",
+   "year": "2025"
+  },
+  {
+   "title": "DataComp-VLM: Improved Open Datasets for Vision-Language Models",
+   "authors": "M Farina, V Udandarao, T Nguyen, S Kuzucu, M Böther, A Hochlehnert, ...",
+   "venue": "NeurIPS 2026",
+   "year": "2026"
+  },
+  {
+   "title": "MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models",
+   "authors": "R D'Cunha, A Lozano, X Sun, DV Jarquin, MW Sun, J Aklilu, J Burgess, ...",
+   "venue": "ECCV 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Anisotropic modality align",
+   "authors": "X Yu, Y Li, Y Zhang, H Zhao, Y Yang, H Tang, Y Song, X Hu, C Qin, S Yan, ...",
+   "venue": "arXiv preprint arXiv:2605.07825",
+   "year": "2026"
+  },
+  {
+   "title": "Understanding the fine-grained knowledge capabilities of vision-language models",
+   "authors": "D Ghosh, Y Zhang, L Schmidt",
+   "venue": "arXiv preprint arXiv:2602.17871",
+   "year": "2026"
+  },
+  {
+   "title": "No tokens wasted: Leveraging long context in biomedical vision-language models",
+   "authors": "MW Sun, A Lozano, JG Tejero, V Nath, XX Sun, J Burgess, Y Zhang, ...",
+   "venue": "ML4H 2025",
+   "year": "2025"
+  },
+  {
+   "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+   "authors": "S Wu, H Zhu, Y Zhang, X Wang, S Yeung-Levy",
+   "venue": "NeurIPS 2026",
+   "year": "2026"
+  },
+  {
+   "title": "PerturbCellRL: Verifier-Guided Reinforcement Learning for Single-Cell Perturbation Prediction",
+   "authors": "D Wu, M Li, Y Zhang, A Kumar, E Lundberg, S Yeung-Levy, EB Fox",
+   "venue": "arXiv preprint arXiv:2606.27752",
+   "year": "2026"
+  },
+  {
+   "title": "CellFluxRL: Biologically-Constrained Virtual Cell Modeling via Reinforcement Learning",
+   "authors": "D Wu*, S Su*, Y Zhang*, E Sui, E Lundberg, EB Fox, S Yeung-Levy",
+   "venue": "ECCV 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging",
+   "authors": "D Wu, Y Zhang, S Yeung-Levy, E Lundberg, EB Fox",
+   "venue": "arXiv e-prints, arXiv: 2603.21717",
+   "year": "2026"
+  },
+  {
+   "title": "RadDiff: Describing Differences in Radiology Image Sets with Natural Language",
+   "authors": "X Shen, Y Zhang, S Ankireddy, X Wang, M Varma, H Guo, C Langlotz, ...",
+   "venue": "arXiv preprint arXiv:2601.03733",
+   "year": "2026"
+  },
+  {
+   "title": "Stochastic Perturbations Improve Distribution-to-Distribution Generative Models",
+   "authors": "S Su, Y Zhang, L Zhou, R Ranganath, S Yeung-Levy",
+   "venue": "CVPR 2026 (Findings)",
+   "year": "2026"
+  },
+  {
+   "title": "Fine-tuning VLMs Without Forgetting Is Easier Than You Think",
+   "authors": "H Li, Y Zhang, X Wang, K Lyu, S Yeung-Levy",
+   "venue": "NeurIPS 2025 ResponsibleFM Workshop",
+   "year": null
+  },
+  {
+   "title": "ScreenHaystack: Finding Blind Zones in GUI Grounding",
+   "authors": "C Li, X Sun, Y Deng, Q Zhao, S Yeung-Levy, Y Zhang",
+   "venue": "EMNLP 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Human-AI Collaboration in Science at Scale: A Global Large-scale Randomized Field Experiment",
+   "authors": "B Wang, W Liang, J Xue, Y Zhang, H Cao, D Wang, Y Yin",
+   "venue": "AIM 2026 (Best PhD Paper Award)",
+   "year": "2026"
+  },
+  {
+   "title": "Gelato — From Data Curation to Reinforcement Learning: Building a Strong Grounding Model for Computer-Use Agents",
+   "authors": "A Awadalla, D Ghosh, A Akkus, Y Zhang, M Nezhurina, J Jitsev, Y Choi, ...",
+   "venue": "Technical Report",
+   "year": "2025"
+  },
+  {
+   "title": "Multimodal Foundation Models: From Scientific Understanding to Scientific Discovery",
+   "authors": "Y Zhang",
+   "venue": "Stanford University",
+   "year": "2025"
+  },
+  {
+   "title": "Recent Advances, Applications and Open Challenges in Machine Learning for Health: Reflections from Research Roundtables at ML4H 2022 Symposium",
+   "authors": "S Hegselmann, H Zhou, Y Zhou, J Chien, S Nagaraj, N Hulkund, S Bhave, ...",
+   "venue": "Technical Report",
+   "year": "2023"
+  },
+  {
+   "title": "Large-scale Generative Modeling to Improve Automated Veterinary Disease Coding",
+   "authors": "Y Zhang, A Nie, J Zou",
+   "venue": "ML4H 2018",
+   "year": "2018"
+  }
+ ]
+}

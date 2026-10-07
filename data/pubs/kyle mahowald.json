@@ -1,0 +1,713 @@
+{
+ "user": "XUmFLVUAAAAJ",
+ "pubs": [
+  {
+   "title": "Dissociating language and thought in large language models",
+   "authors": "K Mahowald, AA Ivanova, IA Blank, N Kanwisher, JB Tenenbaum, ...",
+   "venue": "Trends in Cognitive Sciences",
+   "year": "2024"
+  },
+  {
+   "title": "How efficiency shapes human language",
+   "authors": "E Gibson, R Futrell, SP Piantadosi, I Dautriche, K Mahowald, L Bergen, ...",
+   "venue": "Trends in cognitive sciences 23 (5), 389-407",
+   "year": "2019"
+  },
+  {
+   "title": "Large-scale evidence of dependency length minimization in 37 languages",
+   "authors": "R Futrell, K Mahowald, E Gibson",
+   "venue": "Proceedings of the National Academy of Sciences 112 (33), 10336-10341",
+   "year": "2015"
+  },
+  {
+   "title": "A meta-analysis of syntactic priming in language production",
+   "authors": "K Mahowald, A James, R Futrell, E Gibson",
+   "venue": "Journal of Memory and Language 91, 5-27",
+   "year": "2016"
+  },
+  {
+   "title": "To cot or not to cot? chain-of-thought helps mainly on math and symbolic reasoning",
+   "authors": "Z Sprague, F Yin, JD Rodriguez, D Jiang, M Wadhwa, P Singhal, X Zhao, ...",
+   "venue": "ICLR 2025",
+   "year": "2024"
+  },
+  {
+   "title": "Color naming across languages reflects color use",
+   "authors": "E Gibson, R Futrell, J Jara-Ettinger, K Mahowald, L Bergen, ...",
+   "venue": "Proceedings of the National Academy of Sciences 114 (40), 10785-10790",
+   "year": "2017"
+  },
+  {
+   "title": "Info/information theory: Speakers choose shorter words in predictive contexts",
+   "authors": "K Mahowald, E Fedorenko, ST Piantadosi, E Gibson",
+   "venue": "Cognition 126 (2), 313-318",
+   "year": "2013"
+  },
+  {
+   "title": "Syntactic processing is distributed across the language system",
+   "authors": "I Blank, Z Balewski, K Mahowald, E Fedorenko",
+   "venue": "Neuroimage 127, 307-323",
+   "year": "2016"
+  },
+  {
+   "title": "With little power comes great responsibility",
+   "authors": "D Card, P Henderson, U Khandelwal, R Jia, K Mahowald, D Jurafsky",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Reliable individual-level neural markers of high-level language processing: A necessary precursor for relating neural variability to behavioral and genetic variability",
+   "authors": "K Mahowald, E Fedorenko",
+   "venue": "NeuroImage 139, 74-93",
+   "year": "2016"
+  },
+  {
+   "title": "Mission: Impossible language models",
+   "authors": "J Kallini, I Papadimitriou, R Futrell, K Mahowald, C Potts",
+   "venue": "ACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Don’t underestimate the benefits of being misunderstood",
+   "authors": "E Gibson, C Tan, R Futrell, K Mahowald, L Konieczny, B Hemforth, ...",
+   "venue": "Psychological science 28 (6), 703-712",
+   "year": "2017"
+  },
+  {
+   "title": "A robust dissociation among the language, multiple demand, and default mode networks: Evidence from inter-region correlations in effect size",
+   "authors": "Z Mineroff, IA Blank, K Mahowald, E Fedorenko",
+   "venue": "Neuropsychologia 119, 501-511",
+   "year": "2018"
+  },
+  {
+   "title": "Quantifying word order freedom in dependency corpora",
+   "authors": "R Futrell, K Mahowald, E Gibson",
+   "venue": "Proceedings of the third international conference on dependency linguistics …",
+   "year": "2015"
+  },
+  {
+   "title": "Wordform similarity increases with semantic similarity: An analysis of 100 languages",
+   "authors": "I Dautriche, K Mahowald, E Gibson, ST Piantadosi",
+   "venue": "Cognitive science 41 (8), 2149-2169",
+   "year": "2017"
+  },
+  {
+   "title": "Language models align with human judgments on key grammatical constructions",
+   "authors": "J Hu, K Mahowald, G Lupyan, A Ivanova, R Levy",
+   "venue": "Proceedings of the National Academy of Sciences 121 (36), e2400917121",
+   "year": "2024"
+  },
+  {
+   "title": "How linguistics learned to stop worrying and love the language models",
+   "authors": "R Futrell, K Mahowald",
+   "venue": "BBS",
+   "year": "2025"
+  },
+  {
+   "title": "SNAP judgments: A small N acceptability paradigm (SNAP) for linguistic acceptability judgments",
+   "authors": "K Mahowald, P Graff, J Hartman, E Gibson",
+   "venue": "Language 92 (3), 619-635",
+   "year": "2016"
+  },
+  {
+   "title": "Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs",
+   "authors": "K Misra, K Mahowald",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Words cluster phonetically beyond phonotactic regularities",
+   "authors": "I Dautriche, K Mahowald, E Gibson, A Christophe, ST Piantadosi",
+   "venue": "Cognition 163, 128-145",
+   "year": "2017"
+  },
+  {
+   "title": "Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality",
+   "authors": "A Diwan, L Berry, E Choi, D Harwath, K Mahowald",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Accommodating presuppositions is inappropriate in implausible contexts",
+   "authors": "R Singh, E Fedorenko, K Mahowald, E Gibson",
+   "venue": "Cognitive Science 40 (3), 607-634",
+   "year": "2016"
+  },
+  {
+   "title": "Word forms are structured for efficient use",
+   "authors": "K Mahowald, I Dautriche, E Gibson, ST Piantadosi",
+   "venue": "Cognitive science 42 (8), 3116-3134",
+   "year": "2018"
+  },
+  {
+   "title": "Are language models more like libraries or like librarians? Bibliotechnism, the novel reference problem, and the attitudes of LLMs",
+   "authors": "H Lederman, K Mahowald",
+   "venue": "Transactions of the Association for Computational Linguistics 12, 1087-1103",
+   "year": "2024"
+  },
+  {
+   "title": "Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT",
+   "authors": "I Papadimitriou, EA Chi, R Futrell, K Mahowald",
+   "venue": "EACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "A syntax–lexicon trade-off in language production",
+   "authors": "N Rezaii, K Mahowald, R Ryskin, B Dickerson, E Gibson",
+   "venue": "Proceedings of the National Academy of Sciences 119 (25), e2120203119",
+   "year": "2022"
+  },
+  {
+   "title": "When classifying grammatical role, BERT doesn't care about word order... except when it matters",
+   "authors": "I Papadimitriou, R Futrell, K Mahowald",
+   "venue": "ACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "What do tokens know about their characters and how do they know it?",
+   "authors": "A Kaushal, K Mahowald",
+   "venue": "NAACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Grammatical cues to subjecthood are redundant in a majority of simple clauses across languages",
+   "authors": "K Mahowald, E Diachek, E Gibson, E Fedorenko, R Futrell",
+   "venue": "Cognition 241, 105543",
+   "year": "2023"
+  },
+  {
+   "title": "A discerning several thousand judgments: GPT-3 rates the article+ adjective+ numeral+ noun construction",
+   "authors": "K Mahowald",
+   "venue": "EACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Action anticipation based on an agent's epistemic state in toddlers and adults",
+   "authors": "T Schuwerk, D Kampis, R Baillargeon, S Biro, M Bohn, K Byers-Heinlein, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Language models fail to introspect about their knowledge of language",
+   "authors": "S Song, J Hu, K Mahowald",
+   "venue": "COLM 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Functional characterization of the language network of polyglots and hyperpolyglots with precision fMRI",
+   "authors": "S Malik-Moraleda, O Jouravlev, M Taliaferro, Z Mineroff, T Cucu, ...",
+   "venue": "Cerebral Cortex 34 (3), bhae049",
+   "year": "2024"
+  },
+  {
+   "title": "How (Non-) Optimal is the Lexicon?",
+   "authors": "T Pimentel, I Nikkarinen, K Mahowald, R Cotterell, D Blasi",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Decrypting Cryptic Crosswords: Semantically Complex Wordplay Puzzles as a Target for NLP",
+   "authors": "J Rozner, C Potts, K Mahowald",
+   "venue": "NeurIPS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Revisiting the optimality of word lengths",
+   "authors": "T Pimentel, C Meister, EG Wilcox, K Mahowald, R Cotterell",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions",
+   "authors": "S Boguraev, C Potts, K Mahowald",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Elaborative simplification as implicit questions under discussion",
+   "authors": "Y Wu, W Sheffield, K Mahowald, JJ Li",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "High-level language brain regions process sublexical regularities",
+   "authors": "TI Regev, HS Kim, X Chen, J Affourtit, AE Schipper, L Bergen, ...",
+   "venue": "Cerebral Cortex 34 (3), bhae077",
+   "year": "2024"
+  },
+  {
+   "title": "An information-theoretic approach to the typology of spatial demonstratives",
+   "authors": "S Chen, R Futrell, K Mahowald",
+   "venue": "Cognition 240, 105505",
+   "year": "2023"
+  },
+  {
+   "title": "Intrinsically memorable words have unique associations with their meanings",
+   "authors": "G Tuckute, K Mahowald, P Isola, E Gibson, A Oliva, E Fedorenko",
+   "venue": "PsyArXiv",
+   "year": "2022"
+  },
+  {
+   "title": "Linguistic generalizations are not rules: Impacts on evaluation of LMs",
+   "authors": "L Weissweiler, K Mahowald, A Goldberg",
+   "venue": "Proceedings of the Second International Workshop on Construction Grammars …",
+   "year": "2025"
+  },
+  {
+   "title": "A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces",
+   "authors": "G Chronis, K Mahowald, K Erk",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Uncontrolled corpus composition drives an apparent surge in cognitive distortions",
+   "authors": "B Schmidt, ST Piantadosi, K Mahowald",
+   "venue": "Proceedings of the National Academy of Sciences 118 (45), e2115010118",
+   "year": "2021"
+  },
+  {
+   "title": "A Massively Multilingual Analysis of Cross-linguality in Shared Embedding Space",
+   "authors": "A Jones, WY Wang, K Mahowald",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Both direct and indirect evidence contribute to dative alternation preferences in language models",
+   "authors": "Q Yao, K Misra, L Weissweiler, K Mahowald",
+   "venue": "COLM 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Privileged self-access matters for introspection in ai",
+   "authors": "S Song, H Lederman, J Hu, K Mahowald",
+   "venue": "arXiv preprint arXiv:2508.14802",
+   "year": "2025"
+  },
+  {
+   "title": "Concepts are restructured during language contact: The birth of blue and other color concepts in Tsimane’-Spanish bilinguals",
+   "authors": "S Malik-Moraleda, K Mahowald, BR Conway, E Gibson",
+   "venue": "Psychological Science 34 (12), 1350-1362",
+   "year": "2023"
+  },
+  {
+   "title": "What can string probability tell us about grammaticality?",
+   "authors": "J Hu, EG Wilcox, S Song, K Mahowald, RP Levy",
+   "venue": "Transactions of the Association for Computational Linguistics 14, 124-146",
+   "year": "2026"
+  },
+  {
+   "title": "Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training",
+   "authors": "J Huang, Z Wu, K Mahowald, C Potts",
+   "venue": "Findings of ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Efficient communication and the organization of the lexicon",
+   "authors": "K Mahowald, I Dautriche, M Braginsky, E Gibson",
+   "venue": "The Oxford Handbook of the Mental Lexicon",
+   "year": "2022"
+  },
+  {
+   "title": "High-level language brain regions are sensitive to sub-lexical regularities",
+   "authors": "TI Regev, J Affourtit, X Chen, AE Schipper, L Bergen, K Mahowald, ...",
+   "venue": "BioRxiv, 2021.06. 11.447786",
+   "year": "2021"
+  },
+  {
+   "title": "What counts as an exemplar model, anyway? A commentary on Ambridge (2020)",
+   "authors": "K Mahowald, G Kachergis, MC Frank",
+   "venue": "First Language 40 (5-6), 608-611",
+   "year": "2020"
+  },
+  {
+   "title": "Emergent introspection in AI is content-agnostic",
+   "authors": "H Lederman, K Mahowald",
+   "venue": "arXiv preprint arXiv:2603.05414",
+   "year": "2026"
+  },
+  {
+   "title": "Constructions are revealed in word distributions",
+   "authors": "J Rozner, L Weissweiler, K Mahowald, C Shain",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "A Naïve Bayes classifier for Shakespeare's second-person pronoun",
+   "authors": "K Mahowald",
+   "venue": "Literary and linguistic computing 27 (1), 17-23",
+   "year": "2011"
+  },
+  {
+   "title": "An LFG approach to word order freezing",
+   "authors": "K Mahowald, M Butt, TH King",
+   "venue": "Proceedings of LFG11, 381-400",
+   "year": "2011"
+  },
+  {
+   "title": "Convergence and Divergence of Language Models under Different Random Seeds",
+   "authors": "F Fehlauer, K Mahowald, T Pimentel",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "A pragmatic account of complexity in definite antecedent-contained-deletion relative clauses",
+   "authors": "E Gibson, P Jacobson, P Graff, K Mahowald, E Fedorenko, ST Piantadosi",
+   "venue": "Journal of Semantics 32 (4), 579-618",
+   "year": "2015"
+  },
+  {
+   "title": "\" It may nat be\": Chaucer, Derrida, and the Impossibility of the Gift",
+   "authors": "K Mahowald",
+   "venue": "Studies in the Age of Chaucer 32, 129-150",
+   "year": "2010"
+  },
+  {
+   "title": "LLMs and people both learn to form conventions--just not with each other",
+   "authors": "CR Jones, A Lombardi, K Mahowald, BK Bergen",
+   "venue": "arXiv preprint arXiv:2602.08208",
+   "year": "2026"
+  },
+  {
+   "title": "Experimental Contexts Can Facilitate Robust Semantic Property Inference in Language Models, but Inconsistently",
+   "authors": "K Misra, A Ettinger, K Mahowald",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks",
+   "authors": "V Kovatchev, T Chatterjee, VS Govindarajan, J Chen, E Choi, G Chronis, ...",
+   "venue": "The First Workshop on Dynamic Adversarial Data Collection",
+   "year": "2022"
+  },
+  {
+   "title": "Syntactic rule frequency as a measure of syntactic complexity: insights from primary progressive aphasia",
+   "authors": "N Rezaii, K Mahowald, R Ryskin, B Dickerson, E Gibson",
+   "venue": "34th Annual CUNY Conference on Human Sentence Processing. 34th Annual CUNY …",
+   "year": "2022"
+  },
+  {
+   "title": "Mechanisms of Prompt-Induced Hallucination in Vision–Language Models",
+   "authors": "W Rudman, M Golovanevsky, D Arad, Y Belinkov, C Eickhoff, R Singh, ...",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Cross-cultural structures of personal name systems reflect general communicative principles",
+   "authors": "M Ramscar, S Chen, R Futrell, K Mahowald",
+   "venue": "Nature Communications 17 (1), 719",
+   "year": "2026"
+  },
+  {
+   "title": "Investigating information-theoretic properties of the typology of spatial demonstratives",
+   "authors": "S Chen, R Futrell, K Mahowald",
+   "venue": "Proceedings of the 4th Workshop on Research in Computational Linguistic …",
+   "year": "2022"
+  },
+  {
+   "title": "Color language reflects usefulness of color",
+   "authors": "B Conway, J Jara-Ettinger, K Mahowald, S Piantadosi, L Bergen, R Futrell, ...",
+   "venue": "Journal of Vision 16 (12), 619-619",
+   "year": "2016"
+  },
+  {
+   "title": "You can't fight in here! This is BBS!",
+   "authors": "R Futrell, K Mahowald",
+   "venue": "arXiv preprint arXiv:2604.09501",
+   "year": "2026"
+  },
+  {
+   "title": "semantic-features: A User-Friendly Tool for Studying Contextual Word Embeddings in Interpretable Semantic Spaces",
+   "authors": "J Ranganathan, R Jha, K Misra, K Mahowald",
+   "venue": "Proceedings of SCiL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Is It JUST Semantics? A Case Study of Discourse Particle Understanding in LLMs",
+   "authors": "W Sheffield, K Misra, V Pyatkin, A Deo, K Mahowald, JJ Li",
+   "venue": "Findings of ACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "A suite of LMs comprehend puzzle statements as well as humans",
+   "authors": "AE Goldberg, S Rakshit, J Hu, K Mahowald",
+   "venue": "arXiv preprint arXiv:2505.08996",
+   "year": "2025"
+  },
+  {
+   "title": "Do* they* mean ‘us’? Interpreting Referring Expression variation under Intergroup Bias",
+   "authors": "VS Govindarajan, M Zang, K Mahowald, D Beaver, JJ Li",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 9772-9785",
+   "year": "2024"
+  },
+  {
+   "title": "Models Can and Should Embrace the Communicative Nature of Human-Generated Math",
+   "authors": "S Boguraev, B Lipkin, L Weissweiler, K Mahowald",
+   "venue": "Math-AI Workshop 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Counterfactual Probing for the influence of affect and specificity on Intergroup Bias",
+   "authors": "VS Govindarajan, K Mahowald, DI Beaver, JJ Li",
+   "venue": "Findings of the Proceedings of ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Concord begets concord: A Bayesian model of nominal concord typology",
+   "authors": "K Mahowald, D Jurafsky, M Norris",
+   "venue": "Proceedings of the Linguistic Society of America 6 (1), 541-555",
+   "year": "2021"
+  },
+  {
+   "title": "Multilingual BERT, ergativity, and grammatical subjecthood",
+   "authors": "I Papadimitriou, EA Chi, R Futrell, K Mahowald",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2021, 425-426",
+   "year": "2021"
+  },
+  {
+   "title": "Short, frequent words are more likely to appear genetically related by chance",
+   "authors": "K Mahowald, E Gibson",
+   "venue": "Proceedings of the National Academy of Sciences 110 (35), E3253-E3253",
+   "year": "2013"
+  },
+  {
+   "title": "In submission",
+   "authors": "E Gibson, K Mahowald, R Levy, ST Piantadosi",
+   "venue": "Erroneous analyses drive the reported reading time effects in Hackl, Koster …",
+   "year": "2012"
+  },
+  {
+   "title": "An LFG approach to Old English constituent order",
+   "authors": "K Mahowald",
+   "venue": "University of Oxford",
+   "year": "2011"
+  },
+  {
+   "title": "Vesta: Visual exploration with statistical tool agents",
+   "authors": "W Rudman, A Divekar, K Jain, S Joseph, SSR Offner, M Lease, ...",
+   "venue": "arXiv preprint arXiv:2606.00384",
+   "year": "2026"
+  },
+  {
+   "title": "From sunblock to softblock: Analyzing the correlates of neology in published writing and on social media",
+   "authors": "M Ryskina, MR Gormley, K Mahowald, DR Mortensen, T Berg-Kirkpatrick, ...",
+   "venue": "The Proceedings for the 6th International Workshop on Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "On Language Models' Sensitivity to Suspicious Coincidences",
+   "authors": "S Padmanabhan, K Misra, K Mahowald, E Choi",
+   "venue": "arXiv preprint arXiv:2504.09387",
+   "year": "2025"
+  },
+  {
+   "title": "Reinforcement learning produces efficient case-marking systems",
+   "authors": "S Boguraev, KE Erk, K Mahowald, JW Shearer, SM Wechsler",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 47",
+   "year": "2025"
+  },
+  {
+   "title": "Participle-Prepended Nominals Have Lower Entropy Than Nominals Appended After the Participle",
+   "authors": "K Denlinger, S Wechsler, K Mahowald",
+   "venue": "CogSci 2024",
+   "year": "2024"
+  },
+  {
+   "title": "For Generated Text, Is NLI-Neutral Text the Best Text?",
+   "authors": "M Mersinias, K Mahowald",
+   "venue": "Findings of EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Counterfactually Probing Language Identity in Multilingual Models",
+   "authors": "A Srinivasan, VS Govindarajan, K Mahowald",
+   "venue": "Proceedings of Multilingual Representation Learning (MRL) 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Structural priming is most useful when the conclusions are statistically robust",
+   "authors": "K Mahowald, J Ariel, R Futrell, E Gibson",
+   "venue": "Behavioral and Brain Sciences 40",
+   "year": "2017"
+  },
+  {
+   "title": "Causal Drawbridges: Characterizing Gradient Blocking of Syntactic Islands in Transformer LMs",
+   "authors": "S Boguraev, K Mahowald",
+   "venue": "arXiv preprint arXiv:2604.13950",
+   "year": "2026"
+  },
+  {
+   "title": "When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't",
+   "authors": "J Nemitz, C Eickhoff, JJ Li, K Mahowald, M Golovanevsky, W Rudman",
+   "venue": "arXiv preprint arXiv:2604.06422",
+   "year": "2026"
+  },
+  {
+   "title": "A Suite of LMs Comprehend Puzzle Statements as Well or Better Than Humans",
+   "authors": "S Rakshit, J Hu, K Mahowald, AE Goldberg",
+   "venue": "Open Mind 10, 431-440",
+   "year": "2026"
+  },
+  {
+   "title": "Evaluation of Psychometric Properties and Inter-test Associations for Three Popular Measures of Social Competence",
+   "authors": "O Jouravlev, K Mahowald, A Paunov, E Gibson, E Fedorenko",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "How random is the review outcome? A systematic study of the impact of external factors on eLife peer review",
+   "authors": "W Liang, K Mahowald, J Raymond, V Krishna, D Smith, D Jurafsky, ...",
+   "venue": "bioRxiv, 2023.01. 04.522708",
+   "year": "2023"
+  },
+  {
+   "title": "Lil-Bevo: Explorations of Strategies for Training Language Models in More Humanlike Ways",
+   "authors": "VS Govindarajan, JD Rodriguez, K Bostrom, K Mahowald",
+   "venue": "Proceedings of BabyLM 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Accessibility-based constraints on morphosyntax in corpora of 54 languages",
+   "authors": "K Mahowald, I Papadimitriou, D Jurafsky, R Futrell",
+   "venue": "CUNY Sentence Processing Conference",
+   "year": "2021"
+  },
+  {
+   "title": "SNAP judgments: A small N acceptability paradigm (SNAP) for linguistic acceptability judgments: Online Appendices",
+   "authors": "K Mahowald, P Graff, J Hartman, E Gibson",
+   "venue": "Language 92 (3), s1-s14",
+   "year": "2016"
+  },
+  {
+   "title": "Causal Interventions Reveal Typologically Organized Syntactic Mechanisms in Multilingual Language Models",
+   "authors": "S Boguraev, T Nakai, K Mahowald, J Steuer",
+   "venue": "arXiv preprint arXiv:2608.28924",
+   "year": "2026"
+  },
+  {
+   "title": "The Counterexample Game: Iterated Conceptual Analysis and Repair in Language Models",
+   "authors": "D Drucker, K Mahowald",
+   "venue": "arXiv preprint arXiv:2605.03936",
+   "year": "2026"
+  },
+  {
+   "title": "France or Spain or Germany or France: A Neural Account of Non-Redundant Redundant Disjunctions",
+   "authors": "S Boguraev, Q Yao, K Mahowald",
+   "venue": "arXiv preprint arXiv:2602.23547",
+   "year": "2026"
+  },
+  {
+   "title": "Are Large Language Models Also Large Thought Models?",
+   "authors": "K Mahowald",
+   "venue": "2024 AAAS Annual Meeting",
+   "year": "2024"
+  },
+  {
+   "title": "Action anticipation based on an agent's epistemic state in toddlers and adults [Registered Report](Version posted online February 13, 2024)",
+   "authors": "T Schuwerk, D Kampis, R Baillargeon, S Biro, M Bohn, K Byers-Heinlein, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Participle-Prepended Nominals Have Lower Entropy Than Nominals Appended After the",
+   "authors": "K Denlinger, SM Wechsler, K Mahowald",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 46 (0)",
+   "year": "2024"
+  },
+  {
+   "title": "Scientific Life 363 Emerging Opportunities for Advancing Cognitive Neuroscience Science & Society 365 Holding Robots Responsible",
+   "authors": "A Waytz, R Alterovitz, K Gray, P Van Dessel, B Gawronski, J De Houwer, ...",
+   "venue": "Trends in Cognitive Sciences 23 (5)",
+   "year": "2019"
+  },
+  {
+   "title": "Statistical variations in the power spectrum of daylight over a day predict communicative efficiency of color-language",
+   "authors": "S Ratnasingam, E Gibson, R Futrell, J Jara-Ettinger, K Mahowald, ...",
+   "venue": "Journal of Vision 17 (10), 1171-1171",
+   "year": "2017"
+  },
+  {
+   "title": "Don’t Underestimate the Benefits of Being Misunderstood",
+   "authors": "L Konieczny, B Hemforth, EA Gibson, CM Tan, RLJ Futrell, KA Mahowald, ...",
+   "venue": "Sage Publications",
+   "year": "2017"
+  },
+  {
+   "title": "DOI: For additional information about this article Access provided by MIT Libraries (23 Feb 2018 18: 44 GMT)",
+   "authors": "K Mahowald, P Graff, J Hartman, E Gibson",
+   "venue": "Language 92 (3), s1-s14",
+   "year": "2016"
+  },
+  {
+   "title": "DOI: For additional information about this article Access provided by MIT Libraries (23 Jan 2017 14: 43 GMT)",
+   "authors": "K Mahowald, P Graff, J Hartman, E Gibson",
+   "venue": "Language 92 (3), 619-635",
+   "year": "2016"
+  },
+  {
+   "title": "\" Accommodating presuppositions is inappropriate in implausible contexts\": Corrigendum.",
+   "authors": "R Singh, E Fedorenko, K Mahowald, E Gibson",
+   "venue": "Wiley-Blackwell Publishing Ltd.",
+   "year": "2016"
+  },
+  {
+   "title": "SNAP judgments: A small N acceptability paradigm (SNAP) for linguistic acceptability judgments: Online Appendices",
+   "authors": "P Graff, J Hartman, KA Mahowald, EA Gibson",
+   "venue": "Johns Hopkins University Press",
+   "year": "2016"
+  },
+  {
+   "title": "A meta-analysis of syntactic priming in language production",
+   "authors": "A James, KA Mahowald, RLJ Futrell, EA Gibson",
+   "venue": "Elsevier",
+   "year": "2016"
+  },
+  {
+   "title": "SNAP judgments: A small N acceptability paradigm (SNAP) for linguistic acceptability judgments",
+   "authors": "P Graff, J Hartman, E Gibson, KA Mahowald",
+   "venue": "Muse-Johns Hopkins University Press",
+   "year": "2016"
+  },
+  {
+   "title": "Cognitive and communicative pressures in natural language",
+   "authors": "K Mahowald",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2016"
+  },
+  {
+   "title": "Response to Liu, Xu, and Liang (2015) and Ferrer-i-Cancho and G\\'omez-Rodr\\'iguez (2015) on Dependency Length Minimization",
+   "authors": "R Futrell, K Mahowald, E Gibson",
+   "venue": "arXiv preprint arXiv:1510.00436",
+   "year": "2015"
+  },
+  {
+   "title": "Short, frequent words are more likely to appear genetically related by chance,(vol 110, pg E3253, 2013)",
+   "authors": "K Mahowald, E Gibson",
+   "venue": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF …",
+   "year": "2013"
+  },
+  {
+   "title": "AHSETSs ISTITUTEOF TECHNOLOGY JUL 20 2015 LIBRARIES ARCHIVES June 2016",
+   "authors": "K Mahowald",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "4.5 The (Im) possible Languages Group",
+   "authors": "C Potts, MC de Marneffe, K Demuth, R Frank, J Luis, HB Gastaldi, C Haley, ...",
+   "venue": "Linguistics and Language Models: What Can They Learn from Each Other?, 206",
+   "year": null
+  },
+  {
+   "title": "直接证据和间接证据都对语言模型中的与格交替偏好有贡献",
+   "authors": "Q Yao, K Misra, L Weissweiler, K Mahowald",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Do large language models use grammar to solve natural language tasks?",
+   "authors": "I Shah, I Papadimitriou, R Futrell, K Mahowald",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

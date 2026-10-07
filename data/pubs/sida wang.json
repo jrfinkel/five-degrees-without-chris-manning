@@ -1,0 +1,305 @@
+{
+ "user": "XUI4PMEAAAAJ",
+ "pubs": [
+  {
+   "title": "Livecodebench: Holistic and contamination free evaluation of large language models for code",
+   "authors": "N Jain, A Gu, WD Li, F Yan, T Zhang, S Wang, A Solar-Lezama, K Sen, ...",
+   "venue": "International Conference on Learning Representations 2025, 58791-58831",
+   "year": "2025"
+  },
+  {
+   "title": "Transforming auto-encoders",
+   "authors": "GE Hinton, A Krizhevsky, SD Wang",
+   "venue": "International conference on artificial neural networks, 44-51",
+   "year": "2011"
+  },
+  {
+   "title": "Baselines and bigrams: Simple, good sentiment and topic classification",
+   "authors": "SI Wang, CD Manning",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Incoder: A generative model for code infilling and synthesis",
+   "authors": "D Fried, A Aghajanyan, J Lin, S Wang, E Wallace, F Shi, R Zhong, W Yih, ...",
+   "venue": "arXiv preprint arXiv:2204.05999",
+   "year": "2022"
+  },
+  {
+   "title": "Dropout training as adaptive regularization",
+   "authors": "S Wager, S Wang, PS Liang",
+   "venue": "Advances in neural information processing systems 26",
+   "year": "2013"
+  },
+  {
+   "title": "Fast dropout training",
+   "authors": "SI Wang, CD Manning",
+   "venue": "International Conference on Machine Learning (ICML), 118-126",
+   "year": "2013"
+  },
+  {
+   "title": "DS-1000: A natural and reliable benchmark for data science code generation",
+   "authors": "Y Lai, C Li, Y Wang, T Zhang, R Zhong, L Zettlemoyer, W Yih, D Fried, ...",
+   "venue": "International Conference on Machine Learning, 18319-18345",
+   "year": "2023"
+  },
+  {
+   "title": "Simple recurrent units for highly parallelizable recurrence",
+   "authors": "T Lei, Y Zhang, SI Wang, H Dai, Y Artzi",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Lever: Learning to verify language-to-code generation with execution",
+   "authors": "A Ni, S Iyer, D Radev, V Stoyanov, W Yih, S Wang, XV Lin",
+   "venue": "International Conference on Machine Learning, 26106-26128",
+   "year": "2023"
+  },
+  {
+   "title": "Unifiedskg: Unifying and multi-tasking structured knowledge grounding with text-to-text language models",
+   "authors": "T Xie, CH Wu, P Shi, R Zhong, T Scholak, M Yasunaga, CS Wu, M Zhong, ...",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Cruxeval: A benchmark for code reasoning, understanding and execution",
+   "authors": "A Gu, B Rozière, H Leather, A Solar-Lezama, G Synnaeve, SI Wang",
+   "venue": "arXiv preprint arXiv:2401.03065",
+   "year": "2024"
+  },
+  {
+   "title": "Spider 2.0: Evaluating language models on real-world enterprise text-to-sql workflows",
+   "authors": "F Lei, J Chen, Y Ye, R Cao, D Shin, H Su, Z Suo, H Gao, W Hu, P Yin, ...",
+   "venue": "International Conference on Learning Representations 2025, 28691-28735",
+   "year": "2025"
+  },
+  {
+   "title": "Data noising as smoothing in neural network language models",
+   "authors": "Z Xie, SI Wang, J Li, D Lévy, A Nie, D Jurafsky, AY Ng",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2017"
+  },
+  {
+   "title": "Swe-rl: Advancing llm reasoning via reinforcement learning on open software evolution",
+   "authors": "Y Wei, O Duchenne, J Copet, Q Carbonneaux, L Zhang, D Fried, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 78500-78525",
+   "year": "2026"
+  },
+  {
+   "title": "Swe-bench multimodal: Do ai systems generalize to visual software domains?",
+   "authors": "J Yang, CE Jimenez, AL Zhang, K Lieret, J Yang, X Wu, O Press, ...",
+   "venue": "arXiv preprint arXiv:2410.03859",
+   "year": "2024"
+  },
+  {
+   "title": "Learning Language Games through Interaction",
+   "authors": "SI Wang, P Liang, CD Manning",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Natural language to code translation with execution",
+   "authors": "F Shi, D Fried, M Ghazvininejad, L Zettlemoyer, SI Wang",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Pre-training via paraphrasing",
+   "authors": "M Lewis, M Ghazvininejad, G Ghosh, A Aghajanyan, S Wang, ...",
+   "venue": "Advances in Neural Information Processing Systems 33, 18470-18481",
+   "year": "2020"
+  },
+  {
+   "title": "Coder reviewer reranking for code generation",
+   "authors": "T Zhang, T Yu, T Hashimoto, M Lewis, W Yih, D Fried, S Wang",
+   "venue": "International Conference on Machine Learning, 41832-41846",
+   "year": "2023"
+  },
+  {
+   "title": "Grounded adaptation for zero-shot executable semantic parsing",
+   "authors": "V Zhong, M Lewis, SI Wang, L Zettlemoyer",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Human effort and machine learnability in computer aided translation",
+   "authors": "S Green, SI Wang, J Chuang, J Heer, S Schuster, CD Manning",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "Spider2-v: How far are multimodal agents from automating data science and engineering workflows?",
+   "authors": "R Cao, F Lei, H Wu, J Chen, Y Fu, H Gao, X Xiong, H Zhang, Y Mao, W Hu, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 107703-107744",
+   "year": "2024"
+  },
+  {
+   "title": "Naturalizing a programming language via interactive learning",
+   "authors": "SI Wang, S Ginn, P Liang, CD Manning",
+   "venue": "Proceedings of the Association for Computational Linguistics  (ACL)",
+   "year": "2017"
+  },
+  {
+   "title": "Cwm: An open-weights llm for research on code generation with world models",
+   "authors": "J Copet, Q Carbonneaux, G Cohen, J Gehring, J Kahn, J Kossen, F Kreuk, ...",
+   "venue": "arXiv preprint arXiv:2510.02387",
+   "year": "2025"
+  },
+  {
+   "title": "Fast and adaptive online training of feature-rich translation models",
+   "authors": "S Green, SI Wang, D Cer, CD Manning",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Altitude training: Strong bounds for single-layer dropout",
+   "authors": "S Wager, W Fithian, S Wang, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "Bilingual lexicon induction via unsupervised bitext construction and word alignment",
+   "authors": "F Shi, L Zettlemoyer, SI Wang",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Toward training superintelligent software agents through self-play swe-rl",
+   "authors": "Y Wei, Z Sun, E McMilin, J Gehring, D Zhang, G Synnaeve, D Fried, ...",
+   "venue": "arXiv preprint arXiv:2512.18552",
+   "year": "2025"
+  },
+  {
+   "title": "On continual model refinement in out-of-distribution data streams",
+   "authors": "BY Lin, SI Wang, XV Lin, R Jia, L Xiao, X Ren, W Yih",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Livecodebench: Holistic and contamination free evaluation of large language models for code, 2024",
+   "authors": "N Jain, K Han, A Gu, WD Li, F Yan, T Zhang, S Wang, A Solar-Lezama, ...",
+   "venue": "URL https://arxiv. org/abs/2403.07974",
+   "year": null
+  },
+  {
+   "title": "Evaluation of llms on syntax-aware code fill-in-the-middle tasks",
+   "authors": "L Gong, S Wang, M Elhoushi, A Cheung",
+   "venue": "arXiv preprint arXiv:2403.04814",
+   "year": "2024"
+  },
+  {
+   "title": "Interactive classification by asking informative questions",
+   "authors": "L Yu, H Chen, SI Wang, T Lei, Y Artzi",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Feature noising for log-linear structured prediction",
+   "authors": "SI Wang, M Wang, S Wagner, P Liang, CD Manning",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Learning to simulate natural language feedback for interactive semantic parsing",
+   "authors": "H Yan, S Srivastava, Y Tai, SI Wang, W Yih, Z Yao",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Silg: The multi-domain symbolic interactive language grounding benchmark",
+   "authors": "V Zhong, AW Hanjie, S Wang, K Narasimhan, L Zettlemoyer",
+   "venue": "Advances in Neural Information Processing Systems 34, 21505-21519",
+   "year": "2021"
+  },
+  {
+   "title": "Simple MAP inference via low-rank relaxations",
+   "authors": "R Frostig, SI Wang, P Liang, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "Silg: The multi-environment symbolic interactive language grounding benchmark",
+   "authors": "V Zhong, AW Hanjie, SI Wang, K Narasimhan, L Zettlemoyer",
+   "venue": "arXiv preprint arXiv:2110.10661",
+   "year": "2021"
+  },
+  {
+   "title": "What i cannot execute, i do not understand: Training and evaluating llms on program execution traces",
+   "authors": "J Armengol-Estapé, Q Carbonneaux, T Zhang, AH Markosyan, V Seeker, ...",
+   "venue": "arXiv preprint arXiv:2503.05703",
+   "year": "2025"
+  },
+  {
+   "title": "BitextEdit: Automatic bitext editing for improved low-resource machine translation",
+   "authors": "E Briakou, SI Wang, L Zettlemoyer, M Ghazvininejad",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2022, 1469-1485",
+   "year": "2022"
+  },
+  {
+   "title": "Estimating mixture models via mixtures of polynomials",
+   "authors": "S Wang, AT Chaganty, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Feature-rich phrase-based translation: Stanford University’s submission to the WMT 2013 translation task",
+   "authors": "S Green, D Cer, K Reschke, R Voigt, J Bauer, SI Wang, N Silveira, ...",
+   "venue": "Proceedings of the eighth workshop on statistical machine translation, 148-153",
+   "year": "2013"
+  },
+  {
+   "title": "Threadweaver: Adaptive threading for efficient parallel reasoning in language models",
+   "authors": "L Lian, S Wang, F Juefei-Xu, TJ Fu, X Li, A Yala, T Darrell, A Suhr, Y Tian, ...",
+   "venue": "arXiv preprint arXiv:2512.07843",
+   "year": "2025"
+  },
+  {
+   "title": "Eval-Arena: noise and errors on llm evaluations",
+   "authors": "SI Wang, A Gu, L Madaan, D Hupkes, J Liu, Y Wei, N Jain, Y Lai, S Sootla, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Relaxations for inference in restricted Boltzmann machines",
+   "authors": "SI Wang, R Frostig, P Liang, CD Manning",
+   "venue": "ICLR workshop track",
+   "year": "2013"
+  },
+  {
+   "title": "Measuring all the noises of LLM evals",
+   "authors": "S Wang",
+   "venue": "arXiv preprint arXiv:2512.21326",
+   "year": "2025"
+  },
+  {
+   "title": "Structure-Aware Fill-in-the-Middle Pretraining for Code",
+   "authors": "L Gong, A Cheung, M Elhoushi, S Wang",
+   "venue": "arXiv preprint arXiv:2506.00204",
+   "year": "2025"
+  },
+  {
+   "title": "Fast dropout training for logistic regression",
+   "authors": "S Wang, CD Manning",
+   "venue": "NIPS workshop on log-linear models",
+   "year": "2012"
+  },
+  {
+   "title": "Learning to Extract Parameterized Features by Predicting Transformed Images",
+   "authors": "S Wang",
+   "venue": "Toronto",
+   "year": "2011"
+  },
+  {
+   "title": "Accessing higher dimensions for unsupervised word translation",
+   "authors": "S Wang",
+   "venue": "Advances in Neural Information Processing Systems 36, 69098-69116",
+   "year": "2023"
+  },
+  {
+   "title": "A sub-constant improvement in approximating the positive semidefinite Grothendieck problem",
+   "authors": "R Frostig, SI Wang",
+   "venue": "arXiv preprint arXiv:1408.2270",
+   "year": "2014"
+  }
+ ]
+}

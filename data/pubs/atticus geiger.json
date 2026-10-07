@@ -1,0 +1,389 @@
+{
+ "user": "w2Qzno8AAAAJ",
+ "pubs": [
+  {
+   "title": "Dynabench: Rethinking benchmarking in NLP",
+   "authors": "D Kiela, M Bartolo, Y Nie, D Kaushik, A Geiger, Z Wu, B Vidgen, G Prasad, ...",
+   "venue": "In Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Causal abstractions of neural networks",
+   "authors": "A Geiger, H Lu, T Icard, C Potts",
+   "venue": "Advances in neural information processing systems 34, 9574-9586",
+   "year": "2021"
+  },
+  {
+   "title": "Open problems in mechanistic interpretability",
+   "authors": "L Sharkey, B Chughtai, J Batson, J Lindsey, J Wu, L Bushnaq, ...",
+   "venue": "arXiv preprint arXiv:2501.16496",
+   "year": "2025"
+  },
+  {
+   "title": "Causal abstraction: A theoretical foundation for mechanistic interpretability",
+   "authors": "A Geiger, D Ibeling, A Zur, M Chaudhary, S Chauhan, J Huang, A Arora, ...",
+   "venue": "Journal of Machine Learning Research 26 (83), 1-64",
+   "year": "2025"
+  },
+  {
+   "title": "Reft: Representation finetuning for language models",
+   "authors": "Z Wu, A Arora, Z Wang, A Geiger, D Jurafsky, CD Manning, C Potts",
+   "venue": "Advances in Neural Information Processing Systems 37, 63908-63962",
+   "year": "2024"
+  },
+  {
+   "title": "Finding alignments between interpretable causal variables and distributed neural representations",
+   "authors": "A Geiger, Z Wu, C Potts, T Icard, N Goodman",
+   "venue": "Causal Learning and Reasoning, 160-187",
+   "year": "2024"
+  },
+  {
+   "title": "Language models linearly represent sentiment",
+   "authors": "C Tigges, OJ Hollinsworth, A Geiger, N Nanda",
+   "venue": "Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting …",
+   "year": "2024"
+  },
+  {
+   "title": "Axbench: Steering llms? even simple baselines outperform sparse autoencoders",
+   "authors": "Z Wu, A Arora, A Geiger, Z Wang, J Huang, D Jurafsky, CD Manning, ...",
+   "venue": "arXiv preprint arXiv:2501.17148",
+   "year": "2025"
+  },
+  {
+   "title": "Interpretability at scale: Identifying causal mechanisms in alpaca",
+   "authors": "Z Wu, A Geiger, T Icard, C Potts, N Goodman",
+   "venue": "Advances in neural information processing systems 36, 78205-78226",
+   "year": "2023"
+  },
+  {
+   "title": "Hybrid Pluggable Processing Pipeline (HyP3): A cloud-based infrastructure for generic processing of SAR data",
+   "authors": "K Hogenson, SA Arko, B Buechler, R Hogenson, J Herrmann, A Geiger",
+   "venue": "Agu fall meeting abstracts 2016, IN21B-1740",
+   "year": "2016"
+  },
+  {
+   "title": "Inducing causal structure for interpretable neural networks",
+   "authors": "A Geiger, Z Wu, H Lu, J Rozner, E Kreiss, T Icard, N Goodman, C Potts",
+   "venue": "International Conference on Machine Learning, 7324-7338",
+   "year": "2022"
+  },
+  {
+   "title": "Neural natural language inference models partially embed theories of lexical entailment and negation",
+   "authors": "A Geiger, K Richardson, C Potts",
+   "venue": "In Proceedings of the Third BlackboxNLP Workshop on Analyzing and …",
+   "year": "2020"
+  },
+  {
+   "title": "DynaSent: A dynamic benchmark for sentiment analysis",
+   "authors": "C Potts, Z Wu, A Geiger, D Kiela",
+   "venue": "Proceedings of the 59th annual meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Is this the subspace you are looking for? an interpretability illusion for subspace activation patching",
+   "authors": "A Makelov, G Lange, A Geiger, N Nanda",
+   "venue": "International Conference on Learning Representations 2024, 26486-26515",
+   "year": "2024"
+  },
+  {
+   "title": "MIB: A mechanistic interpretability benchmark",
+   "authors": "A Mueller, A Geiger, S Wiegreffe, D Arad, I Arcuschin, A Belfki, YS Chan, ...",
+   "venue": "arXiv preprint arXiv:2504.13151",
+   "year": "2025"
+  },
+  {
+   "title": "Cebab: Estimating the causal effects of real-world concepts on nlp model behavior",
+   "authors": "ED Abraham, K D'Oosterlinck, A Feder, Y Gat, A Geiger, C Potts, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 17582-17596",
+   "year": "2022"
+  },
+  {
+   "title": "RAVEL: Evaluating interpretability methods on disentangling language model representations",
+   "authors": "J Huang, Z Wu, C Potts, M Geva, A Geiger",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Rigorously assessing natural language explanations of neurons",
+   "authors": "J Huang, A Geiger, K D’Oosterlinck, Z Wu, C Potts",
+   "venue": "Proceedings of the 6th BlackboxNLP Workshop: Analyzing and Interpreting …",
+   "year": "2023"
+  },
+  {
+   "title": "pyvene: A library for understanding and improving PyTorch models via interventions",
+   "authors": "Z Wu, A Geiger, A Arora, J Huang, Z Wang, N Goodman, CD Manning, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Causal proxy models for concept-based model explanations",
+   "authors": "Z Wu, K D’Oosterlinck, A Geiger, A Zur, C Potts",
+   "venue": "International conference on machine learning, 37313-37334",
+   "year": "2023"
+  },
+  {
+   "title": "Recurrent neural networks learn to store and generate sequences using non-linear representations",
+   "authors": "R Csordás, C Potts, CD Manning, A Geiger",
+   "venue": "Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting …",
+   "year": "2024"
+  },
+  {
+   "title": "Posing fair generalization tasks for natural language inference",
+   "authors": "A Geiger, I Cases, L Karttunen, C Potts",
+   "venue": "In Proceedings of the 2019 Conference on Empirical Methods in Natural …",
+   "year": "2019"
+  },
+  {
+   "title": "Causal abstraction with soft interventions",
+   "authors": "R Massidda, A Geiger, T Icard, D Bacciu",
+   "venue": "Conference on Causal Learning and Reasoning, 68-87",
+   "year": "2023"
+  },
+  {
+   "title": "Recursive routing networks: Learning to compose modules for language understanding",
+   "authors": "I Cases, C Rosenbaum, M Riemer, A Geiger, T Klinger, A Tamkin, O Li, ...",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Reasoning theater: Disentangling model beliefs from chain-of-thought",
+   "authors": "S Boppana, A Ma, M Loeffler, R Sarfati, E Bigelow, A Geiger, O Lewis, ...",
+   "venue": "arXiv preprint arXiv:2603.05488",
+   "year": "2026"
+  },
+  {
+   "title": "Language models use lookbacks to track beliefs",
+   "authors": "N Prakash, N Shapira, A Sen Sharma, C Riedl, Y Belinkov, T Shaham, ...",
+   "venue": "International Conference on Learning Representations 2026, 7657-7694",
+   "year": "2026"
+  },
+  {
+   "title": "Relational reasoning and generalization using nonsymbolic neural networks.",
+   "authors": "A Geiger, A Carstensen, MC Frank, C Potts",
+   "venue": "Psychological Review 130 (2), 308",
+   "year": "2023"
+  },
+  {
+   "title": "Enhancing automated interpretability with output-centric feature descriptions",
+   "authors": "Y Gur-Arieh, R Mayan, C Agassy, A Geiger, M Geva",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Evaluating open-source sparse autoencoders on disentangling factual knowledge in gpt-2 small",
+   "authors": "M Chaudhary, A Geiger",
+   "venue": "arXiv preprint arXiv:2409.04478",
+   "year": "2024"
+  },
+  {
+   "title": "How do transformers learn variable binding in symbolic programs?",
+   "authors": "Y Wu, A Geiger, R Millière",
+   "venue": "arXiv preprint arXiv:2505.20896",
+   "year": "2025"
+  },
+  {
+   "title": "Causal distillation for language models",
+   "authors": "Z Wu, A Geiger, J Rozner, E Kreiss, H Lu, T Icard, C Potts, N Goodman",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Stress-testing neural models of natural language inference with multiply-quantified sentences",
+   "authors": "A Geiger, I Cases, L Karttunen, C Potts",
+   "venue": "arXiv preprint arXiv:1810.13033",
+   "year": "2018"
+  },
+  {
+   "title": "ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning",
+   "authors": "J Selena She, C Potts, SR Bowman, A Geiger",
+   "venue": "arXiv e-prints, arXiv: 2305.19426",
+   "year": "2023"
+  },
+  {
+   "title": "Mixing mechanisms: How language models retrieve bound entities in-context",
+   "authors": "Y Gur-Arieh, M Geva, A Geiger",
+   "venue": "International Conference on Learning Representations 2026, 27757-27786",
+   "year": "2026"
+  },
+  {
+   "title": "Do Sparse Autoencoders Capture Concept Manifolds?",
+   "authors": "U Bhalla, T Fel, C Rager, S Feucht, T Haklay, D Wurgaft, S Boppana, ...",
+   "venue": "arXiv preprint arXiv:2604.28119",
+   "year": "2026"
+  },
+  {
+   "title": "Hypersteer: Activation steering at scale with hypernetworks",
+   "authors": "J Sun, S Baskaran, Z Wu, M Sklar, C Potts, A Geiger",
+   "venue": "arXiv preprint arXiv:2506.03292",
+   "year": "2025"
+  },
+  {
+   "title": "Are language models aware of the road not taken? Token-level uncertainty and hidden state dynamics",
+   "authors": "A Zur, A Geiger, ES Lubana, E Bigelow",
+   "venue": "arXiv preprint arXiv:2511.04527",
+   "year": "2025"
+  },
+  {
+   "title": "Manifold steering reveals the shared geometry of neural network representation and behavior",
+   "authors": "D Wurgaft, C Rager, M Kowal, V Shyam, S Feucht, U Bhalla, T Haklay, ...",
+   "venue": "arXiv preprint arXiv:2605.05115",
+   "year": "2026"
+  },
+  {
+   "title": "A reply to makelov et al.(2023)'s\" interpretability illusion\" arguments",
+   "authors": "Z Wu, A Geiger, J Huang, A Arora, T Icard, C Potts, ND Goodman",
+   "venue": "arXiv preprint arXiv:2401.12631",
+   "year": "2024"
+  },
+  {
+   "title": "The Shape of Beliefs: Geometry, Dynamics, and Interventions along Representation Manifolds of Language Models' Posteriors",
+   "authors": "R Sarfati, E Bigelow, D Wurgaft, S Boppana, J Merullo, A Geiger, O Lewis, ...",
+   "venue": "arXiv preprint arXiv:2602.02315",
+   "year": "2026"
+  },
+  {
+   "title": "HyperDAS: Towards automating mechanistic interpretability with hypernetworks",
+   "authors": "J Sun, J Huang, S Baskaran, K D'Oosterlinck, C Potts, M Sklar, A Geiger",
+   "venue": "International Conference on Learning Representations 2025, 8341-8358",
+   "year": "2025"
+  },
+  {
+   "title": "A semantics for causing, enabling, and preventing verbs using structural causal models",
+   "authors": "A Cao, A Geiger, E Kreiss, T Icard, T Gerstenberg",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 45 (45)",
+   "year": "2023"
+  },
+  {
+   "title": "From directions to regions: Decomposing activations in language models via local geometry",
+   "authors": "O Shafran, S Ronen, O Fahn, S Ravfogel, A Geiger, M Geva",
+   "venue": "arXiv preprint arXiv:2602.02464",
+   "year": "2026"
+  },
+  {
+   "title": "Combining causal models for more accurate abstractions of neural networks",
+   "authors": "TM Pîslar, S Magliacane, A Geiger",
+   "venue": "arXiv preprint arXiv:2503.11429",
+   "year": "2025"
+  },
+  {
+   "title": "Dispatched routing networks",
+   "authors": "C Rosenbaum, I Cases, M Riemer, A Geiger, L Karttunen, JD Greene, ...",
+   "venue": "arXiv preprint arXiv:1907.04434",
+   "year": "2019"
+  },
+  {
+   "title": "How causal abstraction underpins computational explanation",
+   "authors": "A Geiger, J Harding, T Icard",
+   "venue": "arXiv preprint arXiv:2508.11214",
+   "year": "2025"
+  },
+  {
+   "title": "Updating clip to prefer descriptions over captions",
+   "authors": "A Zur, E Kreiss, K D’Oosterlinck, C Potts, A Geiger",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Sentinel-1 archive and processing in the cloud using the hybrid pluggable processing pipeline (HyP3) at the ASF DAAC",
+   "authors": "SA Arko, R Hogenson, A Geiger, J Herrmann, B Buechler, K Hogenson",
+   "venue": "AGU Fall Meeting Abstracts 2016, G43A-1040",
+   "year": "2016"
+  },
+  {
+   "title": "Arithmetic in the wild: Llama uses base-10 addition to reason about cyclic concepts",
+   "authors": "S Feucht, T Haklay, U Bhalla, D Wurgaft, C Rager, R Sarfati, J Merullo, ...",
+   "venue": "arXiv preprint arXiv:2605.01148",
+   "year": "2026"
+  },
+  {
+   "title": "Decomposing mlp activations into interpretable features via semi-nonnegative matrix factorization",
+   "authors": "O Shafran, A Geiger, M Geva",
+   "venue": "arXiv e-prints, arXiv: 2506.10920",
+   "year": "2025"
+  },
+  {
+   "title": "Activation Steering via Contrastive Causal Mediation",
+   "authors": "A Sankaranarayanan, A Zur, A Geiger, D Hadfield-Menell",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Constructing Interpretable Features from Compositional Neuron Groups",
+   "authors": "OD Shafran, A Geiger, M Geva",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "GPT-2 small fine-tuned on logical reasoning summarizes information on punctuation tokens",
+   "authors": "S Chauhan, A Geiger",
+   "venue": "MINT: Foundation Model Interventions",
+   "year": "2024"
+  },
+  {
+   "title": "Forking fast: Efficiently estimating uncertainty dynamics in text generation",
+   "authors": "E Bigelow, A Zur, S Grant, T Haklay, C Rager, O Lewis, T McGrath, ...",
+   "venue": "arXiv preprint arXiv:2608.19611",
+   "year": "2026"
+  },
+  {
+   "title": "Structuring Sparsity: Block-Sparse Featurizers Capture Visual Concept Manifolds",
+   "authors": "T Fel, M Kowal, M Jacobs, D Hazra, U Bhalla, L Sharkey, L Bushnaq, ...",
+   "venue": "arXiv preprint arXiv:2606.25234",
+   "year": "2026"
+  },
+  {
+   "title": "Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal",
+   "authors": "L Bergen, U Bhalla, S Baskaran, M Loeffler, R Sarfati, D Gala, R Panwar, ...",
+   "venue": "arXiv preprint arXiv:2606.12360",
+   "year": "2026"
+  },
+  {
+   "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+   "authors": "L Bergen, U Bhalla, A Lee, B Widawsky, L Nasvytis, C Watts, S Boppana, ...",
+   "venue": "arXiv preprint arXiv:2609.19101",
+   "year": "2026"
+  },
+  {
+   "title": "Stories in Space: In-Context Learning Trajectories in Conceptual Belief Space",
+   "authors": "E Bigelow, R Sarfati, D Wurgaft, O Lewis, T McGrath, J Merullo, A Geiger, ...",
+   "venue": "arXiv preprint arXiv:2605.12412",
+   "year": "2026"
+  },
+  {
+   "title": "Bucketing the Good Apples: A Method for Diagnosing and Improving Causal Abstraction",
+   "authors": "L Puyin, J Tan, A Jabbar, T Icard, A Geiger",
+   "venue": "arXiv preprint arXiv:2605.02234",
+   "year": "2026"
+  },
+  {
+   "title": "Uncovering and Inducing Interpretable Causal Structure in Deep Learning Models",
+   "authors": "AR Geiger",
+   "venue": "Stanford University",
+   "year": "2023"
+  },
+  {
+   "title": "Can Natural Language Inference Models Perform Natural Logic Reasoning?",
+   "authors": "A Geiger",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Arithmetic in the Wild: Llama uses Standard Addition to Reason About Cyclic Concepts",
+   "authors": "S Feucht, T Haklay, U Bhalla, D Wurgaft, C Rager, J Merullo, T McGrath, ...",
+   "venue": "Third Conference on Language Modeling",
+   "year": null
+  },
+  {
+   "title": "Pretraining Data Statistics Shape the Phases of Learning Entity Comparison in Language Models",
+   "authors": "YS Chan, J Huang, Y Elazar, A Geiger",
+   "venue": "Mechanistic Interpretability Workshop at ICML 2026",
+   "year": null
+  },
+  {
+   "title": "Activation Steering in Generative Settings via Contrastive Causal Mediation Analysis",
+   "authors": "A Sankaranarayanan, A Zur, A Geiger, D Hadfield-Menell",
+   "venue": "Mechanistic Interpretability Workshop at NeurIPS 2025",
+   "year": null
+  }
+ ]
+}

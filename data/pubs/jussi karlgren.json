@@ -1,0 +1,1931 @@
+{
+ "user": "o7cz97l31z8J",
+ "pubs": [
+  {
+   "title": "Recognizing text genres with simple metrics using discriminant analysis",
+   "authors": "J Karlgren, D Cutting",
+   "venue": "COLING 1994 Volume 2: The 15th International Conference on Computational …",
+   "year": "1994"
+  },
+  {
+   "title": "From Words to Understanding",
+   "authors": "J Karlgren, M Sahlgren",
+   "venue": "",
+   "year": "2001"
+  },
+  {
+   "title": "A glass box approach to adaptive hypermedia",
+   "authors": "K Höök, J Karlgren, A Wærn, N Dahlbäck, C Gustaf Jansson, K Karlgren, ...",
+   "venue": "User modeling and user-adapted interaction 6 (2), 157-184",
+   "year": "1996"
+  },
+  {
+   "title": "WEST: a Web browser for small terminals",
+   "authors": "S Björk, LE Holmquist, J Redström, I Bretan, R Danielsson, J Karlgren, ...",
+   "venue": "Proceedings of the 12th annual ACM symposium on User interface software and …",
+   "year": "1999"
+  },
+  {
+   "title": "Stylistic experiments in information retrieval",
+   "authors": "J Karlgren",
+   "venue": "Natural language information retrieval, 147-166",
+   "year": "1999"
+  },
+  {
+   "title": "100,000 podcasts: A spoken English document corpus",
+   "authors": "A Clifton, S Reddy, Y Yu, A Pappu, R Rezapour, H Bonab, M Eskevich, ...",
+   "venue": "Proceedings of the 28th International Conference on Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Natural language information retrieval: TREC-4 report",
+   "authors": "T Strzalkowski, JP Carballo, P Tapanainen, T Jarvinen, J Karlgren, ...",
+   "venue": "Text REtrieval Conference, 245-258",
+   "year": "1996"
+  },
+  {
+   "title": "Automatic keyword extraction using domain knowledge",
+   "authors": "A Hulth, J Karlgren, A Jonsson, H Boström, L Asker",
+   "venue": "International Conference on Intelligent Text Processing and Computational …",
+   "year": "2001"
+  },
+  {
+   "title": "Spoken Language Translator: First-Year Report",
+   "authors": "MS Agnäs, H Alshawi, I Bretan, D Carter, K Ceder, M Collins, R Crouch, ...",
+   "venue": "Stockholm: Swedish Institute of Computer Science",
+   "year": "1994"
+  },
+  {
+   "title": "Automatic bilingual lexicon acquisition using random indexing of parallel corpora",
+   "authors": "M Sahlgren, J Karlgren",
+   "venue": "Natural language engineering 11 (3), 327-341",
+   "year": "2005"
+  },
+  {
+   "title": "The language of smell: Connecting linguistic and psychophysical properties of odor descriptors",
+   "authors": "G Iatropoulos, P Herman, A Lansner, J Karlgren, M Larsson, JK Olofsson",
+   "venue": "Cognition 178, 37-49",
+   "year": "2018"
+  },
+  {
+   "title": "Overview of the “Voight-Kampff” generative AI authorship verification task at PAN and ELOQUENT 2025",
+   "authors": "J Bevendorff, Y Wang, J Karlgren, M Wiegmann, M Fröbe, J Su, Z Xie, ...",
+   "venue": "CEUR-WS",
+   "year": "2025"
+  },
+  {
+   "title": "Spoken language translation with mid-90's technology: A case study",
+   "authors": "M Rayner, I Bretan, D Carter, M Collins, V Digalakis, B Gamback, J Kaja, ...",
+   "venue": "Proc. Eurospeech 1993, 1299-1302",
+   "year": "1993"
+  },
+  {
+   "title": "Natural language information retrieval: TREC-5 report",
+   "authors": "T Strzalkowski, L Guthrie, J Karlgren, J Leistensnider, F Lin, ...",
+   "venue": "",
+   "year": "1997"
+  },
+  {
+   "title": "An algebra for recommendations: Using reader data as a basis for measuring document proximity",
+   "authors": "J Karlgren",
+   "venue": "Department of Computer and Systems Sciences, Stockholm University",
+   "year": "1990"
+  },
+  {
+   "title": "Current challenges and future directions in podcast information access",
+   "authors": "R Jones, H Zamani, M Schedl, CW Chen, S Reddy, A Clifton, J Karlgren, ...",
+   "venue": "Proceedings of the 44th International acm sigir Conference on Research and …",
+   "year": "2021"
+  },
+  {
+   "title": "Assembling a balanced corpus from the internet",
+   "authors": "J Dewe, J Karlgren, I Bretan",
+   "venue": "Proceedings of the 11th Nordic Conference of Computational Linguistics …",
+   "year": "1998"
+  },
+  {
+   "title": "Iterative information retrieval using fast clustering and usage-specific genres",
+   "authors": "J Karlgren, I Bretan, J Dewe, A Hallberg, N Wolkert",
+   "venue": "Eight DELOS workshop on User Interfaces in Digital Libraries, 85-92",
+   "year": "1998"
+  },
+  {
+   "title": "Usefulness of sentiment analysis",
+   "authors": "J Karlgren, M Sahlgren, F Olsson, F Espinoza, O Hamfors",
+   "venue": "European Conference on Information Retrieval, 426-435",
+   "year": "2012"
+  },
+  {
+   "title": "Verbosity and interface design",
+   "authors": "K Franzen, J Karlgren",
+   "venue": "Swedish Institute of Computer Science",
+   "year": "2000"
+  },
+  {
+   "title": "Web-Specific Genre Visualization.",
+   "authors": "I Bretan, J Dewe, A Hallberg, N Wolkert, J Karlgren",
+   "venue": "WebNet",
+   "year": "1998"
+  },
+  {
+   "title": "TREC 2020 podcasts track overview",
+   "authors": "R Jones, B Carterette, A Clifton, M Eskevich, GJF Jones, J Karlgren, ...",
+   "venue": "arXiv preprint arXiv:2103.15953",
+   "year": "2021"
+  },
+  {
+   "title": "Filaments of meaning in word space",
+   "authors": "J Karlgren, A Holst, M Sahlgren",
+   "venue": "European Conference on Information Retrieval, 531-538",
+   "year": "2008"
+  },
+  {
+   "title": "The spotify podcast dataset",
+   "authors": "A Clifton, A Pappu, S Reddy, Y Yu, J Karlgren, B Carterette, R Jones",
+   "venue": "arXiv preprint arXiv:2004.04270",
+   "year": "2020"
+  },
+  {
+   "title": "Effects of foreign language and task scenario on relevance assessment",
+   "authors": "P Hansen, J Karlgren",
+   "venue": "Journal of Documentation 61 (5), 623-639",
+   "year": "2005"
+  },
+  {
+   "title": "Stylistic variation in an information retrieval experiment",
+   "authors": "J Karlgren",
+   "venue": "arXiv preprint cmp-lg/9608003",
+   "year": "1996"
+  },
+  {
+   "title": "SemEval-2025 task 3: Mu-SHROOM, the multilingual shared-task on hallucinations and related observable overgeneration mistakes",
+   "authors": "R Vázquez, T Mickus, E Zosa, T Vahtola, J Tiedemann, A Sinha, ...",
+   "venue": "Proceedings of the 19th International Workshop on Semantic Evaluation …",
+   "year": "2025"
+  },
+  {
+   "title": "Issues when designing filters in messaging systems",
+   "authors": "J Palme, J Karlgren, D Pargman",
+   "venue": "Computer Communications 19 (2), 95-101",
+   "year": "1996"
+  },
+  {
+   "title": "Newsgroup clustering based on user behavior-a recommendation algebra",
+   "authors": "J Karlgren",
+   "venue": "SICS Research Report",
+   "year": "1994"
+  },
+  {
+   "title": "A speech to speech translation system built from standard components",
+   "authors": "M Rayner, H Alshawi, I Bretan, D Carter, V Digalakis, B Gambäck, J Kaja, ...",
+   "venue": "Human Language Technology: Proceedings of a Workshop Held at Plainsboro, New …",
+   "year": "1993"
+  },
+  {
+   "title": "Interaction models, reference, and interactivity in speech interfaces to virtual environments",
+   "authors": "J Karlgren, I Bretan, N Frost, L Jonsson",
+   "venue": "Virtual Environments’ 95: Selected papers of the Eurographics Workshops in …",
+   "year": "1995"
+  },
+  {
+   "title": "Terminology mining in social media",
+   "authors": "M Sahlgren, J Karlgren",
+   "venue": "Proceedings of the 18th ACM conference on Information and knowledge …",
+   "year": "2009"
+  },
+  {
+   "title": "Features for modelling characteristics of conversations: Notebook for pan at clef 2012",
+   "authors": "G Eriksson, J Karlgren",
+   "venue": "CLEF 2012 Evaluation Labs and Workshop, Rome, Italy, 17-20 September 2012",
+   "year": "2012"
+  },
+  {
+   "title": "Socially intelligent interfaces for increased energy awareness in the home",
+   "authors": "J Karlgren, LE Fahlén, A Wallberg, P Hansson, O Ståhl, J Söderberg, ...",
+   "venue": "The Internet of Things: First International Conference, IOT 2008, Zurich …",
+   "year": "2008"
+  },
+  {
+   "title": "Vector-based semantic analysis using random indexing for cross-lingual query expansion",
+   "authors": "M Sahlgren, J Karlgren",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 169-176",
+   "year": "2001"
+  },
+  {
+   "title": "Authors, Genre, and Linguistic Convention.",
+   "authors": "J Karlgren, G Eriksson",
+   "venue": "PAN",
+   "year": "2007"
+  },
+  {
+   "title": "Evaluation of multilingual and multi-modal information retrieval",
+   "authors": "CPP Clough, FCGJ Karlgren, BMDW Oard, MRM Stempfhuber",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "The glass box user model for filtering",
+   "authors": "J Karlgren, K Höök, A Lantz, J Palme, D Pargman",
+   "venue": "SICS Research Report",
+   "year": "1994"
+  },
+  {
+   "title": "Overview of iCLEF 2008: search log analysis for Multilingual Image Retrieval",
+   "authors": "J Gonzalo, P Clough, J Karlgren",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 227-235",
+   "year": "2008"
+  },
+  {
+   "title": "SICS at iCLEF 2002: cross-language relevance assessment and task context",
+   "authors": "J Karlgren, P Hansen",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 383-391",
+   "year": "2002"
+  },
+  {
+   "title": "SICS at CLEF 2002: Automatic query expansion using random indexing",
+   "authors": "M Sahlgren, J Karlgren, R Cöster, T Järvinen",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 311-320",
+   "year": "2002"
+  },
+  {
+   "title": "SICS: Valence annotation based on seeds in word space",
+   "authors": "M Sahlgren, J Karlgren, G Eriksson",
+   "venue": "Proceedings of the Fourth International Workshop on Semantic Evaluations …",
+   "year": "2007"
+  },
+  {
+   "title": "iclef 2006 overview: Searching the flickr www photo-sharing repository",
+   "authors": "J Karlgren, J Gonzalo, P Clough",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 186-194",
+   "year": "2006"
+  },
+  {
+   "title": "Stylistic analysis of text for information access",
+   "authors": "S Argamon, J Karlgren, JG Shanahan",
+   "venue": "Swedish institute of computer science",
+   "year": "2005"
+  },
+  {
+   "title": "Conventions and mutual expectations: Understanding sources for web genres",
+   "authors": "J Karlgren",
+   "venue": "Genres on the Web: Computational models and empirical studies, 33-46",
+   "year": "2010"
+  },
+  {
+   "title": "Semantic library adaptation: Lora retrieval and fusion for open-vocabulary semantic segmentation",
+   "authors": "R Qorbani, G Villani, T Panagiotakopoulos, MB Colomer, ...",
+   "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2025"
+  },
+  {
+   "title": "Report on the SIGIR workshop on\" entertain me\" supporting complex search tasks",
+   "authors": "NJ Belkin, CLA Clarke, N Gao, J Kamps, J Karlgren",
+   "venue": "ACM SIGIR Forum 45 (2), 51-59",
+   "year": "2012"
+  },
+  {
+   "title": "Overview of ELOQUENT 2026: shared tasks for evaluating generative language model quality",
+   "authors": "J Karlgren, M Barrett, O Bojar, MI Engels, D Fabre, L Goeuriot, RR Gunti, ...",
+   "venue": "International Conference of the Cross-Language Evaluation Forum for European …",
+   "year": "2026"
+  },
+  {
+   "title": "Overview of PAN 2025: Voight-Kampff Generative AI Detection, multilingual text detoxification, multi-author writing style analysis, and generative plagiarism detection",
+   "authors": "J Bevendorff, D Dementieva, M Fröbe, B Gipp, A Greiner-Petter, ...",
+   "venue": "International Conference of the Cross-Language Evaluation Forum for European …",
+   "year": "2025"
+  },
+  {
+   "title": "Dictionary-based Amharic-French information retrieval",
+   "authors": "AA Argaw, L Asker, R Cöster, J Karlgren, M Sahlgren",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 83-92",
+   "year": "2005"
+  },
+  {
+   "title": "Visualizing stylistic variation",
+   "authors": "J Karlgren, T Straszheim",
+   "venue": "Proceedings of the Thirtieth Hawaii International Conference on System …",
+   "year": "1997"
+  },
+  {
+   "title": "Overview of pan 2025: Generative ai detection, multilingual text detoxification, multi-author writing style analysis, and generative plagiarism detection",
+   "authors": "J Bevendorff, D Dementieva, M Fröbe, B Gipp, A Greiner-Petter, ...",
+   "venue": "European Conference on Information Retrieval, 434-441",
+   "year": "2025"
+  },
+  {
+   "title": "Podcast metadata and content: Episode relevance and attractiveness in ad hoc search",
+   "authors": "B Carterette, R Jones, GF Jones, M Eskevich, S Reddy, A Clifton, Y Yu, ...",
+   "venue": "Proceedings of the 44th International ACM SIGIR Conference on Research and …",
+   "year": "2021"
+  },
+  {
+   "title": "The whys and wherefores for studying textual genre computationally",
+   "authors": "J Karlgren",
+   "venue": "AAAI Fall Symposium on Style and Meaning in Language, Art and Music",
+   "year": "2005"
+  },
+  {
+   "title": "Large-scale interactive evaluation of multilingual information access systems: the iCLEF Flickr challenge",
+   "authors": "P Clough, J Gonzalo, J Karlgren, E Barker, J Artiles, V Peinado",
+   "venue": "Workshop on Novel Methodologies for Evaluation in Information Retrieval",
+   "year": "2008"
+  },
+  {
+   "title": "Selective compound splitting of Swedish queries for Boolean combinations of truncated terms",
+   "authors": "R Cöster, M Sahlgren, J Karlgren",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 337-344",
+   "year": "2003"
+  },
+  {
+   "title": "Semantics in high-dimensional space",
+   "authors": "J Karlgren, P Kanerva",
+   "venue": "Frontiers in artificial intelligence 4, 698809",
+   "year": "2021"
+  },
+  {
+   "title": "The Gavagai living lexicon",
+   "authors": "M Sahlgren, AC Gyllensten, F Espinoza, O Hamfors, J Karlgren, F Olsson, ...",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Overview of iCLEF 2009: exploring search behaviour in a multilingual folksonomy environment",
+   "authors": "J Gonzalo, V Peinado, P Clough, J Karlgren",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 13-20",
+   "year": "2009"
+  },
+  {
+   "title": "The Basics of Information Retrieval",
+   "authors": "J Karlgren",
+   "venue": "URL: http://citeseer. nj. nec. com/146825. html",
+   "year": "1998"
+  },
+  {
+   "title": "The interaction of discourse modality and user expectations in human-computer dialog",
+   "authors": "J Karlgren",
+   "venue": "Stockholm University",
+   "year": "1992"
+  },
+  {
+   "title": "Textual stylistic variation: Choices, genres and individuals",
+   "authors": "J Karlgren",
+   "venue": "The Structure of Style: Algorithmic Approaches to Understanding Manner and …",
+   "year": "2010"
+  },
+  {
+   "title": "ELOQUENT CLEF shared tasks for evaluation of generative language model quality",
+   "authors": "J Karlgren, L Dürlich, E Gogoulou, L Guillou, J Nivre, M Sahlgren, ...",
+   "venue": "European Conference on Information Retrieval, 459-465",
+   "year": "2024"
+  },
+  {
+   "title": "Text mining for processing interview data in computational social science",
+   "authors": "J Karlgren, R Li, EMM Milgrom",
+   "venue": "arXiv preprint arXiv:2011.14037",
+   "year": "2020"
+  },
+  {
+   "title": "Counting lumps in word space: Density as a measure of corpus homogeneity",
+   "authors": "M Sahlgren, J Karlgren",
+   "venue": "International Symposium on String Processing and Information Retrieval, 151-154",
+   "year": "2005"
+  },
+  {
+   "title": "Conversational agents: A framework for evaluation (CAFE)(Dagstuhl Perspectives Workshop 24352)",
+   "authors": "C Bauer, L Chen, N Ferro, N Fuhr, A Anand, T Breuer, G Faggioli, ...",
+   "venue": "Dagstuhl Manifestos 11 (1), 19-67",
+   "year": "2025"
+  },
+  {
+   "title": "Challenging the assumption of structure-based embeddings in few-and zero-shot knowledge graph completion",
+   "authors": "F Cornell, C Zhang, J Karlgren, Š Girdzijauskas",
+   "venue": "proceedings of the thirteenth language resources and evaluation conference …",
+   "year": "2022"
+  },
+  {
+   "title": "Lexical variation in English language podcasts, editorial media, and social media",
+   "authors": "J Karlgren",
+   "venue": "Northern European Journal of Language Technology 8",
+   "year": "2022"
+  },
+  {
+   "title": "Uncertainty detection as approximate max-margin sequence labelling",
+   "authors": "O Täckström, S Velupillai, M Hassel, G Eriksson, H Dalianis, J Karlgren",
+   "venue": "Proceedings of the Fourteenth Conference on Computational Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Multilingual interactive experiments with flickr",
+   "authors": "J Karlgren, P Clough, J Gonzalo",
+   "venue": "ERCIM News",
+   "year": "2006"
+  },
+  {
+   "title": "Inferring the location of authors from words in their texts",
+   "authors": "M Berggren, J Karlgren, R Östling, M Parkvall",
+   "venue": "Proceedings of the 20th Nordic Conference of Computational Linguistics …",
+   "year": "2015"
+  },
+  {
+   "title": "Audio features, precomputed for podcast retrieval and information access experiments",
+   "authors": "A Alexander, M Mars, JC Tingey, H Yu, C Backhouse, S Reddy, ...",
+   "venue": "International Conference of the Cross-Language Evaluation Forum for European …",
+   "year": "2021"
+  },
+  {
+   "title": "High-dimensional distributed semantic spaces for utterances",
+   "authors": "J Karlgren, P Kanerva",
+   "venue": "Natural Language Engineering 25 (4), 503-517",
+   "year": "2019"
+  },
+  {
+   "title": "Semantic topology",
+   "authors": "J Karlgren, M Bohman, A Ekgren, G Isheden, E Kullmann, D Nilsson",
+   "venue": "Proceedings of the 23rd ACM International Conference on Conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Profiling reputation of corporate entities in semantic space: Notebook for replab at clef 2012",
+   "authors": "J Karlgren, M Sahlgren, F Olsson, F Espinoza, O Hamfors",
+   "venue": "CLEF 2012 Evaluation Labs and Workshop",
+   "year": "2012"
+  },
+  {
+   "title": "Mirroring your web presence",
+   "authors": "M Bylund, J Karlgren, F Olsson, P Sanches, CH Arvidsson",
+   "venue": "Proceedings of the 2008 ACM workshop on Search in social media, 87-90",
+   "year": "2008"
+  },
+  {
+   "title": "Dictionary-based Amharic–English information retrieval",
+   "authors": "AA Argaw, L Asker, R Cöster, J Karlgren",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 143-149",
+   "year": "2004"
+  },
+  {
+   "title": "English-japanese cross-lingual query expansion using random indexing of aligned bilingual text data",
+   "authors": "M Sahlgren, P Hansen, J Karlgren",
+   "venue": "NTCIR Workshop, 8-10 October 2002, Tokyo, Japan",
+   "year": "2002"
+  },
+  {
+   "title": "Unsupervised speaker diarization that is agnostic to language, overlap-aware, and tuning free",
+   "authors": "MI Tanveer, D Casabuena, J Karlgren, R Jones",
+   "venue": "arXiv preprint arXiv:2207.12504",
+   "year": "2022"
+  },
+  {
+   "title": "Analysis of open answers to survey questions through interactive clustering and theme extraction",
+   "authors": "F Espinoza, O Hamfors, J Karlgren, F Olsson, P Persson, L Hamberg, ...",
+   "venue": "Proceedings of the 2018 conference on human information interaction …",
+   "year": "2018"
+  },
+  {
+   "title": "Buzz monitoring in word space",
+   "authors": "M Sahlgren, J Karlgren",
+   "venue": "European Conference on Intelligence and Security Informatics, 73-84",
+   "year": "2008"
+  },
+  {
+   "title": "Compound terms and their constituent elements in information retrieval",
+   "authors": "J Karlgren",
+   "venue": "Proceedings of the 15th Nordic Conference of Computational Linguistics …",
+   "year": "2006"
+  },
+  {
+   "title": "Spatial or Narrative: A study of the Agneta & Frida system",
+   "authors": "K Höök, J Holm, K Tullgren, M Sjölinder, J Karlgren, P Persson",
+   "venue": "Proceedings of the Workshop on Affect in Interactions: Towards a New …",
+   "year": "1999"
+  },
+  {
+   "title": "A glass box intelligent help interface",
+   "authors": "K Höök, J Karlgren, A Wærn",
+   "venue": "Proceedings of First Workshop on Intelligent Multimodal Interfaces",
+   "year": "1995"
+  },
+  {
+   "title": "Dilemma-an instant lexicographer",
+   "authors": "H Karlgren, J Karlgren, M Nordstrom, P Pettersson, B Wahrolén",
+   "venue": "COLING 1994 Volume 1: The 15th International Conference on Computational …",
+   "year": "1994"
+  },
+  {
+   "title": "Sublanguages and registers: a note on terminology",
+   "authors": "J Karlgren",
+   "venue": "Interacting with Computers 5 (3), 348-350",
+   "year": "1993"
+  },
+  {
+   "title": "Cem mil podcasts: A spoken portuguese document corpus for multi-modal, multi-lingual and multi-dialect information access research",
+   "authors": "E Garmash, E Tanaka, A Clifton, J Correia, S Jat, W Zhu, R Jones, ...",
+   "venue": "International Conference of the Cross-Language Evaluation Forum for European …",
+   "year": "2023"
+  },
+  {
+   "title": "The contribution of lyrics and acoustics to collaborative understanding of mood",
+   "authors": "S Naseri, S Reddy, J Correia, J Karlgren, R Jones",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 16 …",
+   "year": "2022"
+  },
+  {
+   "title": "Exploring audio-based stylistic variation in podcasts",
+   "authors": "K Martikainen, J Karlgren, K Truong",
+   "venue": "Proc. Interspeech 2022, 2343-2347",
+   "year": "2022"
+  },
+  {
+   "title": "Spotify at the TREC 2020 Podcasts Track: Segment Retrieval.",
+   "authors": "Y Yu, J Karlgren, A Clifton, MI Tanveer, R Jones, HR Bonab",
+   "venue": "TREC",
+   "year": "2020"
+  },
+  {
+   "title": "Report on the sixth workshop on exploiting semantic annotations in information retrieval (ESAIR'13)",
+   "authors": "PN Bennett, E Gabrilovich, J Kamps, J Karlgren",
+   "venue": "ACM SIGIR Forum 48 (1), 13-20",
+   "year": "2014"
+  },
+  {
+   "title": "CLEF 2012 Working Notes",
+   "authors": "P Forner, J Karlgren, C Womser-Hacker, N Ferro",
+   "venue": "CEUR Workshop Proceedings (CEUR-WS. org), ISSN, 1613-0073",
+   "year": "2012"
+  },
+  {
+   "title": "Information access in a multilingual world: transitioning from research to real-world applications",
+   "authors": "F Gey, J Karlgren, N Kando",
+   "venue": "ACM SIGIR Forum 43 (2), 24-28",
+   "year": "2009"
+  },
+  {
+   "title": "Non-topical factors in information access",
+   "authors": "J Karlgren",
+   "venue": "WebNet World Conference on the WWW and Internet, 27-31",
+   "year": "1999"
+  },
+  {
+   "title": "Some principles for route descriptions derived from human advisers",
+   "authors": "K Hook, J Karlgren",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 13",
+   "year": "1991"
+  },
+  {
+   "title": "Eloquent 2024—robustness task",
+   "authors": "M Sahlgren, JJ Karlgren, L Dürlich, E Gogoulou, A Talman, S Zahra",
+   "venue": "Conference and Labs of the Evaluation Forum, 703-707",
+   "year": "2024"
+  },
+  {
+   "title": "Fifth workshop on exploiting semantic annotations in information retrieval: ESAIR\" 12",
+   "authors": "J Kamps, J Karlgren, P Mika, V Murdock",
+   "venue": "CIKM, 2772-2773",
+   "year": "2012"
+  },
+  {
+   "title": "Between bags and trees–constructional patterns in text used for attitude identification",
+   "authors": "J Karlgren, G Eriksson, M Sahlgren, O Täckström",
+   "venue": "European Conference on Information Retrieval, 38-49",
+   "year": "2010"
+  },
+  {
+   "title": "Mumbling-User-Driven Cooperative Interaction",
+   "authors": "J Karlgren",
+   "venue": "SICS Research Report",
+   "year": "1994"
+  },
+  {
+   "title": "Adopting systematic evaluation benchmarks in operational settings",
+   "authors": "J Karlgren",
+   "venue": "Information Retrieval Evaluation in a Changing World: Lessons Learned from …",
+   "year": "2019"
+  },
+  {
+   "title": "Dead man tweeting",
+   "authors": "D Nilsson, M Sahlgren, J Karlgren",
+   "venue": "Workshop on Collecting and Generating Resources for Chatbots and …",
+   "year": "2016"
+  },
+  {
+   "title": "Language technology for egovernment–business cases",
+   "authors": "M Henkel, E Perjons, E Sneiders, J Karlgren, J Boye, A Thelemyr",
+   "venue": "New Perspectives in Information Systems and Technologies, Volume 1, 83-95",
+   "year": "2014"
+  },
+  {
+   "title": "New measures to investigate term typology by distributional data",
+   "authors": "J Karlgren",
+   "venue": "Proceedings of the 19th Nordic Conference of Computational Linguistics …",
+   "year": "2013"
+  },
+  {
+   "title": "Use cases as a component of information access evaluation",
+   "authors": "J Karlgren, A Järvelin, G Eriksson, P Hansen",
+   "venue": "Proceedings of the 2011 workshop on Data infrastructurEs for supporting …",
+   "year": "2011"
+  },
+  {
+   "title": "A PROMISE for experimental evaluation",
+   "authors": "M Braschler, K Choukri, N Ferro, A Hanbury, J Karlgren, H Müller, ...",
+   "venue": "International Conference of the Cross-Language Evaluation Forum for European …",
+   "year": "2010"
+  },
+  {
+   "title": "Proceedings of the 16th International Symposium on String Processing and Information Retrieval",
+   "authors": "J Karlgren, J Tarhio, H Hyyrö",
+   "venue": "Springer-Verlag",
+   "year": "2009"
+  },
+  {
+   "title": "Trusting the results in cross-lingual keyword-based image retrieval",
+   "authors": "J Karlgren, F Olsson",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 217-222",
+   "year": "2006"
+  },
+  {
+   "title": "Using surface syntax in interactive interfaces",
+   "authors": "I Bretan, N Frost, J Karlgren",
+   "venue": "10th Nordic Conference of Computational Linguistics",
+   "year": "1995"
+  },
+  {
+   "title": "Inferring complex plans",
+   "authors": "K Höök, J Karlgren, A Waern",
+   "venue": "Proceedings of the 1st international conference on Intelligent user …",
+   "year": "1993"
+  },
+  {
+   "title": "Culture, language, and generative language models",
+   "authors": "J Karlgren, M Sahlgren",
+   "venue": "Communications of the ACM 68 (11), 31-33",
+   "year": "2025"
+  },
+  {
+   "title": "Overview and joint report of the robustness and consistency task at the ELOQUENT 2025 lab for evaluating generative language model quality",
+   "authors": "J Karlgren, MI Engels, M Barrett, RR Gunti, M Hoveyda, BN Sotic, ...",
+   "venue": "Working Notes of CLEF",
+   "year": "2025"
+  },
+  {
+   "title": "ELOQUENT 2024-topical quiz task",
+   "authors": "J Karlgren, A Talman",
+   "venue": "Conference and Labs of the Evaluation Forum, 687-690",
+   "year": "2024"
+  },
+  {
+   "title": "The challenges of language variation in information access",
+   "authors": "J Karlgren, T Hedlund, K Järvelin, H Keskustalo, K Kettunen",
+   "venue": "Information Retrieval Evaluation in a Changing World: Lessons Learned from …",
+   "year": "2019"
+  },
+  {
+   "title": "Authorship Profiling Without Using Topical Information: Notebook for PAN at CLEF 2018.",
+   "authors": "J Karlgren, L Esposito, C Gratton, P Kanerva",
+   "venue": "CLEF (Working Notes)",
+   "year": "2018"
+  },
+  {
+   "title": "Evaluating learning language representations",
+   "authors": "J Karlgren, J Callin, K Collins-Thompson, AC Gyllensten, A Ekgren, ...",
+   "venue": "International Conference of the Cross-Language Evaluation Forum for European …",
+   "year": "2015"
+  },
+  {
+   "title": "A use case framework for information access evaluation",
+   "authors": "P Hansen, A Järvelin, G Eriksson, J Karlgren",
+   "venue": "Professional Search in the Modern World: COST Action IC1002 on Multilingual …",
+   "year": "2014"
+  },
+  {
+   "title": "Report on the workshop on search and exploration of x-rated information (SEXI 2013)",
+   "authors": "V Murdock, CLA Clarke, J Kamps, J Karlgren",
+   "venue": "Acm Sigir Forum 47 (1), 31-37",
+   "year": "2012"
+  },
+  {
+   "title": "The relation between author mood and affect to sentiment in text and text genre",
+   "authors": "J Karlgren",
+   "venue": "Proceedings of the fourth workshop on Exploiting semantic annotations in …",
+   "year": "2011"
+  },
+  {
+   "title": "Report on the third workshop on exploiting semantic annotations in information retrieval (ESAIR)",
+   "authors": "J Kamps, J Karlgren, R Schenkel",
+   "venue": "ACM SIGIR Forum 45 (1), 33-41",
+   "year": "2011"
+  },
+  {
+   "title": "Creating bilingual lexica using reference wordlists for alignment of monolingual semantic vector spaces",
+   "authors": "J Holmlund, M Sahlgren, J Karlgren",
+   "venue": "Proceedings of the 15th Nordic Conference of Computational Linguistics …",
+   "year": "2006"
+  },
+  {
+   "title": "Where attitudinal expressions get their attitude",
+   "authors": "J Karlgren, G Eriksson, K Franzén",
+   "venue": "Computing Attitude and Affect in Text: Theory and Applications, 23-31",
+   "year": "2006"
+  },
+  {
+   "title": "Meaningful models for information access systems",
+   "authors": "J Karlgren",
+   "venue": "CSLI Publications",
+   "year": "2005"
+  },
+  {
+   "title": "Dynamic lexica for query translation",
+   "authors": "J Karlgren, M Sahlgren, T Järvinen, R Cöster",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 150-155",
+   "year": "2004"
+  },
+  {
+   "title": "Cross-lingual document retrieval categorisation and navigation based on distributed services",
+   "authors": "G Demetriou, I Skadina, H Keskustalo, J Karlgren, D Deksne, D Petrelli, ...",
+   "venue": "Proceedings of the First Baltic Conference",
+   "year": "2004"
+  },
+  {
+   "title": "Abstrakta maskiner och formella språk",
+   "authors": "M Boman",
+   "venue": "Studentlitteratur AB",
+   "year": "1996"
+  },
+  {
+   "title": "The CLEF 2024 monster track: One lab to rule them all",
+   "authors": "N Ferro, J Gonzalo, J Karlgren, H Müller",
+   "venue": "European Conference on Information Retrieval, 11-18",
+   "year": "2024"
+  },
+  {
+   "title": "Team Harry Friberg at SemEval-2019 Task 4: identifying hyperpartisan news through editorially defined metatopics",
+   "authors": "N Afsarmanesh, J Karlgren, P Sumbler, N Viereckel",
+   "venue": "Proceedings of the 13th International Workshop on Semantic Evaluation, 1004-1006",
+   "year": "2019"
+  },
+  {
+   "title": "Uppsala University and Gavagai at CLEF Erisk: Comparing word embedding models",
+   "authors": "E Fano, J Karlgren, J Nivre",
+   "venue": "20th Working Notes of CLEF Conference and Labs of the Evaluation Forum, CLEF …",
+   "year": "2019"
+  },
+  {
+   "title": "Handling Noise in Distributional Semantic Models for Large Scale Text Analytics and Media Monitoring",
+   "authors": "P Sumbler, N Viereckel, N Afsarmanesh, J Karlgren",
+   "venue": "Proceedings of the Abstract in the Fourth Workshop on Noisy User—Generated …",
+   "year": "2018"
+  },
+  {
+   "title": "Report on the Seventh Workshop on Exploiting Semantic Annotations in Information Retrieval (ESAIR'14)",
+   "authors": "O Alonso, J Kamps, J Karlgren",
+   "venue": "ACM SIGIR Forum 49 (1), 27-34",
+   "year": "2015"
+  },
+  {
+   "title": "A text mining approach as baseline for QA4MRE'12",
+   "authors": "M Verbeke, J Davis, P Forner, J Karlgren, C Womser-Hacker",
+   "venue": "CLEF 2012 Evaluation Labs and Workshop, Online Working Notes, Rome, Italy …",
+   "year": "2012"
+  },
+  {
+   "title": "Overview of the 4th international competition on plagiarism detection",
+   "authors": "P Forner, J Karlgren, C Womser-hacker, M Potthast, T Gollub, M Hagen, ...",
+   "venue": "Notebook Papers of CLEF",
+   "year": "2012"
+  },
+  {
+   "title": "Creating re-useable log files for interactive CLIR",
+   "authors": "P Clough, J Gonzalo, J Karlgren",
+   "venue": "Azzopardi et al.[3], 19-20",
+   "year": "2010"
+  },
+  {
+   "title": "Cross-lingual comparison between distributionally determined word similarity networks",
+   "authors": "O Görnerup, J Karlgren",
+   "venue": "Proceedings of TextGraphs-5-2010 Workshop on Graph-based Methods for Natural …",
+   "year": "2010"
+  },
+  {
+   "title": "CIKM'10: Proceedings of the 19th International Conference on Information & Knowledge Management and Co-located Workshops, October 26-30, 2010 Toronto, Ontario, Canada",
+   "authors": "XJ Huang, G Jones, N Koudas, K Collins-Thompson, J Kamps, J Karlgren, ...",
+   "venue": "ACM",
+   "year": "2010"
+  },
+  {
+   "title": "CHORUS deliverable 2.1: State of the art on multimedia search engines",
+   "authors": "N Boujemaa, R Compañó, C Dosch, J Geurts, Y Kompatsiaris, J Karlgren, ...",
+   "venue": "Chorus Project Consortium",
+   "year": "2007"
+  },
+  {
+   "title": "Worlds Without Words",
+   "authors": "I Bretan, J Karlgren",
+   "venue": "ERCIM workshop on Distributed Interactive Virtual Environments, 211-216",
+   "year": "1994"
+  },
+  {
+   "title": "How lexical gold standards have effects on the usefulness of text analysis tools for digital scholarship",
+   "authors": "J Karlgren",
+   "venue": "International Conference of the Cross-Language Evaluation Forum for European …",
+   "year": "2019"
+  },
+  {
+   "title": "Plausibility testing for lexical resources",
+   "authors": "M Parks, J Karlgren, S Stymne",
+   "venue": "International Conference of the Cross-Language Evaluation Forum for European …",
+   "year": "2017"
+  },
+  {
+   "title": "Practical issues in information access system evaluation",
+   "authors": "E Kanoulas, J Karlgren",
+   "venue": "ACM SIGIR Forum 51 (1), 67-72",
+   "year": "2017"
+  },
+  {
+   "title": "A proposal to use distributional models to analyse dolphin vocalisation",
+   "authors": "M Amundin, R Eklund, H Hållsten, J Karlgren, L Molinder",
+   "venue": "the 1st International Workshop on Vocal Interactivity in-and-between Humans …",
+   "year": "2017"
+  },
+  {
+   "title": "Second Workshop on Search and Exploration of X-Rated Information (SEXI'16) WSDM Workshop Summary",
+   "authors": "V Murdock, CLA Clarke, J Kamps, J Karlgren",
+   "venue": "Proceedings of the Ninth ACM International Conference on Web Search and Data …",
+   "year": "2016"
+  },
+  {
+   "title": "PROMISE technology transfer day: spreading the word on information access evaluation at an industrial event",
+   "authors": "P Forner, L Bentivogli, M Braschler, K Choukri, N Ferro, A Hanbury, ...",
+   "venue": "ACM SIGIR Forum 47 (1), 53-58",
+   "year": "2012"
+  },
+  {
+   "title": "Interactive image retrieval",
+   "authors": "J Karlgren, J Gonzalo",
+   "venue": "ImageCLEF: Experimental Evaluation in Visual Information Retrieval, 117-139",
+   "year": "2010"
+  },
+  {
+   "title": "Affect, appeal, and sentiment as factors influencing interaction with multimedia information",
+   "authors": "J Karlgren",
+   "venue": "Theseus/ImageCLEF workshop on visual information retrieval evaluation, 29 …",
+   "year": "2009"
+  },
+  {
+   "title": "SICS at iCLEF 2008: User confidence and satisfaction tentatively inferred from iCLEF logs",
+   "authors": "J Karlgren",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 260-261",
+   "year": "2008"
+  },
+  {
+   "title": "Sics at ntcir-7 moat: constructions represented in parallel with lexical items",
+   "authors": "J Karlgren, G Eriksson, O Täckström",
+   "venue": "The 7th NTCIR Workshop (2007/2008)-Evaluation of Information Access Technologies",
+   "year": "2008"
+  },
+  {
+   "title": "A Web Services Architecture for Distributed Cross-Language Information Retrieval",
+   "authors": "G Demetriou, H Keskustalo, B Sepponen, P Herring, K Franzén, ...",
+   "venue": "Submitted to Journal of Natural Language Engineering",
+   "year": "2003"
+  },
+  {
+   "title": "Foreground and background text in retrieval",
+   "authors": "J Karlgren, T Järvinen",
+   "venue": "AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World …",
+   "year": "2002"
+  },
+  {
+   "title": "Information Access and Refinement-a Research Theme",
+   "authors": "F Olsson, P Hansen, K Franzén, J Karlgren",
+   "venue": "Ercim News",
+   "year": "2001"
+  },
+  {
+   "title": "Moving Usability Testing Onto the Web.",
+   "authors": "M Svensson, A Johansson, AL Ereback, K Höök, J Karlgren, I Bretan",
+   "venue": "WebNet",
+   "year": "1998"
+  },
+  {
+   "title": "Genres defined for a purpose, fast clustering, and an iterative information retrieval interface",
+   "authors": "J Kalgren, D Cutting",
+   "venue": "Eighth DELOS Workshop on User Interfaces in Digital Libraries",
+   "year": "1998"
+  },
+  {
+   "title": "Designing interactive IR combining adaption to user tasks and strategies with non-topic document analysis",
+   "authors": "P Hansen, J Karlgren",
+   "venue": "First DELOS Workshop. An overview on projects and research activities in …",
+   "year": "1996"
+  },
+  {
+   "title": "Assessed relevance and stylistic variation",
+   "authors": "J Karlgren",
+   "venue": "19th Annual International ACM SIGIR Conference on Research and Development …",
+   "year": "1996"
+  },
+  {
+   "title": "Achieving virtual presence with a semi-autonomous robot through a multi-reality and speech control interface",
+   "authors": "KT Simsarian, I Bretan, N Frost, J Karlgren, E Frécon, L Jonsson, ...",
+   "venue": "Virtual Environments and Scientific Visualization’96: Proceedings of the …",
+   "year": "1996"
+  },
+  {
+   "title": "Transparent natural language interaction through multimodality",
+   "authors": "I Bretan, J Karlgren",
+   "venue": "ERCIM Workshop on Multimodal HCI",
+   "year": "1993"
+  },
+  {
+   "title": "Synergy Effects in Natural Language-Based Multimodal Interaction",
+   "authors": "I Bretan, J Karlgren",
+   "venue": "Proceedings of the Workshop on Multimodal Human-Computer Interaction",
+   "year": "1993"
+  },
+  {
+   "title": "Syntax in information retrieval",
+   "authors": "J Karlgren",
+   "venue": "Proceedings of the 1st Nordic Doctoral Symposium on Computational …",
+   "year": "1993"
+  },
+  {
+   "title": "Are We Wasting Time? A Fast, Accurate Performance Evaluation Framework for Knowledge Graph Link Predictors",
+   "authors": "F Cornell, Y Jin, J Karlgren, S Girdzijauskas",
+   "venue": "2025 IEEE 41st International Conference on Data Engineering (ICDE), 1650-1663",
+   "year": "2025"
+  },
+  {
+   "title": "Comparing human and machine translations of generative language model evaluation datasets",
+   "authors": "SB de Vroe, G Stampoulidis, K Hakala, A Rouhe, M van Heeswijk, ...",
+   "venue": "Proceedings of the Joint 25th Nordic Conference on Computational Linguistics …",
+   "year": "2025"
+  },
+  {
+   "title": "Energy for the Future: Evaluating different electricity-generation technologies against selected performance characteristics and stakeholder preferences: Insights from the case …",
+   "authors": "N Komendantova, L Ekenberg, L Marashdeh, A Al-Salaymeh, ...",
+   "venue": "Bonn International Center for Conversion GmbH",
+   "year": "2018"
+  },
+  {
+   "title": "Complex Aspects of Seemingly Simple Information Needs",
+   "authors": "J Karlgren",
+   "venue": "CHIIR 2017 Second Workshop on Supporting Complex Search Tasks (SCST 2017), 6",
+   "year": "2017"
+  },
+  {
+   "title": "Evaluating Categorisation in Real Life–an argument against simple but impractical metrics",
+   "authors": "V Karlsson, P Herman, J Karlgren",
+   "venue": "International Conference of the Cross-Language Evaluation Forum for European …",
+   "year": "2016"
+  },
+  {
+   "title": "Semantic space models for profiling reputation of corporate entities notebook for RepLab at CLEF 2013",
+   "authors": "J Karlgren, L Ericsson",
+   "venue": "Proceedings of CLEF 2013: Conference on Multilingual and Multimodal …",
+   "year": "2013"
+  },
+  {
+   "title": "CLEF 2012: information access evaluation meets multilinguality, multimodality, and visual analytics",
+   "authors": "T Catarci, N Ferro, P Forner, D Hiemstra, J Karlgren, A Penas, G Santucci, ...",
+   "venue": "ACM SIGIR Forum 46 (2), 29-33",
+   "year": "2012"
+  },
+  {
+   "title": "Report on the fifth workshop on exploiting semantic annotations in information retrieval (ESAIR'12)",
+   "authors": "J Kamps, J Karlgren, P Mika, V Murdock",
+   "venue": "ACM SIGIR Forum 47 (1), 38-45",
+   "year": "2012"
+  },
+  {
+   "title": "Technical requirements for knowledge representation for attitude mining on a realistic scale",
+   "authors": "F Olsson, J Karlgren, M Sahlgren, F Espinoza, O Hamfors",
+   "venue": "Workshop on Reputation Management in Social Media at LREC’12",
+   "year": "2012"
+  },
+  {
+   "title": "The use case perspective for single query information access",
+   "authors": "J Karlgren",
+   "venue": "entertain me, 1",
+   "year": "2011"
+  },
+  {
+   "title": "The CHORUS Gap Analysis on User-centered Methodology for Design and Evaluation of Multi-media Information Access Systems.",
+   "authors": "J Karlgren",
+   "venue": "EVIA@ NTCIR",
+   "year": "2008"
+  },
+  {
+   "title": "CHORUS deliverable 2.2: Second report-identification of multi-disciplinary key issues for gap analysis toward eu multimedia search engines roadmap",
+   "authors": "R Bardeli, N Boujemaa, R Compañó, C Doch, J Geurts, H Gouraud, A Joly, ...",
+   "venue": "Chorus Project Consortium",
+   "year": "2008"
+  },
+  {
+   "title": "Changing the subject; one way of measuring trust in information",
+   "authors": "J Karlgren",
+   "venue": "Workshop on Novel Methodologies for Evaluation in Information Retrieval, 30 …",
+   "year": "2008"
+  },
+  {
+   "title": "New Text-New Conversations in the Media Landscape",
+   "authors": "J Karlgren",
+   "venue": "ERCIM News 66",
+   "year": "2006"
+  },
+  {
+   "title": "Continued experiments on cross-language relevance assessment",
+   "authors": "J Karlgren, P Hansen",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 468-470",
+   "year": "2003"
+  },
+  {
+   "title": "Clustering Sentences–Making Sense of Synonymous Sentences",
+   "authors": "J Karlgren, B Gambäck, C Samuelsson",
+   "venue": "Proceedings of the 9th Nordic Conference of Computational Linguistics …",
+   "year": "1994"
+  },
+  {
+   "title": "Dilemma: a tool for rapid manual translation",
+   "authors": "J Karlgren, H Karlgren, P Pettersson, M Nordstrom, B Wahrolén",
+   "venue": "Conference Companion on Human Factors in Computing Systems, 129-130",
+   "year": "1994"
+  },
+  {
+   "title": "How to create a humane information flow",
+   "authors": "D Pargman, J Karlgren, A Lantz, O Palmgren, K Höök",
+   "venue": "SICS report",
+   "year": "1994"
+  },
+  {
+   "title": "ELOQUENT Lab at CLEF 2026: Evaluation of Generative Language Model Quality",
+   "authors": "J Karlgren, M Barrett, O Bojar, MI Engels, D Fabre, L Goeuriot, J Mothe, ...",
+   "venue": "European Conference on Information Retrieval, 259-266",
+   "year": "2026"
+  },
+  {
+   "title": "Controlling Language and Style of Multi-lingual Generative Language Models with Control Vectors",
+   "authors": "J Leino, J Karlgren",
+   "venue": "Northern European Journal of Language Technology 11, 1-26",
+   "year": "2025"
+  },
+  {
+   "title": "CHIIR Workshop on Audio Collection Human Interaction (AudioCHI 2022) http://speechretrievalworkshop. github. io",
+   "authors": "GJF Jones, M Eskevich, B Carterette, J Correia, R Jones, J Karlgren, ...",
+   "venue": "Proceedings of the 2022 Conference on Human Information Interaction and …",
+   "year": "2022"
+  },
+  {
+   "title": "Hyperdimensional utterance spaces.",
+   "authors": "J Karlgren, P Kanerva",
+   "venue": "DESIRES, 29-35",
+   "year": "2018"
+  },
+  {
+   "title": "The Smart Data Layer.",
+   "authors": "M Sahlgren, E Ylipää, BAT Brown, K Helms, A Lampinen, D McMillan, ...",
+   "venue": "AAAI Spring Symposia",
+   "year": "2018"
+  },
+  {
+   "title": "Semantic Space Models for Profiling Reputation of Corporate Entities.",
+   "authors": "J Karlgren, L Ericsson",
+   "venue": "CLEF (Working Notes)",
+   "year": "2013"
+  },
+  {
+   "title": "Panel presentation",
+   "authors": "G Jones, J Karlgren, K Kreiner, H Müller, S Salanterä",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Overview of the 1st International Competition on Quality Flaw Prediction in Wikipedia",
+   "authors": "P Forner, J Karlgren, C Womser-Hacker",
+   "venue": "CLEF 2012 Evaluation Labs and Workshop",
+   "year": "2012"
+  },
+  {
+   "title": "String Processing and Information Retrieval: 16th International Symposium, SPIRE 2009 Saariselkä, Finland, August 25-27, 2009 Proceedings",
+   "authors": "J Karlgren, J Tarhio, H Hyyrö",
+   "venue": "Springer",
+   "year": "2009"
+  },
+  {
+   "title": "CHORUS deliverable 3.4: Vision document",
+   "authors": "J Karlgren, M Kauber, N Boujemaa, R Compañó, C Dosch, J Geurts, ...",
+   "venue": "Chorus Project Consortium",
+   "year": "2009"
+  },
+  {
+   "title": "FRA-lagen medför massiv kartläggning av oskyldiga",
+   "authors": "K Palmås",
+   "venue": "Dagens Nyheter (DN)",
+   "year": "2008"
+  },
+  {
+   "title": "Experiments to investigate the connection between case distribution and topical relevance of search terms",
+   "authors": "J Karlgren, H Dalianis, B Jongejan",
+   "venue": "8th international conference on Language Resources and Evaluation, LREC'08 …",
+   "year": "2008"
+  },
+  {
+   "title": "CHORUS Deliverable 3.3: Vision Document-Intermediate version",
+   "authors": "R Ortgies, C Dosch, J Nesvadba, A Proidl, H Gouraud, P van der Linden, ...",
+   "venue": "Chorus Project Consortium",
+   "year": "2008"
+  },
+  {
+   "title": "Ett miljöanpassat informationssamhälle 2020 [An Environmentally Sustainable Information Society in year 2020].",
+   "authors": "P Arnfalk, Y Hambreaus-Björling, C Otterskog, K Asp, A Aspegren, ...",
+   "venue": "Näringsdepartementet",
+   "year": "2006"
+  },
+  {
+   "title": "Weighting query terms based on distributional statistics",
+   "authors": "J Karlgren, M Sahlgren, R Cöster",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 208-211",
+   "year": "2005"
+  },
+  {
+   "title": "Principled Query Processing.",
+   "authors": "J Karlgren, M Sahlgren, R Cöster",
+   "venue": "CLEF (Working Notes)",
+   "year": "2005"
+  },
+  {
+   "title": "Reading Between the Lines: Attitudinal expressions in text",
+   "authors": "J Karlgren, G Eriksson, S Mizzaro, P Clough, M Sanderson, K Franzén, ...",
+   "venue": "American Association for Artificial Intelligence. Available at: https://api …",
+   "year": "2004"
+  },
+  {
+   "title": "Open research questions for linguistics in information access",
+   "authors": "J Karlgren",
+   "venue": "Lecture notes in computer science 2705, 182-192",
+   "year": "2003"
+  },
+  {
+   "title": "Notes from AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access",
+   "authors": "J Karlgren, B Gambäck, P Kanerva",
+   "venue": "AAAI",
+   "year": "2002"
+  },
+  {
+   "title": "Acquiring (and Using) Linguistic (and World) Knowledge for Information Access",
+   "authors": "J Karlgren, B Gambäck, P Kanerva",
+   "venue": "AAAI Press",
+   "year": "2002"
+  },
+  {
+   "title": "expressive messaging on mobile platforms",
+   "authors": "P Persson, J Karlgren, P Korhonen, J Galore, M Tierney, C Redmon, ...",
+   "venue": "Swedish Institute of Computer Science",
+   "year": "2001"
+  },
+  {
+   "title": "Natural language information retrieval: TREC-8 report",
+   "authors": "J Karlgren, T Strzalkowski",
+   "venue": "",
+   "year": "1999"
+  },
+  {
+   "title": "Interaction and Interactivity: User interfaces for Digital Libraries.",
+   "authors": "P Hansen, J Karlgren",
+   "venue": "ERCIM, 9",
+   "year": "1998"
+  },
+  {
+   "title": "Tense prediction for speech recognition purposes",
+   "authors": "J Karlgren",
+   "venue": "KVAL",
+   "year": "1996"
+  },
+  {
+   "title": "Experiments in Stylistic Analysis",
+   "authors": "J Karlgren, T Straszheim",
+   "venue": "TREC-5 working paper. New York: NYU",
+   "year": "1996"
+  },
+  {
+   "title": "Identification of Text Genre and Context—Non-Content Information Retrieval",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "1995"
+  },
+  {
+   "title": "Dilemma-a tool to ensure quality of new translations by using previous ones",
+   "authors": "J Karlgren, H Karlgren, P Pettersson, M Nordström, B Wahrolén",
+   "venue": "Proceedings of the 4th International Conference on Intelligent Multimedia …",
+   "year": "1994"
+  },
+  {
+   "title": "How Users Adapt to Natural Language Interfaces",
+   "authors": "J Karlgren",
+   "venue": "Workshop on Empirical Models and Methods for Natural Language Dialogue …",
+   "year": "1992"
+  },
+  {
+   "title": "GHOSTS-A FILTER FOR INFORMATION STREAMS",
+   "authors": "O Palmgren, J Karlgren, D Pargman",
+   "venue": "submitted as a poster for CHI 94",
+   "year": null
+  },
+  {
+   "title": "tasks for evaluating generative language model quality",
+   "authors": "J Karlgren, M Barrett¹, O Bojar, MI Engels¹",
+   "venue": "Experimental IR Meets Multilinguality, Multimodality, and Interaction: 17th …",
+   "year": "2026"
+  },
+  {
+   "title": "Overview and Joint Report of the Voight-Kampff Task of the ELOQUENT 2026 Lab for Evaluating Generative Language Model Quality: Notebook for the ELOQUENT Lab at CLEF 2026",
+   "authors": "RR Gunti, JMS Dilinika, D Ghanta, D Galat, N VA, R Pakala, ...",
+   "venue": "CLEF 2026 Working Notes",
+   "year": "2026"
+  },
+  {
+   "title": "Influence of parallel data on multilingual representation space of language models",
+   "authors": "J Leino, J Karlgren",
+   "venue": "Helsingin yliopisto",
+   "year": "2025"
+  },
+  {
+   "title": "Systems and methods for generating trailers (summaries) for audio content using a short rolling time window",
+   "authors": "ZHU Xingran, JJ Karlgren, MI TANVEER",
+   "venue": "US Patent 12,327,572",
+   "year": "2025"
+  },
+  {
+   "title": "Systems and methods for detecting non-narrative regions of texts",
+   "authors": "Y Yu, SK Reddy, JJ Karlgren, RE Jones",
+   "venue": "US Patent App. 18/916,472",
+   "year": "2025"
+  },
+  {
+   "title": "Systems and methods for speaker diarization",
+   "authors": "MI TANVEER, DFLC GONZALEZ, JJ Karlgren, RE Jones",
+   "venue": "US Patent 12,198,720",
+   "year": "2025"
+  },
+  {
+   "title": "Overview of the “Voight-Kampff” Generative AI Authorship Verification Task at PAN and ELOQUENT",
+   "authors": "J Bevendorff, Y Wang, J Karlgren, M Wiegmann, M Fröbe, G Faggioli, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Systems and methods for detecting non-narrative regions of texts",
+   "authors": "Y Yu, SK Reddy, JJ Karlgren, RE Jones",
+   "venue": "US Patent 12,124,507",
+   "year": "2024"
+  },
+  {
+   "title": "Unsupervised Ontology-and Taxonomy Construction Through Hyperbolic Relational Domains and Ranges",
+   "authors": "F Cornell, Y Jin, J Karlgren, S Girdzijauskas",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2023"
+  },
+  {
+   "title": "High-dimensional vector spaces can accommodate constructional features quite conveniently",
+   "authors": "J Karlgren",
+   "venue": "Proceedings of the First International Workshop on Construction Grammars and …",
+   "year": "2023"
+  },
+  {
+   "title": "Report on the 1st Workshop on Audio Collection Human Interaction (AudioCHI 2022) at CHIIR 2022",
+   "authors": "GJF Jones, M Eskevich, B Carterette, J Correia, R Jones, J Karlgren, ...",
+   "venue": "ACM SIGIR Forum 56 (1), 1-5",
+   "year": "2023"
+  },
+  {
+   "title": "Symbolic Hyperdimensional Vectors with Sparse Graph Convolutional Neural Networks",
+   "authors": "F Cornell, J Karlgren, Š Girdzijauskas",
+   "venue": "2022 International Joint Conference on Neural Networks (IJCNN), 01-08",
+   "year": "2022"
+  },
+  {
+   "title": "Semantics in High-Dimensional Space: Jussi Karlgren, Pentti Kanerva:[Ressource électronique]",
+   "authors": "J Karlgren, P Kanerva",
+   "venue": "Frontiers in Artificial Intelligence 4 (698809)",
+   "year": "2021"
+  },
+  {
+   "title": "Podcast Metadata and Content: Episode Relevance and Attractiveness in Ad Hoc Search",
+   "authors": "I Soboroff, B Carterette, R Jones, G Jones, M Eskevich, S Reddy, A Clifton, ...",
+   "venue": "Ian Soboroff, Ben Carterette, Rosie Jones, Gareth Jones, Maria Eskevich …",
+   "year": "2021"
+  },
+  {
+   "title": "Regulation of Unpredictable Effects of Decision Making Systems is Non-trivial",
+   "authors": "J Karlgren",
+   "venue": "Scandinavian Stud. L. 65, 127",
+   "year": "2018"
+  },
+  {
+   "title": "Om behoven av transaktions-transparens, informationsbalans och källkritik som morverkarkunskapsnihilism",
+   "authors": "N Wormbs, B Eellend, C Christensen, E Thorslund, I Hadley-Kamptz, ...",
+   "venue": "IT-och Telekomföretagen",
+   "year": "2017"
+  },
+  {
+   "title": "Transaktionsdimman på nätet hotar digitaliseringen",
+   "authors": "J Andersson-Schwarz, C Christensen, B Eellend, I Hadley Kamptz, ...",
+   "venue": "Dagens Nyheter",
+   "year": "2017"
+  },
+  {
+   "title": "Viewpoint and Topic Modeling of Current Events",
+   "authors": "K Zhang, J Karlgren, C Zhang, J Lagergren",
+   "venue": "arXiv preprint arXiv:1608.04089",
+   "year": "2016"
+  },
+  {
+   "title": "En rekommenderad svensk språkteknologisk terminologi",
+   "authors": "V Kann, L Ahrenberg, R Domeij, O Karlsson, J Karlgren, H Nilsson, ...",
+   "venue": "The Sixth Swedish Language Technology Conference (SLTC 2016)",
+   "year": "2016"
+  },
+  {
+   "title": "Seventh Workshop on Exploiting Semantic Annotations in Information Retrieval (ESAIR'14) CIKM 2014 Workshop",
+   "authors": "O Alonso, J Kamps, J Karlgren",
+   "venue": "Proceedings of the 23rd ACM International Conference on Conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Sixth workshop on exploiting semantic annotations in information retrieval (ESAIR'13)",
+   "authors": "PN Bennett, E Gabrilovich, J Kamps, J Karlgren",
+   "venue": "Proceedings of the 22nd ACM international conference on Information …",
+   "year": "2013"
+  },
+  {
+   "title": "Current Research on Search and Exploration of X-Rated Information",
+   "authors": "VMCLA Clarke, J Kamps, J Karlgren",
+   "venue": "Vanessa Murdock, Charles LA Clarke, Jaap, 7",
+   "year": "2013"
+  },
+  {
+   "title": "Utfästelser räcker inte",
+   "authors": "A Andersdotter, M Bylund, M Ferm, P Fältström, K Häglund, J Jardenberg, ...",
+   "venue": "Dagens nyheter (DN debatt)",
+   "year": "2013"
+  },
+  {
+   "title": "Godtyckligt regelverk hotar friheten på nätet",
+   "authors": "A Andersdotter, M Bylund, M Ferm, K Häglund, J Jardenberg, ...",
+   "venue": "Dagens nyheter (DN debatt)",
+   "year": "2013"
+  },
+  {
+   "title": "Report on the fourth workshop on exploiting semantic annotations in information retrieval (ESAIR'11)",
+   "authors": "O Alonso, J Kamps, J Karlgren",
+   "venue": "ACM SIGIR Forum 46 (1), 56-64",
+   "year": "2012"
+  },
+  {
+   "title": "CLEF 2012",
+   "authors": "T Catarci, N Ferro, P Forner, D Hiemstra, J Karlgren, A Penas, G Santucci, ...",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Introduction to the CLEF 2012 Labs.",
+   "authors": "J Karlgren, C Womser-Hacker",
+   "venue": "CLEF (Online Working Notes/Labs/Workshop)",
+   "year": "2012"
+  },
+  {
+   "title": "Kontrollen av internet bör redovisas öppet",
+   "authors": "N Lundblad, J Jardenberg, N Wormbs, J Karlgren, M Bylund, P Krantz",
+   "venue": "Svenska dagbladet (SvD)",
+   "year": "2012"
+  },
+  {
+   "title": "Fourth workshop on exploiting semantic annotations in information retrieval (ESAIR)",
+   "authors": "O Alonso, J Kamps, J Karlgren",
+   "venue": "Proceedings of the 20th ACM international conference on Information and …",
+   "year": "2011"
+  },
+  {
+   "title": "entertain me",
+   "authors": "NJ Belkin, CLA Clarke, N Gao, J Kamps, J Karlgren",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Experiments to investigate the utility of nearest neighbour metrics based on linguistically informed features for detecting textual plagiarism",
+   "authors": "P Almquist, J Karlgren",
+   "venue": "Proceedings of the 18th Nordic Conference of Computational Linguistics …",
+   "year": "2011"
+  },
+  {
+   "title": "Initial specification of the evaluation tasks\" Use cases to bridge validation and benchmarking\" PROMISE Deliverable 2.1",
+   "authors": "J Karlgren, G Eriksson, M Friesek, M Gäde, P Hansen, A Järvelin, M Lupu, ...",
+   "venue": "PROMISE Network of Excellence",
+   "year": "2011"
+  },
+  {
+   "title": "First Report on Alternative Evaluation Methodology PROMISE Deliverable 4.1",
+   "authors": "R Berendsen, GM Di Nunzio, M Gäde, J Karlgren, M Lupu, S Rietberger, ...",
+   "venue": "PROMISE project",
+   "year": "2011"
+  },
+  {
+   "title": "Third workshop on exploiting semantic annotations in information retrieval (ESAIR) CIKM 2010 workshop",
+   "authors": "J Kamps, J Karlgren, R Schenkel",
+   "venue": "Proceedings of the 19th ACM international conference on Information and …",
+   "year": "2010"
+  },
+  {
+   "title": "Plagiarism detection: experiments to investigate the utility of linguistically informed features in detecting textual plagiarism",
+   "authors": "P Almquist, S Dahl, J Karlgren, M Sahlgren",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Word spaces as input to categorisation of attitude",
+   "authors": "J Karlgren",
+   "venue": "The 8th NTCIR Workshop Meeting on Evaluation of Information Access …",
+   "year": "2010"
+  },
+  {
+   "title": "ESAIR'10: Third Workshop on Exploiting Semantic Annotations in Information Retrieval",
+   "authors": "K Kamps, J Karlgren, R Schenkel",
+   "venue": "Third Workshop on Exploiting Semantic Annotations in Information Retrieval",
+   "year": "2010"
+  },
+  {
+   "title": "Third workshop on exploiting semantic annotations in information retrieval (ESAIR)",
+   "authors": "J Kamps, J Karlgren, R Schenkel",
+   "venue": "19th ACM International Conference on Information and Knowledge Management …",
+   "year": "2010"
+  },
+  {
+   "title": "SIGIR 2009 workshop program overview",
+   "authors": "D Kelly",
+   "venue": "ACM SIGIR Forum 43 (2), 10-12",
+   "year": "2009"
+  },
+  {
+   "title": "Constructions represented in parallel with structural and lexical items for identifying presence of attitude robustly across domains in text",
+   "authors": "J Karlgren, G Eriksson, M Sahlgren, O Täckström",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "CHORUS Deliverable 4.5: Report of the 3rd CHORUS Conference",
+   "authors": "J Karlgren, M Kauber, J Geurts, N Boujemaa, N Sebe, R Ortgies, C Dosch, ...",
+   "venue": "Chorus Project Consortium",
+   "year": "2009"
+  },
+  {
+   "title": "Studying collaboration and annotation as factors in achieving trust in electronic documents",
+   "authors": "J Karlgren, D Franzén, Å Johnson",
+   "venue": "Swedish Institute of Computer Science",
+   "year": "2009"
+  },
+  {
+   "title": "Texts and Language–Interactivity and Context",
+   "authors": "P Hansen, J Karlgren",
+   "venue": "Swedish Institute of Computer Science",
+   "year": "2009"
+  },
+  {
+   "title": "Integritet och sökteknologi",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Sökteknologi och personlig integritet",
+   "authors": "J Karlgren",
+   "venue": "Norstedts akademiska",
+   "year": "2008"
+  },
+  {
+   "title": "Preface-Evaluation of Multilingual and Multi-modal Information Retrieval",
+   "authors": "C Peters, P Clough, F Gey, J Karlgren, B Magnini, D Oard, M De Rijke, ...",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "T som i text",
+   "authors": "J Karlgren",
+   "venue": "Santérus Förlag",
+   "year": "2007"
+  },
+  {
+   "title": "CHORUS Deliverable 4.3: Report from CHORUS workshops on national initiatives and metadata",
+   "authors": "J Karlgren, Å Rudström, C Dosch, R Ortgies",
+   "venue": "Chorus Project Consortium",
+   "year": "2007"
+  },
+  {
+   "title": "Stylistics for text retrieval in practice: SIGIR 2006 workshop, Seattle, August 10, 2006",
+   "authors": "O Uzuner, S Argamon, J Karlgren",
+   "venue": "ACM SIGIR Forum 40 (2), 49-51",
+   "year": "2006"
+  },
+  {
+   "title": "Dictionary-Based Amharic-French Information",
+   "authors": "AA Argaw, L Asker, R Cöster, J Karlgren, M Sahlgren",
+   "venue": "Accessing Multilingual Information Repositories: 6th Workshop of the Cross …",
+   "year": "2006"
+  },
+  {
+   "title": "SIGIR WORKSHOP REPORTS-Stylistics for Text Retrieval in Practice",
+   "authors": "O Uzuner, S Argamon, J Karlgren",
+   "venue": "SIGIR Forum 40 (2), 49",
+   "year": "2006"
+  },
+  {
+   "title": "Consensus and opinions; quality and churn",
+   "authors": "F Olsson, J Karlgren, P Hansen, M Svensson, R Cöster, M Sahlgren",
+   "venue": "AAAI Spring Symposium on Computational Approaches to Analysing Weblogs, 27 …",
+   "year": "2006"
+  },
+  {
+   "title": "Proceedings of the workshop on New Text: Wikis and blogs and other dynamic text sources",
+   "authors": "J Karlgren",
+   "venue": "European Association of Computational Linguistics",
+   "year": "2006"
+  },
+  {
+   "title": "From boxes and arrows to conversation and negotiation: or how research should be amusing, awful, and artificial",
+   "authors": "J Karlgren",
+   "venue": "Department of Computer and Systems Sciences; Stockholm University and the …",
+   "year": "2006"
+  },
+  {
+   "title": "Future short term goals of research in computational analysis of stylistics in text",
+   "authors": "S Argamon",
+   "venue": "Sigir Forum",
+   "year": "2005"
+  },
+  {
+   "title": "Current Research Questions",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "Density as a Measure of Corpus Homogeneity",
+   "authors": "M Sahlgren, J Karlgren",
+   "venue": "String Processing and Information Retrieval: Proceedings, 151",
+   "year": "2005"
+  },
+  {
+   "title": "Cooperation, bookmarking, and thesaurus in interactive bilingual question answering",
+   "authors": "P Hansen, J Karlgren, M Sahlgren",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 343-347",
+   "year": "2004"
+  },
+  {
+   "title": "Cross-lingual document retrieval categorisation and navigation based on distributed services",
+   "authors": "D Deksne, J Karlgren, I Skadina",
+   "venue": "",
+   "year": "2004"
+  },
+  {
+   "title": "Bookmarking, Thesaurus, and Cooperation in Bilingual Question Answering.",
+   "authors": "J Karlgren, P Hansen, M Sahlgren",
+   "venue": "CLEF (Working Notes)",
+   "year": "2004"
+  },
+  {
+   "title": "Comparing some Swedish and European machine translation efforts",
+   "authors": "B Gambäck, J Karlgren, A Fourla",
+   "venue": "Recent Advances in Scandinavian MT",
+   "year": "2004"
+  },
+  {
+   "title": "Part I-Ad-hoc Text Retrieval Tracks-Monolingual Experiments-Selective Compound Splitting of Swedish Queries for Boolean Combinations of Truncated Terms",
+   "authors": "R Coster, M Sahlgren, J Karlgren",
+   "venue": "Lecture Notes in Computer Science 3237, 337-344",
+   "year": "2004"
+  },
+  {
+   "title": "2002 AAAI Spring Symposium Series",
+   "authors": "J Karlgren, P Kanerva, B Gambäck, KD Forbus, K Tumer, P Stone, ...",
+   "venue": "AI Magazine 23 (4), 101-105",
+   "year": "2002"
+  },
+  {
+   "title": "Part I-System Evaluation Experiments at CLEF 2001-Mainly Cross-Language-Vector-Based Semantic Analysis Using Random Indexing for Cross-Lingual Query Expansion",
+   "authors": "M Sahlgren, J Karlgren",
+   "venue": "Lecture Notes in Computer Science 2406, 169-176",
+   "year": "2002"
+  },
+  {
+   "title": "CLARITY Deliverable 2.2: The effectiveness of stylistic analysis for other languages than English.",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "Symposium Summary—Acquiring (and Using) Linguistic (and World) Knowledge for Information Access",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "User-centred interface design for cross-language information retrieval",
+   "authors": "P Hansen, D Petrelli, J Karlgren, M Beaulieu, M Sanderson",
+   "venue": "Proceedings of the 25th annual international ACM SIGIR conference on …",
+   "year": "2002"
+  },
+  {
+   "title": "Hur kan informationsystem fås att söka på flera språk?",
+   "authors": "J Karlgren",
+   "venue": "Svenska förlaget",
+   "year": "2001"
+  },
+  {
+   "title": "Merging classifiers for improved information retrieval",
+   "authors": "A Hulth, L Asker",
+   "venue": "Proceedings of the 12th Nordic Conference of Computational Linguistics …",
+   "year": "2000"
+  },
+  {
+   "title": "8th DELOS Workshop on User Interfaces in Digital Libraries",
+   "authors": "P Hansen, J Karlgren",
+   "venue": "D-Lib Magazine 5",
+   "year": "1999"
+  },
+  {
+   "title": "Informationsåtkomst på flera språk",
+   "authors": "J Karlgren",
+   "venue": "Språk i Norden Sprog i Norden, 37",
+   "year": "1999"
+  },
+  {
+   "title": "Språkliga aspekter i textsökningssystem-forskningsfrågor ingen arbetar med?",
+   "authors": "J Karlgren",
+   "venue": "12th Nordic Conferenceof Computational Linguistics, 9-19 Dec 1999, Trondheim …",
+   "year": "1999"
+  },
+  {
+   "title": "Merging Weak Knowledge Sources For Categorization",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "1998"
+  },
+  {
+   "title": "Multilingual Information Access White Paper",
+   "authors": "J Klavans, P Schauble, J Carbonell, B Croft, C Fluhr, V Hartzivassiloglon, ...",
+   "venue": "Multilingual Information Access Working group",
+   "year": "1998"
+  },
+  {
+   "title": "Det digitala biblioteket: Del 1, En undersökning av läget inom de svenska universitets-och högskolebibliotekenDel 2, Förstudie-Elektronisk publicering och det digitala biblioteket",
+   "authors": "AK Forsberg, M Wallin, P Hansen, J Karlgren",
+   "venue": "KTH Royal Institute of Technology",
+   "year": "1998"
+  },
+  {
+   "title": "Interactivity and interaction",
+   "authors": "P Hansen, J Karlgren",
+   "venue": "8th DELOS Workshop on\" User Interfaces in Digital Libraries\", 21-23 Oct 1998 …",
+   "year": "1998"
+  },
+  {
+   "title": "Creating a task-specific collaborative information retrieval system",
+   "authors": "A Simaioforidis, J Karlgren, AL Ereback",
+   "venue": "2nd European Conference on Research and Advanced Technology for Digital …",
+   "year": "1998"
+  },
+  {
+   "title": "Iterative Information Retrieval Using Fast Clustering and User-De ned Genres",
+   "authors": "I Bretan, J Dewe, J Karlgren, A Hallberg, N Wolkert",
+   "venue": "",
+   "year": "1997"
+  },
+  {
+   "title": "Natural-Language Parsing in Prolog",
+   "authors": "C Samuelsson, J Karlgren",
+   "venue": "",
+   "year": "1997"
+  },
+  {
+   "title": "Ortography and diglossia {\\Creole kyaan spell",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "1997"
+  },
+  {
+   "title": "Experiments in Query Categorization",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "1996"
+  },
+  {
+   "title": "Multi-Reality and Speech Control Interface",
+   "authors": "J Karlgren, E Frécon, T Axling",
+   "venue": "Virtual Environments and Scientific Visualization’96: Proceedings of the …",
+   "year": "1996"
+  },
+  {
+   "title": "Multimodal Noun Phrase Reference",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "1994"
+  },
+  {
+   "title": "Document Retrieval Based On User Behavior| A Recommendation Algebra",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "1994"
+  },
+  {
+   "title": "Reply to Fraser and Wrigley or definitely not the last word on language varieties",
+   "authors": "J Karlgren",
+   "venue": "Interacting with Computers 6 (1), 109-110",
+   "year": "1994"
+  },
+  {
+   "title": "Spoken Language Translator: First-Year Report",
+   "authors": "J Karlgren, B Gambäck, M Rayner, C Samuelsson",
+   "venue": "Swedish Institute of Computer Science",
+   "year": "1994"
+  },
+  {
+   "title": "Predicting Text Types with Simple Metrics",
+   "authors": "D Cutting, J Karlgren",
+   "venue": "",
+   "year": "1993"
+  },
+  {
+   "title": "A speech to speech translation system built from standard components",
+   "authors": "J Karlgren, P Price, B Lyberg, J Kaja, I Bretan, C Samuelsson, H Alshawi, ...",
+   "venue": "Proceedings of the workshop on Human Language Technology-HLT'93",
+   "year": "1993"
+  },
+  {
+   "title": "A Computer Program for Recognizing Blazons",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": "1988"
+  },
+  {
+   "title": "Faculty of Arts Department of Languages University of Helsinki Information extraction and linguistic characteristics of texts",
+   "authors": "S Huttunen, L Carlson, R Gaizauskas, J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Information Access in a Multilingual World _",
+   "authors": "F Gey, N Kando, J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Towards Systematic Evaluation of Methods, Applications, and Resources for eHealth Document Analysis",
+   "authors": "G Jones, J Karlgren, K Kreiner, H Müller, S Salanterä",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Automatic Query Expansion Using Random Indexing",
+   "authors": "T Järvinen, M Sahlgren, J Karlgren, R Cöster",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Dr. Lars Erik Holmquist",
+   "authors": "LE Holmquist, J Falk, J Wigström, S Björk, J Redström, I Bretan, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Workshop on Novel Methodologies for Evaluation in Information Retrieval",
+   "authors": "P Clough, F de Jong, T Deselaers, N Fuhr, F Gey, D Harman, G Jones, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Anaphor from Text to Picture",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Interesting or Exciting? Stylistic variation of images at a social photo sharing service",
+   "authors": "J Karlgren, R van Zwol, B Sigurbjörnsson",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Gender in Interactive Form Filling",
+   "authors": "J Karlgren, AL Ereback",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Three Reviews",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Studying and tracking effects of social context in an assessment task",
+   "authors": "J Karlgren, F Olsson",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Language in Virtual Worlds",
+   "authors": "I Bretan, N Frost, J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Iterative Information Retrieval Using Fast Clustering and User-Defined Genres",
+   "authors": "I Bretan, J Dewe, A Hallberg, N Wolkert, J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Assessing Relevance of Foreign-Language Texts",
+   "authors": "J Karlgren, P Hansen",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Sökteknologin och den personliga integriteten",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "EXTRACTING INFORMATION FROM SIMPLE USER MODELS| A RECOMMENDATION ALGEBRA",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "These are the changes we set out to make",
+   "authors": "J Karlgren, LE Fahlén, A Wallberg, P Hansson, O Ståhl, J Söderberg, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "DIVERSE—A SPEECH-CONTROLLED VIRTUAL ENVIRONMENT",
+   "authors": "I Bretan, N Frost, L Jonsson, J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Kursplan för fördjupningskurs i informationssökning (Ctl310)",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "S-16428 KISTA",
+   "authors": "KT Simsarian, J Karlgren, LE Fahlmen, N Frost, L Jonsson",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "LLAVES Assessment year deliverable",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Project presentation REPTILE Retrieval, Extraction, Presentation and Translation of Information using Language Engineering",
+   "authors": "K Franzén, J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Graph or Text–focusing on topic across media",
+   "authors": "K Karlgren, J Karlgren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Natural-Language Interpretation in Prolog",
+   "authors": "B Gambäck, J Karlgren, C Samuelsson",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "SICS at CLEF 2002",
+   "authors": "M Sahlgren, J Karlgren, R Cioster, T Jiarvinen",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Attitude is not only lexical",
+   "authors": "J Karlgren, G Eriksson, O Täckström",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Unlocking topicality in text| foreground and background information in written language",
+   "authors": "J Karlgren",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "user": "V5B8dSUAAAAJ",
+ "pubs": [
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2022"
+  },
+  {
+   "title": "STaR: Bootstrapping reasoning with reasoning",
+   "authors": "E Zelikman, Y Wu, J Mu, ND Goodman",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Quiet-STaR: Language models can teach themselves to think before speaking",
+   "authors": "E Zelikman, G Harik, Y Shao, V Jayasiri, N Haber, ND Goodman",
+   "venue": "COLM",
+   "year": "2024"
+  },
+  {
+   "title": "Hypothesis search: Inductive reasoning with language models",
+   "authors": "R Wang, E Zelikman, G Poesia, Y Pu, N Haber, ND Goodman",
+   "venue": "ICLR 2024",
+   "year": "2023"
+  },
+  {
+   "title": "Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation",
+   "authors": "E Zelikman, E Lorch, L Mackey, AT Kalai",
+   "venue": "COLM 2024",
+   "year": "2023"
+  },
+  {
+   "title": "Parsel🐍: Algorithmic Reasoning with Language Models by Composing Decompositions",
+   "authors": "E Zelikman, Q Huang, G Poesia, N Goodman, N Haber",
+   "venue": "Advances in Neural Information Processing Systems 36, 31466-31523",
+   "year": "2023"
+  },
+  {
+   "title": "SkyGPT: Probabilistic Ultra-short-term Solar Forecasting Using Synthetic Sky Images from Physics-constrained VideoGPT",
+   "authors": "Y Nie, E Zelikman, A Scott, Q Paletta, A Brandt",
+   "venue": "Advances in Applied Energy, 100172",
+   "year": "2023"
+  },
+  {
+   "title": "Context Matters for Image Descriptions for Accessibility: Challenges for Referenceless Evaluation Metrics",
+   "authors": "E Kreiss, C Bennett, S Hooshmand, E Zelikman, MR Morris, C Potts",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Certified deductive reasoning with language models",
+   "authors": "G Poesia, K Gandhi, E Zelikman, ND Goodman",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2023"
+  },
+  {
+   "title": "Evaluating the disentanglement of deep generative models through manifold topology",
+   "authors": "S Zhou, E Zelikman, F Lu, AY Ng, G Carlsson, S Ermon",
+   "venue": "ICLR 2021",
+   "year": "2020"
+  },
+  {
+   "title": "Self-supervised alignment with mutual information: Learning to follow principles without preference labels",
+   "authors": "JP Fränken, E Zelikman, R Rafailov, K Gandhi, T Gerstenberg, ...",
+   "venue": "NeurIPS 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency",
+   "authors": "E Zelikman, WA Ma, JE Tran, D Yang, JD Yeatman, N Haber",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Short-Term Solar Irradiance Forecasting Using Calibrated Probabilistic Models",
+   "authors": "E Zelikman, S Zhou, J Irvin, C Raterink, H Sheng, J Kelly, R Rajagopal, ...",
+   "venue": "NeurIPS 2020 Workshop on Tackling Climate Change with Machine Learning",
+   "year": "2020"
+  },
+  {
+   "title": "CRUDE: Calibrating Regression Uncertainty Distributions Empirically",
+   "authors": "E Zelikman, C Healy, S Zhou, A Avati",
+   "venue": "ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning",
+   "year": "2020"
+  },
+  {
+   "title": "Lexinvariant Language Models",
+   "authors": "Q Huang, E Zelikman, SL Chen, Y Wu, G Valiant, P Liang",
+   "venue": "NeurIPS 2023 (Spotlight)",
+   "year": "2023"
+  },
+  {
+   "title": "Grok 4 Model Card",
+   "authors": "xAI",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "ContextRef: Evaluating Referenceless Metrics For Image Description Generation",
+   "authors": "E Kreiss, E Zelikman, C Potts, N Haber",
+   "venue": "ICLR 2024",
+   "year": "2023"
+  },
+  {
+   "title": "Specialized program: Generative adversarial networks (GANS)",
+   "authors": "S Zhou, E Zhou, E Zelikman",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Media content atlas: A pipeline to explore and investigate multidimensional media space using multimodal LLMs",
+   "authors": "M Cerit, E Zelikman, MJ Cho, TN Robinson, B Reeves, N Ram, N Haber",
+   "venue": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors …",
+   "year": "2025"
+  },
+  {
+   "title": "Contextual Salience for Fast and Accurate Sentence Vectors",
+   "authors": "E Zelikman, R Socher",
+   "venue": "arXiv preprint arXiv:1803.08493",
+   "year": "2018"
+  },
+  {
+   "title": "Learning is its Own Reward: Exploring Worlds with Curiosity-driven Spiking Neural Networks",
+   "authors": "E Zelikman",
+   "venue": "Undergraduate Honors Thesis, Stanford University (purl.stanford.edu/pb563ty3328)",
+   "year": "2020"
+  }
+ ]
+}

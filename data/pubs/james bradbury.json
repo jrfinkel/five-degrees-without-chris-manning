@@ -1,0 +1,155 @@
+{
+ "user": "GprA5UsAAAAJ",
+ "pubs": [
+  {
+   "title": "PyTorch: An imperative style, high-performance deep learning library",
+   "authors": "A Paszke, S Gross, F Massa, A Lerer, J Bradbury, G Chanan, T Killeen, ...",
+   "venue": "Advances in Neural Information Processing Systems, 8024-8035",
+   "year": "2019"
+  },
+  {
+   "title": "Gemini: a family of highly capable multimodal models",
+   "authors": "G Team, R Anil, S Borgeaud, Y Wu, JB Alayrac, J Yu, R Soricut, ...",
+   "venue": "arXiv preprint arXiv:2312.11805",
+   "year": "2023"
+  },
+  {
+   "title": "PaLM: Scaling Language Modeling with Pathways",
+   "authors": "A Chowdhery, S Narang, J Devlin, M Bosma, G Mishra, A Roberts, ...",
+   "venue": "arXiv preprint arXiv:2204.02311",
+   "year": "2022"
+  },
+  {
+   "title": "JAX: composable transformations of Python+NumPy programs",
+   "authors": "J Bradbury, R Frostig, P Hawkins, MJ Johnson, C Leary, D Maclaurin, ...",
+   "venue": "https://github.com/google/jax, 18",
+   "year": "2018"
+  },
+  {
+   "title": "Pointer Sentinel Mixture Models",
+   "authors": "S Merity, C Xiong, J Bradbury, R Socher",
+   "venue": "ICLR 2017",
+   "year": "2016"
+  },
+  {
+   "title": "Palm 2 technical report",
+   "authors": "R Anil, AM Dai, O Firat, M Johnson, D Lepikhin, A Passos, S Shakeri, ...",
+   "venue": "arXiv preprint arXiv:2305.10403",
+   "year": "2023"
+  },
+  {
+   "title": "Scaling language models: Methods, analysis & insights from training gopher",
+   "authors": "JW Rae, S Borgeaud, T Cai, K Millican, J Hoffmann, F Song, J Aslanides, ...",
+   "venue": "arXiv preprint arXiv:2112.11446",
+   "year": "2021"
+  },
+  {
+   "title": "Ask me anything: Dynamic memory networks for natural language processing",
+   "authors": "A Kumar, O Irsoy, P Ondruska, M Iyyer, J Bradbury, I Gulrajani, V Zhong, ...",
+   "venue": "ICML 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Learned in Translation: Contextualized Word Vectors",
+   "authors": "B McCann, J Bradbury, C Xiong, R Socher",
+   "venue": "NIPS 2017",
+   "year": "2017"
+  },
+  {
+   "title": "PaLI: A Jointly-Scaled Multilingual Language-Image Model",
+   "authors": "X Chen, X Wang, S Changpinyo, AJ Piergiovanni, P Padlewski, D Salz, ...",
+   "venue": "arXiv preprint arXiv:2209.06794",
+   "year": "2022"
+  },
+  {
+   "title": "Efficiently Scaling Transformer Inference",
+   "authors": "R Pope, S Douglas, A Chowdhery, J Devlin, J Bradbury, A Levskaya, ...",
+   "venue": "MLSys 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Non-Autoregressive Neural Machine Translation",
+   "authors": "J Gu, J Bradbury, C Xiong, VOK Li, R Socher",
+   "venue": "ICLR 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Quasi-Recurrent Neural Networks",
+   "authors": "J Bradbury, S Merity, C Xiong, R Socher",
+   "venue": "ICLR 2017",
+   "year": "2016"
+  },
+  {
+   "title": "OpenSpiel: A framework for reinforcement learning in games",
+   "authors": "M Lanctot, E Lockhart, JB Lespiau, V Zambaldi, S Upadhyay, J Pérolat, ...",
+   "venue": "arXiv preprint arXiv:1908.09453",
+   "year": "2019"
+  },
+  {
+   "title": "Scaling Up Models and Data with  and",
+   "authors": "A Roberts, HW Chung, A Levskaya, G Mishra, J Bradbury, D Andor, ...",
+   "venue": "arXiv preprint arXiv:2203.17189",
+   "year": "2022"
+  },
+  {
+   "title": "Velo: Training versatile learned optimizers by scaling up",
+   "authors": "L Metz, J Harrison, CD Freeman, A Merchant, L Beyer, J Bradbury, ...",
+   "venue": "arXiv preprint arXiv:2211.09760",
+   "year": "2022"
+  },
+  {
+   "title": "On Machine Learning and Programming Languages",
+   "authors": "M Innes, S Karpinski, V Shah, D Barber, P Stenetorp, T Besard, ...",
+   "venue": "SysML 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Exploring the limits of Concurrency in ML Training on Google TPUs",
+   "authors": "S Kumar, Y Wang, C Young, J Bradbury, N Kumar, D Chen, A Swing",
+   "venue": "MLSys 2021",
+   "year": "2021"
+  },
+  {
+   "title": "A High-Quality Multilingual Dataset for Structured Documentation Translation",
+   "authors": "K Hashimoto, R Buschiazzo, J Bradbury, T Marshall, R Socher, C Xiong",
+   "venue": "Proceedings of the Fourth Conference on Machine Translation (Volume 1 …",
+   "year": "2019"
+  },
+  {
+   "title": "Block-diagonal Hessian-free Optimization for Training Neural Networks",
+   "authors": "H Zhang, C Xiong, J Bradbury, R Socher",
+   "venue": "arXiv preprint arXiv:1712.07296",
+   "year": "2017"
+  },
+  {
+   "title": "A Flexible Approach to Automated RNN Architecture Generation",
+   "authors": "M Schrimpf, S Merity, J Bradbury, R Socher",
+   "venue": "ICLR Workshop 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Scalable Language Modeling: WikiText-103 on a Single GPU in 12 hours",
+   "authors": "S Merity, NS Keskar, J Bradbury, R Socher",
+   "venue": "SysML 2018",
+   "year": "2018"
+  },
+  {
+   "title": "MetaMind Neural Machine Translation System for WMT 2016",
+   "authors": "J Bradbury, R Socher",
+   "venue": "WMT 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Towards Neural Machine Translation with Latent Tree Attention",
+   "authors": "J Bradbury, R Socher",
+   "venue": "SPNLP 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Automatic Batching as a Compiler Pass in PyTorch",
+   "authors": "J Bradbury, C Fu",
+   "venue": "Workshop on Systems for ML",
+   "year": "2018"
+  }
+ ]
+}

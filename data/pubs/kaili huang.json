@@ -1,0 +1,59 @@
+{
+ "user": "OgXCn2UAAAAJ",
+ "pubs": [
+  {
+   "title": "A large-scale chinese short-text conversation dataset",
+   "authors": "Y Wang, P Ke, Y Zheng, K Huang, Y Jiang, X Zhu, M Huang",
+   "venue": "CCF International Conference on Natural Language Processing and Chinese …",
+   "year": "2020"
+  },
+  {
+   "title": "Crosswoz: A large-scale chinese cross-domain task-oriented dialogue dataset",
+   "authors": "Q Zhu, K Huang, Z Zhang, X Zhu, M Huang",
+   "venue": "Transactions of the Association for Computational Linguistics 8, 281-295",
+   "year": "2020"
+  },
+  {
+   "title": "KdConv: A Chinese multi-domain dialogue dataset towards multi-turn knowledge-driven conversation",
+   "authors": "H Zhou, C Zheng, K Huang, M Huang, X Zhu",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Overview of the ninth dialog system technology challenge: Dstc9",
+   "authors": "C Gunasekara, S Kim, LF D'haro, A Rastogi, YN Chen, M Eric, ...",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 32, 4066-4076",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-domain task-oriented dialog challenge ii at dstc9",
+   "authors": "J Li, Q Zhu, L Luo, L Liden, K Huang, S Shayandeh, R Liang, B Peng, ...",
+   "venue": "AAAI-2021 Dialog System Technology Challenge 9 Workshop",
+   "year": "2021"
+  },
+  {
+   "title": "ColBERT-serve: Efficient Multi-Stage Memory-Mapped Scoring",
+   "authors": "K Huang, T Venkatesh, U Dingankar, A Mallia, D Campos, J Jiao, C Potts, ...",
+   "venue": "European Conference on Information Retrieval, 21-30",
+   "year": "2025"
+  },
+  {
+   "title": "DeepThink: Aligning Language Models with Domain-Specific User Intents",
+   "authors": "Y Li, M Luo, Y Gong, C Lin, J Jiao, Y Liu, K Huang",
+   "venue": "arXiv preprint arXiv:2502.05497",
+   "year": "2025"
+  },
+  {
+   "title": "Investigating effect of dialogue history in multilingual task oriented dialogue systems",
+   "authors": "M Sun, K Huang, M Moradshahi",
+   "venue": "arXiv preprint arXiv:2112.12318",
+   "year": "2021"
+  },
+  {
+   "title": "Engineering the Best In-Context Input for GPT-3 in the OpenQA Task",
+   "authors": "K Huang, G Sullan, O Ebhomielen",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

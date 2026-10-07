@@ -1,0 +1,335 @@
+{
+ "user": "DU58eCoAAAAJ",
+ "pubs": [
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Universal Dependencies v2: An Evergrowing Multilingual Treebank Collection",
+   "authors": "J Nivre, MC de Marneffe, F Ginter, J Hajič, CD Manning, S Pyysalo, ...",
+   "venue": "Proceedings of the Twelfth International Conference on Language Resources …",
+   "year": "2020"
+  },
+  {
+   "title": "CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies",
+   "authors": "D Zeman, and others",
+   "venue": "Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw …",
+   "year": "2017"
+  },
+  {
+   "title": "Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval",
+   "authors": "S Schuster, R Krishna, A Chang, L Fei-Fei, CD Manning",
+   "venue": "Proceedings of the Fourth Workshop on Vision and Language, 70-80",
+   "year": "2015"
+  },
+  {
+   "title": "Cross-Lingual Transfer Learning for Multilingual Task Oriented Dialog",
+   "authors": "S Schuster, S Gupta, R Shah, M Lewis",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Enhanced English Universal Dependencies: An Improved Representation for Natural Language Understanding Tasks",
+   "authors": "S Schuster, CD Manning",
+   "venue": "Tenth International Conference on Language Resources and Evaluation (LREC 2016)",
+   "year": "2016"
+  },
+  {
+   "title": "Universal Dependencies 2.0",
+   "authors": "J Nivre, et al.",
+   "venue": "https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1983",
+   "year": "2017"
+  },
+  {
+   "title": "Entity tracking in language models",
+   "authors": "N Kim, S Schuster",
+   "venue": "Association for Computational Linguistics (ACL 2023)",
+   "year": "2023"
+  },
+  {
+   "title": "Human effort and machine learnability in computer aided translation",
+   "authors": "S Green, SI Wang, J Chuang, J Heer, S Schuster, CD Manning",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "I know what you're probably going to say: Listener adaptation to variable use of uncertainty expressions",
+   "authors": "S Schuster, J Degen",
+   "venue": "Cognition 203",
+   "year": "2020"
+  },
+  {
+   "title": "Coloring the blank slate: Pre-training imparts a hierarchical inductive bias to sequence-to-sequence models",
+   "authors": "A Mueller, R Frank, T Linzen, L Wang, S Schuster",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 1352-1368",
+   "year": "2022"
+  },
+  {
+   "title": "Scope ambiguities in large language models",
+   "authors": "G Kamath, S Schuster, S Vajjala, S Reddy",
+   "venue": "Transactions of the Association for Computational Linguistics 12, 738-754",
+   "year": "2024"
+  },
+  {
+   "title": "Harnessing the linguistic signal to predict scalar inferences",
+   "authors": "S Schuster, Y Chen, J Degen",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "NOPE: A corpus of naturally-occurring presuppositions in English",
+   "authors": "A Parrish, S Schuster, A Warstadt, O Agha, SH Lee, Z Zhao, SR Bowman, ...",
+   "venue": "Proceedings of the 25th conference on computational natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "HEATSTER: a database and web server for identification and classification of heat stress transcription factors in plants",
+   "authors": "J Berz, S Simm, S Schuster, KD Scharf, E Schleiff, I Ebersberger",
+   "venue": "Bioinformatics and biology insights 13, 1177932218821365",
+   "year": "2019"
+  },
+  {
+   "title": "When a sentence does not introduce a discourse entity, Transformer-based models still sometimes refer to it",
+   "authors": "S Schuster, T Linzen",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Expectations over unspoken alternatives predict pragmatic inferences",
+   "authors": "J Hu, R Levy, J Degen, S Schuster",
+   "venue": "Transactions of the Association for Computational Linguistics 11",
+   "year": "2023"
+  },
+  {
+   "title": "Enhancing universal dependency treebanks: A case study",
+   "authors": "J Nivre, P Marongiu, F Ginter, J Kanerva, S Montemagni, S Schuster, ...",
+   "venue": "Proceedings of the Second Workshop on Universal Dependencies (UDW 2018), 102-107",
+   "year": "2018"
+  },
+  {
+   "title": "Sentences with Gapping: Parsing and Reconstructing Elided Predicates",
+   "authors": "S Schuster, J Nivre, CD Manning",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Code pretraining improves entity tracking abilities of language models",
+   "authors": "N Kim, S Schuster, S Toshniwal",
+   "venue": "arXiv preprint arXiv:2405.21068",
+   "year": "2024"
+  },
+  {
+   "title": "Predicting scalar diversity with context-driven uncertainty over alternatives",
+   "authors": "J Hu, R Levy, S Schuster",
+   "venue": "Proceedings of the workshop on cognitive modeling and computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Gapping Constructions in Universal Dependencies v2",
+   "authors": "S Schuster, M Lamm, CD Manning",
+   "venue": "NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017), 123-132",
+   "year": "2017"
+  },
+  {
+   "title": "Paris and Stanford at EPE 2017: Downstream Evaluation of Graph-based Dependency Representations",
+   "authors": "S Schuster, EV de la Clergerie, M Candito, B Sagot, CD Manning, ...",
+   "venue": "Proceedings of the 2017 Shared Task on Extrinsic Parser Evaluation (EPE 2017)",
+   "year": "2017"
+  },
+  {
+   "title": "Speaker-specific adaptation to variable use of uncertainty expressions",
+   "authors": "S Schuster, J Degen",
+   "venue": "Proceedings of the 41st Annual Meeting of the Cognitive Science Society …",
+   "year": "2019"
+  },
+  {
+   "title": "RExBench: Can coding agents autonomously implement AI research extensions?",
+   "authors": "N Edwards, Y Lee, YA Mao, Y Qin, S Schuster, N Kim",
+   "venue": "ACL",
+   "year": "2026"
+  },
+  {
+   "title": "Ask or assume? uncertainty-aware clarification-seeking in coding agents",
+   "authors": "N Edwards, S Schuster",
+   "venue": "arXiv preprint arXiv:2603.26233",
+   "year": "2026"
+  },
+  {
+   "title": "Predicting scalar inferences from “or” to “not both” using neural sentence encoders",
+   "authors": "E Li, S Schuster, J Degen",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2021, 446-450",
+   "year": "2021"
+  },
+  {
+   "title": "Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions",
+   "authors": "SH Lee, S Schuster",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2022, 206-211",
+   "year": "2022"
+  },
+  {
+   "title": "Speaker-Independent Detection Of Child-Directed Speech",
+   "authors": "S Schuster, S Pancoast, M Ganjoo, MC Frank, D Jurafsky",
+   "venue": "Proceedings of the IEEE Workshop on Spoken Language Technology",
+   "year": "2014"
+  },
+  {
+   "title": "SIGA: A naturalistic NLI dataset of English scalar implicatures with gradable adjectives",
+   "authors": "R Nizamani, S Schuster, V Demberg",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Stanford University’s Submissions to the WMT 2014 Translation Task",
+   "authors": "J Neidert, S Schuster, S Green, K Heafield, CD Manning",
+   "venue": "Proceedings of the Ninth Workshop On Statistical Machine Translation (WMT …",
+   "year": "2014"
+  },
+  {
+   "title": "Working memory updating modulates adaptation to speaker-specific use of uncertainty",
+   "authors": "S Schuster, A Mayn, V Demberg",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 45 (45)",
+   "year": "2023"
+  },
+  {
+   "title": "Predicting tags for stackoverflow questions",
+   "authors": "S Schuster, W Zhu, Y Cheng",
+   "venue": "Proceedings of the LWDA 2017 Workshops: KDML, FGWM, IR, and FGDB",
+   "year": "2017"
+  },
+  {
+   "title": "SpreadNaLa: a naturalistic code generation evaluation dataset of spreadsheet formulas",
+   "authors": "S Schuster, A Ansar, O Agarwal, V Demberg",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Detecting insults in online comments",
+   "authors": "P Krishnamoorthy, R MacQueen, S Schuster",
+   "venue": "Technical report, Stanford University",
+   "year": "2017"
+  },
+  {
+   "title": "Do Language Models Track Entities Across State Changes?",
+   "authors": "Z Tang, Q Zhao, G Franco, D Wijaya, A Mueller, S Schuster, N Kim",
+   "venue": "arXiv preprint arXiv:2605.30233",
+   "year": "2026"
+  },
+  {
+   "title": "From models to systems: A survey of explainability for tool-augmented language models and ai agents",
+   "authors": "B Roth, N Edwards, P Hong, L Schoenegger, S Schuster",
+   "venue": "University of Vienna",
+   "year": "2026"
+  },
+  {
+   "title": "Humans and LLMs Diverge on Probabilistic Inferences",
+   "authors": "G Kamath, S Madathil, S Schuster, MC de Marneffe, S Reddy",
+   "venue": "arXiv preprint arXiv:2602.23546",
+   "year": "2026"
+  },
+  {
+   "title": "Semantic-Pragmatic Adaptation",
+   "authors": "S Schuster",
+   "venue": "Stanford University",
+   "year": "2020"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on Universal Dependencies (UDW 2018)",
+   "authors": "MC de Marneffe, T Lynn, S Schuster",
+   "venue": "Proceedings of the Second Workshop on Universal Dependencies (UDW 2018)",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)",
+   "authors": "MC de Marneffe, M de Lhoneux, J Nivre, S Schuster",
+   "venue": "Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)",
+   "year": "2020"
+  },
+  {
+   "title": "Open Linguistics: A platform for sharing informal judgment data and analysis",
+   "authors": "M Jasbi, S Schuster, P Weiss",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017)",
+   "authors": "MC de Marneffe, J Nivre, S Schuster",
+   "venue": "Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017)",
+   "year": "2017"
+  },
+  {
+   "title": "Masked diffusion LLMs can use EoS tokens for hidden reasoning",
+   "authors": "S Breckner, S Schuster",
+   "venue": "arXiv preprint arXiv:2603.05197",
+   "year": "2026"
+  },
+  {
+   "title": "There is No Spoon: Existential Presupposition in Large Language Models",
+   "authors": "ML Wörgötter, S Lai, S Schuster",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Semantic-Pragmatic Adaptation to Variable Use of Temporal Expressions",
+   "authors": "Y Cao, S Schuster",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "Running web-based experiments",
+   "authors": "J Degen, S Schuster",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the Fourth Workshop on Universal Dependencies",
+   "authors": "MC de Marneffe, M de Lhoneux, J Nivre, S Schuster",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Semantic Adaptation in Quantifier Meanings in Preschool Aged Children",
+   "authors": "S Regan, S Schuster, J Degen, M Frank",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 42",
+   "year": "2020"
+  },
+  {
+   "title": "Universal Dependencies Treebanks 1.2 (see http://universaldependencies. org/)",
+   "authors": "J Nivre, Ž Agić, MJ Aranzabe, M Asahara, A Atutxa, M Ballesteros, J Bauer, ...",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "UDW 2019 Third Workshop on Universal Dependencies (UDW, SyntaxFest 2019) Proceedings 29–30 August, 2019",
+   "authors": "D Cao, NM Courtin, C Dong, NY Dupont, IM Galal, G Guibon, IY Li, C Yan, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Processing Gaps: Explaining Human-Model Misalignment in Filler-Gap Dependency Parsing",
+   "authors": "L Nentcheva, S Schuster, D Dunagan, A Santi",
+   "venue": "Computational Psycholinguistics Meeting 2025",
+   "year": null
+  },
+  {
+   "title": "Surprise! LM-generated Surprisal Values Cannot Fully Account for Human Parsers’ Preferences in Relative Clause Comprehension",
+   "authors": "L Nentcheva, S Schuster, A Santi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Explaining away in semantic/pragmatic adaptation",
+   "authors": "S Schuster, M Loder, J Degen",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Resolving Scope Ambiguities of Determiner Phrases in Intensional Contexts with a CCG",
+   "authors": "S Schuster",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

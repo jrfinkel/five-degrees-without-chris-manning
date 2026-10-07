@@ -1,0 +1,2399 @@
+{
+ "user": "SVlQ6IEAAAAJ",
+ "pubs": [
+  {
+   "title": "Pre-training with whole word masking for chinese bert",
+   "authors": "Y Cui, W Che, T Liu, B Qin, Z Yang",
+   "venue": "IEEE/ACM transactions on audio, speech, and language processing 29, 3504-3514",
+   "year": "2021"
+  },
+  {
+   "title": "Revisiting pre-trained models for Chinese natural language processing",
+   "authors": "Y Cui, W Che, T Liu, B Qin, S Wang, G Hu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 657-668",
+   "year": "2020"
+  },
+  {
+   "title": "Generating natural language adversarial examples through probability weighted word saliency",
+   "authors": "S Ren, Y Deng, K He, W Che",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Layoutlmv2: Multi-modal pre-training for visually-rich document understanding",
+   "authors": "Y Xu, Y Xu, T Lv, L Cui, F Wei, G Wang, Y Lu, D Florencio, C Zhang, ...",
+   "venue": "Proceedings of the 59th annual meeting of the association for computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Ltp: A chinese language technology platform",
+   "authors": "W Che, Z Li, T Liu",
+   "venue": "Coling 2010: demonstrations, 13-16",
+   "year": "2010"
+  },
+  {
+   "title": "Towards reasoning era: A survey of long chain-of-thought for reasoning large language models",
+   "authors": "Q Chen, L Qin, J Liu, D Peng, J Guan, P Wang, M Hu, Y Zhou, T Gao, ...",
+   "venue": "Science China Information Sciences 69 (6), 161101",
+   "year": "2026"
+  },
+  {
+   "title": "Data augmentation approaches in natural language processing: A survey",
+   "authors": "B Li, Y Hou, W Che",
+   "venue": "Ai Open 3, 71-90",
+   "year": "2022"
+  },
+  {
+   "title": "A stack-propagation framework with token-level intent detection for spoken language understanding",
+   "authors": "L Qin, W Che, Y Li, H Wen, T Liu",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Learning semantic hierarchies via word embeddings",
+   "authors": "R Fu, J Guo, B Qin, W Che, H Wang, T Liu",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Recall and learn: Fine-tuning deep pretrained language models with less forgetting",
+   "authors": "S Chen, Y Hou, Y Cui, W Che, T Liu, X Yu",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "A span-extraction dataset for Chinese machine reading comprehension",
+   "authors": "Y Cui, T Liu, W Che, L Xiao, Z Chen, W Ma, S Wang, G Hu",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Towards conversational recommendation over multi-type dialogs",
+   "authors": "Z Liu, H Wang, ZY Niu, H Wu, W Che, T Liu",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Towards better UD parsing: Deep contextualized word embeddings, ensemble, and treebank concatenation",
+   "authors": "W Che, Y Liu, Y Wang, B Zheng, T Liu",
+   "venue": "Proceedings of the CoNLL 2018 shared task: Multilingual parsing from raw …",
+   "year": "2018"
+  },
+  {
+   "title": "Convolution neural network for relation extraction",
+   "authors": "CY Liu, WB Sun, WH Chao, W Che",
+   "venue": "International conference on advanced data mining and applications, 231-242",
+   "year": "2013"
+  },
+  {
+   "title": "N-LTP: An open-source neural language technology platform for Chinese",
+   "authors": "W Che, Y Feng, L Qin, T Liu",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Few-shot slot tagging with collapsed dependency transfer and label-enhanced task-adaptive projection network",
+   "authors": "Y Hou, W Che, Y Lai, Z Zhou, Y Liu, H Liu, T Liu",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Large language models meet nlp: A survey",
+   "authors": "L Qin, Q Chen, X Feng, Y Wu, Y Zhang, Y Li, M Li, W Che, PS Yu",
+   "venue": "Frontiers of Computer Science 20 (11), 2011361",
+   "year": "2026"
+  },
+  {
+   "title": "A survey of multilingual large language models",
+   "authors": "L Qin, Q Chen, Y Zhou, Z Chen, Y Li, L Liao, M Li, W Che, PS Yu",
+   "venue": "Patterns 6 (1)",
+   "year": "2025"
+  },
+  {
+   "title": "Cross-lingual dependency parsing based on distributed representations",
+   "authors": "J Guo, W Che, D Yarowsky, H Wang, T Liu",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "M3cot: A novel benchmark for multi-domain multi-step multi-modal chain-of-thought",
+   "authors": "Q Chen, L Qin, J Zhang, Z Chen, X Xu, W Che",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "A co-interactive transformer for joint slot filling and intent detection",
+   "authors": "L Qin, T Liu, W Che, B Kang, S Zhao, T Liu",
+   "venue": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2021"
+  },
+  {
+   "title": "Cosda-ml: Multi-lingual code-switching data augmentation for zero-shot cross-lingual nlp",
+   "authors": "L Qin, M Ni, Y Zhang, W Che",
+   "venue": "arXiv preprint arXiv:2006.06402",
+   "year": "2020"
+  },
+  {
+   "title": "AGIF: An adaptive graph-interactive framework for joint multiple intent detection and slot filling",
+   "authors": "L Qin, X Xu, W Che, T Liu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 1807-1816",
+   "year": "2020"
+  },
+  {
+   "title": "Sequence-to-sequence data augmentation for dialogue language understanding",
+   "authors": "Y Hou, Y Liu, W Che, T Liu",
+   "venue": "Proceedings of the 27th International Conference on Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Onebit: Towards extremely low-bit large language models",
+   "authors": "Y Xu, X Han, Z Yang, S Wang, Q Zhu, Z Liu, W Liu, W Che",
+   "venue": "Advances in Neural Information Processing Systems 37, 66357-66382",
+   "year": "2024"
+  },
+  {
+   "title": "A survey on spoken language understanding: Recent advances and new frontiers",
+   "authors": "L Qin, T Xie, W Che, T Liu",
+   "venue": "arXiv preprint arXiv:2103.03095",
+   "year": "2021"
+  },
+  {
+   "title": "Cross-lingual prompting: Improving zero-shot chain-of-thought reasoning across languages",
+   "authors": "L Qin, Q Chen, F Wei, S Huang, W Che",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Revisiting embedding features for simple semi-supervised learning",
+   "authors": "J Guo, W Che, H Wang, T Liu",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Sentence compression for aspect-based sentiment analysis",
+   "authors": "W Che, Y Zhao, H Guo, Z Su, T Liu",
+   "venue": "IEEE/ACM Transactions on audio, speech, and language processing 23 (12 …",
+   "year": "2015"
+  },
+  {
+   "title": "Multilingual large language model: A survey of resources, taxonomy and frontiers",
+   "authors": "L Qin, Q Chen, Y Zhou, Z Chen, Y Li, L Liao, M Li, W Che, PS Yu",
+   "venue": "arXiv preprint arXiv:2404.04925",
+   "year": "2024"
+  },
+  {
+   "title": "Cross-lingual BERT transformation for zero-shot dependency parsing",
+   "authors": "Y Wang, W Che, J Guo, Y Liu, T Liu",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Bridgetower: Building bridges between encoders in vision-language representation learning",
+   "authors": "X Xu, C Wu, S Rosenman, V Lal, W Che, N Duan",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (9), 10637 …",
+   "year": "2023"
+  },
+  {
+   "title": "From static to dynamic word representations: a survey",
+   "authors": "Y Wang, Y Hou, W Che, T Liu",
+   "venue": "International Journal of Machine Learning and Cybernetics 11 (7), 1611-1630",
+   "year": "2020"
+  },
+  {
+   "title": "Named entity recognition with bilingual constraints",
+   "authors": "W Che, M Wang, CD Manning, T Liu",
+   "venue": "Proceedings of the 2013 conference of the North American chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "GL-GIN: Fast and accurate non-autoregressive model for joint multiple intent detection and slot filling",
+   "authors": "L Qin, F Wei, T Xie, X Xu, W Che, T Liu",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "MMSD2. 0: Towards a reliable multi-modal sarcasm detection system",
+   "authors": "L Qin, S Huang, Q Chen, C Cai, Y Zhang, B Liang, W Che, R Xu",
+   "venue": "Findings of the association for computational linguistics: ACL 2023, 10834-10845",
+   "year": "2023"
+  },
+  {
+   "title": "Joint extraction of entities and relations based on a novel graph scheme.",
+   "authors": "S Wang, Y Zhang, W Che, T Liu",
+   "venue": "IJCAI, 4461-4467",
+   "year": "2018"
+  },
+  {
+   "title": "Large language models meet text-centric multimodal sentiment analysis: A survey",
+   "authors": "H Yang, Y Zhao, Y Wu, S Wang, T Zheng, H Zhang, Z Ma, W Che, S Wang, ...",
+   "venue": "Science China Information Sciences 68 (10), 200101",
+   "year": "2025"
+  },
+  {
+   "title": "Dcr-net: A deep co-interactive relation network for joint dialog act recognition and sentiment classification",
+   "authors": "L Qin, W Che, Y Li, M Ni, T Liu",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (05), 8665-8672",
+   "year": "2020"
+  },
+  {
+   "title": "Unlocking the capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought",
+   "authors": "Q Chen, L Qin, J Wang, J Zhou, W Che",
+   "venue": "Advances in Neural Information Processing Systems 37, 54872-54904",
+   "year": "2024"
+  },
+  {
+   "title": "Nl-augmenter: A framework for task-sensitive natural language augmentation",
+   "authors": "K Dhole, V Gangal, S Gehrmann, A Gupta, Z Li, S Mahamood, ...",
+   "venue": "Northern European Journal of Language Technology 9",
+   "year": "2023"
+  },
+  {
+   "title": "Co-gat: A co-interactive graph attention network for joint dialog act recognition and sentiment classification",
+   "authors": "L Qin, Z Li, W Che, M Ni, T Liu",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 35 (15), 13709 …",
+   "year": "2021"
+  },
+  {
+   "title": "Dynamic fusion network for multi-domain end-to-end task-oriented dialog",
+   "authors": "L Qin, X Xu, W Che, Y Zhang, T Liu",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Chartcoder: Advancing multimodal large language model for chart-to-code generation",
+   "authors": "X Zhao, X Luo, Q Shi, C Chen, S Wang, Z Liu, M Sun",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Sapt: A shared attention framework for parameter-efficient continual learning of large language models",
+   "authors": "W Zhao, S Wang, Y Hu, Y Zhao, B Qin, X Zhang, Q Yang, D Xu, W Che",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Learning sense-specific word embeddings by exploiting bilingual resources",
+   "authors": "J Guo, W Che, H Wang, T Liu",
+   "venue": "Proceedings of COLING 2014, the 25th International Conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Parsing tweets into universal dependencies",
+   "authors": "Y Liu, Y Zhu, W Che, B Qin, N Schneider, NA Smith",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Ai4research: A survey of artificial intelligence for scientific research",
+   "authors": "Q Chen, M Yang, L Qin, J Liu, Z Yan, J Guan, D Peng, Y Ji, H Li, M Hu, ...",
+   "venue": "arXiv preprint arXiv:2507.01903",
+   "year": "2025"
+  },
+  {
+   "title": "Dynamic connected networks for Chinese spelling check",
+   "authors": "B Wang, W Che, D Wu, S Wang, G Hu, T Liu",
+   "venue": "Findings of the association for computational linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "DuRecDial 2.0: A bilingual parallel corpus for conversational recommendation",
+   "authors": "Z Liu, H Wang, ZY Niu, H Wu, W Che",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "A representation learning framework for multi-source transfer parsing",
+   "authors": "J Guo, W Che, D Yarowsky, H Wang, T Liu",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 30 (1)",
+   "year": "2016"
+  },
+  {
+   "title": "Against the achilles' heel: A survey on red teaming for generative models",
+   "authors": "L Lin, H Mu, Z Zhai, M Wang, Y Wang, R Wang, J Gao, Y Zhang, W Che, ...",
+   "venue": "Journal of Artificial Intelligence Research 82, 687-775",
+   "year": "2025"
+  },
+  {
+   "title": "Chinese parsing exploiting characters",
+   "authors": "M Zhang, Y Zhang, W Che, T Liu",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Multilingual dependency-based syntactic and semantic parsing",
+   "authors": "W Che, Z Li, Y Li, Y Guo, B Qin, T Liu",
+   "venue": "Proceedings of the Thirteenth Conference on Computational Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "MetaPrompting: Learning to learn better prompts",
+   "authors": "Y Hou, H Dong, X Wang, B Li, W Che",
+   "venue": "Proceedings of the 29th international conference on computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Character-level chinese dependency parsing",
+   "authors": "M Zhang, Y Zhang, W Che, T Liu",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Domain adaptation for CRF-based Chinese word segmentation using free annotations",
+   "authors": "Y Liu, Y Zhang, W Che, T Liu, F Wu",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "Joint models for Chinese POS tagging and dependency parsing",
+   "authors": "Z Li, M Zhang, W Che, T Liu, W Chen, H Li",
+   "venue": "Proceedings of the 2011 Conference on Empirical Methods in Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Automatic entity relation extraction",
+   "authors": "W Che, T Liu, S Li",
+   "venue": "Journal of Chinese Information Processing 19 (2), 1-6",
+   "year": "2005"
+  },
+  {
+   "title": "A neural transition-based approach for semantic dependency graph parsing",
+   "authors": "Y Wang, W Che, J Guo, T Liu",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 32 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "Knowledge graph grounded goal planning for open-domain conversation generation",
+   "authors": "J Xu, H Wang, Z Niu, H Wu, W Che",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (05), 9338-9345",
+   "year": "2020"
+  },
+  {
+   "title": "Towards a comprehensive understanding of the impact of large language models on natural language processing: challenges, opportunities and future directions",
+   "authors": "W Che, Z Dou, Y Feng, T GUI, X HAN, B HU, M HUANG, X HUANG, K LIU, ...",
+   "venue": "Scientia Sinica Informationis 53 (9), 1645",
+   "year": "2023"
+  },
+  {
+   "title": "Entity-consistent end-to-end task-oriented dialogue system with kb retriever",
+   "authors": "L Qin, Y Liu, W Che, H Wen, Y Li, T Liu",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Comt: A novel benchmark for chain of multi-modal thought on large vision-language models",
+   "authors": "Z Cheng, Q Chen, J Zhang, H Fei, X Feng, W Che, M Li, L Qin",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (22), 23678 …",
+   "year": "2025"
+  },
+  {
+   "title": "End-to-end task-oriented dialogue: A survey of tasks, methods, and future directions",
+   "authors": "L Qin, W Pan, Q Chen, L Liao, Z Yu, Y Zhang, W Che, M Li",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Lert: A linguistically-motivated pre-trained language model",
+   "authors": "Y Cui, W Che, S Wang, T Liu",
+   "venue": "arXiv preprint arXiv:2211.05344",
+   "year": "2022"
+  },
+  {
+   "title": "A survey of table reasoning with large language models",
+   "authors": "X Zhang, D Wang, L Dou, Q Zhu, W Che",
+   "venue": "Frontiers of Computer Science 19 (9), 199348",
+   "year": "2025"
+  },
+  {
+   "title": "Research on Chinese event extraction",
+   "authors": "Y Zhao, B Qin, WX Che, T Liu",
+   "venue": "Journal of Chinese Information Processing 22 (1), 3-8",
+   "year": "2008"
+  },
+  {
+   "title": "Few-shot learning for multi-label intent detection",
+   "authors": "Y Hou, Y Lai, Y Wu, W Che, T Liu",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (14), 13036 …",
+   "year": "2021"
+  },
+  {
+   "title": "A preliminary evaluation of chatgpt for zero-shot dialogue understanding",
+   "authors": "W Pan, Q Chen, X Xu, W Che, L Qin",
+   "venue": "arXiv preprint arXiv:2304.04256",
+   "year": "2023"
+  },
+  {
+   "title": "Conversational graph grounded policy learning for open-domain conversation generation",
+   "authors": "J Xu, H Wang, ZY Niu, H Wu, W Che, T Liu",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Exploring segment representations for neural segmentation models",
+   "authors": "Y Liu, W Che, J Guo, B Qin, T Liu",
+   "venue": "arXiv preprint arXiv:1604.05499",
+   "year": "2016"
+  },
+  {
+   "title": "Joint word alignment and bilingual named entity recognition using dual decomposition",
+   "authors": "M Wang, W Che, CD Manning",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "A graph-based method for entity linking",
+   "authors": "Y Guo, W Che, T Liu, S Li",
+   "venue": "Proceedings of 5th International Joint Conference on Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Cross-lingual machine reading comprehension",
+   "authors": "Y Cui, W Che, T Liu, B Qin, S Wang, G Hu",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Consistency regularization for cross-lingual fine-tuning",
+   "authors": "B Zheng, L Dong, S Huang, W Wang, Z Chi, S Singhal, W Che, T Liu, ...",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Multi-task self-supervised learning for disfluency detection",
+   "authors": "S Wang, W Che, Q Liu, P Qin, T Liu, WY Wang",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (05), 9193-9200",
+   "year": "2020"
+  },
+  {
+   "title": "Effective bilingual constraints for semi-supervised learning of named entity recognizers",
+   "authors": "M Wang, W Che, C Manning",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 27 (1), 919-925",
+   "year": "2013"
+  },
+  {
+   "title": "Conversational recommender system and large language model are made for each other in E-commerce pre-sales dialogue",
+   "authors": "Y Liu, W Zhang, Y Chen, Y Zhang, H Bai, F Feng, H Cui, Y Li, W Che",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 9587-9605",
+   "year": "2023"
+  },
+  {
+   "title": "MultiSpider: towards benchmarking multilingual text-to-SQL semantic parsing",
+   "authors": "L Dou, Y Gao, M Pan, D Wang, W Che, D Zhan, JG Lou",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (11), 12745 …",
+   "year": "2023"
+  },
+  {
+   "title": "Document modeling with graph attention networks for multi-grained machine reading comprehension",
+   "authors": "B Zheng, H Wen, Y Liang, N Duan, W Che, D Jiang, M Zhou, T Liu",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Sequence-to-sequence learning for task-oriented dialogue with dialogue state representation",
+   "authors": "H Wen, Y Liu, W Che, L Qin, T Liu",
+   "venue": "Proceedings of the 27th International Conference on Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+   "authors": "W Che, J Nabende, E Shutova, MT Pilehvar",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Textbrewer: An open-source knowledge distillation toolkit for natural language processing",
+   "authors": "Z Yang, Y Cui, Z Chen, W Che, T Liu, S Wang, G Hu",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Transition-based disfluency detection using lstms",
+   "authors": "S Wang, W Che, Y Zhang, M Zhang, T Liu",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Semeval-2016 task 9: Chinese semantic dependency parsing",
+   "authors": "W Che, Y Shao, T Liu, Y Ding",
+   "venue": "Proceedings of the 10th International Workshop on Semantic Evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "Semantic role labeling using a grammar-driven convolution tree kernel",
+   "authors": "M Zhang, W Che, GD Zhou, A Aw, CL Tan, T Liu, S Li",
+   "venue": "IEEE transactions on audio, speech, and language processing 16 (7), 1315-1329",
+   "year": "2008"
+  },
+  {
+   "title": "A neural attention model for disfluency detection",
+   "authors": "S Wang, W Che, T Liu",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "Type-supervised domain adaptation for joint segmentation and pos-tagging",
+   "authors": "M Zhang, Y Zhang, W Che, T Liu",
+   "venue": "Proceedings of the 14th Conference of the European Chapter of the …",
+   "year": "2014"
+  },
+  {
+   "title": "GL-CLeF: A global–local contrastive learning framework for cross-lingual spoken language understanding",
+   "authors": "L Qin, Q Chen, T Xie, Q Li, JG Lou, W Che, MY Kan",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "An AMR aligner tuned by transition-based parser",
+   "authors": "Y Liu, W Che, B Zheng, B Qin, T Liu",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Chinese grammatical error diagnosis with long short-term memory networks",
+   "authors": "B Zheng, W Che, J Guo, T Liu",
+   "venue": "Proceedings of the 3rd Workshop on Natural Language Processing Techniques …",
+   "year": "2016"
+  },
+  {
+   "title": "A cascaded syntactic and semantic dependency parsing system",
+   "authors": "W Che, Z Li, Y Hu, Y Li, B Qin, T Liu, S Li",
+   "venue": "CoNLL 2008: Proceedings of the Twelfth Conference on Computational Natural …",
+   "year": "2008"
+  },
+  {
+   "title": "Semantic role labeling system using maximum entropy classifier",
+   "authors": "T Liu, W Che, S Li, Y Hu, H Liu",
+   "venue": "Proceedings of the ninth conference on computational natural language …",
+   "year": "2005"
+  },
+  {
+   "title": "Turning trash into treasure: Accelerating inference of large language models with token recycling",
+   "authors": "X Luo, Y Wang, Q Zhu, Z Zhang, X Zhang, Q Yang, D Xu",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Natural language processing in the era of big models: Challenges opportunities and development",
+   "authors": "C Wanxiang, D Zhicheng, F Yansong, G Tao, H Xianpei, H Baotian",
+   "venue": "Science China: Information Sciences 53, 1645-1687",
+   "year": "2023"
+  },
+  {
+   "title": "A grammar-driven convolution tree kernel for semantic role classification",
+   "authors": "M Zhang, W Che, A Aw, CL Tan, G Zhou, T Liu, S Li",
+   "venue": "Proceedings of the 45th Annual Meeting of the Association of Computational …",
+   "year": "2007"
+  },
+  {
+   "title": "UniSAr: a unified structure-aware autoregressive language model for text-to-SQL semantic parsing",
+   "authors": "L Dou, Y Gao, M Pan, D Wang, W Che, JG Lou, D Zhan",
+   "venue": "International Journal of Machine Learning and Cybernetics 14 (12), 4361-4376",
+   "year": "2023"
+  },
+  {
+   "title": "The first evaluation of Chinese human-computer dialogue technology",
+   "authors": "WN Zhang, Z Chen, W Che, G Hu, T Liu",
+   "venue": "arXiv preprint arXiv:1709.10217",
+   "year": "2017"
+  },
+  {
+   "title": "Visual thoughts: A unified perspective of understanding multimodal chain-of-thought",
+   "authors": "Z Cheng, Q Chen, X Xu, J Wang, W Wang, H Fei, Y Wang, AJ Wang, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 96084-96112",
+   "year": "2026"
+  },
+  {
+   "title": "Autotriton: Automatic triton programming with reinforcement learning in llms",
+   "authors": "S Li, Z Wang, Y He, Y Li, Q Shi, J Li, Y Hu, W Che, X Han, Z Liu, M Sun",
+   "venue": "arXiv preprint arXiv:2507.05687",
+   "year": "2025"
+  },
+  {
+   "title": "Slot-consistent NLG for task-oriented dialogue systems with iterative rectification network",
+   "authors": "Y Li, K Yao, L Qin, W Che, X Li, T Liu",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Joint optimization for Chinese pos tagging and dependency parsing",
+   "authors": "Z Li, M Zhang, W Che, T Liu, W Chen",
+   "venue": "IEEE/ACM transactions on audio, speech, and language processing 22 (1), 274-286",
+   "year": "2013"
+  },
+  {
+   "title": "Keywords generation improves e-commerce session-based recommendation",
+   "authors": "Y Liu, Z Ren, WN Zhang, W Che, T Liu, D Yin",
+   "venue": "Proceedings of the web conference 2020, 1604-1614",
+   "year": "2020"
+  },
+  {
+   "title": "HIT-SCIR at MRP 2019: A unified pipeline for meaning representation parsing via efficient training and effective encoding",
+   "authors": "W Che, L Dou, Y Xu, Y Wang, Y Liu, T Liu",
+   "venue": "Proceedings of the Shared Task on Cross-Framework Meaning Representation …",
+   "year": "2019"
+  },
+  {
+   "title": "Improved-edit-distance kernel for Chinese relation extraction",
+   "authors": "W Che, J Jiang, Z Su, Y Pan, T Liu",
+   "venue": "Companion Volume to the Proceedings of Conference including Posters/Demos …",
+   "year": "2005"
+  },
+  {
+   "title": "Understanding medical conversations with scattered keyword attention and weak supervision from responses",
+   "authors": "X Shi, H Hu, W Che, Z Sun, T Liu, J Huang",
+   "venue": "Proceedings of the AAAI Conference on artificial intelligence 34 (05), 8838-8845",
+   "year": "2020"
+  },
+  {
+   "title": "Transition-based syntactic linearization",
+   "authors": "Y Liu, Y Zhang, W Che, B Qin",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Advancing tool-augmented large language models via meta-verification and reflection learning",
+   "authors": "Z Ma, J Liu, X Luo, Z Huang, Q Zhu, W Che",
+   "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and …",
+   "year": "2025"
+  },
+  {
+   "title": "What factors affect multi-modal in-context learning? an in-depth exploration",
+   "authors": "L Qin, Q Chen, H Fei, Z Chen, M Li, W Che",
+   "venue": "Advances in Neural Information Processing Systems 37, 123207-123236",
+   "year": "2024"
+  },
+  {
+   "title": "Semantic-guided generative image augmentation method with diffusion models for image classification",
+   "authors": "B Li, X Xu, X Wang, Y Hou, Y Feng, F Wang, X Zhang, Q Zhu, W Che",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (4), 3018-3027",
+   "year": "2024"
+  },
+  {
+   "title": "Allocating large vocabulary capacity for cross-lingual language model pre-training",
+   "authors": "B Zheng, L Dong, S Huang, S Singhal, W Che, T Liu, X Song, F Wei",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Semantic role labeling with maximum entropy classifier",
+   "authors": "T Liu, WX Che, S Li",
+   "venue": "Journal of Software 18 (3), 565-573",
+   "year": "2007"
+  },
+  {
+   "title": "What are the essential factors in crafting effective long context multi-hop instruction datasets? insights and best practices",
+   "authors": "Z Chen, Q Chen, L Qin, Q Guo, H Lv, Y Zou, H Yan, K Chen, D Lin",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Towards knowledge-intensive text-to-SQL semantic parsing with formulaic knowledge",
+   "authors": "L Dou, Y Gao, X Liu, M Pan, D Wang, W Che, D Zhan, MY Kan, JG Lou",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Chinese grammatical error diagnosis using statistical and prior knowledge driven features with probabilistic ensemble enhancement",
+   "authors": "R Fu, Z Pei, J Gong, W Song, D Teng, W Che, S Wang, G Hu, T Liu",
+   "venue": "Proceedings of the 5th Workshop on Natural Language Processing Techniques …",
+   "year": "2018"
+  },
+  {
+   "title": "Vitcot: Video-text interleaved chain-of-thought for boosting video understanding in large language models",
+   "authors": "Y Zhang, X Liu, R Tao, Q Chen, H Fei, W Che, L Qin",
+   "venue": "Proceedings of the 33rd ACM International Conference on Multimedia, 5267-5276",
+   "year": "2025"
+  },
+  {
+   "title": "Findings of the association for computational linguistics: ACL 2025",
+   "authors": "W Che, J Nabende, E Shutova, MT Pilehvar",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "U-need: A fine-grained dataset for user needs-centric e-commerce conversational recommendation",
+   "authors": "Y Liu, W Zhang, B Dong, Y Fan, H Wang, F Feng, Y Chen, Z Zhuang, ...",
+   "venue": "Proceedings of the 46th international ACM SIGIR conference on research and …",
+   "year": "2023"
+  },
+  {
+   "title": "Exploiting multiple treebanks for parsing with quasi-synchronous grammars",
+   "authors": "Z Li, T Liu, W Che",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "AutoCAP: Towards automatic cross-lingual alignment planning for zero-shot chain-of-thought",
+   "authors": "Y Zhang, Q Chen, M Li, W Che, L Qin",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 9191-9200",
+   "year": "2024"
+  },
+  {
+   "title": "Language anisotropic cross-lingual model editing",
+   "authors": "Y Xu, Y Hou, W Che, M Zhang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 5554-5569",
+   "year": "2023"
+  },
+  {
+   "title": "Chinese computational linguistics",
+   "authors": "M Sun, Y Chen, X Han, Y He, J Liang, Z Liu, G Rao, Z Tian",
+   "venue": "Springer Nature Singapore",
+   "year": "2025"
+  },
+  {
+   "title": "TextHacker: Learning based hybrid local search algorithm for text hard-label adversarial attack",
+   "authors": "Z Yu, X Wang, W Che, K He",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 622-637",
+   "year": "2022"
+  },
+  {
+   "title": "Knowing where to leverage: Context-aware graph convolutional network with an adaptive fusion layer for contextual spoken language understanding",
+   "authors": "L Qin, W Che, M Ni, Y Li, T Liu",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 29, 1280-1289",
+   "year": "2021"
+  },
+  {
+   "title": "Appraisal expression recognition with syntactic path for sentence sentiment classification",
+   "authors": "Y Zhao, B Qin, W Che, T Liu",
+   "venue": "International Journal of Computer Processing of Languages 23 (01), 21-37",
+   "year": "2011"
+  },
+  {
+   "title": "Discovering dialog structure graph for coherent dialog generation",
+   "authors": "J Xu, Z Lei, H Wang, ZY Niu, H Wu, W Che",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Inverse is better! fast and accurate prompt for few-shot slot tagging",
+   "authors": "Y Hou, C Chen, X Luo, B Li, W Che",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 637-647",
+   "year": "2022"
+  },
+  {
+   "title": "A hybrid convolution tree kernel for semantic role labeling",
+   "authors": "W Che, M Zhang, T Liu, S Li",
+   "venue": "Proceedings of the COLING/ACL 2006 Main Conference Poster Sessions, 73-80",
+   "year": "2006"
+  },
+  {
+   "title": "Trade-offs in large reasoning models: An empirical analysis of deliberative and adaptive reasoning over foundational capabilities",
+   "authors": "W Zhao, X Sui, J Guo, Y Hu, Y Deng, Y Zhao, X Zhi, Y Huang, H He, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (41), 34976 …",
+   "year": "2026"
+  },
+  {
+   "title": "Icdar 2023 competition on structured text extraction from visually-rich document images",
+   "authors": "W Yu, C Zhang, H Cao, W Hua, B Li, H Chen, M Liu, M Chen, J Kuang, ...",
+   "venue": "International Conference on Document Analysis and Recognition, 536-552",
+   "year": "2023"
+  },
+  {
+   "title": "Discovering drug–target interaction knowledge from biomedical literature",
+   "authors": "Y Hou, Y Xia, L Wu, S Xie, Y Fan, J Zhu, T Qin, TY Liu",
+   "venue": "Bioinformatics 38 (22), 5100-5107",
+   "year": "2022"
+  },
+  {
+   "title": "Appraisal expression recognition based on syntactic path",
+   "authors": "YY ZHAO, B Qin, WX CHE, T Liu",
+   "venue": "Journal of Software 22 (5), 887-898",
+   "year": "2011"
+  },
+  {
+   "title": "Jointly modeling wsd and srl with markov logic",
+   "authors": "W Che, T Liu",
+   "venue": "Proceedings of the 23rd International Conference on Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Don’t be contradicted with anything! CI-ToD: Towards benchmarking consistency for task-oriented dialogue system",
+   "authors": "L Qin, T Xie, S Huang, Q Chen, X Xu, W Che",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "C2c-genda: Cluster-to-cluster generation for data augmentation of slot filling",
+   "authors": "Y Hou, S Chen, W Che, C Chen, T Liu",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (14), 13027 …",
+   "year": "2021"
+  },
+  {
+   "title": "A unified architecture for semantic role labeling and relation classification",
+   "authors": "J Guo, W Che, H Wang, T Liu, J Xu",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "Learning semantic hierarchies: A continuous vector space approach",
+   "authors": "R Fu, J Guo, B Qin, W Che, H Wang, T Liu",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 23 (3), 461-471",
+   "year": "2015"
+  },
+  {
+   "title": "A separately passive-aggressive training algorithm for joint POS tagging and dependency parsing",
+   "authors": "Z Li, M Zhang, W Che, T Liu",
+   "venue": "Proceedings of COLING 2012, 1681-1698",
+   "year": "2012"
+  },
+  {
+   "title": "A comparison of chinese parsers for stanford dependencies",
+   "authors": "W Che, VI Spitkovsky, T Liu",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Graph-grounded goal planning for conversational recommendation",
+   "authors": "Z Liu, D Zhou, H Liu, H Wang, ZY Niu, H Wu, W Che, T Liu, H Xiong",
+   "venue": "IEEE Transactions on Knowledge and Data Engineering 35 (5), 4923-4939",
+   "year": "2022"
+  },
+  {
+   "title": "Injecting word information with multi-level word adapter for chinese spoken language understanding",
+   "authors": "D Teng, L Qin, W Che, S Zhao, T Liu",
+   "venue": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2021"
+  },
+  {
+   "title": "A sentence cloze dataset for Chinese machine reading comprehension",
+   "authors": "Y Cui, T Liu, Z Yang, Z Chen, W Ma, W Che, S Wang, G Hu",
+   "venue": "Proceedings of the 28th international conference on computational …",
+   "year": "2020"
+  },
+  {
+   "title": "A universal framework for inductive transfer parsing across multi-typed treebanks",
+   "authors": "J Guo, W Che, H Wang, T Liu",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "Combining statistical model and dictionary for domain adaption of Chinese word segmentation",
+   "authors": "M Zhang, Z Deng, W Che, T Liu",
+   "venue": "Journal of Chinese Information Processing 26 (2), 8-12",
+   "year": "2012"
+  },
+  {
+   "title": "Concise and precise context compression for tool-using language models",
+   "authors": "Y Xu, Y Feng, H Mu, Y Hou, Y Li, X Wang, W Zhong, Z Li, D Tu, Q Zhu, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 16430-16441",
+   "year": "2024"
+  },
+  {
+   "title": "Enhancing dialog coherence with event graph grounded content planning",
+   "authors": "J Xu, Z Lei, H Wang, ZY Niu, H Wu, W Che",
+   "venue": "Proceedings of the Twenty-Ninth International Conference on International …",
+   "year": "2021"
+  },
+  {
+   "title": "Improving machine reading comprehension via adversarial training",
+   "authors": "Z Yang, Y Cui, W Che, T Liu, S Wang, G Hu",
+   "venue": "arXiv preprint arXiv:1911.03614",
+   "year": "2019"
+  },
+  {
+   "title": "Fabrice Harel-Canada, Antoine Honore, Ishan Jindal, Przemyslaw K",
+   "authors": "KD Dhole, V Gangal, S Gehrmann, A Gupta, Z Li, S Mahamood, ...",
+   "venue": "Joniak, Denis Kleyko, Venelin Kovatchev, and et al",
+   "year": "2021"
+  },
+  {
+   "title": "Fewjoint: A few-shot learning benchmark for joint language understanding",
+   "authors": "Y Hou, J Mao, Y Lai, C Chen, W Che, Z Chen, T Liu",
+   "venue": "arXiv preprint arXiv:2009.08138",
+   "year": "2020"
+  },
+  {
+   "title": "Cvlue: A new benchmark dataset for chinese vision-language understanding evaluation",
+   "authors": "Y Wang, Y Liu, F Yu, C Huang, K Li, Z Wan, W Che, H Chen",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (8), 8196-8204",
+   "year": "2025"
+  },
+  {
+   "title": "Murre: Multi-hop table retrieval with removal for open-domain text-to-sql",
+   "authors": "X Zhang, D Wang, L Dou, Q Zhu, W Che",
+   "venue": "Proceedings of the 31st International Conference on Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Learning to bridge metric spaces: Few-shot joint learning of intent detection and slot filling",
+   "authors": "Y Hou, Y Lai, C Chen, W Che, T Liu",
+   "venue": "Findings of the association for computational linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Combining self-training and self-supervised learning for unsupervised disfluency detection",
+   "authors": "S Wang, Z Wang, W Che, T Liu",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Using a hybrid convolution tree kernel for semantic role labeling",
+   "authors": "W Che, M Zhang, AT Aw, CL Tan, T Liu, S Li",
+   "venue": "ACM Transactions on Asian Language Information Processing (TALIP) 7 (4), 1-23",
+   "year": "2008"
+  },
+  {
+   "title": "Combining ResNet and transformer for Chinese grammatical error diagnosis",
+   "authors": "S Wang, B Wang, J Gong, Z Wang, X Hu, X Duan, Z Shen, G Yue, R Fu, ...",
+   "venue": "Proceedings of the 6th Workshop on Natural Language Processing Techniques …",
+   "year": "2020"
+  },
+  {
+   "title": "SCITAT: A question answering benchmark for scientific tables and text covering diverse reasoning types",
+   "authors": "X Zhang, D Wang, B Wang, L Dou, X Lu, K Xu, D Wu, Q Zhu",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 3859-3881",
+   "year": "2025"
+  },
+  {
+   "title": "Modularized pre-training for end-to-end task-oriented dialogue",
+   "authors": "L Qin, X Xu, L Wang, Y Zhang, W Che",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 31, 1601-1610",
+   "year": "2023"
+  },
+  {
+   "title": "A survey on table-and-text hybridqa: Concepts, methods, challenges and future directions",
+   "authors": "D Wang, L Dou, W Che",
+   "venue": "arXiv preprint arXiv:2212.13465",
+   "year": "2022"
+  },
+  {
+   "title": "The hit-scir system for end-to-end parsing of universal dependencies",
+   "authors": "W Che, J Guo, Y Wang, B Zheng, H Zhao, Y Liu, D Teng, T Liu",
+   "venue": "Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw …",
+   "year": "2017"
+  },
+  {
+   "title": "Discriminative sentence modeling for story ending prediction",
+   "authors": "Y Cui, W Che, WN Zhang, T Liu, S Wang, G Hu",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (05), 7602-7609",
+   "year": "2020"
+  },
+  {
+   "title": "Deep contextualized word embeddings for universal dependency parsing",
+   "authors": "Y Liu, W Che, Y Wang, B Zheng, B Qin, T Liu",
+   "venue": "ACM Transactions on Asian and Low-Resource Language Information Processing …",
+   "year": "2019"
+  },
+  {
+   "title": "Distilling knowledge for search-based structured prediction",
+   "authors": "Y Liu, W Che, H Zhao, B Qin, T Liu",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Feature engineering for Chinese semantic role labeling",
+   "authors": "H Liu, W Che, T Liu",
+   "venue": "Journal of Chinese information processing 21 (2), 79-85",
+   "year": "2007"
+  },
+  {
+   "title": "Similar Chinese sentence retrieval based on improved edit-distance",
+   "authors": "W Che, T Liu, B Qin, S Li",
+   "venue": "Gaojishu Tongxin/Chinese High Technology Letters 14 (7), 15",
+   "year": "2004"
+  },
+  {
+   "title": "ExpMRC: explainability evaluation for machine reading comprehension",
+   "authors": "Y Cui, T Liu, W Che, Z Chen, S Wang",
+   "venue": "Heliyon 8 (4)",
+   "year": "2022"
+  },
+  {
+   "title": "RoT: enhancing table reasoning with iterative row-wise traversals",
+   "authors": "X Zhang, D Wang, K Xu, Q Zhu, W Che",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Can large language models understand you better? An MBTI personality detection dataset aligned with population traits",
+   "authors": "B Li, J Guan, L Dou, Y Feng, D Wang, Y Xu, E Wang, Q Chen, B Wang, ...",
+   "venue": "Proceedings of the 31st International Conference on Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Improving demonstration diversity by human-free fusing for Text-to-SQL",
+   "authors": "D Wang, L Dou, X Zhang, Q Zhu, W Che",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 1193-1207",
+   "year": "2024"
+  },
+  {
+   "title": "Cliptext: A new paradigm for zero-shot text classification",
+   "authors": "L Qin, W Wang, Q Chen, W Che",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 1077-1088",
+   "year": "2023"
+  },
+  {
+   "title": "Text is no more enough! a benchmark for profile-based spoken language understanding",
+   "authors": "X Xu, L Qin, K Chen, G Wu, L Li, W Che",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (10), 11575 …",
+   "year": "2022"
+  },
+  {
+   "title": "Improving semantic role labeling with word sense",
+   "authors": "W Che, T Liu, Y Li",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Exploring hybrid question answering via program-based prompting",
+   "authors": "Q Shi, H Cui, H Wang, Q Zhu, W Che, T Liu",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "A survey on natural language processing for programming",
+   "authors": "Q Zhu, X Luo, F Liu, C Gao, W Che",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "CCTC: A cross-sentence Chinese text correction dataset for native speakers",
+   "authors": "B Wang, X Duan, D Wu, W Che, Z Chen, G Hu",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Interht: Knowledge graph embeddings by interaction between head and tail entities",
+   "authors": "B Wang, Q Meng, Z Wang, H Zhao, D Wu, W Che, S Wang, Z Chen, C Liu",
+   "venue": "arXiv preprint arXiv:2202.04897",
+   "year": "2022"
+  },
+  {
+   "title": "Combining self-supervised learning and active learning for disfluency detection",
+   "authors": "S Wang, Z Wang, W Che, S Zhao, T Liu",
+   "venue": "Transactions on Asian and Low-Resource Language Information Processing 21 (3 …",
+   "year": "2021"
+  },
+  {
+   "title": "Hit-ir-wsd: A wsd system for english lexical sample task",
+   "authors": "Y Guo, W Che, Y Hu, W Zhang, T Liu",
+   "venue": "Proceedings of the Fourth International Workshop on Semantic Evaluations …",
+   "year": "2007"
+  },
+  {
+   "title": "When less language is more: Language-reasoning disentanglement makes llms better multilingual reasoners",
+   "authors": "W Zhao, J Guo, Y Deng, T Wu, W Zhang, Y Hu, X Sui, Y Zhao, W Che, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 38608-38642",
+   "year": "2026"
+  },
+  {
+   "title": "Exploring and exploiting the inherent efficiency within large reasoning models for self-guided efficiency enhancement",
+   "authors": "W Zhao, J Guo, Y Deng, X Sui, Y Hu, Y Zhao, W Che, B Qin, TS Chua, ...",
+   "venue": "arXiv preprint arXiv:2506.15647",
+   "year": "2025"
+  },
+  {
+   "title": "Croprompt: Cross-task interactive prompting for zero-shot spoken language understanding",
+   "authors": "L Qin, F Wei, Q Chen, J Zhou, S Huang, J Si, W Lu, W Che",
+   "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2025"
+  },
+  {
+   "title": "DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective.",
+   "authors": "D Peng, Y Zhou, Q Chen, J Liu, J Chen, L Qin, W Che",
+   "venue": "EMNLP (Findings), 8311-8334",
+   "year": "2025"
+  },
+  {
+   "title": "Ref decompile: relabeling and function call enhanced decompile",
+   "authors": "Y Feng, B Li, X Shi, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2502.12221",
+   "year": "2025"
+  },
+  {
+   "title": "Python is not always the best choice: Embracing multilingual program of thoughts",
+   "authors": "X Luo, Q Zhu, Z Zhang, L Qin, X Zhang, Q Yang, D Xu, W Che",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Improving grammatical error correction via contextual data augmentation",
+   "authors": "Y Wang, B Wang, Y Liu, Q Zhu, D Wu, W Che",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 10898-10910",
+   "year": "2024"
+  },
+  {
+   "title": "LM-combiner: A contextual rewriting model for Chinese grammatical error correction",
+   "authors": "Y Wang, B Wang, Y Liu, D Wu, W Che",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+   "authors": "Y Feng, E Lefever",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Teaching machines to read, answer and explain",
+   "authors": "Y Cui, T Liu, W Che, Z Chen, S Wang",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 30, 1483-1492",
+   "year": "2022"
+  },
+  {
+   "title": "Multi-domain spoken language understanding using domain-and task-aware parameterization",
+   "authors": "L Qin, F Wei, M Ni, Y Zhang, W Che, Y Li, T Liu",
+   "venue": "Transactions on Asian and Low-Resource Language Information Processing 21 (4 …",
+   "year": "2022"
+  },
+  {
+   "title": "A distributed representation-based framework for cross-lingual transfer parsing",
+   "authors": "J Guo, W Che, D Yarowsky, H Wang, T Liu",
+   "venue": "Journal of Artificial Intelligence Research 55, 995-1023",
+   "year": "2016"
+  },
+  {
+   "title": "Dependency graph based chinese semantic parsing",
+   "authors": "Y Ding, Y Shao, W Che, T Liu",
+   "venue": "International Symposium on Natural Language Processing Based on Naturally …",
+   "year": "2014"
+  },
+  {
+   "title": "Stealthy jailbreak attacks on large language models via benign data mirroring",
+   "authors": "H Mu, H He, Y Zhou, Y Feng, Y Xu, L Qin, X Shi, Z Liu, X Han, Q Shi, ...",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Few-shot sequence labeling with label dependency transfer and pair-wise embedding",
+   "authors": "Y Hou, Z Zhou, Y Liu, N Wang, W Che, H Liu, T Liu",
+   "venue": "arXiv preprint arXiv:1906.08711",
+   "year": "2019"
+  },
+  {
+   "title": "Sentence compression for target-polarity word collocation extraction",
+   "authors": "Y Zhao, W Che, H Guo, B Qin, Z Su, T Liu",
+   "venue": "Proceedings of COLING 2014, the 25th International Conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Lookahead q-cache: Achieving more consistent kv cache eviction via pseudo query",
+   "authors": "Y Wang, S Ji, Y Liu, Y Xu, Y Xu, Q Zhu, W Che",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "DAC: Decomposed Automation Correction for Text-to-SQL.",
+   "authors": "D Wang, L Dou, X Zhang, Q Zhu, W Che",
+   "venue": "EMNLP (Findings), 385-402",
+   "year": "2025"
+  },
+  {
+   "title": "Divide-solve-combine: an interpretable and accurate prompting framework for zero-shot multi-intent detection",
+   "authors": "L Qin, Q Chen, J Zhou, J Wang, H Fei, W Che, M Li",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (23), 25038 …",
+   "year": "2025"
+  },
+  {
+   "title": "Self-constructed context decompilation with fined-grained alignment enhancement",
+   "authors": "Y Feng, D Teng, Y Xu, H Mu, X Xu, L Qin, Q Zhu, W Che",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 6603-6614",
+   "year": "2024"
+  },
+  {
+   "title": "Bilingual alignment pre-training for zero-shot cross-lingual transfer",
+   "authors": "Z Yang, W Ma, Y Cui, J Ye, W Che, S Wang",
+   "venue": "Proceedings of the 3rd Workshop on Machine Reading for Question Answering …",
+   "year": "2021"
+  },
+  {
+   "title": "A corpus-free state2seq user simulator for task-oriented dialogue",
+   "authors": "Y Hou, M Fang, W Che, T Liu",
+   "venue": "China National Conference on Chinese Computational Linguistics, 689-702",
+   "year": "2019"
+  },
+  {
+   "title": "Deep learning in lexical analysis and parsing",
+   "authors": "W Che, Y Zhang",
+   "venue": "Deep learning in natural language processing, 79-116",
+   "year": "2018"
+  },
+  {
+   "title": "Chart2code53: A large-scale diverse and complex dataset for enhancing chart-to-code generation",
+   "authors": "T Niu, Y Cui, B Wang, X Xu, X Yao, Q Zhu, D Wu, S Wang, W Che",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Ecm: A unified electronic circuit model for explaining the emergence of in-context learning and chain-of-thought in large language model",
+   "authors": "Q Chen, L Qin, J Liu, D Peng, J Wang, M Hu, Z Chen, W Che, T Liu",
+   "venue": "arXiv preprint arXiv:2502.03325",
+   "year": "2025"
+  },
+  {
+   "title": "ManagerTower: Aggregating the insights of uni-modal experts for vision-language representation learning",
+   "authors": "X Xu, B Li, C Wu, SY Tseng, A Bhiwandiwalla, S Rosenman, V Lal, W Che, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Hit-scir at mmnlu-22: Consistency regularization for multilingual spoken language understanding",
+   "authors": "B Zheng, Z Li, F Wei, Q Chen, L Qin, W Che",
+   "venue": "Proceedings of the Massively Multilingual Natural Language Understanding …",
+   "year": "2022"
+  },
+  {
+   "title": "A closer look into the robustness of neural dependency parsers using better adversarial examples",
+   "authors": "Y Wang, W Che, I Titov, SB Cohen, Z Lei, T Liu",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring segment representations for neural semi-Markov conditional random fields",
+   "authors": "Y Liu, W Che, B Qin, T Liu",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 28, 813-824",
+   "year": "2020"
+  },
+  {
+   "title": "Benben: A Chinese intelligent conversational robot",
+   "authors": "WN Zhang, T Liu, B Qin, Y Zhang, W Che, Y Zhao, X Ding",
+   "venue": "Proceedings of ACL 2017, System Demonstrations, 13-18",
+   "year": "2017"
+  },
+  {
+   "title": "HIT Approaches to Entity Linking at TAC 2011.",
+   "authors": "Y Guo, G Tang, W Che, T Liu, S Li",
+   "venue": "TAC",
+   "year": "2011"
+  },
+  {
+   "title": "Using word sense disambiguation for semantic role labeling",
+   "authors": "W Che, T Liu",
+   "venue": "2010 4th International Universal Communication Symposium, 167-174",
+   "year": "2010"
+  },
+  {
+   "title": "On Safety Risks in Experience-Driven Self-Evolving Agents",
+   "authors": "W Zhao, Y Zhang, Y Wang, Y Deng, Y Zhao, X Zhi, Y Huang, H He, W Che, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 42145-42169",
+   "year": "2026"
+  },
+  {
+   "title": "CRVQ: Channel-relaxed vector quantization for extreme compression of LLMs",
+   "authors": "Y Xu, S Ji, Q Zhu, W Che",
+   "venue": "Transactions of the Association for Computational Linguistics 13, 1488-1506",
+   "year": "2025"
+  },
+  {
+   "title": "Lens: Rethinking multilingual enhancement for large language models",
+   "authors": "W Zhao, Y Hu, J Guo, X Sui, T Wu, Y Deng, Y Zhao, B Qin, W Che, T Liu",
+   "venue": "arXiv preprint arXiv:2410.04407",
+   "year": "2024"
+  },
+  {
+   "title": "Flextaf: Enhancing table reasoning with flexible tabular formats",
+   "authors": "X Zhang, D Wang, L Dou, B Wang, D Wu, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2408.08841",
+   "year": "2024"
+  },
+  {
+   "title": "FewJoint: few-shot learning for joint dialogue understanding",
+   "authors": "Y Hou, X Wang, C Chen, B Li, W Che, Z Chen",
+   "venue": "International Journal of Machine Learning and Cybernetics 13 (11), 3409-3423",
+   "year": "2022"
+  },
+  {
+   "title": "Overview of ctc 2021: Chinese text correction for native speakers",
+   "authors": "H Zhao, B Wang, D Wu, W Che, Z Chen, S Wang",
+   "venue": "arXiv preprint arXiv:2208.05681",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding patient query with weak supervision from doctor response",
+   "authors": "X Shi, S Zhao, Y Wang, X Chen, Z Zhang, Y Zheng, W Che",
+   "venue": "IEEE Journal of Biomedical and Health Informatics 26 (6), 2770-2777",
+   "year": "2021"
+  },
+  {
+   "title": "Stanford’s system for parsing the English web",
+   "authors": "D McClosky, W Che, M Recasens, M Wang, R Socher, C Manning",
+   "venue": "Workshop on the Syntactic Analysis of Non-Canonical Language (SANCL 2012 …",
+   "year": "2012"
+  },
+  {
+   "title": "Improving dependency parsing using punctuation",
+   "authors": "Z Li, W Che, T Liu",
+   "venue": "2010 International Conference on Asian Language Processing, 53-56",
+   "year": "2010"
+  },
+  {
+   "title": "Improving language model reasoning with self-motivated learning",
+   "authors": "Y Feng, Y Xu, L Qin, Y Wang, W Che",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Semantic-guided image augmentation with pre-trained models",
+   "authors": "B Li, X Wang, X Xu, Y Hou, Y Feng, F Wang, W Che",
+   "venue": "arXiv preprint arXiv:2302.02070 1",
+   "year": "2023"
+  },
+  {
+   "title": "Multilingual multi-aspect explainability analyses on machine reading comprehension models",
+   "authors": "Y Cui, WN Zhang, W Che, T Liu, Z Chen, S Wang",
+   "venue": "Iscience 25 (5)",
+   "year": "2022"
+  },
+  {
+   "title": "Discovering dialog structure graph for open-domain dialog generation",
+   "authors": "J Xu, Z Lei, H Wang, ZY Niu, H Wu, W Che, T Liu",
+   "venue": "arXiv preprint arXiv:2012.15543",
+   "year": "2020"
+  },
+  {
+   "title": "HIT-SCIR at MRP 2020: Transition-based parser and iterative inference parser",
+   "authors": "L Dou, Y Feng, Y Ji, W Che, T Liu",
+   "venue": "Proceedings of the CoNLL 2020 shared task: cross-framework meaning …",
+   "year": "2020"
+  },
+  {
+   "title": "Exploiting multi-typed treebanks for parsing with deep multi-task learning",
+   "authors": "J Guo, W Che, H Wang, T Liu",
+   "venue": "arXiv preprint arXiv:1606.01161",
+   "year": "2016"
+  },
+  {
+   "title": "Hit dependency parsing: Bootstrap aggregating heterogeneous parsers",
+   "authors": "M Zhang, W Che, Y Liu, Z Li, T Liu",
+   "venue": "Notes of the First Workshop on Syntactic Analysis of Non-Canonical Language …",
+   "year": "2012"
+  },
+  {
+   "title": "An svmtool-based chinese pos tagger",
+   "authors": "L Wang, W Che, T Liu",
+   "venue": "Journal of Chinese Information Processing 23 (4), 16-22",
+   "year": "2009"
+  },
+  {
+   "title": "Rbf++: Quantifying and optimizing reasoning boundaries across measurable and unmeasurable capabilities for chain-of-thought reasoning",
+   "authors": "Q Chen, L Qin, J Liu, Y Liao, J Wang, J Zhou, W Che",
+   "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+   "year": "2026"
+  },
+  {
+   "title": "Proxyattn: Guided sparse attention via representative heads",
+   "authors": "Y Wang, H He, S Bao, H Wang, Q Zhu, W Che",
+   "venue": "International Conference on Learning Representations 2026, 18603-18617",
+   "year": "2026"
+  },
+  {
+   "title": "Mpcc: A novel benchmark for multimodal planning with complex constraints in multimodal large language models",
+   "authors": "Y Ji, H Chen, Q Chen, C Wu, L Qin, W Che",
+   "venue": "Proceedings of the 33rd ACM International Conference on Multimedia, 5188-5197",
+   "year": "2025"
+  },
+  {
+   "title": "Commonkv: Compressing kv cache with cross-layer parameter sharing",
+   "authors": "Y Wang, H Qiao, L Li, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2508.16134",
+   "year": "2025"
+  },
+  {
+   "title": "Enabling real-time conversations with minimal training costs",
+   "authors": "W Xu, H Wang, S Wang, W Zhao, X Han, Y Yan, H Zhao, Y Zhang, Z Tao, ...",
+   "venue": "Proceedings of the 24th China National Conference on Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Make some noise: Unlocking language model parallel inference capability through noisy training",
+   "authors": "Y Wang, X Luo, F Wei, Y Liu, Q Zhu, X Zhang, Q Yang, D Xu, W Che",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Dapt: A dual attention framework for parameter-efficient continual learning of large language models",
+   "authors": "W Zhao, S Wang, Y Hu, Y Zhao, B Qin, X Zhang, Q Yang, D Xu, W Che",
+   "venue": "arXiv preprint arXiv:2401.08295",
+   "year": "2024"
+  },
+  {
+   "title": "Csed: A chinese semantic error diagnosis corpus",
+   "authors": "B Sun, B Wang, Y Wang, W Che, D Wu, S Wang, T Liu",
+   "venue": "arXiv preprint arXiv:2305.05183",
+   "year": "2023"
+  },
+  {
+   "title": "ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and Optimization for Retrieval-Augmented Generation.",
+   "authors": "H Chen, Y Yan, S Mei, W Che, Z Liu, Q Shi, X Li, Y Fan, P Huang, Q Xiong, ...",
+   "venue": "EMNLP (Findings), 19258-19278",
+   "year": "2025"
+  },
+  {
+   "title": "Enhancing numerical reasoning with the guidance of reliable reasoning processes",
+   "authors": "D Wang, L Dou, X Zhang, Q Zhu, W Che",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Beyond static evaluation: A dynamic approach to assessing AI assistants’ API invocation capabilities",
+   "authors": "H Mu, Y Xu, Y Feng, X Han, Y Li, Y Hou, W Che",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Exploring equation as a better intermediate meaning representation for numerical reasoning of large language models",
+   "authors": "D Wang, L Dou, W Zhang, J Zeng, W Che",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (17), 19116 …",
+   "year": "2024"
+  },
+  {
+   "title": "Combating with extremely noisy samples in weakly supervised slot filling for automatic diagnosis",
+   "authors": "X Shi, W Che",
+   "venue": "Frontiers of Computer Science 17 (5), 175333",
+   "year": "2023"
+  },
+  {
+   "title": "Towards complex scenarios: Building end-to-end task-oriented dialogue system across multiple knowledge bases",
+   "authors": "L Qin, Z Li, Q Yu, L Wang, W Che",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (11), 13483 …",
+   "year": "2023"
+  },
+  {
+   "title": "TD-GIN: token-level dynamic graph-interactive network for joint multiple intent detection and slot filling",
+   "authors": "L Qin, X Xu, W Che, T Liu",
+   "venue": "arXiv preprint arXiv:2004.10087",
+   "year": "2020"
+  },
+  {
+   "title": "An evaluation of chinese human-computer dialogue technology",
+   "authors": "Z Zhao, W Zhang, W Che, Z Chen, Y Zhang",
+   "venue": "Data Intelligence 1 (2), 187-200",
+   "year": "2019"
+  },
+  {
+   "title": "Few-shot sequence labeling with label dependency transfer",
+   "authors": "Y Hou, Z Zhou, Y Liu, N Wang, W Che, H Liu, T Liu",
+   "venue": "arXiv preprint arXiv:1906.08711",
+   "year": "2019"
+  },
+  {
+   "title": "Transition-based chinese semantic dependency graph parsing",
+   "authors": "Y Wang, J Guo, W Che, T Liu",
+   "venue": "International Symposium on Natural Language Processing Based on Naturally …",
+   "year": "2016"
+  },
+  {
+   "title": "Improving chinese pos tagging with dependency parsing",
+   "authors": "Z Li, W Che, T Liu",
+   "venue": "Proceedings of 5th International Joint Conference on Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Large language model agents are not always faithful self-evolvers",
+   "authors": "W Zhao, Y Wang, Y Zhang, Y Deng, Y Zhao, W Che, B Qin, T Liu",
+   "venue": "arXiv preprint arXiv:2601.22436",
+   "year": "2026"
+  },
+  {
+   "title": "Menvagent: Scalable polyglot environment construction for verifiable software engineering",
+   "authors": "C Guo, J Wu, S He, Y Chen, Z Kuang, S Fan, B Chen, S Bao, J Liu, H Wu, ...",
+   "venue": "arXiv preprint arXiv:2601.22859",
+   "year": "2026"
+  },
+  {
+   "title": "A two-stage framework with self-supervised distillation for cross-domain text classification",
+   "authors": "Y Feng, B Li, L Qin, X Xu, W Che",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "PRO-HAN: A heterogeneous graph attention network for profile-based spoken language understanding",
+   "authors": "D Teng, C Lu, X Xu, W Che, L Qin",
+   "venue": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2024"
+  },
+  {
+   "title": "Exploring equation as a better intermediate meaning representation for numerical reasoning",
+   "authors": "D Wang, L Dou, W Zhang, J Zeng, W Che",
+   "venue": "arXiv preprint arXiv:2308.10585",
+   "year": "2023"
+  },
+  {
+   "title": "Improving domain generalization for sound classification with sparse frequency-regularized transformer",
+   "authors": "H Mu, W Xia, W Che",
+   "venue": "2023 IEEE International Conference on Multimedia and Expo (ICME), 1104-1108",
+   "year": "2023"
+  },
+  {
+   "title": "OpenSLU: A unified, modularized, and extensible toolkit for spoken language understanding",
+   "authors": "L Qin, Q Chen, X Xu, Y Feng, W Che",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Adversarial training for machine reading comprehension with virtual embeddings",
+   "authors": "Z Yang, Y Cui, C Si, W Che, T Liu, S Wang, G Hu",
+   "venue": "Proceedings of* SEM 2021: The Tenth Joint Conference on Lexical and …",
+   "year": "2021"
+  },
+  {
+   "title": "Enhancing LSTM-based word segmentation using unlabeled data",
+   "authors": "B Zheng, W Che, J Guo, T Liu",
+   "venue": "China National Conference on Chinese Computational Linguistics, 60-70",
+   "year": "2017"
+  },
+  {
+   "title": "Jointly or separately: Which is better for parsing heterogeneous dependencies?",
+   "authors": "M Zhang, W Che, Y Shao, T Liu",
+   "venue": "Proceedings of COLING 2014, the 25th International Conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Micro blogs oriented word segmentation system",
+   "authors": "Y Liu, M Zhang, W Che, T Liu, Y Deng",
+   "venue": "Proceedings of the Second CIPS-SIGHAN Joint Conference on Chinese Language …",
+   "year": "2012"
+  },
+  {
+   "title": "Beam-search based high-order dependency parser [J]",
+   "authors": "Z LI, W CHE, T Liu",
+   "venue": "Journal of Chinese Information Processing 24 (1), 37-41",
+   "year": "2010"
+  },
+  {
+   "title": "Introduction to Information Retrieval System",
+   "authors": "T Liu, B Qin, Y Zhang, WX Che",
+   "venue": "Cambridge: Cambridge University Press 39, 234-265",
+   "year": "2008"
+  },
+  {
+   "title": "A fast clustering algorithm for abnormal and short texts",
+   "authors": "YG Huang, T Liu, WX Che",
+   "venue": "Journal of Chinese Information Processing 21 (2), 63-68",
+   "year": "2007"
+  },
+  {
+   "title": "Scaling laws for code: A more data-hungry regime",
+   "authors": "X Luo, W Zheng, Q Zhu, R Zhang, H Li, S Huang, YT Fan, W Che",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "CAMERA: Multi-matrix joint compression for MoE models via micro-expert redundancy analysis",
+   "authors": "Y Xu, X Han, Y Zhang, Y Wang, Y Liu, S Ji, Q Zhu, W Che",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (32), 27395 …",
+   "year": "2026"
+  },
+  {
+   "title": "CVE-Factory: Scaling Expert-Level Agentic Tasks for Code Security Vulnerability",
+   "authors": "X Luo, J Zhang, S Zhou, J Huang, C Xiao, Q Zhu, Z Ma, X Yue, Y Yue, ...",
+   "venue": "arXiv preprint arXiv:2602.03012",
+   "year": "2026"
+  },
+  {
+   "title": "The gains do not make up for the losses: a comprehensive evaluation for safety alignment of large language models via machine unlearning",
+   "authors": "W Zhao, Y Hu, X Sui, Z Li, Y Deng, Y Zhao, B Qin, W Che",
+   "venue": "Frontiers of Computer Science 20 (2), 2002319",
+   "year": "2026"
+  },
+  {
+   "title": "Improving Consistency Identification in Task-oriented Dialogue Through Multi-Agent Collaboration.",
+   "authors": "P Wang, S Li, R Zhou, Q Chen, X Xu, H Fei, D Li, W Che, L Qin",
+   "venue": "IJCAI, 8259-8267",
+   "year": "2025"
+  },
+  {
+   "title": "MixPro: Simple yet Effective Data Augmentation for Prompt-based Learning",
+   "authors": "B Li, L Dou, Y Hou, Y Feng, H Mu, E Wang, Q Zhu, Q Sun, W Che",
+   "venue": "International Journal of Machine Learning and Cybernetics 16 (7), 4879-4898",
+   "year": "2025"
+  },
+  {
+   "title": "ConDA: state-based data augmentation for context-dependent text-to-SQL",
+   "authors": "D Wang, L Dou, W Che, J Wang, J Liu, L Li, J Shang, L Tao, J Zhang, ...",
+   "venue": "International Journal of Machine Learning and Cybernetics 15 (8), 3157-3168",
+   "year": "2024"
+  },
+  {
+   "title": "Improving cross-lingual language understanding with consistency regularization-based fine-tuning",
+   "authors": "B Zheng, W Che",
+   "venue": "International Journal of Machine Learning and Cybernetics 14 (10), 3621-3639",
+   "year": "2023"
+  },
+  {
+   "title": "Metricprompt: Prompting model as a relevance metric for few-shot text classification",
+   "authors": "H Dong, W Zhang, W Che",
+   "venue": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and …",
+   "year": "2023"
+  },
+  {
+   "title": "FinBART: A Pre-trained Seq2seq Language Model for Chinese Financial Tasks",
+   "authors": "H Dong, W Che, X He, G Zheng, J Wen",
+   "venue": "Proceedings of the 22nd Chinese National Conference on Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Improving pre-trained language models with syntactic dependency prediction task for chinese semantic error recognition",
+   "authors": "B Sun, B Wang, W Che, D Wu, Z Chen, T Liu",
+   "venue": "arXiv preprint arXiv:2204.07464",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 20th Chinese National Conference on Computational Linguistics",
+   "authors": "S Li, M Sun, Y Liu, H Wu, K Liu, W Che, S He, G Rao",
+   "venue": "Proceedings of the 20th Chinese National Conference on Computational Linguistics",
+   "year": "2021"
+  },
+  {
+   "title": "A Comparison Sthdy of Sequence Labeling Methods for ChineseWords Segmentation POS Tagging Models",
+   "authors": "Y Liu, W Che, T Liu, M Zhang",
+   "venue": "Journal of Chinese information processing 27 (4), 30-36",
+   "year": "2013"
+  },
+  {
+   "title": "Fast deletion algorithm for large scale duplicated web pages",
+   "authors": "Z Gang, L Ting, Z Shifu, C Wan-Xiang, L Sheng",
+   "venue": "The twentieth anniversary Proceedings of the Chinese Information Processing …",
+   "year": "2001"
+  },
+  {
+   "title": "AI security beyond core domains: Resume screening as a case study of adversarial vulnerabilities in specialized LLM applications",
+   "authors": "H Mu, J Liu, K Wan, R Xing, X Chen, T Baldwin, W Che",
+   "venue": "International Journal of Machine Learning and Cybernetics 17 (9), 437",
+   "year": "2026"
+  },
+  {
+   "title": "OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Models",
+   "authors": "Q Chen, C Luan, J Wu, Q Yu, Y Yang, Y Li, J Tong, X Feng, L Qin, W Che",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Bounds of chain-of-thought robustness: Reasoning steps, embed norms, and beyond",
+   "authors": "D Wang, X Zhang, K Xu, Q Zhu, W Che, Y Deng",
+   "venue": "International Conference on Learning Representations 2026, 67627-67655",
+   "year": "2026"
+  },
+  {
+   "title": "Beware of reasoning overconfidence: Pitfalls in the reasoning process for multi-solution tasks",
+   "authors": "J Guan, Q Chen, L Qin, D Peng, J Liu, L Huo, J Xie, W Che",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (36), 30843 …",
+   "year": "2026"
+  },
+  {
+   "title": "RE2: improving Chinese grammatical error correction via retrieving appropriate examples with explanation",
+   "authors": "B Wang, Y Luo, Y Wang, D Wu, W Che, S Wang",
+   "venue": "Frontiers of Computer Science 19 (12), 1912381",
+   "year": "2025"
+  },
+  {
+   "title": "Beyond surface reasoning: Unveiling the true long chain-of-thought capacity of diffusion large language models",
+   "authors": "Q Chen, H Li, L Qin, D Peng, J Liu, J Wang, C Wu, X Chen, Y Du, W Che",
+   "venue": "arXiv preprint arXiv:2510.09544",
+   "year": "2025"
+  },
+  {
+   "title": "Aware first, think less: dynamic boundary self-awareness drives extreme reasoning efficiency in large language models",
+   "authors": "Q Chen, D Peng, J Liu, HK Su, J Guan, L Qin, W Che",
+   "venue": "arXiv preprint arXiv:2508.11582",
+   "year": "2025"
+  },
+  {
+   "title": "Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding",
+   "authors": "Y Wang, Y Liu, Y Xu, Y Xu, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2505.18629",
+   "year": "2025"
+  },
+  {
+   "title": "Kwaichat: A large-scale video-driven multilingual mixed-type dialogue corpus",
+   "authors": "X Shi, Z Liu, Y Lei, C Zhang, H Leng, C Wang, Q Liu, W Che, Y Wang",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 2279-2294",
+   "year": "2025"
+  },
+  {
+   "title": "Augmentation with neighboring information for conversational recommendation",
+   "authors": "Y Liu, J Pei, WN Zhang, M Li, W Che, M De Rijke",
+   "venue": "ACM Transactions on Information Systems 43 (3), 1-49",
+   "year": "2025"
+  },
+  {
+   "title": "In-context transfer learning: Demonstration synthesis by transferring similar tasks",
+   "authors": "D Wang, X Zhang, Q Chen, L Dou, X Xu, R Cao, Y Ma, Q Zhu, W Che, B Li, ...",
+   "venue": "arXiv preprint arXiv:2410.01548",
+   "year": "2024"
+  },
+  {
+   "title": "Decoupling Breaks Data Barriers: A Decoupled Pre-training Framework for Multi-intent Spoken Language Understanding.",
+   "authors": "L Qin, Q Chen, J Zhou, Q Li, C Lu, W Che",
+   "venue": "IJCAI, 6469-6477",
+   "year": "2024"
+  },
+  {
+   "title": "Semi-instruct: Bridging natural-instruct and self-instruct for code large language models",
+   "authors": "X Luo, Q Zhu, Z Zhang, X Wang, Q Yang, D Xu, W Che",
+   "venue": "arXiv preprint arXiv:2403.00338",
+   "year": "2024"
+  },
+  {
+   "title": "Adaptive unsupervised self-training for disfluency detection",
+   "authors": "Z Wang, Y Wang, S Wang, W Che",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Interactive gated decoder for machine reading comprehension",
+   "authors": "Y Cui, W Che, Z Yang, T Liu, B Qin, S Wang, G Hu",
+   "venue": "Transactions on Asian and Low-resource Language Information Processing 21 (4 …",
+   "year": "2022"
+  },
+  {
+   "title": "Learning-based hybrid local search for the hard-label textual attack",
+   "authors": "Z Yu, X Wang, W Che, K He",
+   "venue": "arXiv preprint arXiv 2201",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding attention in machine reading comprehension",
+   "authors": "Y Cui, WN Zhang, W Che, T Liu, Z Chen",
+   "venue": "arXiv e-prints, arXiv: 2108.11574",
+   "year": "2021"
+  },
+  {
+   "title": "Active learning for Chinese dependency parsing",
+   "authors": "WX Che, MS Zhang, T Liu",
+   "venue": "Journal of Chinese information processing 26 (2012), 18-22",
+   "year": "2012"
+  },
+  {
+   "title": "A new Chinese natural language understanding architecture based on multilayer search mechanism",
+   "authors": "W Che, T Liu, S Li",
+   "venue": "Proceedings of the Third SIGHAN Workshop on Chinese Language Processing, 134-140",
+   "year": "2004"
+  },
+  {
+   "title": "When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models",
+   "authors": "X Dong, Z Han, T Niu, Q Zhu, W Che",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "From Holistic Evaluation to Structured Criteria: Rubrics Across the Evolving LLM Landscape",
+   "authors": "H Chen, Z Han, Y Yan, Q Zhu, M Sun, W Che",
+   "venue": "arXiv preprint arXiv:2606.08625",
+   "year": "2026"
+  },
+  {
+   "title": "Scaling Laws for Agent Harnesses via Effective Feedback Compute",
+   "authors": "X Zhang, D Wang, K Xu, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2605.29682",
+   "year": "2026"
+  },
+  {
+   "title": "How many code and test cases are enough? evaluating test cases generation from a binary-matrix perspective",
+   "authors": "X Luo, J Huang, W Zheng, Q Zhu, M Xu, Y Xu, YT Fan, W Che",
+   "venue": "International Conference on Learning Representations 2026, 38008-38050",
+   "year": "2026"
+  },
+  {
+   "title": "Judge q: Trainable queries for optimized information retention in kv cache eviction",
+   "authors": "Y Liu, Y Wang, Y Xu, S Ji, Y Xu, Q Zhu, W Che",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (38), 32240 …",
+   "year": "2026"
+  },
+  {
+   "title": "Know more, know clearer: A meta-cognitive framework for knowledge augmentation in large language models",
+   "authors": "H Chen, Y He, Y Fan, Y Yan, Z Liu, Q Zhu, M Sun, W Che",
+   "venue": "arXiv preprint arXiv:2602.12996",
+   "year": "2026"
+  },
+  {
+   "title": "Abacus-SQL: a text-to-SQL system empowering cross-domain and open-domain database retrieval",
+   "authors": "K Xu, D Wang, X Zhang, Q Zhu, W Che",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Exploring multi-grained concept annotations for multimodal large language models",
+   "authors": "X Xu, T Niu, Y Xie, L Qin, W Che, MY Kan",
+   "venue": "arXiv preprint arXiv:2412.05939",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-hop table retrieval for open-domain text-to-sql",
+   "authors": "X Zhang, D Wang, L Dou, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2402.10666",
+   "year": "2024"
+  },
+  {
+   "title": "Unlocking the boundaries of thought: A reasoning granularity framework to quantify and optimize chain-of-thought",
+   "authors": "Q Chen, L Qin, J Wang, J Zhou, W Che",
+   "venue": "Proc. of NeurIPS",
+   "year": "2024"
+  },
+  {
+   "title": "Chinese Computational Linguistics: 21st China National Conference, CCL 2022, Nanchang, China, October 14–16, 2022, Proceedings",
+   "authors": "M Sun, Y Liu, W Che, Y Feng, X Qiu, G Rao, Y Chen",
+   "venue": "Springer Nature",
+   "year": "2022"
+  },
+  {
+   "title": "CGIM: a cycle guided interactive learning model for consistency identification in task-oriented dialogue",
+   "authors": "L Qin, Q Chen, T Xie, Q Liu, S Huang, W Che, Z Yu",
+   "venue": "Proceedings of the 29th international conference on computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Contextual recurrent units for cloze-style reading comprehension",
+   "authors": "Y Cui, WN Zhang, W Che, T Liu, Z Chen, S Wang, G Hu",
+   "venue": "arXiv preprint arXiv:1911.05960",
+   "year": "2019"
+  },
+  {
+   "title": "Towards better UD parsing: Deep contextualized word embeddings",
+   "authors": "W Che, Y Liu, Y Wang, B Zheng, T Liu",
+   "venue": "Proceedings of CoNLL Shared Task: Multilingual Parsing from Raw Text to …",
+   "year": "2018"
+  },
+  {
+   "title": "Enhancing Neural Disfluency Detection with Hand-Crafted Features",
+   "authors": "S Wang, W Che, Y Liu, T Liu",
+   "venue": "International Symposium on Natural Language Processing Based on Naturally …",
+   "year": "2016"
+  },
+  {
+   "title": "Reliable dependency arc recognition",
+   "authors": "W Che, J Guo, T Liu",
+   "venue": "Expert Systems with Applications 41 (4), 1716-1722",
+   "year": "2014"
+  },
+  {
+   "title": "Stacking heterogeneous joint models of Chinese POS tagging and dependency parsing",
+   "authors": "M Zhang, W Che, T Liu, Z Li",
+   "venue": "Proceedings of COLING 2012, 3071-3088",
+   "year": "2012"
+  },
+  {
+   "title": "Semi-supervised domain adaptation for WSD: Using a word-by-word model selection approach",
+   "authors": "Y Guo, W Che, T Liu, S Li",
+   "venue": "9th IEEE International Conference on Cognitive Informatics (ICCI'10), 680-687",
+   "year": "2010"
+  },
+  {
+   "title": "Information retrieval system introduction",
+   "authors": "T Liu, B Qin, Y Zhang, W Che",
+   "venue": "China Machine Press, 70-75",
+   "year": "2008"
+  },
+  {
+   "title": "Epibench: Benchmarking multi-turn research workflows for multimodal agents",
+   "authors": "X Dong, H Zheng, T Niu, Z Han, P Li, B Liu, Z Liu, G Li, Q Zhu, W Che",
+   "venue": "European Conference on Computer Vision, 240-256",
+   "year": "2026"
+  },
+  {
+   "title": "Dashboard2Code: Evaluating Multimodal Models on Reconstructing Interactive Dashboards",
+   "authors": "T Niu, Z Han, Q Chen, S Zhou, B Shan, H Fang, Q Zhu, W Che",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Seer self-consistency: Advance budget estimation for adaptive test-time scaling",
+   "authors": "S Ji, Y Wang, Y Liu, Q Zhu, W Che",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 42734-42747",
+   "year": "2026"
+  },
+  {
+   "title": "Learning the boundary of solvability: Aligning llms to detect unsolvable problems",
+   "authors": "D Peng, Q Chen, B Liu, J Guan, L Qin, Z Yan, J Liu, J Zhang, W Che",
+   "venue": "arXiv preprint arXiv:2512.01661",
+   "year": "2025"
+  },
+  {
+   "title": "Interactive End-to-End Decompilation via Large Language Models",
+   "authors": "Y Feng, B Li, X Shi, Q Zhu, W Che",
+   "venue": "Electronics 14 (22), 4442",
+   "year": "2025"
+  },
+  {
+   "title": "Beyond correctness: Evaluating subjective writing preferences across cultures",
+   "authors": "S Ying, Y Li, X Qu, X Li, S Jin, M Liu, Z Wen, X Du, T Zheng, Y Zhang, L Ni, ...",
+   "venue": "arXiv preprint arXiv:2510.14616",
+   "year": "2025"
+  },
+  {
+   "title": "Manager: Aggregating insights from unimodal experts in two-tower vlms and mllms",
+   "authors": "X Xu, L Qin, W Che, MY Kan",
+   "venue": "IEEE Transactions on Circuits and Systems for Video Technology 35 (12 …",
+   "year": "2025"
+  },
+  {
+   "title": "Success is in the Details: Evaluate and Enhance Details Sensitivity of Code LLMs through Counterfactuals",
+   "authors": "X Luo, Q Zhu, Z Zhang, M Xu, T Cheng, Y Wang, Z Chu, S Xuyang, Z Ma, ...",
+   "venue": "arXiv preprint arXiv:2505.14597",
+   "year": "2025"
+  },
+  {
+   "title": "MULTITAT: Benchmarking Multilingual Table-and-Text Question Answering.",
+   "authors": "X Zhang, D Wang, K Xu, Q Zhu, W Che",
+   "venue": "EMNLP (Findings), 626-647",
+   "year": "2025"
+  },
+  {
+   "title": "Character-level syntax infusion in pre-trained models for chinese semantic role labeling",
+   "authors": "Y Wang, Z Lei, W Che",
+   "venue": "International Journal of Machine Learning and Cybernetics 12 (12), 3503-3515",
+   "year": "2021"
+  },
+  {
+   "title": "End-to-end task-oriented dialogue system with distantly supervised knowledge base retriever",
+   "authors": "L Qin, Y Liu, W Che, H Wen, T Liu",
+   "venue": "China National Conference on Chinese Computational Linguistics, 238-249",
+   "year": "2018"
+  },
+  {
+   "title": "A semantics oriented grammar for chinese treebanking",
+   "authors": "M Zhang, Y Zhang, W Che, T Liu",
+   "venue": "International Conference on Intelligent Text Processing and Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Enhancing Chinese Word Segmentation with Character Clustering",
+   "authors": "Y Liu, W Che, T Liu",
+   "venue": "International Symposium on Natural Language Processing Based on Naturally …",
+   "year": "2013"
+  },
+  {
+   "title": "Improve Chinese semantic dependency parsing via syntactic dependency parsing",
+   "authors": "M Zhang, W Che, Y Shao, T Liu",
+   "venue": "2012 International Conference on Asian Language Processing, 53-56",
+   "year": "2012"
+  },
+  {
+   "title": "Word Sense Disambiguation Corpora Acquisition via Confirmation Code",
+   "authors": "W Che, T Liu",
+   "venue": "Proceedings of 5th International Joint Conference on Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "A Study on Constituentto-Dependency Conversion",
+   "authors": "Z Li, W Che, T Liu",
+   "venue": "Journal of Chinese Information Processing 22 (6), 14-20",
+   "year": "2008"
+  },
+  {
+   "title": "LifeMem: Enabling Lifelong Experience Reuse for LLM Agents",
+   "authors": "Y Qiu, Y Li, W Su, Z Liu, W Che, H Huang, H Wang, Y Guo",
+   "venue": "arXiv preprint arXiv:2609.12655",
+   "year": "2026"
+  },
+  {
+   "title": "FormalTCS: Benchmarking End-to-End Frontier Formal Theoretical Computer Science Research of Large Language Models",
+   "authors": "D Wang, X Zhang, K Xu, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2608.20153",
+   "year": "2026"
+  },
+  {
+   "title": "Format-Adapter: Improving Reasoning Capability of LLMs by Adapting Suitable Format",
+   "authors": "D Wang, X Zhang, R Cao, L Dou, X Luo, Y Ma, Q Zhu, B Li, F Huang, Y Li",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 22408-22427",
+   "year": "2026"
+  },
+  {
+   "title": "Epistemic Exploration Toward Artificial General Intelligence",
+   "authors": "Y Ban, F Yang, F Chen, Y Wang, Z Chen, Z Li, Z Huang, X Zhang, G Li, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Fitting Is Not Enough: Smoothness in Extremely Quantized LLMs",
+   "authors": "Y Xu, X Han, Y Li, P Li, W Che",
+   "venue": "arXiv preprint arXiv:2605.08894",
+   "year": "2026"
+  },
+  {
+   "title": "Evolving LLMs from Next-Token Prediction to Multi-Token Prediction via Self-Distillation",
+   "authors": "Y Xu, W Che",
+   "venue": "Electronics 15 (7), 1533",
+   "year": "2026"
+  },
+  {
+   "title": "EchoKV: Efficient KV Cache Compression via Similarity-Based Reconstruction",
+   "authors": "S Ji, Y Wang, Y Liu, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2603.22910",
+   "year": "2026"
+  },
+  {
+   "title": "Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Significant Gains in Reasoning Efficiency in Large Language Models",
+   "authors": "Q Chen, D Peng, J Liu, H Su, J Guan, L Qin, W Che",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (36), 30261 …",
+   "year": "2026"
+  },
+  {
+   "title": "How Do Language Models Understand Tables? A Mechanistic Analysis of Cell Location",
+   "authors": "X Zhang, D Wang, K Xu, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2602.08548",
+   "year": "2026"
+  },
+  {
+   "title": "The molecular structure of thought: Mapping the topology of long chain-of-thought reasoning",
+   "authors": "Q Chen, Y Du, Z Li, J Liu, S Duan, J Guo, M Liu, J Liu, T Yang, G Zhang, ...",
+   "venue": "arXiv preprint arXiv:2601.06002",
+   "year": "2026"
+  },
+  {
+   "title": "Program of actions (POA): interactive semantic action parser as more powerful dialogue state tracker through code generation",
+   "authors": "D Teng, Z Yan, W Che",
+   "venue": "Expert Systems with Applications, 130481",
+   "year": "2025"
+  },
+  {
+   "title": "The Universal Landscape of Human Reasoning",
+   "authors": "Q Chen, J Liu, L Qin, Y Zhang, Y Liang, S Ren, C Luan, D Peng, H Li, ...",
+   "venue": "arXiv preprint arXiv:2510.21623",
+   "year": "2025"
+  },
+  {
+   "title": "MPFToD: a modularized pre-training framework for consistency identification in task-oriented dialogue",
+   "authors": "L Qin, S Huang, Q Chen, Q Liu, W Che, R Xu",
+   "venue": "Frontiers of Computer Science 19 (10), 1910351",
+   "year": "2025"
+  },
+  {
+   "title": "Multi-Layer Attention is the Amplifier of Demonstration Effectiveness",
+   "authors": "D Wang, X Zhang, K Xu, Q Zhu, W Che, Y Deng",
+   "venue": "arXiv preprint arXiv:2508.00385",
+   "year": "2025"
+  },
+  {
+   "title": "AlignEvoSkill: Towards Knowledge-Aware and Task-Aligned Agent Skill Evolution",
+   "authors": "D Wang, X Zhang, K Xu, Q Zhu, W Che, Y Deng",
+   "venue": "arXiv preprint arXiv:2506.23149",
+   "year": "2025"
+  },
+  {
+   "title": "V-SYNTHESIS: Task-Agnostic Synthesis of Consistent and Diverse In-Context Demonstrations from Scratch via V-Entropy",
+   "authors": "D Wang, X Zhang, K Xu, Q Zhu, W Che, Y Deng",
+   "venue": "arXiv e-prints, arXiv: 2506.23149",
+   "year": "2025"
+  },
+  {
+   "title": "Electronic Circuit Principles of Large Language Models",
+   "authors": "Q Chen, L Qin, J Liu, D Peng, J Wang, M Hu, Z Chen, W Che, T Liu",
+   "venue": "arXiv preprint arXiv:2502.03325",
+   "year": "2025"
+  },
+  {
+   "title": "Towards few-shot mixed-type dialogue generation",
+   "authors": "Z Liu, H Wang, Z Lei, ZY Niu, H Wu, W Che",
+   "venue": "Science China Information Sciences 68 (2), 122105",
+   "year": "2025"
+  },
+  {
+   "title": "The construction of a chinese semantic dependency graph bank",
+   "authors": "Y Shao, W Che, T Liu, Y Ding",
+   "venue": "Chinese Language Resources: Data Collection, Linguistic Analysis, Annotation …",
+   "year": "2023"
+  },
+  {
+   "title": "System Report for CCL23-Eval Task 8: Chinese Grammar Error Detection and Correction Using Multi-Granularity Information",
+   "authors": "Y Wang, Y Liu, B Sun, W Che",
+   "venue": "Proceedings of the 22nd Chinese National Conference on Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "多模态与文本预训练模型的文本嵌入差异研究",
+   "authors": "Y Sun, X Cheng, R Song, W Che, Z Lu, J Wen",
+   "venue": "Beijing Daxue Xuebao (Ziran Kexue Ban)/Acta Scientiarum Naturalium …",
+   "year": "2023"
+  },
+  {
+   "title": "大模型时代的自然语言处理: 挑战, 机遇与发展",
+   "authors": "W Che, Z Dou, Y Feng, T Gui, X Han, B Hu, M Huang, X Huang, K Liu, ...",
+   "venue": "Scientia Sinica Informationis 53 (9), 1645-1687",
+   "year": "2023"
+  },
+  {
+   "title": "Chinese Computational Linguistics",
+   "authors": "J Li, M Ren, Y Gao, Y Yang, M Sun, B Qin, X Qiu, J Jing, X Han, G Rao, ...",
+   "venue": "Springer Nature Singapore, Singapore",
+   "year": "2023"
+  },
+  {
+   "title": "Difference between Multi-modal vs. Text Pre-trained Models in Embedding Text",
+   "authors": "Y Sun, X Cheng, R Song, W Che, Z Lu, J Wen",
+   "venue": "Acta Scientiarum Naturalium Universitatis Pekinensis 59 (1), 48-56",
+   "year": "2023"
+  },
+  {
+   "title": "Simple and effective graph-to-graph annotation conversion",
+   "authors": "Y Wang, Z Lei, Y Ji, W Che",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Coherent dialog generation with query graph",
+   "authors": "J Xu, Z Lei, H Wang, ZY Niu, H Wu, W Che, J Huang, T Liu",
+   "venue": "Transactions on Asian and Low-Resource Language Information Processing 20 (6 …",
+   "year": "2021"
+  },
+  {
+   "title": "An evaluation of Chinese human-computer dialogue technology",
+   "authors": "Z Feng, C Zhu, W Zhang, Z Chen, W Che, M Huang, L Li",
+   "venue": "Data Intelligence 3 (2), 274-286",
+   "year": "2021"
+  },
+  {
+   "title": "A Key-Phrase Aware End2end Neural Response Generation Model",
+   "authors": "J Xu, H Wang, Z Niu, H Wu, W Che",
+   "venue": "CCF International Conference on Natural Language Processing and Chinese …",
+   "year": "2019"
+  },
+  {
+   "title": "HIT-CIR: An unsupervised WSD system based on domain most frequent sense estimation",
+   "authors": "Y Guo, W Che, W He, T Liu, S Li",
+   "venue": "Proceedings of the 5th International Workshop on Semantic Evaluation, 407-410",
+   "year": "2010"
+  },
+  {
+   "title": "Fast Computing Grammar-driven Convolution Tree Kernel for Semantic Role Labeling",
+   "authors": "W Che, M Zhang, A Aw, CL Tan, T Liu, S Li",
+   "venue": "Proceedings of the Third International Joint Conference on Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Inside VLM Chart Reading: Tracing Value Reading from Vertical Bar Charts Across Space and Depth",
+   "authors": "T Niu, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2609.13745",
+   "year": "2026"
+  },
+  {
+   "title": "EpiBench: Benchmarking Multi-turn",
+   "authors": "Z Liu, G Li, Q Zhu, W Che",
+   "venue": "Computer Vision–ECCV 2026: 19th European Conference, Malmö, Sweden …",
+   "year": "2026"
+  },
+  {
+   "title": "Towards Generalizable Visually Grounded Exploration of Household Devices",
+   "authors": "L Zheng, Z Liu, W Chen, L Zeng, W Che, H Huang, Y Guo",
+   "venue": "arXiv preprint arXiv:2609.00845",
+   "year": "2026"
+  },
+  {
+   "title": "ColdChat: benchmarking large language model personalization using limited real-user interaction history",
+   "authors": "W Zhang, Z Zeng, Z Liu, W Che",
+   "venue": "Frontiers of Computer Science 20 (9), 2009373",
+   "year": "2026"
+  },
+  {
+   "title": "CurateEvo: Data-Curation Evolving for Agentic Post-Training",
+   "authors": "D Wang, X Zhang, K Xu, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2607.06140",
+   "year": "2026"
+  },
+  {
+   "title": "What You See Is What You Get: Observation-Aligned Supervision for Chart-to-Code Generation",
+   "authors": "T Niu, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2607.04726",
+   "year": "2026"
+  },
+  {
+   "title": "HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization",
+   "authors": "B Shan, Y Xu, W Che",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs",
+   "authors": "Y Xu, X Han, Y Li, W Che",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "AutoVecCoder: Teaching LLMs to Generate Explicitly Vectorized Code",
+   "authors": "S Li, X Yin, X Jin, Y He, Y Zhou, Y Li, X Han, W Che, Q Shi, T Liu, M Sun",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 31942-31959",
+   "year": "2026"
+  },
+  {
+   "title": "SDAM: Structure-Difference-Aware Memory Evolution for Complex Text-to-SQL",
+   "authors": "K Xu, D Wang, X Zhang, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2608.12338",
+   "year": "2026"
+  },
+  {
+   "title": "From Holistic Evaluation to Structured Criteria: A Survey of Rubrics Across the Evolving LLM Landscape",
+   "authors": "H Chen, Z Han, Y Yan, Q Zhu, M Sun, W Che",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "ChartREG++: Towards Benchmarking and Improving Chart Referring Expression Grounding under Diverse referring clues and Multi-Target Referring",
+   "authors": "T Niu, Z Han, X Dong, Q Zhu, W Che",
+   "venue": "arXiv preprint arXiv:2605.07415",
+   "year": "2026"
+  },
+  {
+   "title": "Unlocking The Potential of Social Media Preference for Annotation-Efficient Large Language Model Alignment",
+   "authors": "W Zhang, W Che",
+   "venue": "ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2026"
+  },
+  {
+   "title": "ESAinsTOD: a unified end-to-end schema-aware instruction-tuning framework for task-oriented dialog modeling",
+   "authors": "D Teng, C Lu, L Qin, W Che",
+   "venue": "International Journal of Machine Learning and Cybernetics 17 (3), 127",
+   "year": "2026"
+  },
+  {
+   "title": "When Does Context Help? Error Dynamics of Contextual Information in Large Language Models",
+   "authors": "D Wang, X Zhang, K Xu, Q Zhu, W Che, Y Deng",
+   "venue": "arXiv preprint arXiv:2602.08294",
+   "year": "2026"
+  },
+  {
+   "title": "Automated Snippet-Alignment Data Augmentation for Code Translation",
+   "authors": "Z Zhang, Q Zhu, X Luo, Y Wang, B Li, W Che",
+   "venue": "arXiv preprint arXiv:2510.15004",
+   "year": "2025"
+  },
+  {
+   "title": "COIG-Writer: A High-Quality Dataset for Chinese Creative Writing with Thought Processes",
+   "authors": "Y Li, S Ying, X Qu, X Li, S Jin, M Liu, Z Wen, T Zheng, X Du, Q Chen, J Shi, ...",
+   "venue": "arXiv preprint arXiv:2510.14763",
+   "year": "2025"
+  },
+  {
+   "title": "HIT-SCIR at IJCKG2025: Multi-step Text-to-SQL System",
+   "authors": "D Wang, X Zhang, K Xu, Q Zhu, W Che",
+   "venue": "International Joint Conference on Knowledge Graphs, 529-536",
+   "year": "2025"
+  },
+  {
+   "title": "AutoPR: Let's Automate Your Academic Promotion!",
+   "authors": "Q Chen, Z Yan, M Yang, L Qin, Y Yuan, H Li, J Liu, Y Ji, D Peng, J Guan, ...",
+   "venue": "arXiv preprint arXiv:2510.09558",
+   "year": "2025"
+  },
+  {
+   "title": "From unimodal to multimodal: a framework for generating high-quality multimodal emotional chit-chat dialogue",
+   "authors": "H Yang, T Zheng, Y Zhao, Y Wu, J Yuan, W Che, S Wang, S Wei, B Qin",
+   "venue": "Science China Information Sciences 68 (10), 200105",
+   "year": "2025"
+  },
+  {
+   "title": "Learning-to-Context Slope: Evaluating In-Context Learning Effectiveness Beyond Performance Illusions",
+   "authors": "D Wang, X Zhang, K Xu, Q Zhu, W Che, Y Deng",
+   "venue": "arXiv preprint arXiv:2506.23146",
+   "year": "2025"
+  },
+  {
+   "title": "Is Compression Really Linear with Code Intelligence?",
+   "authors": "S Xuyang, X Luo, Z Chu, H Li, S Huang, Q Wang, W Che, Q Zhu, S Zhou",
+   "venue": "arXiv preprint arXiv:2505.11441",
+   "year": "2025"
+  },
+  {
+   "title": "HIT-SCIR at CCKS-IJCKG2024: Enhancing Text-to-SQL with Multi-step Pipeline",
+   "authors": "D Wang, X Zhang, K Xu, W Che",
+   "venue": "China Conference on Knowledge Graph and Semantic Computing, 496-504",
+   "year": "2024"
+  },
+  {
+   "title": "中文图文多模态理解评测",
+   "authors": "Y Wang, Y Liu, Z Wan, W Che",
+   "venue": "Proceedings of the 23rd Chinese National Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "SpanCS: 面向跨语言代码生成的片段级语码转换 (SpanCS: Span-Level Code-Switching for Cross-Lingual Code Generation)",
+   "authors": "Q Zhu, S Zhou, S Wang, Z Zhang, H Wang, Q Chen, W Che",
+   "venue": "Proceedings of the 23rd Chinese National Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "CCL24-Eval 任务 9 总结报告: 中文图文多模态理解评测",
+   "authors": "Y Wang, Y Liu, Z Wan, W Che",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "SpanCS: 面向跨语言代码生成的片段级语码转换",
+   "authors": "Q Zhu, S Zhou, S Wang, Z Zhang, H Wang, Q Chen, W Che",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "MultiPoT: Multilingual Program of Thoughts Harnesses Multiple Programming Languages.",
+   "authors": "X Luo, Q Zhu, Z Zhang, L Qin, X Wang, Q Yang, D Xu, W Che",
+   "venue": "CoRR",
+   "year": "2024"
+  },
+  {
+   "title": "Dependency Graph Bank",
+   "authors": "Y Shao, W Che, T Liu, Y Ding",
+   "venue": "Chinese Language Resources: Data Collection, Linguistic Analysis, Annotation …",
+   "year": "2023"
+  },
+  {
+   "title": "TiBERT: A Non-autoregressive Pre-trained Model for Text Editing",
+   "authors": "B Wang, Z Wang, W Che, D Wu, R Zhang, B Wang, S Wang",
+   "venue": "CCF International Conference on Natural Language Processing and Chinese …",
+   "year": "2023"
+  },
+  {
+   "title": "Controllable Data Augmentation for Context-Dependent Text-to-SQL",
+   "authors": "D Wang, L Dou, W Che",
+   "venue": "arXiv preprint arXiv:2304.13902",
+   "year": "2023"
+  },
+  {
+   "title": "System with Distantly Supervised Knowledge Base Retriever",
+   "authors": "L Qin, Y Liu, W Che, H Wen, T Liu",
+   "venue": "Chinese Computational Linguistics and Natural Language Processing Based on …",
+   "year": "2018"
+  },
+  {
+   "title": "HC-Search for Incremental Parsing.",
+   "authors": "Y Liu, W Che, B Qin, T Liu",
+   "venue": "IJCAI, 2887-2893",
+   "year": "2016"
+  },
+  {
+   "title": "Multiple TreeBanks Integration for Chinese Phrase Structure Grammar Parsing Using Bagging",
+   "authors": "M Zhang, W Che, T Liu",
+   "venue": "Proceedings of the Second CIPS-SIGHAN Joint Conference on Chinese Language …",
+   "year": "2012"
+  },
+  {
+   "title": "Hierarchical Bracketing Encodings for Dependency Parsing as Tagging: Hierakkinen sulutuskoodaus dependenssijäsentämisen suorittamiseksi täggaamalla",
+   "authors": "A Ezquerro, D Vilares, A Yli-Jyrä, C Gómez-Rodríguez, W Che, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Beyond Score: A Multi-Agent System to Discover Capability and Behavioral Weaknesses in LLMs",
+   "authors": "X Zhang, C Yang, Z Wen, D Wang, J Liu, G Zhang, X ZHAO, T Feng, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "COIG-Writer: A High-Quality Chinese Creative Writing with Thought Process Dataset",
+   "authors": "Y Li, S Ying, X Qu, X Li, S Jin, M Liu, Z Wen, T Zheng, X Du, Q Chen, J Shi, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Data Paper",
+   "authors": "Z Feng, C Zhu, W Zhang, Z Chen, W Che, J Yuan, Z Wei, Y Gao, W Chen, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Benchmark of Discovering Drug-Target Interaction from Biomedical Literature",
+   "authors": "Y Hou, Y Xia, L Wu, S Xie, Y Fan, J Zhu, W Che, T Qin, TY Liu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Abnormal Short Texts Fast Clustering Algorithm",
+   "authors": "H Yongguang, L Ting, C Wanxiang, H Xiaoguang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Rafael Banchs, Institute for Infocomm Research (I2R), A* STAR, Singapore Guosheng Ben, Chinese Academy of Sciences, Beijing, China Brigitte Bigi, Laboratoire Parole et Langage …",
+   "authors": "S Cai, HT Cao, E Castelli, L Cen, P Chan, CC Chang, TH Chang, W Che, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

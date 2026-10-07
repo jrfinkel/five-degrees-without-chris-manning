@@ -1,0 +1,341 @@
+{
+ "user": "fsA2vigAAAAJ",
+ "pubs": [
+  {
+   "title": "Networks of strong ties",
+   "authors": "X Shi, L Adamic, M Strauss",
+   "venue": "Physica A: Statistical Mechanics and its Applications 378 (1), 33-47",
+   "year": "2007"
+  },
+  {
+   "title": "Measurement Error in Network Data: A Re-Classification",
+   "authors": "DJ Wang, X Shi, DA McFarland, J Leskovec",
+   "venue": "Social Networks",
+   "year": "2012"
+  },
+  {
+   "title": "Beyond clicks: query reformulation as a predictor of search satisfaction",
+   "authors": "A Hassan, X Shi, N Craswell, B Ramsey",
+   "venue": "Proceedings of the 22nd ACM international conference on Information …",
+   "year": "2013"
+  },
+  {
+   "title": "Dynamics of bidding in a P2P lending service: effects of herding and predicting loan success",
+   "authors": "S Ceyhan, X Shi, J Leskovec",
+   "venue": "Proceedings of the 20th international conference on World wide web, 547-556",
+   "year": "2011"
+  },
+  {
+   "title": "I know you'll be back: Interpretable new user clustering and churn prediction on a mobile social application",
+   "authors": "C Yang, X Shi, L Jie, J Han",
+   "venue": "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge …",
+   "year": "2018"
+  },
+  {
+   "title": "Understanding and predicting graded search satisfaction",
+   "authors": "J Jiang, A Hassan Awadallah, X Shi, RW White",
+   "venue": "Proceedings of the eighth ACM international conference on web search and …",
+   "year": "2015"
+  },
+  {
+   "title": "Data-driven metric development for online controlled experiments: Seven lessons learned",
+   "authors": "A Deng, X Shi",
+   "venue": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge …",
+   "year": "2016"
+  },
+  {
+   "title": "User grouping behavior in online forums",
+   "authors": "X Shi, J Zhu, R Cai, L Zhang",
+   "venue": "Proceedings of the 15th ACM SIGKDD international conference on Knowledge …",
+   "year": "2009"
+  },
+  {
+   "title": "Citing for high impact",
+   "authors": "X Shi, J Leskovec, DA McFarland",
+   "venue": "Proceedings of the 10th annual joint conference on Digital libraries, 49-58",
+   "year": "2010"
+  },
+  {
+   "title": "Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat",
+   "authors": "Y Liu, X Shi, L Pierce, X Ren",
+   "venue": "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge …",
+   "year": "2019"
+  },
+  {
+   "title": "Looking at the blogosphere topology through different lenses.",
+   "authors": "X Shi, BL Tseng, LA Adamic",
+   "venue": "ICWSM",
+   "year": "2007"
+  },
+  {
+   "title": "Recent advances in transition-metal-catalyzed incorporation of fluorine-containing groups",
+   "authors": "X Li, X Shi, X Li, D Shi",
+   "venue": "Beilstein Journal of Organic Chemistry 15 (1), 2213-2270",
+   "year": "2019"
+  },
+  {
+   "title": "Knowing your fate: Friendship, action and temporal explanations for user engagement prediction on social apps",
+   "authors": "X Tang, Y Liu, N Shah, X Shi, P Mitra, S Wang",
+   "venue": "Proceedings of the 26th ACM SIGKDD international conference on knowledge …",
+   "year": "2020"
+  },
+  {
+   "title": "Information diffusion in computer science citation networks",
+   "authors": "X Shi, B Tseng, L Adamic",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 3 …",
+   "year": "2009"
+  },
+  {
+   "title": "Evaluating and predicting user engagement change with degraded search relevance",
+   "authors": "Y Song, X Shi, X Fu",
+   "venue": "Proceedings of the 22nd international conference on World Wide Web, 1213-1224",
+   "year": "2013"
+  },
+  {
+   "title": "The impact of boundary spanning scholarly publications and patents",
+   "authors": "X Shi, LA Adamic, BL Tseng, GS Clarkson",
+   "venue": "PloS one 4 (8), e6547",
+   "year": "2009"
+  },
+  {
+   "title": "False discovery rate controlled heterogeneous treatment effect detection for online controlled experiments",
+   "authors": "Y Xie, N Chen, X Shi",
+   "venue": "Proceedings of the 24th ACM SIGKDD international conference on knowledge …",
+   "year": "2018"
+  },
+  {
+   "title": "Context-aware web search abandonment prediction",
+   "authors": "Y Song, X Shi, R White, AH Awadallah",
+   "venue": "Proceedings of the 37th international ACM SIGIR conference on Research …",
+   "year": "2014"
+  },
+  {
+   "title": "The very small world of the well-connected",
+   "authors": "X Shi, M Bonner, L Adamic, AC Gilbert",
+   "venue": "ACM SIGWEB Newsletter 2009 (Winter), 1-10",
+   "year": "2009"
+  },
+  {
+   "title": "Knowledge graph-based assembly resource knowledge reuse towards complex product assembly process",
+   "authors": "X Shi, X Tian, J Gu, F Yang, L Ma, Y Chen, T Su",
+   "venue": "Sustainability 14 (23), 15541",
+   "year": "2022"
+  },
+  {
+   "title": "A hybrid approach of case-and rule-based reasoning to assembly sequence planning",
+   "authors": "X Shi, X Tian, J Gu, G Wang, D Zhao, L Ma",
+   "venue": "The International Journal of Advanced Manufacturing Technology 127 (1), 221-236",
+   "year": "2023"
+  },
+  {
+   "title": "Palladium‐Catalyzed Remote C− H Phosphonylation of Indoles at the C4 and C6 Positions by a Radical Approach",
+   "authors": "X Shi, Z Wang, Y Li, X Li, X Li, D Shi",
+   "venue": "Angewandte Chemie International Edition 60 (25), 13871-13876",
+   "year": "2021"
+  },
+  {
+   "title": "Who leads whom: Topical lead-lag analysis across corpora",
+   "authors": "X Shi, R Nallapati, J Leskovec, D McFarland, D Jurafsky",
+   "venue": "NIPS workshop",
+   "year": "2010"
+  },
+  {
+   "title": "Mesoporous graphitic carbon nitride photocatalyzed switchable divergent perfluoroalkylation of terminal alkynes",
+   "authors": "X Shi, T Song, Q Li, X Guo, Y Yang",
+   "venue": "Organic Letters 24 (47), 8724-8728",
+   "year": "2022"
+  },
+  {
+   "title": "Cu (II)-catalyzed oxidative trifluoromethylation of indoles with KF as the base",
+   "authors": "X Shi, X Li, L Ma, D Shi",
+   "venue": "Catalysts 9 (3), 278",
+   "year": "2019"
+  },
+  {
+   "title": "Expansion of mouse sertoli cells on microcarriers",
+   "authors": "B Shi, S Zhang, Y Wang, Y Zhuang, J Chu, S Zhang, X Shi, J Bi, M Guo",
+   "venue": "Cell proliferation 43 (3), 275-286",
+   "year": "2010"
+  },
+  {
+   "title": "The Splog Detection Task and A Solution Based on Temporal and Link Properties.",
+   "authors": "YR Lin, WY Chen, X Shi, R Sia, X Song, Y Chi, K Hino, H Sundaram, ...",
+   "venue": "TREC",
+   "year": "2006"
+  },
+  {
+   "title": "Prevention of osteoporosis in mice after ovariectomy via allograft of microencapsulated ovarian cells",
+   "authors": "XX Guo, JL Zhou, Q Xu, X Lu, YJ Liang, J Weng, XL Shi",
+   "venue": "The Anatomical Record: Advances in Integrative Anatomy and Evolutionary …",
+   "year": "2010"
+  },
+  {
+   "title": "Performance and mechanism of neuroleukin in the growth and survival of sertoli cell-induced neurons in a coculture system",
+   "authors": "L Deng, B Shi, Y Zhuang, J Chu, X Shi, S Zhang, M Guo",
+   "venue": "Cell Transplantation 23 (3), 381-394",
+   "year": "2014"
+  },
+  {
+   "title": "Online communication shifts in the midst of the COVID-19 pandemic: A case study on Snapchat",
+   "authors": "Q Yang, W Wang, L Pierce, R Vaish, X Shi, N Shah",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 15 …",
+   "year": "2021"
+  },
+  {
+   "title": "Nickel-Catalyzed Arylation of C (sp3)–O Bonds in Allylic Alkyl Ethers with Organoboron Compounds",
+   "authors": "X Li, Y Li, Z Zhang, X Shi, R Liu, Z Wang, X Li, D Shi",
+   "venue": "Organic Letters 23 (17), 6612-6616",
+   "year": "2021"
+  },
+  {
+   "title": "The enhancement of neural stem cell survival and growth by coculturing with expanded sertoli cells in vitro",
+   "authors": "B Shi, L Deng, X Shi, S Dai, H Zhang, Y Wang, J Bi, M Guo",
+   "venue": "Biotechnology progress 28 (1), 196-205",
+   "year": "2012"
+  },
+  {
+   "title": "Iron-catalyzed alkynylation of tertiary aliphatic amines with 1-iodoalkynes to synthesize propargylamines",
+   "authors": "L Ma, X Shi, X Li, D Shi",
+   "venue": "Organic Chemistry Frontiers 5 (24), 3515-3519",
+   "year": "2018"
+  },
+  {
+   "title": "Cultural differences in friendship network behaviors: A snapchat case study",
+   "authors": "A Seth, J Cao, X Shi, R Dotsch, Y Liu, MW Bos",
+   "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2023"
+  },
+  {
+   "title": "How to measure your app: a couple of pitfalls and remedies in measuring app performance in online controlled experiments",
+   "authors": "Y Xie, M Xu, E Chow, X Shi",
+   "venue": "Proceedings of the 14th ACM International Conference on Web Search and Data …",
+   "year": "2021"
+  },
+  {
+   "title": "Scatter Networks: A New Approach for Analyzing Information Scatter",
+   "authors": "LA Adamic, SK Bhavnani, X Shi",
+   "venue": "New Journal of Physics 9",
+   "year": "2007"
+  },
+  {
+   "title": "Balancing approach for causal inference at scale",
+   "authors": "S Lin, M Xu, X Zhang, SK Chao, YK Huang, X Shi",
+   "venue": "Proceedings of the 29th ACM SIGKDD conference on knowledge discovery and …",
+   "year": "2023"
+  },
+  {
+   "title": "Ligand-and additive-free 2-position-selective trifluoromethylation of heteroarenes under ambient conditions",
+   "authors": "X Shi, X Li, X Li, D Shi",
+   "venue": "Frontiers in Chemistry 7, 613",
+   "year": "2019"
+  },
+  {
+   "title": "Leadlag lda: Estimating topic specific leads and lags of information outlets",
+   "authors": "R Nallapati, X Shi, D McFarland, J Leskovec, D Jurafsky",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 5 …",
+   "year": "2011"
+  },
+  {
+   "title": "Modeling and mechanical characteristics analysis of matched angular contact ball bearings under combined loads",
+   "authors": "J Gu, J Yang, S Zhang, S You, X Shi",
+   "venue": "Advances in Mechanical Engineering 14 (10), 16878132221132951",
+   "year": "2022"
+  },
+  {
+   "title": "Challenges, best practices and pitfalls in evaluating results of online controlled experiments",
+   "authors": "X Shi, P Dmitriev, S Gupta, X Fu",
+   "venue": "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge …",
+   "year": "2019"
+  },
+  {
+   "title": "A framework for network ab testing",
+   "authors": "B Jiang, X Shi, H Shang, Z Geng, A Glass",
+   "venue": "arXiv preprint arXiv:1610.07670",
+   "year": "2016"
+  },
+  {
+   "title": "Recent advances in transition-metal-catalyzed halides formation",
+   "authors": "X Shi, D Shi",
+   "venue": "Current Organic Chemistry 22 (23), 2229-2255",
+   "year": "2018"
+  },
+  {
+   "title": "Network A/B testing: Nonparametric statistical significance test based on cluster-level permutation",
+   "authors": "H Shang, X Shi, B Jiang",
+   "venue": "Journal of Data Science 21 (3), 523-537",
+   "year": "2023"
+  },
+  {
+   "title": "Online fdr controlled anomaly detection for streaming time series",
+   "authors": "W Wang, Z Liu, X Shi, L Pierce",
+   "venue": "5th Workshop on Mining and Learning from Time Series (MiLeTS)",
+   "year": "2019"
+  },
+  {
+   "title": "The structure and dynamics of information sharing networks",
+   "authors": "X Shi",
+   "venue": "University of Michigan",
+   "year": "2009"
+  },
+  {
+   "title": "Immunocytochemistry of Progesterone Receptors in Reproductive System, Pituitary Gland and Cerebrum of Female Mice",
+   "authors": "D Zhu, J Weng, Q Xu, X Shi, X Lu, Y Liang",
+   "venue": "Journal of Capital Medical University 18 (3), 222",
+   "year": "1997"
+  },
+  {
+   "title": "Challenges, best practices and pitfalls in evaluating results of online controlled experiments",
+   "authors": "S Gupta, X Shi, P Dmitriev, X Fu, A Mukherjee",
+   "venue": "Proceedings of the 13th International Conference on Web Search and Data …",
+   "year": "2020"
+  },
+  {
+   "title": "Trophic Effect of Sertoli Cells on Cerebral Cortex Neurons in Vitro",
+   "authors": "F Shangguan, X Shi",
+   "venue": "Journal of Capital Medical University 24 (3), 247",
+   "year": "2003"
+  },
+  {
+   "title": "小鼠睾丸支持细胞体外培养特性",
+   "authors": "S Bingyang, S Zhang, M Guo, Y Wang, S Zhang, X Shi",
+   "venue": "Shengwu Gongcheng Xuebao/Chinese Journal of Biotechnology 25 (5), 745-753",
+   "year": "2009"
+  },
+  {
+   "title": "Changes of Endometrial Vessels in Dysfunctional Uterine Bleeding",
+   "authors": "G Zhang, X Lu, Q Xu, J Wei, X Shi",
+   "venue": "Journal of Capital Medical University 26 (2), 163",
+   "year": "2005"
+  },
+  {
+   "title": "New Culture Method for Primordial Germ Cell——Application of Sert oli Cells",
+   "authors": "X Lu, Q Xu, Y Liang, X Shi",
+   "venue": "Journal of Capital Medical University 25 (1), 15",
+   "year": "2004"
+  },
+  {
+   "title": "The Study on Changes of Morphology and Sex Steroid Receptors in Endometrium of Norplant Users",
+   "authors": "X Han, L Weng, X Shi, Q Xu, X Lu, D Zhu",
+   "venue": "Journal of Capital Medical University 19 (4), 358",
+   "year": "1998"
+  },
+  {
+   "title": "Morphological and Cytochemical Study on Thyroid and Parathyroid Glands of Rats with Experimental Spleen Deficiency Syndrome",
+   "authors": "X Shi, Q Xu, X Lu, Y Liang",
+   "venue": "Journal of Capital Medical University 19 (2), 121",
+   "year": "1998"
+  },
+  {
+   "title": "Morphological and Cytochemical Study of Epididymis in Experimental “Spleen Deficiency\" Syndrome of Rats",
+   "authors": "X Lu, X Shi, Q Xu, Y Liang",
+   "venue": "Journal of Capital Medical University 18 (3), 225",
+   "year": "1997"
+  },
+  {
+   "title": "A Morphological and Cytochemical Study on Testes of Rats with Experimental\" Spleen Deficiency\" Syndrome",
+   "authors": "Q Xu, X Lu, X Shi, X Wang, H Shang",
+   "venue": "Journal of Capital Medical University 18 (1), 21",
+   "year": "1997"
+  }
+ ]
+}

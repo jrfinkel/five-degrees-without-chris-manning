@@ -1,0 +1,2441 @@
+{
+ "user": "-y6SIhQAAAAJ",
+ "pubs": [
+  {
+   "title": "Opt: Open pre-trained transformer language models",
+   "authors": "S Zhang, S Roller, N Goyal, M Artetxe, M Chen, S Chen, C Dewan, ...",
+   "venue": "arXiv preprint arXiv:2205.01068",
+   "year": "2022"
+  },
+  {
+   "title": "SemEval-2017 Task 1: Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation.",
+   "authors": "D Cer, M Diab, E Agirre, I Lopez-Gazpio, L Specia",
+   "venue": "Proceedings of the 11th International Workshop on Semantic Evaluations …",
+   "year": "2017"
+  },
+  {
+   "title": "Few-shot learning with multilingual generative language models",
+   "authors": "XV Lin, T Mihaylov, M Artetxe, T Wang, S Chen, D Simig, M Ott, N Goyal, ...",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Semeval-2016 task 1: Semantic textual similarity, monolingual and cross-lingual evaluation",
+   "authors": "E Agirre, C Banea, D Cer, M Diab, A Gonzalez-Agirre, R Mihalcea, ...",
+   "venue": "Proceedings of the 10th international workshop on semantic evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "Madamira: A fast, comprehensive tool for morphological analysis and disambiguation of arabic.",
+   "authors": "A Pasha, M Al-Badrashiny, MT Diab, A El Kholy, R Eskander, N Habash, ...",
+   "venue": "Lrec 14 (2014), 1094-1101",
+   "year": "2014"
+  },
+  {
+   "title": "* SEM 2013 shared task: Semantic textual similarity",
+   "authors": "E Agirre, D Cer, M Diab, A Gonzalez-Agirre, W Guo",
+   "venue": "Second joint conference on lexical and computational semantics (* SEM …",
+   "year": "2013"
+  },
+  {
+   "title": "Semeval-2015 task 2: Semantic textual similarity, english, spanish and pilot on interpretability",
+   "authors": "E Agirre, C Banea, C Cardie, D Cer, M Diab, A Gonzalez-Agirre, W Guo, ...",
+   "venue": "Proceedings of the 9th international workshop on semantic evaluation …",
+   "year": "2015"
+  },
+  {
+   "title": "Semeval-2014 task 10: Multilingual semantic textual similarity",
+   "authors": "E Agirre, C Banea, C Cardie, D Cer, M Diab, A Gonzalez-Agirre, W Guo, ...",
+   "venue": "Proceedings of the 8th international workshop on semantic evaluation …",
+   "year": "2014"
+  },
+  {
+   "title": "FEQA: A question answering evaluation framework for faithfulness assessment in abstractive summarization",
+   "authors": "E Durmus, H He, M Diab",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "SAMAR: Subjectivity and sentiment analysis for Arabic social media",
+   "authors": "M Abdul-Mageed, M Diab, S Kübler",
+   "venue": "Computer Speech & Language 28 (1), 20-37",
+   "year": "2014"
+  },
+  {
+   "title": "Automatic tagging of Arabic text: From raw text to base phrase chunks",
+   "authors": "M Diab, K Hacioglu, D Jurafsky",
+   "venue": "Proceedings of HLT-NAACL 2004: Short papers, 149-152",
+   "year": "2004"
+  },
+  {
+   "title": "Subjectivity and sentiment analysis of modern standard Arabic",
+   "authors": "M Abdul-Mageed, M Diab, M Korayem",
+   "venue": "Proceedings of the 49th annual meeting of the association for computational …",
+   "year": "2011"
+  },
+  {
+   "title": "An unsupervised method for word sense tagging using parallel corpora",
+   "authors": "M Diab, P Resnik",
+   "venue": "Proceedings of the 40th Annual Meeting of the Association for Computational …",
+   "year": "2002"
+  },
+  {
+   "title": "Overview for the first shared task on language identification in code-switched data",
+   "authors": "T Solorio, E Blair, S Maharjan, S Bethard, M Diab, M Ghoneim, A Hawwari, ...",
+   "venue": "Proceedings of the first workshop on computational approaches to code …",
+   "year": "2014"
+  },
+  {
+   "title": "Investigating cultural alignment of large language models",
+   "authors": "B AlKhamissi, M ElNokrashy, M Alkhamissi, M Diab",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Can large language models infer causation from correlation?",
+   "authors": "Z Jin, J Liu, Z Lyu, M Sachan, R Mihalcea, M Diab, D Ha",
+   "venue": "International Conference on Learning Representations 2024, 28663-28679",
+   "year": "2024"
+  },
+  {
+   "title": "Detecting hallucinated content in conditional neural sequence generation",
+   "authors": "C Zhou, G Neubig, J Gu, M Diab, F Guzmán, L Zettlemoyer, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "A review on language models as knowledge bases",
+   "authors": "B AlKhamissi, M Li, A Celikyilmaz, M Diab, M Ghazvininejad",
+   "venue": "arXiv preprint arXiv:2204.06031",
+   "year": "2022"
+  },
+  {
+   "title": "Awatif: A multi-genre corpus for modern standard arabic subjectivity and sentiment analysis",
+   "authors": "M Diab",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Efficient large scale language modeling with mixtures of experts",
+   "authors": "M Artetxe, S Bhosale, N Goyal, T Mihaylov, M Ott, S Shleifer, XV Lin, J Du, ...",
+   "venue": "arXiv preprint arXiv:2112.10684",
+   "year": "2021"
+  },
+  {
+   "title": "Conventional orthography for dialectal Arabic.",
+   "authors": "N Habash, MT Diab, O Rambow",
+   "venue": "Lrec, 711-718",
+   "year": "2012"
+  },
+  {
+   "title": "The Bible as a parallel corpus: Annotating the ‘Book of 2000 Tongues’",
+   "authors": "P Resnik, MB Olsen, M Diab",
+   "venue": "Computers and the Humanities 33 (1), 129-153",
+   "year": "1999"
+  },
+  {
+   "title": "Arabic morphological tagging, diacritization, and lemmatization using lexeme models and feature ranking",
+   "authors": "R Roth, O Rambow, N Habash, M Diab, C Rudin",
+   "venue": "Proceedings of ACL-08: HLT, short papers, 117-120",
+   "year": "2008"
+  },
+  {
+   "title": "Sentence level dialect identification in Arabic",
+   "authors": "H Elfardy, M Diab",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Rumor detection and classification for twitter data",
+   "authors": "S Hamidian, MT Diab",
+   "venue": "arXiv preprint arXiv:1912.08926",
+   "year": "2019"
+  },
+  {
+   "title": "Morphological analysis and disambiguation for dialectal Arabic",
+   "authors": "N Habash, R Roth, O Rambow, R Eskander, N Tomeh",
+   "venue": "Proceedings of the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Modeling sentences in the latent space",
+   "authors": "W Guo, M Diab",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Second generation AMIRA tools for Arabic processing: Fast and robust tokenization, POS tagging, and base phrase chunking",
+   "authors": "M Diab",
+   "venue": "2nd International Conference on Arabic Language…",
+   "year": "2009"
+  },
+  {
+   "title": "Arabic natural language processing for Qur’anic research: a systematic review: MH Bashir et al.",
+   "authors": "MH Bashir, AM Azmi, H Nawaz, W Zaghouani, M Diab, A Al-Fuqaha, ...",
+   "venue": "Artificial Intelligence Review 56 (7), 6801-6854",
+   "year": "2023"
+  },
+  {
+   "title": "Arabic named entity recognition using optimized feature sets",
+   "authors": "Y Benajiba, M Diab, P Rosso",
+   "venue": "Proceedings of the 2008 Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Overview for the second shared task on language identification in code-switched data",
+   "authors": "G Molina, F AlGhamdi, M Ghoneim, A Hawwari, N Rey-Villamizar, M Diab, ...",
+   "venue": "Proceedings of the Second Workshop on Computational Approaches to Code …",
+   "year": "2016"
+  },
+  {
+   "title": "Sana: A large scale multi-genre, multi-dialect lexicon for Arabic subjectivity and sentiment analysis.",
+   "authors": "M Abdul-Mageed, MT Diab",
+   "venue": "LREC, 1162-1169",
+   "year": "2014"
+  },
+  {
+   "title": "Linking Tweets to News: A Framework to Enrich Short Text Data in Social Media",
+   "authors": "W Guo, H Li, H Ji, M Diab",
+   "venue": "ACL",
+   "year": "2013"
+  },
+  {
+   "title": "Parsing arabic dialects",
+   "authors": "D Chiang, M Diab, N Habash, O Rambow, S Shareef",
+   "venue": "11th Conference of the European Chapter of the Association for Computational …",
+   "year": "2006"
+  },
+  {
+   "title": "Evaluating large language model biases in persona-steered generation",
+   "authors": "AT Liu, M Diab, D Fried",
+   "venue": "Findings of the association for computational linguistics: ACL 2024, 9832-9850",
+   "year": "2024"
+  },
+  {
+   "title": "Task-based evaluation of multiword expressions: a pilot study in statistical machine translation",
+   "authors": "M Carpuat, M Diab",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "COLABA: Arabic dialect annotation and processing",
+   "authors": "M Diab, N Habash, O Rambow, M Altantawy, Y Benajiba",
+   "venue": "Lrec workshop on semitic language processing, 66-74",
+   "year": "2010"
+  },
+  {
+   "title": "Committed belief annotation and tagging",
+   "authors": "M Diab, L Levin, T Mitamura, O Rambow, V Prabhakaran, W Guo",
+   "venue": "Proceedings of the Third Linguistic Annotation Workshop (LAW III), 68-73",
+   "year": "2009"
+  },
+  {
+   "title": "Rumor identification and belief investigation on twitter",
+   "authors": "S Hamidian, M Diab",
+   "venue": "Proceedings of the 7th Workshop on computational approaches to subjectivity …",
+   "year": "2016"
+  },
+  {
+   "title": "Arabic named entity recognition: A feature-driven study",
+   "authors": "Y Benajiba, M Diab, P Rosso",
+   "venue": "IEEE Transactions on Audio, Speech, and Language Processing 17 (5), 926-934",
+   "year": "2009"
+  },
+  {
+   "title": "Arabic diacritization in the context of statistical machine translation",
+   "authors": "M Diab, M Ghoneim, N Habash",
+   "venue": "Proceedings of Machine Translation Summit XI: Papers",
+   "year": "2007"
+  },
+  {
+   "title": "A statistical word-level translation model for comparable corpora",
+   "authors": "M Diab, S Finch",
+   "venue": "",
+   "year": "2000"
+  },
+  {
+   "title": "Measuring verb similarity",
+   "authors": "P Resnik, M Diab",
+   "venue": "Proceedings of the 22nd Annual Meeting of the Cognitive Science Society …",
+   "year": "2000"
+  },
+  {
+   "title": "Named entity recognition on code-switched data: Overview of the CALCS 2018 shared task",
+   "authors": "G Aguilar, F AlGhamdi, V Soto, M Diab, J Hirschberg, T Solorio",
+   "venue": "Proceedings of the Third Workshop on Computational Approaches to Linguistic …",
+   "year": "2018"
+  },
+  {
+   "title": "A Pilot Arabic Propbank.",
+   "authors": "M Palmer, O Babko-Malaya, A Bies, MT Diab, M Maamouri, A Mansouri, ...",
+   "venue": "LREC",
+   "year": "2008"
+  },
+  {
+   "title": "Subjectivity and sentiment annotation of modern standard arabic newswire",
+   "authors": "M Abdul-Mageed, M Diab",
+   "venue": "Proceedings of the 5th linguistic annotation workshop, 110-118",
+   "year": "2011"
+  },
+  {
+   "title": "Do language models have beliefs? methods for detecting, updating, and visualizing model beliefs",
+   "authors": "P Hase, M Diab, A Celikyilmaz, X Li, Z Kozareva, V Stoyanov, M Bansal, ...",
+   "venue": "arXiv preprint arXiv:2111.13654",
+   "year": "2021"
+  },
+  {
+   "title": "Second generation tools (amira 2.0): Fast and robust tokenization, pos tagging, and base phrase chunking",
+   "authors": "M Diab",
+   "venue": "Proceedings of the Second International Conference on Arabic Language …",
+   "year": "2009"
+  },
+  {
+   "title": "SemEval-2012 task 3: Spatial role labeling",
+   "authors": "P Kordjamshidi, S Bethard, MF Moens",
+   "venue": "* SEM 2012: The First Joint Conference on Lexical and Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Verb noun construction MWE token classification",
+   "authors": "M Diab, P Bhutada",
+   "venue": "Proceedings of the workshop on multiword expressions: identification …",
+   "year": "2009"
+  },
+  {
+   "title": "Arabic named entity recognition: An svm-based approach",
+   "authors": "Y Benajiba, M Diab, P Rosso",
+   "venue": "Proceedings of 2008 Arab international conference on information technology …",
+   "year": "2008"
+  },
+  {
+   "title": "Big5-chat: Shaping llm personalities through training on human-grounded data",
+   "authors": "W Li, J Liu, AT Liu, X Zhou, M Diab, M Sap",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Toward building a large-scale Arabic sentiment lexicon",
+   "authors": "M Abdul-Mageed, M Diab",
+   "venue": "Proceedings of the 6th international global WordNet conference, 18-22",
+   "year": "2012"
+  },
+  {
+   "title": "Automatic processing of modern standard Arabic text",
+   "authors": "M Diab, K Hacioglu, D Jurafsky",
+   "venue": "Arabic computational morphology: Knowledge-based and Empirical Methods, 159-179",
+   "year": "2007"
+  },
+  {
+   "title": "Named entity recognition for arabic social media",
+   "authors": "A Zirikly, M Diab",
+   "venue": "Proceedings of the 1st workshop on vector space modeling for natural …",
+   "year": "2015"
+  },
+  {
+   "title": "Methods for measuring, updating, and visualizing factual beliefs in language models",
+   "authors": "P Hase, M Diab, A Celikyilmaz, X Li, Z Kozareva, V Stoyanov, M Bansal, ...",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Context-aware cross-lingual mapping",
+   "authors": "H Aldarmaki, M Diab",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Opt: Open pre-trained transformer language models. arXiv 2022",
+   "authors": "S Zhang, S Roller, N Goyal, M Artetxe, M Chen, S Chen, C Dewan, ...",
+   "venue": "arXiv preprint arXiv:2205.01068 10",
+   "year": "2023"
+  },
+  {
+   "title": "Developing and Using a Pilot Dialectal Arabic Treebank.",
+   "authors": "M Maamouri, A Bies, T Buckwalter, MT Diab, N Habash, O Rambow, ...",
+   "venue": "LREC, 443-448",
+   "year": "2006"
+  },
+  {
+   "title": "Automatic committed belief tagging",
+   "authors": "V Prabhakaran, O Rambow, M Diab",
+   "venue": "Coling 2010: Posters, 1014-1022",
+   "year": "2010"
+  },
+  {
+   "title": "AIDA: Identifying code switching in informal Arabic text",
+   "authors": "H Elfardy, M Al-Badrashiny, M Diab",
+   "venue": "Proceedings of The First Workshop on Computational Approaches to Code …",
+   "year": "2014"
+  },
+  {
+   "title": "Automated methods for processing arabic text: from tokenization to base phrase chunking",
+   "authors": "M Diab, K Hacioglu, D Jurafsky",
+   "venue": "Arabic Computational Morphology: Knowledge-based and Empirical Methods …",
+   "year": "2007"
+  },
+  {
+   "title": "LDC Arabic treebanks and associated corpora: Data divisions manual",
+   "authors": "M Diab, N Habash, O Rambow, R Roth",
+   "venue": "arXiv preprint arXiv:1309.5652",
+   "year": "2013"
+  },
+  {
+   "title": "Semeval-2012 task 6: A pilot on semantic textual similarity. in* sem 2012: The first joint conference on lexical and computational semantics–volume 1: Proceedings of the main …",
+   "authors": "E Agirre, D Cer, M Diab, A Gonzalez-Agirre",
+   "venue": "Proceedings of the Sixth International Workshop on Semantic Evaluation …",
+   "year": "2012"
+  },
+  {
+   "title": "Token level identification of linguistic code switching",
+   "authors": "H Elfardy, M Diab",
+   "venue": "Proceedings of COLING 2012: posters, 287-296",
+   "year": "2012"
+  },
+  {
+   "title": "Subgroup detection in ideological discussions",
+   "authors": "A Abu-Jbara, P Dasigi, M Diab, D Radev",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Predicting overt display of power in written dialogs",
+   "authors": "V Prabhakaran, O Rambow, M Diab",
+   "venue": "Proceedings of the 2012 conference of the North American chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "Arabic dialect processing tutorial",
+   "authors": "M Diab, N Habash",
+   "venue": "Proceedings of the human language technology conference of the NAACL …",
+   "year": "2007"
+  },
+  {
+   "title": "Multi-domain goal-oriented dialogues (multidogo): Strategies toward curating and annotating large scale dialogue data",
+   "authors": "D Peskov, N Clarke, J Krone, B Fodor, Y Zhang, A Youssef, M Diab",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Improved Arabic base phrase chunking with a new enriched POS tag set",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 2007 Workshop on Computational Approaches to Semitic …",
+   "year": "2007"
+  },
+  {
+   "title": "DeSePtion: Dual sequence prediction and adversarial examples for improved fact-checking",
+   "authors": "C Hidey, T Chakrabarty, T Alhindi, S Varia, K Krstovski, M Diab, ...",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Cu-gwu perspective at semeval-2016 task 6: Ideological stance detection in informal text",
+   "authors": "H Elfardy, M Diab",
+   "venue": "Proceedings of the 10th international workshop on semantic evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "Tharwa: A Large Scale Dialectal Arabic-Standard Arabic-English Lexicon.",
+   "authors": "MT Diab, M Al-Badrashiny, M Aminian, M Attia, H Elfardy, N Habash, ...",
+   "venue": "LREC, 3782-3789",
+   "year": "2014"
+  },
+  {
+   "title": "Adapting high-resource NMT models to translate low-resource related languages without parallel data",
+   "authors": "WJ Ko, A El-Kishky, A Renduchintala, V Chaudhary, N Goyal, F Guzmán, ...",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "The revised arabic propbank",
+   "authors": "W Zaghouani, M Diab, A Mansouri, S Pradhan, M Palmer",
+   "venue": "Proceedings of the fourth linguistic annotation workshop, 222-226",
+   "year": "2010"
+  },
+  {
+   "title": "Using language independent and language specific features to enhance Arabic named entity recognition.",
+   "authors": "Y Benajiba, M Diab, P Rosso",
+   "venue": "International Arab Journal of Information Technology (IAJIT) 6 (5), 464",
+   "year": "2009"
+  },
+  {
+   "title": "Word sense disambiguation within a multilingual framework",
+   "authors": "MT Diab",
+   "venue": "",
+   "year": "2003"
+  },
+  {
+   "title": "OPT-R: Exploring the role of explanations in finetuning and prompting for reasoning skills of large language models",
+   "authors": "B AlKhamissi, S Verma, P Yu, Z Jin, A Celikyilmaz, M Diab",
+   "venue": "Proceedings of the 1st workshop on natural language reasoning and structured …",
+   "year": "2023"
+  },
+  {
+   "title": "Code switch point detection in Arabic",
+   "authors": "H Elfardy, M Al-Badrashiny, M Diab",
+   "venue": "International Conference on Application of Natural Language to Information …",
+   "year": "2013"
+  },
+  {
+   "title": "Arabic named entity recognition: using features extracted from noisy data",
+   "authors": "Y Benajiba, I Zitouni, M Diab, P Rosso",
+   "venue": "Proceedings of the ACL 2010 conference short papers, 281-285",
+   "year": "2010"
+  },
+  {
+   "title": "Semantic topic models: Combining word distributional statistics and dictionary definitions",
+   "authors": "W Guo, M Diab",
+   "venue": "Proceedings of the 2011 Conference on Empirical Methods in Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Gender bias amplification during speed-quality optimization in neural machine translation",
+   "authors": "A Renduchintala, D Diaz, K Heafield, X Li, M Diab",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Identifying nuances in fake news vs. satire: Using semantic and linguistic cues",
+   "authors": "O Levi, P Hosseini, M Diab, D Broniatowski",
+   "venue": "Proceedings of the second workshop on natural language processing for …",
+   "year": "2019"
+  },
+  {
+   "title": "The feasibility of bootstrapping an Arabic WordNet leveraging parallel corpora and an English WordNet",
+   "authors": "M Diab",
+   "venue": "Proceedings of the Arabic Language Technologies and…",
+   "year": "2004"
+  },
+  {
+   "title": "Learning to classify intents and slot labels given a handful of examples",
+   "authors": "J Krone, Y Zhang, M Diab",
+   "venue": "Proceedings of the 2nd workshop on natural language processing for …",
+   "year": "2020"
+  },
+  {
+   "title": "Casa-nlu: Context-aware self-attentive natural language understanding for task-oriented chatbots",
+   "authors": "A Gupta, P Zhang, G Lalwani, M Diab",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Guidelines for annotation of Arabic dialectness",
+   "authors": "N Habash, O Rambow, M Diab, R Kanjawi-Faraj",
+   "venue": "Workshop on Arabic and its local languages",
+   "year": "2008"
+  },
+  {
+   "title": "Relieving the data acquisition bottleneck in word sense disambiguation",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 42nd Annual Meeting of the Association for Computational …",
+   "year": "2004"
+  },
+  {
+   "title": "Who, what, when, where, why? comparing multiple approaches to the cross-lingual 5W task",
+   "authors": "K Parton, K McKeown, B Coyne, M Diab, R Grishman, D Hakkani-Tur, ...",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Identifying opinion subgroups in arabic online discussions",
+   "authors": "A Abu-Jbara, B King, M Diab, D Radev",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Predictive linguistic features of schizophrenia",
+   "authors": "ES Kayi, M Diab, L Pauselli, M Compton, G Coppersmith",
+   "venue": "Proceedings of the 6th Joint Conference on Lexical and Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Sentence level dialect identification for machine translation system selection",
+   "authors": "W Salloum, H Elfardy, L Alamir-Salloum, N Habash, M Diab",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Diversity, density, and homogeneity: Quantitative characteristic metrics for text collections",
+   "authors": "YA Lai, X Zhu, Y Zhang, M Diab",
+   "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference …",
+   "year": "2020"
+  },
+  {
+   "title": "Efficient Sentence Embedding using Discrete Cosine Transform.",
+   "authors": "N Almarwani, H Aldarmaki, M Diab",
+   "venue": "Proceedings of EMNLP-IJCNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "ToKen: Task decomposition and knowledge infusion for few-shot hate speech detection",
+   "authors": "B AlKhamissi, F Ladhak, S Iyer, V Stoyanov, Z Kozareva, X Li, P Fung, ...",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Aida2: A hybrid approach for token and sentence level dialect identification in arabic",
+   "authors": "M Al-Badrashiny, H Elfardy, M Diab",
+   "venue": "Proceedings of the nineteenth conference on computational natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "Simplified guidelines for the creation of large scale dialectal Arabic annotations.",
+   "authors": "H Elfardy, MT Diab",
+   "venue": "LREC, 371-378",
+   "year": "2012"
+  },
+  {
+   "title": "Part of speech tagging for code switched data",
+   "authors": "F AlGhamdi, G Molina, M Diab, T Solorio, A Hawwari, V Soto, ...",
+   "venue": "Proceedings of the Second Workshop on Computational Approaches to Code …",
+   "year": "2016"
+  },
+  {
+   "title": "Semantic role labeling systems for Arabic using kernel methods",
+   "authors": "M Diab, A Moschitti, D Pighin",
+   "venue": "Proceedings of ACL-08: HLT, 798-806",
+   "year": "2008"
+  },
+  {
+   "title": "Evaluating multilingual speech translation under realistic conditions with resegmentation and terminology",
+   "authors": "E Salesky, K Darwish, M Al-Badrashiny, M Diab, J Niehues",
+   "venue": "Proceedings of the 20th International Conference on Spoken Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Consistent human evaluation of machine translation across language pairs",
+   "authors": "D Licht, C Gao, J Lam, F Guzman, M Diab, P Koehn",
+   "venue": "Proceedings of the 15th biennial conference of the Association for Machine …",
+   "year": "2022"
+  },
+  {
+   "title": "Homograph disambiguation through selective diacritic restoration",
+   "authors": "S Alqahtani, H Aldarmaki, M Diab",
+   "venue": "Proceedings of the Fourth Arabic Natural Language Processing Workshop, 49-59",
+   "year": "2019"
+  },
+  {
+   "title": "LILI: A simple language independent approach for language identification",
+   "authors": "M Al-Badrashiny, M Diab",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "A new dataset and evaluation for belief/factuality",
+   "authors": "V Prabhakaran, J Hirschberg, O Rambow, S Shaikh, T Strzalkowski, ...",
+   "venue": "Proceedings of the Fourth Joint Conference on Lexical and Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Humanizing machines: Rethinking llm anthropomorphism through a multi-level framework of design",
+   "authors": "Y Xiao, LHX Ng, J Liu, M Diab",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Efficient convolutional neural networks for diacritic restoration",
+   "authors": "S Alqahtani, A Mishra, M Diab",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Unsupervised word mapping using structural similarities in monolingual embeddings",
+   "authors": "H Aldarmaki, M Mohan, M Diab",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 185-196",
+   "year": "2018"
+  },
+  {
+   "title": "Diagnosis of some diseases related to the histidine level in human serum by using the nano optical sensor Eu–Norfloxacine complex",
+   "authors": "MS Attia, M Diab, MF El-Shahat",
+   "venue": "Sensors and Actuators B: Chemical 207, 756-763",
+   "year": "2015"
+  },
+  {
+   "title": "Statistical modality tagging from rule-based annotations and crowdsourcing",
+   "authors": "V Prabhakaran, M Bloodgood, M Diab, B Dorr, L Levin, C Piatko, ...",
+   "venue": "Proceedings of the Workshop on Extra-Propositional Aspects of Meaning in …",
+   "year": "2012"
+  },
+  {
+   "title": "Weiwei: A simple unsupervised latent semantics based approach for sentence similarity",
+   "authors": "W Guo, M Diab",
+   "venue": "* SEM 2012: The First Joint Conference on Lexical and Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Team SWEEPer: Joint sentence extraction and fact checking with pointer networks",
+   "authors": "C Hidey, M Diab",
+   "venue": "Proceedings of the first workshop on fact extraction and verification (FEVER …",
+   "year": "2018"
+  },
+  {
+   "title": "Arabic textual entailment with word embeddings",
+   "authors": "N Almarwani, M Diab",
+   "venue": "Proceedings of the third arabic natural language processing workshop, 185-190",
+   "year": "2017"
+  },
+  {
+   "title": "Codact: Towards identifying orthographic variants in dialectal arabic",
+   "authors": "P Dasigi, M Diab",
+   "venue": "Proceedings of 5th International Joint Conference on Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Toxicity assessment of nanoparticles in contact with the skin",
+   "authors": "T Zaiter, R Cornu, W El Basset, H Martin, M Diab, A Béduneau",
+   "venue": "Journal of Nanoparticle Research 24 (7), 149",
+   "year": "2022"
+  },
+  {
+   "title": "Towards an optimal POS tag set for Modern Standard Arabic processing",
+   "authors": "M Diab",
+   "venue": "Proceedings of recent advances in natural language processing (RANLP), 91-96",
+   "year": "2007"
+  },
+  {
+   "title": "Meta AI at Arabic hate speech 2022: MultiTask learning with self-correction for hate speech classification",
+   "authors": "B AlKhamissi, M Diab",
+   "venue": "Proceedinsg of the 5th Workshop on Open-Source Arabic Corpora and Processing …",
+   "year": "2022"
+  },
+  {
+   "title": "An unsupervised approach for bootstrapping Arabic sense tagging",
+   "authors": "M Diab",
+   "venue": "Proceedings of the workshop on computational approaches to Arabic script …",
+   "year": "2004"
+  },
+  {
+   "title": "Emotion detection and classification in a multigenre corpus with joint multi-task deep learning",
+   "authors": "S Tafreshi, M Diab",
+   "venue": "Proceedings of the 27th international conference on computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Named entity recognition system for dialectal Arabic",
+   "authors": "A Zirikly, M Diab",
+   "venue": "Proceedings of the EMNLP 2014 workshop on Arabic natural language processing …",
+   "year": "2014"
+  },
+  {
+   "title": "Creating a parallel corpus from the book of 2000 tongues",
+   "authors": "P Resnik, MB Olsen, M Diab",
+   "venue": "Proceedings of the Text Encoding Initiative 10th Anniversary User Conference …",
+   "year": "1997"
+  },
+  {
+   "title": "Saes can improve unlearning: Dynamic sparse autoencoder guardrails for precision unlearning in llms",
+   "authors": "A Muhamed, J Bonato, MT Diab, V Smith",
+   "venue": "ICML 2025 Workshop on Reliable and Responsible Foundation Models",
+   "year": "2025"
+  },
+  {
+   "title": "Analyzing the role of semantic representations in the era of large language models",
+   "authors": "Z Jin, Y Chen, FG Adauto, J Liu, J Zhang, J Michael, B Schölkopf, M Diab",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Dina: A multidialect dataset for arabic emotion analysis",
+   "authors": "M Abdul-Mageed, H AlHuzli, MDDA Elhija, M Diab, MD Duaa’Abu Elhija",
+   "venue": "The 2nd workshop on Arabic corpora and processing tools, 29",
+   "year": "2016"
+  },
+  {
+   "title": "A pilot propbank annotation for quranic arabic",
+   "authors": "W Zaghouani, A Hawwari, M Diab",
+   "venue": "Proceedings of the NAACL-HLT 2012 workshop on computational linguistics for …",
+   "year": "2012"
+  },
+  {
+   "title": "Semeval-2007 task 18: Arabic semantic labeling",
+   "authors": "M Diab, M Alkhalifa, S ElKateb, C Fellbaum, A Mansouri, M Palmer",
+   "venue": "Proceedings of the Fourth International Workshop on Semantic Evaluations …",
+   "year": "2007"
+  },
+  {
+   "title": "Grass: Compute efficient low-memory llm training with structured sparse gradients",
+   "authors": "A Muhamed, O Li, D Woodruff, M Diab, V Smith",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Cross-lingual transfer of semantic roles: From raw text to semantic roles",
+   "authors": "M Aminian, MS Rasooli, M Diab",
+   "venue": "Proceedings of the 13th International Conference on Computational Semantics …",
+   "year": "2019"
+  },
+  {
+   "title": "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics",
+   "authors": "MD Agirre, Eneko, Johan Bos",
+   "venue": "*SEM 2012",
+   "year": "2012"
+  },
+  {
+   "title": "An unsupervised method for multilingual word sense tagging using parallel corpora",
+   "authors": "M Diab",
+   "venue": "ACL-2000 Workshop on Word Senses and Multi-linguality, 1-9",
+   "year": "2000"
+  },
+  {
+   "title": "Towards responsible natural language annotation for the varieties of Arabic",
+   "authors": "A Bergman, M Diab",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 364-371",
+   "year": "2022"
+  },
+  {
+   "title": "Detecting urgency status of crisis tweets: A transfer learning approach for low resource languages",
+   "authors": "ES Kayi, L Nan, B Qu, M Diab, K McKeown",
+   "venue": "Proceedings of the 28th international conference on computational …",
+   "year": "2020"
+  },
+  {
+   "title": "A multitask learning approach for diacritic restoration",
+   "authors": "S Alqahtani, A Mishra, M Diab",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Multiword expressions in the context of statistical machine translation",
+   "authors": "M Ghoneim, M Diab",
+   "venue": "Proceedings of the sixth international joint conference on natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Parsing arabic dialects",
+   "authors": "OC Rambow, D Chiang, MT Diab, NY Habash, S Shareef",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "Synthetic socratic debates: Examining persona effects on moral decision and persuasion dynamics",
+   "authors": "J Liu, Y Song, Y Xiao, M Zheng, L Tjuatja, JS Borg, M Diab, M Sap",
+   "venue": "Proceedings of the 2025 conference on empirical methods in natural language …",
+   "year": "2025"
+  },
+  {
+   "title": "Calcs 2021 shared task: Machine translation for code-switched data",
+   "authors": "S Chen, G Aguilar, A Srinivasan, M Diab, T Solorio",
+   "venue": "arXiv preprint arXiv:2202.09625",
+   "year": "2022"
+  },
+  {
+   "title": "A pilot study on Arabic multi-genre corpus diacritization",
+   "authors": "H Bouamor, W Zaghouani, M Diab, O Obeid, K Oflazer, M Ghoneim, ...",
+   "venue": "Proceedings of the Second Workshop on Arabic Natural Language Processing, 80-88",
+   "year": "2015"
+  },
+  {
+   "title": "Automatic generation of model and data cards: A step towards responsible AI",
+   "authors": "J Liu, W Li, Z Jin, M Diab",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Knowledge-augmented language models for cause-effect relation classification",
+   "authors": "P Hosseini, DA Broniatowski, M Diab",
+   "venue": "Proceedings of the first workshop on commonsense representation and …",
+   "year": "2022"
+  },
+  {
+   "title": "Active learning for rumor identification on social media",
+   "authors": "P Farinneya, MMA Pour, S Hamidian, M Diab",
+   "venue": "Findings of the association for computational linguistics: EMNLP 2021, 4556-4565",
+   "year": "2021"
+  },
+  {
+   "title": "Sentence and clause level emotion annotation, detection, and classification in a multi-genre corpus",
+   "authors": "S Tafreshi, M Diab",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Combining orthogonal monolingual and multilingual sources of evidence for all words wsd",
+   "authors": "W Guo, M Diab",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "A web application for dialectal Arabic text annotation",
+   "authors": "Y Benajiba, M Diab",
+   "venue": "Proceedings of the lrec workshop for language resources (lrs) and human …",
+   "year": "2010"
+  },
+  {
+   "title": "The FIGNEWS shared task on news media narratives",
+   "authors": "W Zaghouani, M Jarrar, N Habash, H Bouamor, I Zitouni, M Diab, ...",
+   "venue": "Proceedings of The Second Arabic Natural Language Processing Conference, 530-547",
+   "year": "2024"
+  },
+  {
+   "title": "Alert: Adapting language models to reasoning tasks",
+   "authors": "P Yu, T Wang, O Golovneva, B AlKhamissi, S Verma, Z Jin, G Ghosh, ...",
+   "venue": "arXiv preprint arXiv:2212.08286",
+   "year": "2022"
+  },
+  {
+   "title": "Transferring semantic roles using translation and syntactic information",
+   "authors": "M Aminian, MS Rasooli, M Diab",
+   "venue": "Proceedings of the Eighth International Joint Conference on Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Committed belief tagging on the factbank and lu corpora: A comparative study",
+   "authors": "G Werner, V Prabhakaran, M Diab, O Rambow",
+   "venue": "Proceedings of the Second Workshop on Extra-Propositional Aspects of Meaning …",
+   "year": "2015"
+  },
+  {
+   "title": "Asma: A system for automatic segmentation and morpho-syntactic disambiguation of modern standard arabic",
+   "authors": "M Abdul-Mageed, M Diab, S Kübler",
+   "venue": "Proceedings of the International Conference Recent Advances in Natural …",
+   "year": "2013"
+  },
+  {
+   "title": "Predicting directionality in causal relations in text",
+   "authors": "P Hosseini, DA Broniatowski, M Diab",
+   "venue": "arXiv preprint arXiv:2103.13606",
+   "year": "2021"
+  },
+  {
+   "title": "Guidelines and framework for a large scale Arabic diacritized corpus",
+   "authors": "W Zaghouani, H Bouamor, A Hawwari, M Diab, O Obeid, M Ghoneim, ...",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Genre independent subgroup detection in online discussion threads: A study of implicit attitude using textual latent semantics",
+   "authors": "P Dasigi, W Guo, M Diab",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "ALERT: Adapt language models to reasoning tasks",
+   "authors": "P Yu, T Wang, O Golovneva, B AlKhamissi, S Verma, Z Jin, G Ghosh, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Gwu-hasp: Hybrid arabic spelling and punctuation corrector",
+   "authors": "M Attia, M Al-Badrashiny, M Diab",
+   "venue": "Proceedings of the EMNLP 2014 workshop on Arabic natural language processing …",
+   "year": "2014"
+  },
+  {
+   "title": "COLEPL and COLSLM: An unsupervised WSD approach to multilingual lexical substitution, tasks 2 and 3 SemEval 2010",
+   "authors": "W Guo, M Diab",
+   "venue": "Proceedings of the 5th International Workshop on Semantic Evaluation, 129-133",
+   "year": "2010"
+  },
+  {
+   "title": "Readability of written medicine information materials in Arabic language: expert and consumer evaluation",
+   "authors": "MD Sinaa Al Aqeel, Norah Abanmy, Abeer Aldayel, Hend Al-Khalifa, Maha Al-Yahya",
+   "venue": "BMC Health Services Research 139 (PMC5828313)",
+   "year": "2018"
+  },
+  {
+   "title": "A layered language model based hybrid approach to automatic full diacritization of Arabic",
+   "authors": "M Al-Badrashiny, A Hawwari, M Diab",
+   "venue": "Proceedings of the third arabic natural language processing workshop, 177-184",
+   "year": "2017"
+  },
+  {
+   "title": "Cunit: A semantic role labeling system for modern standard arabic",
+   "authors": "M Diab, A Moschitti, D Pighin",
+   "venue": "Proceedings of the Fourth International Workshop on Semantic Evaluations …",
+   "year": "2007"
+  },
+  {
+   "title": "Semi-automatic error analysis for large-scale statistical machine translation",
+   "authors": "K Kirchhoff, O Rambow, N Habash, M Diab",
+   "venue": "Proceedings of Machine Translation Summit XI: Papers",
+   "year": "2007"
+  },
+  {
+   "title": "AnswerSumm: A manually-curated dataset and pipeline for answer summarization",
+   "authors": "AR Fabbri, X Wu, S Iyer, H Li, M Diab",
+   "venue": "Proceedings of the 2022 conference of the north american chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "A framework for the classification and annotation of multiword expressions in dialectal arabic",
+   "authors": "A Hawwari, M Attia, M Diab",
+   "venue": "Proceedings of the EMNLP 2014 workshop on Arabic natural language processing …",
+   "year": "2014"
+  },
+  {
+   "title": "Who’s (really) the boss? Perception of situational power in written interactions",
+   "authors": "V Prabhakaran, O Rambow, M Diab",
+   "venue": "Proceedings of COLING 2012, 2259-2274",
+   "year": "2012"
+  },
+  {
+   "title": "Building an Arabic multiword expressions repository",
+   "authors": "A Hawwari, K Bar, M Diab",
+   "venue": "Proceedings of the ACL 2012 joint workshop on statistical parsing and …",
+   "year": "2012"
+  },
+  {
+   "title": "Split: Smart preprocessing (quasi) language independent tool",
+   "authors": "M Al-Badrashiny, A Pasha, M Diab, N Habash, O Rambow, W Salloum, ...",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Decoding dark matter: Specialized sparse autoencoders for interpreting rare concepts in foundation models",
+   "authors": "A Muhamed, M Diab, V Smith",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 1604-1635",
+   "year": "2025"
+  },
+  {
+   "title": "Building a lexical semantic resource for Arabic morphological Patterns",
+   "authors": "A Hawwari, W Zaghouani, T O'Gorman, A Badran, M Diab",
+   "venue": "2013 1st International Conference on Communications, Signal Processing, and …",
+   "year": "2013"
+  },
+  {
+   "title": "The George Washington University system for the code-switching workshop shared task 2016",
+   "authors": "M Al-Badrashiny, M Diab",
+   "venue": "Proceedings of the second workshop on computational approaches to code …",
+   "year": "2016"
+  },
+  {
+   "title": "Enabling classifiers to make judgements explicitly aligned with human values",
+   "authors": "Y Bang, T Yu, A Madotto, Z Lin, M Diab, P Fung",
+   "venue": "Proceedings of the 3rd Workshop on Trustworthy Natural Language Processing …",
+   "year": "2023"
+  },
+  {
+   "title": "Handling OOV words in dialectal Arabic to English machine translation",
+   "authors": "M Aminian, M Ghoneim, M Diab",
+   "venue": "Proceedings of the EMNLP’2014 Workshop on Language Technology for Closely …",
+   "year": "2014"
+  },
+  {
+   "title": "Improving lexical semantics for sentential semantics: Modeling selectional preference and similar words in a latent variable model",
+   "authors": "W Guo, M Diab",
+   "venue": "Proceedings of the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Learning the latent semantics of a concept from its definition",
+   "authors": "W Guo, M Diab",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Annotations for Power Relations on Email Threads.",
+   "authors": "V Prabhakaran, H Neralwala, O Rambow, MT Diab",
+   "venue": "LREC, 806-811",
+   "year": "2012"
+  },
+  {
+   "title": "Aida: Automatic identification and glossing of dialectal arabic",
+   "authors": "H Elfardy, M Diab",
+   "venue": "Proceedings of the 16th eamt conference (project papers), 83-83",
+   "year": "2012"
+  },
+  {
+   "title": "Where’s the verb? correcting machine translation during question answering",
+   "authors": "WY Ma, K McKeown",
+   "venue": "Proceedings of the ACL-IJCNLP 2009 Conference Short Papers, 333-336",
+   "year": "2009"
+  },
+  {
+   "title": "Arabic dialect processing",
+   "authors": "M Diab, N Habash",
+   "venue": "Proceedings of the 7th Conference of the Association for Machine Translation …",
+   "year": "2006"
+  },
+  {
+   "title": "Generative value conflicts reveal llm priorities",
+   "authors": "A Liu, K Ghate, M Diab, D Fried, A Kasirzadeh, M Kleiman-Weiner",
+   "venue": "International Conference on Learning Representations 2026, 47142-47185",
+   "year": "2026"
+  },
+  {
+   "title": "Beyond understanding: Evaluating the pragmatic gap in llms’ cultural processing of figurative language",
+   "authors": "M Attia, A Muhamed, M Alkhamissi, T Solorio, M Diab",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Text characterization toolkit (TCT)",
+   "authors": "D Simig, T Wang, V Dankers, P Henderson, K Batsuren, D Hupkes, ...",
+   "venue": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluation of unsupervised compositional representations",
+   "authors": "H Aldarmaki, M Diab",
+   "venue": "Proceedings of the 27th International Conference on Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Ideological perspective detection using semantic features",
+   "authors": "H Elfardy, M Diab, C Callison-Burch",
+   "venue": "Proceedings of the Fourth Joint Conference on Lexical and Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Fast tweet retrieval with compact binary codes",
+   "authors": "W Guo, W Liu, M Diab",
+   "venue": "Proceedings of COLING 2014, the 25th International Conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Feasibility of leveraging crowd sourcing for the creation of a large scale annotated resource for Hindi English code switched data: A pilot annotation",
+   "authors": "M Diab, A Kamboj",
+   "venue": "Proceedings of the 9th workshop on Asian language resources, 36-40",
+   "year": "2011"
+  },
+  {
+   "title": "Improvements to monolingual English word sense disambiguation",
+   "authors": "W Guo, M Diab",
+   "venue": "Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and …",
+   "year": "2009"
+  },
+  {
+   "title": "Hire your anthropologist! rethinking culture benchmarks through an anthropological lens",
+   "authors": "M AlKhamissi, Y Xiao, B AlKhamissi, M Diab",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2026, 1218-1235",
+   "year": "2026"
+  },
+  {
+   "title": "Refusalbench: Generative evaluation of selective refusal in grounded language models",
+   "authors": "A Muhamed, LFR Ribeiro, M Dreyer, V Smith, M Diab",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Emotion classification in low and moderate resource languages",
+   "authors": "S Tafreshi, S Vatsal, M Diab",
+   "venue": "arXiv preprint arXiv:2402.18424",
+   "year": "2024"
+  },
+  {
+   "title": "Gw_qa at semeval-2017 task 3: Question answer re-ranking on arabic fora",
+   "authors": "N Almarwani, M Diab",
+   "venue": "Proceedings of the 11th International Workshop on Semantic Evaluation …",
+   "year": "2017"
+  },
+  {
+   "title": "SAMER: a semi-automatically created lexical resource for Arabic verbal multiword expressions tokens paradigm and their morphosyntactic features",
+   "authors": "M Al-Badrashiny, A Hawwari, M Ghoneim, M Diab",
+   "venue": "Proceedings of the 12th Workshop on Asian Language Resources (ALR12), 113-122",
+   "year": "2016"
+  },
+  {
+   "title": "Investigating the impact of various partial diacritization schemes on Arabic-English statistical machine translation",
+   "authors": "S Alqahtani, M Ghoneim, M Diab",
+   "venue": "Conferences of the Association for Machine Translation in the Americas: MT …",
+   "year": "2016"
+  },
+  {
+   "title": "Towards valid student simulation with large language models",
+   "authors": "Z Yuan, Y Xiao, M Li, W Xuan, R Tong, M Diab, T Mitchell",
+   "venue": "arXiv preprint arXiv:2601.05473",
+   "year": "2026"
+  },
+  {
+   "title": "Depth-wise attention (dwatt): A layer fusion method for data-efficient classification",
+   "authors": "MN ElNokrashy, B AlKhamissi, M Diab",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "GWU NLP at semeval-2019 task 7: Hybrid pipeline for rumour veracity and stance classification on social media",
+   "authors": "S Hamidian, M Diab",
+   "venue": "Proceedings of the 13th international workshop on semantic evaluation, 1115-1119",
+   "year": "2019"
+  },
+  {
+   "title": "The power of language music: Arabic lemmatization through patterns",
+   "authors": "M Attia, A Zirikly, M Diab",
+   "venue": "Proceedings of the 5th Workshop on Cognitive Aspects of the Lexicon (CogALex …",
+   "year": "2016"
+  },
+  {
+   "title": "GWU NLP at SemEval-2016 Shared Task 1: Matrix factorization for crosslingual STS",
+   "authors": "H Aldarmaki, M Diab",
+   "venue": "Proceedings of the 10th International Workshop on Semantic Evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "GWU-HASP-2015@ QALB-2015 shared task: priming spelling candidates with probability",
+   "authors": "M Attia, M Al-Badrashiny, M Diab",
+   "venue": "Proceedings of the second workshop on Arabic natural language processing …",
+   "year": "2015"
+  },
+  {
+   "title": "From complexity to clarity: AI/NLP’s role in regulatory compliance",
+   "authors": "J Jain, N Dhanasekaran, M Diab",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 26629-26641",
+   "year": "2025"
+  },
+  {
+   "title": "Intrinsic bias is predicted by pretraining data and correlates with downstream performance in vision-language encoders",
+   "authors": "K Ghate, I Slaughter, K Wilson, M Diab, A Caliskan",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Rethinking machine learning benchmarks in the context of professional codes of conduct",
+   "authors": "P Henderson, J Hu, M Diab, J Pineau",
+   "venue": "Proceedings of the 2024 Symposium on Computer Science and Law, 109-120",
+   "year": "2024"
+  },
+  {
+   "title": "The GW/LT3 VarDial 2016 shared task system for dialects and similar languages detection",
+   "authors": "A Zirikly, B Desmet, M Diab",
+   "venue": "Proceedings of the Third Workshop on NLP for Similar Languages, Varieties …",
+   "year": "2016"
+  },
+  {
+   "title": "Creating a large multi-layered representational repository of linguistic code switched arabic data",
+   "authors": "M Diab, M Ghoneim, A Hawwari, F AlGhamdi, N AlMarwani, ...",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Robust part-of-speech tagging of Arabic text",
+   "authors": "H Aldarmaki, M Diab",
+   "venue": "Proceedings of the Second Workshop on Arabic Natural Language Processing …",
+   "year": "2015"
+  },
+  {
+   "title": "Reranking with linguistic and semantic features for arabic optical character recognition",
+   "authors": "N Tomeh, N Habash, R Roth, N Farra, P Dasigi, M Diab",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Towards an optimal POS tag set for Arabic processing",
+   "authors": "M Diab",
+   "venue": "Proceedings of the International Conference on Recent Advances in Natural …",
+   "year": "2007"
+  },
+  {
+   "title": "Unsupervised induction of modern standard Arabic verb classes using syntactic frames and LSA",
+   "authors": "N Snider, M Diab",
+   "venue": "Proceedings of the COLING/ACL 2006 Main Conference Poster Sessions, 795-802",
+   "year": "2006"
+  },
+  {
+   "title": "Contextual natural language understanding for conversational agents",
+   "authors": "A Gupta, P Zhang, R Gangadharaiah, G Lalwani, RS Jenke, H SAWAF, ...",
+   "venue": "US Patent 11,580,968",
+   "year": "2023"
+  },
+  {
+   "title": "Does causal coherence predict online spread of social media?",
+   "authors": "P Hosseini, M Diab, DA Broniatowski",
+   "venue": "International Conference on Social Computing, Behavioral-Cultural Modeling …",
+   "year": "2019"
+  },
+  {
+   "title": "The ariel-cmu systems for lorehlt18",
+   "authors": "A Chaudhary, S Dalmia, J Hu, X Li, A Matthews, AO Muis, N Otani, ...",
+   "venue": "arXiv preprint arXiv:1902.08899",
+   "year": "2019"
+  },
+  {
+   "title": "The Columbia-GWU System at the 2016 TAC KBP BeSt Evaluation.",
+   "authors": "O Rambow, T Yu, A Radeva, AR Fabbri, C Hidey, T Peng, KR McKeown, ...",
+   "venue": "TAC",
+   "year": "2016"
+  },
+  {
+   "title": "Unsupervised classification of verb noun multi-word expression tokens",
+   "authors": "MT Diab, M Krishna",
+   "venue": "International Conference on Intelligent Text Processing and Computational …",
+   "year": "2009"
+  },
+  {
+   "title": "Language Understanding Annotation Corpus",
+   "authors": "M Diab, B Dorr, L Levin, T Mitamura, R Passonneau, O Rambow, ...",
+   "venue": "LDC, Philadelphia",
+   "year": "2009"
+  },
+  {
+   "title": "Llm microscope: What model internals reveal about answer correctness and context utilization",
+   "authors": "J Liu, J Jain, M Diab, N Subramani",
+   "venue": "arXiv preprint arXiv:2510.04013",
+   "year": "2025"
+  },
+  {
+   "title": "Best: The belief and sentiment corpus",
+   "authors": "J Tracey, O Rambow, C Cardie, A Dalton, HT Dang, M Diab, B Dorr, ...",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "Investigating input and output units in diacritic restoration",
+   "authors": "S Alqahtani, M Diab",
+   "venue": "2019 18th IEEE International Conference on Machine Learning and Applications …",
+   "year": "2019"
+  },
+  {
+   "title": "NLP for Arabic and related languages",
+   "authors": "M Diab, N Habash, I Zitouni",
+   "venue": "Traitement Automatique des Langues 58 (3), 9-13",
+   "year": "2017"
+  },
+  {
+   "title": "Addressing annotation complexity: The case of annotating ideological perspective in Egyptian social media",
+   "authors": "H Elfardy, M Diab",
+   "venue": "Proceedings of the 10th Linguistic Annotation Workshop held in conjunction …",
+   "year": "2016"
+  },
+  {
+   "title": "Mandiac: A web-based annotation system for manual arabic diacritization",
+   "authors": "O Obeid, H Bouamor, W Zaghouani, M Ghoneim, A Hawwari, S Alqahtani, ...",
+   "venue": "The 2nd Workshop on Arabic Corpora and Processing Tools, 16",
+   "year": "2016"
+  },
+  {
+   "title": "Natural language processing of Arabic and its dialects",
+   "authors": "M Diab, N Habash",
+   "venue": "Proceedings of the conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Data acquisition and linguistic resources",
+   "authors": "S Strassel, C Christianson, J McCary, W Staderman, J Olive, S Strassel, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Handling sparsity for verb noun MWE token classification",
+   "authors": "M Diab, M Krishna",
+   "venue": "Proceedings of the Workshop on Geometrical Models of Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "Unsupervised induction of Modern Standard Arabic verb classes",
+   "authors": "N Snider, M Diab",
+   "venue": "Proceedings of the Human Language Technology Conference of the NAACL …",
+   "year": "2006"
+  },
+  {
+   "title": "Caregiver and pediatric clinician perspectives on artificial intelligence for language services",
+   "authors": "G Ficerai-Garland, P Groves, EA Puccio, S Bruno, H Hoffman, NP Villegas, ...",
+   "venue": "Academic pediatrics, 102887",
+   "year": "2025"
+  },
+  {
+   "title": "Biases propagate in encoder-based vision-language models: A systematic analysis from intrinsic measures to zero-shot retrieval outcomes",
+   "authors": "K Ghate, T Charlesworth, M Diab, A Caliskan",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 18562-18580",
+   "year": "2025"
+  },
+  {
+   "title": "Semantic compression for word and sentence embeddings using discrete wavelet transform",
+   "authors": "R Salama, A Youssef, M Diab",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 15963-15977",
+   "year": "2024"
+  },
+  {
+   "title": "A quantitative and qualitative analysis of schizophrenia language",
+   "authors": "A Alqahtani, ES Kayi, S Hamidian, M Compton, M Diab",
+   "venue": "Proceedings of the 13th international workshop on health text mining and …",
+   "year": "2022"
+  },
+  {
+   "title": "GisPy: A tool for measuring gist inference score in text",
+   "authors": "P Hosseini, C Wolfe, M Diab, D Broniatowski",
+   "venue": "Proceedings of the 4th Workshop of Narrative Understanding (WNU2022), 38-46",
+   "year": "2022"
+  },
+  {
+   "title": "Multi-perspective abstractive answer summarization",
+   "authors": "AR Fabbri, X Wu, S Iyer, M Diab",
+   "venue": "arXiv preprint arXiv:2104.08536",
+   "year": "2021"
+  },
+  {
+   "title": "Arabic multiword expressions",
+   "authors": "K Bar, M Diab, A Hawwari",
+   "venue": "Language, Culture, Computation. Computational Linguistics and Linguistics …",
+   "year": "2014"
+  },
+  {
+   "title": "Second joint conference on lexical and computational semantics (* SEM), volume 1: proceedings of the Main conference and the shared task: semantic textual similarity",
+   "authors": "M Diab, T Baldwin, M Baroni",
+   "venue": "Second Joint Conference on Lexical and Computational Semantics (* SEM …",
+   "year": "2013"
+  },
+  {
+   "title": "Parsing arabic dialects",
+   "authors": "C David, M Diab, N Habash, O Rambow, S Shareef",
+   "venue": "Proceedings of EACL, 369-376",
+   "year": "2006"
+  },
+  {
+   "title": "A preliminary statistical investigation into the impact of an n-gram analysis approach based on word syntactic categories toward text author classification",
+   "authors": "M Diab, J Schuster, P Bock",
+   "venue": "",
+   "year": "2000"
+  },
+  {
+   "title": "Leveraging pretrained word embeddings for part-of-speech tagging of code switching data",
+   "authors": "F AlGhamdi, M Diab",
+   "venue": "Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties …",
+   "year": "2019"
+  },
+  {
+   "title": "Unsupervised false friend disambiguation using contextual word clusters and parallel word alignments",
+   "authors": "M Aminian, M Ghoneim, M Diab",
+   "venue": "Proceedings of the Ninth Workshop on Syntax, Semantics and Structure in …",
+   "year": "2015"
+  },
+  {
+   "title": "Semantic processing of semitic languages",
+   "authors": "M Diab, Y Marton",
+   "venue": "Natural language processing of semitic languages, 129-159",
+   "year": "2014"
+  },
+  {
+   "title": "Dira: Dialectal arabic information retrieval assistant",
+   "authors": "A Pasha, M Al-Badrashiny, M Altantawy, N Habash, M Pooleery, ...",
+   "venue": "The Companion Volume of the Proceedings of IJCNLP 2013: System …",
+   "year": "2013"
+  },
+  {
+   "title": "Conventional Orthography for Dialectal Arabic: Principles and Guidelines–Egyptian Arabic",
+   "authors": "N Habash, M Diab, O Rambow",
+   "venue": "Technical Report CCLS-12-02, Columbia University Center for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Semantic parsing of modern standard Arabic",
+   "authors": "M Diab, A Moschitti",
+   "venue": "International Conference Recent advances in natural language processing, 162-166",
+   "year": "2007"
+  },
+  {
+   "title": "Parsing Arabic Dialects. Final Report",
+   "authors": "O Rambow, D Chiang, M Diab, N Habash, R Hwa, K Sima’an, V Lacey, ...",
+   "venue": "2005 JHU Summer Workshop",
+   "year": "2005"
+  },
+  {
+   "title": "JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models’ Detection of Human risky health behavior Content in Jirai Community",
+   "authors": "Y Xiao, T He, LZ Wang, Y Ma, X Song, X Xu, M Diab, I Li, KC Ng",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "CoRAG: Collaborative retrieval-augmented generation",
+   "authors": "A Muhamed, M Diab, V Smith",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Cache me if you can: The case for retrieval augmentation in federated learning",
+   "authors": "A Muhamed, P Thaker, MT Diab, V Smith",
+   "venue": "Privacy Regulation and Protection in Machine Learning",
+   "year": "2024"
+  },
+  {
+   "title": "Data paucity and low resource scenarios: Challenges and opportunities",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 26th ACM SIGKDD International Conference on Knowledge …",
+   "year": "2020"
+  },
+  {
+   "title": "Linguistically-Motivated Subjectivity and Sentiment Annotation and Tagging of Modern Standard Arabic",
+   "authors": "M Abdul-Mageed, M Diab",
+   "venue": "SOCIAL MEDIA, 19-38",
+   "year": "2011"
+  },
+  {
+   "title": "Quantifying and Interpreting the Effect of Intelligent Information Exchange Between Chromosomes in a Human Simulation of a Genetic Algorithm",
+   "authors": "TP Riopka, M Diab, P Bock",
+   "venue": "Laboratory for Language and Media Processing, Institute for Advanced …",
+   "year": "2000"
+  },
+  {
+   "title": "others. 2015. Semeval-2015 task 2: Semantic textual similarity, english, spanish and pilot on interpretability",
+   "authors": "E Agirre, C Banea, C Cardie, D Cer, M Diab, A Gonzalez-Agirre, W Guo, ...",
+   "venue": "Proceedings of the 9th international workshop on semantic evaluation …",
+   "year": "1"
+  },
+  {
+   "title": "Hovy, Lori Levin, Marjorie McShane, Teruko Mitamura, Sergei Nirenburg, Christine Piatko, Owen Rambow, and Gramm Richardson. 2010c. SIMT SCALE 2009—Modality annotation guidelines",
+   "authors": "K Baker, M Bloodgood, M Diab, BJ Dorr",
+   "venue": "Technical Report 004, Human Language Technology Center of Excellence, Johns …",
+   "year": null
+  },
+  {
+   "title": "SimBA: Simplifying Benchmark Analysis Using Performance Matrices Alone.",
+   "authors": "N Subramani, A Gomez, MT Diab",
+   "venue": "EMNLP (Findings), 13220-13233",
+   "year": "2025"
+  },
+  {
+   "title": "Toward global ai inclusivity: A large-scale multilingual terminology dataset (gist)",
+   "authors": "J Liu, I Ouzzani, W Li, L Zhang, T Ou, H Bouamor, Z Jin, M Diab",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 22327-22360",
+   "year": "2025"
+  },
+  {
+   "title": "Care4Lang at MEDIQA-Chat 2023: Fine-tuning language models for classifying and summarizing clinical dialogues",
+   "authors": "A Alqahtani, R Salama, M Diab, A Youssef",
+   "venue": "proceedings of the 5th clinical natural language processing workshop, 524-528",
+   "year": "2023"
+  },
+  {
+   "title": "Discrete cosine transform as universal sentence encoder",
+   "authors": "N Almarwani, M Diab",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "13 Arabic Dialect Processing",
+   "authors": "N Habash",
+   "venue": "Similar Languages, Varieties, and Dialects: A Computational Perspective, 279",
+   "year": "2021"
+  },
+  {
+   "title": "WASA: a web application for sequence annotation",
+   "authors": "F AlGhamdi, M Diab",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Explicit fine grained syntactic and semantic annotation of the Idafa construction in Arabic",
+   "authors": "A Hawwari, M Attia, M Ghoneim, M Diab",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Madamira 2.1",
+   "authors": "A Pasha, M Al-Badrashiny, M Diab, N Habash, M Pooleery, O Rambow, ...",
+   "venue": "Center for Computational Learning Systems Columbia University, 55-60",
+   "year": "2015"
+  },
+  {
+   "title": "Sem 2013 shared task: Semantic textual similarity including a pilot on typed-similarity.* sem 2013: The second joint conference on lexical and computational semantics",
+   "authors": "E Agirre, D Cer, M Diab, A Gonzalez-Agirre, W Guo",
+   "venue": "Association for Computational Linguistics",
+   "year": "2013"
+  },
+  {
+   "title": "Proceedings of ACL-08: HLT, Short Papers",
+   "authors": "R Roth, O Rambow, N Habash, M Diab, C Rudin",
+   "venue": "Association for Computational Linguistics",
+   "year": "2008"
+  },
+  {
+   "title": "An unsupervised method for word sense tagging using parallel corpora: A preliminary investigation",
+   "authors": "M Diab",
+   "venue": "Special Interest Group in Lexical Semantics (SIGLEX) Workshop, Association …",
+   "year": "2000"
+  },
+  {
+   "title": "What is computational linguistics?",
+   "authors": "RJM Wiebe",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Taming object hallucinations with verified atomic confidence estimation",
+   "authors": "J Liu, W Xuan, Z Jin, M Diab",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Position: Mechanistic interpretability should prioritize feature consistency in saes",
+   "authors": "X Song, A Muhamed, Y Zheng, L Kong, Z Tang, MT Diab, V Smith, ...",
+   "venue": "arXiv preprint arXiv:2505.20254",
+   "year": "2025"
+  },
+  {
+   "title": "A note on bias to complete",
+   "authors": "J Xu, M Diab",
+   "venue": "arXiv preprint arXiv:2402.11710",
+   "year": "2024"
+  },
+  {
+   "title": "Using ambiguity detection to streamline linguistic annotation",
+   "authors": "W Zaghouani, A Hawwari, S Alqahtani, H Bouamor, M Ghoneim, M Diab, ...",
+   "venue": "Proceedings of the Workshop on Computational Linguistics for Linguistic …",
+   "year": "2016"
+  },
+  {
+   "title": "AMPN: a semantic resource for Arabic morphological patterns",
+   "authors": "W Zaghouani, A Hawwari, M Diab, T O’Gorman, A Badran",
+   "venue": "International Journal of Speech Technology 19 (2), 281-288",
+   "year": "2016"
+  },
+  {
+   "title": "GWU English TAC-KBP EL Diagnostic Task with Name Mention.",
+   "authors": "A Zirikly, MT Diab, Y Benajiba",
+   "venue": "TAC",
+   "year": "2015"
+  },
+  {
+   "title": "A hybrid system for code switch point detection in informal Arabic text",
+   "authors": "H Elfardy, M Al-Badrashiny, M Diab",
+   "venue": "XRDS: Crossroads, The ACM Magazine for Students 21 (1), 52-57",
+   "year": "2014"
+  },
+  {
+   "title": "GWU-HASP: Hybrid Arabic Spelling and Punctuation Corrector",
+   "authors": "M Diab, M Attia, AB Mohamed",
+   "venue": "Proceedings of the EMNLP 2014 Workshop on Arabic Natural Language Processing …",
+   "year": "2014"
+  },
+  {
+   "title": "Semantic textual similarity: past present and future",
+   "authors": "M Diab",
+   "venue": "Proceedings of the Joint Symposium on Semantic Processing. Textual Inference …",
+   "year": "2013"
+  },
+  {
+   "title": "Anear: Automatic named entity aliasing resolution",
+   "authors": "A Zirikly, M Diab",
+   "venue": "International Conference on Application of Natural Language to Information …",
+   "year": "2013"
+  },
+  {
+   "title": "Introduction to the special issue on arabic computational linguistics",
+   "authors": "G Katz, M Diab",
+   "venue": "ACM Transactions on Asian Language Information Processing (TALIP) 10 (1), 1-4",
+   "year": "2011"
+  },
+  {
+   "title": "Arabic dialect tutorial",
+   "authors": "M Diab, N Habash",
+   "venue": "In Proceedings of the Human Language Technology Conference of the North …",
+   "year": "2007"
+  },
+  {
+   "title": "Rudin С (2008) Arabic morphological tagging, diacritization, and lemmatization using lexeme models and feature ranking",
+   "authors": "R Roth, O Rambow, N Habash, M Diab",
+   "venue": "Proceedings of ACL-08: HLT, short papers, Columbus, 117-120",
+   "year": null
+  },
+  {
+   "title": "Scalable cross-lingual transfer of neural sentence embeddings",
+   "authors": "H Aldarmaki, M Diab",
+   "venue": "Proceedings of the Eighth Joint Conference on Lexical and Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of the third workshop on computational approaches to linguistic code-switching",
+   "authors": "G Aguilar, F AlGhamdi, V Soto, T Solorio, M Diab, J Hirschberg",
+   "venue": "Proceedings of the Third Workshop on Computational Approaches to Linguistic …",
+   "year": "2018"
+  },
+  {
+   "title": "ARC‑WMI: Towards Building Arabic Readability Corpus for Written Medicine Information",
+   "authors": "A Aldayel, H Al‑Khalifa, S Alaqeel, N Abanmy, M Al‑Yahya, M Diab",
+   "venue": "Proceedings of the 3rd Workshop on Open‑Source Arabic Corpora and Processing …",
+   "year": "2018"
+  },
+  {
+   "title": "Automatic verification and augmentation of multilingual lexicons",
+   "authors": "M Aminian, M Al-Badrashiny, M Diab",
+   "venue": "Proceedings of the Third Workshop on NLP for Similar Languages, Varieties …",
+   "year": "2016"
+  },
+  {
+   "title": "Learning cross-lingual representations with matrix factorization",
+   "authors": "H Aldarmaki, M Diab",
+   "venue": "Proceedings of the Workshop on Multilingual and Cross-lingual Methods in NLP …",
+   "year": "2016"
+  },
+  {
+   "title": "Gonzalez-Agirre. 2012",
+   "authors": "E Agirre, D Cer, M Diab",
+   "venue": "Semeval-2012 task 6, 385-393",
+   "year": "2012"
+  },
+  {
+   "title": "SIMT SCALE 2009-Modality Annotation Guidelines",
+   "authors": "K Baker, M Bloodgood, M Diab, B Dorr, E Hovy, L Levin, M McShane, ...",
+   "venue": "Technical Report. Johns Hopkins, Baltimore",
+   "year": "2010"
+  },
+  {
+   "title": "Parsing Arabic dialects, final report version 1",
+   "authors": "O Rambow",
+   "venue": "Johns Hopkins summer workshop",
+   "year": "2005"
+  },
+  {
+   "title": "Word sense tagging using parallel corpora",
+   "authors": "M Diab, P Resnik",
+   "venue": "Proceedings of 40th ACL Conference",
+   "year": "2002"
+  },
+  {
+   "title": "M., Rambow, O., Roth, R., 2014. MADAMIRA: a fast, comprehensive tool for morphological analysis and disambiguation of Arabic",
+   "authors": "A Pasha, M Al-Badrashiny, A El Kholy, M Eskander, M Diab, NP Habash",
+   "venue": "Proceedings of the 9th International Conference on Language Resources and …",
+   "year": null
+  },
+  {
+   "title": "PaperMentor: A human-centered multi-agent writing tutor for AI research papers in Overleaf",
+   "authors": "J Liu, TJ Zhang, R Faulkner, XA Huang, V Zouhar, D Glandorf, I Dahlgren, ...",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Sentipolis: Emotion-aware agents for social simulations",
+   "authors": "C Fu, L Chen, Y Xiao, W Xuan, C Busso, M Diab",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 7465-7494",
+   "year": "2026"
+  },
+  {
+   "title": "MixSD: Mixed Contextual Self-Distillation for Knowledge Injection",
+   "authors": "J Liu, L Zhang, Y Yang, Y He, Y Wang, W Xuan, Z Jin, M Diab",
+   "venue": "arXiv preprint arXiv:2605.16865",
+   "year": "2026"
+  },
+  {
+   "title": "Combining discrete wavelet and cosine transforms for efficient sentence embedding",
+   "authors": "R Salama, A Youssef, M Diab",
+   "venue": "arXiv preprint arXiv:2508.00420",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the Fifth Workshop on Computational Approaches to Linguistic Code-Switching",
+   "authors": "T Solorio, S Chen, AW Black, M Diab, S Sitaram, V Soto, E Yilmaz, ...",
+   "venue": "Proceedings of the Fifth Workshop on Computational Approaches to Linguistic …",
+   "year": "2021"
+  },
+  {
+   "title": "White paper: Challenges and considerations for the creation of a large labelled repository of online videos with questionable content",
+   "authors": "T Solorio, M Shafaei, C Smailis, M Diab, T Giannakopoulos, H Ji, Y Liu, ...",
+   "venue": "arXiv preprint arXiv:2101.10894",
+   "year": "2021"
+  },
+  {
+   "title": "Multitask learning for cross-lingual transfer of broad-coverage semantic dependencies",
+   "authors": "M Aminian, MS Rasooli, M Diab",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Mutlitask learning for cross-lingual transfer of semantic dependencies",
+   "authors": "M Aminian, MS Rasooli, M Diab",
+   "venue": "arXiv preprint arXiv:2004.14961",
+   "year": "2020"
+  },
+  {
+   "title": "Understanding cohesion in writings and speech of schizophrenia patients",
+   "authors": "A AlQahtani, E Kayi, M Diab",
+   "venue": "2019 18th IEEE International Conference On Machine Learning And Applications …",
+   "year": "2019"
+  },
+  {
+   "title": "GWU NLP Lab at SemEval-2019 Task 3: EmoContext: Effective Contextual Information in Models for Emotion Detection in Sentence-level in a Multigenre Corpus",
+   "authors": "S Tafreshi, M Diab",
+   "venue": "arXiv preprint arXiv:1905.09439",
+   "year": "2019"
+  },
+  {
+   "title": "Detecting relations and anomaly in Text and speech (drats)",
+   "authors": "O Rambow, M Diab, J Hirschberg, K Mckeown, S Muresan, M Ostendorf",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "ARLEX: A large scale comprehensive lexical inventory for Modern Standard Arabic",
+   "authors": "S Alqahtani, M Diab, W Zaghouani",
+   "venue": "OSACT 3: The 3rd Workshop on Open-Source Arabic Corpora and Processing Tools",
+   "year": "2018"
+  },
+  {
+   "title": "False news on social media",
+   "authors": "P Hosseini, M Diab, DA Broniatowski",
+   "venue": "arXiv preprint arXiv 10",
+   "year": "2018"
+  },
+  {
+   "title": "Filtering Dialectal Arabic Text in Two Large Scale Annotation Projects",
+   "authors": "W Zaghouani, N Habash, H Bouamor, O Obeid, S Alqahtani, M Diab, ...",
+   "venue": "The 2nd Workshop on Noisy User-generated Text (W-NUT)",
+   "year": "2016"
+  },
+  {
+   "title": "Processing dialectal Arabic: Exploiting variability and similarity to overcome challenges and discover opportunities",
+   "authors": "M Diab",
+   "venue": "Proceedings of the Third Workshop on NLP for Similar Languages, Varieties …",
+   "year": "2016"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Computational Approaches to Code Switching",
+   "authors": "M Diab, J Hirschberg, P Fung, T Solorio",
+   "venue": "Proceedings of the First Workshop on Computational Approaches to Code Switching",
+   "year": "2014"
+  },
+  {
+   "title": "MADAMIRA v1. 0 User Guide",
+   "authors": "M Al-Badrashiny, M Diab, N Habash, M Pooleery, O Rambow, R Roth",
+   "venue": "Center for Computational Learning Systems, Columbia University",
+   "year": "2014"
+  },
+  {
+   "title": "Conventional Orthography for Dialectal Arabic",
+   "authors": "M Diab, N Habash, R Owen",
+   "venue": "Proceedings of the Language Resources and Evaluation Conference, Istanbul",
+   "year": "2012"
+  },
+  {
+   "title": "System for subjectivity and sentiment analysis of arabic social media\" in proceedings of the 3rd workshop on computational approaches to subjectivity and sentiment analysis",
+   "authors": "MM Abdul, K Sandra, MT Diab",
+   "venue": "Republic of Korea, 19 28",
+   "year": "2012"
+  },
+  {
+   "title": "Subjectivity and sentiment annotation of modern standard arabic newswire”",
+   "authors": "MM Abdul, MT Diab",
+   "venue": "Proceedings of the 5th Linguistic Annotation Workshop, LAW, 2, 587 591",
+   "year": "2011"
+  },
+  {
+   "title": "COLABA: Arabic dialect annotation and processing (pp. 66–74)",
+   "authors": "M Diab, N Habash, O Rambow, M Altantawy, Y Benajiba",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Parsing Arabic Dialects",
+   "authors": "NY Habash, OC Rambow, D Chiang, MT Diab, R Hwa, K Sima'an, ...",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "An Unsupervised Method for Multilingual Word Sense Tagging Using Parallel Corpora",
+   "authors": "D Mona",
+   "venue": "Proceedings of the 38th Annual Meeting of the Association for Computational …",
+   "year": "2000"
+  },
+  {
+   "title": "M.(2013). MADAMIRA: A Fast, Comprehensive Tool for Morphological Analysis and Disambiguation of Arabic",
+   "authors": "A Pasha, M Al-Badrashiny, M Diab, A El Kholy, R Eskander, N Habash, ...",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": null
+  },
+  {
+   "title": "Conventional Orthography for Dialectal Arabic: Principles and Guidelines–Egyptian Arabic. 2012",
+   "authors": "N Habash, M Diab, O Rambow",
+   "venue": "Columbia university",
+   "year": null
+  },
+  {
+   "title": "SAMAR: a system for subjectivity and sentiment analysis of Arabic social media (2012)",
+   "authors": "M Abdul-Mageed, S Kuebler, MT Diab",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ExpressionCueLens: a cross-cultural analysis of human-AI companion conversations on social media",
+   "authors": "LHX Ng, Y Xiao, LZ Wang, W Xuan, M Diab",
+   "venue": "Journal of Ambient Intelligence and Humanized Computing, 1-12",
+   "year": "2026"
+  },
+  {
+   "title": "Understanding the Sociocultural Dimensions of Mental Health Discourse in Arabic X Communities",
+   "authors": "A Alqahtani, RA Salama, M Diab",
+   "venue": "Proceedings of the 11th Social Media Mining for Health Research and …",
+   "year": "2026"
+  },
+  {
+   "title": "On the Persistent Effects of Lexicality in Large Language Models",
+   "authors": "H Rizwan, MU Haider, N Subramani, MT Diab, AB Siddique, H Sajjad",
+   "venue": "arXiv preprint arXiv:2606.02750",
+   "year": "2026"
+  },
+  {
+   "title": "Position: AI Welfare Is Bullshit",
+   "authors": "Y Xiao, G Dai, SA Memon, J Huang, M Sap, MT Diab",
+   "venue": "Forty-third International Conference on Machine Learning Position Paper Track",
+   "year": "2026"
+  },
+  {
+   "title": "Pando: Do Interpretability Methods Work When Models Won't Explain Themselves?",
+   "authors": "Z Zhong, A Muhamed, MT Diab, V Smith, A Raghunathan",
+   "venue": "arXiv preprint arXiv:2604.11061",
+   "year": "2026"
+  },
+  {
+   "title": "Common Sense or Ableism? Rethinking Commonsense Reasoning Through the Lens of Disability",
+   "authors": "K Halevy, K Wenzel, S Kim, KD Bauer, B Neira, M Diab, M Sap",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "StressRoBERTa: Cross-Condition Transfer Learning from Depression, Anxiety, and PTSD to Stress Detection",
+   "authors": "A Alqahtani, E Kayi, M Diab",
+   "venue": "Proceedings of the 1st Workshop on Linguistic Analysis for Health (HeaLing …",
+   "year": "2026"
+  },
+  {
+   "title": "Personal Information Parroting in Language Models",
+   "authors": "N Subramani, K Ghate, M Diab",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2026, 886-895",
+   "year": "2026"
+  },
+  {
+   "title": "EVALUESTEER: Measuring Reward Model Steerability Towards Values and Preferences",
+   "authors": "K Ghate, A Liu, D Jain, T Sorensen, A Kasirzadeh, A Caliskan, MT Diab, ...",
+   "venue": "arXiv preprint arXiv:2510.06370",
+   "year": "2025"
+  },
+  {
+   "title": "Towards a Mechanistic Understanding of Robustness in Finetuned Reasoning Models",
+   "authors": "A Muhamed, X Zhao, MT Diab, V Smith, D Song",
+   "venue": "NeurIPS 2025 Workshop on Efficient Reasoning",
+   "year": "2025"
+  },
+  {
+   "title": "Commonsense knowledge-augmented pretrained language models for causal reasoning classification",
+   "authors": "P Hosseini, DA Broniatowski, MT Diab",
+   "venue": "CoRR, abs/2112.08615",
+   "year": "2021"
+  },
+  {
+   "title": "GWU NLP Lab at SemEval-2019 Task 3: EmoContext: Effectiveness ofContextual Information in Models for Emotion Detection inSentence-level at Multi-genre Corpus",
+   "authors": "S Tafreshi, M Diab",
+   "venue": "Proceedings of the 13th International Workshop on Semantic Evaluation, 230-235",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on Computational Approaches to Code Switching",
+   "authors": "M Diab, P Fung, M Ghoneim, J Hirschberg, T Solorio",
+   "venue": "Proceedings of the Second Workshop on Computational Approaches to Code Switching",
+   "year": "2016"
+  },
+  {
+   "title": "Tharawat: A vision for a comprehensive resource for Arabic computational processing",
+   "authors": "M Diab",
+   "venue": "International Conference on Intelligent Text Processing and Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Conventional Orthography for Dialectal Arabic (CODA): Principles and Guidelines--Egyptian Arabic-Version 0.7-March 2012",
+   "authors": "NY Habash, MT Diab, OC Rambow",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Named entity transliteration generation leveraging statistical machine translation technology",
+   "authors": "P Dasigi, M Diab",
+   "venue": "Proceedings of the 3rd Named Entities Workshop (NEWS 2011), 106-111",
+   "year": "2011"
+  },
+  {
+   "title": "Conventional Orthography for Dialectal Arabic (CODA) Version 0.1 ““July 2011",
+   "authors": "NY Habash, MT Diab, OC Rambow",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Modality/polarity annotation guidelines",
+   "authors": "B Dorr, M Diab, L Levin, T Mitamura, C Piatko, O Rambow",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "HLT & NLP within the Arabic world: Arabic Language and local languages processing Status Updates and Prospects",
+   "authors": "K Choukri, M Diab, B Maegaard, P Rosso, A Soudi, A Farghaly",
+   "venue": "LREC Workshop Proceedings, Marrakech, Morocco",
+   "year": "2008"
+  },
+  {
+   "title": "Proceedings of the ACL Workshop on Computational Approaches to Semitic Languages",
+   "authors": "K Darwish, M Diab, N Habash",
+   "venue": "Proceedings of the ACL Workshop on Computational Approaches to Semitic Languages",
+   "year": "2005"
+  },
+  {
+   "title": "AI Welfare is Bullshit",
+   "authors": "Y Xiao, G Dai, SA Memon, J Huang, M Sap, M Diab",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Paranoid Monitors: How Long Context Breaks LLM Agent Supervision",
+   "authors": "A Yang, A Muhamed, MT Diab, V Smith",
+   "venue": "Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop",
+   "year": null
+  },
+  {
+   "title": "Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks",
+   "authors": "A Muhamed, MT Diab, V Smith, A Ilyas, M Jagielski",
+   "venue": "arXiv preprint arXiv:2609.15029",
+   "year": "2026"
+  },
+  {
+   "title": "Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration",
+   "authors": "A Muhamed, MT Diab, V Smith",
+   "venue": "arXiv preprint arXiv:2609.16204",
+   "year": "2026"
+  },
+  {
+   "title": "RAPTOR: Role-Aware Private Training for Mixture-of-Experts",
+   "authors": "D Dm, K Le-Duc, N Do, MS Hoang, F Draye, T Hoang, HP Dam, J Liu, ...",
+   "venue": "arXiv preprint arXiv:2609.05770",
+   "year": "2026"
+  },
+  {
+   "title": "Learning from Use: Test-Time Learning in Large Language Models and Agents",
+   "authors": "W Xuan, Q Zeng, J Liu, R Yang, Y Xiao, Y Li, Z Zhou, W Sun, H Qi, L Cui, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Figurative and Cultural Knowledge in LLMs: Investigating Cross-Domain Transfer through Fine-Tuning",
+   "authors": "M Attia, M Diab, T Solorio",
+   "venue": "arXiv preprint arXiv:2608.18361",
+   "year": "2026"
+  },
+  {
+   "title": "Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases",
+   "authors": "R Yang, W Xuan, Y Lin, Z Bao, JCK Liew, MYH Wong, N Lescano, ...",
+   "venue": "arXiv preprint arXiv:2607.25933",
+   "year": "2026"
+  },
+  {
+   "title": "Mechanistic Interpretability Should Prioritize Feature Consistency in Sparse Autoencoders",
+   "authors": "X Song, A Muhamed, Y Zheng, L Kong, Z Tang, M Diab, V Smith, K Zhang",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "CCBENCH: Assessing LLM Cultural Competence via Implicitly Signaled Norms using Health Queries",
+   "authors": "V Varadarajan, A Yerukola, MT Diab, M Sap",
+   "venue": "arXiv preprint arXiv:2607.05405",
+   "year": "2026"
+  },
+  {
+   "title": "DWTSumm: Discrete Wavelet Transform for Document Summarization",
+   "authors": "R Salama, A Youssef, M Diab",
+   "venue": "arXiv preprint arXiv:2604.21070",
+   "year": "2026"
+  },
+  {
+   "title": "DSPA: Dynamic SAE Steering for Data-Efficient Preference Alignment",
+   "authors": "J Wedgwood, A Muhamed, MT Diab, V Smith",
+   "venue": "arXiv preprint arXiv:2603.21461",
+   "year": "2026"
+  },
+  {
+   "title": "Semantic Compression for Word and Sentence Embeddings using Discrete Wavelet Transform",
+   "authors": "R Aref Salama, A Youssef, M Diab",
+   "venue": "arXiv e-prints, arXiv: 2508.00220",
+   "year": "2025"
+  },
+  {
+   "title": "SAEs  Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs",
+   "authors": "A Muhamed, J Bonato, M Diab, V Smith",
+   "venue": "arXiv preprint arXiv:2504.08192",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching",
+   "authors": "GI Winata, S Kar, M Zhukova, T Solorio, M Diab, S Sitaram, M Choudhury, ...",
+   "venue": "Proceedings of the 6th Workshop on Computational Approaches to Linguistic …",
+   "year": "2023"
+  },
+  {
+   "title": "Enabling Classifiers to Make Judgements Explicitly Aligned with Human Values",
+   "authors": "M Diab",
+   "venue": "arXiv (Cornell University)",
+   "year": "2022"
+  },
+  {
+   "title": "P09-05 Size-dependent intestinal toxicity of silica particles in E551 food additive",
+   "authors": "TH Zaiter, R Cornu, N Millot, M Diab, A Beduneau",
+   "venue": "Toxicology Letters 368, S151-S152",
+   "year": "2022"
+  },
+  {
+   "title": "Towards Responsible Natural Language Annotation for the Varieties of Arabic",
+   "authors": "A Stevie Bergman, MT Diab",
+   "venue": "arXiv e-prints, arXiv: 2203.09597",
+   "year": "2022"
+  },
+  {
+   "title": "Discrete Cosine Transform as Universal Sentence Encoder",
+   "authors": "M Diab",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Information propagation in an era of Infodemics: The role of language content",
+   "authors": "M Diab",
+   "venue": "2020 Seventh International Conference on Social Networks Analysis …",
+   "year": "2020"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Natural Language Processing for Medical Conversations",
+   "authors": "P Bhatia, S Lin, R Gangadharaiah, BC Wallace, I Shafran, C Shivade, ...",
+   "venue": "Proceedings of the First Workshop on Natural Language Processing for Medical …",
+   "year": "2020"
+  },
+  {
+   "title": "Proceedings of the 4th Workshop on Computational Approaches to Code Switching",
+   "authors": "T Solorio, M Choudhury, K Bali, S Sitaram, A Das, M Diab",
+   "venue": "Proceedings of the 4th Workshop on Computational Approaches to Code Switching",
+   "year": "2020"
+  },
+  {
+   "title": "Women Status in Russian/Soviet Society with Special Reference to George Orwell's Animal Farm",
+   "authors": "N Amin, SH Khan",
+   "venue": "Pashto 49 (660)",
+   "year": "2020"
+  },
+  {
+   "title": "Spread of Social Media?",
+   "authors": "P Hosseini¹, MD Diab, DA Broniatowski¹",
+   "venue": "Social, Cultural, and Behavioral Modeling: 12th International Conference …",
+   "year": "2019"
+  },
+  {
+   "title": "Building a Rich Lexical Resource for Standard Arabic",
+   "authors": "W Zaghouani, SS Alqahtani, M Diab",
+   "venue": "Qatar Foundation Annual Research Conference Proceedings 2018 (4)",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the Third Arabic Natural Language Processing Workshop",
+   "authors": "N Habash, M Diab, K Darwish, W El-Hajj, H Al-Khalifa, H Bouamor, ...",
+   "venue": "Proceedings of the Third Arabic Natural Language Processing Workshop",
+   "year": "2017"
+  },
+  {
+   "title": "Proceedings of the Third Arabic Natural Language Processing Workshop",
+   "authors": "M Diab",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Traitement Automatique des Langues, Volume 58, Numéro 3: Traitement automatique de l'arabe et des langues apparentées [NLP for Arabic and Related Languages]",
+   "authors": "M Diab, N Habash, I Zitouni",
+   "venue": "Traitement Automatique des Langues 58 (3)",
+   "year": "2017"
+  },
+  {
+   "title": "Processing Dialectal Arabic: Exploiting Variability and Similarity to Overcome Challenges and Discover Opportunities (invited talk)",
+   "authors": "M Diab",
+   "venue": "VarDial 3, 42",
+   "year": "2016"
+  },
+  {
+   "title": "On Arabic Multi-Genre Corpus Diacritization",
+   "authors": "H Bouamor, W Zaghouani, M Diab, O Obeid, K Oflazer, M Ghoneim, ...",
+   "venue": "Qatar Foundation Annual Research Conference Proceedings 2016 (1)",
+   "year": "2016"
+  },
+  {
+   "title": "LILI: A Simple Language Independent Approach for Language Identification",
+   "authors": "M Diab",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Investigating the Impact of Various Partial Diacritization Schemes on Arabic-English Statistical Machine Translation",
+   "authors": "M Diab",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Computational Approaches to Linguistic Code Switching",
+   "authors": "M Diab, P Fung, J Hirschberg, T Solorio",
+   "venue": "Proc. Interspeech 2016, 0",
+   "year": "2016"
+  },
+  {
+   "title": "CI-P: Towards the Creation of a Unified Repository for MultiLingual and CrossLingual Multiword Expressions",
+   "authors": "MT Diab",
+   "venue": "NSF Award Number 1513116. Directorate for Computer and Information Science …",
+   "year": "2015"
+  },
+  {
+   "title": "AMPN: a semantic resource for Arabic morphological patterns",
+   "authors": "M Diab",
+   "venue": "International Journal of Speech Technology",
+   "year": "2015"
+  },
+  {
+   "title": "Robust Part-of-speech Tagging of Arabic Text",
+   "authors": "M Diab",
+   "venue": "Proceedings of the Second Workshop on Arabic Natural Language Processing",
+   "year": "2015"
+  },
+  {
+   "title": "SemEval-2015 Task 2: Semantic Textual Similarity, English, Spanish and Pilot on Interpretability",
+   "authors": "E Agirre Bengoa, C Banea, C Cardie, D Cer, M Diab, A González Agirre, ...",
+   "venue": "9th International Workshop on Semantic Evaluation (SemEval 2015). Proceedings",
+   "year": "2015"
+  },
+  {
+   "title": "Sentence Level Dialect Identification for Machine Translation System Selection",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "MADAMIRA v2. 0 User Manual",
+   "authors": "M Al-Badrashiny, M Diab, N Habash, M Pooleery, O Rambow, R Roth",
+   "venue": "Online]. http://www. nizarhabash. com/publications/MADAMIRA-UserManual. pdf",
+   "year": "2013"
+  },
+  {
+   "title": "CI-ADDO-NEW: Collaborative Research: A Repository for Annotating Multilingual Code Switched Data",
+   "authors": "MT Diab",
+   "venue": "NSF Award Number 1343530. Directorate for Computer and Information Science …",
+   "year": "2013"
+  },
+  {
+   "title": "*SEM 2013: The Second Joint Conference on Lexical and Computational Semantics",
+   "authors": "MBE Diab, Mona, Tim Baldwin",
+   "venue": "*SEM 2013 Second Joint Conference on Lexical and Computational Semantics (*SEM).",
+   "year": "2013"
+  },
+  {
+   "title": "CI-ADDO-NEW: Collaborative Research: A Repository for Annotating Multilingual Code Switched Data",
+   "authors": "MT Diab",
+   "venue": "NSF Award Number 1205556. Directorate for Computer and Information Science …",
+   "year": "2012"
+  },
+  {
+   "title": "Learning the Latent Semantics of a Concept from its Deﬁnition",
+   "authors": "W Guo, M Diab",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Overview of the Special Session on Semantics and Sociolinguistics in Social Media",
+   "authors": "M Diab, M Dredze, S Harabagiu, D Radev",
+   "venue": "Proceedings-IEEE 6th International Conference on Semantic Computing, ICSC …",
+   "year": "2012"
+  },
+  {
+   "title": "The report series template",
+   "authors": "W Chu, A Salleb-Aouissi, N Habash, O Rambow, R Roth, N Habash, ...",
+   "venue": "def 1, 3",
+   "year": "2010"
+  },
+  {
+   "title": "Collaborative Research: CI-P: Creation of an annotated repository of multilingual and multigenre code switched data for several language pairs",
+   "authors": "MT Diab",
+   "venue": "NSF Award Number 0958440. Directorate for Computer and Information Science …",
+   "year": "2010"
+  },
+  {
+   "title": "Abbasi, Ahmed, Hsinchun Chen, and Arab Salem. Sentiment analysis in multiple languages: Fea-ture selection for opinion classification in web forums. ACM Transactions on …",
+   "authors": "M Abdul-Mageed, MT Diab, M Korayem, A Andreevskaia, S Bergler, ...",
+   "venue": "arXiv preprint arXiv:1003.5699",
+   "year": "2010"
+  },
+  {
+   "title": "2009 Index IEEE Transactions on Audio, Speech, and Language Processing Vol. 17",
+   "authors": "M Abe, TD Abhayapala, A Acero, S Affes, M Afify, Y Agiomyrgiannakis, ...",
+   "venue": "IEEE Transactions on Audio, Speech, and Language Processing 17 (8), 1649",
+   "year": "2009"
+  },
+  {
+   "title": "3rd Textgraphs Workshop on Graph Based Algorithms for Natural Language Processing",
+   "authors": "I Matveeva, C Biemann, M Choudhury, M Diab",
+   "venue": "22nd International Conference on Computational Linguistics",
+   "year": "2008"
+  },
+  {
+   "title": "Program and Scientific Committee",
+   "authors": "K Beesley, T Buckwalter, V Cavalli-Sforza, F Debili, CENSLSH Lyon, ...",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Arabic morphological tagging, diacritization, and lemmatization using lexeme models and feature ranking",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 46th Annual Meeting of the Association for Computational …",
+   "year": "2008"
+  },
+  {
+   "title": "M. and C. Rudin,\" Arabic Morphological Tagging, Diacritization, and Lemmatization Using Lexeme Models and Feature Ranking",
+   "authors": "R Ryan, O Rambow, N Habash, M Diab",
+   "venue": "Proceedings ofAssociation for Computational Linguistics (ACL), Columbus, Ohio",
+   "year": "2008"
+  },
+  {
+   "title": "Akoglu, Leman, Rishi Chandy, and Christos Faloutsos. Opinion Fraud Detection in Online Reviews by Network Effects. In Proceedings of the International AAAI Conference on …",
+   "authors": "M Abdul-Mageed, MT Diab, MK Subjectivity, A Abu-Jbara, B King, M Diab",
+   "venue": "Transactions on Information Systems 26 (3), 1-34",
+   "year": "2008"
+  },
+  {
+   "title": "SGER: Automatic Processing of Natural Language Code Switching",
+   "authors": "MT Diab",
+   "venue": "NSF Award 7 (749062), 49062",
+   "year": "2007"
+  },
+  {
+   "title": "Cunit",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 4th International Workshop on Semantic Evaluations-SemEval'07",
+   "year": "2007"
+  },
+  {
+   "title": "Computational Approaches to Semitic Languages",
+   "authors": "K Darwish, N Habash, M Diab",
+   "venue": "Workshop in Proceedings of Association for Computational Linguistics",
+   "year": "2005"
+  },
+  {
+   "title": "LAMP-TR-048 UMIACS-TR-2000-41 CS-TR-4150",
+   "authors": "C Corpora, M Diab, S Finch",
+   "venue": "",
+   "year": "2000"
+  },
+  {
+   "title": "OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 1st Workshop on Natural Language Reasoning and Structured …",
+   "year": null
+  },
+  {
+   "title": "AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": null
+  },
+  {
+   "title": "Efficient Convolutional Neural Networks for Diacritic Restoration",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": null
+  },
+  {
+   "title": "Scalable Cross-Lingual Transfer of Neural Sentence Embeddings",
+   "authors": "M Diab",
+   "venue": "Proceedings of the Eighth Joint Conference on Lexical and Computational …",
+   "year": null
+  },
+  {
+   "title": "Evaluating Multilingual Speech Translation under Realistic Conditions with Resegmentation and Terminology",
+   "authors": "M Diab",
+   "venue": "Proceedings of the 20th International Conference on Spoken Language …",
+   "year": null
+  },
+  {
+   "title": "Decoy Direction Optimization: Mechanistic Weight Editing Against LLM Abliteration",
+   "authors": "A Muhamed, MT Diab, V Smith",
+   "venue": "Mechanistic Interpretability Workshop at ICML 2026",
+   "year": null
+  },
+  {
+   "title": "Loop the Middle: Adaptive Depth Transformers via Selective Middle-Layer Recurrence",
+   "authors": "L Zhang, J Liu, Z Jin, MT Diab",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Beyond Pattern Matching: Teaching Language Models to Plan, Sequence, and Execute Reasoning Primitives",
+   "authors": "J Liu, K Dhole, Y Wang, Z Jin, MT Diab",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Not All Tokens Need to Be Said: Selective Latent Execution for Efficient Chain-of-Thought Reasoning",
+   "authors": "J Liu, L Zhang, Z Jin, MT Diab",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Med-CAM: Improving Medical Question Answering with Confidence-Aware Methods",
+   "authors": "K Halevy, K Ghate, J Mun, M Diab, M Sap",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Amazon AI, Seattle Amazon AI, East Palo Alto {arshig, pezha, glalwani, diabmona}@ amazon. com",
+   "authors": "A Gupta, P Zhang, G Lalwani, M Diab",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Decoding Dark Matter: Specialized Sparse Autoencoders for Interpreting Rare Concepts in LLMs",
+   "authors": "A Muhamed, J Mendel, L Bushnaq, M Diab, V Smith",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Inducing Elasticity in Foundation Models: Post-Training Techniques for Adaptable Inference",
+   "authors": "A Muhamed, J Liu, MT Diab, V Smith",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Keyword-constrained Natural Language Generation A Hybrid Approach using Supervised and Reinforcement Learning",
+   "authors": "S Sengupta, H He, B Haider, S Gella, M Diab, AI Amazon",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "CausalNLI: A Natural Language Inference Task for Causal Discovery from Correlation",
+   "authors": "Z Jin, J Liu, Z Lyu, S Poff, M Sachan, R Mihalcea, M Diab, B Schölkopf",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Quantitative and Qualitative Analysis of Schizophrenia",
+   "authors": "A Alqahtani, ES Kayi, S Hamidian, M Compton, M Diab",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "SemEval 2017 Task 1: Semantic Textual Similarity (STS)",
+   "authors": "E Agirre, D Cer, M Diab, L Specia",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Editorial Board of the Volume",
+   "authors": "J Atkinson, C Boitet, N Calzolari, J Carroll, K Church, D Cristea, ...",
+   "venue": "Advances in Computational Linguistics, 301",
+   "year": null
+  },
+  {
+   "title": "Session: P44-Corpus Creation and Querying (1)",
+   "authors": "MK Bingel, P Banski, A Witt, C Data, F Lefevre, M Diab, O Obeid, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "INVITED SPEAKER",
+   "authors": "E Macklovitch, R Mihalcea, T Pedersen, L Ahrenberg, N Calzolari, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Automatic Processing of Modern Standard",
+   "authors": "M Diab, K Hacioglu, D Jurafsky",
+   "venue": "Text, Speech and Language Technology, 159",
+   "year": null
+  },
+  {
+   "title": "ICSC 2012 Program Committee",
+   "authors": "S Auer, A Augello, A Bagdanov, L Ballan, R Basili, I Bedini, M Bertini, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ARABIC AMED E TITY RECOG ITIO: A SVM-BASED APPROACH",
+   "authors": "Y Benajiba, M Diab, P Rosso",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Computational Linguistics (ACL), Philadelphia, July 2002, pp. 255-262.",
+   "authors": "M Diab, P Resnik",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

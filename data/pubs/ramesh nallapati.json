@@ -1,0 +1,773 @@
+{
+ "user": "mZcPPW4AAAAJ",
+ "pubs": [
+  {
+   "title": "Abstractive text summarization using sequence-to-sequence rnns and beyond",
+   "authors": "R Nallapati, B Zhou, C Dos Santos, Ç Gulçehre, B Xiang",
+   "venue": "Proceedings of the 20th SIGNLL conference on computational natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora",
+   "authors": "D Ramage, D Hall, R Nallapati, CD Manning",
+   "venue": "Proceedings of the 2009 conference on empirical methods in natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Summarunner: A recurrent neural network based sequence model for extractive summarization of documents",
+   "authors": "R Nallapati, F Zhai, B Zhou",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 31 (1)",
+   "year": "2017"
+  },
+  {
+   "title": "Multi-instance multi-label learning for relation extraction",
+   "authors": "M Surdeanu, J Tibshirani, R Nallapati, CD Manning",
+   "venue": "Proceedings of the 2012 joint conference on empirical methods in natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Ocgan: One-class novelty detection using gans with constrained latent representations",
+   "authors": "P Perera, R Nallapati, B Xiang",
+   "venue": "2019 IEEE/CVF conference on computer vision and pattern recognition (CVPR …",
+   "year": "2019"
+  },
+  {
+   "title": "Pointing the unknown words",
+   "authors": "Ç Gulçehre, S Ahn, R Nallapati, B Zhou, Y Bengio",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Joint latent topic models for text and citations",
+   "authors": "RM Nallapati, A Ahmed, EP Xing, WW Cohen",
+   "venue": "Proceedings of the 14th ACM SIGKDD international conference on Knowledge …",
+   "year": "2008"
+  },
+  {
+   "title": "Discriminative models for information retrieval",
+   "authors": "R Nallapati",
+   "venue": "Proceedings of the 27th annual international ACM SIGIR conference on …",
+   "year": "2004"
+  },
+  {
+   "title": "A comparative study of methods for transductive transfer learning",
+   "authors": "A Arnold, R Nallapati, WW Cohen",
+   "venue": "Seventh IEEE international conference on data mining workshops (ICDMW 2007 …",
+   "year": "2007"
+  },
+  {
+   "title": "Multi-passage BERT: A globally normalized BERT model for open-domain question answering",
+   "authors": "Z Wang, P Ng, X Ma, R Nallapati, B Xiang",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Event threading within news topics",
+   "authors": "R Nallapati, A Feng, F Peng, J Allan",
+   "venue": "Proceedings of the thirteenth ACM international conference on Information …",
+   "year": "2004"
+  },
+  {
+   "title": "Crosscodeeval: A diverse and multilingual benchmark for cross-file code completion",
+   "authors": "Y Ding, Z Wang, W Ahmad, H Ding, M Tan, N Jain, MK Ramanathan, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 46701-46723",
+   "year": "2023"
+  },
+  {
+   "title": "Supporting clustering with contrastive learning",
+   "authors": "D Zhang, F Nan, X Wei, SW Li, H Zhu, K McKeown, R Nallapati, ...",
+   "venue": "Proceedings of the 2021 conference of the North American chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Entity-level factual consistency of abstractive text summarization",
+   "authors": "F Nan, R Nallapati, Z Wang, C dos Santos, H Zhu, D Zhang, K McKeown, ...",
+   "venue": "Proceedings of the 16th conference of the European chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Multi-lingual evaluation of code generation models",
+   "authors": "B Athiwaratkun, SK Gouda, Z Wang, X Li, Y Tian, M Tan, WU Ahmad, ...",
+   "venue": "arXiv preprint arXiv:2210.14868",
+   "year": "2022"
+  },
+  {
+   "title": "Topic modeling with wasserstein autoencoders",
+   "authors": "F Nan, R Ding, R Nallapati, B Xiang",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Sequence-to-sequence rnns for text summarization",
+   "authors": "R Nallapati, B Xiang, B Zhou",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Link-PLSA-LDA: A new unsupervised model for topics and influence of blogs",
+   "authors": "R Nallapati, W Cohen",
+   "venue": "Proceedings of the international AAAI conference on web and social media 2 …",
+   "year": "2008"
+  },
+  {
+   "title": "Mixed-curvature multi-relational graph neural network for knowledge graph completion",
+   "authors": "S Wang, X Wei, CN Nogueira dos Santos, Z Wang, R Nallapati, A Arnold, ...",
+   "venue": "Proceedings of the web conference 2021, 1761-1771",
+   "year": "2021"
+  },
+  {
+   "title": "Elastic machine learning algorithms in amazon sagemaker",
+   "authors": "E Liberty, Z Karnin, B Xiang, L Rouesnel, B Coskun, R Nallapati, ...",
+   "venue": "Proceedings of the 2020 ACM SIGMOD International Conference on Management of …",
+   "year": "2020"
+  },
+  {
+   "title": "ReCode: Robustness evaluation of code generation models",
+   "authors": "S Wang, Z Li, H Qian, C Yang, Z Wang, M Shang, V Kumar, S Tan, B Ray, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Domain adaptation with BERT-based domain classification and data selection",
+   "authors": "X Ma, P Xu, Z Wang, R Nallapati, B Xiang",
+   "venue": "Proceedings of the 2nd workshop on deep learning approaches for low-resource …",
+   "year": "2019"
+  },
+  {
+   "title": "A moving unstructured staggered mesh method for the simulation of incompressible free-surface flows",
+   "authors": "B Perot, R Nallapati",
+   "venue": "Journal of Computational Physics 184 (1), 192-214",
+   "year": "2003"
+  },
+  {
+   "title": "Cocomic: Code completion by jointly modeling in-file and cross-file context",
+   "authors": "Y Ding, Z Wang, W Ahmad, MK Ramanathan, R Nallapati, P Bhatia, ...",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Coherence-aware neural topic modeling",
+   "authors": "R Ding, R Nallapati, B Xiang",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Improving factual consistency of abstractive summarization via question answering",
+   "authors": "F Nan, C dos Santos, H Zhu, P Ng, K McKeown, R Nallapati, D Zhang, ...",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "End-to-end synthetic data generation for domain adaptation of question answering systems",
+   "authors": "S Shakeri, C dos Santos, H Zhu, P Ng, F Nan, Z Wang, R Nallapati, ...",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Classify or select: Neural architectures for extractive document summarization",
+   "authors": "R Nallapati, B Zhou, M Ma",
+   "venue": "arXiv preprint arXiv:1611.04244",
+   "year": "2016"
+  },
+  {
+   "title": "Template-based question generation from retrieved sentences for improved unsupervised question answering",
+   "authors": "AR Fabbri, P Ng, Z Wang, R Nallapati, B Xiang",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Universal text representation from bert: An empirical study",
+   "authors": "X Ma, Z Wang, P Ng, R Nallapati, B Xiang",
+   "venue": "arXiv preprint arXiv:1910.07973",
+   "year": "2019"
+  },
+  {
+   "title": "Capturing term dependencies using a language model based on sentence trees",
+   "authors": "R Nallapati, J Allan",
+   "venue": "Proceedings of the eleventh international conference on Information and …",
+   "year": "2002"
+  },
+  {
+   "title": "Multiscale topic tomography",
+   "authors": "RM Nallapati, S Ditmore, JD Lafferty, K Ung",
+   "venue": "Proceedings of the 13th ACM SIGKDD international conference on Knowledge …",
+   "year": "2007"
+  },
+  {
+   "title": "Parallelized variational EM for latent Dirichlet allocation: An experimental evaluation of speed and scalability",
+   "authors": "R Nallapati, W Cohen, J Lafferty",
+   "venue": "Seventh IEEE International Conference on Data Mining Workshops (ICDMW 2007 …",
+   "year": "2007"
+  },
+  {
+   "title": "Code representation learning at scale",
+   "authors": "D Zhang, W Ahmad, M Tan, H Ding, R Nallapati, D Roth, X Ma, B Xiang",
+   "venue": "International Conference on Learning Representations 2024, 47427-47446",
+   "year": "2024"
+  },
+  {
+   "title": "Pairwise supervised contrastive learning of sentence representations",
+   "authors": "D Zhang, SW Li, W Xiao, H Zhu, R Nallapati, AO Arnold, B Xiang",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "UMass at TDT 2002",
+   "authors": "J Allan, V Lavrenko, R Nallapati",
+   "venue": "Topic Detection and Tracking: Workshop",
+   "year": "2002"
+  },
+  {
+   "title": "Baishakhi Ray, Parminder Bhatia, Sudipta Sengupta, Dan Roth, and Bing Xiang. 2023. Multi-lingual evaluation of code generation models",
+   "authors": "B Athiwaratkun, SK Gouda, Z Wang, X Li, Y Tian, M Tan, WU Ahmad, ...",
+   "venue": "The Eleventh International Conference on Learning Representations",
+   "year": "2023"
+  },
+  {
+   "title": "Legal docket classification: where machine learning stumbles",
+   "authors": "R Nallapati, CD Manning",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Exploiting feature hierarchy for transfer learning in named entity recognition",
+   "authors": "A Arnold, R Nallapati, W Cohen",
+   "venue": "Proceedings of ACL-08: HLT, 245-253",
+   "year": "2008"
+  },
+  {
+   "title": "Embedding-based zero-shot retrieval through query generation",
+   "authors": "D Liang, P Xu, S Shakeri, CN Santos, R Nallapati, Z Huang, B Xiang",
+   "venue": "arXiv preprint arXiv:2009.10270",
+   "year": "2020"
+  },
+  {
+   "title": "Semantic language models for topic detection and tracking",
+   "authors": "R Nallapati",
+   "venue": "Proceedings of the HLT-NAACL 2003 student research workshop, 1-6",
+   "year": "2003"
+  },
+  {
+   "title": "Beyond [CLS] through ranking by generation",
+   "authors": "C dos Santos, X Ma, R Nallapati, Z Huang, B Xiang",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Cicero Nogueira dos santos, Caglar Gulcehre, and Bing Xiang. 2016",
+   "authors": "R Nallapati, B Zhou",
+   "venue": "Abstractive text summarization using sequence-tosequence rnns and beyond",
+   "year": "2016"
+  },
+  {
+   "title": "Retrieval, re-ranking and multi-task learning for knowledge-base question answering",
+   "authors": "Z Wang, P Ng, R Nallapati, B Xiang",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "I‡ lçehre, and Bing Xiang. 2016. Abstractive text summarization using sequence-to-sequence RNNs and beyond",
+   "authors": "R Nallapati, B Zhou, C dos Santos, C Gu",
+   "venue": "Proceedings of The 20th SIGNLL Conference on Computational Natural Language …",
+   "year": null
+  },
+  {
+   "title": "DQ-BART: Efficient sequence-to-sequence model via joint distillation and quantization",
+   "authors": "Z Li, Z Wang, M Tan, R Nallapati, P Bhatia, A Arnold, B Xiang, D Roth",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Exploring continual learning for code generation models",
+   "authors": "P Yadav, Q Sun, H Ding, X Li, D Zhang, M Tan, P Bhatia, X Ma, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Who did they respond to? conversation structure modeling using masked hierarchical transformer",
+   "authors": "H Zhu, F Nan, Z Wang, R Nallapati, B Xiang",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (05), 9741-9748",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluating multimedia features and fusion for example-based event detection",
+   "authors": "GK Myers, R Nallapati, J Van Hout, S Pancoast, R Nevatia, C Sun, ...",
+   "venue": "Machine Vision and Applications 25 (1), 17-32",
+   "year": "2014"
+  },
+  {
+   "title": "Topicflow model: Unsupervised learning of topic-specific influences of hyperlinked documents",
+   "authors": "R Nallapati, D McFarland, C Manning",
+   "venue": "Proceedings of the Fourteenth International Conference on Artificial …",
+   "year": "2011"
+  },
+  {
+   "title": "Answering ambiguous questions through generative evidence fusion and round-trip prediction",
+   "authors": "Y Gao, H Zhu, P Ng, C dos Santos, Z Wang, F Nan, D Zhang, R Nallapati, ...",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Risk analysis for intellectual property litigation",
+   "authors": "M Surdeanu, R Nallapati, G Gregory, J Walker, CD Manning",
+   "venue": "Proceedings of the 13th international conference on artificial intelligence …",
+   "year": "2011"
+  },
+  {
+   "title": "Legal claim identification: Information extraction with hierarchically labeled data",
+   "authors": "M Surdeanu, R Nallapati, C Manning",
+   "venue": "Workshop Programme, 22",
+   "year": "2010"
+  },
+  {
+   "title": "Who leads whom: Topical lead-lag analysis across corpora",
+   "authors": "X Shi, R Nallapati, J Leskovec, D McFarland, D Jurafsky",
+   "venue": "NIPS workshop",
+   "year": "2010"
+  },
+  {
+   "title": "Efficient few-shot fine-tuning for opinion summarization",
+   "authors": "A Bražinskas, R Nallapati, M Bansal, M Dreyer",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2022, 1509-1523",
+   "year": "2022"
+  },
+  {
+   "title": "The smoothed dirichlet distribution: Understanding cross-entropy ranking in information retrieval",
+   "authors": "R Nallapati",
+   "venue": "University of Massachusetts Amherst",
+   "year": "2006"
+  },
+  {
+   "title": "Knowledge graph representation via hierarchical hyperbolic neural graph embedding",
+   "authors": "S Wang, X Wei, CN Dos Santos, Z Wang, R Nallapati, A Arnold, PS Yu",
+   "venue": "2021 IEEE International Conference on Big Data (Big Data), 540-549",
+   "year": "2021"
+  },
+  {
+   "title": "Passage ranking with weak supervision",
+   "authors": "P Xu, X Ma, R Nallapati, B Xiang",
+   "venue": "arXiv preprint arXiv:1905.05910",
+   "year": "2019"
+  },
+  {
+   "title": "Capturing term dependencies using a sentence tree based language model",
+   "authors": "R Nallapati",
+   "venue": "Proceedings of CIKM    02",
+   "year": "2002"
+  },
+  {
+   "title": "Interactive assistance for executing natural language queries to data sets",
+   "authors": "RM Nallapati, Z Wang, B Xiang, P Ng, YH Wang, M Karnik, N Li, ...",
+   "venue": "US Patent 11,604,794",
+   "year": "2023"
+  },
+  {
+   "title": "Joint question clustering and relevance prediction for open domain non-factoid question answering",
+   "authors": "S Chaturvedi, V Castelli, R Florian, RM Nallapati, H Raghavan",
+   "venue": "Proceedings of the 23rd international conference on World wide web, 503-514",
+   "year": "2014"
+  },
+  {
+   "title": "Bass: Batched attention-optimized speculative sampling",
+   "authors": "H Qian, SK Gonugondla, S Ha, M Shang, SK Gouda, R Nallapati, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 8214-8224",
+   "year": "2024"
+  },
+  {
+   "title": "ContraCLM: Contrastive learning for causal language model",
+   "authors": "N Jain, D Zhang, W Ahmad, Z Wang, F Nan, X Li, M Tan, R Nallapati, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Skierarchy: Extending the Power of Crowdsourcing Using a Hierarchy of Domain Experts, Crowd and Machine Learning.",
+   "authors": "R Nellapati, S Peerreddy, P Singhal",
+   "venue": "TREC",
+   "year": "2012"
+  },
+  {
+   "title": "Systems and Methods for Using Non-Textual Information In Analyzing Patent Matters",
+   "authors": "M Surdeanu, IK Foster, CL Rydholm, RM Nallapati, JH Walker, ...",
+   "venue": "US Patent App. 13/745,117",
+   "year": "2014"
+  },
+  {
+   "title": "Providing query restatements for explaining natural language query results",
+   "authors": "J Wang, Z Wang, SP Revadigar, RM Nallapati, B Xiang, S Sengupta, ...",
+   "venue": "US Patent 11,726,994",
+   "year": "2023"
+  },
+  {
+   "title": "Relevant query feedback in statistical language modeling",
+   "authors": "R Nallapati, B Croft, J Allan",
+   "venue": "Proceedings of the twelfth international conference on Information and …",
+   "year": "2003"
+  },
+  {
+   "title": "Corractive learning: Learning from noisy data through human interaction",
+   "authors": "R Nallapati, M Surdeanu, C Manning",
+   "venue": "IJCAI workshop on intelligence and interaction",
+   "year": "2009"
+  },
+  {
+   "title": "Multiple stage filtering for natural language query processing pipelines",
+   "authors": "J Wang, Z Wang, SP Revadigar, RM Nallapati, B Xiang, SM Ash, T Jones, ...",
+   "venue": "US Patent 11,500,865",
+   "year": "2022"
+  },
+  {
+   "title": "Programmatically generating evaluation data sets for code generation models",
+   "authors": "P Athiwaratkun, Z Lin, R Keerthi, Z Wang, Y TIAN, H Ding, SRA Bontala, ...",
+   "venue": "US Patent 12,141,553",
+   "year": "2024"
+  },
+  {
+   "title": "Programmatic theme detection in contacts analytics service",
+   "authors": "A Arora, A Deo, RM NALLAPATI, H Zhu, A Arikatla, SB Kanduri, S Prabala, ...",
+   "venue": "US Patent 12,062,368",
+   "year": "2024"
+  },
+  {
+   "title": "Systems, apparatuses, and methods for document querying",
+   "authors": "JP DODEL, Z HUANG, RM NALLAPATI, K RAJAGOPALAN, M SAINI, ...",
+   "venue": "US Patent 11,366,855",
+   "year": "2022"
+  },
+  {
+   "title": "Margin-aware unsupervised domain adaptation for cross-lingual text labeling",
+   "authors": "D Zhang, R Nallapati, H Zhu, F Nan, C dos Santos, K McKeown, B Xiang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 3527-3536",
+   "year": "2020"
+  },
+  {
+   "title": "Blind domain transfer for named entity recognition using generative latent topic models",
+   "authors": "R Nallapati, M Surdeanu, C Manning",
+   "venue": "Proceedings of the NIPS 2010 workshop on transfer learning via rich …",
+   "year": "2010"
+  },
+  {
+   "title": "Extraction of key words from news stories",
+   "authors": "R Nallapati, J Allan, S Mahadevan",
+   "venue": "",
+   "year": "2004"
+  },
+  {
+   "title": "Token alignment via character matching for subword completion",
+   "authors": "B Athiwaratkun, S Wang, M Shang, Y Tian, Z Wang, SK Gonugondla, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 15725-15738",
+   "year": "2024"
+  },
+  {
+   "title": "Multiple stage filtering for natural language query processing pipelines",
+   "authors": "J Wang, Z Wang, SP Revadigar, RM Nallapati, B Xiang, SM Ash, T Jones, ...",
+   "venue": "US Patent 11,726,997",
+   "year": "2023"
+  },
+  {
+   "title": "Multitask pretraining with structured knowledge for text-to-SQL generation",
+   "authors": "R Giaquinto, D Zhang, B Kleiner, Y Li, M Tan, P Bhatia, R Nallapati, X Ma",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Sengen: Sentence generating neural variational topic model",
+   "authors": "R Nallapati, I Melnyk, A Kumar, B Zhou",
+   "venue": "arXiv preprint arXiv:1708.00308",
+   "year": "2017"
+  },
+  {
+   "title": "AWS CORD-19 search: A neural search engine for COVID-19 literature",
+   "authors": "P Bhatia, L Liu, K Arumae, N Pourdamghani, S Deshpande, B Snively, ...",
+   "venue": "International Workshop on Health Intelligence, 131-145",
+   "year": "2021"
+  },
+  {
+   "title": "Systems, apparatuses, and methods to generate synthetic queries from customer data for training of document querying machine learning models",
+   "authors": "CN dos Santos, MA Xiaofei, P Xu, RM NALLAPATI, B Xiang, S Sengupta, ...",
+   "venue": "US Patent 11,475,067",
+   "year": "2022"
+  },
+  {
+   "title": "Weakly semi-supervised neural topic models",
+   "authors": "I Gemp, R Nallapati, R Ding, F Nan, B Xiang",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Leadlag lda: Estimating topic specific leads and lags of information outlets",
+   "authors": "R Nallapati, X Shi, D McFarland, J Leskovec, D Jurafsky",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 5 …",
+   "year": "2011"
+  },
+  {
+   "title": "Sparse word graphs: A scalable algorithm for capturing word correlations in topic models",
+   "authors": "R Nallapati, A Ahmed, W Cohen, E Xing",
+   "venue": "Seventh IEEE International Conference on Data Mining Workshops (ICDMW 2007 …",
+   "year": "2007"
+  },
+  {
+   "title": "The Amazon Nova Family of Models: Technical Report and Model Card",
+   "authors": "A Langford, A Shah, A Gupta, A Bhatter, A Goyal, A Mathur, A Mohanty, ...",
+   "venue": "arXiv preprint arXiv:2506.12103",
+   "year": "2025"
+  },
+  {
+   "title": "Improving text-to-SQL semantic parsing with fine-grained query understanding",
+   "authors": "J Wang, P Ng, AH Li, J Jiang, Z Wang, B Xiang, R Nallapati, S Sengupta",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Multi sense embeddings from topic models",
+   "authors": "S Jain, SB Bodapati, R Nallapati, A Anandkumar",
+   "venue": "Proceedings of the 3rd International Conference on Natural Language and …",
+   "year": "2019"
+  },
+  {
+   "title": "Evaluating the quality of query refinement suggestions in information retrieval",
+   "authors": "R Nallapati, C Shah",
+   "venue": "2018-09-01]. http://maroo. cs. umass. edu/getpdf. php",
+   "year": "2006"
+  },
+  {
+   "title": "An adaptive local dependency language model: relaxing the naıve bayes’ assumption",
+   "authors": "R Nallapati, J Allan",
+   "venue": "",
+   "year": "2003"
+  },
+  {
+   "title": "Bifurcated attention: Accelerating massively parallel decoding with shared prefixes in llms",
+   "authors": "B Athiwaratkun, SK Gonugondla, SK Gouda, H Qian, H Ding, Q Sun, ...",
+   "venue": "arXiv preprint arXiv:2403.08845",
+   "year": "2024"
+  },
+  {
+   "title": "The 2013 sesame multimedia event detection and recounting system",
+   "authors": "GK Myers, R Nallapati, J van Hout, S Pancoast, R Nevatia, C Sun, ...",
+   "venue": "Proceedings of TRECVID",
+   "year": "2013"
+  },
+  {
+   "title": "Numerical simulation of free-surface flows using a moving unstructured staggered mesh method",
+   "authors": "R Nallapati, JB Perot",
+   "venue": "ASME Fluid Engineering Summer Conference, Boston, MA, 1-6",
+   "year": "2000"
+  },
+  {
+   "title": "Natural language query processing",
+   "authors": "W Lan, P Ng, Z Wang, RM NALLAPATI, H Zhu, A Chauhan, S Sengupta, ...",
+   "venue": "US Patent 12,265,528",
+   "year": "2025"
+  },
+  {
+   "title": "Constrained prefix matching for generating next token predictions",
+   "authors": "P Athiwaratkun, T Yuchen, M Shang, Z Wang, RM Nallapati, P Bhatia, ...",
+   "venue": "US Patent 12,014,155",
+   "year": "2024"
+  },
+  {
+   "title": "Numerical simulation of free surface flows using a moving mesh",
+   "authors": "R Nallapati, JB Perot",
+   "venue": "Proceeedings of the 2000 American Society of Mechanical Engineers, Fluids …",
+   "year": "2000"
+  },
+  {
+   "title": "Numerical simulation of free-surface flows using a moving unstructured mesh",
+   "authors": "R Nallapati, JB Perot",
+   "venue": "Proceedings of ASME FEDSM’00",
+   "year": "2000"
+  },
+  {
+   "title": "Large language models utilizing element-wise operation-fusion",
+   "authors": "SK Gonugondla, YAO Bohan, H Qian, X Wei, J Guo, VK Dantu, ...",
+   "venue": "US Patent 12,346,673",
+   "year": "2025"
+  },
+  {
+   "title": "Schema and cell value aware named entity recognition model for executing natural language queries",
+   "authors": "J Wang, S Sengupta, Z Wang, RM Nallapati, B Xiang",
+   "venue": "US Patent 12,271,698",
+   "year": "2025"
+  },
+  {
+   "title": "Questions disambiguation using generative evidence fusion and round-trip prediction",
+   "authors": "Y Gao, H Zhu, RM NALLAPATI, P Ng, CN dos Santos, Z Wang, F Nan, ...",
+   "venue": "US Patent 12,259,914",
+   "year": "2025"
+  },
+  {
+   "title": "Interactive assistance for executing natural language queries to data sets",
+   "authors": "RM Nallapati, Z Wang, B Xiang, P Ng, YH Wang, M Karnik, N Li, ...",
+   "venue": "US Patent 12,007,988",
+   "year": "2024"
+  },
+  {
+   "title": "Systems, apparatuses, and methods for providing emphasis in query results",
+   "authors": "Z Wang, Z HUANG, RM NALLAPATI, B Xiang",
+   "venue": "US Patent 11,526,557",
+   "year": "2022"
+  },
+  {
+   "title": "Systems, apparatuses, and methods of active learning for document querying machine learning models",
+   "authors": "B Xiang, JP DODEL, RM NALLAPATI",
+   "venue": "US Patent App. 16/698,027",
+   "year": "2021"
+  },
+  {
+   "title": "A comparison of methods for transductive transfer learning",
+   "authors": "A Arnold, R Nallapati, WW Cohen",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Systems and methods for automated communication summarization",
+   "authors": "W Xiao, D Zhang, KK Khanke, H Zhu, RM Nallapati, AO Arnold, B Xiang, ...",
+   "venue": "US Patent 12,334,063",
+   "year": "2025"
+  },
+  {
+   "title": "Transductive learning for abstractive news summarization",
+   "authors": "A Bražinskas, M Liu, R Nallapati, S Ravi, M Dreyer",
+   "venue": "arXiv preprint arXiv:2104.09500",
+   "year": "2021"
+  },
+  {
+   "title": "On io-efficient attention mechanisms: Context-aware bifurcated attention and the generalized multi-group attention",
+   "authors": "B Athiwaratkun, SK Gonugondla, SK Gouda, H Qian, H Ding, Q Sun, ...",
+   "venue": "Workshop on Efficient Systems for Foundation Models@ ICML2023",
+   "year": "2023"
+  },
+  {
+   "title": "The smoothed-Dirichlet distribution: Explaining kl-divergence based ranking in information retrieval",
+   "authors": "R Nallapati, T Minka, H Zaragoza, S Robertson",
+   "venue": "def 2, 32",
+   "year": "2007"
+  },
+  {
+   "title": "Numerical simulation of free-surface flows using a moving unstructured staggered grid method",
+   "authors": "RM Nallapati",
+   "venue": "University of Massachusetts at Amherst",
+   "year": "2001"
+  },
+  {
+   "title": "Bifurcated attention for single-context large-batch sampling",
+   "authors": "B Athiwaratkun, SK Gonugondla, SK Gouda, H Qian, H Ding, Q Sun, ...",
+   "venue": "Forty-first International Conference on Machine Learning",
+   "year": "2024"
+  },
+  {
+   "title": "Coherence-aware topic modeling",
+   "authors": "R Ding, R Nallapati, B Xiang",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Text summarization",
+   "authors": "R Nallapati, B Xiang, B Zhou",
+   "venue": "arXiv preprint arXiv:1602.06023",
+   "year": "2016"
+  },
+  {
+   "title": "The 2011 SESAME Multimedia Event Detection (MED) System",
+   "authors": "M Eliot, A Heller, JA Herson, GK Myers, R Nallapati, E Yeh, ...",
+   "venue": "Proceedings of NIST TRECVID, Workshop 28",
+   "year": "2011"
+  },
+  {
+   "title": "The Application of a Moving Unstructured Staggered Mesh Method to Free-Surface Flows",
+   "authors": "B Perot, R Nallapati",
+   "venue": "APS Division of Fluid Dynamics Meeting Abstracts 53, DP. 001",
+   "year": "2000"
+  },
+  {
+   "title": "Conservation Properties of Unstructured Staggered Mesh Methods",
+   "authors": "B Perot, R Nallapati",
+   "venue": "APS Division of Fluid Dynamics Meeting Abstracts, DO. 05",
+   "year": "1999"
+  },
+  {
+   "title": "Random token segmentation for training next token prediction models",
+   "authors": "Z Wang, T Yuchen, M Shang, P Athiwaratkun, M Tan, P Bhatia, AO Arnold, ...",
+   "venue": "US Patent 12,530,527",
+   "year": "2026"
+  },
+  {
+   "title": "Validating and providing proactively generated code completion suggestions for code development",
+   "authors": "SA Selvaraj, Q Yu, VRR Swamireddy, M Lee, L Gao, W Fang, ...",
+   "venue": "US Patent 12,487,796",
+   "year": "2025"
+  },
+  {
+   "title": "ContraGen: Effective Contrastive Learning For Causal Language Model",
+   "authors": "N Jain, D Zhang, WU Ahmad, Z Wang, F Nan, X Li, M Tan, R Nallapati, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Shallow Training is cheap but is it good enough? Experiments with Medical Fact Coding",
+   "authors": "R Nallapati, R Florian",
+   "venue": "Proceedings of BioNLP 15, 52-60",
+   "year": "2015"
+  },
+  {
+   "title": "Evaluating multimedia features and fusion for example-based event detection (Open Access-Publisher's Version)",
+   "authors": "GK Myers, R Nallapati, J Van Hout, S Pancoast, R Nevatia, C Sun, ...",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Sparse conditional mixture model: late fusion with missing scores for multimedia event detection",
+   "authors": "R Nallapati, E Yeh, G Myers",
+   "venue": "Multimedia Content and Mobile Devices 8667, 41-47",
+   "year": "2013"
+  },
+  {
+   "title": "Coherence-Aware Neural Topic Modeling",
+   "authors": "R Nallapati",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": null
+  },
+  {
+   "title": "End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems",
+   "authors": "R Nallapati",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": null
+  },
+  {
+   "title": "Abstractive Text Summarization",
+   "authors": "R Nallapati, B Zhou, C dos Santos, Ç Gulçehre, B Xiang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Tensor Space Learning for Analyzing Activity Patterns from Video Sequences",
+   "authors": "R Nallapati, W Cohen, J Lafferty",
+   "venue": "Seventh IEEE International Conference on Data Mining Workshops (ICDMW 2007)",
+   "year": null
+  },
+  {
+   "title": "The 2012 SESAME Multimedia Event Detection (MED) and Multimedia Event Recounting (MER) Systems",
+   "authors": "A Heller, JA Herson, GK Myers, R Nallapati, S Pancoast, J van Hout, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "2 Past research: Information Retrieval Models",
+   "authors": "R Nallapati",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Sentence-Forest Language Model: A Graph-theoretic Framework to Capture Local Term Dependencies",
+   "authors": "R Nallapati, J Allan",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Topic Flow Model: A global model of topical influence for hyperlinked corpora",
+   "authors": "R Nallapati",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "user": "TJELR64AAAAJ",
+ "pubs": [
+  {
+   "title": "Measuring Five Accountable Talk Moves to Improve Instruction at Scale",
+   "authors": "A Kupor, C Morgan, D Demszky",
+   "venue": "arXiv preprint arXiv:2311.10749",
+   "year": "2023"
+  },
+  {
+   "title": "CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?",
+   "authors": "J Ou, WG Walden, K Sanders, Z Jiang, K Sun, J Cheng, W Jurayj, ...",
+   "venue": "EMNLP (Findings), 21712-21735",
+   "year": "2025"
+  },
+  {
+   "title": "Artificial intelligence as a co-tutor: Assessing the impact in the advanced learning virtual classroom",
+   "authors": "KN Thompson, KL Chandler, C Morgan, D Khashabi, EA Delinski, ...",
+   "venue": "Journal of Advanced Academics 36 (4), 714-745",
+   "year": "2025"
+  }
+ ]
+}

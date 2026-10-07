@@ -1,0 +1,137 @@
+{
+ "user": "GVGPoSwAAAAJ",
+ "pubs": [
+  {
+   "title": "Fairness without demographics in repeated loss minimization",
+   "authors": "T Hashimoto, M Srivastava, H Namkoong, P Liang",
+   "venue": "International conference on machine learning, 1929-1938",
+   "year": "2018"
+  },
+  {
+   "title": "Do users write more insecure code with ai assistants?",
+   "authors": "N Perry*, M Srivastava*, D Kumar, D Boneh",
+   "venue": "Proceedings of the 2023 ACM SIGSAC conference on computer and communications …",
+   "year": "2023"
+  },
+  {
+   "title": "Mathematical notions vs. human perception of fairness: A descriptive approach to fairness for machine learning",
+   "authors": "M Srivastava, H Heidari, A Krause",
+   "venue": "Proceedings of the 25th ACM SIGKDD international conference on knowledge …",
+   "year": "2019"
+  },
+  {
+   "title": "Evaluating human-language model interaction",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arXiv:2212.09746",
+   "year": "2022"
+  },
+  {
+   "title": "Training large language models on narrow tasks can lead to broad misalignment",
+   "authors": "J Betley, N Warncke, A Sztyber-Betley, D Tan, X Bao, M Soto, ...",
+   "venue": "Nature 649 (8097), 584-589",
+   "year": "2026"
+  },
+  {
+   "title": "Robustness to spurious correlations via human annotations",
+   "authors": "M Srivastava, T Hashimoto, P Liang",
+   "venue": "International Conference on Machine Learning, 9109-9119",
+   "year": "2020"
+  },
+  {
+   "title": "An empirical analysis of backward compatibility in machine learning systems",
+   "authors": "M Srivastava, B Nushi, E Kamar, S Shah, E Horvitz",
+   "venue": "Proceedings of the 26th ACM SIGKDD International Conference on Knowledge …",
+   "year": "2020"
+  },
+  {
+   "title": "Question generation for adaptive education",
+   "authors": "M Srivastava, N Goodman",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Lila: Language-informed latent actions",
+   "authors": "S Karamcheti*, M Srivastava*, P Liang, D Sadigh",
+   "venue": "Conference on robot learning, 1379-1390",
+   "year": "2022"
+  },
+  {
+   "title": "Optimistic verifiable training by controlling hardware nondeterminism",
+   "authors": "M Srivastava, S Arora, D Boneh",
+   "venue": "Advances in Neural Information Processing Systems 37, 95639-95661",
+   "year": "2024"
+  },
+  {
+   "title": "Assistive teaching of motor control tasks to humans",
+   "authors": "M Srivastava, E Biyik, S Mirchandani, N Goodman, D Sadigh",
+   "venue": "Advances in Neural Information Processing Systems 35, 28517-28529",
+   "year": "2022"
+  },
+  {
+   "title": "Findings from a pilot anthropic—openai alignment evaluation exercise",
+   "authors": "SR Bowman, M Srivastava, J Kutasov, R Wang, T Bricken, B Wright, ...",
+   "venue": "Anthropic Alignment Science Blog",
+   "year": "2025"
+  },
+  {
+   "title": "Shared autonomy for proximal teaching",
+   "authors": "M Srivastava*, R Iranmanesh*, Y Cui, D Gopinath, ES Sumner, A Silva, ...",
+   "venue": "2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI …",
+   "year": "2025"
+  },
+  {
+   "title": "Training a deep convolutional neural network with multiple face sizes and positions, but not resolutions, is necessary for generating invariant face recognition across these …",
+   "authors": "M Srivastava, K Grill-Spector",
+   "venue": "Journal of Vision 17 (10), 247-247",
+   "year": "2017"
+  },
+  {
+   "title": "Modeling student learning with 3.8 million program traces",
+   "authors": "A Ross*, M Srivastava*, J Blanchard, J Andreas",
+   "venue": "arXiv preprint arXiv:2510.05056",
+   "year": "2025"
+  },
+  {
+   "title": "Policy learning with a language bottleneck",
+   "authors": "M Srivastava, C Colas, D Sadigh, J Andreas",
+   "venue": "Transactions of Machine Learning",
+   "year": "2026"
+  },
+  {
+   "title": "Generating Language Corrections for Teaching Physical Control Tasks",
+   "authors": "M Srivastava, N Goodman, D Sadigh",
+   "venue": "International Conference on Machine Learning",
+   "year": "2023"
+  },
+  {
+   "title": "Machine learning for modular multiplication",
+   "authors": "K Lauter, CY Li, K Maughan, R Newton, M Srivastava",
+   "venue": "WIN: A Collaborative Workshop in Number Theory, 235-254",
+   "year": "2026"
+  },
+  {
+   "title": "Hawkeye: Reproducing GPU-Level Non-Determinism",
+   "authors": "E Badash, D Boneh, I Komargodski, M Srivastava",
+   "venue": "Proceedings of Machine Learning and Systems 8, 1830-1842",
+   "year": "2026"
+  },
+  {
+   "title": "Productive struggle: the future of human learning in the age of AI",
+   "authors": "RE Wang, M Srivastava",
+   "venue": "Blog. Retrieved on, 02-15",
+   "year": "2025"
+  },
+  {
+   "title": "Echo: A multi-agent AI system for patient-centered pharmacovigilance",
+   "authors": "M Srivastava",
+   "venue": "Open Conference of AI Agents for Science 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Proximal State Nudging: Reducing Skill Atrophy from AI Assistance",
+   "authors": "M Srivastava, J Ouyang, E Zhou, A Silva, E Sumner, D Sadigh, Y Cui, ...",
+   "venue": "arXiv preprint arXiv:2605.20355",
+   "year": "2026"
+  }
+ ]
+}

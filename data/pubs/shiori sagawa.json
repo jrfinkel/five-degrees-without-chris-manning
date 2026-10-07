@@ -1,0 +1,119 @@
+{
+ "user": "9EnJFEEAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization",
+   "authors": "S Sagawa*, PW Koh*, TB Hashimoto, P Liang",
+   "venue": "International Conference on Learning Representations",
+   "year": "2019"
+  },
+  {
+   "title": "WILDS: A benchmark of in-the-wild distribution shifts",
+   "authors": "PW Koh*, S Sagawa*, H Marklund, SM Xie, M Zhang, A Balsubramani, ...",
+   "venue": "International Conference on Machine Learning, 5637-5664",
+   "year": "2021"
+  },
+  {
+   "title": "Openflamingo: An open-source framework for training large autoregressive vision-language models",
+   "authors": "A Awadalla, I Gao, J Gardner, J Hessel, Y Hanafy, W Zhu, K Marathe, ...",
+   "venue": "arXiv preprint arXiv:2308.01390",
+   "year": "2023"
+  },
+  {
+   "title": "Just Train Twice: Improving Group Robustness without Training Group Information",
+   "authors": "EZ Liu, B Haghgoo, AS Chen, A Raghunathan, PW Koh, S Sagawa, ...",
+   "venue": "International Conference on Machine Learning, 6781-6792",
+   "year": "2021"
+  },
+  {
+   "title": "An investigation of why overparameterization exacerbates spurious correlations",
+   "authors": "S Sagawa*, A Raghunathan*, PW Koh*, P Liang",
+   "venue": "International Conference on Machine Learning, 8346-8356",
+   "year": "2020"
+  },
+  {
+   "title": "Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization",
+   "authors": "JP Miller, R Taori, A Raghunathan, S Sagawa, PW Koh, V Shankar, ...",
+   "venue": "International Conference on Machine Learning, 7721-7735",
+   "year": "2021"
+  },
+  {
+   "title": "Distributionally robust language modeling",
+   "authors": "Y Oren*, S Sagawa*, TB Hashimoto*, P Liang",
+   "venue": "arXiv preprint arXiv:1909.02060",
+   "year": "2019"
+  },
+  {
+   "title": "Extending the WILDS Benchmark for Unsupervised Adaptation",
+   "authors": "S Sagawa*, PW Koh*, T Lee*, I Gao*, SM Xie, K Shen, A Kumar, W Hu, ...",
+   "venue": "International Conference on Learning Representations",
+   "year": "2022"
+  },
+  {
+   "title": "The architecture of EGFR’s basal complexes reveals autoinhibition mechanisms in dimers and oligomers",
+   "authors": "LC Zanetti-Domingues, D Korovesis, SR Needham, CJ Tynan, S Sagawa, ...",
+   "venue": "Nature communications 9 (1), 4325",
+   "year": "2018"
+  },
+  {
+   "title": "Selective classification can magnify disparities across groups",
+   "authors": "E Jones, S Sagawa, PW Koh, A Kumar, P Liang",
+   "venue": "International Conference on Learning Representations",
+   "year": "2020"
+  },
+  {
+   "title": "Structural mechanism for Bruton’s tyrosine kinase activation at the cell membrane",
+   "authors": "Q Wang, Y Pechersky, S Sagawa, AC Pan, DE Shaw",
+   "venue": "Proceedings of the National Academy of Sciences 116 (19), 9390-9399",
+   "year": "2019"
+  },
+  {
+   "title": "Out-of-Domain Robustness via Targeted Augmentations",
+   "authors": "I Gao*, S Sagawa*, PW Koh, T Hashimoto, P Liang",
+   "venue": "International Conference on Machine Learning",
+   "year": "2023"
+  },
+  {
+   "title": "How does a small molecule bind at a cryptic binding site?",
+   "authors": "Y Shan, VP Mysore, AE Leffler, ET Kim, S Sagawa, DE Shaw",
+   "venue": "PLoS computational biology 18 (3), e1009817",
+   "year": "2022"
+  },
+  {
+   "title": "Multi-resolution weak supervision for sequential data",
+   "authors": "P Varma, F Sala, S Sagawa, J Fries, D Fu, S Khattar, A Ramamoorthy, ...",
+   "venue": "Advances in Neural Information Processing Systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Genotype specification language",
+   "authors": "EH Wilson*, S Sagawa*, JW Weis*, MG Schubert*, M Bissell, ...",
+   "venue": "ACS synthetic biology 5 (6), 471-478",
+   "year": "2016"
+  },
+  {
+   "title": "Modulating the frequency and bias of stochastic switching to control phenotypic variation",
+   "authors": "M Hung, E Chang, R Hussein, K Frazier, JE Shin, S Sagawa, HN Lim",
+   "venue": "Nature Communications 5 (1), 4574",
+   "year": "2014"
+  },
+  {
+   "title": "Paradoxical suppression of small RNA activity at high Hfq concentrations due to random-order binding",
+   "authors": "S Sagawa*, JE Shin*, R Hussein, HN Lim",
+   "venue": "Nucleic acids research 43 (17), 8502-8515",
+   "year": "2015"
+  },
+  {
+   "title": "Validating regulatory predictions from diverse bacteria with mutant fitness data",
+   "authors": "S Sagawa, MN Price, AM Deutschbauer, AP Arkin",
+   "venue": "PloS one 12 (5), e0178258",
+   "year": "2017"
+  }
+ ]
+}

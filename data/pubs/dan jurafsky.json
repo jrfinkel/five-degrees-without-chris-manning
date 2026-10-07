@@ -1,0 +1,3041 @@
+{
+ "user": "uZg9l58AAAAJ",
+ "pubs": [
+  {
+   "title": "Speech and language processing: An introduction to natural language processing, computational linguistics, and speech recognition",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Prentice Hall",
+   "year": "2000"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Distant supervision for relation extraction without labeled data",
+   "authors": "M Mintz, S Bills, R Snow, D Jurafsky",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Cheap and fast–but is it good? evaluating non-expert annotations for natural language tasks",
+   "authors": "R Snow, B O’connor, D Jurafsky, AY Ng",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Automatic Labeling of Semantic Roles",
+   "authors": "D Gildea, D Jurafsky",
+   "venue": "Computational Linguistics 28 (3), 245-288",
+   "year": "2002"
+  },
+  {
+   "title": "Dialogue act modeling for automatic tagging and recognition of conversational speech",
+   "authors": "A Stolcke, K Ries, N Coccaro, E Shriberg, R Bates, D Jurafsky, P Taylor, ...",
+   "venue": "Computational linguistics 26 (3), 339-374",
+   "year": "2000"
+  },
+  {
+   "title": "Deep reinforcement learning for dialogue generation",
+   "authors": "J Li, W Monroe, A Ritter, M Galley, J Gao, D Jurafsky",
+   "venue": "Proceedings of 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "Word embeddings quantify 100 years of gender and ethnic stereotypes",
+   "authors": "N Garg, L Schiebinger, D Jurafsky, J Zou",
+   "venue": "Proceedings of the National Academy of Sciences 115 (16), E3635-E3644",
+   "year": "2018"
+  },
+  {
+   "title": "Diachronic word embeddings reveal statistical laws of semantic change",
+   "authors": "WL Hamilton, J Leskovec, D Jurafsky",
+   "venue": "Proceedings of the 2016 Association for Computational Linguistics (ACL 2016 …",
+   "year": "2016"
+  },
+  {
+   "title": "Generalization through memorization: Nearest neighbor language models",
+   "authors": "U Khandelwal, O Levy, D Jurafsky, L Zettlemoyer, M Lewis",
+   "venue": "arXiv preprint arXiv:1911.00172",
+   "year": "2019"
+  },
+  {
+   "title": "The diversity–innovation paradox in science",
+   "authors": "B Hofstra, VV Kulkarni, S Munoz-Najar Galvez, B He, D Jurafsky, ...",
+   "venue": "Proceedings of the National Academy of Sciences 117 (17), 9284-9291",
+   "year": "2020"
+  },
+  {
+   "title": "Racial disparities in automated speech recognition",
+   "authors": "A Koenecke, A Nam, E Lake, J Nudell, M Quartey, Z Mengesha, C Toups, ...",
+   "venue": "Proceedings of the national academy of sciences 117 (14), 7684-7689",
+   "year": "2020"
+  },
+  {
+   "title": "Towards the systematic reporting of the energy and carbon footprints of machine learning",
+   "authors": "P Henderson, J Hu, J Romoff, E Brunskill, D Jurafsky, J Pineau",
+   "venue": "Journal of machine learning research 21 (248), 1-43",
+   "year": "2020"
+  },
+  {
+   "title": "Adversarial learning for neural dialogue generation",
+   "authors": "J Li, W Monroe, T Shi, S Jean, A Ritter, D Jurafsky",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Kto: Model alignment as prospect theoretic optimization",
+   "authors": "K Ethayarajh, W Xu, N Muennighoff, D Jurafsky, D Kiela",
+   "venue": "arXiv preprint arXiv:2402.01306",
+   "year": "2024"
+  },
+  {
+   "title": "Learning syntactic patterns for automatic hypernym discovery",
+   "authors": "R Snow, D Jurafsky, A Ng",
+   "venue": "Advances in neural information processing systems 17",
+   "year": "2004"
+  },
+  {
+   "title": "Visualizing and understanding neural models in NLP",
+   "authors": "J Li, X Chen, E Hovy, D Jurafsky",
+   "venue": "Proceedings of the 2016 Conference of the North American Chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Predictability effects on durations of content and function words in conversational English",
+   "authors": "A Bell, JM Brenier, M Gregory, C Girand, D Jurafsky",
+   "venue": "Journal of Memory and Language 60 (1), 92-111",
+   "year": "2009"
+  },
+  {
+   "title": "Probabilistic Relations between Words: Evidence from reduction in lexical production",
+   "authors": "D Jurafsky, A Bell, M Gregory, WD Raymond",
+   "venue": "Frequency and the emergence of linguistic structure, 229-254",
+   "year": "2001"
+  },
+  {
+   "title": "Unsupervised learning of narrative event chains",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of ACL-08: HLT, 789-797",
+   "year": "2008"
+  },
+  {
+   "title": "When and why vision-language models behave like bags-of-words, and what to do about it?",
+   "authors": "M Yuksekgonul, F Bianchi, P Kalluri, D Jurafsky, J Zou",
+   "venue": "arXiv preprint arXiv:2210.01936",
+   "year": "2022"
+  },
+  {
+   "title": "Universal tendencies in the semantics of the diminutive",
+   "authors": "D Jurafsky",
+   "venue": "Language 72 (3), 533-578",
+   "year": "1996"
+  },
+  {
+   "title": "A probabilistic model of lexical and syntactic access and disambiguation",
+   "authors": "D Jurafsky",
+   "venue": "Cognitive science 20 (2), 137-194",
+   "year": "1996"
+  },
+  {
+   "title": "Easily accessible text-to-image generation amplifies demographic stereotypes at large scale",
+   "authors": "F Bianchi, P Kalluri, E Durmus, F Ladhak, M Cheng, D Nozza, ...",
+   "venue": "Proceedings of the 2023 ACM conference on fairness, accountability, and …",
+   "year": "2023"
+  },
+  {
+   "title": "Understanding neural networks through representation erasure",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1612.08220",
+   "year": "2016"
+  },
+  {
+   "title": "Social bias frames: Reasoning about social and power implications of language",
+   "authors": "M Sap, S Gabriel, L Qin, D Jurafsky, NA Smith, Y Choi",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "A hierarchical neural autoencoder for paragraphs and documents",
+   "authors": "J Li, MT Luong, D Jurafsky",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "A computational approach to politeness with application to social factors",
+   "authors": "C Danescu-Niculescu-Mizil, M Sudhof, D Jurafsky, J Leskovec, C Potts",
+   "venue": "ACL, 250-259",
+   "year": "2013"
+  },
+  {
+   "title": "Studying the history of ideas using topic models",
+   "authors": "D Hall, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Assessing the potential of GPT-4 to perpetuate racial and gender biases in health care: a model evaluation study",
+   "authors": "T Zack, E Lehman, M Suzgun, JA Rodriguez, LA Celi, J Gichoya, ...",
+   "venue": "The Lancet Digital Health 6 (1), e12-e22",
+   "year": "2024"
+  },
+  {
+   "title": "Stanford’s multi-pass sieve coreference resolution system at the conll-2011 shared task",
+   "authors": "H Lee, Y Peirsman, A Chang, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Proceedings of the fifteenth conference on computational natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Switchboard SWBD-DAMSL shallow-discourse-function annotation coders manual",
+   "authors": "D Jurafsky",
+   "venue": "www. dcs. shef. ac. uk/nlp/amities/files/bib/ics-tr-97-02. pdf",
+   "year": "1997"
+  },
+  {
+   "title": "Language from police body camera footage shows racial disparities in officer respect",
+   "authors": "R Voigt, NP Camp, V Prabhakaran, WL Hamilton, RC Hetey, CM Griffiths, ...",
+   "venue": "Proceedings of the national Academy of sciences 114 (25), 6521-6526",
+   "year": "2017"
+  },
+  {
+   "title": "Semantic taxonomy induction from heterogenous evidence",
+   "authors": "R Snow, D Jurafsky, AY Ng",
+   "venue": "Proceedings of the 21st international conference on computational …",
+   "year": "2006"
+  },
+  {
+   "title": "Deterministic coreference resolution based on entity-centric, precision-ranked rules",
+   "authors": "H Lee, A Chang, Y Peirsman, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Computational linguistics 39 (4), 885-916",
+   "year": "2013"
+  },
+  {
+   "title": "Effects of disfluencies, predictability, and utterance position on word form variation in English conversation",
+   "authors": "A Bell, D Jurafsky, E Fosler-Lussier, C Girand, M Gregory, D Gildea",
+   "venue": "The Journal of the acoustical society of America 113 (2), 1001-1024",
+   "year": "2003"
+  },
+  {
+   "title": "No country for old members: User lifecycle and linguistic change in online communities",
+   "authors": "C Danescu-Niculescu-Mizil, R West, D Jurafsky, J Leskovec, C Potts",
+   "venue": "Proceedings of the 22nd international conference on World Wide Web, 307-318",
+   "year": "2013"
+  },
+  {
+   "title": "A conditional random field word segmenter for sighan bakeoff 2005",
+   "authors": "H Tseng, PC Chang, G Andrew, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the fourth SIGHAN workshop on Chinese language Processing",
+   "year": "2005"
+  },
+  {
+   "title": "Unsupervised learning of narrative schemas and their participants",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "A multi-pass sieve for coreference resolution",
+   "authors": "K Raghunathan, H Lee, S Rangarajan, N Chambers, M Surdeanu, ...",
+   "venue": "Proceedings of the 2010 conference on empirical methods in natural language …",
+   "year": "2010"
+  },
+  {
+   "title": "Shallow semantic parsing using support vector machines",
+   "authors": "S Pradhan, W Ward, K Hacioglu, JH Martin, D Jurafsky",
+   "venue": "Proceedings of the Human Language Technology Conference of the North …",
+   "year": "2004"
+  },
+  {
+   "title": "Community interaction and conflict on the web",
+   "authors": "S Kumar, WL Hamilton, J Leskovec, D Jurafsky",
+   "venue": "Proceedings of the 2018 world wide web conference, 933-943",
+   "year": "2018"
+  },
+  {
+   "title": "AI generates covertly racist decisions about people based on their dialect",
+   "authors": "V Hofmann, PR Kalluri, D Jurafsky, S King",
+   "venue": "Nature 633 (8028), 147-154",
+   "year": "2024"
+  },
+  {
+   "title": "Linguistic models for analyzing and detecting biased language",
+   "authors": "M Recasens, C Danescu-Niculescu-Mizil, D Jurafsky",
+   "venue": "Proceedings of the 51st annual meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions",
+   "authors": "F Bianchi, M Suzgun, G Attanasio, P Röttger, D Jurafsky, T Hashimoto, ...",
+   "venue": "International Conference on Learning Representations 2024, 34196-34216",
+   "year": "2024"
+  },
+  {
+   "title": "Inducing domain-specific sentiment lexicons from unlabeled corpora",
+   "authors": "WL Hamilton, K Clark, J Leskovec, D Jurafsky",
+   "venue": "Proceedings of the 2016 conference on empirical methods in natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "Automatic tagging of Arabic text: From raw text to base phrase chunks",
+   "authors": "M Diab, K Hacioglu, D Jurafsky",
+   "venue": "Proceedings of HLT-NAACL 2004: Short papers, 149-152",
+   "year": "2004"
+  },
+  {
+   "title": "Speech and language processing: An introduction to natural language processing, computational linguistics, and speech recognition",
+   "authors": "JH Martin",
+   "venue": "Pearson/Prentice Hall",
+   "year": "2009"
+  },
+  {
+   "title": "Sharp nearby, fuzzy far away: How neural language models use context",
+   "authors": "U Khandelwal, H He, P Qi, D Jurafsky",
+   "venue": "Proceedings of the 56th annual meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Embedding logical queries on knowledge graphs",
+   "authors": "W Hamilton, P Bajaj, M Zitnik, D Jurafsky, J Leskovec",
+   "venue": "Advances in neural information processing systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
+   "authors": "M Cheng, C Lee, P Khadpe, S Yu, D Han, D Jurafsky",
+   "venue": "Science 391 (6792), eaec8352",
+   "year": "2026"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "Can prosody aid the automatic classification of dialog acts in conversational speech?",
+   "authors": "E Shriberg, A Stolcke, D Jurafsky, N Coccaro, M Meteer, R Bates, P Taylor, ...",
+   "venue": "Language and speech 41 (3-4), 443-492",
+   "year": "1998"
+  },
+  {
+   "title": "Cultural shift or linguistic drift? comparing two computational measures of semantic change",
+   "authors": "WL Hamilton, J Leskovec, D Jurafsky",
+   "venue": "Proceedings of the 2016 conference on empirical methods in natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "Marked personas: Using natural language prompts to measure stereotypes in language models",
+   "authors": "M Cheng, E Durmus, D Jurafsky",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Measuring the evolution of a scientific field through citation frames",
+   "authors": "D Jurgens, S Kumar, R Hoover, D McFarland, D Jurafsky",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 391-406",
+   "year": "2018"
+  },
+  {
+   "title": "Learning attitudes and attributes from multi-aspect reviews",
+   "authors": "J McAuley, J Leskovec, D Jurafsky",
+   "venue": "2012 IEEE 12th international conference on data mining, 1020-1025",
+   "year": "2012"
+  },
+  {
+   "title": "Nearest neighbor machine translation",
+   "authors": "U Khandelwal, A Fan, D Jurafsky, L Zettlemoyer, M Lewis",
+   "venue": "arXiv preprint arXiv:2010.00710",
+   "year": "2020"
+  },
+  {
+   "title": "Speech and language processing, 2nd edition",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Prentice Hall",
+   "year": "2008"
+  },
+  {
+   "title": "Probabilistic modeling in psycholinguistics: Linguistic comprehension and production",
+   "authors": "D Jurafsky",
+   "venue": "Probabilistic linguistics, 39-95",
+   "year": "2003"
+  },
+  {
+   "title": "Support Vector Learning for Semantic Argument Classification: S. Pradhan et al.",
+   "authors": "S Pradhan, K Hacioglu, V Krugler, W Ward, JH Martin, D Jurafsky",
+   "venue": "Machine Learning 60 (1), 11-39",
+   "year": "2005"
+  },
+  {
+   "title": "How good are humans at solving CAPTCHAs? A large scale evaluation",
+   "authors": "E Bursztein, S Bethard, C Fabry, JC Mitchell, D Jurafsky",
+   "venue": "2010 IEEE symposium on security and privacy, 399-413",
+   "year": "2010"
+  },
+  {
+   "title": "The Language of Food: A Linguist Reads the Menu",
+   "authors": "D Jurafsky",
+   "venue": "WW Norton & Company",
+   "year": "2014"
+  },
+  {
+   "title": "Data noising as smoothing in neural network language models",
+   "authors": "Z Xie, SI Wang, J Li, D Lévy, A Nie, D Jurafsky, AY Ng",
+   "venue": "arXiv preprint arXiv:1703.02573",
+   "year": "2017"
+  },
+  {
+   "title": "Which predictability measures affect content word Duration",
+   "authors": "A Bell, ML Gregory, JM Brenier, D Jurafsky, A Ikeno, C Girand",
+   "venue": "PMLA. Proc. ISCA Workshop on Pronunciation Modeling and Lexicon Adaptation …",
+   "year": "2002"
+  },
+  {
+   "title": "Speech and language processing. Vol. 3",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Pearson London",
+   "year": "2014"
+  },
+  {
+   "title": "Foundation models and fair use",
+   "authors": "P Henderson, X Li, D Jurafsky, T Hashimoto, MA Lemley, P Liang",
+   "venue": "Journal of Machine Learning Research 24 (400), 1-79",
+   "year": "2023"
+  },
+  {
+   "title": "Reft: Representation finetuning for language models",
+   "authors": "Z Wu, A Arora, Z Wang, A Geiger, D Jurafsky, CD Manning, C Potts",
+   "venue": "Advances in Neural Information Processing Systems 37, 63908-63962",
+   "year": "2024"
+  },
+  {
+   "title": "Improving factual completeness and consistency of image-to-text radiology report generation",
+   "authors": "Y Miura, Y Zhang, E Tsai, C Langlotz, D Jurafsky",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Do multi-sense embeddings improve natural language understanding?",
+   "authors": "J Li, D Jurafsky",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Utility is in the eye of the user: A critique of NLP leaderboards",
+   "authors": "K Ethayarajh, D Jurafsky",
+   "venue": "Proceedings of the 2020 conference on empirical methods in natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "From baby steps to leapfrog: How “less is more” in unsupervised dependency parsing",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Joint entity and event coreference resolution across documents",
+   "authors": "H Lee, M Recasens, A Chang, M Surdeanu, D Jurafsky",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Which words are hard to recognize? Prosodic, lexical, and disfluency factors that increase speech recognition error rates",
+   "authors": "S Goldwater, D Jurafsky, CD Manning",
+   "venue": "Speech Communication 52 (3), 181-200",
+   "year": "2010"
+  },
+  {
+   "title": "Analyzing polarization in social media: Method and application to tweets on 21 mass shootings",
+   "authors": "D Demszky, N Garg, R Voigt, J Zou, J Shapiro, M Gentzkow, D Jurafsky",
+   "venue": "Proceedings of the 2019 conference of the north american chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Automatic extraction of opinion propositions and their holders",
+   "authors": "S Bethard, H Yu, A Thornton, V Hatzivassiloglou, D Jurafsky",
+   "venue": "2004 AAAI spring symposium on exploring attitude and affect in text 2224, 133",
+   "year": "2004"
+  },
+  {
+   "title": "A simple, fast diverse decoding algorithm for neural generation",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1611.08562",
+   "year": "2016"
+  },
+  {
+   "title": "Picking on the same person: Does algorithmic monoculture lead to outcome homogenization?",
+   "authors": "R Bommasani, KA Creel, A Kumar, D Jurafsky, PS Liang",
+   "venue": "Advances in neural information processing systems 35, 3663-3678",
+   "year": "2022"
+  },
+  {
+   "title": "Template-based information extraction without the templates",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of ACL HLT 2011, 976-986",
+   "year": "2011"
+  },
+  {
+   "title": "When are tree structures necessary for deep learning of representations?",
+   "authors": "J Li, MT Luong, D Jurafsky, E Hovy",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "The effects of collocational strength and contextual predictability in lexical production",
+   "authors": "ML Gregory, WD Raymond, A Bell, E Fosler-Lussier, D Jurafsky",
+   "venue": "Chicago Linguistic Society 35, 151-166",
+   "year": "1999"
+  },
+  {
+   "title": "Automatically neutralizing subjective bias in text",
+   "authors": "R Pryzant, RD Martinez, N Dass, S Kurohashi, D Jurafsky, D Yang",
+   "venue": "Proceedings of the aaai conference on artificial intelligence 34 (01), 480-489",
+   "year": "2020"
+  },
+  {
+   "title": "The NXT-format Switchboard Corpus: a rich resource for investigating the syntax, semantics, pragmatics and prosody of dialogue",
+   "authors": "S Calhoun, J Carletta, JM Brenier, N Mayo, D Jurafsky, M Steedman, ...",
+   "venue": "Language resources and evaluation 44 (4), 387-419",
+   "year": "2010"
+  },
+  {
+   "title": "Model alignment as prospect theoretic optimization",
+   "authors": "K Ethayarajh, W Xu, N Muennighoff, D Jurafsky, D Kiela",
+   "venue": "Forty-first International Conference on Machine Learning",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to follow navigational directions",
+   "authors": "A Vogel, D Jurafsky",
+   "venue": "Proceedings of the 48th annual meeting of the association for computational …",
+   "year": "2010"
+  },
+  {
+   "title": "First-pass large vocabulary continuous speech recognition using bi-directional recurrent DNNs",
+   "authors": "AY Hannun, AL Maas, D Jurafsky, AY Ng",
+   "venue": "arXiv preprint arXiv:1408.2873",
+   "year": "2014"
+  },
+  {
+   "title": "Navigating the grey area: How expressions of uncertainty and overconfidence affect language models",
+   "authors": "K Zhou, D Jurafsky, TB Hashimoto",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Can automated feedback improve teachers’ uptake of student ideas? Evidence from a randomized controlled trial in a large-scale online course",
+   "authors": "D Demszky, J Liu, HC Hill, D Jurafsky, C Piech",
+   "venue": "Educational Evaluation and Policy Analysis 46 (3), 483-505",
+   "year": "2024"
+  },
+  {
+   "title": "Content analysis of textbooks via natural language processing: Findings on gender, race, and ethnicity in Texas US history textbooks",
+   "authors": "L Lucy, D Demszky, P Bromley, D Jurafsky",
+   "venue": "AERA Open 6 (3), 2332858420940312",
+   "year": "2020"
+  },
+  {
+   "title": "Classifying temporal relations between events",
+   "authors": "N Chambers, S Wang, D Jurafsky",
+   "venue": "Proceedings of the 45th annual meeting of the association for computational …",
+   "year": "2007"
+  },
+  {
+   "title": "Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration",
+   "authors": "D Card, S Chang, C Becker, J Mendelsohn, R Voigt, L Boustan, ...",
+   "venue": "Proceedings of the National Academy of Sciences 119 (31), e2120510119",
+   "year": "2022"
+  },
+  {
+   "title": "Axbench: Steering llms? even simple baselines outperform sparse autoencoders",
+   "authors": "Z Wu, A Arora, A Geiger, Z Wang, J Huang, D Jurafsky, CD Manning, ...",
+   "venue": "arXiv preprint arXiv:2501.17148",
+   "year": "2025"
+  },
+  {
+   "title": "Knowledge-free induction of morphology using latent semantic analysis",
+   "authors": "P Schone, D Jurafsky",
+   "venue": "Fourth Conference on Computational Natural Language Learning and the Second …",
+   "year": "2000"
+  },
+  {
+   "title": "Framing and agenda-setting in Russian news: a computational analysis of intricate political strategies",
+   "authors": "A Field, D Kliger, S Wintner, J Pan, D Jurafsky, Y Tsvetkov",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Parsing to stanford dependencies: Trade-offs between speed and accuracy",
+   "authors": "DM Cer, MC De Marneffe, D Jurafsky, CD Manning",
+   "venue": "LREC",
+   "year": "2010"
+  },
+  {
+   "title": "Discriminative reordering with Chinese grammatical relations features",
+   "authors": "PC Chang, H Tseng, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Third Workshop on Syntax and Structure in Statistical …",
+   "year": "2009"
+  },
+  {
+   "title": "Pile of law: Learning responsible data filtering from the law and a 256gb open-source legal dataset",
+   "authors": "P Henderson, M Krass, L Zheng, N Guha, CD Manning, D Jurafsky, D Ho",
+   "venue": "Advances in Neural Information Processing Systems 35, 29217-29234",
+   "year": "2022"
+  },
+  {
+   "title": "Who should I cite: learning literature search models from citation behavior",
+   "authors": "S Bethard, D Jurafsky",
+   "venue": "Proceedings of the 19th ACM international conference on Information and …",
+   "year": "2010"
+  },
+  {
+   "title": "Differentiating language usage through topic models",
+   "authors": "DA McFarland, D Ramage, J Chuang, J Heer, CD Manning, D Jurafsky",
+   "venue": "Poetics 41 (6), 607-625",
+   "year": "2013"
+  },
+  {
+   "title": "Semantic role labeling using different syntactic views",
+   "authors": "S Pradhan, W Ward, K Hacioglu, JH Martin, D Jurafsky",
+   "venue": "Proceedings of the 43rd Annual Meeting of the Association for Computational …",
+   "year": "2005"
+  },
+  {
+   "title": "A computational analysis of style, affect, and imagery in contemporary poetry",
+   "authors": "J Kao, D Jurafsky",
+   "venue": "Proceedings of the NAACL-HLT 2012 workshop on computational linguistics for …",
+   "year": "2012"
+  },
+  {
+   "title": "Is knowledge-free induction of multiword unit dictionary headwords a solved problem?",
+   "authors": "P Schone, D Jurafsky",
+   "venue": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language …",
+   "year": "2001"
+  },
+  {
+   "title": "Lexical, prosodic, and syntactic cues for dialog acts",
+   "authors": "D Jurafsky, E Shriberg, B Fox, T Curl",
+   "venue": "Discourse relations and discourse markers",
+   "year": "1998"
+  },
+  {
+   "title": "With little power comes great responsibility",
+   "authors": "D Card, P Henderson, U Khandelwal, R Jia, K Mahowald, D Jurafsky",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Lexicon-Free Conversational Speech Recognition with Neural Networks",
+   "authors": "AL Maas, X Xie, D Jurafsky, AY Ng",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Automatic detection of discourse structure for speech recognition and understanding",
+   "authors": "D Jurafsky, R Bates, N Coccaro, R Martin, M Meteer, K Ries, E Shriberg, ...",
+   "venue": "1997 IEEE Workshop on Automatic Speech Recognition and Understanding …",
+   "year": "1997"
+  },
+  {
+   "title": "Knowledge-free induction of inflectional morphologies",
+   "authors": "P Schone, D Jurafsky",
+   "venue": "Second meeting of the north american chapter of the association for …",
+   "year": "2001"
+  },
+  {
+   "title": "Building DNN acoustic models for large vocabulary speech recognition",
+   "authors": "AL Maas, P Qi, Z Xie, AY Hannun, CT Lengerich, D Jurafsky, AY Ng",
+   "venue": "Computer Speech & Language 41, 195-213",
+   "year": "2017"
+  },
+  {
+   "title": "Integrating text and image: Determining multimodal document intent in instagram posts",
+   "authors": "J Kruk, J Lubin, K Sikka, X Lin, D Jurafsky, A Divakaran",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Narrative framing of consumer sentiment in online restaurant reviews",
+   "authors": "D Jurafsky, V Chahuneau, BR Routledge, NA Smith",
+   "venue": "First Monday",
+   "year": "2014"
+  },
+  {
+   "title": "How well can llms negotiate? negotiationarena platform and analysis",
+   "authors": "F Bianchi, PJ Chia, M Yuksekgonul, J Tagliabue, D Jurafsky, J Zou",
+   "venue": "arXiv preprint arXiv:2402.05863",
+   "year": "2024"
+  },
+  {
+   "title": "On the Importance of Text Analysis for Stock Price Prediction",
+   "authors": "H Lee, M Surdeanu, B MacCartney, D Jurafsky",
+   "venue": "Proceedings of LREC 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Verb sense and verb subcategorization probabilities",
+   "authors": "DW Roland, D Jurafsky",
+   "venue": "University of Colorado",
+   "year": "2001"
+  },
+  {
+   "title": "Dynamic cheatsheet: Test-time learning with adaptive memory",
+   "authors": "M Suzgun, M Yuksekgonul, F Bianchi, D Jurafsky, J Zou",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Jointly combining implicit constraints improves temporal ordering",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of the 2008 Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "A framework for the computational linguistic analysis of dehumanization",
+   "authors": "J Mendelsohn, Y Tsvetkov, D Jurafsky",
+   "venue": "Frontiers in artificial intelligence 3, 55",
+   "year": "2020"
+  },
+  {
+   "title": "Pragmatics and computational linguistics",
+   "authors": "D Jurafsky",
+   "venue": "Handbook of pragmatics, 578-604",
+   "year": "2004"
+  },
+  {
+   "title": "Neural net models of open-domain discourse coherence",
+   "authors": "J Li, D Jurafsky",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "How to Ask for a Favor: A Case Study on the Success of Altruistic Requests",
+   "authors": "T Althoff, C Danescu-Niculescu-Mizil, D Jurafsky",
+   "venue": "ICWSM",
+   "year": "2014"
+  },
+  {
+   "title": "Neural language correction with character-based attention",
+   "authors": "Z Xie, A Avati, N Arivazhagan, D Jurafsky, AY Ng",
+   "venue": "arXiv preprint arXiv:1603.09727",
+   "year": "2016"
+  },
+  {
+   "title": "The role of the lemma in form variation",
+   "authors": "D Jurafsky, A Bell, C Girand, C Gussenhoven, N Warner",
+   "venue": "Laboratory phonology 7, 3-34",
+   "year": "2002"
+  },
+  {
+   "title": "ELEPHANT: Measuring and understanding social sycophancy in LLMs",
+   "authors": "M Cheng, S Yu, C Lee, P Khadpe, L Ibrahim, D Jurafsky",
+   "venue": "International conference on learning representations 2026, 130060-130097",
+   "year": "2026"
+  },
+  {
+   "title": "Automatic detection of incoherent speech for diagnosing schizophrenia",
+   "authors": "D Iter, J Yoon, D Jurafsky",
+   "venue": "Proceedings of the fifth workshop on computational linguistics and clinical …",
+   "year": "2018"
+  },
+  {
+   "title": "Extracting social meaning: Identifying interactional style in spoken conversation",
+   "authors": "D Jurafsky, R Ranganath, D McFarland",
+   "venue": "Proceedings of human language technologies: The 2009 annual conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Seekers, providers, welcomers, and storytellers: Modeling social roles in online health communities",
+   "authors": "D Yang, RE Kraut, T Smith, E Mayfield, D Jurafsky",
+   "venue": "Proceedings of the 2019 CHI conference on human factors in computing systems …",
+   "year": "2019"
+  },
+  {
+   "title": "Noising and denoising natural language: Diverse backtranslation for grammar correction",
+   "authors": "Z Xie, G Genthial, S Xie, AY Ng, D Jurafsky",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "An on-line computational model of human sentence interpretation: A theory of the representation and use of linguistic knowledge",
+   "authors": "DS Jurafsky",
+   "venue": "University of California, Berkeley",
+   "year": "1992"
+  },
+  {
+   "title": "Mutual information and diverse decoding improve neural machine translation",
+   "authors": "J Li, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1601.00372",
+   "year": "2016"
+  },
+  {
+   "title": "Loyalty in online communities",
+   "authors": "W Hamilton, J Zhang, C Danescu-Niculescu-Mizil, D Jurafsky, J Leskovec",
+   "venue": "Proceedings of the International AAAI conference on web and social media 11 …",
+   "year": "2017"
+  },
+  {
+   "title": "N-gram language models",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Speech and language processing 23",
+   "year": "2018"
+  },
+  {
+   "title": "Making the Connection: Social Bonding in Courtship Situations",
+   "authors": "DA McFarland, D Jurafsky, CM Rawlings",
+   "venue": "American Journal of Sociology 118 (6), 1596-1649",
+   "year": "2013"
+  },
+  {
+   "title": "Measuring conversational uptake: A case study on student-teacher interactions",
+   "authors": "D Demszky, J Liu, Z Mancenido, J Cohen, H Hill, D Jurafsky, ...",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Universals of word order reflect optimization of grammars for efficient communication",
+   "authors": "M Hahn, D Jurafsky, R Futrell",
+   "venue": "Proceedings of the National Academy of Sciences 117 (5), 2347-2353",
+   "year": "2020"
+  },
+  {
+   "title": "Using a stochastic context-free grammar as a language model for speech recognition",
+   "authors": "D Jurafsky, C Wooters, J Segal, A Stolcke, E Fosler, G Tajchaman, ...",
+   "venue": "1995 International Conference on Acoustics, Speech, and Signal Processing 1 …",
+   "year": "1995"
+  },
+  {
+   "title": "Reduction of English function words in Switchboard.",
+   "authors": "D Jurafsky, A Bell, E Fosler-Lussier, C Girand, WD Raymond",
+   "venue": "ICSLP",
+   "year": "1998"
+  },
+  {
+   "title": "Citation‐based bootstrapping for large‐scale author disambiguation",
+   "authors": "M Levin, S Krawczyk, S Bethard, D Jurafsky",
+   "venue": "Journal of the American Society for Information Science and Technology 63 (5 …",
+   "year": "2012"
+  },
+  {
+   "title": "Accent detection and speech recognition for shanghai-accented mandarin",
+   "authors": "Y Zheng, R Sproat, L Gu, I Shafran, H Zhou, Y Su, D Jurafsky, R Starr, ...",
+   "venue": "Proc. Interspeech 2005, 217-220",
+   "year": "2005"
+  },
+  {
+   "title": "Semantic role labeling by tagging syntactic chunks",
+   "authors": "K Hacioglu, S Pradhan, W Ward, JH Martin, D Jurafsky",
+   "venue": "Proceedings of the Eighth Conference on Computational Natural Language …",
+   "year": "2004"
+  },
+  {
+   "title": "Incorporating dialectal variability for socially equitable language identification",
+   "authors": "D Jurgens, Y Tsvetkov, D Jurafsky",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Community identity and user engagement in a multi-community landscape",
+   "authors": "J Zhang, W Hamilton, C Danescu-Niculescu-Mizil, D Jurafsky, J Leskovec",
+   "venue": "Proceedings of the international AAAI conference on web and social media 11 …",
+   "year": "2017"
+  },
+  {
+   "title": "Problems with cosine as a measure of embedding similarity for high frequency words",
+   "authors": "K Zhou, K Ethayarajh, D Card, D Jurafsky",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Detecting stance in media on global warming",
+   "authors": "Y Luo, D Card, D Jurafsky",
+   "venue": "Findings of the association for computational linguistics: EMNLP 2020, 3296-3315",
+   "year": "2020"
+  },
+  {
+   "title": "Towards better integration of semantic predictors in statistical language modeling.",
+   "authors": "N Coccaro, D Jurafsky",
+   "venue": "ICSLP, 2403-2406",
+   "year": "1998"
+  },
+  {
+   "title": "Learning bias and phonological-rule induction",
+   "authors": "D Gildea, D Jurafsky",
+   "venue": "Computational Linguistics 22 (4), 497-530",
+   "year": "1996"
+  },
+  {
+   "title": "It’s not you, it’s me: Detecting flirting and its misperception in speed-dates",
+   "authors": "R Ranganath, D Jurafsky, D McFarland",
+   "venue": "Proceedings of the 2009 conference on empirical methods in natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "Learning to merge word senses",
+   "authors": "R Snow, S Prakash, D Jurafsky, AY Ng",
+   "venue": "Proceedings of the 2007 joint conference on empirical methods in natural …",
+   "year": "2007"
+  },
+  {
+   "title": "Shallow semantic parsing of Chinese",
+   "authors": "H Sun, D Jurafsky",
+   "venue": "Proceedings of the Human Language Technology Conference of the North …",
+   "year": "2004"
+  },
+  {
+   "title": "Social sycophancy: A broader understanding of llm sycophancy",
+   "authors": "M Cheng, S Yu, C Lee, P Khadpe, L Ibrahim, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2505.13995",
+   "year": "2025"
+  },
+  {
+   "title": "Robust machine translation evaluation with entailment features",
+   "authors": "S Padó, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "The effect of lexical frequency and Lombard reflex on tone hyperarticulation",
+   "authors": "Y Zhao, D Jurafsky",
+   "venue": "Journal of Phonetics 37 (2), 231-247",
+   "year": "2009"
+  },
+  {
+   "title": "Semantic role parsing: Adding semantic structure to unstructured text",
+   "authors": "S Pradhan, K Hacioglu, W Ward, JH Martin, D Jurafsky",
+   "venue": "Third IEEE international conference on data mining, 629-632",
+   "year": "2003"
+  },
+  {
+   "title": "The berkeley restaurant project.",
+   "authors": "D Jurafsky, C Wooters, GN Tajchman, J Segal, A Stolcke, E Fosler, ...",
+   "venue": "ICSLP 94, 2139-2142",
+   "year": "1994"
+  },
+  {
+   "title": "A benchmark for learning to translate a new language from one grammar book",
+   "authors": "G Tanzer, M Suzgun, E Visser, D Jurafsky, L Melas-Kyriazi",
+   "venue": "International conference on learning representations 2024, 18955-18985",
+   "year": "2024"
+  },
+  {
+   "title": "Morphological features help POS tagging of unknown words across language varieties",
+   "authors": "H Tseng, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the fourth SIGHAN workshop on Chinese language processing",
+   "year": "2005"
+  },
+  {
+   "title": "Verb subcategorization frequencies: American English corpus data, methodological studies, and cross-corpus comparisons",
+   "authors": "S Gahl, D Jurafsky, D Roland",
+   "venue": "Behavior Research Methods, Instruments, & Computers 36 (3), 432-443",
+   "year": "2004"
+  },
+  {
+   "title": "Bayesian models of human sentence processing",
+   "authors": "S Narayanan, D Jurafsky",
+   "venue": "Proceedings of the twentieth annual conference of the cognitive science …",
+   "year": "2022"
+  },
+  {
+   "title": "Towards a literary machine translation: The role of referential cohesion",
+   "authors": "R Voigt, D Jurafsky",
+   "venue": "Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for …",
+   "year": "2012"
+  },
+  {
+   "title": "What kind of pronunciation variation is hard for triphones to model?",
+   "authors": "D Jurafsky, W Ward, Z Banping, K Herold, Y Xiuyang, Z Sen",
+   "venue": "2001 IEEE International Conference on Acoustics, Speech, and Signal …",
+   "year": "2001"
+  },
+  {
+   "title": "Let’s make your request more persuasive: Modeling persuasive strategies via semi-supervised neural nets on crowdfunding platforms",
+   "authors": "D Yang, J Chen, Z Yang, D Jurafsky, E Hovy",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Making more of little data: Improving low-resource automatic speech recognition using data augmentation",
+   "authors": "M Bartelds, N San, B McDonnell, D Jurafsky, M Wieling",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Dialect prejudice predicts AI decisions about people's character, employability, and criminality",
+   "authors": "V Hofmann, PR Kalluri, D Jurafsky, S King",
+   "venue": "arXiv preprint arXiv:2403.00742",
+   "year": "2024"
+  },
+  {
+   "title": "Detecting friendly, flirtatious, awkward, and assertive speech in speed-dates",
+   "authors": "R Ranganath, D Jurafsky, DA McFarland",
+   "venue": "Computer Speech & Language 27 (1), 89-115",
+   "year": "2013"
+  },
+  {
+   "title": "Semantic role chunking combining complementary syntactic views",
+   "authors": "S Pradhan, K Hacioglu, W Ward, JH Martin, D Jurafsky",
+   "venue": "Proceedings of the Ninth Conference on Computational Natural Language …",
+   "year": "2005"
+  },
+  {
+   "title": "Learning music helps you read: Using transfer to study linguistic structure in language models",
+   "authors": "I Papadimitriou, D Jurafsky",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "RtGender: A corpus for studying differential responses to gender",
+   "authors": "R Voigt, D Jurgens, V Prabhakaran, D Jurafsky, Y Tsvetkov",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Prompt-and-rerank: A method for zero-shot and few-shot arbitrary textual style transfer with small language models",
+   "authors": "M Suzgun, L Melas-Kyriazi, D Jurafsky",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Assessing the accuracy of automatic speech recognition for psychotherapy",
+   "authors": "AS Miner, A Haque, JA Fries, SL Fleming, DE Wilfley, G Terence Wilson, ...",
+   "venue": "NPJ digital medicine 3 (1), 82",
+   "year": "2020"
+  },
+  {
+   "title": "On the Semantics of Cantonese Changed Tone; or Women, Matches, and Chinese Broccoli",
+   "authors": "D Jurafsky",
+   "venue": "Proceedings of the Annual Meeting of the Berkeley Linguistics Society, 304-318",
+   "year": "1988"
+  },
+  {
+   "title": "Viterbi training improves unsupervised dependency parsing",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Fourteenth Conference on Computational Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Pretraining with contrastive sentence objectives improves discourse performance of language models",
+   "authors": "D Iter, K Guu, L Lansing, D Jurafsky",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Grounding gaps in language model generations",
+   "authors": "O Shaikh, K Gligorić, A Khetan, M Gerstgrasser, D Yang, D Jurafsky",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "A bayesian model predicts human parse preference and reading times in sentence processing",
+   "authors": "D Jurafsky, S Narayanan",
+   "venue": "Advances in neural information processing systems 14, 59",
+   "year": "2002"
+  },
+  {
+   "title": "Reading between the menu lines: Are restaurants’ descriptions of “healthy” foods unappealing?",
+   "authors": "BP Turnwald, D Jurafsky, A Conner, AJ Crum",
+   "venue": "Health Psychology 36 (11), 1034",
+   "year": "2017"
+  },
+  {
+   "title": "Predicting the rise and fall of scientific topics from trends in their rhetorical framing",
+   "authors": "V Prabhakaran, WL Hamilton, D McFarland, D Jurafsky",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "How verb subcategorization frequencies are affected by corpus choice",
+   "authors": "D Roland, D Jurafsky",
+   "venue": "COLING 1998 Volume 2: The 17th International Conference on Computational …",
+   "year": "1998"
+  },
+  {
+   "title": "A two-stage sieve approach for quote attribution",
+   "authors": "G Muzny, M Fang, A Chang, D Jurafsky",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "Towards a computational history of the ACL: 1980-2008",
+   "authors": "A Anderson, D Jurafsky, D McFarland",
+   "venue": "Proceedings of the ACL-2012 special workshop on rediscovering 50 years of …",
+   "year": "2012"
+  },
+  {
+   "title": "Speech and Language Processing (Draft). 2021",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "URL: https://web. stanford. edu/~ jurafsky/slp3",
+   "year": "2024"
+  },
+  {
+   "title": "Causal effects of linguistic properties",
+   "authors": "R Pryzant, D Card, D Jurafsky, V Veitch, D Sridhar",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "When do pre-training biases propagate to downstream tasks? a case study in text summarization",
+   "authors": "F Ladhak, E Durmus, M Suzgun, T Zhang, D Jurafsky, K McKeown, ...",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Self-destructing models: Increasing the costs of harmful dual uses of foundation models",
+   "authors": "P Henderson, E Mitchell, C Manning, D Jurafsky, C Finn",
+   "venue": "Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society, 287-296",
+   "year": "2023"
+  },
+  {
+   "title": "Type underspecification and on-line type construction in the lexicon",
+   "authors": "JP Koenig, D Jurafsky",
+   "venue": "Proceedings of WCCFL 94",
+   "year": "1994"
+  },
+  {
+   "title": "The thin blue waveform: Racial disparities in officer prosody undermine institutional trust in the police.",
+   "authors": "NP Camp, R Voigt, D Jurafsky, JL Eberhardt",
+   "venue": "Journal of personality and social psychology 121 (6), 1157",
+   "year": "2021"
+  },
+  {
+   "title": "Baby Steps: How “Less is More” in unsupervised dependency parsing",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky",
+   "venue": "NIPS: Grammar Induction, Representation of Language and Language Learning, 1-10",
+   "year": "2009"
+  },
+  {
+   "title": "Speech and language processing (3rd draft ed.)",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Available at:[link]",
+   "year": "2019"
+  },
+  {
+   "title": "Naive bayes and sentiment classification",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Speech and language processing, 74-91",
+   "year": "2017"
+  },
+  {
+   "title": "Dialog systems and chatbots",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Speech and language processing 3",
+   "year": "2017"
+  },
+  {
+   "title": "Hidden markov models",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Speech and language processing 3",
+   "year": "2018"
+  },
+  {
+   "title": "Deconfounded lexicon induction for interpretable social science",
+   "authors": "R Pryzant, K Shen, D Jurafsky, S Wagner",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "He said, she said: Gender in the ACL anthology",
+   "authors": "A Vogel, D Jurafsky",
+   "venue": "Proceedings of the ACL-2012 special workshop on rediscovering 50 years of …",
+   "year": "2012"
+  },
+  {
+   "title": "Unsupervised dependency parsing without gold part-of-speech tags",
+   "authors": "VI Spitkovsky, H Alshawi, A Chang, D Jurafsky",
+   "venue": "Proceedings of the 2011 Conference on Empirical Methods in Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Measuring importance and query relevance in topic-focused multi-document summarization",
+   "authors": "S Gupta, A Nenkova, D Jurafsky",
+   "venue": "Proceedings of the 45th Annual Meeting of the Association for Computational …",
+   "year": "2007"
+  },
+  {
+   "title": "To memorize or to predict: Prominence labeling in conversational speech",
+   "authors": "A Nenkova, J Brenier, A Kothari, S Calhoun, L Whitton, D Beaver, ...",
+   "venue": "Human Language Technologies 2007: The Conference of the North American …",
+   "year": "2007"
+  },
+  {
+   "title": "Easy does it: more usable CAPTCHAs",
+   "authors": "E Bursztein, A Moscicki, C Fabry, S Bethard, JC Mitchell, D Jurafsky",
+   "venue": "Proceedings of the SIGCHI conference on human factors in computing systems …",
+   "year": "2014"
+  },
+  {
+   "title": "Sad: A stress annotated dataset for recognizing everyday stressors in sms-like conversational systems",
+   "authors": "ML Mauriello, T Lincoln, G Hon, D Simon, D Jurafsky, P Paredes",
+   "venue": "Extended abstracts of the 2021 CHI conference on human factors in computing …",
+   "year": "2021"
+  },
+  {
+   "title": "Vector semantics and embeddings",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Speech and language processing, 1-31",
+   "year": "2019"
+  },
+  {
+   "title": "Can unconfident llm annotations be used for confident conclusions?",
+   "authors": "K Gligorić, T Zrnic, C Lee, E Candes, D Jurafsky",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Language through a prism: A spectral approach for multiscale language representations",
+   "authors": "A Tamkin, D Jurafsky, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 33, 5492-5504",
+   "year": "2020"
+  },
+  {
+   "title": "JESC: Japanese-English subtitle corpus",
+   "authors": "R Pryzant, Y Chung, D Jurafsky, D Britz",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Parsing time: Learning to interpret time expressions",
+   "authors": "G Angeli, CD Manning, D Jurafsky",
+   "venue": "Proceedings of the 2012 Conference of the North American Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "AnthroScore: A computational linguistic measure of anthropomorphism",
+   "authors": "M Cheng, K Gligorić, T Piccardi, D Jurafsky",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to decode for future success",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1701.06549",
+   "year": "2017"
+  },
+  {
+   "title": "Phrasal: A statistical machine translation toolkit for exploring new model features",
+   "authors": "D Cer, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the NAACL HLT 2010 Demonstration Session, 9-12",
+   "year": "2010"
+  },
+  {
+   "title": "The best lexical metric for phrase-based statistical MT system optimization",
+   "authors": "D Cer, CD Manning, D Jurafsky",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Measuring machine translation quality as semantic equivalence: A metric based on entailment features",
+   "authors": "S Padó, D Cer, M Galley, D Jurafsky, CD Manning",
+   "venue": "Machine Translation 23 (2), 181-193",
+   "year": "2009"
+  },
+  {
+   "title": "Punctuation: Making a point in unsupervised dependency parsing",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky",
+   "venue": "Proceedings of the Fifteenth Conference on Computational Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "A preliminary study of Mandarin filled pauses",
+   "authors": "Y Zhao, D Jurafsky",
+   "venue": "Proc. DiSS 2005, 179-182",
+   "year": "2005"
+  },
+  {
+   "title": "Automated methods for processing arabic text: from tokenization to base phrase chunking",
+   "authors": "M Diab, K Hacioglu, D Jurafsky",
+   "venue": "Arabic Computational Morphology: Knowledge-based and Empirical Methods …",
+   "year": "2007"
+  },
+  {
+   "title": "Syntactic frame and verb bias in aphasia: Plausibility judgments of undergoer-subject sentences",
+   "authors": "S Gahl, L Menn, G Ramsberger, DS Jurafsky, E Elder, M Rewega, ...",
+   "venue": "Brain and Cognition 53 (2), 223-228",
+   "year": "2003"
+  },
+  {
+   "title": "Universals in the semantics of the diminutive",
+   "authors": "D Jurafsky",
+   "venue": "Proceedings of the Annual Meeting of the Berkeley Linguistics Society 19 (1)",
+   "year": "1993"
+  },
+  {
+   "title": "Logistic regression",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Speech and language processing 2",
+   "year": "2019"
+  },
+  {
+   "title": "Predicting Sales from the Language of Product Descriptions.",
+   "authors": "R Pryzant, Y Chung, D Jurafsky",
+   "venue": "eCOM@ SIGIR 2311",
+   "year": "2017"
+  },
+  {
+   "title": "Switchboard discourse language modeling project final report",
+   "authors": "D Jurafsky",
+   "venue": "LVCSR Workshop, 1998",
+   "year": "1998"
+  },
+  {
+   "title": "Speech and language processing. 2023",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "URL: https://web. stanford. edu/~ jurafsky/slp3/(дата звернення: 10.05. 2025)",
+   "year": "2025"
+  },
+  {
+   "title": "Emergence of Gricean maxims from multi-agent decision theory",
+   "authors": "A Vogel, M Bodoia, C Potts, D Jurafsky",
+   "venue": "Proceedings of the 2013 conference of the north american chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Hidden conditional random fields for phone recognition",
+   "authors": "YH Sung, D Jurafsky",
+   "venue": "2009 IEEE Workshop on Automatic Speech Recognition & Understanding, 107-112",
+   "year": "2009"
+  },
+  {
+   "title": "A Dialectal Chinese Speech Recognition Framework",
+   "authors": "李净， 郑方， W Byrne， D Jurafsky",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "CausalGym: Benchmarking causal interpretability methods on linguistic tasks",
+   "authors": "A Arora, D Jurafsky, C Potts",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Computationally identifying funneling and focusing questions in classroom discourse",
+   "authors": "S Alic, D Demszky, Z Mancenido, J Liu, H Hill, D Jurafsky",
+   "venue": "Proceedings of the 17th Workshop on Innovative Use of NLP for Building …",
+   "year": "2022"
+  },
+  {
+   "title": "Attention flows are shapley value explanations",
+   "authors": "K Ethayarajh, D Jurafsky",
+   "venue": "Proceedings of the 59th annual meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Kto: Model alignment as prospect theoretic optimization, 2024",
+   "authors": "K Ethayarajh, W Xu, N Muennighoff, D Jurafsky, D Kiela",
+   "venue": "URL https://arxiv. org/abs/2402.01306 14",
+   "year": "2023"
+  },
+  {
+   "title": "Regularization and search for minimum error rate training",
+   "authors": "D Cer, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Third Workshop on Statistical Machine Translation, 26-34",
+   "year": "2008"
+  },
+  {
+   "title": "An information-theoretic explanation of adjective ordering preferences",
+   "authors": "M Hahn, J Degen, N Goodman, D Jurafsky, R Futrell",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Authenticity in America: Class distinctions in potato chip advertising",
+   "authors": "J Freedman, D Jurafsky",
+   "venue": "Gastronomica: The journal of food and culture 11 (4), 46-54",
+   "year": "2011"
+  },
+  {
+   "title": "Building multiple pronunciation models for novel words using exploratory computational phonology.",
+   "authors": "GN Tajchman, E Fosler, D Jurafsky",
+   "venue": "EUROSPEECH, 2247-2250",
+   "year": "1995"
+  },
+  {
+   "title": "The effect of language model probability on pronunciation reduction",
+   "authors": "D Jurafsky, A Bell, M Gregory, WD Raymond",
+   "venue": "2001 IEEE International Conference on Acoustics, Speech, and Signal …",
+   "year": "2001"
+  },
+  {
+   "title": "Automatic processing of modern standard Arabic text",
+   "authors": "M Diab, K Hacioglu, D Jurafsky",
+   "venue": "Arabic computational morphology: Knowledge-based and Empirical Methods, 159-179",
+   "year": "2007"
+  },
+  {
+   "title": "N-grams",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Speech and Language Processing, 1-28",
+   "year": "2014"
+  },
+  {
+   "title": "Detecting prominence in conversational speech: pitch accent, givenness and focus",
+   "authors": "VKR Sridhar, A Nenkova, S Narayanan, D Jurafsky",
+   "venue": "Proc. SpeechProsody 2008, 453-456",
+   "year": "2008"
+  },
+  {
+   "title": "Switchboard SWBD-DAMSL labeling project coder’s manual",
+   "authors": "D Jurafsky, E Shriberg, D Biasca",
+   "venue": "Draft 13. Technical Report 97-02",
+   "year": "1997"
+  },
+  {
+   "title": "The detection of emphatic words using acoustic and lexical features",
+   "authors": "JM Brenier, DM Cer, D Jurafsky",
+   "venue": "Proc. Interspeech 2005, 3297-3300",
+   "year": "2005"
+  },
+  {
+   "title": "Language models cannot reliably distinguish belief from knowledge and fact",
+   "authors": "M Suzgun, T Gur, F Bianchi, DE Ho, T Icard, D Jurafsky, J Zou",
+   "venue": "Nature Machine Intelligence 7 (11), 1780-1790",
+   "year": "2025"
+  },
+  {
+   "title": "Follow the wisdom of the crowd: Effective text generation via minimum Bayes risk decoding",
+   "authors": "M Suzgun, L Melas-Kyriazi, D Jurafsky",
+   "venue": "Findings of the association for computational linguistics: ACL 2023, 4265-4293",
+   "year": "2023"
+  },
+  {
+   "title": "Breaking out of local optima with count transforms and model recombination: A study in grammar induction",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky",
+   "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Modelling prominence and emphasis improves unit-selection synthesis",
+   "authors": "V Strom, A Nenkova, R Clark, Y Vazquez-Alvarez, J Brenier, S King, ...",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "From tokens to thoughts: How LLMs and humans trade compression for meaning",
+   "authors": "C Shani, L Soffer, D Jurafsky, Y LeCun, R Shwartz-Ziv",
+   "venue": "International Conference on Learning Representations 2026, 83019-83055",
+   "year": "2026"
+  },
+  {
+   "title": "Verb subcategorization frequency differences between business-news and balanced corpora: The role of verb sense",
+   "authors": "D Roland, D Jurafsky, L Menn, S Gahl, E Elder, C Riddoch",
+   "venue": "The Workshop on Comparing Corpora, 28-34",
+   "year": "2000"
+  },
+  {
+   "title": "A scaffolding approach to coreference resolution integrating statistical and rule-based models",
+   "authors": "H Lee, M Surdeanu, D Jurafsky",
+   "venue": "Natural Language Engineering 23 (5), 733-762",
+   "year": "2017"
+  },
+  {
+   "title": "Linguistic Markers of Status in Food Culture: Bourdieu's Distinction in a Menu Corpus.",
+   "authors": "D Jurafsky, V Chahuneau, BR Routledge, NA Smith",
+   "venue": "Journal of Cultural Analytics",
+   "year": "2016"
+  },
+  {
+   "title": "A Database of Narrative Schemas.",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "LREC",
+   "year": "2010"
+  },
+  {
+   "title": "Speech and language processing (prentice hall series in artificial intelligence)",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Speech and Language Processing (2nd Edition)(Prentice Hall Series in …",
+   "year": "2008"
+  },
+  {
+   "title": "Using query patterns to learn the duration of events",
+   "authors": "A Gusev, N Chambers, DR Khilnani, P Khaitan, S Bethard, D Jurafsky",
+   "venue": "Proceedings of the Ninth International Conference on Computational Semantics …",
+   "year": "2011"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Escalated police stops of Black men are linguistically and psychologically distinct in their earliest moments",
+   "authors": "EH Rho, M Harrington, Y Zhong, R Pryzant, NP Camp, D Jurafsky, ...",
+   "venue": "Proceedings of the National Academy of Sciences 120 (23), e2216162120",
+   "year": "2023"
+  },
+  {
+   "title": "A computational analysis of poetic style: Imagism and its influence on modern professional and amateur poetry",
+   "authors": "JT Kao, D Jurafsky",
+   "venue": "Linguistic Issues in Language Technology 12",
+   "year": "2015"
+  },
+  {
+   "title": "Extracting opinion propositions and opinion holders using syntactic and lexical cues",
+   "authors": "S Bethard, H Yu, A Thornton, V Hatzivassiloglou, D Jurafsky",
+   "venue": "Computing attitude and affect in text: Theory and applications, 125-141",
+   "year": "2006"
+  },
+  {
+   "title": "Speech and language processing. 3rd edn. draft",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Pearson",
+   "year": "2023"
+  },
+  {
+   "title": "A suite of mobile conversational agents for daily stress management (Popbots): mixed methods exploratory study",
+   "authors": "ML Mauriello, N Tantivasadakarn, MA Mora-Mendoza, ET Lincoln, G Hon, ...",
+   "venue": "JMIR formative research 5 (9), e25294",
+   "year": "2021"
+  },
+  {
+   "title": "Association for Computational Linguistics: Stroudsburg",
+   "authors": "D Jurafsky, J Chai, N Schluter, J Tetreault",
+   "venue": "PA, USA, 7871-7880",
+   "year": "2020"
+  },
+  {
+   "title": "Implicatures and nested beliefs in approximate Decentralized-POMDPs",
+   "authors": "A Vogel, C Potts, D Jurafsky",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Profiting from mark-up: Hyper-text annotations for guided parsing",
+   "authors": "VI Spitkovsky, D Jurafsky, H Alshawi",
+   "venue": "Proceedings of the 48th annual meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Resolving “you” in multi-party dialog",
+   "authors": "S Gupta, J Niekrasz, M Purver, D Jurafsky",
+   "venue": "Proceedings of the 8th SIGdial Workshop on Discourse and Dialogue, 227-230",
+   "year": "2007"
+  },
+  {
+   "title": "An American national corpus: a proposal.",
+   "authors": "CJ Fillmore, N Ide, D Jurafsky, C Macleod",
+   "venue": "LREC, 965-970",
+   "year": "1998"
+  },
+  {
+   "title": "Injecting structural hints: Using language models to study inductive biases in language learning",
+   "authors": "I Papadimitriou, D Jurafsky",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 8402-8413",
+   "year": "2023"
+  },
+  {
+   "title": "Event extraction using distant supervision",
+   "authors": "K Reschke, M Jankowiak, M Surdeanu, CD Manning, D Jurafsky",
+   "venue": "Language Resources and Evaluation Conference (LREC)",
+   "year": "2014"
+  },
+  {
+   "title": "Automatic induction of finite state transducers for simple phonological rules",
+   "authors": "D Gildea, D Jurafsky",
+   "venue": "33rd Annual Meeting of the Association for Computational Linguistics, 9-15",
+   "year": "1995"
+  },
+  {
+   "title": "Generating recommendation dialogs by extracting information from user reviews",
+   "authors": "K Reschke, A Vogel, D Jurafsky",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Rel-ai: An interaction-centered approach to measuring human-lm reliance",
+   "authors": "K Zhou, JD Hwang, X Ren, N Dziri, D Jurafsky, M Sap",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Gender differences in patient perceptions of physicians' communal traits and the impact on physician evaluations",
+   "authors": "H Chen, E Pierson, S Schmer-Galunder, J Altamirano, D Jurafsky, ...",
+   "venue": "Journal of Women's Health 30 (4), 551-556",
+   "year": "2021"
+  },
+  {
+   "title": "Parsing arguments of nominalizations in English and Chinese",
+   "authors": "S Pradhan, H Sun, W Ward, JH Martin, D Jurafsky",
+   "venue": "Proceedings of HLT-NAACL 2004: Short Papers, 141-144",
+   "year": "2004"
+  },
+  {
+   "title": "Labeling messages as AI-generated does not reduce their persuasive effects",
+   "authors": "IO Gallegos, C Shani, W Shi, F Bianchi, I Gainsburg, D Jurafsky, R Willer",
+   "venue": "PNAS nexus 5 (2), pgag008",
+   "year": "2026"
+  },
+  {
+   "title": "Coding inequity: assessing GPT-4’s potential for perpetuating racial and gender biases in healthcare",
+   "authors": "T Zack, E Lehman, M Suzgun, JA Rodriguez, LA Celi, J Gichoya, ...",
+   "venue": "MedRxiv, 2023.07. 13.23292577",
+   "year": "2023"
+  },
+  {
+   "title": "Learning multi-faceted representations of individuals from heterogeneous evidence using neural networks",
+   "authors": "J Li, A Ritter, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1510.05198",
+   "year": "2015"
+  },
+  {
+   "title": "Multilingual BERT has an accent: Evaluating English influences on fluency in multilingual models",
+   "authors": "I Papadimitriou, K Lopez, D Jurafsky",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 1194-1200",
+   "year": "2023"
+  },
+  {
+   "title": "Recursive routing networks: Learning to compose modules for language understanding",
+   "authors": "I Cases, C Rosenbaum, M Riemer, A Geiger, T Klinger, A Tamkin, O Li, ...",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Disambiguating “DE” for Chinese-English machine translation",
+   "authors": "PC Chang, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Fourth Workshop on Statistical Machine Translation, 215-223",
+   "year": "2009"
+  },
+  {
+   "title": "The authenticity gap in human evaluation",
+   "authors": "K Ethayarajh, D Jurafsky",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Pitch accent prediction: Effects of genre and speaker",
+   "authors": "J Yuan, JM Brenier, D Jurafsky",
+   "venue": "Proc. Interspeech 2005, 1409-1412",
+   "year": "2005"
+  },
+  {
+   "title": "Writer profiling without the writer’s text",
+   "authors": "D Jurgens, Y Tsvetkov, D Jurafsky",
+   "venue": "International Conference on Social Informatics, 537-558",
+   "year": "2017"
+  },
+  {
+   "title": "Which words are hard to recognize? Prosodic, lexical, and disfluency factors that increase ASR error rates",
+   "authors": "S Goldwater, D Jurafsky, CD Manning",
+   "venue": "Proceedings of ACL-08: HLT, 380-388",
+   "year": "2008"
+  },
+  {
+   "title": "Forms of English function words–Effects of disfluencies, turn position, age and sex, and predictability",
+   "authors": "A Bell, D Jurafsky, E Fosler-Lussier, C Girand, D Gildea",
+   "venue": "Proceedings of ICPHS 99, 395-398",
+   "year": "1999"
+  },
+  {
+   "title": "Advancing science-and evidence-based AI policy",
+   "authors": "R Bommasani, S Arora, J Chayes, Y Choi, MF Cuéllar, L Fei-Fei, DE Ho, ...",
+   "venue": "Science 389 (6759), 459-461",
+   "year": "2025"
+  },
+  {
+   "title": "Lateen EM: Unsupervised training with multiple objectives, applied to dependency grammar induction",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky",
+   "venue": "Proceedings of the 2011 Conference on Empirical Methods in Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Improving the use of pseudo-words for evaluating selectional preferences",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Textual entailment features for machine translation evaluation",
+   "authors": "S Padó, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Fourth Workshop on Statistical Machine Translation, 37-41",
+   "year": "2009"
+  },
+  {
+   "title": "自然语言处理综论",
+   "authors": "D Jurafsky, JH Martin, 冯志伟, 孙乐",
+   "venue": "北京: 电子工业出版社 403, 406",
+   "year": "2005"
+  },
+  {
+   "title": "Ml-superb 2.0: Benchmarking multilingual speech models across modeling constraints, languages, and datasets",
+   "authors": "J Shi, SH Wang, W Chen, M Bartelds, VB Kumar, J Tian, X Chang, ...",
+   "venue": "arXiv preprint arXiv:2406.08641",
+   "year": "2024"
+  },
+  {
+   "title": "Ecosystem-level analysis of deployed machine learning reveals homogeneous outcomes",
+   "authors": "C Toups, R Bommasani, K Creel, S Bana, D Jurafsky, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 36, 51178-51201",
+   "year": "2023"
+  },
+  {
+   "title": "Focus on what matters: Applying discourse coherence theory to cross document coreference",
+   "authors": "W Held, D Iter, D Jurafsky",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "The connection between smiling and GOAT fronting: Embodied affect in sociophonetic variation.",
+   "authors": "R Podesva, P Callier, R Voigt, D Jurafsky",
+   "venue": "ICPhS",
+   "year": "2015"
+  },
+  {
+   "title": "Speaker movement correlates with prosodic indicators of engagement",
+   "authors": "R Voigt, RJ Podesva, D Jurafsky",
+   "venue": "Proc. SpeechProsody 2014, 70-74",
+   "year": "2014"
+  },
+  {
+   "title": "Detection of questions in Chinese conversational speech",
+   "authors": "J Yuan, D Jurafsky",
+   "venue": "IEEE Workshop on Automatic Speech Recognition and Understanding, 2005., 47-52",
+   "year": "2005"
+  },
+  {
+   "title": "Modular Domain Adaptation",
+   "authors": "J Chen, D Card, D Jurafsky",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 3633-3655",
+   "year": "2022"
+  },
+  {
+   "title": "A layer-wise analysis of Mandarin and English suprasegmentals in SSL speech models",
+   "authors": "A De La Fuente, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2408.13678",
+   "year": "2024"
+  },
+  {
+   "title": "Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens",
+   "authors": "N San, G Paraskevopoulos, A Arora, X He, P Kaur, O Adams, D Jurafsky",
+   "venue": "Proceedings of the 6th workshop on research in computational linguistic …",
+   "year": "2024"
+  },
+  {
+   "title": "Leveraging pre-trained representations to improve access to untranscribed speech from endangered languages",
+   "authors": "N San, M Bartelds, M Browne, L Clifford, F Gibson, J Mansfield, D Nash, ...",
+   "venue": "2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU …",
+   "year": "2021"
+  },
+  {
+   "title": "People who share encounters with racism are silenced online by humans and machines, but a guideline-reframing intervention holds promise",
+   "authors": "C Lee, K Gligorić, PR Kalluri, M Harrington, E Durmus, KL Sanchez, ...",
+   "venue": "Proceedings of the National Academy of Sciences 121 (38), e2322764121",
+   "year": "2024"
+  },
+  {
+   "title": "Sensitivity as a complexity measure for sequence classification tasks",
+   "authors": "M Hahn, D Jurafsky, R Futrell",
+   "venue": "Transactions of the Association for Computational Linguistics 9, 891-908",
+   "year": "2021"
+  },
+  {
+   "title": "Dialogism in the novel: A computational model of the dialogic nature of narration and quotations",
+   "authors": "G Muzny, M Algee-Hewitt, D Jurafsky",
+   "venue": "Digital Scholarship in the Humanities 32 (suppl_2), ii31-ii52",
+   "year": "2017"
+  },
+  {
+   "title": "Distinguishing past, on-going, and future events: The eventstatus corpus",
+   "authors": "R Huang, I Cases, D Jurafsky, C Condoravdi, E Riloff",
+   "venue": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "Language in popular American culture constructs the meaning of healthy and unhealthy eating: Narratives of craveability, excitement, and social connection in movies, television …",
+   "authors": "BP Turnwald, MA Perry, D Jurgens, V Prabhakaran, D Jurafsky, ...",
+   "venue": "Appetite 172, 105949",
+   "year": "2022"
+  },
+  {
+   "title": "From insanely jealous to insanely delicious: Computational models for the semantic bleaching of English intensifiers",
+   "authors": "Y Luo, D Jurafsky, B Levin",
+   "venue": "Proceedings of the 1st international workshop on computational approaches to …",
+   "year": "2019"
+  },
+  {
+   "title": "h4rm3l: A language for composable jailbreak attack synthesis",
+   "authors": "MKB Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, F Bianchi, ...",
+   "venue": "International Conference on Learning Representations 2025, 57253-57286",
+   "year": "2025"
+  },
+  {
+   "title": "Using large language models to promote health equity",
+   "authors": "E Pierson, D Shanmugam, R Movva, J Kleinberg, M Agrawal, M Dredze, ...",
+   "venue": "Nejm Ai 2 (2), AIp2400889",
+   "year": "2025"
+  },
+  {
+   "title": "Leveraging body-worn camera footage to assess the effects of training on officer communication during traffic stops",
+   "authors": "NP Camp, R Voigt, MYG Hamedani, D Jurafsky, JL Eberhardt",
+   "venue": "PNAS nexus 3 (9), pgae359",
+   "year": "2024"
+  },
+  {
+   "title": "Systematicity in the semantics of noun compounds: The role of artifacts vs. natural kinds",
+   "authors": "B Levin, L Glass, D Jurafsky",
+   "venue": "Linguistics",
+   "year": "2019"
+  },
+  {
+   "title": "Three dependency-and-boundary models for grammar induction",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Regularization, adaptation, and non-independent features improve hidden conditional random fields for phone classification",
+   "authors": "YH Sung, C Boulis, C Manning, D Jurafsky",
+   "venue": "2007 IEEE Workshop on Automatic Speech Recognition & Understanding (ASRU …",
+   "year": "2007"
+  },
+  {
+   "title": "Have we met? MDP based speaker ID for robot dialogue",
+   "authors": "F Krsmanovic, C Spencer, D Jurafsky, AY Ng",
+   "venue": "Proc. Interspeech 2006, paper 1193-Mon2FoP. 4",
+   "year": "2006"
+  },
+  {
+   "title": "Language-independent induction of part of speech class labels using only language universals",
+   "authors": "P Schone, D Jurafsky",
+   "venue": "Machine Learning: Beyond Supervision",
+   "year": "2001"
+  },
+  {
+   "title": "Frequency-based distortions in contextualized word embeddings",
+   "authors": "K Zhou, K Ethayarajh, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2104.08465",
+   "year": "2021"
+  },
+  {
+   "title": "Textual analogy parsing: What’s shared and what’s compared among analogous facts",
+   "authors": "M Lamm, A Chaganty, CD Manning, D Jurafsky, P Liang",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Speech and language processing: Pearson new international edition",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Pearson",
+   "year": "2013"
+  },
+  {
+   "title": "Same referent, different words: Unsupervised mining of opaque coreferent mentions",
+   "authors": "M Recasens, M Can, D Jurafsky",
+   "venue": "Proceedings of the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Stanford-UBC at TAC-KBP.",
+   "authors": "E Agirre, AX Chang, D Jurafsky, CD Manning, VI Spitkovsky, E Yeh",
+   "venue": "TAC",
+   "year": "2009"
+  },
+  {
+   "title": "Disambiguating between generic and referential “you” in dialog",
+   "authors": "S Gupta, M Purver, D Jurafsky",
+   "venue": "Proceedings of the 45th Annual Meeting of the Association for Computational …",
+   "year": "2007"
+  },
+  {
+   "title": "Richer countries and richer representations",
+   "authors": "K Zhou, K Ethayarajh, D Jurafsky",
+   "venue": "Findings of the association for computational linguistics: ACL 2022, 2074-2085",
+   "year": "2022"
+  },
+  {
+   "title": "The emergence of the shape bias results from communicative efficiency",
+   "authors": "E Portelance, MC Frank, D Jurafsky, A Sordoni, R Laroche",
+   "venue": "Proceedings of the 25th Conference on Computational Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "AI for sustainable future foods",
+   "authors": "B Datta, MJ Buehler, Y Chow, K Gligoric, D Jurafsky, DL Kaplan, ...",
+   "venue": "arXiv e-prints, arXiv: 2509.21556",
+   "year": "2025"
+  },
+  {
+   "title": "NLP systems that can’t tell use from mention censor counterspeech, but teaching the distinction helps",
+   "authors": "K Gligorić, M Cheng, L Zheng, E Durmus, D Jurafsky",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Data distillation for controlling specificity in dialogue generation",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1702.06703",
+   "year": "2017"
+  },
+  {
+   "title": "Who leads whom: Topical lead-lag analysis across corpora",
+   "authors": "X Shi, R Nallapati, J Leskovec, D McFarland, D Jurafsky",
+   "venue": "NIPS workshop",
+   "year": "2010"
+  },
+  {
+   "title": "h4rm3l: A dynamic benchmark of composable jailbreak attacks for llm safety assessment",
+   "authors": "MKB Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, F Bianchi, ...",
+   "venue": "arXiv preprint arXiv:2408.04811",
+   "year": "2024"
+  },
+  {
+   "title": "Mistral–a journey towards reproducible language model training",
+   "authors": "S Karamcheti, L Orr, J Bolton, T Zhang, K Goel, A Narayan, R Bommasani, ...",
+   "venue": "URL: https://github. com/stanford-crfm/mistral",
+   "year": "2021"
+  },
+  {
+   "title": "Cognition and Function in Language.",
+   "authors": "BA Fox, D Jurafsky, LA Michaelis",
+   "venue": "Cambridge University Press, 110 Midland Ave., Port Chester, NY 10573-4390 …",
+   "year": "1999"
+  },
+  {
+   "title": "Mini but mighty: Efficient multilingual pretraining with linguistically-informed data selection",
+   "authors": "T Ògúnrẹ̀mí, D Jurafsky, CD Manning",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 1251-1266",
+   "year": "2023"
+  },
+  {
+   "title": "Detecting institutional dialog acts in police traffic stops",
+   "authors": "V Prabhakaran, C Griffiths, H Su, P Verma, N Morgan, JL Eberhardt, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 467-481",
+   "year": "2018"
+  },
+  {
+   "title": "A study of academic collaborations in computational linguistics using a latent mixture of authors model",
+   "authors": "N Johri, D Ramage, D McFarland, D Jurafsky",
+   "venue": "Proceedings of the 5th ACL-HLT workshop on language technology for cultural …",
+   "year": "2011"
+  },
+  {
+   "title": "Humans overrely on overconfident language models, across languages",
+   "authors": "N Rathi, D Jurafsky, K Zhou",
+   "venue": "arXiv preprint arXiv:2507.06306",
+   "year": "2025"
+  },
+  {
+   "title": "Between-and Within-Speaker Effects of Bilingualism on F0 Variation",
+   "authors": "R Voigt, D Jurafsky, M Sumner",
+   "venue": "Interspeech 2016, 1122-1126",
+   "year": "2016"
+  },
+  {
+   "title": "Learning to reason pragmatically with cognitive limitations",
+   "authors": "A Vogel, A Gomez Emilsson, MC Frank, D Jurafsky, C Potts",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 36 (36)",
+   "year": "2014"
+  },
+  {
+   "title": "Tradition and modernity in 20th century Chinese poetry",
+   "authors": "R Voigt, D Jurafsky",
+   "venue": "Proceedings of the Workshop on Computational Linguistics for Literature, 17-22",
+   "year": "2013"
+  },
+  {
+   "title": "A cognitive model of sentence interpretation: The construction grammar approach",
+   "authors": "D Jurafsky",
+   "venue": "International Computer Science Institute",
+   "year": "1993"
+  },
+  {
+   "title": "Belief in the machine: Investigating epistemological blind spots of language models",
+   "authors": "M Suzgun, T Gur, F Bianchi, DE Ho, T Icard, D Jurafsky, J Zou",
+   "venue": "arXiv preprint arXiv:2410.21195",
+   "year": "2024"
+  },
+  {
+   "title": "The effect of lexical frequency on tone production",
+   "authors": "Y Zhao, D Jurafsky",
+   "venue": "Proceedings of the 16th International Congress of Phonetic Sciences, 477-480",
+   "year": "2007"
+  },
+  {
+   "title": "The (non) utility of linguistic features for predicting prominence in spontaneous speech",
+   "authors": "JM Brenier, A Nenkova, A Kothari, L Whitton, D Beaver, D Jurafsky",
+   "venue": "2006 IEEE Spoken Language Technology Workshop, 54-57",
+   "year": "2006"
+  },
+  {
+   "title": "Issues in recognition of Spanish-accented spontaneous English",
+   "authors": "A Ikeno, B Pellom, D Cer, A Thornton, JM Brenier, D Jurafsky, W Ward, ...",
+   "venue": "Proc. SSPR 2003, paper MAP7",
+   "year": "2003"
+  },
+  {
+   "title": "Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching",
+   "authors": "T Ògúnrẹ̀mí, CD Manning, D Jurafsky",
+   "venue": "Proceedings of the 6th Workshop on Computational Approaches to Linguistic …",
+   "year": "2023"
+  },
+  {
+   "title": "Inferring user preferences by probabilistic logical reasoning over social networks",
+   "authors": "J Li, A Ritter, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1411.2679",
+   "year": "2014"
+  },
+  {
+   "title": "Diversifying history: A large-scale analysis of changes in researcher demographics and scholarly agendas",
+   "authors": "S Risi, MW Nielsen, E Kerr, E Brady, L Kim, DA McFarland, D Jurafsky, ...",
+   "venue": "PLoS One 17 (1), e0262027",
+   "year": "2022"
+  },
+  {
+   "title": "Maximum conditional likelihood linear regression and maximum a posteriori for hidden conditional random fields speaker adaptation.",
+   "authors": "YH Sung, C Boulis, D Jurafsky",
+   "venue": "ICASSP, 4293-4296",
+   "year": "2008"
+  },
+  {
+   "title": "Automatic detection of contrastive elements in spontaneous speech",
+   "authors": "A Nenkova, D Jurafsky",
+   "venue": "2007 IEEE Workshop on Automatic Speech Recognition & Understanding (ASRU …",
+   "year": "2007"
+  },
+  {
+   "title": "Increasing deep neural network acoustic model size for large vocabulary continuous speech recognition",
+   "authors": "AL Maas, AY Hannun, CT Lengerich, P Qi, D Jurafsky, AY Ng",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Lexicon adaptation for LVCSR: Speaker idiosyncracies, non-native speakers, and pronunciation choice",
+   "authors": "W Ward, H Krech, X Yu, K Herold, G Figgs, A Ikeno, D Jurafsky, W Byrne",
+   "venue": "Proc. PMLA 2002, 83-88",
+   "year": "2002"
+  },
+  {
+   "title": "What can large language models do for sustainable food?",
+   "authors": "AT Thomas, A Yee, A Mayne, MB Mathur, D Jurafsky, K Gligorić",
+   "venue": "arXiv preprint arXiv:2503.04734",
+   "year": "2025"
+  },
+  {
+   "title": "Leveraging supplementary text data to kick-start automatic speech recognition system development with limited transcriptions",
+   "authors": "N San, M Bartelds, B Billings, E de Falco, H Feriza, J Safri, W Sahrozi, ...",
+   "venue": "Proceedings of the Sixth Workshop on the Use of Computational Methods in the …",
+   "year": "2023"
+  },
+  {
+   "title": "Cans and cants: Computational potentials for multimodality with a case study in head position",
+   "authors": "R Voigt, P Eckert, D Jurafsky, RJ Podesva",
+   "venue": "Journal of Sociolinguistics 20 (5), 677-711",
+   "year": "2016"
+  },
+  {
+   "title": "Detection of word fragments in mandarin telephone conversation",
+   "authors": "CT Chu, YH Sung, Y Zhao, D Jurafsky",
+   "venue": "Proc. Interspeech 2006, paper 1730-Thu1CaP. 9",
+   "year": "2006"
+  },
+  {
+   "title": "Othering and low status framing of immigrant cuisines in US restaurant reviews and large language models",
+   "authors": "Y Luo, K Gligorić, D Jurafsky",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 18 …",
+   "year": "2024"
+  },
+  {
+   "title": "In-context learning boosts speech recognition via human-like adaptation to speakers and language varieties",
+   "authors": "N Roll, C Graham, Y Tatsumi, KT Nguyen, M Sumner, D Jurafsky",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "HumT DumT: Measuring and controlling human-like language in LLMs",
+   "authors": "M Cheng, S Yu, D Jurafsky",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Bayesian scaling laws for in-context learning",
+   "authors": "A Arora, D Jurafsky, C Potts, ND Goodman",
+   "venue": "arXiv preprint arXiv:2410.16531",
+   "year": "2024"
+  },
+  {
+   "title": "string2string: A modern python library for string-to-string algorithms",
+   "authors": "M Suzgun, SM Shieber, D Jurafsky",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "An on-line model of human sentence interpretation",
+   "authors": "D Jurafsky",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 13",
+   "year": "1991"
+  },
+  {
+   "title": "Neural text style transfer via denoising and reranking",
+   "authors": "J Lee, Z Xie, C Wang, M Drach, D Jurafsky, AY Ng",
+   "venue": "Proceedings of the Workshop on Methods for Optimizing and Evaluating Neural …",
+   "year": "2019"
+  },
+  {
+   "title": "Eye Spy: Improving Vision through Dialog.",
+   "authors": "A Vogel, K Raghunathan, D Jurafsky",
+   "venue": "AAAI Fall Symposium: Dialog with Robots",
+   "year": "2010"
+  },
+  {
+   "title": "Learning to merge word senses",
+   "authors": "RSS Prakash, D Jurafsky, AY Ng",
+   "venue": "Computer Science Department, Stanford University",
+   "year": "2007"
+  },
+  {
+   "title": "Building a foundation system for producing short answers to factual questions",
+   "authors": "SS Pradhan, G Illouz, SJ Blair-Goldensohn, AH Schlaikjer, V Krugler, ...",
+   "venue": "Eleventh Text Retrieval Conference (TREC-11). Washington, DC",
+   "year": "2002"
+  },
+  {
+   "title": "Learning phonological rule probabilities from speech corpora with exploratory computational phonology",
+   "authors": "G Tajchman, D Jurafsky, E Fosler-Lussier",
+   "venue": "33rd annual meeting of the Association for Computational Linguistics, 1-8",
+   "year": "1995"
+  },
+  {
+   "title": "A path for science-and evidence-based AI policy",
+   "authors": "R Bommasani, S Arora, Y Choi, L Fei-Fei, DE Ho, D Jurafsky, S Koyejo, ...",
+   "venue": "https://understanding-ai-safety. org",
+   "year": "2024"
+  },
+  {
+   "title": "Vector semantics and embeddings",
+   "authors": "JH Martin, D Jurafsky",
+   "venue": "Speech Lang. Process, 1-31",
+   "year": "2019"
+  },
+  {
+   "title": "Form variation of English function words in conversation",
+   "authors": "A Bell, D Jurafsky, E Fosler-Lussier, C Girand, M Gregory, D Gildea",
+   "venue": "Submitted manuscript",
+   "year": "2001"
+  },
+  {
+   "title": "False Friends Are Not Foes: Investigating Vocabulary Overlap in Multilingual Language Models.",
+   "authors": "J Kallini, D Jurafsky, C Potts, M Bartelds",
+   "venue": "EMNLP (Findings), 21138-21154",
+   "year": "2025"
+  },
+  {
+   "title": "Developing speech processing pipelines for police accountability",
+   "authors": "A Field, P Verma, N San, JL Eberhardt, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2306.06086",
+   "year": "2023"
+  },
+  {
+   "title": "Automated speech tools for helping communities process restricted-access corpora for language revival efforts",
+   "authors": "N San, M Bartelds, T Ogunremi, A Mount, R Thompson, M Higgins, ...",
+   "venue": "Proceedings of the Fifth Workshop on the Use of Computational Methods in the …",
+   "year": "2022"
+  },
+  {
+   "title": "The emotional toll of inflammatory bowel disease: using machine learning to analyze online community forum discourse",
+   "authors": "R Lerrigo, JTR Coffey, JL Kravitz, P Jadhav, A Nikfarjam, NH Shah, ...",
+   "venue": "Crohn's & Colitis 360 1 (2), otz011",
+   "year": "2019"
+  },
+  {
+   "title": "Speaker-independent detection of child-directed speech",
+   "authors": "S Schuster, S Pancoast, M Ganjoo, MC Frank, D Jurafsky",
+   "venue": "2014 IEEE Spoken Language Technology Workshop (SLT), 366-371",
+   "year": "2014"
+  },
+  {
+   "title": "Charles J. Fillmore",
+   "authors": "D Jurafsky",
+   "venue": "Computational Linguistics 40 (3), 725-731",
+   "year": "2014"
+  },
+  {
+   "title": "Limitations of MLLR adaptation with Spanish-accented English: an error analysis.",
+   "authors": "C Clarke, D Jurafsky",
+   "venue": "INTERSPEECH",
+   "year": "2006"
+  },
+  {
+   "title": "Dialectal Chinese speech recognition",
+   "authors": "R Sproat, L Gu, J Li, Y Zheng, Y Su, H Zhou, P Bramsen, MITD Kirsch, ...",
+   "venue": "CLSP Summer Workshop",
+   "year": "2004"
+  },
+  {
+   "title": "Pretrain on just structure: Understanding linguistic inductive biases using transfer learning",
+   "authors": "I Papadimitriou, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2304.13060 2 (4)",
+   "year": "2023"
+  },
+  {
+   "title": "Qsrl: A semantic role-labeling schema for quantitative facts",
+   "authors": "M Lamm, A Chaganty, D Jurafsky, CD Manning, P Liang",
+   "venue": "Proceedings of the 1st Financial Narrative Processing Workshop",
+   "year": "2018"
+  },
+  {
+   "title": "Naïve bayes classifier approach to Word sense disambiguation",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Computational Lexical Semantics",
+   "year": "2009"
+  },
+  {
+   "title": "The nature of theme and rheme accents",
+   "authors": "S Calhoun, S Calhoun, S Calhoun, M Nissim, M Steedman, J Brenier, ...",
+   "venue": "Proceedings of One--Day Meeting for Young Speech Researchers",
+   "year": "2003"
+  },
+  {
+   "title": "The effect of rhythm on structural disambiguation in Chinese",
+   "authors": "H Sun, D Jurafsky",
+   "venue": "Proceedings of the second SIGHAN workshop on Chinese language processing, 39-46",
+   "year": "2003"
+  },
+  {
+   "title": "Grounding or guesswork? large language models are presumptive grounders",
+   "authors": "O Shaikh, K Gligoric, A Khetan, M Gerstgrasser, D Yang, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2311.09144",
+   "year": "2023"
+  },
+  {
+   "title": "Positive diversity tuning for machine translation system combination",
+   "authors": "D Cer, CD Manning, D Jurafsky",
+   "venue": "Proceedings of the Eighth Workshop on Statistical Machine Translation, 320-328",
+   "year": "2013"
+  },
+  {
+   "title": "Bootstrapping dependency grammar inducers from incomplete sentence fragments via austere models",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky",
+   "venue": "International Conference on Grammatical Inference, 189-194",
+   "year": "2012"
+  },
+  {
+   "title": "The stanford natural language processing group",
+   "authors": "C Manning, D Jurafsky, P Liang",
+   "venue": "The Stanford Parser: A statistical parser, http://nlp. stanford. edu …",
+   "year": "2008"
+  },
+  {
+   "title": "Common ground in production: Effects of mutual knowledge on word duration",
+   "authors": "ML Gregory, AF Healy, D Jurafsky",
+   "venue": "Unpublished manuscript",
+   "year": "2002"
+  },
+  {
+   "title": "Algorithmic monocultures in hiring",
+   "authors": "R Bommasani, SH Bana, KA Creel, D Jurafsky, P Liang",
+   "venue": "The 2026 ACM Conference on Fairness, Accountability, and Transparency, 6351-6382",
+   "year": "2026"
+  },
+  {
+   "title": "Mechanistic evaluation of transformers and state space models",
+   "authors": "A Arora, N Rathi, NR Selvam, R Csordás, D Jurafsky, C Potts",
+   "venue": "arXiv preprint arXiv:2505.15105",
+   "year": "2025"
+  },
+  {
+   "title": "Five-star prices, appealing healthy item descriptions? Expensive restaurants’ descriptive menu language.",
+   "authors": "BP Turnwald, KG Anderson, D Jurafsky, AJ Crum",
+   "venue": "Health Psychology 39 (11), 975",
+   "year": "2020"
+  },
+  {
+   "title": "Querying complex networks in vector space",
+   "authors": "WL Hamilton, P Bajaj, M Zitnik, D Jurafsky, J Leskovec",
+   "venue": "arXiv preprint arXiv:1806.01445",
+   "year": "2018"
+  },
+  {
+   "title": "Integrating experimental models of syntax, phonology, and accent/dialect in a speech recognizer",
+   "authors": "A Stolcke",
+   "venue": "AAAI-94 Workshop on Integration of Natural Language and Speech Processing",
+   "year": "1994"
+  },
+  {
+   "title": "Word senses and WordNet",
+   "authors": "D Jurafsky, JH Martin",
+   "venue": "Speech and Language Processing 10",
+   "year": "2021"
+  },
+  {
+   "title": "Dispatched routing networks",
+   "authors": "C Rosenbaum, I Cases, M Riemer, A Geiger, L Karttunen, JD Greene, ...",
+   "venue": "arXiv preprint arXiv:1907.04434",
+   "year": "2019"
+  },
+  {
+   "title": "Leadlag lda: Estimating topic specific leads and lags of information outlets",
+   "authors": "R Nallapati, X Shi, D McFarland, J Leskovec, D Jurafsky",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 5 …",
+   "year": "2011"
+  },
+  {
+   "title": "Phone information content influences phone duration",
+   "authors": "U Cohen-Priva, D Jurafsky",
+   "venue": "Conference on prosody and language processing",
+   "year": "2008"
+  },
+  {
+   "title": "Beyond canonical form: Verb-frame frequency affects verb production and comprehension",
+   "authors": "L Menn, S Gahl, AL Holland, G Ramsberger, DS Jurafsky",
+   "venue": "Brain and language 87 (1), 23-24",
+   "year": "2003"
+  },
+  {
+   "title": "Using semantic representations in question answering",
+   "authors": "SS Pradhan, V Krugler, W Ward, D Jurafsky, JH Martin",
+   "venue": "Proceedings of the International Conference on Natural Language Processing …",
+   "year": "2002"
+  },
+  {
+   "title": "Representing and integrating linguistic knowledge",
+   "authors": "D Jurafsky",
+   "venue": "COLING 1990 Volume 2: Papers presented to the 13th International Conference …",
+   "year": "1990"
+  },
+  {
+   "title": "Accommodation and epistemic vigilance: A pragmatic account of why LLMs fail to challenge harmful beliefs",
+   "authors": "M Cheng, RD Hawkins, D Jurafsky",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Learning the meanings of function words from grounded language using a visual question answering model",
+   "authors": "E Portelance, MC Frank, D Jurafsky",
+   "venue": "Cognitive Science 48 (5), e13448",
+   "year": "2024"
+  },
+  {
+   "title": "Capitalization cues improve dependency grammar induction",
+   "authors": "VI Spitkovsky, H Alshawi, D Jurafsky",
+   "venue": "Proceedings of the NAACL-HLT Workshop on the Induction of Linguistic …",
+   "year": "2012"
+  },
+  {
+   "title": "Frequency and predictability effects on the duration of content words in conversation",
+   "authors": "M Gregory, A Bell, D Jurafsky, W Raymond",
+   "venue": "The Journal of the Acoustical Society of America 110 (5_Supplement), 2738-2738",
+   "year": "2001"
+  },
+  {
+   "title": "The Roots of Performance Disparity in Multilingual Language Models: Intrinsic Modeling Difficulty or Design Choices?",
+   "authors": "C Shani, Y Reif, N Roll, D Jurafsky, E Shutova",
+   "venue": "arXiv preprint arXiv:2601.07220",
+   "year": "2026"
+  },
+  {
+   "title": "The ML-SUPERB 2.0 challenge: Towards inclusive ASR benchmarking for all language varieties",
+   "authors": "W Chen, C Meng, J Shi, M Bartelds, SH Wang, HH Wang, R Mosquera, ...",
+   "venue": "arXiv preprint arXiv:2509.07139",
+   "year": "2025"
+  },
+  {
+   "title": "Demographic stereotypes in text-to-image generation",
+   "authors": "F Bianchi, P Kalluri, E Durmus, F Ladhak, M Cheng, D Nozza, ...",
+   "venue": "Stanford Institute for Human-Centered Artificial Intelligence",
+   "year": "2023"
+  },
+  {
+   "title": "How human is human evaluation? Improving the gold standard for NLG with utility theory",
+   "authors": "K Ethayarajh, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2205.11930",
+   "year": "2022"
+  },
+  {
+   "title": "Leveraging neural representations for facilitating access to untranscribed speech from endangered languages",
+   "authors": "N San, M Bartelds, M Browne, L Clifford, F Gibson, J Mansfield, D Nash, ...",
+   "venue": "Proceedings of the Automatic Speech Recognition and Understanding Workshop …",
+   "year": "2021"
+  },
+  {
+   "title": "January 5-10). BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension. Proceedings of the 58th Annual Meeting of the …",
+   "authors": "D Jurafsky, J Chai, N Schluter, J Tetreault",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Neural text summarization",
+   "authors": "U Khandelwal, P Qi, D Jurafsky",
+   "venue": "Stanford University, Stanford, CA, USA 92, 4701",
+   "year": "2016"
+  },
+  {
+   "title": "Machine translation evaluation with textual entailment features",
+   "authors": "S Pado, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Fourth Workshop on Statistical Machine Translation, 37-41",
+   "year": "2009"
+  },
+  {
+   "title": "Cue coordination: An alternative to word meaning biases.",
+   "authors": "VCM Gathercole, EM Thomas, S Kim, B Fox, D Jurafsky, L Michaelis",
+   "venue": "Stanford: CSLI Publications",
+   "year": "1999"
+  },
+  {
+   "title": "Issues in relating syntax and semantics",
+   "authors": "D Jurafsky",
+   "venue": "Coling Budapest 1988 Volume 1: International Conference on Computational …",
+   "year": "1988"
+  },
+  {
+   "title": "Transcribe, translate, or transliterate: An investigation of intermediate representations in spoken language models",
+   "authors": "T Ògúnremí, CD Manning, D Jurafsky, K Livescu",
+   "venue": "2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 1-7",
+   "year": "2025"
+  },
+  {
+   "title": "Tversky neural networks: Psychologically plausible deep learning with differentiable tversky similarity",
+   "authors": "MKB Doumbouya, D Jurafsky, CD Manning",
+   "venue": "arXiv preprint arXiv:2506.11035",
+   "year": "2025"
+  },
+  {
+   "title": "Cooking Up Creativity: Enhancing LLM Creativity through Structured Recombination",
+   "authors": "M Mizrahi, C Shani, G Stanovsky, D Jurafsky, D Shahaf",
+   "venue": "arXiv preprint arXiv:2504.20643",
+   "year": "2025"
+  },
+  {
+   "title": "Rethinking word similarity: Semantic similarity through classification confusion",
+   "authors": "K Zhou, H Gao, SL Chen, D Edelstein, D Jurafsky, C Shani",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Dialectal chinese speech recognition: Final technical report",
+   "authors": "R Sproat, TF Zheng, L Gu, D Jurafsky, I Shanfran, J Li, Y Zheng, H Zhou, ...",
+   "venue": "Summer Workshop at CLSP/JHU Technical Report",
+   "year": "2004"
+  },
+  {
+   "title": "Attention to Non-Adopters",
+   "authors": "K Zhou, K Gligorić, M Cheng, MS Lam, V Raman, B Aminu, C Woo, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 1336-1366",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+   "authors": "D Jurafsky, J Chai, N Schluter, J Tetreault",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Association for Computational Linguistics: Seattle",
+   "authors": "D Jurafsky, J Chai, N Schluter, J Tetreault",
+   "venue": "WA, USA, 8440-8451",
+   "year": "2020"
+  },
+  {
+   "title": "Association for Computational Linguistics: Stroudsburg, PA, USA, 2020",
+   "authors": "D Jurafsky, J Chai, N Schluter, J Tetreault",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Coming into relations: How communication reveals and persuades relational decisions",
+   "authors": "DA McFarland, D Broska, V Prabhakaran, D Jurafsky",
+   "venue": "Social Networks 79, 57-75",
+   "year": "2024"
+  },
+  {
+   "title": "Pronunciation Modeling and Lexicon Adaptation",
+   "authors": "E Fosler-Lussier, W Byrne, D Jurafsky",
+   "venue": "Speech communication 46 (2)",
+   "year": "2005"
+  },
+  {
+   "title": "ASSERT: Automatic Statistical SEmantic Role Tagger",
+   "authors": "S Pradhan, W Ward, K Hacioglu, JH Martin, D Jurafsky",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "Evaluating Commercial AI Chatbots as News Intermediaries",
+   "authors": "M Suzgun, E Shen, F Bianchi, A Spangher, T Icard, DE Ho, D Jurafsky, ...",
+   "venue": "arXiv preprint arXiv:2605.22785",
+   "year": "2026"
+  },
+  {
+   "title": "CTC-DRO: Robust optimization for reducing language disparities in speech recognition",
+   "authors": "M Bartelds, A Nandi, MKB Doumbouya, D Jurafsky, T Hashimoto, ...",
+   "venue": "International Conference on Learning Representations 2026, 108297-108323",
+   "year": "2026"
+  },
+  {
+   "title": "Beyond Tokens: Concept-Level Training Objectives for LLMs",
+   "authors": "L Iyer, P Somani, A Guo, D Jurafsky, C Shani",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Racial Disparities in the Discretionary Context of Traffic Stops: How Organizational Practices Shape Institutional Interactions",
+   "authors": "NP Camp, V Prabhakaran, RC Hetey, B Monîn, D Jurafsky, JL Eberhardt",
+   "venue": "Journal of Social Issues 81 (3), e70017",
+   "year": "2025"
+  },
+  {
+   "title": "Constructing Datasets From Public Police Body Camera Footage",
+   "authors": "J Rosas-Smith, M Bartelds, R Huang, LP García-Perera, K Livescu, ...",
+   "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2025"
+  },
+  {
+   "title": "SumTablets: A Transliteration Dataset of Sumerian Tablets",
+   "authors": "C Simmons, RD Martinez, D Jurafsky",
+   "venue": "Proceedings of the 1st Workshop on Machine Learning for Ancient Languages …",
+   "year": "2024"
+  },
+  {
+   "title": "Foundation Models and Copyright Questions",
+   "authors": "P Henderson, X Li, D Jurafsky, T Hashimoto, MA Lemley, P Liang",
+   "venue": "Stanford University Human-Centered Artificial Intelligence, November",
+   "year": "2023"
+  },
+  {
+   "title": "Concord begets concord: A Bayesian model of nominal concord typology",
+   "authors": "K Mahowald, D Jurafsky, M Norris",
+   "venue": "Proceedings of the Linguistic Society of America 6 (1), 541-555",
+   "year": "2021"
+  },
+  {
+   "title": "Learning the Central Events and Participants in Unlabeled Text.",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "ICML",
+   "year": "2012"
+  },
+  {
+   "title": "Pale lagerthe pale lager model",
+   "authors": "J Mcauley, J Leskovec, D Jurafsky",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Combining structure and probabilities in a Bayesian model of human sentence processing",
+   "authors": "S Narayanan, D Jurafsky",
+   "venue": "CUNY Conference on Human Sentence Processing, New York",
+   "year": "2002"
+  },
+  {
+   "title": "Interactive learning tools for human language technology",
+   "authors": "R Cole, DW Massaro, D Jurafsky, LJ Barker",
+   "venue": "Proc. IDS 1999, 77-80",
+   "year": "1999"
+  },
+  {
+   "title": "Cognitive offloading and the speedup illusion in human-AI interaction",
+   "authors": "S Yu, M Cheng, A Jabbar, I Sucholutsky, KM Collins, D Jurafsky, ...",
+   "venue": "arXiv preprint arXiv:2605.23177",
+   "year": "2026"
+  },
+  {
+   "title": "The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks",
+   "authors": "S Yu, M Cheng, A Jabbar, I Sucholutsky, KM Collins, D Jurafsky, ...",
+   "venue": "arXiv preprint arXiv:2605.22687",
+   "year": "2026"
+  },
+  {
+   "title": "Verbalizing LLMs' Assumptions About the User to Calibrate Expectations and Reduce Sycophancy",
+   "authors": "M Cheng, S Yu, L Ibrahim, D Yang, D Jurafsky",
+   "venue": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human …",
+   "year": "2026"
+  },
+  {
+   "title": "Verbalizing LLMs' assumptions to explain and control sycophancy",
+   "authors": "M Cheng, I Sieh, H Zope, S Yu, L Ibrahim, A Arora, J Moore, D Ong, ...",
+   "venue": "arXiv preprint arXiv:2604.03058",
+   "year": "2026"
+  },
+  {
+   "title": "Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition",
+   "authors": "N Roll, P Bhalerao, M Bartelds, A Pawar, Y Tatsumi, T Ogunremi, C Shani, ...",
+   "venue": "arXiv preprint arXiv:2601.06972",
+   "year": "2026"
+  },
+  {
+   "title": "Soft production preferences emerge from a bottleneck on memory",
+   "authors": "N Rathi, R Futrell, D Jurafsky",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "Othering and low prestige framing of immigrant cuisines in US restaurant reviews and large language models",
+   "authors": "Y Luo, K Gligorić, D Jurafsky",
+   "venue": "arXiv preprint arXiv 2307",
+   "year": "2023"
+  },
+  {
+   "title": "The role of verb semantics in Hungarian verb-object order",
+   "authors": "D Demszky",
+   "venue": "Proceedings of the Linguistic Society of America 6 (1), 54-68",
+   "year": "2021"
+  },
+  {
+   "title": "From Languages to Information",
+   "authors": "D Jurafsky",
+   "venue": "Stanford",
+   "year": "2020"
+  },
+  {
+   "title": "Keynote 4: Dan Jurafsky Ketchup, Interdisciplinarity, and the Spread of Innovation in Speech and Language Processing",
+   "authors": "D Jurafsky",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Extracting social meaning",
+   "authors": "D Jurafsky, R Ranganath, D McFarland",
+   "venue": "Proceedings of Human Language Technologies: The 2009 Annual Conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Predicting and detecting prosodic prominence",
+   "authors": "D Jurafsky",
+   "venue": "Experimental and Theoretical Advances in Prosody",
+   "year": "2008"
+  },
+  {
+   "title": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+   "authors": "D Jurafsky, E Gaussier",
+   "venue": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language …",
+   "year": "2006"
+  },
+  {
+   "title": "Identifying semantic relations in text",
+   "authors": "D Gildea, D Jurafsky",
+   "venue": "Exploring artificial intelligence in the new millennium, 69-102",
+   "year": "2003"
+  },
+  {
+   "title": "Verbalizing LLMs’ assumptions to reduce sycophancy",
+   "authors": "T Cheng, P Yu, S Ibrahim, R Yang, D Jurafsky",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Learning Concepts, Not Tokens: Self-Supervised Semantic Alignment for Language Models",
+   "authors": "C Zhang, D Jurafsky, C Shani",
+   "venue": "arXiv preprint arXiv:2603.29123",
+   "year": "2026"
+  },
+  {
+   "title": "AI for Sustainable Food Futures: From Data to Dinner",
+   "authors": "B Datta, MJ Buehler, Y Chow, K Gligoric, D Jurafsky, DL Kaplan, ...",
+   "venue": "arXiv preprint arXiv:2509.21556",
+   "year": "2025"
+  },
+  {
+   "title": "AI-generated content and public persuasion: The limited effect of AI authorship labels",
+   "authors": "IO Gallegos, C Shani, W Shi, F Bianchi, R Willer, D Jurafsky",
+   "venue": "NeurIPS 2024 Workshop on Regulatable ML",
+   "year": "2025"
+  },
+  {
+   "title": "Data checklist: On unit-testing datasets with usable information",
+   "authors": "HC Zhang, S Behzad, K Ethayarajh, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2408.02919",
+   "year": "2024"
+  },
+  {
+   "title": "How random is the review outcome? A systematic study of the impact of external factors on eLife peer review",
+   "authors": "W Liang, K Mahowald, J Raymond, V Krishna, D Smith, D Jurafsky, ...",
+   "venue": "bioRxiv, 2023.01. 04.522708",
+   "year": "2023"
+  },
+  {
+   "title": "Accessibility-based constraints on morphosyntax in corpora of 54 languages",
+   "authors": "K Mahowald, I Papadimitriou, D Jurafsky, R Futrell",
+   "venue": "CUNY Sentence Processing Conference",
+   "year": "2021"
+  },
+  {
+   "title": "A framework for the computational linguistic analysis of dehumanization",
+   "authors": "Y Tsvetkov, J Mendelsohn, D Jurafsky",
+   "venue": "Frontiers in artificial intelligence",
+   "year": "2020"
+  },
+  {
+   "title": "The Users Who Say ‘Ni’: Audience Identification in Chinese-language Restaurant Reviews",
+   "authors": "R Voigt, D Jurafsky",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Proceedings of the 23rd International Conference on Computational Linguistics (Coling 2010)",
+   "authors": "CR Huang, D Jurafsky",
+   "venue": "Proceedings of the 23rd International Conference on Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Where accommodation to non-native speakers doesn't happen",
+   "authors": "R Gafter, D Jurafsky, M Summer",
+   "venue": "New Ways of Analyzing Variation 38",
+   "year": "2010"
+  },
+  {
+   "title": "Tone or toneless: The prosody of mandarin filled pauses",
+   "authors": "Y Zhao, D Jurafsky",
+   "venue": "Poster presented at the 10th Conference on Laboratory Phonology, Paris",
+   "year": "2006"
+  },
+  {
+   "title": "Linguistics in a computational world",
+   "authors": "D Jurafsky",
+   "venue": "",
+   "year": "1998"
+  },
+  {
+   "title": "Issues in Recognition of Spanish-Accented Spontaneous English",
+   "authors": "A Ikeno, B Pellom, D Cer, A Thornton, JM Brenier, D Jurafsky, W Ward, ...",
+   "venue": "Wall Street Journal 5 (4.2), 31.0",
+   "year": "1992"
+  },
+  {
+   "title": "Understanding natural language",
+   "authors": "D Jurafsky",
+   "venue": "",
+   "year": "1989"
+  },
+  {
+   "title": "From Baby Steps to Leapfrog: How “Less is More”",
+   "authors": "VI Spitkovsky, D Jurafsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Turning Speech Language Models into Multilingual Listeners",
+   "authors": "T Ògúnrèmí, D Jurafsky, C Manning, A Üstün, M Bartelds",
+   "venue": "arXiv preprint arXiv:2609.33204",
+   "year": "2026"
+  },
+  {
+   "title": "Matryoshka attribution: Learning to attribute language model outputs to representations and weights",
+   "authors": "A Arora, K Acharya, N Hu, Y Zhang, N Goodman, D Jurafsky, C Potts",
+   "venue": "arXiv preprint arXiv:2609.25518",
+   "year": "2026"
+  },
+  {
+   "title": "LLMs as Oracles: Reliance on LLMs for Subjective Personal Questions",
+   "authors": "M Cheng, L Ibrahim, G Liu, MS Lam, V Padmakumar, N Madibekov, ...",
+   "venue": "arXiv preprint arXiv:2609.14849",
+   "year": "2026"
+  },
+  {
+   "title": "string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms",
+   "authors": "M Suzgun, J Zou, SM Shieber, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2608.03984",
+   "year": "2026"
+  },
+  {
+   "title": "Social calibration of sycophantic AI—Response",
+   "authors": "M Cheng, C Lee, P Khadpe, D Jurafsky",
+   "venue": "Science 393 (6808), 248-248",
+   "year": "2026"
+  },
+  {
+   "title": "You Talkin to Me?: A Network Analysis of Gendered Speaker-Addressee Patterns in Film Screenplays",
+   "authors": "S Khan, C Griffiths, S Narayanan, D Jurafsky, S Baruah",
+   "venue": "arXiv preprint arXiv:2607.22656",
+   "year": "2026"
+  },
+  {
+   "title": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+   "authors": "L Ibrahim, M Cheng, C Lee, P Khadpe, D Ong, D Jurafsky, D Yang",
+   "venue": "arXiv preprint arXiv:2606.21317",
+   "year": "2026"
+  },
+  {
+   "title": "PreFT: Prefill-only finetuning for efficient inference",
+   "authors": "A Lanpouthakoun, A Arora, Z Wu, D Pai, B Keigwin, D Jurafsky, C Potts",
+   "venue": "arXiv preprint arXiv:2605.14217",
+   "year": "2026"
+  },
+  {
+   "title": "🧑‍🍳Cooking Up Creativity:                     Enhancing LLM Creativity through Structured Recombination",
+   "authors": "M Mizrahi, C Shani, G Stanovsky, D Jurafsky, D Shahaf",
+   "venue": "Transactions of the Association for Computational Linguistics 14, 418-441",
+   "year": "2026"
+  },
+  {
+   "title": "Concept Training for Human-Aligned Language Models",
+   "authors": "C Zhang, D Jurafsky, C Shani",
+   "venue": "arXiv e-prints, arXiv: 2603.29123",
+   "year": "2026"
+  },
+  {
+   "title": "Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations",
+   "authors": "S Yu, A Jabbar, R Hawkins, D Jurafsky, M Cheng",
+   "venue": "arXiv preprint arXiv:2510.12699",
+   "year": "2025"
+  },
+  {
+   "title": "Cross-linguistic universality in speech emotion recognition: Comparing multilingual and monolingual computational speech models",
+   "authors": "Y Tatsumi, N Roll, D Jurafsky",
+   "venue": "The Journal of the Acoustical Society of America 158 (4_Supplement), A463-A463",
+   "year": "2025"
+  },
+  {
+   "title": "Tversky Neural Networks: Psychologically Plausible Deep Learning with Differentiable Tversky Similarity",
+   "authors": "M Koulako Bala Doumbouya, D Jurafsky, CD Manning",
+   "venue": "arXiv e-prints, arXiv: 2506.11035",
+   "year": "2025"
+  },
+  {
+   "title": "h4rm3l: A language for Composable Jailbreak Attack Synthesis",
+   "authors": "M Koulako Bala Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, ...",
+   "venue": "arXiv e-prints, arXiv: 2408.04811",
+   "year": "2024"
+  },
+  {
+   "title": "Measuring Conversational Uptake: A Case Study on Student-Teacher Interactions. EdWorkingPaper No. 21-424.",
+   "authors": "D Demszky, J Liu, Z Mancenido, J Cohen, HC Hill, D Jurafsky, ...",
+   "venue": "Annenberg Institute for School Reform at Brown University",
+   "year": "2021"
+  },
+  {
+   "title": "3: 09 PM Abstract No. 73 Evaluating the impact of communal traits and gender-based perceptions on Press-Ganey scores",
+   "authors": "H Chen, E Pierson, S Schmer-Galunder, J Altamirano, J Leskovec, ...",
+   "venue": "Journal of Vascular and Interventional Radiology 31 (3), S36",
+   "year": "2020"
+  },
+  {
+   "title": "Supplemental Materials for “Universals of word order reflect optimization of grammars for efficient communication”",
+   "authors": "M Hahn, D Jurafsky, R Futrell",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Faust: Flexible Acquistion and Understanding System for Text",
+   "authors": "LL Voss, DE Wilkins, D Israel, C Manning, D Jurafsky, DS Weld, ...",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Sex, food, and words: the hidden meanings behind everyday language",
+   "authors": "D Jurafsky",
+   "venue": "Proceedings of the 24th annual ACM symposium on User interface software and …",
+   "year": "2011"
+  },
+  {
+   "title": "It's not you, it's me: Automatically extracting social meaning from speed dates",
+   "authors": "D Jurafsky",
+   "venue": "2009 IEEE Workshop on Automatic Speech Recognition & Understanding, 11-11",
+   "year": "2009"
+  },
+  {
+   "title": "Evaluating MT output with entailment technology",
+   "authors": "S Padó, M Galley, D Jurafsky, C Manning",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Studying the history of ideas using topic models",
+   "authors": "D Jurafsky, CD Manning, D Hall",
+   "venue": "Proceedings of the Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Cheap and fast---but is it good?",
+   "authors": "AY Ng, B O’Connor, R Snow, D Jurafsky",
+   "venue": "Proceedings of the Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Detecting Prominence in Conversational Speech: Pitch Accent, Givenness and Focus",
+   "authors": "VK Rangarajan Sridhar, A Nenkova, S Narayanan, D Jurafsky",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Measuring importance and query relevance in topic-focused multi-document summarization",
+   "authors": "A Nenkova, S Gupta, D Jurafsky",
+   "venue": "Proceedings of the 45th Annual Meeting of the ACL on Interactive Poster and …",
+   "year": "2007"
+  },
+  {
+   "title": "方言背景普通话语音识别框架",
+   "authors": "J Li, TF Zheng, W Byrne, D Jurafsky",
+   "venue": "计算机科学技术学报 21 (1), 106-115",
+   "year": "2006"
+  },
+  {
+   "title": "Semantic role labeling using different syntactic views",
+   "authors": "K Hacıoğlu, SS Pradhan, D Jurafsky, JH Martin, WH Ward",
+   "venue": "Proceedings of the 43rd Annual Meeting on Association for Computational …",
+   "year": "2005"
+  },
+  {
+   "title": "Ranges and levels of predictability effects on word durations in conversational English",
+   "authors": "A Bell, J Brenier, M Gregory, D Jurafsky, C Girand",
+   "venue": "",
+   "year": "2004"
+  },
+  {
+   "title": "The structure of repetition strings in the Switchboard corpus",
+   "authors": "C Girand, A Bell, D Jurafsky, E Fosler‐Lussier",
+   "venue": "The Journal of the Acoustical Society of America 104 (3_Supplement), 1819-1819",
+   "year": "1998"
+  },
+  {
+   "title": "CAREER: Spoken Lexical Processing in Humans and Machines",
+   "authors": "DS Jurafsky",
+   "venue": "NSF Award Number 9733067. Directorate for Computer and Information Science …",
+   "year": "1998"
+  },
+  {
+   "title": "How verb subcategorization frequencies are affected by corpus choice",
+   "authors": "D Jurafsky",
+   "venue": "Proceedings of the 36th annual meeting on Association for Computational …",
+   "year": "1998"
+  },
+  {
+   "title": "Switchboard Spoken Language Modelling Project",
+   "authors": "D JURAFSKY",
+   "venue": "Third International Workshop For Discourse Research Initiative",
+   "year": "1998"
+  },
+  {
+   "title": "Speech Recognition and Understanding",
+   "authors": "D Jurafsky, R Bates",
+   "venue": "Proceedings, 88",
+   "year": "1997"
+  },
+  {
+   "title": "International Computer Science Institute, Berkeley",
+   "authors": "D JURAFSKY",
+   "venue": "Language 72 (3-4), 533",
+   "year": "1996"
+  },
+  {
+   "title": "LEXICAL REPRESENTATION AND PROCESS-MARSLENWILSON, W",
+   "authors": "J EDWARDS, D JURAFSKY",
+   "venue": "STUDIES IN LANGUAGE 16 (1), 229-240",
+   "year": "1992"
+  },
+  {
+   "title": "William Marslen-Wilson (ed.) Lexical Representation and Process",
+   "authors": "J Edwards, D Jurafsky",
+   "venue": "Studies in Language. International Journal sponsored by the Foundation …",
+   "year": "1992"
+  },
+  {
+   "title": "Women, Matches, and Chinese Broccoli",
+   "authors": "D Jurafsky",
+   "venue": "Proceedings of the Annual Meeting of the Berkeley Linguistics Society 14, 304",
+   "year": "1988"
+  },
+  {
+   "title": "Expert-guided Bayesian optimization for sustainable protein design",
+   "authors": "A Thomas, G Zaverdinos, P Mandalis, A Orfanoudakis, A Takino, ...",
+   "venue": "ICML 2026 AI for Science Workshop",
+   "year": null
+  },
+  {
+   "title": "Measuring LLM Generation Spaces with EigenScore",
+   "authors": "S Yu, M Cheng, A Jabbar, RD Hawkins, D Jurafsky",
+   "venue": "First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models",
+   "year": null
+  },
+  {
+   "title": "Linguistic {Markers} of {Status} in {Food}{Culture}: Bourdieu\\textquoteright {} s {Distinction} in a {Menu}{Corpus}",
+   "authors": "D Jurafsky, V Chahuneau, B Routledge, N Smith",
+   "venue": "Journal of Cultural Analytics 1",
+   "year": null
+  },
+  {
+   "title": "Бондаренко Микола",
+   "authors": "N Garg, L Schiebinger, D Jurafsky, J Zou",
+   "venue": "Шевченківська весна–2020: Матеріали Міжнародної конференції студентів …",
+   "year": null
+  },
+  {
+   "title": "The Language of Food: A Linguist Reads the Menu, page 21",
+   "authors": "D Jurafsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Datasheet: h4rm3l Toolkit and Red-Teaming Results for GPT-3.5/4, Claude3, and Llama3",
+   "authors": "MKB Doumbouya, ANG Poesia, D Ghilardi, A Goldie, F Bianchi, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "302 Columbia School Linguistics in the 21st Century",
+   "authors": "O García, F García Lorca, G García Márquez, M García Salcido, A Garrett, ...",
+   "venue": "Columbia School Linguistics in the 21st Century 195 (220), 301",
+   "year": null
+  },
+  {
+   "title": "Improving access to untranscribed speech by leveraging spoken term detection and self-supervised learning of speech representations",
+   "authors": "N San, M Bartelds, D Jurafsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "b ls Berkeley Linguistics Society",
+   "authors": "D Jurafsky, S Universals",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Community Identity and User Engagement in a Multi-Community Landscape",
+   "authors": "D Jurafsky, J Leskovec",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Distributional approaches to diachronic semantics",
+   "authors": "WL Hamilton, J Leskovec, D Jurafsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Automatic Processing of Modern Standard",
+   "authors": "M Diab, K Hacioglu, D Jurafsky",
+   "venue": "Text, Speech and Language Technology, 159",
+   "year": null
+  },
+  {
+   "title": "Poster Paper: TENNET 2001; To appear in Brain and Cognition",
+   "authors": "S Gahl, L Menn, G Ramsberger, DS Jurafsky, E Elder, M Rewega, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A new resource and methodological considerations on verb subcategorization biases",
+   "authors": "S Gahl, D Roland, D Jurafsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Partially Observable Stochastic Reference Games",
+   "authors": "A Vogel, D Jurafsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "How Verb Subcategorization Frequencies Are Affected By The Way You Measure Them",
+   "authors": "D Jurafsky, D Roland",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Verb behavior is not verb nature: Sense and genre bias as sources of subcategorization probabilities",
+   "authors": "D Roland, D Jurafsky, L Michaelis",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

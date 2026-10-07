@@ -1,0 +1,143 @@
+{
+ "user": "AMwvwPYAAAAJ",
+ "pubs": [
+  {
+   "title": "Improved Semantic Representations from Tree-Structured Long Short-Term Memory Networks",
+   "authors": "KS Tai, R Socher, CD Manning",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Three-dimensional (3d) convolution with 3d batch normalization",
+   "authors": "R Socher, C Xiong, KS Tai",
+   "venue": "US Patent App. 15/237,575",
+   "year": "2017"
+  },
+  {
+   "title": "An end‐to‐end earthquake detection method for joint phase picking and association using deep learning",
+   "authors": "W Zhu, KS Tai, SM Mousavi, P Bailis, GC Beroza",
+   "venue": "Journal of Geophysical Research: Solid Earth 127 (3), e2021JB023283",
+   "year": "2022"
+  },
+  {
+   "title": "Equivariant Transformer Networks",
+   "authors": "KS Tai, P Bailis, G Valiant",
+   "venue": "Proceedings of the 36th International Conference on Machine Learning",
+   "year": "2019"
+  },
+  {
+   "title": "Moment-based quantile sketches for efficient high cardinality aggregation queries",
+   "authors": "E Gan, J Ding, KS Tai, V Sharan, P Bailis",
+   "venue": "International Conference on Very Large Data Bases",
+   "year": "2018"
+  },
+  {
+   "title": "Sinkhorn Label Allocation: Semi-Supervised Classification via Annealed Self-Training",
+   "authors": "KS Tai, P Bailis, G Valiant",
+   "venue": "Proceedings of the 38th International Conference on Machine Learning",
+   "year": "2021"
+  },
+  {
+   "title": "Sketching Linear Classifiers over Data Streams",
+   "authors": "KS Tai, V Sharan, P Bailis, G Valiant",
+   "venue": "Proceedings of the 2018 International Conference on Management of Data …",
+   "year": "2018"
+  },
+  {
+   "title": "Detecting gravitational waves from highly eccentric compact binaries",
+   "authors": "KS Tai, ST McWilliams, F Pretorius",
+   "venue": "Physical Review D 90 (10), 103001",
+   "year": "2014"
+  },
+  {
+   "title": "The path not taken: Rlvr provably learns off the principals",
+   "authors": "H Zhu, Z Zhang, H Huang, DJ Su, Z Liu, J Zhao, I Fedorov, H Pirsiavash, ...",
+   "venue": "arXiv preprint arXiv:2511.08567",
+   "year": "2025"
+  },
+  {
+   "title": "Spartan: Differentiable Sparsity via Regularized Transportation",
+   "authors": "KS Tai, T Tian, SN Lim",
+   "venue": "Advances in Neural Information Processing Systems",
+   "year": "2022"
+  },
+  {
+   "title": "Compressed Factorization: Fast and Accurate Low-Rank Factorization of Compressively-Sensed Data",
+   "authors": "V Sharan, KS Tai, P Bailis, G Valiant",
+   "venue": "Proceedings of the 36th International Conference on Machine Learning",
+   "year": "2019"
+  },
+  {
+   "title": "MobileLLM-Pro technical report",
+   "authors": "P Huber, E Chang, W Wen, I Fedorov, T Elgamal, H Huang, N Suda, ...",
+   "venue": "arXiv preprint arXiv:2511.06719",
+   "year": "2025"
+  },
+  {
+   "title": "Analyzing populations of neural networks via dynamical model embedding",
+   "authors": "J Cotler, KS Tai, F Hernández, B Elias, D Sussillo",
+   "venue": "arXiv preprint arXiv:2302.14078",
+   "year": "2023"
+  },
+  {
+   "title": "Multi-entity video transformers for fine-grained video representation learning",
+   "authors": "M Walmer, R Kanjirathinkal, KS Tai, K Muzumdar, T Tian, A Shrivastava",
+   "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition …",
+   "year": "2025"
+  },
+  {
+   "title": "uCAP: An Unsupervised Prompting Method for Vision-Language Models",
+   "authors": "AT Nguyen, KS Tai, BC Chen, SN Shukla, H Yu, P Torr, TP Tian, SN Lim",
+   "venue": "European Conference on Computer Vision",
+   "year": "2024"
+  },
+  {
+   "title": "An end-to-end earthquake monitoring method for joint earthquake detection and association using deep learning",
+   "authors": "W Zhu, KS Tai, SM Mousavi, GC Beroza",
+   "venue": "AGU Fall Meeting",
+   "year": "2019"
+  },
+  {
+   "title": "Three-dimensional (3D) convolution with 3D batch normalization",
+   "authors": "R Socher, C Xiong, KS Tai",
+   "venue": "US Patent 11,416,747",
+   "year": "2022"
+  },
+  {
+   "title": "Statistical Learning Under Resource Constraints",
+   "authors": "KS Tai",
+   "venue": "Stanford University",
+   "year": "2021"
+  },
+  {
+   "title": "Eccentric compact object mergers",
+   "authors": "F Pretorius, W East, J Levin, S McWilliams, KS Tai",
+   "venue": "APS April Meeting Abstracts 2013, Q10. 005",
+   "year": "2013"
+  },
+  {
+   "title": "Why RL Updates Look Sparse: An Implicit Compass Drives Optimization Bias",
+   "authors": "H Zhu, Z Zhang, H Huang, DJ Su, Z Liu, J Zhao, I Fedorov, H Pirsiavash, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "uCAP: An Unsupervised Prompting Method for Vision-Language Models Supplementary Material",
+   "authors": "AT Nguyen, KS Tai, BC Chen, SN Shukla, H Yu, P Torr, TP Tian, SN Lim",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Compressed Factorization",
+   "authors": "V Sharan, KS Tai, P Bailis, G Valiant",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Finding Heavily-Weighted Features with the Weight-Median Sketch",
+   "authors": "KS Tai, V Sharan, P Bailis, G Valiant",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

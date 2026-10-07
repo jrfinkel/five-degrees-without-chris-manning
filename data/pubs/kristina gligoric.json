@@ -1,0 +1,221 @@
+{
+ "user": "kdbzgK4AAAAJ",
+ "pubs": [
+  {
+   "title": "Global maps of travel time to healthcare facilities",
+   "authors": "DJ Weiss, A Nelson, CA Vargas-Ruiz, K Gligorić, S Bavadekar, ...",
+   "venue": "Nature Medicine 26 (12), 1835-1838",
+   "year": "2020"
+  },
+  {
+   "title": "How Constraints Affect Content: The Case of Twitter’s Switch from 140 to 280 Characters",
+   "authors": "K Gligorić, A Anderson, R West",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 12 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "Grounding Gaps in Language Model Generations",
+   "authors": "O Shaikh, K Gligorić, A Khetan, M Gerstgrasser, D Yang, D Jurafsky",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "On the Context-Free Ambiguity of Emoji",
+   "authors": "J Częstochowska, K Gligorić, M Peyrard, Y Mentha, M Bień, A Grütter, ...",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 16 …",
+   "year": "2022"
+  },
+  {
+   "title": "Can Unconfident LLM Annotations Be Used for Confident Conclusions?",
+   "authors": "K Gligoric, T Zrnic, C Lee, EJ Candes, D Jurafsky",
+   "venue": "Proceedings of the 2025 Conference of the North American Chapter of the …",
+   "year": "2025"
+  },
+  {
+   "title": "AnthroScore: A Computational Linguistic Measure of Anthropomorphism",
+   "authors": "M Cheng, K Gligoric, T Piccardi, D Jurafsky",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Causal Effects of Brevity on Style and Success in Social Media",
+   "authors": "K Gligorić, A Anderson, R West",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 3 (CSCW), 1-23",
+   "year": "2019"
+  },
+  {
+   "title": "Visible light communications-based indoor positioning via compressed sensing",
+   "authors": "K Gligorić, M Ajmani, D Vukobratović, S Sinanović",
+   "venue": "IEEE Communications Letters 22 (7), 1410-1413",
+   "year": "2018"
+  },
+  {
+   "title": "Linguistic effects on news headline success: Evidence from thousands of online field experiments (Registered Report)",
+   "authors": "K Gligorić, G Lifchits, R West, A Anderson",
+   "venue": "Plos one 18 (3), e0281682",
+   "year": "2023"
+  },
+  {
+   "title": "People who share encounters with racism are silenced online by humans and machines, but a guideline-reframing intervention holds promise",
+   "authors": "C Lee, K Gligorić, PR Kalluri, M Harrington, E Durmus, KL Sanchez, ...",
+   "venue": "Proceedings of the National Academy of Sciences 121 (38), e2322764121",
+   "year": "2024"
+  },
+  {
+   "title": "Revealed versus potential spatial accessibility of healthcare and changing patterns during the COVID-19 pandemic",
+   "authors": "K Gligorić, C Kamath, DJ Weiss, S Bavadekar, Y Liu, T Shekel, ...",
+   "venue": "Communications Medicine 3 (1), 157",
+   "year": "2023"
+  },
+  {
+   "title": "Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis",
+   "authors": "MH Ribeiro, K Gligorić, M Peyrard, F Lemmerich, M Strohmaier, R West",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 15 …",
+   "year": "2021"
+  },
+  {
+   "title": "Population-scale dietary interests during the COVID-19 pandemic",
+   "authors": "K Gligoric, A Chiolero, E Kıcıman, RW White, R West",
+   "venue": "Nature Communications 13 (1), 1-14",
+   "year": "2022"
+  },
+  {
+   "title": "Anticipated versus Actual Effects of Platform Design Change: A Case Study of Twitter's Character Limit",
+   "authors": "K Gligoric, J Czestochowska, A Anderson, R West",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-29",
+   "year": "2022"
+  },
+  {
+   "title": "Formation of Social Ties Influences Food Choice: A Campus-Wide Longitudinal Study",
+   "authors": "K Gligoric, RW White, E Kiciman, E Horvitz, A Chiolero, R West",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 5 (CSCW1), 1-25",
+   "year": "2021"
+  },
+  {
+   "title": "Message Distortion in Information Cascades",
+   "authors": "M Horta Ribeiro, K Gligoric, R West",
+   "venue": "The World Wide Web Conference, 681-692",
+   "year": "2019"
+  },
+  {
+   "title": "Valid survey simulations with limited human data: The roles of prompting, fine-tuning, and rectification",
+   "authors": "S Krsteski, G Russo, S Chang, R West, K Gligorić",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Artificial Intelligence for Food Innovation",
+   "authors": "B Datta, MJ Buehler, Y Chow, K Gligoric, D Jurafsky, DL Kaplan, ...",
+   "venue": "Nature Food",
+   "year": "2026"
+  },
+  {
+   "title": "NLP Systems That Can't Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps",
+   "authors": "K Gligoric, M Cheng, L Zheng, E Durmus, D Jurafsky",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Comparing and Developing Tools to Measure the Readability of Domain-Specific Texts",
+   "authors": "E Redmiles, L Maszkiewicz, E Hwang, D Kuchhal, E Liu, M Morales, ...",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Othering and Low Status Framing of Immigrant Cuisines in US Restaurant Reviews and Large Language Models",
+   "authors": "Y Luo, K Gligoric, D Jurafsky",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 18 …",
+   "year": "2024"
+  },
+  {
+   "title": "Laughing Heads: Can Transformers Detect What Makes a Sentence Funny?",
+   "authors": "M Peyrard, B Borges, K Gligorić, R West",
+   "venue": "Proceedings of the Thirtieth International Joint Conference on Artificial …",
+   "year": "2021"
+  },
+  {
+   "title": "What can large language models do for sustainable food?",
+   "authors": "AT Thomas, A Yee, A Mayne, MB Mathur, D Jurafsky, K Gligorić",
+   "venue": "ICML",
+   "year": "2025"
+  },
+  {
+   "title": "Food choice mimicry on a large university campus",
+   "authors": "K Gligorić, A Chiolero, E Kıcıman, RW White, E Horvitz, R West",
+   "venue": "PNAS Nexus 3 (12), pgae517",
+   "year": "2024"
+  },
+  {
+   "title": "Experts and authorities receive disproportionate attention on Twitter during the COVID-19 crisis",
+   "authors": "K Gligorić, MH Ribeiro, M Müller, O Altunina, M Peyrard, M Salathé, ...",
+   "venue": "arXiv preprint arXiv:2008.08364",
+   "year": "2020"
+  },
+  {
+   "title": "SWAY: A Counterfactual Computational Linguistic Approach to Measuring and Mitigating Sycophancy",
+   "authors": "J Bhalla, K Gligorić",
+   "venue": "arXiv preprint arXiv:2604.02423",
+   "year": "2026"
+  },
+  {
+   "title": "Attention to Non-Adopters",
+   "authors": "K Zhou, K Gligorić, M Cheng, MS Lam, V Raman, B Aminu, C Woo, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 1336-1366",
+   "year": "2026"
+  },
+  {
+   "title": "Biased Bytes: On the Validity of Estimating Food Consumption from Digital Traces",
+   "authors": "K Gligoric, I Djordjevic, R West",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-27",
+   "year": "2022"
+  },
+  {
+   "title": "Meat-Free Day Reduces Greenhouse Gas Emissions but Poses Challenges for Customer Retention and Adherence to Dietary Guidelines",
+   "authors": "G Russo, K Gligorić, V Moreau, R West",
+   "venue": "arXiv preprint arXiv:2504.02899",
+   "year": "2025"
+  },
+  {
+   "title": "In-class data analysis replications: Teaching students while testing science",
+   "authors": "K Gligorić, T Piccardi, JM Hofman, R West",
+   "venue": "Harvard Data Science Review 6 (3)",
+   "year": "2024"
+  },
+  {
+   "title": "Mitigating LLM-based p-Hacking by Preregistering for the Next LLM",
+   "authors": "M Thomas, K Gligoric, NB Shah",
+   "venue": "arXiv preprint arXiv:2606.27687",
+   "year": "2026"
+  },
+  {
+   "title": "Cooking Up Risks: Benchmarking and Reducing Food Safety Risks in Large Language Models",
+   "authors": "W Luo, X Wen, T Huang, H Wang, Z Xiang, C Xiao, K Gligorić, M Chen",
+   "venue": "arXiv preprint arXiv:2604.01444",
+   "year": "2026"
+  },
+  {
+   "title": "Multi-Perspective LLM Annotations for Valid Analyses in Subjective Tasks",
+   "authors": "N Mehrotra, A Visokay, K Gligorić",
+   "venue": "arXiv preprint arXiv:2603.21404",
+   "year": "2026"
+  },
+  {
+   "title": "Measuring and Shaping the Nutritional Environment via Food Sales Logs: Case Studies of Campus-Wide Food Choice and a Call to Action",
+   "authors": "K Gligorić, R Zbinden, A Chiolero, E Kiciman, RW White, E Horvitz, ...",
+   "venue": "Frontiers in Nutrition 11, 1231070",
+   "year": "2024"
+  },
+  {
+   "title": "Paying for Too Many Tokens? Valid and Cost-Efficient Multimodal LLM Annotation with Simple Heuristics",
+   "authors": "Z Zhu, K Gligoric",
+   "venue": "arXiv preprint arXiv:2610.00809",
+   "year": "2026"
+  },
+  {
+   "title": "Computational Approaches for Studying Dietary Behaviors with Digital Traces",
+   "authors": "K Gligoric",
+   "venue": "EPFL",
+   "year": "2022"
+  }
+ ]
+}

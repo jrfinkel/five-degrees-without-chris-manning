@@ -1,0 +1,449 @@
+{
+ "user": "w0UNVG0AAAAJ",
+ "pubs": [
+  {
+   "title": "Can large language models provide useful feedback on research papers? A large-scale empirical analysis",
+   "authors": "W Liang, Y Zhang, H Cao, B Wang, DY Ding, X Yang, K Vodrahalli, S He, ...",
+   "venue": "NEJM AI 1 (8), AIoa2400196",
+   "year": "2024"
+  },
+  {
+   "title": "Monitoring AI-modified content at scale: A case study on the impact of ChatGPT on AI conference peer reviews",
+   "authors": "W Liang, Z Izzo, Y Zhang, H Lepp, H Cao, X Zhao, L Chen, H Ye, S Liu, ...",
+   "venue": "arXiv preprint arXiv:2403.07183",
+   "year": "2024"
+  },
+  {
+   "title": "User Experience Design Professionals’ Perceptions of Generative Artificial Intelligence",
+   "authors": "AEA Jie Li, Hancheng Cao, Laura Lin, Youyang Hou, Ruihao Zhu",
+   "venue": "https://arxiv.org/ftp/arxiv/papers/2309/2309.15237.pdf",
+   "year": "2023"
+  },
+  {
+   "title": "Mapping the increasing use of LLMs in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "arXiv preprint arXiv:2404.01268",
+   "year": "2024"
+  },
+  {
+   "title": "Large scale analysis of multitasking behavior during remote meetings",
+   "authors": "H Cao, CJ Lee, S Iqbal, M Czerwinski, PNY Wong, S Rintel, B Hecht, ...",
+   "venue": "🏅Proceedings of the 2021 CHI conference on human factors in computing …",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluating human-language model interaction",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arXiv:2212.09746",
+   "year": "2022"
+  },
+  {
+   "title": "Quantifying large language model usage in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "Nature Human Behaviour 9 (12), 2599-2609",
+   "year": "2025"
+  },
+  {
+   "title": "The widespread adoption of large language model-assisted writing across society",
+   "authors": "W Liang, Y Zhang, M Codreanu, J Wang, H Cao, J Zou",
+   "venue": "Patterns 6 (12)",
+   "year": "2025"
+  },
+  {
+   "title": "Learning from home: A mixed-methods analysis of live streaming based remote education experience in chinese colleges during the covid-19 pandemic",
+   "authors": "Z Chen, H Cao, Y Deng, X Gao, J Piao, F Xu, Y Zhang, Y Li",
+   "venue": "Proceedings of the 2021 CHI Conference on human factors in computing systems …",
+   "year": "2021"
+  },
+  {
+   "title": "Habit2vec: Trajectory semantic embedding for living pattern recognition in population",
+   "authors": "H Cao, F Xu, J Sankaranarayanan, Y Li, H Samet",
+   "venue": "IEEE Transactions on Mobile Computing 19 (5), 1096-1108",
+   "year": "2019"
+  },
+  {
+   "title": "User behaviour modeling, recommendations, and purchase prediction during shopping festivals: M. Zeng et al.",
+   "authors": "M Zeng, H Cao, M Chen, Y Li",
+   "venue": "Electronic Markets 29 (2), 263-274",
+   "year": "2019"
+  },
+  {
+   "title": "\" What Apps Did You Use?\": Understanding the Long-term Evolution of Mobile App Usage",
+   "authors": "T Li, M Zhang, H Cao, Y Li, S Tarkoma, P Hui",
+   "venue": "In Proceedings of the ACM International World Wide Web Conference (WWW 2020)",
+   "year": "2020"
+  },
+  {
+   "title": "My team will go on: Differentiating high and low viability teams through team interaction",
+   "authors": "H Cao, V Yang, V Chen, YJ Lee, L Stone, NJ Diarrassouba, ME Whiting, ...",
+   "venue": "🏅Proceedings of the ACM on Human-Computer Interaction 4 (CSCW3), 1-27",
+   "year": "2021"
+  },
+  {
+   "title": "You recommend, i buy: How and why people engage in instant messaging based social commerce",
+   "authors": "H Cao, Z Chen, M Cheng, S Zhao, T Wang, Y Li",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 5 (CSCW1), 1-25",
+   "year": "2021"
+  },
+  {
+   "title": "Semantics-aware hidden Markov model for human mobility",
+   "authors": "H Shi, Y Li, H Cao, X Zhou, C Zhang, V Kostakos",
+   "venue": "IEEE Transactions on Knowledge and Data Engineering",
+   "year": "2019"
+  },
+  {
+   "title": "Semantics-aware hidden Markov model for human mobility",
+   "authors": "H Shi, H Cao, X Zhou, Y Li, C Zhang, V Kostakos, F Sun, F Meng",
+   "venue": "SIAM International Conference on Data Mining 2019, 774-782",
+   "year": "2019"
+  },
+  {
+   "title": "How new ideas diffuse in science",
+   "authors": "M Cheng, DS Smith, X Ren, H Cao, S Smith, DA McFarland",
+   "venue": "American sociological review 88 (3), 522-561",
+   "year": "2023"
+  },
+  {
+   "title": "Detecting popular temporal modes in population-scale unlabelled trajectory data",
+   "authors": "F Xu, T Xia, H Cao, Y Li, F Sun, F Meng",
+   "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …",
+   "year": "2018"
+  },
+  {
+   "title": "Understanding the role of intermediaries in online social e-commerce: an exploratory study of beidian",
+   "authors": "Z Chen, H Cao, F Xu, M Cheng, T Wang, Y Li",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 4 (CSCW2), 1-24",
+   "year": "2020"
+  },
+  {
+   "title": "Revisitation in urban space vs. online: A comparison across pois, websites, and smartphone apps",
+   "authors": "H Cao, Z Chen, F Xu, Y Li, V Kostakos",
+   "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …",
+   "year": "2018"
+  },
+  {
+   "title": "Breaking out of the ivory tower: A large-scale analysis of patent citations to HCI research",
+   "authors": "H Cao, Y Lu, Y Deng, D Mcfarland, MS Bernstein",
+   "venue": "🏆Proceedings of the 2023 CHI Conference on Human Factors in Computing …",
+   "year": "2023"
+  },
+  {
+   "title": "Mapping the increasing use of LLMs in scientific papers. arXiv",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "preprint",
+   "year": "2024"
+  },
+  {
+   "title": "Prototypical human-AI collaboration behaviors from LLM-Assisted writing in the wild",
+   "authors": "S Mysore, D Das, H Cao, B Sarrafzadeh",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Demographics of mobile app usage: Long-term analysis of mobile app usage",
+   "authors": "Z Tu, H Cao, E Lagerspetz, Y Fan, H Flores, S Tarkoma, P Nurmi, Y Li",
+   "venue": "CCF Transactions on Pervasive Computing and Interaction 3 (3), 235-252",
+   "year": "2021"
+  },
+  {
+   "title": "When your friends become sellers: An empirical study of social commerce site Beidian",
+   "authors": "H Cao, Z Chen, F Xu, T Wang, Y Xu, L Zhang, Y Li",
+   "venue": "Proceedings of the international AAAI conference on web and social media 14 …",
+   "year": "2020"
+  },
+  {
+   "title": "HealthWalks: Sensing fine-grained individual health condition via mobility data",
+   "authors": "Z Lin, S Lyu, H Cao, F Xu, Y Wei, H Samet, Y Li",
+   "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …",
+   "year": "2020"
+  },
+  {
+   "title": "Uniqueness in the city: Urban morphology and location privacy",
+   "authors": "H Cao, J Feng, Y Li, V Kostakos",
+   "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …",
+   "year": "2018"
+  },
+  {
+   "title": "From replication to redesign: Exploring pairwise comparisons for llm-based peer review",
+   "authors": "Y Zhang, H Zhang, W Ji, T Hua, N Haber, H Cao, W Liang",
+   "venue": "Advances in Neural Information Processing Systems 38, 11778-11805",
+   "year": "2026"
+  },
+  {
+   "title": "Vibe Coding in Product Teams: Reconfiguring AI-Assisted Workflows, Prototyping, and Collaboration",
+   "authors": "J Li, Y Hou, L Lin, R Zhu, H Cao, A El Ali",
+   "venue": "Proceedings of the 5th Annual Symposium on Human-Computer Interaction for …",
+   "year": "2026"
+  },
+  {
+   "title": "Persuade to click: Context-aware persuasion model for online textual advertisement",
+   "authors": "Y Yuan, F Xu, H Cao, G Zhang, P Hui, Y Li, D Jin",
+   "venue": "IEEE Transactions on Knowledge and Data Engineering 35 (2), 1938-1951",
+   "year": "2021"
+  },
+  {
+   "title": "Will you come back/check-in again? understanding characteristics leading to urban revisitation and re-check-in",
+   "authors": "Z Chen, H Cao, H Wang, F Xu, V Kostakos, Y Li",
+   "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …",
+   "year": "2020"
+  },
+  {
+   "title": "Understanding metropolitan crowd mobility via mobile cellular accessing data",
+   "authors": "H Cao, J Sankaranarayanan, J Feng, Y Li, H Samet",
+   "venue": "ACM Transactions on Spatial Algorithms and Systems (TSAS) 5 (2), 1-18",
+   "year": "2019"
+  },
+  {
+   "title": "Practitioners versus users: A value-sensitive evaluation of current industrial recommender system design",
+   "authors": "Z Chen, J Piao, X Lan, H Cao, C Gao, Z Lu, Y Li",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-32",
+   "year": "2022"
+  },
+  {
+   "title": "Mapping the Increasing Use of LLMs in Scientific Papers.(2024)",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "URL https://arxiv. org/abs/2404.01268",
+   "year": null
+  },
+  {
+   "title": "Multi-agent teams hold experts back",
+   "authors": "A Pappu, B El, H Cao, C di Nolfo, Y Sun, M Cao, J Zou",
+   "venue": "arXiv preprint arXiv:2602.01011",
+   "year": "2026"
+  },
+  {
+   "title": "The rise of open science: Tracking the evolution and perceived value of data and methods link-sharing practices",
+   "authors": "H Cao, J Dodge, K Lo, DA McFarland, LL Wang",
+   "venue": "arXiv preprint arXiv:2310.03193",
+   "year": "2023"
+  },
+  {
+   "title": "Community value prediction in social E-commerce",
+   "authors": "G Zhang, Y Li, Y Yuan, F Xu, H Cao, Y Xu, D Jin",
+   "venue": "Proceedings of the Web Conference 2021, 2958-2967",
+   "year": "2021"
+  },
+  {
+   "title": "Xiaochong Lan, Hancheng Cao, Chen Gao, Zhicong Lu, and Yong Li. 2022. Practitioners versus users: A value-sensitive evaluation of current industrial recommender system design",
+   "authors": "Z Chen, J Piao",
+   "venue": "Proc. ACM Hum.-Comput. Interact 6, 1-32",
+   "year": "2022"
+  },
+  {
+   "title": "AI Hasn't Fixed Teamwork, But It Shifted Collaborative Culture: A Longitudinal Study in a Project-Based Software Development Organization (2023-2025)",
+   "authors": "Q Xiao, XE Hu, ME Whiting, A Karunakaran, H Shen, H Cao",
+   "venue": "arXiv preprint arXiv:2509.10956",
+   "year": "2025"
+  },
+  {
+   "title": "Beyond virtual bazaar: How social commerce promotes inclusivity for the traditionally underserved community in Chinese developing regions",
+   "authors": "Z Chen, H Cao, X Lan, Z Lu, Y Li",
+   "venue": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2022"
+  },
+  {
+   "title": "Will This Idea Spread Beyond Academia? Understanding Knowledge Transfer of Scientific Concepts across Text Corpora. Hancheng Cao, Mengjie Cheng, Zhepeng Cen, Daniel McFarland …",
+   "authors": "H Cao, M Cheng",
+   "venue": "EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Monitoring AI-modified content at scale: a case study on the impact of ChatGPT on AI conference peer reviews. 2024",
+   "authors": "W Liang, Z Izzo, Y Zhang, H Lepp, H Cao, X Zhao, L Chen, H Ye, S Liu, ...",
+   "venue": "arXiv preprint arXiv:2403.07183",
+   "year": null
+  },
+  {
+   "title": "When your boss is an AI Bot: Exploring opportunities and risks of manager clone agents in the future workplace",
+   "authors": "Q Hu, Q Xiao, H Cao, H Shen",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Xiaochong Lan, Zhicong Lu, and Yong Li. 2022. Beyond Virtual Bazaar: How Social Commerce Promotes Inclusivity for the Traditionally Underserved Community in Chinese Developing …",
+   "authors": "Z Chen, H Cao",
+   "venue": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …",
+   "year": null
+  },
+  {
+   "title": "Understanding the long-term dynamics of mobile app usage context via graph embedding",
+   "authors": "Y Fan, Z Tu, T Li, H Cao, T Xia, Y Li, X Chen, L Zhang",
+   "venue": "IEEE Transactions on Knowledge and Data Engineering 35 (3), 3180-3194",
+   "year": "2021"
+  },
+  {
+   "title": "others (2024). Mapping the increasing use of llms in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "arXiv preprint arXiv:2404.01268",
+   "year": "1"
+  },
+  {
+   "title": "Can GenAI Move from Individual Use to Collaborative Work? Experiences, Challenges, and Opportunities of Coordinating GenAI into Collaborative Newswork",
+   "authors": "Q Xiao, Q Hu, J Xiao, H Cao, H Shen",
+   "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2026"
+  },
+  {
+   "title": "Context-aware semantic annotation of mobility records",
+   "authors": "H Wang, Y Li, J Lin, H Cao, D Jin",
+   "venue": "ACM Transactions on Knowledge Discovery from Data (TKDD) 16 (3), 1-20",
+   "year": "2021"
+  },
+  {
+   "title": "Mapping the Increasing Use of LLMs in Scientific Papers. doi: 10.48550",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "arXiv preprint arXiv.2404.01268",
+   "year": "2024"
+  },
+  {
+   "title": "others. 2025b. Quantifying large language model usage in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "Nature Human Behaviour, 1-11",
+   "year": "1"
+  },
+  {
+   "title": "The Widespread Adoption of Large Language Model-Assisted Writing Across Society. doi: 10.48550",
+   "authors": "W Liang, Y Zhang, M Codreanu, J Wang, H Cao, J Zou",
+   "venue": "arXiv preprint arXiv.2502.09747",
+   "year": "2025"
+  },
+  {
+   "title": "730 Hancheng Cao, Sheng Liu, Siyu He, Zhi Huang, Diyi Yang, Christopher Potts, Christopher D 731 Manning, and James Y. Zou. Mapping the increasing use of LLMs in scientific …",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao",
+   "venue": "First Conference on Language Modeling 733",
+   "year": "2024"
+  },
+  {
+   "title": "Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews.” arXiv. doi: 10.48550",
+   "authors": "W Liang, Z Izzo, Y Zhang, H Lepp, H Cao, X Zhao, L Chen, H Ye, S Liu, ...",
+   "venue": "arXiv preprint arxiv.2403.07183",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating Human-Language Model Interaction. CoRR abs/2212.09746 (2022), 64 pages",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Daniel Mcfarland ja James Y. Zou. 2024.” Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews.”",
+   "authors": "W Liang, Z Izzo, Y Zhang, H Lepp, H Cao, X Zhao, L Chen, H Ye, S Liu, ...",
+   "venue": "Proceedings of the 41st International Conference on Machine Learning 235 …",
+   "year": null
+  },
+  {
+   "title": "Evaluating human-language model interaction. CoRR, abs/2212.09746, 2022b. doi: 10.48550",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "arXiv preprint arXiv.2212.09746",
+   "year": null
+  },
+  {
+   "title": "Can GenAI Move from Individual Use to Collaborative Work",
+   "authors": "Q Xiao, Q Hu, J Xiao, H Cao, H Shen",
+   "venue": "Experiences, Challenges, and Opportunities of Coordinating GenAI into …",
+   "year": "2026"
+  },
+  {
+   "title": "Mapping the Increasing Use of LLMs in Scientific Papers. CoRR abs/2404.01268 (2024)",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Mapping the increasing use of LLMs in scientific papers",
+   "authors": "L Weixin, Z Yaohui, Z Wu, L Haley, J Wenlong, Z Xuandong, C Hancheng, ...",
+   "venue": "First Conference on Language Modeling",
+   "year": "2024"
+  },
+  {
+   "title": "User Experience Design Professionals’ Perceptions of Generative Artificial Intelligence. doi: 10.48550",
+   "authors": "J Li, H Cao, L Lin, Y Hou, R Zhu, A El Ali",
+   "venue": "arXiv preprint arXiv.2309.15237",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-agent teams hold experts back, 2026",
+   "authors": "A Pappu, B El, H Cao, C di Nolfo, Y Sun, M Cao, J Zou",
+   "venue": "URL https://arxiv. org/abs/2602.01011",
+   "year": null
+  },
+  {
+   "title": "The Widespread Adoption of Large Language Model-Assisted Writing Across Society 2025",
+   "authors": "W Liang, Y Zhang, M Codreanu, J Wang, H Cao, J Zou",
+   "venue": "URL https://arxiv. org/abs/2502.09747",
+   "year": null
+  },
+  {
+   "title": "Ruihao Zhu y Abdallah El Ali. 2024.“User Experience Design Professionals’ Perceptions of Generative Artificial Intelligence.”",
+   "authors": "J Li, H Cao, L Lin, Y Hou",
+   "venue": "arXiv preprint arXiv:2309.15237",
+   "year": null
+  },
+  {
+   "title": "Self-Organizing Agent Teams Learn to Reason Together",
+   "authors": "A Pappu, M Suzgun, Y Kwon, F Bianchi, B El, MJ Kochenderfer, H Cao, ...",
+   "venue": "arXiv preprint arXiv:2609.22682",
+   "year": "2026"
+  },
+  {
+   "title": "Human-AI Collaboration in Science at Scale: A Global Large-scale Randomized Field Experiment",
+   "authors": "B Wang, W Liang, J Xue, Y Zhang, H Cao, D Wang, Y Yin",
+   "venue": "arXiv preprint arXiv:2605.24180",
+   "year": "2026"
+  },
+  {
+   "title": "Comparing scalable strategies for generating numerical perspectives",
+   "authors": "H Cao, SE Spatharioti, DG Goldstein, JM Hofman",
+   "venue": "arXiv preprint arXiv:2308.01535",
+   "year": "2023"
+  },
+  {
+   "title": "Cognitive Work-in-Process: Managing Artifact Abundance in AI-enabled Operations",
+   "authors": "H Cao, R Zhu, H Shen, Q Xiao",
+   "venue": "Available at SSRN 7403918",
+   "year": "2026"
+  },
+  {
+   "title": "From Production to Discernment: Evaluation-Centered Organization Design Under AI-Enabled Production Abundance",
+   "authors": "H Cao, R Zhu, H Shen, Q Xiao",
+   "venue": "Cornell SC Johnson College of Business Research Paper Forthcoming",
+   "year": "2026"
+  },
+  {
+   "title": "Mapping the increasing use of LLMs in scientific papers",
+   "authors": "W Liang, Y Zhang, Z Wu, H Lepp, W Ji, X Zhao, H Cao, S Liu, S He, ...",
+   "venue": "arXiv preprint arXiv:2404.01268",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating and Designing Computing Systems for the Future of Work",
+   "authors": "H Cao",
+   "venue": "Stanford University",
+   "year": "2024"
+  },
+  {
+   "title": "ONLINE SUPPLEMENT to article in",
+   "authors": "M Cheng, DS Smith, X Ren, H Cao, S Smith, DA McFarland",
+   "venue": "AMERICAN SOCIOLOGICAL REVIEW 88",
+   "year": "2023"
+  },
+  {
+   "title": "A Large-Scale Mixed-Methods Analysis of Live Streaming Based Remote Education Experience in Chinese Colleges During the COVID-19 Pandemic",
+   "authors": "Z Chen, H Cao, Y Deng, X Gao, J Piao, F Xu, Y Zhang, Y Li",
+   "venue": "arXiv preprint arXiv:2010.01662",
+   "year": "2020"
+  },
+  {
+   "title": "others. 2024. Monitoring ai-modified content at scale: A case study on the impact of chatgpt on ai conference peer reviews",
+   "authors": "W Liang, Z Izzo, Y Zhang, H Lepp, H Cao, X Zhao, L Chen, H Ye, S Liu, ...",
+   "venue": "arXiv preprint arXiv:2403.07183",
+   "year": "1"
+  },
+  {
+   "title": "Semantics-Aware Hidden Markov Model for Human Mobility",
+   "authors": "H Cao, X Zhou, C Zhang, V Kostakos",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "user": "FkufKDgAAAAJ",
+ "pubs": [
+  {
+   "title": "Phi-4 technical report",
+   "authors": "M Abdin, J Aneja, H Behl, S Bubeck, R Eldan, S Gunasekar, M Harrison, ...",
+   "venue": "arXiv preprint arXiv:2412.08905",
+   "year": "2024"
+  },
+  {
+   "title": "Automatic Prompt Optimization with \"Gradient Descent\" and Beam Search",
+   "authors": "R Pryzant, D Iter, J Li, YT Lee, C Zhu, M Zeng",
+   "venue": "arXiv preprint arXiv:2305.03495",
+   "year": "2023"
+  },
+  {
+   "title": "Causal inference in natural language processing: Estimation, prediction, interpretation and beyond",
+   "authors": "A Feder, KA Keith, E Manzoor, R Pryzant, D Sridhar, Z Wood-Doughty, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 1138-1158",
+   "year": "2022"
+  },
+  {
+   "title": "Prompt engineering a prompt engineer",
+   "authors": "Q Ye, M Ahmed, R Pryzant, F Khani",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 355-385",
+   "year": "2024"
+  },
+  {
+   "title": "Automatically Neutralizing Subjective Bias in Text",
+   "authors": "R Pryzant, RD Martinez, N Dass, S Kurohashi, D Jurafsky, D Yang",
+   "venue": "Proceedings of the Association for the Advancement of Artificial …",
+   "year": "2019"
+  },
+  {
+   "title": "Effective domain mixing for neural machine translation",
+   "authors": "D Britz, Q Le, R Pryzant",
+   "venue": "Proceedings of the second conference on machine translation, 118-126",
+   "year": "2017"
+  },
+  {
+   "title": "Causal Effects of Linguistic Properties",
+   "authors": "R Pryzant, D Card, D Jurafsky, V Veitch, D Sridhar",
+   "venue": "North American Association for Computational Linguistics (NAACL)",
+   "year": "2021"
+  },
+  {
+   "title": "Deconfounded lexicon induction for interpretable social science",
+   "authors": "R Pryzant, K Shen, D Jurafsky, S Wager",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "JESC: Japanese-English Subtitle Corpus",
+   "authors": "R Pryzant, Y Chung, D Jurafsky, D Britz",
+   "venue": "11th edition of the Language Resources and Evaluation Conference (LREC)",
+   "year": "2017"
+  },
+  {
+   "title": "The shifted and the overlooked: A task-oriented investigation of user-GPT interactions",
+   "authors": "S Ouyang, S Wang, Y Liu, M Zhong, Y Jiao, D Iter, R Pryzant, C Zhu, H Ji, ...",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Predicting Sales from the Language of Product Descriptions",
+   "authors": "R Pryzant, Y Chung, D Jurafsky",
+   "venue": "Special Interest Group on Information Retrieval (SIGIR) eCommerce Workshop",
+   "year": "2017"
+  },
+  {
+   "title": "i-code: An integrative and composable multimodal learning framework",
+   "authors": "Z Yang, Y Fang, C Zhu, R Pryzant, D Chen, Y Shi, Y Xu, Y Qian, M Gao, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (9), 10880 …",
+   "year": "2023"
+  },
+  {
+   "title": "Escalated police stops of Black men are linguistically and psychologically distinct in their earliest moments",
+   "authors": "EH Rho, M Harrington, Y Zhong, R Pryzant, NP Camp, D Jurafsky, ...",
+   "venue": "Proceedings of the National Academy of Sciences 120 (23), e2216162120",
+   "year": "2023"
+  },
+  {
+   "title": "Monitoring Ethiopian wheat fungus with satellite imagery and deep feature learning",
+   "authors": "R Pryzant, S Ermon, D Lobell",
+   "venue": "2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops …",
+   "year": "2017"
+  },
+  {
+   "title": "Interpretable Neural Architectures for Attributing an Ad’s Performance to its Writing Style",
+   "authors": "R Pryzant, K Sone, S Basu",
+   "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP …",
+   "year": "2018"
+  },
+  {
+   "title": "In-context demonstration selection with cross entropy difference",
+   "authors": "D Iter, R Pryzant, R Xu, S Wang, Y Liu, Y Xu, C Zhu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 1150-1162",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic Rule Induction for Efficient Semi-Supervised Learning",
+   "authors": "R Pryzant, Z Yang, Y Xu, C Zhu, M Zeng",
+   "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2022"
+  },
+  {
+   "title": "Phi-3 technical report: A highly capable language model locally on your phone. CoRR, abs/2404.14219, 2024. doi: 10.48550",
+   "authors": "MI Abdin, SA Jacobs, AA Awan, J Aneja, A Awadallah, H Awadalla, ...",
+   "venue": "arXiv preprint ARXIV.2404.14219 10",
+   "year": null
+  },
+  {
+   "title": "Soft convex quantization: Revisiting vector quantization with convex optimization",
+   "authors": "T Gautam, R Pryzant, Z Yang, C Zhu, S Sojoudi",
+   "venue": "arXiv preprint arXiv:2310.03004",
+   "year": "2023"
+  },
+  {
+   "title": "APOLLO: A simple approach for adaptive pretraining of language models for logical reasoning",
+   "authors": "S Sanyal, Y Xu, S Wang, Z Yang, R Pryzant, W Yu, C Zhu, X Ren",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone. 2024, DOI: 10.48550",
+   "authors": "M Abdin, J Aneja, H Awadalla, A Awadallah, AA Awan, N Bach, A Bahree, ...",
+   "venue": "arXiv preprint arXiv.2404.14219",
+   "year": null
+  },
+  {
+   "title": "FAST: Improving controllability for text generation with feedback aware self-training",
+   "authors": "J Chai, R Pryzant, VY Dong, K Golobokov, C Zhu, Y Liu",
+   "venue": "arXiv preprint arXiv:2210.03167",
+   "year": "2022"
+  },
+  {
+   "title": "The Prochlorococcus carbon dioxide-concentrating mechanism: evidence of carboxysome-associated heterogeneity",
+   "authors": "CS Ting, KH Dusenbury, RA Pryzant, KW Higgins, CJ Pang, CE Black, ...",
+   "venue": "Photosynthesis research 123 (1), 45-60",
+   "year": "2015"
+  },
+  {
+   "title": "Automatic language model (LM) input optimization using textual gradients",
+   "authors": "RA PRYZANT, JZ Li, D Iter, YT LEE, C Zhu, N Zeng, A Shirgaonkar",
+   "venue": "US Patent 12,632,651",
+   "year": "2026"
+  },
+  {
+   "title": "Phi-3 technical report: A highly capable language model locally on your phone. DOI: 10.48550",
+   "authors": "M Abdin, J Aneja, H Awadalla, A Awadallah, AA Awan, N Bach, A Bahree, ...",
+   "venue": "arXiv preprint arXiv.2404.14219",
+   "year": "2024"
+  },
+  {
+   "title": "Phi-3 technical report: a highly capable language model locally on your phone. CoRR abs/2404.14219 (2024)",
+   "authors": "MI Abdin, SA Jacobs, AA Awan, J Aneja, A Awadallah, H Awadalla, ...",
+   "venue": "arXiv preprint arXiv:2404.14219",
+   "year": "2024"
+  },
+  {
+   "title": "Reinforcement Learning for Atari Breakout",
+   "authors": "VP Berges, P Rao, R Pryzant",
+   "venue": "Stanford University CS 221 Project Paper",
+   "year": "2016"
+  },
+  {
+   "title": "i-code v2: An autoregressive generation framework over vision, language, and speech data",
+   "authors": "Z Yang, M Khademi, Y Xu, R Pryzant, Y Fang, C Zhu, D Chen, Y Qian, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2024, 1615-1627",
+   "year": "2024"
+  },
+  {
+   "title": "i-Code Studio: A Configurable and Composable Framework for Integrative AI",
+   "authors": "Y Fang, M Khademi, C Zhu, Z Yang, R Pryzant, Y Xu, Y Qian, T Yoshioka, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Automatic rule induction for semi-supervised text classification",
+   "authors": "RA PRYZANT, C Zhu, Z Yang, Y XU, N Zeng",
+   "venue": "US Patent App. 17/837,358",
+   "year": "2023"
+  },
+  {
+   "title": "CAPO: Constraint-Aware Prompt Optimization for LLM Agents",
+   "authors": "VY Dong, R Pryzant, Y Liu, J Jiao",
+   "venue": "arXiv preprint arXiv:2608.16068",
+   "year": "2026"
+  },
+  {
+   "title": "Quality assurance for digital technologies using large language models",
+   "authors": "RA PRYZANT, YT LEE, C Zhu, S Bubeck, R ELDAN, Y Fang, D Iter, Y XU, ...",
+   "venue": "US Patent App. 19/428,757",
+   "year": "2026"
+  },
+  {
+   "title": "Quality assurance for digital technologies using large language models",
+   "authors": "RA PRYZANT, YT LEE, C Zhu, S Bubeck, R ELDAN, Y Fang, D Iter, Y XU, ...",
+   "venue": "US Patent 12,554,626",
+   "year": "2026"
+  },
+  {
+   "title": "Training a computer-implemented conditional language model for improved performance",
+   "authors": "C Junyi, K GOLOBOKOV, D Ye, RA PRYZANT, Y Liu",
+   "venue": "US Patent App. 17/842,735",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Causal Inference and NLP",
+   "authors": "A Feder, KA Keith, E Manzoor, R Pryzant, D Sridhar, Z Wood-Doughty, ...",
+   "venue": "Proceedings of the First Workshop on Causal Inference and NLP",
+   "year": "2021"
+  },
+  {
+   "title": "Reinforcement Learning for Atari Breakout",
+   "authors": "VP Berges, P Rao, R Pryzant",
+   "venue": "Stanford University CS 221 Project Paper",
+   "year": "2016"
+  },
+  {
+   "title": "Adaptive Pre-training of Language Models for Better Logical Reasoning",
+   "authors": "S Sanyal, Y Xu, S Wang, Z Yang, R Pryzant, W Yu, C Zhu, X Ren",
+   "venue": "NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": null
+  }
+ ]
+}

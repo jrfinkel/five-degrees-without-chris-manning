@@ -1,0 +1,839 @@
+{
+ "user": "LZZAAtoAAAAJ",
+ "pubs": [
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "TMLR",
+   "year": "2022"
+  },
+  {
+   "title": "StarCoder: may the source be with you!",
+   "authors": "R Li, LB Allal, Y Zi, N Muennighoff, D Kocetkov, C Mou, M Marone, C Akiki, ...",
+   "venue": "TMLR",
+   "year": "2023"
+  },
+  {
+   "title": "Stereoset: Measuring stereotypical bias in pretrained language models",
+   "authors": "M Nadeem, A Bethke, S Reddy",
+   "venue": "Association for Computational Linguistics (ACL 2021)",
+   "year": "2021"
+  },
+  {
+   "title": "CoQA: A Conversational Question Answering Challenge",
+   "authors": "S Reddy, D Chen, CD Manning",
+   "venue": "Transactions of the Association for Computational Linguistics 7, 249-266",
+   "year": "2019"
+  },
+  {
+   "title": "CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies",
+   "authors": "D Zeman, M Popel, M Straka, J Hajič, J Nivre, F Ginter, J Luotolahti, ...",
+   "venue": "Proceedings of the CoNLL 2017 Shared Task Multilingual Parsing from Raw Text …",
+   "year": "2017"
+  },
+  {
+   "title": "Llm2vec: Large language models are secretly powerful text encoders",
+   "authors": "P BehnamGhader, V Adlakha, M Mosbach, D Bahdanau, N Chapados, ...",
+   "venue": "COLM",
+   "year": "2024"
+  },
+  {
+   "title": "The Impact of Positional Encoding on Length Generalization in Transformers",
+   "authors": "A Kazemnejad, I Padhi, KN Ramamurthy, P Das, S Reddy",
+   "venue": "NeurIPS",
+   "year": "2023"
+  },
+  {
+   "title": "Post-hoc interpretability for neural nlp: A survey",
+   "authors": "A Madsen, S Reddy, S Chandar",
+   "venue": "ACM Computing Surveys 55 (8), 1-42",
+   "year": "2022"
+  },
+  {
+   "title": "Question Answering on Freebase via Relation Extraction and Textual Evidence",
+   "authors": "K Xu, S Reddy, Y Feng, S Huang, D Zhao",
+   "venue": "Proceedings of the Association for Computational Linguistics (ACL 2016)",
+   "year": "2016"
+  },
+  {
+   "title": "On the Origin of Hallucinations in Conversational Models: Is it the Datasets or the Models?",
+   "authors": "N Dziri, S Milton, M Yu, O Zaiane, S Reddy",
+   "venue": "North American Association for Computational Linguistics (NAACL 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Large-scale Semantic Parsing without Question-Answer Pairs",
+   "authors": "S Reddy, M Lapata, M Steedman",
+   "venue": "Transactions of the Association for Computational Linguistics (TACL 2014) 2 …",
+   "year": "2014"
+  },
+  {
+   "title": "An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-Trained Language Models",
+   "authors": "N Meade, E Poole-Dayan, S Reddy",
+   "venue": "Association for Computational Linguistics (ACL 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating correctness and faithfulness of instruction-following models for question answering",
+   "authors": "V Adlakha, P BehnamGhader, XH Lu, N Meade, S Reddy",
+   "venue": "TACL",
+   "year": "2024"
+  },
+  {
+   "title": "Visually Grounded Reasoning across Languages and Cultures",
+   "authors": "F Liu, E Bugliarello, EM Ponti, S Reddy, N Collier, D Elliott",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to Paraphrase for Question Answering",
+   "authors": "L Dong, J Mallinson, S Reddy, M Lapata",
+   "venue": "Proceedings of the Empirical Methods in Natural Language Processing (EMNLP 2017)",
+   "year": "2017"
+  },
+  {
+   "title": "Vineppo: Unlocking rl potential for llm reasoning through refined credit assignment",
+   "authors": "A Kazemnejad, M Aghajohari, E Portelance, A Sordoni, S Reddy, ...",
+   "venue": "ICML",
+   "year": "2025"
+  },
+  {
+   "title": "An Empirical Study on Compositionality in Compound Nouns",
+   "authors": "S Reddy, D McCarthy, S Manandhar",
+   "venue": "Proceedings of The 5th International Joint Conference on Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "End-to-end training of multi-document reader and retriever for open-domain question answering",
+   "authors": "D Singh, S Reddy, W Hamilton, C Dyer, D Yogatama",
+   "venue": "Advances in Neural Information Processing Systems 34, 25968-25981",
+   "year": "2021"
+  },
+  {
+   "title": "MMTEB: Massive Multilingual Text Embedding Benchmark",
+   "authors": "K Enevoldsen, I Chung, I Kerboua, M Kardos, A Mathur, D Stap, J Gala, ...",
+   "venue": "ICLR",
+   "year": "2025"
+  },
+  {
+   "title": "Transforming Dependency Structures to Logical Forms for Semantic Parsing",
+   "authors": "S Reddy, O Täckström, M Collins, T Kwiatkowski, D Das, M Steedman, ...",
+   "venue": "Transactions of the Association for Computational Linguistics (TACL 2016) 4",
+   "year": "2016"
+  },
+  {
+   "title": "TopiOCQA: Open-domain Conversational Question Answering with Topic Switching",
+   "authors": "V Adlakha, S Dhuliawala, K Suleman, H de Vries, S Reddy",
+   "venue": "Transactions of ACL (TACL 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Weblinx: Real-world website navigation with multi-turn dialogue",
+   "authors": "XH Lù, Z Kasner, S Reddy",
+   "venue": "ICML",
+   "year": "2024"
+  },
+  {
+   "title": "The browsergym ecosystem for web agent research",
+   "authors": "D Chezelles, T Le Sellier, M Gasse, A Drouin, M Caccia, L Boisvert, ...",
+   "venue": "TMLR",
+   "year": "2025"
+  },
+  {
+   "title": "Are self-explanations from Large Language Models faithful?",
+   "authors": "A Madsen, S Chandar, S Reddy",
+   "venue": "ACL Findings",
+   "year": "2024"
+  },
+  {
+   "title": "FaithDial: A Faithful Benchmark for Information-Seeking Dialogue",
+   "authors": "N Dziri, E Kamalloo, S Milton, O Zaiane, M Yu, EM Ponti, S Reddy",
+   "venue": "Transactions of Association for Computational Linguistics (TACL 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks",
+   "authors": "R Das, M Zaheer, S Reddy, A McCallum",
+   "venue": "Proceedings of the Association for Computational Linguistics (ACL 2017)",
+   "year": "2017"
+  },
+  {
+   "title": "A Corpus Factory for Many Languages.",
+   "authors": "A Kilgarriff, S Reddy, J Pomikálek, PVS Avinesh",
+   "venue": "LREC",
+   "year": "2010"
+  },
+  {
+   "title": "Benchmarking vision language models for cultural understanding",
+   "authors": "S Nayak, K Jain, R Awal, S Reddy, S van Steenkiste, LA Hendricks, ...",
+   "venue": "EMNLP",
+   "year": "2024"
+  },
+  {
+   "title": "Understanding by Understanding Not: Modeling Negation in Language Models",
+   "authors": "A Hosseini, S Reddy, D Bahdanau, RD Hjelm, A Sordoni, A Courville",
+   "venue": "North American Association for Computational Linguistics (NAACL 2021)",
+   "year": "2021"
+  },
+  {
+   "title": "Universal Semantic Parsing",
+   "authors": "S Reddy, O Täckström, S Petrov, M Steedman, M Lapata",
+   "venue": "Proceedings of the Empirical Methods in Natural Language Processing (EMNLP 2017)",
+   "year": "2017"
+  },
+  {
+   "title": "DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning",
+   "authors": "SV Marjanović, A Patel, V Adlakha, M Aghajohari, P BehnamGhader, ...",
+   "venue": "TMLR 2026",
+   "year": "2025"
+  },
+  {
+   "title": "Safearena: Evaluating the safety of autonomous web agents",
+   "authors": "AD Tur, N Meade, XH Lù, A Zambrano, A Patel, E Durmus, S Gella, ...",
+   "venue": "ICML",
+   "year": "2025"
+  },
+  {
+   "title": "Combining Parameter-efficient Modules for Task-level Generalisation",
+   "authors": "EM Ponti, A Sordoni, Y Bengio, S Reddy",
+   "venue": "European Chapter of the Association for Computational Linguistics (EACL …",
+   "year": "2023"
+  },
+  {
+   "title": "Predicting Target Language CCG Supertags Improves Neural Machine Translation",
+   "authors": "M Nadejde, S Reddy, R Sennrich, T Dwojak, M Junczys-Dowmunt, ...",
+   "venue": "WMT 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Learning Structured Natural Language Representations for Semantic Parsing",
+   "authors": "J Cheng, S Reddy, V Saraswat, M Lapata",
+   "venue": "Proceedings of the Association for Computational Linguistics (ACL 2017)",
+   "year": "2017"
+  },
+  {
+   "title": "IGLUE: A benchmark for transfer learning across modalities, tasks, and languages",
+   "authors": "E Bugliarello, F Liu, J Pfeiffer, S Reddy, D Elliott, EM Ponti, I Vulić",
+   "venue": "International Conference on Machine Learning (ICML 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Cross Language POS Taggers (and other Tools) for Indian Languages: An Experiment with Kannada using Telugu Resources",
+   "authors": "S Reddy, S Sharoff",
+   "venue": "Proceedings of IJCNLP workshop on Cross Lingual Information Access …",
+   "year": "2011"
+  },
+  {
+   "title": "Agentrewardbench: Evaluating automatic evaluations of web agent trajectories",
+   "authors": "XH Lù, A Kazemnejad, N Meade, A Patel, D Shin, A Zambrano, ...",
+   "venue": "COLM",
+   "year": "2025"
+  },
+  {
+   "title": "Words aren't enough, their order matters: On the Robustness of Grounding Visual Referring Expressions",
+   "authors": "AR Akula, S Gella, Y Al-Onaizan, SC Zhu, S Reddy",
+   "venue": "Proceedings of the Association for Computational Linguistics (ACL 2020 …",
+   "year": "2020"
+  },
+  {
+   "title": "Abg-coqa: Clarifying ambiguity in conversational question answering",
+   "authors": "M Guo, M Zhang, S Reddy, M Alikhani",
+   "venue": "3rd Conference on Automated Knowledge Base Construction",
+   "year": "2021"
+  },
+  {
+   "title": "Data science opportunities of large language models for neuroscience and biomedicine",
+   "authors": "D Bzdok, A Thieme, O Levkovskyy, P Wren, T Ray, S Reddy",
+   "venue": "Neuron 112 (5), 698-717",
+   "year": "2024"
+  },
+  {
+   "title": "Measuring Systematic Generalization in Neural Proof Generation with Transformers",
+   "authors": "N Gontier, K Sinha, S Reddy, C Pal",
+   "venue": "NeurIPS",
+   "year": "2020"
+  },
+  {
+   "title": "In-context learning for text classification with many labels",
+   "authors": "A Milios, S Reddy, D Bahdanau",
+   "venue": "Proceedings of the 1st GenBench Workshop on (Benchmarking) Generalisation in …",
+   "year": "2023"
+  },
+  {
+   "title": "Using In-Context Learning to Improve Dialogue Safety",
+   "authors": "N Meade, S Gella, D Hazarika, P Gupta, D Jin, S Reddy, Y Liu, ...",
+   "venue": "EMNLP Findings",
+   "year": "2023"
+  },
+  {
+   "title": "Evaluating the faithfulness of importance measures in nlp by recursively masking allegedly important tokens and retraining",
+   "authors": "A Madsen, N Meade, V Adlakha, S Reddy",
+   "venue": "Findings of Empirical Methods in Natural Language Processing (EMNLP 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "MeDAL: Medical abbreviation disambiguation dataset for natural language understanding pretraining",
+   "authors": "Z Wen, XH Lu, S Reddy",
+   "venue": "ClinicalNLP, EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Learning an Executable Neural Semantic Parser",
+   "authors": "J Cheng, S Reddy, V Saraswat, M Lapata",
+   "venue": "Computational Linguistics 45 (1), 59-94",
+   "year": "2019"
+  },
+  {
+   "title": "Image Retrieval from Contextual Descriptions",
+   "authors": "B Krojer, V Adlakha, V Vineet, Y Goyal, E Ponti, S Reddy",
+   "venue": "Association for Computational Linguistics (ACL 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Dynamic and Static Prototype Vectors for Semantic Composition",
+   "authors": "S Reddy, I Klapaftis, D McCarthy, S Manandhar",
+   "venue": "Proceedings of The 5th International Joint Conference on Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "REARANK: Reasoning Re-ranking Agent via Reinforcement Learning",
+   "authors": "L Zhang, B Wang, X Qiu, S Reddy, A Agrawal",
+   "venue": "EMNLP",
+   "year": "2025"
+  },
+  {
+   "title": "Scope Ambiguities in Large Language Models",
+   "authors": "G Kamath, S Schuster, S Vajjala, S Reddy",
+   "venue": "TACL",
+   "year": "2024"
+  },
+  {
+   "title": "Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment",
+   "authors": "Z Li, P Sharma, XH Lu, JCK Cheung, S Reddy",
+   "venue": "Findings of the Association for Computational Linguistics (ACL 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Assessing Relative Sentence Complexity using an Incremental CCG Parser",
+   "authors": "BR Ambati, S Reddy, M Steedman",
+   "venue": "NAACL",
+   "year": "2016"
+  },
+  {
+   "title": "Learning typed entailment graphs with global soft constraints",
+   "authors": "MJ Hosseini, N Chambers, S Reddy, XR Holt, SB Cohen, M Johnson, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 703-717",
+   "year": "2018"
+  },
+  {
+   "title": "Can retriever-augmented language models reason? the blame game between the retriever and the language model",
+   "authors": "P BehnamGhader, S Miret, S Reddy",
+   "venue": "EMNLP Findings",
+   "year": "2023"
+  },
+  {
+   "title": "The Power of Prompt Tuning for Low-Resource Semantic Parsing",
+   "authors": "N Schucher, S Reddy, H de Vries",
+   "venue": "Association for Computational Linguistics (ACL 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Learning Action and Reasoning-Centric Image Editing from Videos and Simulations",
+   "authors": "B Krojer, D Vattikonda, L Lara, V Jampani, E Portelance, C Pal, S Reddy",
+   "venue": "NeurIPS 2024 Track on Datasets and Benchmarks",
+   "year": "2024"
+  },
+  {
+   "title": "Few-shot Question Generation for Personalized Feedback in Intelligent Tutoring Systems",
+   "authors": "D Kulshreshtha, M Shayan, R Belfer, S Reddy, IV Serban, E Kochmar",
+   "venue": "arXiv preprint arXiv:2206.04187",
+   "year": "2022"
+  },
+  {
+   "title": "Paraphrase generation from latent-variable PCFGs for semantic parsing",
+   "authors": "S Narayan, S Reddy, SB Cohen",
+   "venue": "Proceedings of the 9th International Natural Language Generation conference …",
+   "year": "2016"
+  },
+  {
+   "title": "Large language models deconstruct the clinical intuition behind diagnosing autism",
+   "authors": "J Stanley, E Rabot, S Reddy, E Belilovsky, L Mottron, D Bzdok",
+   "venue": "Cell 188 (8), 2235-2248. e10",
+   "year": "2025"
+  },
+  {
+   "title": "Bigdocs: An open dataset for training multimodal models on document and code tasks",
+   "authors": "JA Rodriguez, X Jian, SS Panigrahi, T Zhang, A Feizi, A Puri, AK Suresh, ...",
+   "venue": "ICLR",
+   "year": "2025"
+  },
+  {
+   "title": "Interpretability needs a new paradigm",
+   "authors": "A Madsen, H Lakkaraju, S Reddy, S Chandar",
+   "venue": "arXiv preprint arXiv:2405.05386",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating Induced CCG Parsers on Grounded Semantic Parsing",
+   "authors": "Y Bisk, S Reddy, J Blitzer, J Hockenmaier, M Steedman",
+   "venue": "Proceedings of the Empirical Methods in Natural Language Processing (EMNLP 2016)",
+   "year": "2016"
+  },
+  {
+   "title": "The Markovian Thinker: Architecture-Agnostic Linear Scaling of Reasoning",
+   "authors": "M Aghajohari, K Chitsaz, A Kazemnejad, S Chandar, A Sordoni, ...",
+   "venue": "ICLR",
+   "year": "2026"
+  },
+  {
+   "title": "The Curious Case of Absolute Position Embeddings",
+   "authors": "K Sinha, A Kazemnejad, S Reddy, J Pineau, D Hupkes, A Williams",
+   "venue": "Findings of Empirical Methods in Natural Language Processing (EMNLP 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Word Sketches for Turkish.",
+   "authors": "BR Ambati, S Reddy, A Kilgarriff",
+   "venue": "LREC, 2945-2950",
+   "year": "2012"
+  },
+  {
+   "title": "Are Diffusion Models Vision-And-Language Reasoners?",
+   "authors": "B Krojer, E Poole-Dayan, V Voleti, C Pal, S Reddy",
+   "venue": "NeurIPS",
+   "year": "2023"
+  },
+  {
+   "title": "IIITH: domain specific word sense disambiguation",
+   "authors": "S Reddy, A Inumella, D McCarthy, M Stevenson",
+   "venue": "Proceedings of the 5th International Workshop on Semantic Evaluation, 387-391",
+   "year": "2010"
+  },
+  {
+   "title": "WebMMU: A benchmark for multimodal multilingual website understanding and code generation",
+   "authors": "R Awal, M Massoud, Z Li, A Feizi, S Wang, C Pal, A Agrawal, D Vazquez, ...",
+   "venue": "EMNLP",
+   "year": "2025"
+  },
+  {
+   "title": "Evaluating In-Context Learning of Libraries for Code Generation",
+   "authors": "A Patel, S Reddy, D Bahdanau, P Dasigi",
+   "venue": "NAACL",
+   "year": "2024"
+  },
+  {
+   "title": "Modelling latent translations for cross-lingual transfer",
+   "authors": "EM Ponti, J Kreutzer, I Vulić, S Reddy",
+   "venue": "arXiv preprint arXiv:2107.11353",
+   "year": "2021"
+  },
+  {
+   "title": "OSWorld2. 0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
+   "authors": "M Yuan, Z Zhou, X Xiong, W Wu, J Sun, J Song, K Cui, B Wang, H Wu, ...",
+   "venue": "arXiv preprint arXiv:2606.29537",
+   "year": "2026"
+  },
+  {
+   "title": "Investigating Adversarial Trigger Transfer in Large Language Models",
+   "authors": "N Meade, A Patel, S Reddy",
+   "venue": "TACL",
+   "year": "2025"
+  },
+  {
+   "title": "Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval",
+   "authors": "D Kulshreshtha, R Belfer, IV Serban, S Reddy",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2021"
+  },
+  {
+   "title": "Semantic word sketches",
+   "authors": "D McCarthy, A Kilgarriff, M Jakubicek, S Reddy",
+   "venue": "Corpus Linguistics 2015",
+   "year": "2015"
+  },
+  {
+   "title": "Not all data are unlearned equally",
+   "authors": "A Krishnan, S Reddy, M Mosbach",
+   "venue": "COLM",
+   "year": "2025"
+  },
+  {
+   "title": "Explicitly modeling syntax in language models with incremental parsing and a dynamic oracle",
+   "authors": "Y Shen, S Tan, A Sordoni, S Reddy, A Courville",
+   "venue": "North American Association for Computational Linguistics (NAACL 2021)",
+   "year": "2020"
+  },
+  {
+   "title": "Exemplar-based Word-Space Model for Compositionality Detection: Shared task system description",
+   "authors": "S Reddy, D McCarthy, S Manandhar, S Gella",
+   "venue": "Workshop on Distributional Semantics and Compositionality, ACL 2011, 54",
+   "year": "2011"
+  },
+  {
+   "title": "Build the web for agents, not agents for the web",
+   "authors": "XH Lù, G Kamath, M Mosbach, S Reddy",
+   "venue": "arXiv preprint arXiv:2506.10953",
+   "year": "2025"
+  },
+  {
+   "title": "How to get your llm to generate challenging problems for evaluation",
+   "authors": "A Patel, S Reddy, D Bahdanau",
+   "venue": "LLM-eval workshop, NeurIPS",
+   "year": "2025"
+  },
+  {
+   "title": "Evaluating Dependencies in Fact Editing for Language Models: Specificity and Implication Awareness",
+   "authors": "Z Li, I Arous, S Reddy, JCK Cheung",
+   "venue": "EMNLP Findings, 7623-7636",
+   "year": "2023"
+  },
+  {
+   "title": "DNN-based Speech Synthesis for Indian Languages from ASCII text",
+   "authors": "S Ronanki, S Reddy, B Bollepalli, S King",
+   "venue": "Speech Synthesis Workshop",
+   "year": "2016"
+  },
+  {
+   "title": "Minimax and Neyman-Pearson Meta-Learning for Outlier Languages",
+   "authors": "EM Ponti, R Aralikatte, D Shrivastava, S Reddy, A Søgaard",
+   "venue": "Findings of the Association for Computational Linguistics (ACL 2021)",
+   "year": "2021"
+  },
+  {
+   "title": "The blind spot of agent safety: How benign user instructions expose critical vulnerabilities in computer-use agents",
+   "authors": "X Ding, S Zhai, L Song, J Li, T Shi, N Meade, S Reddy, J Kang, J Zhao",
+   "venue": "arXiv preprint arXiv:2604.10577",
+   "year": "2026"
+  },
+  {
+   "title": "Learning Improvised Chatbots from Adversarial Modifications of Natural Language Feedback",
+   "authors": "MN Sreedhar, K Ni, S Reddy",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs",
+   "authors": "B Krojer, S Nayak, O Mañas, V Adlakha, D Elliott, S Reddy, M Mosbach",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "ROSA: Random subspace adaptation for efficient fine-tuning",
+   "authors": "MGA Hameed, A Milios, S Reddy, G Rabusseau",
+   "venue": "arXiv preprint arXiv:2407.07802",
+   "year": "2024"
+  },
+  {
+   "title": "Faithfulness measurable masked language models",
+   "authors": "A Madsen, S Reddy, S Chandar",
+   "venue": "ICML",
+   "year": "2024"
+  },
+  {
+   "title": "The StatCan Dialogue Dataset: Retrieving Data Tables through Conversations with Genuine Intents",
+   "authors": "XH Lu, S Reddy, H de Vries",
+   "venue": "European Chapter of the Association for Computational Linguistics (EACL)",
+   "year": "2023"
+  },
+  {
+   "title": "Building a neural semantic parser from a domain ontology",
+   "authors": "J Cheng, S Reddy, M Lapata",
+   "venue": "arXiv preprint arXiv:1812.10037",
+   "year": "2018"
+  },
+  {
+   "title": "Universal dependencies to logical form with negation scope",
+   "authors": "F Fancellu, S Reddy, A Lopez, B Webber",
+   "venue": "Proceedings of the workshop computational semantics beyond events and roles …",
+   "year": "2017"
+  },
+  {
+   "title": "MAGNIFICo: Evaluating the In-Context Learning Ability of Large Language Models to Generalize to Novel Interpretations",
+   "authors": "A Patel, S Bhattamishra, S Reddy, D Bahdanau",
+   "venue": "EMNLP",
+   "year": "2023"
+  },
+  {
+   "title": "Mind the Context: The Impact of Contextualization in Neural Module Networks for Grounding Visual Referring Expressions",
+   "authors": "AR Akula, S Gella, K Wang, SC Zhu, S Reddy",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2021"
+  },
+  {
+   "title": "Societal alignment frameworks can improve llm alignment",
+   "authors": "K Stańczak, N Meade, M Bhatia, H Zhou, K Böttinger, J Barnes, J Stanley, ...",
+   "venue": "ACM FAccT",
+   "year": "2026"
+  },
+  {
+   "title": "Exploiting Instruction-Following Retrievers for Malicious Information Retrieval",
+   "authors": "P BehnamGhader, N Meade, S Reddy",
+   "venue": "ACL Findings",
+   "year": "2025"
+  },
+  {
+   "title": "Compositional generalization in dependency parsing",
+   "authors": "E Goodwin, S Reddy, TJ O'Donnell, D Bahdanau",
+   "venue": "Association for Computational Linguistics (ACL 2022)",
+   "year": "2022"
+  },
+  {
+   "title": "Value drifts: Tracing value alignment during llm post-training",
+   "authors": "M Bhatia, S Nayak, G Kamath, M Mosbach, V Shwartz, S Reddy",
+   "venue": "TACL",
+   "year": "2026"
+  },
+  {
+   "title": "Does entity abstraction help generative Transformers reason?",
+   "authors": "N Gontier, S Reddy, C Pal",
+   "venue": "Transactions of Machine Learning Research (TMLR)",
+   "year": "2022"
+  },
+  {
+   "title": "The promise of rl for autoregressive image editing",
+   "authors": "S Ahmadi, R Awal, A Sikarwar, A Kazemnejad, GY Luo, JA Rodriguez, ...",
+   "venue": "NeurIPS",
+   "year": "2025"
+  },
+  {
+   "title": "Syntactic Substitutability as Unsupervised Dependency Syntax",
+   "authors": "J Jian, S Reddy",
+   "venue": "EMNLP",
+   "year": "2023"
+  },
+  {
+   "title": "Feed Corpus: an ever growing up-to-date corpus",
+   "authors": "A Minocha, S Reddy, A Kilgarriff",
+   "venue": "Evert, Stefan/Stemle, Egon/Rayson, Paul (Hg.): Proceedings of the 8th Web as …",
+   "year": "2014"
+  },
+  {
+   "title": "WSD as a distributed constraint optimization problem",
+   "authors": "S Reddy, A Inumella",
+   "venue": "Proceedings of the ACL 2010 Student Research Workshop, 13-18",
+   "year": "2010"
+  },
+  {
+   "title": "All words unsupervised semantic category labeling for hindi",
+   "authors": "S Reddy, A Inumella, R Sangal, S Paul",
+   "venue": "Proceedings of the International Conference RANLP-2009, 365-369",
+   "year": "2009"
+  },
+  {
+   "title": "Semantic change in adults is not primarily a generational phenomenon",
+   "authors": "G Kamath, M Yang, S Reddy, M Sonderegger, D Card",
+   "venue": "Proceedings of the National Academy of Sciences 122 (31), e2426815122",
+   "year": "2025"
+  },
+  {
+   "title": "LLM2Vec-Gen: Generative Embeddings from Large Language Models",
+   "authors": "P BehnamGhader, V Adlakha, FD Schmidt, N Chapados, M Mosbach, ...",
+   "venue": "COLM",
+   "year": "2026"
+  },
+  {
+   "title": "Reframing linguistic bootstrapping as joint inference using visually-grounded grammar induction models",
+   "authors": "E Portelance, S Reddy, TJ O’Donnell",
+   "venue": "Journal of Memory and Language 145, 104672",
+   "year": "2025"
+  },
+  {
+   "title": "Hindi semantic category labeling using semantic relatedness measures",
+   "authors": "S Reddy, A Inumella, N Singh, R Sangal",
+   "venue": "Proceedings of Global WordNet Conference, 448-453",
+   "year": "2010"
+  },
+  {
+   "title": "Cube: A standard for unifying agent benchmarks",
+   "authors": "A Lacoste, N Gontier, O Shliazhko, A Jaiswal, K Sareen, S Nanisetty, ...",
+   "venue": "arXiv preprint arXiv:2603.15798",
+   "year": "2026"
+  },
+  {
+   "title": "BRIDGE: Predicting Human Task Completion Time From Model Performance",
+   "authors": "F Liu, J Gala, D Bahdanau, S Reddy, H Larochelle",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "Understanding the Influence of Synthetic Data for Text Embedders",
+   "authors": "JM Springer, V Adlakha, S Reddy, A Raghunathan, M Mosbach",
+   "venue": "ACL Findings",
+   "year": "2025"
+  },
+  {
+   "title": "Language Models Largely Exhibit Human-like Constituent Ordering Preferences",
+   "authors": "AD Tur, G Kamath, S Reddy",
+   "venue": "NAACL",
+   "year": "2025"
+  },
+  {
+   "title": "Structured Distillation of Web Agent Capabilities Enables Generalization",
+   "authors": "XH Lù, S Reddy",
+   "venue": "arXiv preprint arXiv:2604.07776",
+   "year": "2026"
+  },
+  {
+   "title": "Humans and LLMs Diverge on Probabilistic Inferences",
+   "authors": "G Kamath, S Madathil, S Schuster, MC de Marneffe, S Reddy",
+   "venue": "TACL",
+   "year": "2026"
+  },
+  {
+   "title": "Operationalising the Superficial Alignment Hypothesis via Task Complexity",
+   "authors": "T Vergara-Browne, D Patil, I Titov, S Reddy, T Pimentel, M Mosbach",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "Warmup Generations: A Task-Agnostic Approach for Guiding Sequence-to-Sequence Learning with Unsupervised Initial State Generation",
+   "authors": "S Li, Z Sun, J Wang, X Liu, P Stenetorp, S Reddy, DI Adelani",
+   "venue": "ACL",
+   "year": "2025"
+  },
+  {
+   "title": "DSS: text similarity using lexical alignments of form, distributional semantics and grammatical relations",
+   "authors": "D McCarthy, S Gella, S Reddy",
+   "venue": "* SEM 2012: The First Joint Conference on Lexical and Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Word Sense Disambiguation Using Semantic Categories, Domain Information and Knowledge Sources",
+   "authors": "S Reddy",
+   "venue": "Sc (By Research) Thesis, Language Technologies Research Centre International …",
+   "year": "2010"
+  },
+  {
+   "title": "AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility",
+   "authors": "X Liu, J Tu, Y Chen, S Xie, S Ren, T Shi, G Gantar, E Sandoval, D Lee, ...",
+   "venue": "arXiv preprint arXiv:2606.13608",
+   "year": "2026"
+  },
+  {
+   "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+   "authors": "M Boglioni, T Rousset, S Reddy, M Mosbach, V Dankers",
+   "venue": "COLM",
+   "year": "2026"
+  },
+  {
+   "title": "Hierarchical Retrieval at Scale: Bridging Transparency and Efficiency",
+   "authors": "S Gupta, Z Li, T Chen, C Subakan, S Reddy, P Taslakian, V Zantedeschi",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "Uncertainty Quantification of Large Language Models using Approximate Bayesian Computation",
+   "authors": "M Sharma, A Patel, ZD Souza, SA Rahimi, S Reddy, S Madathil",
+   "venue": "arXiv preprint arXiv:2509.19375",
+   "year": "2025"
+  },
+  {
+   "title": "Syntax-Mediated Semantic Parsing",
+   "authors": "S Reddy",
+   "venue": "University of Edinburgh",
+   "year": "2017"
+  },
+  {
+   "title": "Hindi Word Sketches",
+   "authors": "AK Eragani, V Kuchibhotla, DM Sharma, S Reddy, A Kilgarriff",
+   "venue": "Proceedings of the 11th International Conference on Natural Language Processing",
+   "year": "2014"
+  },
+  {
+   "title": "AdaptArena: Evaluating Test-Time Personalization of Web Agents",
+   "authors": "D Shin, XH Lù, J Deng, J Gala, TV Browne, J Moon, F Liu, A Drouin, ...",
+   "venue": "arXiv preprint arXiv:2609.36488",
+   "year": "2026"
+  },
+  {
+   "title": "Toward Open Weight Models Without Risks: Separating Public and Private Capabilities in LLMs",
+   "authors": "CE Feghali, A Patel, N Meade, S Gella, V Dankers, S Reddy",
+   "venue": "arXiv preprint arXiv:2606.21638",
+   "year": "2026"
+  },
+  {
+   "title": "Would you still call this Dax? Novel Visual References in VLMs and Humans",
+   "authors": "AD Tür, G Kamath, J Chai, S Reddy, B Krojer",
+   "venue": "EMNLP",
+   "year": "2026"
+  },
+  {
+   "title": "CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA",
+   "authors": "H Oh, P BehnamGhader, B Krojer, H Lee, P Liang, S Reddy, V Dankers",
+   "venue": "ECCV",
+   "year": "2026"
+  },
+  {
+   "title": "Leveraging Routing Dynamics in Mixture-of-Experts Models for Efficient Language Adaptation",
+   "authors": "A Khandelwal, M Mosbach, V Dankers, S Reddy, G Farnadi",
+   "venue": "EMNLP",
+   "year": "2026"
+  },
+  {
+   "title": "Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection",
+   "authors": "FP Zadeh, S Choi, XH Lù, S Reddy, G Kim",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics",
+   "authors": "A Patel, S Reddy, M Mosbach, D Bahdanau",
+   "venue": "arXiv preprint arXiv:2605.18607",
+   "year": "2026"
+  },
+  {
+   "title": "A Compositional Typed Semantics for Universal Dependencies",
+   "authors": "L Bradford, TJ O'Donnell, S Reddy",
+   "venue": "arXiv preprint arXiv:2403.01187",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 6: Tutorial Abstracts)",
+   "authors": "YNV Chen, M Mieskes, S Reddy",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on Document-grounded Dialogue and Conversational Question Answering (DialDoc 2021)",
+   "authors": "S Feng, S Reddy, M Alikhani, H He, Y Ji, M Iyyer, Z Yu",
+   "venue": "Proceedings of the 1st Workshop on Document-grounded Dialogue and …",
+   "year": "2021"
+  },
+  {
+   "title": "Polysemy in Compositional Distributional Semantics",
+   "authors": "S Reddy",
+   "venue": "University of York",
+   "year": "2012"
+  },
+  {
+   "title": "Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency",
+   "authors": "S Gupta, Z Li, T Chen, C Subakan, S Reddy, P Taslakian, V Zantedeschi",
+   "venue": "Forty-third International Conference on Machine Learning",
+   "year": null
+  },
+  {
+   "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+   "authors": "I Kerboua, FP Zadeh, XH Lù, W Qi, A Miller, J Song, Y Tian, D Kang, ...",
+   "venue": "Second Workshop on Agents in the Wild: Safety, Security, and Beyond",
+   "year": null
+  },
+  {
+   "title": "Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection",
+   "authors": "S Choi, XH Lù, S Reddy, G Kim",
+   "venue": "ICLR 2026 Workshop on Lifelong Agents: Learning, Aligning, Evolving",
+   "year": null
+  },
+  {
+   "title": "Understanding Scaling Laws With Token-Level Analysis",
+   "authors": "A Patel, M Mosbach, S Reddy, D Bahdanau",
+   "venue": "Workshop on Scientific Methods for Understanding Deep Learning",
+   "year": null
+  },
+  {
+   "title": "Incorporating Structure into Language Models",
+   "authors": "A Paranjape, S Reddy, CD Manning",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

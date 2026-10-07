@@ -1,0 +1,1217 @@
+{
+ "user": "5ygiTwsAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Emergent abilities of large language models",
+   "authors": "J Wei",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2022"
+  },
+  {
+   "title": "Stanford alpaca: An instruction-following llama model",
+   "authors": "R Taori, I Gulrajani, T Zhang, Y Dubois, X Li, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization",
+   "authors": "S Sagawa, PW Koh, TB Hashimoto, P Liang",
+   "venue": "arXiv preprint arXiv:1911.08731",
+   "year": "2019"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "s1: Simple test-time scaling",
+   "authors": "N Muennighoff, Z Yang, W Shi, XL Li, L Fei-Fei, H Hajishirzi, L Zettlemoyer, ...",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Diffusion-lm improves controllable text generation",
+   "authors": "X Li, J Thickstun, I Gulrajani, PS Liang, TB Hashimoto",
+   "venue": "Advances in neural information processing systems 35, 4328-4343",
+   "year": "2022"
+  },
+  {
+   "title": "Whose opinions do language models reflect?",
+   "authors": "S Santurkar, E Durmus, F Ladhak, C Lee, P Liang, T Hashimoto",
+   "venue": "International conference on machine learning, 29971-30004",
+   "year": "2023"
+  },
+  {
+   "title": "Alpacaeval: An automatic evaluator of instruction-following models",
+   "authors": "X Li, T Zhang, Y Dubois, R Taori, I Gulrajani, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Length-controlled alpacaeval: A simple way to debias automatic evaluators",
+   "authors": "Y Dubois, B Galambosi, P Liang, TB Hashimoto",
+   "venue": "arXiv preprint arXiv:2404.04475",
+   "year": "2024"
+  },
+  {
+   "title": "Benchmarking large language models for news summarization",
+   "authors": "T Zhang, F Ladhak, E Durmus, P Liang, K McKeown, TB Hashimoto",
+   "venue": "Transactions of the Association for Computational Linguistics 12, 39-57",
+   "year": "2024"
+  },
+  {
+   "title": "Alpacafarm: A simulation framework for methods that learn from human feedback",
+   "authors": "Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 30039-30069",
+   "year": "2023"
+  },
+  {
+   "title": "Fairness without demographics in repeated loss minimization",
+   "authors": "T Hashimoto, M Srivastava, H Namkoong, P Liang",
+   "venue": "International conference on machine learning, 1929-1938",
+   "year": "2018"
+  },
+  {
+   "title": "Contrastive decoding: Open-ended text generation as optimization",
+   "authors": "XL Li, A Holtzman, D Fried, P Liang, J Eisner, TB Hashimoto, ...",
+   "venue": "Proceedings of the 61st annual meeting of the association for computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Easily accessible text-to-image generation amplifies demographic stereotypes at large scale",
+   "authors": "F Bianchi, P Kalluri, E Durmus, F Ladhak, M Cheng, D Nozza, ...",
+   "venue": "Proceedings of the 2023 ACM conference on fairness, accountability, and …",
+   "year": "2023"
+  },
+  {
+   "title": "Identifying the risks of LM agents with an LM-emulated sandbox",
+   "authors": "Y Ruan, H Dong, A Wang, S Pitis, Y Zhou, J Ba, Y Dubois, C Maddison, ...",
+   "venue": "International Conference on Learning Representations 2024, 27031-27098",
+   "year": "2024"
+  },
+  {
+   "title": "Can llms generate novel research ideas? a large-scale human study with 100+ nlp researchers",
+   "authors": "C Si, D Yang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2025, 94003-94092",
+   "year": "2025"
+  },
+  {
+   "title": "Large language models can be strong differentially private learners",
+   "authors": "X Li, F Tramer, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2110.05679",
+   "year": "2021"
+  },
+  {
+   "title": "Discovery of directional and nondirectional pioneer transcription factors by modeling DNase profile magnitude and shape",
+   "authors": "RI Sherwood, T Hashimoto, CW O'donnell, S Lewis, AA Barkal, ...",
+   "venue": "Nature biotechnology 32 (2), 171-178",
+   "year": "2014"
+  },
+  {
+   "title": "Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions",
+   "authors": "F Bianchi, M Suzgun, G Attanasio, P Röttger, D Jurafsky, T Hashimoto, ...",
+   "venue": "International Conference on Learning Representations 2024, 34196-34216",
+   "year": "2024"
+  },
+  {
+   "title": "Exploiting programmatic behavior of llms: Dual-use through standard security attacks",
+   "authors": "D Kang, X Li, I Stoica, C Guestrin, M Zaharia, T Hashimoto",
+   "venue": "2024 IEEE security and privacy workshops (SPW), 132-143",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "Robust distortion-free watermarks for language models",
+   "authors": "R Kuditipudi, J Thickstun, T Hashimoto, P Liang",
+   "venue": "arXiv preprint arXiv:2307.15593",
+   "year": "2023"
+  },
+  {
+   "title": "Generating sentences by editing prototypes",
+   "authors": "K Guu, TB Hashimoto, Y Oren, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 437-450",
+   "year": "2018"
+  },
+  {
+   "title": "Learning to (learn at test time): Rnns with expressive hidden states",
+   "authors": "Y Sun, X Li, K Dalal, J Xu, A Vikram, G Zhang, Y Dubois, X Chen, X Wang, ...",
+   "venue": "arXiv preprint arXiv:2407.04620",
+   "year": "2024"
+  },
+  {
+   "title": "Jury learning: Integrating dissenting voices into machine learning models",
+   "authors": "ML Gordon, MS Lam, JS Park, K Patel, J Hancock, T Hashimoto, ...",
+   "venue": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2022"
+  },
+  {
+   "title": "A survey on data selection for language models",
+   "authors": "A Albalak, Y Elazar, SM Xie, S Longpre, N Lambert, X Wang, ...",
+   "venue": "arXiv preprint arXiv:2402.16827",
+   "year": "2024"
+  },
+  {
+   "title": "Foundation models and fair use",
+   "authors": "P Henderson, X Li, D Jurafsky, T Hashimoto, MA Lemley, P Liang",
+   "venue": "Journal of Machine Learning Research 24 (400), 1-79",
+   "year": "2023"
+  },
+  {
+   "title": "Unifying human and statistical evaluation for natural language generation",
+   "authors": "TB Hashimoto, H Zhang, P Liang",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Proving test set contamination in black-box language models",
+   "authors": "Y Oren, N Meister, N Chatterji, F Ladhak, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2024, 16354-16372",
+   "year": "2024"
+  },
+  {
+   "title": "Stanford alpaca: an instruction-following llama model (2023)",
+   "authors": "R Taori, I Gulrajani, T Zhang, Y Dubois, X Li, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Removing rlhf protections in gpt-4 via fine-tuning",
+   "authors": "Q Zhan, R Fang, R Bindu, A Gupta, TB Hashimoto, D Kang",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Distributionally robust language modeling",
+   "authors": "Y Oren, S Sagawa, TB Hashimoto, P Liang",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "The gem benchmark: Natural language generation, its evaluation and metrics",
+   "authors": "S Gehrmann, T Adewumi, K Aggarwal, PS Ammanamanchi, A Aremu, ...",
+   "venue": "Proceedings of the First Workshop on Natural Language Generation, Evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention",
+   "authors": "A Mahankali, T Hashimoto, T Ma",
+   "venue": "International Conference on Learning Representations 2024, 32077-32096",
+   "year": "2024"
+  },
+  {
+   "title": "Navigating the grey area: How expressions of uncertainty and overconfidence affect language models",
+   "authors": "K Zhou, D Jurafsky, TB Hashimoto",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "A retrieve-and-edit framework for predicting structured outputs",
+   "authors": "TB Hashimoto, K Guu, Y Oren, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "The disagreement deconvolution: Bringing machine learning performance metrics in line with reality",
+   "authors": "ML Gordon, K Zhou, K Patel, T Hashimoto, MS Bernstein",
+   "venue": "Proceedings of the 2021 chi conference on human factors in computing systems …",
+   "year": "2021"
+  },
+  {
+   "title": "Openthoughts: Data recipes for reasoning models",
+   "authors": "E Guha, R Marten, S Keh, N Raoof, G Smyrnis, H Bansal, M Nezhurina, ...",
+   "venue": "International Conference on Learning Representations 2026, 108059-108130",
+   "year": "2026"
+  },
+  {
+   "title": "Likelihood-based diffusion language models",
+   "authors": "I Gulrajani, TB Hashimoto",
+   "venue": "Advances in Neural Information Processing Systems 36, 16693-16715",
+   "year": "2023"
+  },
+  {
+   "title": "Language models with conformal factuality guarantees",
+   "authors": "C Mohri, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2402.10978",
+   "year": "2024"
+  },
+  {
+   "title": "Identifying and mitigating the security risks of generative ai",
+   "authors": "C Barrett, B Boyd, E Bursztein, N Carlini, B Chen, J Choi, AR Chowdhury, ...",
+   "venue": "Foundations and Trends® in Privacy and Security 6 (1), 1-52",
+   "year": "2023"
+  },
+  {
+   "title": "Extending the wilds benchmark for unsupervised adaptation",
+   "authors": "S Sagawa, PW Koh, T Lee, I Gao, SM Xie, K Shen, A Kumar, W Hu, ...",
+   "venue": "arXiv preprint arXiv:2112.05090",
+   "year": "2021"
+  },
+  {
+   "title": "Measuring conversational uptake: A case study on student-teacher interactions",
+   "authors": "D Demszky, J Liu, Z Mancenido, J Cohen, H Hill, D Jurafsky, ...",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Observational scaling laws and the predictability of langauge model performance",
+   "authors": "Y Ruan, CJ Maddison, T Hashimoto",
+   "venue": "Advances in Neural Information Processing Systems 37, 15841-15892",
+   "year": "2024"
+  },
+  {
+   "title": "Long-term persistence and development of induced pancreatic beta cells generated by lineage conversion of acinar cells",
+   "authors": "GWQZ Weida Li, Claudia Cavelti-Weder, Yinying Zhang, Kendell Clement, Scott ...",
+   "venue": "Nature Biotechnology 32, 1223-1230",
+   "year": "2014"
+  },
+  {
+   "title": "Coder reviewer reranking for code generation",
+   "authors": "T Zhang, T Yu, T Hashimoto, M Lewis, W Yih, D Fried, S Wang",
+   "venue": "International Conference on Machine Learning, 41832-41846",
+   "year": "2023"
+  },
+  {
+   "title": "One-minute video generation with test-time training",
+   "authors": "K Dalal, D Koceja, J Xu, Y Zhao, S Han, KC Cheung, J Kautz, Y Choi, ...",
+   "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2025"
+  },
+  {
+   "title": "Robustness to spurious correlations via human annotations",
+   "authors": "M Srivastava, T Hashimoto, P Liang",
+   "venue": "International Conference on Machine Learning, 9109-9119",
+   "year": "2020"
+  },
+  {
+   "title": "Distributionally robust losses for latent covariate mixtures",
+   "authors": "J Duchi, T Hashimoto, H Namkoong",
+   "venue": "Operations Research 71 (2), 649-664",
+   "year": "2023"
+  },
+  {
+   "title": "Improved natural language generation via loss truncation",
+   "authors": "D Kang, TB Hashimoto",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Emergent abilities of large language models (2022)",
+   "authors": "J Wei, Y Tay, R Bommasani, C Raffel, B Zoph, S Borgeaud, D Yogatama, ...",
+   "venue": "arXiv preprint arXiv:2206.07682",
+   "year": "2025"
+  },
+  {
+   "title": "Learning population-level diffusions with generative RNNs",
+   "authors": "T Hashimoto, D Gifford, T Jaakkola",
+   "venue": "International Conference on Machine Learning, 2417-2426",
+   "year": "2016"
+  },
+  {
+   "title": "Word embeddings as metric recovery in semantic spaces",
+   "authors": "TB Hashimoto, D Alvarez-Melis, TS Jaakkola",
+   "venue": "Transactions of the Association for Computational Linguistics 4, 273-286",
+   "year": "2016"
+  },
+  {
+   "title": "On the learnability of watermarks for language models",
+   "authors": "C Gu, X LI, P Liang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2024, 38745-38768",
+   "year": "2024"
+  },
+  {
+   "title": "Scaling up trustless dnn inference with zero-knowledge proofs",
+   "authors": "D Kang, T Hashimoto, I Stoica, Y Sun",
+   "venue": "arXiv preprint arXiv:2210.08674",
+   "year": "2022"
+  },
+  {
+   "title": "Distributionally robust losses against mixture covariate shifts",
+   "authors": "JC Duchi, T Hashimoto, H Namkoong",
+   "venue": "Under review 2 (1), 11",
+   "year": "2019"
+  },
+  {
+   "title": "Moca: Measuring human-language model alignment on causal and moral judgment tasks",
+   "authors": "A Nie, Y Zhang, AS Amdekar, C Piech, TB Hashimoto, T Gerstenberg",
+   "venue": "Advances in Neural Information Processing Systems 36, 78360-78393",
+   "year": "2023"
+  },
+  {
+   "title": "Data feedback loops: Model-driven amplification of dataset biases",
+   "authors": "R Taori, T Hashimoto",
+   "venue": "International conference on machine learning, 33883-33920",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Where's the liability in harmful AI speech?",
+   "authors": "P Henderson, T Hashimoto, M Lemley",
+   "venue": "J. Free Speech L. 3, 589",
+   "year": "2023"
+  },
+  {
+   "title": "Synthetic continued pretraining",
+   "authors": "Z Yang, N Band, S Li, E Candes, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2025, 44379-44421",
+   "year": "2025"
+  },
+  {
+   "title": "When do pre-training biases propagate to downstream tasks? a case study in text summarization",
+   "authors": "F Ladhak, E Durmus, M Suzgun, T Zhang, D Jurafsky, K McKeown, ...",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Benchmarking distributional alignment of large language models",
+   "authors": "N Meister, C Guestrin, TB Hashimoto",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Linguistic calibration of long-form generations",
+   "authors": "N Band, X Li, T Ma, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2404.00474",
+   "year": "2024"
+  },
+  {
+   "title": "When does differentially private learning not suffer in high dimensions?",
+   "authors": "X Li, D Liu, TB Hashimoto, HA Inan, J Kulkarni, YT Lee, A Guha Thakurta",
+   "venue": "Advances in Neural Information Processing Systems 35, 28616-28630",
+   "year": "2022"
+  },
+  {
+   "title": "Learning to (learn at test time)",
+   "authors": "Y Sun, X Li, K Dalal, C Hsu, S Koyejo, C Guestrin, X Wang, T Hashimoto, ...",
+   "venue": "arXiv preprint arXiv:2310.13807",
+   "year": "2023"
+  },
+  {
+   "title": "Cloning-free CRISPR",
+   "authors": "M Arbab, S Srinivasan, T Hashimoto, N Geijsen, RI Sherwood",
+   "venue": "Stem cell reports 5 (5), 908-917",
+   "year": "2015"
+  },
+  {
+   "title": "Approximate selection with guarantees using proxies",
+   "authors": "D Kang, E Gan, P Bailis, T Hashimoto, M Zaharia",
+   "venue": "arXiv preprint arXiv:2004.00827",
+   "year": "2020"
+  },
+  {
+   "title": "Length-controlled alpacaeval: A simple way to debias automatic evaluators, 2024",
+   "authors": "Y Dubois, B Galambosi, P Liang, TB Hashimoto",
+   "venue": "URL https://arxiv. org/abs/2404.04475",
+   "year": null
+  },
+  {
+   "title": "The ideation-execution gap: Execution outcomes of llm-generated versus human research ideas",
+   "authors": "C Si, T Hashimoto, D Yang",
+   "venue": "International conference on learning representations 2026, 74195-74240",
+   "year": "2026"
+  },
+  {
+   "title": "Cas9 functionally opens chromatin",
+   "authors": "AA Barkal, S Srinivasan, T Hashimoto, DK Gifford, RI Sherwood",
+   "venue": "PLoS One 11 (3), e0152683",
+   "year": "2016"
+  },
+  {
+   "title": "Benchmarking and improving generator-validator consistency of language models",
+   "authors": "X LI, V Shrivastava, S Li, T Hashimoto, P Liang",
+   "venue": "International Conference on Learning Representations 2024, 44038-44055",
+   "year": "2024"
+  },
+  {
+   "title": "Embedding societal values into social media algorithms",
+   "authors": "M Bernstein, A Christin, J Hancock, T Hashimoto, C Jia, M Lam, N Meister, ...",
+   "venue": "Journal of Online Trust and Safety 2 (1)",
+   "year": "2023"
+  },
+  {
+   "title": "Accelerating approximate aggregation queries with expensive predicates",
+   "authors": "D Kang, J Guibas, P Bailis, T Hashimoto, Y Sun, M Zaharia",
+   "venue": "arXiv preprint arXiv:2108.06313",
+   "year": "2021"
+  },
+  {
+   "title": "Spurious correlations in reference-free evaluation of text generation",
+   "authors": "E Durmus, F Ladhak, TB Hashimoto",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "Understanding finetuning for factual knowledge extraction",
+   "authors": "G Ghosal, T Hashimoto, A Raghunathan",
+   "venue": "arXiv preprint arXiv:2406.14785",
+   "year": "2024"
+  },
+  {
+   "title": "Improving pretraining data using perplexity correlations",
+   "authors": "T Thrush, C Potts, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2025, 17475-17509",
+   "year": "2025"
+  },
+  {
+   "title": "Improving self-supervised learning by characterizing idealized representations",
+   "authors": "Y Dubois, S Ermon, TB Hashimoto, PS Liang",
+   "venue": "Advances in neural information processing systems 35, 11279-11296",
+   "year": "2022"
+  },
+  {
+   "title": "GERV: a statistical method for generative evaluation of regulatory variants for transcription factor binding",
+   "authors": "H Zeng, T Hashimoto, DD Kang, DK Gifford",
+   "venue": "Bioinformatics 32 (4), 490-496",
+   "year": "2016"
+  },
+  {
+   "title": "Finding the rules for successful drug optimisation",
+   "authors": "I Yusof, F Shah, T Hashimoto, MD Segall, N Greene",
+   "venue": "Drug Discovery Today 19 (5), 680-687",
+   "year": "2014"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Modeling the second player in distributionally robust optimization",
+   "authors": "P Michel, T Hashimoto, G Neubig",
+   "venue": "arXiv preprint arXiv:2103.10282",
+   "year": "2021"
+  },
+  {
+   "title": "Language modeling via stochastic processes",
+   "authors": "RE Wang, E Durmus, N Goodman, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2203.11370",
+   "year": "2022"
+  },
+  {
+   "title": "Model performance scaling with multiple data sources",
+   "authors": "T Hashimoto",
+   "venue": "International Conference on Machine Learning, 4107-4116",
+   "year": "2021"
+  },
+  {
+   "title": "Longcodebench: Evaluating coding llms at 1m context windows",
+   "authors": "S Rando, L Romani, A Sampieri, L Franco, J Yang, Y Kyuragi, F Galasso, ...",
+   "venue": "arXiv preprint arXiv:2505.07897",
+   "year": "2025"
+  },
+  {
+   "title": "Is a caption worth a thousand images? a controlled study for representation learning",
+   "authors": "S Santurkar, Y Dubois, R Taori, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2207.07635",
+   "year": "2022"
+  },
+  {
+   "title": "End-to-end test-time training for long context",
+   "authors": "A Tandon, K Dalal, X Li, D Koceja, M Rød, S Buchanan, X Wang, ...",
+   "venue": "arXiv preprint arXiv:2512.23675",
+   "year": "2025"
+  },
+  {
+   "title": "Tasti: Semantic indexes for machine learning-based queries over unstructured data",
+   "authors": "D Kang, J Guibas, PD Bailis, T Hashimoto, M Zaharia",
+   "venue": "Proceedings of the 2022 International Conference on Management of Data, 1934 …",
+   "year": "2022"
+  },
+  {
+   "title": "Autobencher: Towards declarative benchmark construction",
+   "authors": "X LI, F Kaiyom, E Liu, Y Mai, P Liang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2025, 94357-94386",
+   "year": "2025"
+  },
+  {
+   "title": "Zk-img: Attested images via zero-knowledge proofs to fight disinformation",
+   "authors": "D Kang, T Hashimoto, I Stoica, Y Sun",
+   "venue": "arXiv preprint arXiv:2211.04775",
+   "year": "2022"
+  },
+  {
+   "title": "On the inductive bias of masked language modeling: From statistical to syntactic dependencies",
+   "authors": "T Zhang, TB Hashimoto",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Reasoning to learn from latent thoughts",
+   "authors": "Y Ruan, N Band, CJ Maddison, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2503.18866",
+   "year": "2025"
+  },
+  {
+   "title": "Out-of-domain robustness via targeted augmentations",
+   "authors": "I Gao, S Sagawa, PW Koh, T Hashimoto, P Liang",
+   "venue": "International conference on machine learning, 10800-10834",
+   "year": "2023"
+  },
+  {
+   "title": "Trustless audits without revealing data or models",
+   "authors": "S Waiwitlikhit, I Stoica, Y Sun, T Hashimoto, D Kang",
+   "venue": "arXiv preprint arXiv:2404.04500",
+   "year": "2024"
+  },
+  {
+   "title": "Inferring multidimensional rates of aging from cross-sectional data",
+   "authors": "E Pierson, PW Koh, T Hashimoto, D Koller, J Leskovec, N Eriksson, ...",
+   "venue": "The 22nd International Conference on Artificial Intelligence and Statistics …",
+   "year": "2019"
+  },
+  {
+   "title": "Stochastic amortization: A unified approach to accelerate feature and data attribution",
+   "authors": "I Covert, C Kim, SI Lee, J Zou, T Hashimoto",
+   "venue": "Advances in Neural Information Processing Systems 37, 4374-4423",
+   "year": "2024"
+  },
+  {
+   "title": "Is importance weighting incompatible with interpolating classifiers?",
+   "authors": "KA Wang, NS Chatterji, S Haque, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2112.12986",
+   "year": "2021"
+  },
+  {
+   "title": "Dreca: A general task augmentation strategy for few-shot natural language inference",
+   "authors": "S Murty, TB Hashimoto, CD Manning",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Fspo: Few-shot preference optimization of synthetic preference data in llms elicits effective personalization to real users",
+   "authors": "A Singh, S Hsu, K Hsu, E Mitchell, S Ermon, T Hashimoto, A Sharma, ...",
+   "venue": "arXiv preprint arXiv:2502.19312",
+   "year": "2025"
+  },
+  {
+   "title": "Distributionally robust models with parametric likelihood ratios",
+   "authors": "P Michel, T Hashimoto, G Neubig",
+   "venue": "arXiv preprint arXiv:2204.06340",
+   "year": "2022"
+  },
+  {
+   "title": "Tree preserving embedding",
+   "authors": "AD Shieh, TB Hashimoto, EM Airoldi",
+   "venue": "Proceedings of the National Academy of Sciences 108 (41), 16916-16921",
+   "year": "2011"
+  },
+  {
+   "title": "Graph-based uncertainty metrics for long-form language model generations",
+   "authors": "M Jiang, Y Ruan, P Sattigeri, S Roukos, T Hashimoto",
+   "venue": "Advances in Neural Information Processing Systems 37, 32980-33006",
+   "year": "2024"
+  },
+  {
+   "title": "From random walks to distances on unweighted graphs",
+   "authors": "T Hashimoto, Y Sun, T Jaakkola",
+   "venue": "Advances in neural information processing systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Eliciting language model behaviors with investigator agents",
+   "authors": "XL Li, N Chowdhury, DD Johnson, T Hashimoto, P Liang, S Schwettmann, ...",
+   "venue": "arXiv preprint arXiv:2502.01236",
+   "year": "2025"
+  },
+  {
+   "title": "Metric recovery from directed unweighted graphs",
+   "authors": "T Hashimoto, Y Sun, T Jaakkola",
+   "venue": "Artificial Intelligence and Statistics, 342-350",
+   "year": "2015"
+  },
+  {
+   "title": "Mistral–a journey towards reproducible language model training",
+   "authors": "S Karamcheti, L Orr, J Bolton, T Zhang, K Goel, A Narayan, R Bommasani, ...",
+   "venue": "URL: https://github. com/stanford-crfm/mistral",
+   "year": "2021"
+  },
+  {
+   "title": "Pre-training under infinite compute",
+   "authors": "K Kim, S Kotha, P Liang, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2026, 74596-74636",
+   "year": "2026"
+  },
+  {
+   "title": "Auditing prompt caching in language model apis",
+   "authors": "C Gu, XL Li, R Kuditipudi, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2502.07776",
+   "year": "2025"
+  },
+  {
+   "title": "Contrastive error attribution for finetuned language models",
+   "authors": "F Ladhak, E Durmus, TB Hashimoto",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Out-of-distribution robustness via targeted augmentations",
+   "authors": "I Gao, S Sagawa, PW Koh, T Hashimoto, P Liang",
+   "venue": "NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": "2022"
+  },
+  {
+   "title": "Derivative free optimization via repeated classification",
+   "authors": "T Hashimoto, S Yadlowsky, J Duchi",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 2027-2036",
+   "year": "2018"
+  },
+  {
+   "title": "A synergistic DNA logic predicts genome-wide chromatin accessibility",
+   "authors": "T Hashimoto, RI Sherwood, DD Kang, N Rajagopal, AA Barkal, H Zeng, ...",
+   "venue": "Genome research 26 (10), 1430-1440",
+   "year": "2016"
+  },
+  {
+   "title": "Task-agnostic indexes for deep learning-based queries over unstructured data",
+   "authors": "D Kang, J Guibas, P Bailis, T Hashimoto, M Zaharia",
+   "venue": "arXiv preprint arXiv:2009.04540",
+   "year": "2020"
+  },
+  {
+   "title": "Universal count correction for high-throughput sequencing",
+   "authors": "TB Hashimoto, MD Edwards, DK Gifford",
+   "venue": "PLoS computational biology 10 (3), e1003494",
+   "year": "2014"
+  },
+  {
+   "title": "Is a caption worth a thousand images? a study on representation learning",
+   "authors": "S Santurkar, Y Dubois, R Taori, P Liang, T Hashimoto",
+   "venue": "The Eleventh International Conference on Learning Representations",
+   "year": "2023"
+  },
+  {
+   "title": "Accelerating aggregation queries on unstructured streams of data",
+   "authors": "M Russo, T Hashimoto, D Kang, Y Sun, M Zaharia",
+   "venue": "arXiv preprint arXiv:2308.09157",
+   "year": "2023"
+  },
+  {
+   "title": "Privacy-preserving domain adaptation of semantic parsers",
+   "authors": "F Mireshghallah, Y Su, TB Hashimoto, J Eisner, R Shin",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Towards execution-grounded automated AI research",
+   "authors": "C Si, Z Yang, Y Choi, E Candès, D Yang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2601.14525",
+   "year": "2026"
+  },
+  {
+   "title": "Online conformal prediction via online optimization",
+   "authors": "F Areces, C Mohri, T Hashimoto, J Duchi",
+   "venue": "Forty-second International Conference on Machine Learning",
+   "year": "2025"
+  },
+  {
+   "title": "Locality alignment improves vision-language models",
+   "authors": "I Covert, T Sun, JY Zou, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2025, 83127-83165",
+   "year": "2025"
+  },
+  {
+   "title": "The extractive-abstractive spectrum: Uncovering verifiability trade-offs in llm generations",
+   "authors": "T Worledge, T Hashimoto, C Guestrin",
+   "venue": "arXiv preprint arXiv:2411.17375",
+   "year": "2024"
+  },
+  {
+   "title": "BFL: a node and edge betweenness based fast layout algorithm for large scale networks",
+   "authors": "TB Hashimoto, M Nagasaki, K Kojima, S Miyano",
+   "venue": "BMC bioinformatics 10 (1), 19",
+   "year": "2009"
+  },
+  {
+   "title": "The future of open human feedback",
+   "authors": "S Don-Yehiya, B Burtenshaw, R Fernandez Astudillo, C Osborne, ...",
+   "venue": "Nature Machine Intelligence 7 (6), 825-835",
+   "year": "2025"
+  },
+  {
+   "title": "Putting it all into context: simplifying agents with LCLMs",
+   "authors": "M Jiang, Y Ruan, L Lastras, P Kapanipathi, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2505.08120",
+   "year": "2025"
+  },
+  {
+   "title": "Scaling laws for the value of individual data points in machine learning",
+   "authors": "I Covert, W Ji, T Hashimoto, J Zou",
+   "venue": "arXiv preprint arXiv:2405.20456",
+   "year": "2024"
+  },
+  {
+   "title": "Learning autocomplete systems as a communication game",
+   "authors": "M Lee, TB Hashimoto, P Liang",
+   "venue": "arXiv preprint arXiv:1911.06964",
+   "year": "2019"
+  },
+  {
+   "title": "Unsupervised transformation learning via convex relaxations",
+   "authors": "TB Hashimoto, PS Liang, JC Duchi",
+   "venue": "Advances in neural information processing systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "Quantifying condition-dependent intracellular protein levels enables high-precision fitness estimates",
+   "authors": "KA Geiler-Samerotte, T Hashimoto, MF Dion, BA Budnik, EM Airoldi, ...",
+   "venue": "PloS one 8 (9), e75320",
+   "year": "2013"
+  },
+  {
+   "title": "Autobencher: Creating salient, novel, difficult datasets for language models",
+   "authors": "XL Li, EZ Liu, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2407.08351 1",
+   "year": "2024"
+  },
+  {
+   "title": "Identifiability conditions for domain adaptation",
+   "authors": "I Gulrajani, T Hashimoto",
+   "venue": "International Conference on Machine Learning, 7982-7997",
+   "year": "2022"
+  },
+  {
+   "title": "Compound selection in drug discovery",
+   "authors": "M Segall, T Hashimoto",
+   "venue": "US Patent App. 13/261,542",
+   "year": "2013"
+  },
+  {
+   "title": "Scaling self-play with self-guidance",
+   "authors": "L Bailey, K Wen, K Dong, T Hashimoto, T Ma",
+   "venue": "arXiv preprint arXiv:2604.20209",
+   "year": "2026"
+  },
+  {
+   "title": "On the fairness road: Robust optimization for adversarial debiasing",
+   "authors": "V Grari, T Laugel, T Hashimoto, M Detyniecki",
+   "venue": "International Conference on Learning Representations 2024, 36608-36638",
+   "year": "2024"
+  },
+  {
+   "title": "Factored DRO: Factored distributionally robust policies for contextual bandits",
+   "authors": "T Mu, Y Chandak, TB Hashimoto, E Brunskill",
+   "venue": "Advances in Neural Information Processing Systems 35, 8318-8331",
+   "year": "2022"
+  },
+  {
+   "title": "Semantic indexes for machine learning-based queries over unstructured data",
+   "authors": "D Kang, J Guibas, P Bailis, T Hashimoto, M Zaharia",
+   "venue": "arXiv preprint arXiv:2009.04540",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluating self-supervised learning via risk decomposition",
+   "authors": "Y Dubois, T Hashimoto, P Liang",
+   "venue": "International Conference on Machine Learning, 8779-8820",
+   "year": "2023"
+  },
+  {
+   "title": "Linguistic calibration of language models",
+   "authors": "N Band, X Li, T Ma, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2404.00474 3",
+   "year": "2024"
+  },
+  {
+   "title": "A closer look at the calibration of differentially private learners",
+   "authors": "H Zhang, X Li, P Sen, S Roukos, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2210.08248",
+   "year": "2022"
+  },
+  {
+   "title": "Word, graph and manifold embedding from Markov processes",
+   "authors": "TB Hashimoto, D Alvarez-Melis, TS Jaakkola",
+   "venue": "arXiv preprint arXiv:1509.05808",
+   "year": "2015"
+  },
+  {
+   "title": "TempLM: Distilling language models into template-based generators",
+   "authors": "T Zhang, M Lee, XL Li, E Shen, TB Hashimoto",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 1970-1994",
+   "year": "2023"
+  },
+  {
+   "title": "Data management for ml-based analytics and beyond",
+   "authors": "D Kang, J Guibas, P Bailis, T Hashimoto, Y Sun, M Zaharia",
+   "venue": "ACM/JMS Journal of Data Science 1 (1), 1-23",
+   "year": "2024"
+  },
+  {
+   "title": "Demographic stereotypes in text-to-image generation",
+   "authors": "F Bianchi, P Kalluri, E Durmus, F Ladhak, M Cheng, D Nozza, ...",
+   "venue": "Stanford Institute for Human-Centered Artificial Intelligence",
+   "year": "2023"
+  },
+  {
+   "title": "Don't Hate the Player, Hate the Game: Safety and Utility in Multi-Agent Congestion Control",
+   "authors": "P Thaker, M Zaharia, T Hashimoto",
+   "venue": "Proceedings of the 20th ACM Workshop on Hot Topics in Networks, 140-146",
+   "year": "2021"
+  },
+  {
+   "title": "a., van Hoff, JP, Karun, V., Jaakkola, T. and Gifford, DK (2014) Discovery of directional and nondirectional pioneer transcription factors by modeling DNase profile magnitude …",
+   "authors": "RI Sherwood, T Hashimoto, CW O’donnell, S Lewis, A Barkal",
+   "venue": "Nat Biotechnol 32, 171-8",
+   "year": null
+  },
+  {
+   "title": "FSPO: Few-shot preference optimization of synthetic preference data elicits LLM personalization to real users",
+   "authors": "A Singh, S Hsu, K Hsu, E Mitchell, S Ermon, T Hashimoto, A Sharma, ...",
+   "venue": "2nd Workshop on Models of Human Feedback for AI Alignment",
+   "year": "2025"
+  },
+  {
+   "title": "A bitter lesson for data filtering",
+   "authors": "C Mohri, J Duchi, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2605.19407",
+   "year": "2026"
+  },
+  {
+   "title": "Improving test-time search for LLMs with backtracking against in-context value verifiers",
+   "authors": "A Singh, K Arora, S Keh, J Mercat, T Hashimoto, C Finn, A Kumar",
+   "venue": "Scaling Self-Improving Foundation Models without Human Supervision",
+   "year": "2025"
+  },
+  {
+   "title": "Undersampling is a minimax optimal robustness intervention in nonparametric classification",
+   "authors": "NS Chatterji, S Haque, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2205.13094",
+   "year": "2022"
+  },
+  {
+   "title": "Data-efficient pre-training by scaling synthetic megadocs",
+   "authors": "K Kim, S Kotha, Y Choi, T Hashimoto, N Haber, P Liang",
+   "venue": "arXiv preprint arXiv:2603.18534",
+   "year": "2026"
+  },
+  {
+   "title": "Exploiting proximity search and easy examples to select rare events",
+   "authors": "D Kang, A Derhacobian, K Tsuji, T Hebert, P Bailis, T Fukami, ...",
+   "venue": "NeurIPS Data-Centric AI Workshop 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Synthetic bootstrapped pretraining",
+   "authors": "Z Yang, A Zhang, H Liu, T Hashimoto, E Candes, C Wang, R Pang",
+   "venue": "International Conference on Learning Representations 2026, 33123-33157",
+   "year": "2026"
+  },
+  {
+   "title": "CTC-DRO: Robust optimization for reducing language disparities in speech recognition",
+   "authors": "M Bartelds, A Nandi, MKB Doumbouya, D Jurafsky, T Hashimoto, ...",
+   "venue": "International Conference on Learning Representations 2026, 108297-108323",
+   "year": "2026"
+  },
+  {
+   "title": "FSPO: Few-Shot Optimization of Synthetic Preferences Personalizes to Real Users",
+   "authors": "A Singh, S Hsu, K Hsu, E Mitchell, S Ermon, T Hashimoto, A Sharma, ...",
+   "venue": "arXiv preprint arXiv:2502.19312",
+   "year": "2025"
+  },
+  {
+   "title": "Privacy-preserving generation of synthesized training data",
+   "authors": "JM EISNER, EC Shin, F Mireshghallah, TB HASHIMOTO, Y Su",
+   "venue": "US Patent App. 18/321,460",
+   "year": "2024"
+  },
+  {
+   "title": "Foundation Models and Copyright Questions",
+   "authors": "P Henderson, X Li, D Jurafsky, T Hashimoto, MA Lemley, P Liang",
+   "venue": "Stanford University Human-Centered Artificial Intelligence, November",
+   "year": "2023"
+  },
+  {
+   "title": "Proof: Accelerating Approximate Aggregation Queries with Expensive Predicates",
+   "authors": "D Kang, J Guibas, P Bailis, T Hashimoto, Y Sun, M Zaharia",
+   "venue": "arXiv preprint arXiv:2107.12525",
+   "year": "2021"
+  },
+  {
+   "title": "Lineage-based identification of cellular states and expression programs",
+   "authors": "T Hashimoto, T Jaakkola, R Sherwood, EO Mazzoni, H Wichterle, ...",
+   "venue": "Bioinformatics 28 (12), i250-i257",
+   "year": "2012"
+  },
+  {
+   "title": "Synthetic Data for any Differentiable Target",
+   "authors": "T Thrush, SM Park, H Brunborg, L Bailey, M Roed, N Band, C Potts, ...",
+   "venue": "arXiv preprint arXiv:2604.08423",
+   "year": "2026"
+  },
+  {
+   "title": "Stanford cs 191w senior project: Timing attacks on prompt caching in language model apis",
+   "authors": "C Gu, XL Li, R Kuditipudi, P Liang, T Hashimoto",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Simple baselines are strong performers for differentially private natural language processing",
+   "authors": "X Li, F Tramer, P Liang, T Hashimoto",
+   "venue": "NeurIPS 2021 Workshop Privacy in Machine Learning",
+   "year": "2021"
+  },
+  {
+   "title": "Finding drug discovery\" rules of thumb\" with bump hunting",
+   "authors": "T Hashimoto, M Segall",
+   "venue": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 240",
+   "year": "2010"
+  },
+  {
+   "title": "MoCa: Cognitive Scaffolding for Language Models in Causal and Moral Judgment Tasks",
+   "authors": "A Nie, Y Zhang, A Amdekar, CJ Piech, T Hashimoto, T Gerstenberg",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Anchored Self-Play for Code Repair",
+   "authors": "C Choi, Z Kaya, S Wu, T Ma, T Hashimoto, L Schmidt",
+   "venue": "arXiv preprint arXiv:2607.03523",
+   "year": "2026"
+  },
+  {
+   "title": "Congestion Control Safety via Comparative Statics",
+   "authors": "P Thaker, M Zaharia, T Hashimoto",
+   "venue": "IEEE INFOCOM 2023-IEEE Conference on Computer Communications, 1-10",
+   "year": "2023"
+  },
+  {
+   "title": "Predicting the impact of dataset composition on model performance",
+   "authors": "T Hashimoto",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "DNase-capture reveals differential transcription factor binding modalities",
+   "authors": "D Kang, R Sherwood, A Barkal, T Hashimoto, L Engstrom, D Gifford",
+   "venue": "Plos one 12 (12), e0187046",
+   "year": "2017"
+  },
+  {
+   "title": "Corrigendum: Long-term persistence and development of induced pancreatic beta cells generated by lineage conversion of acinar cells",
+   "authors": "W Li, C Cavelti-Weder, Y Zhang, K Clement, S Donovan, G Gonzalez, ...",
+   "venue": "Nature Biotechnology 33 (8), 882",
+   "year": "2015"
+  },
+  {
+   "title": "Whole genome regulatory variant evaluation for transcription factor binding",
+   "authors": "H Zeng, T Hashimoto, DD Kang, DK Gifford",
+   "venue": "bioRxiv, 017392",
+   "year": "2015"
+  },
+  {
+   "title": "Computation identification of transcription factor binding using DNase-seq",
+   "authors": "TB Hashimoto",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2014"
+  },
+  {
+   "title": "Anchoring Self-Play for Code Repair",
+   "authors": "C Choi, ZN Kaya, S Wu, T Ma, T Hashimoto, L Schmidt",
+   "venue": "Forty-third International Conference on Machine Learning",
+   "year": null
+  },
+  {
+   "title": "LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior",
+   "authors": "M Jagadeesan, T Hashimoto, J Kleinberg",
+   "venue": "arXiv preprint arXiv:2607.19300",
+   "year": "2026"
+  },
+  {
+   "title": "Will Scaling Improve Social Simulation with LLMs?",
+   "authors": "C Ziems, W Held, SD Karaca, D Grusky, T Hashimoto, D Yang",
+   "venue": "arXiv preprint arXiv:2607.02464",
+   "year": "2026"
+  },
+  {
+   "title": "AI Assistance for Human Review of Default Judgments",
+   "authors": "T Worledge, OB Koraichi, D Bernal, A Caspi, T Hashimoto, C Guestrin, ...",
+   "venue": "arXiv preprint arXiv:2607.01256",
+   "year": "2026"
+  },
+  {
+   "title": "FSPO: Few-Shot Optimization of Synthetic Preferences Effectively Personalizes to Real Users",
+   "authors": "A Singh, S Hsu, K Hsu, E Mitchell, S Ermon, T Hashimoto, A Sharma, ...",
+   "venue": "International Conference on Learning Representations 2026, 109496-109524",
+   "year": "2026"
+  },
+  {
+   "title": "Agentic Adversarial QA for Improving Domain-Specific LLMs",
+   "authors": "V Grari, C Tomoiaga, S Lamprier, T Hashimoto, M Detyniecki",
+   "venue": "arXiv preprint arXiv:2602.18137",
+   "year": "2026"
+  },
+  {
+   "title": "Language Confusion and Multilingual Performance: A Case Study of Thai-Adapted Large Language Models",
+   "authors": "P Sarapat, T Ukarapol, TB Hashimoto",
+   "venue": "Proceedings of the 1st Workshop on Confabulation, Hallucinations and …",
+   "year": "2025"
+  },
+  {
+   "title": "Liability for AI-Generated Speech",
+   "authors": "P Henderson, T Hashimoto, M Lemley",
+   "venue": "The Oxford Handbook of the Foundations and Regulation of Generative AI",
+   "year": "2025"
+  },
+  {
+   "title": "CAREER: Controllable generation for instruction-following language models",
+   "authors": "TB Hashimoto",
+   "venue": "NSF Award Number 2338866. Directorate for Computer and Information Science …",
+   "year": "2024"
+  },
+  {
+   "title": "Benchmarking Multi-Domain Active Learning on Image Classification",
+   "authors": "J Li, R Taori, TB Hashimoto",
+   "venue": "arXiv preprint arXiv:2312.00364",
+   "year": "2023"
+  },
+  {
+   "title": "Extending the WILDS Benchmark for Unsupervised Adaptation",
+   "authors": "T Lee, I Gao, SM Xie, K Shen, A Kumar, W Hu, M Yasunaga, H Marklund, ...",
+   "venue": "arXiv preprint arXiv:2112.05090",
+   "year": "2021"
+  },
+  {
+   "title": "Continuous representations and models from random walk diffusion limits",
+   "authors": "TB Hashimoto",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2016"
+  },
+  {
+   "title": "Supplementary materials and proofs",
+   "authors": "TB Hashimoto, Y Sun, TS Jaakkola",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Long-term persistence and development of induced pancreatic beta cells generated by lineage conversion of acinar cells (vol 32, pg 1223, 2014)",
+   "authors": "W Li, C Cavelti-Weder, Y Zhang, K Clement, S Donovan, G Gonzalez, ...",
+   "venue": "NATURE BIOTECHNOLOGY 33 (8), 882-882",
+   "year": "2015"
+  },
+  {
+   "title": "Discovery of directional and nondirectional pioneer transcription factors by modeling DNase profile magnitude and shape",
+   "authors": "S Lewis, JP van Hoff, V Karun, TB Hashimoto, RI Sherwood, ...",
+   "venue": "Nature Publishing Group",
+   "year": "2014"
+  },
+  {
+   "title": "Correction: Quantifying Condition-Dependent Intracellular Protein Levels Enables High-Precision Fitness Estimates",
+   "authors": "KA Geiler-Samerotte, T Hashimoto, MF Dion, BA Budnik, EM Airoldi, ...",
+   "venue": "PLoS ONE 8 (10), 10.1371/annotation/9f5465d9-e9fa-4a80-84ca-9c9a3f6e82c7",
+   "year": "2013"
+  },
+  {
+   "title": "Recent patent applications in drug discovery automation",
+   "authors": "T Hashimoto, M Segall",
+   "venue": "Nature Biotechnology 31 (8), 711",
+   "year": "2013"
+  },
+  {
+   "title": "Package ‘tpe’",
+   "authors": "AD Shieh, TB Hashimoto, EM Airoldi, MAD Shieh",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Automatically Finding Drug Discovery'Rules of Thumb'",
+   "authors": "EJ Champness, MD Segall, T Hashimoto",
+   "venue": "DRUG METABOLISM REVIEWS 42, 184-185",
+   "year": "2010"
+  },
+  {
+   "title": "THE FELLOWS’CORNER",
+   "authors": "SM Wasan, AS Kapadia, DG Adler, K Matthes, J Cohen, ML Kochman, ...",
+   "venue": "",
+   "year": "2005"
+  },
+  {
+   "title": "Al-Abdalla, A., 135 AreÃas, EPG, 269",
+   "authors": "Z BarandiaraÂn, E BesaluÂ, PJ Bonifassi, R CarboÂ-Dorca, Y Daoudi, ...",
+   "venue": "Journal of Molecular Structure (Theochem) 451, 305",
+   "year": "1998"
+  },
+  {
+   "title": "Copyedited by: TRJ MANUSCRIPT CATEGORY:[15: 44 1/6/2012 Bioinformatics-bts204. tex] Page: i250 i250? i257 BIOINFORMATICS Vol. 28 ISMB 2012, pages i250? i257",
+   "authors": "T Hashimoto, T Jaakkola, R Sherwood, EO Mazzoni, H Wichterle, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "MIT EECS thashim@ mit. edu Yi Sun MIT Mathematics yisun@ mit. edu",
+   "authors": "TB Hashimoto",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "MASSACHUSETTS INSTITUTE Of TECHNOLOGY 2 Continuous representations and models from random walk diffusion limits",
+   "authors": "TB Hashimoto",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A synergistic DNA logic predicts genome-wide chromatin accessibility",
+   "authors": "RI Sherwood, BJM Emons, TB Hashimoto, DD Kang, N Rajagopal, ...",
+   "venue": "Cold Spring Harbor Laboratory Press",
+   "year": null
+  },
+  {
+   "title": "AI Assistance for Court Review of Default Judgments",
+   "authors": "T Worledge, OB Koraichi, D Bernal, A Caspi, T Hashimoto, C Guestrin, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Improving the Efficiency of Test-Time Search in LLMs with Backtracking",
+   "authors": "A Singh, K Arora, S Keh, J Mercat, T Hashimoto, C Finn, A Kumar",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Multivariate Group Robustness",
+   "authors": "J Parmar, V Liu, T Hashimoto",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Navigating and Addressing Data Problems for Foundation Models (DPFM)",
+   "authors": "R Jia, T Hashimoto, PW Koh, J Andrews, SM Xie, L Chen, F Kang",
+   "venue": "ICLR 2024 Workshops",
+   "year": null
+  }
+ ]
+}

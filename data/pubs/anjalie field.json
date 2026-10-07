@@ -1,0 +1,335 @@
+{
+ "user": "WQO8DHQAAAAJ",
+ "pubs": [
+  {
+   "title": "Framing and agenda-setting in Russian news: a computational analysis of intricate political strategies",
+   "authors": "A Field, D Kliger, S Wintner, J Pan, D Jurafsky, Y Tsvetkov",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "A survey of race, racism, and anti-racism in NLP",
+   "authors": "A Field, SL Blodgett, Z Talat, Y Tsvetkov",
+   "venue": "Proceedings of the 59th annual meeting of the association for computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Demoting racial bias in hate speech detection",
+   "authors": "M Xia, A Field, Y Tsvetkov",
+   "venue": "Proceedings of the eighth international workshop on natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Unsupervised discovery of implicit gender bias",
+   "authors": "A Field, Y Tsvetkov",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Contextual affective analysis: A case study of people portrayals in online# metoo stories",
+   "authors": "A Field, G Bhat, Y Tsvetkov",
+   "venue": "Proceedings of the international AAAI conference on web and social media 13 …",
+   "year": "2019"
+  },
+  {
+   "title": "An analysis of emotions and the prominence of positivity in# BlackLivesMatter tweets",
+   "authors": "A Field, CY Park, A Theophilo, J Watson-Daniels, Y Tsvetkov",
+   "venue": "Proceedings of the National Academy of Sciences 119 (35), e2205767119",
+   "year": "2022"
+  },
+  {
+   "title": "Challenges and opportunities in information manipulation detection: An examination of wartime Russian media",
+   "authors": "CY Park, J Mendelsohn, A Field, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 5209-5235",
+   "year": "2022"
+  },
+  {
+   "title": "Melamine and cyanuric acid do not interfere with Bradford and Ninhydrin assays for protein determination",
+   "authors": "A Field, J Field",
+   "venue": "Food chemistry 121 (3), 912-917",
+   "year": "2010"
+  },
+  {
+   "title": "Entity-centric contextual affective analysis",
+   "authors": "A Field, Y Tsvetkov",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Controlled analyses of social biases in Wikipedia bios",
+   "authors": "A Field, CY Park, KZ Lin, Y Tsvetkov",
+   "venue": "Proceedings of the ACM Web Conference 2022, 2624-2635",
+   "year": "2022"
+  },
+  {
+   "title": "Examining risks of racial biases in NLP tools for child protective services",
+   "authors": "A Field, A Coston, N Gandhi, A Chouldechova, E Putnam-Hornstein, ...",
+   "venue": "Proceedings of the 2023 ACM conference on fairness, accountability, and …",
+   "year": "2023"
+  },
+  {
+   "title": "Multilingual contextual affective analysis of LGBT people portrayals in Wikipedia",
+   "authors": "CY Park, X Yan, A Field, Y Tsvetkov",
+   "venue": "Proceedings of the international AAAI conference on web and social media 15 …",
+   "year": "2021"
+  },
+  {
+   "title": "pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy",
+   "authors": "KG Iyer, M Yunus, C O’Neill, C Ye, A Hyk, K McCormick, I Ciucă, JF Wu, ...",
+   "venue": "The Astrophysical Journal Supplement Series 275 (2), 38",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating differentially private synthetic data generation in high-stakes domains",
+   "authors": "K Ramesh, N Gandhi, P Madaan, L Bauer, C Peris, A Field",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 15254 …",
+   "year": "2024"
+  },
+  {
+   "title": "Riveter: measuring power and social dynamics between entities",
+   "authors": "M Antoniak, A Field, J Mun, M Walsh, L Klein, M Sap",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Gendered mental health stigma in masked language models",
+   "authors": "I Lin, L Njoo, A Field, A Sharma, K Reinecke, T Althoff, Y Tsvetkov",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "A computational analysis of polarization on Indian and Pakistani social media",
+   "authors": "A Tyagi, A Field, P Lathwal, Y Tsvetkov, KM Carley",
+   "venue": "International Conference on Social Informatics, 364-379",
+   "year": "2020"
+  },
+  {
+   "title": "Violence against women and girls research: Leveraging gains across disciplines",
+   "authors": "K Falb, A Peterman, R Nordås, A Field, R Porat, L Stark",
+   "venue": "Proceedings of the National Academy of Sciences 122 (4), e2404557122",
+   "year": "2025"
+  },
+  {
+   "title": "Hicode: Hierarchical inductive coding with llms",
+   "authors": "M Zhong, P Wang, A Field",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Developing speech processing pipelines for police accountability",
+   "authors": "A Field, P Verma, N San, JL Eberhardt, D Jurafsky",
+   "venue": "arXiv preprint arXiv:2306.06086",
+   "year": "2023"
+  },
+  {
+   "title": "Synthtexteval: Synthetic text data generation and evaluation for high-stakes domains",
+   "authors": "K Ramesh, D Smolyak, Z Zhao, N Gandhi, R Agarwal, MV Bjarnadóttir, ...",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Annotating mentions alone enables efficient domain adaptation for coreference resolution",
+   "authors": "N Gandhi, A Field, E Strubell",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "From queries to criteria: Understanding how astronomers evaluate LLMs",
+   "authors": "A Hyk, K McCormick, M Zhong, I Ciucă, S Sharma, JF Wu, JEG Peek, ...",
+   "venue": "arXiv preprint arXiv:2507.15715",
+   "year": "2025"
+  },
+  {
+   "title": "A generative approach to titling and clustering Wikipedia sections",
+   "authors": "A Field, S Rothe, S Baumgartner, C Yu, A Ittycheriah",
+   "venue": "Proceedings of the Fourth Workshop on Neural Generation and Translation, 79-87",
+   "year": "2020"
+  },
+  {
+   "title": "An Automated Approach to Syntax-based Analysis of Classical Latin",
+   "authors": "A Field",
+   "venue": "Digital Classics Online, 57-78",
+   "year": "2016"
+  },
+  {
+   "title": "How do we measure privacy in text? A survey of text anonymization metrics",
+   "authors": "Y Ren, K Ramesh, Y Yao, A Field",
+   "venue": "Proceedings of the 14th International Joint Conference on Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Locating information gaps and narrative inconsistencies across languages: a case study of LGBT people portrayals on Wikipedia",
+   "authors": "F Samir, CY Park, A Field, V Shwartz, Y Tsvetkov",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Controlled Generation for Private Synthetic Text",
+   "authors": "Z Zhao, A Field",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Constructing Datasets From Public Police Body Camera Footage",
+   "authors": "J Rosas-Smith, M Bartelds, R Huang, LP García-Perera, K Livescu, ...",
+   "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2025"
+  },
+  {
+   "title": "Designing an Evaluation Framework for Large Language Models in Astronomy Research",
+   "authors": "JF Wu, A Hyk, K McCormick, C Ye, S Astarita, E Baral, J Ciuca, J Cranney, ...",
+   "venue": "arXiv preprint arXiv:2405.20389",
+   "year": "2024"
+  },
+  {
+   "title": "Improving Span Representation for Domain-adapted Coreference Resolution",
+   "authors": "N Gandhi, A Field, Y Tsvetkov",
+   "venue": "Proceedings of the Fourth Workshop on Computational Models of Reference …",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluating LLM tools: Insights from astronomer interactions with a RAG-based slack chatbot",
+   "authors": "A Hyk, K McCormick, I Ciucă, A Field, J Peek, S Sharma, J Wu",
+   "venue": "American Astronomical Society Meeting Abstracts# 245 245, 442.01",
+   "year": "2025"
+  },
+  {
+   "title": "The Privacy-Hallucination Tradeoff in Differentially Private Language Models",
+   "authors": "K Ramesh, K Pillutla, D Pruthi, A Field",
+   "venue": "arXiv preprint arXiv:2609.00492",
+   "year": "2026"
+  },
+  {
+   "title": "Does Local News Stay Local?: Online Content Shifts in Sinclair-Acquired Stations",
+   "authors": "M Wanner, S Hager, A Field",
+   "venue": "Proceedings of the Seventh Workshop on Natural Language Processing and …",
+   "year": "2026"
+  },
+  {
+   "title": "Unrequited Emotions: Investigating the Gaps in Motivation and Practice in Speech Emotion Recognition Research",
+   "authors": "T Wong, Z Talat, H Aldarmaki, A Field",
+   "venue": "Proceedings of Computational Affective Science (CAS)@ LREC 2026, 57-73",
+   "year": "2026"
+  },
+  {
+   "title": "Multi-Token Completion for Text Anonymization",
+   "authors": "P Madaan, K Ramesh, L Bauer, C Peris, A Field",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Evaluating Large Language Models in Astronomy Research",
+   "authors": "K McCormick, A Hyk, I Ciucă, A Field, J Peek, J Wu",
+   "venue": "American Astronomical Society Meeting Abstracts# 245 245, 356.09",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on NLP for Positive Impact",
+   "authors": "A Field, S Prabhumoye, M Sap, Z Jin, J Zhao, C Brockett",
+   "venue": "Proceedings of the 1st Workshop on NLP for Positive Impact",
+   "year": "2021"
+  },
+  {
+   "title": "Authorship Analysis of Xenophon's Cyropaedia",
+   "authors": "A Field",
+   "venue": "arXiv preprint arXiv:1711.01684",
+   "year": "2017"
+  },
+  {
+   "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+   "authors": "K Chaparala, S Huang, SL Miller, RN Miller, A Field",
+   "venue": "arXiv preprint arXiv:2609.30469",
+   "year": "2026"
+  },
+  {
+   "title": "Exploring Sparse Autoencoders in Text-Based Causal Confounding Adjustment",
+   "authors": "M Zhong, KA Keith, A Field",
+   "venue": "arXiv preprint arXiv:2609.01322",
+   "year": "2026"
+  },
+  {
+   "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+   "authors": "K Van Koevering, A Field",
+   "venue": "arXiv preprint arXiv:2608.13328",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the Seventh Workshop on Natural Language Processing and Computational Social Science",
+   "authors": "D Card, A Field, KA Keith, J Mendelsohn",
+   "venue": "Proceedings of the Seventh Workshop on Natural Language Processing and …",
+   "year": "2026"
+  },
+  {
+   "title": "The Effect of Document Selection on Query-focused Text Analysis",
+   "authors": "SS Rangreji, M Zhong, A Field",
+   "venue": "arXiv preprint arXiv:2604.12099",
+   "year": "2026"
+  },
+  {
+   "title": "What Makes a Good Response? An Empirical Analysis of Quality in Qualitative Interviews",
+   "authors": "J Ivey, A Field, Z Xiao",
+   "venue": "arXiv preprint arXiv:2604.05163",
+   "year": "2026"
+  },
+  {
+   "title": "pathfinder",
+   "authors": "KG Iyer, M Yunus, C O’Neill, C Ye, A Hyk, K McCormick, I Ciucă, JF Wu, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "AdaProb: Efficient Machine Unlearning via Adaptive Probability",
+   "authors": "Z Zhao, Y Yang, A Field, Y Cao",
+   "venue": "arXiv preprint arXiv:2411.02622",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the Sixth Workshop on Natural Language Processing and Computational Social Science (NLP+ CSS 2024)",
+   "authors": "D Card, A Field, D Hovy, KA Keith",
+   "venue": "Proceedings of the Sixth Workshop on Natural Language Processing and …",
+   "year": "2024"
+  },
+  {
+   "title": "Mention Annotations Alone Enable Efficient Domain Adaptation for Coreference Resolution",
+   "authors": "N Gandhi, A Field, E Strubell",
+   "venue": "arXiv preprint arXiv:2210.07602",
+   "year": "2022"
+  },
+  {
+   "title": "Gendered Mental Health Stigma in Masked Language Models",
+   "authors": "I Wanyin Lin, L Njoo, A Field, A Sharma, K Reinecke, T Althoff, Y Tsvetkov",
+   "venue": "arXiv e-prints, arXiv: 2210.15144",
+   "year": "2022"
+  },
+  {
+   "title": "Integrating Language Technologies and Social Theories",
+   "authors": "A Field",
+   "venue": "Stanford University",
+   "year": "2022"
+  },
+  {
+   "title": "A Computational Analysis of Polarization",
+   "authors": "A Tyagi, A Field, P Lathwal, Y Tsvetkov",
+   "venue": "Social Informatics: 12th International Conference, SocInfo 2020, Pisa, Italy …",
+   "year": "2020"
+  },
+  {
+   "title": "Pathophysiologie der Adipositas-assoziierten Hypertonie",
+   "authors": "U Kintscher",
+   "venue": "Adipositas-Ursachen, Folgeerkrankungen, Therapie 1 (02), 70-73",
+   "year": "2007"
+  },
+  {
+   "title": "AdaProb: Towards Efficient Machine Unlearning via Adaptive Probability",
+   "authors": "Z Zhao, Y Yang, A Field, Y Cao",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Realistic Noisy Text Generation for Fortified NLP",
+   "authors": "D Pruthi, S Kumar, A Field, N Vogler",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "user": "7C27kVMAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Lost in the middle: How language models use long contexts",
+   "authors": "NF Liu, K Lin, J Hewitt, A Paranjape, M Bevilacqua, F Petroni, P Liang",
+   "venue": "TACL",
+   "year": "2023"
+  },
+  {
+   "title": "A structural probe for finding syntax in word representations",
+   "authors": "J Hewitt, CD Manning",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Designing and Interpreting Probes with Control Tasks",
+   "authors": "J Hewitt, P Liang",
+   "venue": "EMNLP",
+   "year": "2019"
+  },
+  {
+   "title": "Emergent linguistic structure in artificial neural networks trained by self-supervision",
+   "authors": "CD Manning, K Clark, J Hewitt, U Khandelwal, O Levy",
+   "venue": "Proceedings of the National Academy of Sciences 117 (48), 30046-30054",
+   "year": "2020"
+  },
+  {
+   "title": "Finding Universal Grammatical Relations in Multilingual BERT",
+   "authors": "EA Chi, J Hewitt, CD Manning",
+   "venue": "ACL",
+   "year": "2020"
+  },
+  {
+   "title": "Truncation Sampling as Language Model Desmoothing",
+   "authors": "J Hewitt, CD Manning, P Liang",
+   "venue": "Findings of EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "RNNs can generate bounded hierarchical languages with optimal memory",
+   "authors": "J Hewitt, M Hahn, S Ganguli, P Liang, CD Manning",
+   "venue": "EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Conditional probing: measuring usable information beyond a baseline",
+   "authors": "J Hewitt, K Ethayarajh, P Liang, CD Manning",
+   "venue": "EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "XNMT: The extensible neural machine translation toolkit",
+   "authors": "G Neubig, M Sperber, X Wang, M Felix, A Matthews, S Padmanabhan, ...",
+   "venue": "AMTA",
+   "year": "2018"
+  },
+  {
+   "title": "The EOS Decision and Length Extrapolation",
+   "authors": "B Newman, J Hewitt, P Liang, CD Manning",
+   "venue": "BlackBoxNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Refining Targeted Syntactic Evaluation of Language Models",
+   "authors": "B Newman, KS Ang, J Gong, J Hewitt",
+   "venue": "NAACL",
+   "year": "2021"
+  },
+  {
+   "title": "Simple, fast, accurate intent classification and slot labeling for goal-oriented dialogue systems",
+   "authors": "A Gupta, J Hewitt, K Kirchhoff",
+   "venue": "SIGDIAL",
+   "year": "2019"
+  },
+  {
+   "title": "Learning translations via images with a massively multilingual image dataset",
+   "authors": "J Hewitt, D Ippolito, B Callahan, R Kriz, DT Wijaya, C Callison-Burch",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Closing the curious case of neural text degeneration",
+   "authors": "M Finlayson, J Hewitt, A Koller, S Swayamdipta, A Sabharwal",
+   "venue": "ICLR",
+   "year": "2023"
+  },
+  {
+   "title": "Initializing new word embeddings for pretrained language models",
+   "authors": "J Hewitt",
+   "venue": "URL: https:/nlp. stanford. edu/~ johnhew//vocab-expansion. html",
+   "year": "2021"
+  },
+  {
+   "title": "Backpack Language Models",
+   "authors": "J Hewitt, J Thickstun, CD Manning, P Liang",
+   "venue": "ACL",
+   "year": "2023"
+  },
+  {
+   "title": "We Can't Understand AI Using our Existing Vocabulary",
+   "authors": "J Hewitt, R Geirhos, B Kim",
+   "venue": "ICML 2025 (Position Papers)",
+   "year": "2025"
+  },
+  {
+   "title": "Probing artificial neural networks: insights from neuroscience",
+   "authors": "AA Ivanova, J Hewitt, N Zaslavsky",
+   "venue": "Brain2AI",
+   "year": "2021"
+  },
+  {
+   "title": "Instruction following without instruction tuning",
+   "authors": "J Hewitt, NF Liu, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:2409.14254",
+   "year": "2024"
+  },
+  {
+   "title": "Learning translations via matrix completion",
+   "authors": "D Wijaya, B Callahan, J Hewitt, J Gao, X Ling, M Apidianaki, ...",
+   "venue": "EMNLP",
+   "year": "2017"
+  },
+  {
+   "title": "JamPatoisNLI: A Jamaican Patois Natural Language Inference Dataset",
+   "authors": "RA Armstrong, J Hewitt, C Manning",
+   "venue": "Findings of EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "Because we have llms, we can and should pursue agentic interpretability",
+   "authors": "B Kim, J Hewitt, N Nanda, N Fiedel, O Tafjord",
+   "venue": "arXiv preprint arXiv:2506.12152",
+   "year": "2025"
+  },
+  {
+   "title": "Capturing rich response relationships with small-data neural networks",
+   "authors": "J Hewitt",
+   "venue": "US Patent App. 15/841,963",
+   "year": "2019"
+  },
+  {
+   "title": "A distributional and orthographic aggregation model for english derivational morphology",
+   "authors": "D Deutsch, J Hewitt, D Roth",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Model editing with canonical examples",
+   "authors": "J Hewitt, S Chen, LL Xie, E Adams, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:2402.06155",
+   "year": "2024"
+  },
+  {
+   "title": "Ensembles and cocktails: Robust finetuning for natural language generation",
+   "authors": "J Hewitt, XL Li, SM Xie, B Newman, P Liang",
+   "venue": "NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": "2021"
+  },
+  {
+   "title": "Generating text from language models",
+   "authors": "A Amini, R Cotterell, J Hewitt, L Malagutti, C Meister, T Pimentel",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Subliminal steering: Stronger encoding of hidden signals",
+   "authors": "G Morgulis, J Hewitt",
+   "venue": "COLM 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Neologism Learning for Controllability and Self-Verbalization",
+   "authors": "J Hewitt, O Tafjord, R Geirhos, B Kim",
+   "venue": "ICLR 2026",
+   "year": "2025"
+  },
+  {
+   "title": "Improving parametric knowledge access in reasoning language models",
+   "authors": "M Ma, J Hewitt",
+   "venue": "arXiv preprint arXiv:2602.22193",
+   "year": "2026"
+  },
+  {
+   "title": "Character-level Chinese Backpack Language Models",
+   "authors": "H Sun, J Hewitt",
+   "venue": "BlackBoxNLP",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic construction of morphologically motivated translation models for highly inflected, low-resource languages",
+   "authors": "J Hewitt, M Post, D Yarowsky",
+   "venue": "Conferences of the Association for Machine Translation in the Americas: MT …",
+   "year": "2016"
+  },
+  {
+   "title": "Understanding Language Models Through Discovery and by Design",
+   "authors": "JW Hewitt",
+   "venue": "Stanford University",
+   "year": "2024"
+  },
+  {
+   "title": "Потерянные в середине: как языковые модели используют длинные контексты (Lost in the Middle: How Language Models Use Long Contexts)",
+   "authors": "NF Liu, K Lin, J Hewitt, A Paranjape, M Bevilacqua, F Petroni, P Liang",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

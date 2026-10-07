@@ -1,0 +1,1199 @@
+{
+ "user": "sGFFr5kAAAAJ",
+ "pubs": [
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Language from police body camera footage shows racial disparities in officer respect",
+   "authors": "R Voigt, NP Camp, V Prabhakaran, WL Hamilton, RC Hetey, CM Griffiths, ...",
+   "venue": "Proceedings of the national Academy of sciences 114 (25), 6521-6526",
+   "year": "2017"
+  },
+  {
+   "title": "Measuring the predictability of life outcomes with a scientific mass collaboration",
+   "authors": "MJ Salganik, I Lundberg, AT Kindel, CE Ahearn, K Al-Ghoneim, ...",
+   "venue": "Proceedings of the National Academy of Sciences 117 (15), 8398-8403",
+   "year": "2020"
+  },
+  {
+   "title": "Measuring the Evolution of a Scientific Field through Citation Frames",
+   "authors": "D Jurgens, S Kumar, R Hoover, D McFarland, D Jurafsky",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 391-406",
+   "year": "2018"
+  },
+  {
+   "title": "Can Large Language Model Agents Simulate Human Trust Behaviors?",
+   "authors": "C Xie, C Chen, F Jia, Z Ye, K Shu, A Bibi, Z Hu, D Jurgens, J Evans, P Torr, ...",
+   "venue": "NeurIPS",
+   "year": "2024"
+  },
+  {
+   "title": "That's What Friends Are For: Inferring Location in Online Social Media Platforms Based on Social Relationships.",
+   "authors": "D Jurgens",
+   "venue": "Proceedings of the AAAI International Conference on Weblogs and Social Media",
+   "year": "2013"
+  },
+  {
+   "title": "Demographic Inference and Representative Population Estimates from Multilingual Social Media Data",
+   "authors": "Z Wang, S Hale, DI Adelani, P Grabowicz, T Hartman, F Flöck, D Jurgens",
+   "venue": "The World Wide Web Conference, 2056-2067",
+   "year": "2019"
+  },
+  {
+   "title": "Semeval-2013 task 12: Multilingual word sense disambiguation",
+   "authors": "R Navigli, D Jurgens, D Vannella",
+   "venue": "Proceedings of the 7th International Workshop on Semantic Evaluation …",
+   "year": "2013"
+  },
+  {
+   "title": "Geolocation prediction in twitter using social networks: A critical analysis and review of current practice",
+   "authors": "D Jurgens, T Finethy, J McCorriston, Y Xu, D Ruths",
+   "venue": "Proceedings of the international AAAI conference on web and social media 9 …",
+   "year": "2015"
+  },
+  {
+   "title": "When \"A Helpful Assistant\" Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models",
+   "authors": "M Zheng, J Pei, L Logeswaran, M Lee, D Jurgens",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 15126 …",
+   "year": "2024"
+  },
+  {
+   "title": "Semeval-2012 task 2: Measuring degrees of relational similarity",
+   "authors": "DA Jurgens, SM Mohammad, PD Turney, KJ Holyoak",
+   "venue": "Proceedings of the 6th International Workshop on Semantic Evaluation …",
+   "year": "2012"
+  },
+  {
+   "title": "Align, Disambiguate and Walk: A Unified Approach for Measuring Semantic Similarity",
+   "authors": "MT Pilehvar, D Jurgens, R Navigli",
+   "venue": "Proceedings of 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Geotagging One Hundred Million Twitter Accounts with Total Variation Minimization",
+   "authors": "R Compton, D Jurgens, D Allen",
+   "venue": "IEEE International Conference on Big Data",
+   "year": "2014"
+  },
+  {
+   "title": "Finding microaggressions in the wild: A case for locating elusive phenomena in social media posts",
+   "authors": "L Breitfeller, E Ahn, D Jurgens, Y Tsvetkov",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "User migration in online social networks: A case study on reddit during a period of community unrest",
+   "authors": "E Newell, D Jurgens, H Saleem, H Vala, J Sassine, C Armstrong, D Ruths",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 10 …",
+   "year": "2016"
+  },
+  {
+   "title": "A Just and Comprehensive Strategy for Using NLP to Address Online Abuse",
+   "authors": "D Jurgens, E Chandrasekharan, L Hemphill",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Towards bidirectional human-ai alignment: A systematic review for clarifications, framework, and future directions",
+   "authors": "H Shen, T Knearem, R Ghosh, K Alkiek, K Krishna, Y Liu, Z Ma, S Petridis, ...",
+   "venue": "arXiv preprint arXiv:2406.09264 2406, 1-56",
+   "year": "2024"
+  },
+  {
+   "title": "Modeling Framing in Immigration Discourse on Social Media",
+   "authors": "J Mendelsohn, C Budak, D Jurgens",
+   "venue": "Proceedings of the 2021 Annual Conference of the North American Chapter of …",
+   "year": "2021"
+  },
+  {
+   "title": "Still out there: Modeling and identifying russian troll accounts on twitter",
+   "authors": "J Im, E Chandrasekharan, J Sargent, P Lighthammer, T Denby, ...",
+   "venue": "Proceedings of the 12th ACM conference on web Science, 1-10",
+   "year": "2020"
+  },
+  {
+   "title": "The S-Space package: an open source package for word space models",
+   "authors": "D Jurgens, K Stevens",
+   "venue": "Proceedings of the ACL 2010 System Demonstrations, 30-35",
+   "year": "2010"
+  },
+  {
+   "title": "Incorporating dialectal variability for socially equitable language identification",
+   "authors": "D Jurgens, Y Tsvetkov, D Jurafsky",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Do LLMs understand social knowledge? Evaluating the sociability of large language models with the SoCKET benchmark",
+   "authors": "M Choi, J Pei, S Kumar, C Shu, D Jurgens",
+   "venue": "The 2023 Conference on Empirical Methods in Natural Language Processing",
+   "year": "2023"
+  },
+  {
+   "title": "Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts",
+   "authors": "H Vala, D Jurgens, A Piper, D Ruths",
+   "venue": "Proceedings of the Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Semeval-2013 Task 13: Word sense induction for graded and non-graded senses",
+   "authors": "D Jurgens, I Klapaftis",
+   "venue": "Proceedings of the 7th International Workshop on Semantic Evaluation",
+   "year": "2013"
+  },
+  {
+   "title": "Potato: The portable text annotation tool",
+   "authors": "J Pei, A Ananthasubramaniam, X Wang, N Zhou, J Sargent, A Dedeloudis, ...",
+   "venue": "Proceedings of the The 2022 Conference on Empirical Methods in Natural …",
+   "year": "2022"
+  },
+  {
+   "title": "RtGender: A corpus for studying differential responses to gender",
+   "authors": "R Voigt, D Jurgens, V Prabhakaran, D Jurafsky, Y Tsvetkov",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Organizations are Users Too: Characterizing and Detecting the Presence of Organizations on Twitter",
+   "authors": "J McCorriston, D Jurgens, D Ruths",
+   "venue": "Proceedings of the 9th International AAAI Conference on Weblogs and Social …",
+   "year": "2015"
+  },
+  {
+   "title": "Phone-to-audio alignment without text: A semi-supervised approach",
+   "authors": "J Zhu, C Zhang, D Jurgens",
+   "venue": "ICASSP 2022-2022 IEEE international conference on acoustics, speech and …",
+   "year": "2022"
+  },
+  {
+   "title": "ByT5 model for massively multilingual grapheme-to-phoneme conversion",
+   "authors": "J Zhu, C Zhang, D Jurgens",
+   "venue": "Interspeech 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Semeval-2016 task 14: Semantic taxonomy enrichment",
+   "authors": "D Jurgens, MT Pilehvar",
+   "venue": "Proceedings of the 10th international workshop on semantic evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "You don't need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments",
+   "authors": "B Shu, L Zhang, M Choi, L Dunagan, L Logeswaran, M Lee, D Card, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Semeval-2014 task 3: Cross-level semantic similarity",
+   "authors": "D Jurgens, MT Pilehvar, R Navigli",
+   "venue": "Proceedings of the 8th international workshop on semantic evaluation …",
+   "year": "2014"
+  },
+  {
+   "title": "MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting",
+   "authors": "A Lauscher, B Ko, B Kuehl, S Johnson, A Cohan, D Jurgens, K Lo",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "SemEval-2022 Task 8: Multilingual News Article Similarity",
+   "authors": "X Chen, A Zeynali, C Camargo, F Flöck, D Gaffney, P Grabowicz, S Hale, ...",
+   "venue": "Proceedings of the 16th International Workshop on Semantic Evaluation …",
+   "year": "2022"
+  },
+  {
+   "title": "Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs",
+   "authors": "H Sun, J Pei, M Choi, D Jurgens",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "When Do Annotator Demographics Matter? Measuring the Influence of Annotator Demographics with the POPQUORN Dataset",
+   "authors": "J Pei, D Jurgens",
+   "venue": "Proceedings of the 17th Linguistic Annotation Workshop (LAW-XVII)",
+   "year": "2023"
+  },
+  {
+   "title": "It’s going to be okay: Measuring access to support in online communities",
+   "authors": "Z Wang, D Jurgens",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "It’s all fun and games until someone annotates: Video games with a purpose for linguistic annotation",
+   "authors": "D Jurgens, R Navigli",
+   "venue": "Transactions of the Association for Computational Linguistics 2, 449-464",
+   "year": "2014"
+  },
+  {
+   "title": "Embracing ambiguity: A comparison of annotation methodologies for crowdsourcing word sense labels",
+   "authors": "D Jurgens",
+   "venue": "Proceedings of the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Validating and extending semantic knowledge bases using video games with a purpose",
+   "authors": "D Vannella, D Jurgens, D Scarfini, D Toscani, R Navigli",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Temporal Motifs Reveal the Dynamics of Editor Interactions in Wikipedia",
+   "authors": "D Jurgens, TC Lu",
+   "venue": "International Conference on Weblogs and Social Media (ICWSM)",
+   "year": "2012"
+  },
+  {
+   "title": "Conversations Gone Alright: Quantifying and Predicting Prosocial Outcomes in Online Conversations",
+   "authors": "J Bao, J Wu, Y Zhang, E Chandrasekharan, D Jurgens",
+   "venue": "The Web Conference (WebConf/WWW)",
+   "year": "2021"
+  },
+  {
+   "title": "Are All Successful Communities Alike? Characterizing and Predicting the Success of Online Communities",
+   "authors": "T Cunha, D Jurgens, C Tan, D Romero",
+   "venue": "Proceedings of the Web Conference (WWW)",
+   "year": "2019"
+  },
+  {
+   "title": "Condolence and Empathy in Online Communities",
+   "authors": "N Zhou, D Jurgens",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Quantifying Intimacy in Language",
+   "authors": "J Pei, D Jurgens",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Measuring Sentence-Level and Aspect-Level (Un)certainty in Science Communications",
+   "authors": "J Pei, D Jurgens",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Event detection in blogs using temporal random indexing",
+   "authors": "D Jurgens, K Stevens",
+   "venue": "Proceedings of the Workshop on Events in Emerging Text Types, 9-16",
+   "year": "2009"
+  },
+  {
+   "title": "The impact of generative AI on social media: An experimental study",
+   "authors": "AG Møller, DM Romero, D Jurgens, LM Aiello",
+   "venue": "Scientific Reports 16 (1), 9376",
+   "year": "2026"
+  },
+  {
+   "title": "SPRIG: Improving large language model performance by system prompt optimization",
+   "authors": "L Zhang, T Ergen, L Logeswaran, M Lee, D Jurgens",
+   "venue": "Proceedings of  The Fourteenth International Conference on Learning …",
+   "year": "2026"
+  },
+  {
+   "title": "Suicide among older adults living in or transitioning to residential long-term care, 2003 to 2015",
+   "authors": "B Mezuk, TM Ko, VA Kalesnikava, D Jurgens",
+   "venue": "JAMA network open 2 (6), e195627",
+   "year": "2019"
+  },
+  {
+   "title": "A Critical Reflection and Forward Perspective on Empathy and Natural Language Processing",
+   "authors": "A Lahnala, C Welch, D Jurgens, L Flek",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Detecting Cross-Geographic Biases in Toxicity Modeling on Social Media",
+   "authors": "S Ghosh, D Baker, D Jurgens, V Prabhakaran",
+   "venue": "Proceedings of the 7th Workshop on Noisy User-generated Text (W-NUT)",
+   "year": "2021"
+  },
+  {
+   "title": "Reading Between the Lines: Overcoming Data Sparsity for Accurate Classification of Lexical Relationships",
+   "authors": "S Necsulescu, S Mendes, D Jurgens, N Bel, R Navigli",
+   "venue": "Proceedings of the Fourth Joint Conference on Lexical and Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals' Subjective Text Perceptions",
+   "authors": "M Orlikowski, J Pei, P Röttger, P Cimiano, D Jurgens, D Hovy",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Idiosyncratic but not Arbitrary: Learning Idiolects in Online Registers Reveals Distinctive yet Consistent Individual Styles",
+   "authors": "J Zhu, D Jurgens",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Diversifying the professoriate",
+   "authors": "B Hofstra, DA McFarland, S Smith, D Jurgens",
+   "venue": "Socius 8, 23780231221085118",
+   "year": "2022"
+  },
+  {
+   "title": "Smart, Responsible, and Upper Caste Only: Measuring Caste Attitudes through Large-Scale Analysis of Matrimonial Profiles",
+   "authors": "A Rajadesingan, R Mahalingam, D Jurgens",
+   "venue": "ICWSM",
+   "year": "2019"
+  },
+  {
+   "title": "Detecting community sensitive norm violations in online conversations",
+   "authors": "CY Park, J Mendelsohn, K Radhakrishnan, K Jain, T Kanakagiri, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 3386-3397",
+   "year": "2021"
+  },
+  {
+   "title": "Writer Profiling Without the Writer’s Text",
+   "authors": "D Jurgens, Y Tsvetkov, D Jurafsky",
+   "venue": "Proceedings of the 9th International Conference on Social Informatics",
+   "year": "2017"
+  },
+  {
+   "title": "Reserating the awesometastic: An automatic extension of the WordNet taxonomy for novel terms",
+   "authors": "D Jurgens, MT Pilehvar",
+   "venue": "The 2015 Conference of the North American Chapter of the Association for …",
+   "year": "2015"
+  },
+  {
+   "title": "Twitter Users #CodeSwitch Hashtags! #MoltoImportante #wow #헐",
+   "authors": "D Jurgens, S Dimitrov, D Ruths",
+   "venue": "Proceedings of The First Workshop on Computational Approaches to Code …",
+   "year": "2014"
+  },
+  {
+   "title": "Socially aware language technologies: Perspectives and practices",
+   "authors": "D Yang, D Hovy, D Jurgens, B Plank",
+   "venue": "Computational Linguistics 51, 689-703",
+   "year": "2025"
+  },
+  {
+   "title": "Position: Towards bidirectional human-AI alignment",
+   "authors": "H Shen, T Knearem, R Ghosh, K Alkiek, K Krishna, L Yachuan, S Petridis, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Language in popular American culture constructs the meaning of healthy and unhealthy eating: Narratives of craveability, excitement, and social connection in movies, television …",
+   "authors": "BP Turnwald, MA Perry, D Jurgens, V Prabhakaran, D Jurafsky, ...",
+   "venue": "Appetite 172, 105949",
+   "year": "2022"
+  },
+  {
+   "title": "The structure of online social networks modulates the rate of lexical change",
+   "authors": "J Zhu, D Jurgens",
+   "venue": "Proceedings of the 2021 Annual Conference of the North American Chapter of …",
+   "year": "2021"
+  },
+  {
+   "title": "Semeval 2023 task 9: Multilingual tweet intimacy analysis",
+   "authors": "J Pei, V Silva, M Bos, Y Liu, L Neves, D Jurgens, F Barbieri",
+   "venue": "Proceedings of the 17th International Workshop on Semantic Evaluation …",
+   "year": "2023"
+  },
+  {
+   "title": "Word sense induction by community detection",
+   "authors": "D Jurgens",
+   "venue": "Workshop on Graph-based Methods for Natural Language Processing (TextGraphs-6)",
+   "year": "2011"
+  },
+  {
+   "title": "The subtle language of exclusion: Identifying the Toxic Speech of Trans-exclusionary Radical Feminists",
+   "authors": "C Lu, D Jurgens",
+   "venue": "Proceedings of the sixth workshop on online abuse and harms (WOAH), 79-91",
+   "year": "2022"
+  },
+  {
+   "title": "Semi-supervised Learning with Induced Word Senses for State of the Art WSD",
+   "authors": "O Baskaya, D Jurgens",
+   "venue": "Journal of Artificial Intelligence Research 55, 1025-1058",
+   "year": "2016"
+  },
+  {
+   "title": "Author Mentions in Science News Reveal Widespread Disparities Across Name-inferred Ethnicities",
+   "authors": "H Peng, M Teplitskiy, D Jurgens",
+   "venue": "Quantitative Science Studies 5 (2), 351–365",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the 10th international workshop on semantic evaluation (SemEval-2016)",
+   "authors": "S Bethard, M Carpuat, D Cer, D Jurgens, P Nakov, T Zesch",
+   "venue": "Proceedings of the 10th International Workshop on Semantic Evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "Modeling Information Change in Science Communication with Semantically Matched Paraphrases",
+   "authors": "D Wright, J Pei, D Jurgens, I Augenstein",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Method for stage-based cost analysis for task scheduling",
+   "authors": "S Proctor, D Jurgens, J Megquier",
+   "venue": "US Patent 8,250,579",
+   "year": "2012"
+  },
+  {
+   "title": "An analysis of ambiguity in word sense annotations",
+   "authors": "D Jurgens",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "Structured Moral Reasoning in Language Models: A Value-Grounded Evaluation Framework",
+   "authors": "M Chakraborty, L Wang, D Jurgens",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Tokenization is Sensitive to Language Variation",
+   "authors": "A Wegmann, D Nguyen, D Jurgens",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions",
+   "authors": "CY Park, SS Li, H Jung, S Volkova, T Mitra, D Jurgens, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Mapping the podcast ecosystem with the structured podcast research corpus",
+   "authors": "BR Litterer, D Jurgens, D Card",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Annotating Characters in Literary Corpora: A Scheme, the CHARLES Tool, and an Annotated Novel",
+   "authors": "H Vala, S Dimitrov, D Jurgens, A Piper, D Ruths",
+   "venue": "Proceedings of the 10th edition of the Language Resources and Evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "More than Meets the Tie: Examining the Role of Interpersonal Relationships in Social Networks",
+   "authors": "M Choi, C Budak, DM Romero, D Jurgens",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 15 …",
+   "year": "2021"
+  },
+  {
+   "title": "Wetin dey with these comments? Modeling Sociolinguistic Factors Affecting Code-switching Behavior in Nigerian Online Discussions",
+   "authors": "I Ndubuisi-Obi, S Ghosh, D Jurgens",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Road extraction from motion cues in aerial video",
+   "authors": "R Pless, D Jurgens",
+   "venue": "Proceedings of the 12th annual ACM international workshop on Geographic …",
+   "year": "2004"
+  },
+  {
+   "title": "Real or Robotic? Assessing Whether LLMs Accurately Simulate Qualities of Human Responses in Human-LLM Dialogue",
+   "authors": "J Ivey, S Kumar, J Liu, H Shen, S Rakshit, R Raju, H Zhang, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 41395-41432",
+   "year": "2026"
+  },
+  {
+   "title": "Your spouse needs professional help: Determining the Contextual Appropriateness of Messages through Modeling Social Relationships",
+   "authors": "D Jurgens, A Seth, J Sargent, A Aghighi, M Geraci",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "A data science approach to estimating the frequency of driving cessation associated suicide in the US: Evidence from the national violent death reporting system",
+   "authors": "TM Ko, VA Kalesnikava, D Jurgens, B Mezuk",
+   "venue": "Frontiers in public health 9, 689967",
+   "year": "2021"
+  },
+  {
+   "title": "Cross Level Semantic Similarity: An Evaluation Framework for Universal Measures of Similarity",
+   "authors": "D Jurgens, MT Pilehvar, R Navigli",
+   "venue": "Journal of Language Resources and Evaluation",
+   "year": "2015"
+  },
+  {
+   "title": "Perceptions of social roles across cultures",
+   "authors": "MX Dong, D Jurgens, C Banea, R Mihalcea",
+   "venue": "International Conference on Social Informatics, 157-172",
+   "year": "2019"
+  },
+  {
+   "title": "KULeuven-LIIR at SemEval-2017 task 12: Cross-domain temporal information extraction from clinical records",
+   "authors": "A Leeuwenberg, MF Moens",
+   "venue": "Proceedings of the 11th International Workshop on Semantic Evaluation …",
+   "year": "2017"
+  },
+  {
+   "title": "HERMIT: Flexible clustering for the SemEval-2 WSI task",
+   "authors": "D Jurgens, K Stevens",
+   "venue": "Proceedings of the 5th International Workshop on Semantic Evaluation, 359-362",
+   "year": "2010"
+  },
+  {
+   "title": "Who reaps all the superchats? a large-scale analysis of income inequality in virtual youtuber livestreaming",
+   "authors": "R Zhao, B Diep, J Pei, D Yoon, D Jurgens, J Zhu",
+   "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2025"
+  },
+  {
+   "title": "Social Meme-ing: Measuring Linguistic Variation in Memes",
+   "authors": "N Zhou, D Jurgens, D Bamman",
+   "venue": "2024 Annual Conference of the North American Chapter of the Association for …",
+   "year": "2023"
+  },
+  {
+   "title": "Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral",
+   "authors": "S Kumar, D Jurgens",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Modeling Empathetic Alignment in Conversation",
+   "authors": "J Yang, D Jurgens",
+   "venue": "Proceedings of the 2024 Annual Conference of the North American Chapter of …",
+   "year": "2024"
+  },
+  {
+   "title": "Work expectations, depressive symptoms, and passive suicidal ideation among older adults: Evidence from the Health and Retirement Study",
+   "authors": "B Mezuk, L Dang, D Jurgens, J Smith",
+   "venue": "The Gerontologist 62 (10), 1454-1465",
+   "year": "2022"
+  },
+  {
+   "title": "Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender",
+   "authors": "S CH-Wang, D Jurgens",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Audrey: A personalized open-domain conversational bot",
+   "authors": "CH Hong, Y Liang, SS Roy, A Jain, V Agarwal, R Draves, Z Zhou, W Chen, ...",
+   "venue": "arXiv preprint arXiv:2011.05910",
+   "year": "2020"
+  },
+  {
+   "title": "An Analysis of Exercising Behavior in Online Populations",
+   "authors": "D Jurgens, J McCorriston, D Ruths",
+   "venue": "Proceedings of the 9th International AAAI Conference on Weblogs and Social …",
+   "year": "2015"
+  },
+  {
+   "title": "The Language of Trauma: Modeling Traumatic Event Descriptions Across Domains with Explainable AI",
+   "authors": "M Schirmer, T Leemann, G Kasneci, J Pfeffer, D Jurgens",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "RCT rejection sampling for causal estimation evaluation",
+   "authors": "KA Keith, S Feldman, D Jurgens, J Bragg, R Bhattacharya",
+   "venue": "arXiv preprint arXiv:2307.15176",
+   "year": "2023"
+  },
+  {
+   "title": "An Evaluation of Graded Sense Disambiguation using Word Sense Induction",
+   "authors": "D Jurgens",
+   "venue": "*SEM, the First Joint Conference on Lexical and Computational Semantics",
+   "year": "2012"
+  },
+  {
+   "title": "When it Rains, it Pours: Modeling Media Storms and the News Ecosystem",
+   "authors": "B Litterer, D Jurgens, D Card",
+   "venue": "Findings of EMNLP",
+   "year": "2023"
+  },
+  {
+   "title": "Bridging nations: quantifying the role of multilinguals in communication on social media",
+   "authors": "J Mendelsohn, S Ghosh, D Jurgens, C Budak",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 17 …",
+   "year": "2023"
+  },
+  {
+   "title": "Leveraging multilingual training for authorship representation: Enhancing generalization across languages and domains",
+   "authors": "J Kim, H Zhang, D Jurgens",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Profile update: the effects of identity disclosure on network connections and language",
+   "authors": "M Choi, DM Romero, D Jurgens",
+   "venue": "EPJ Data Science 13 (1), 45",
+   "year": "2024"
+  },
+  {
+   "title": "Classification without (proper) representation: Political heterogeneity in social media and its implications for classification and behavioral analysis",
+   "authors": "K Alkiek, B Zhang, D Jurgens",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 504-522",
+   "year": "2022"
+  },
+  {
+   "title": "Analyzing the Engagement of Social Relationships During Life Event Shocks in Social Media",
+   "authors": "M Choi, D Jurgens, DM Romero",
+   "venue": "The 17th International AAAI Conference on Web and Social Media",
+   "year": "2023"
+  },
+  {
+   "title": "Modeling annotator disagreement with demographic-aware experts and synthetic perspectives",
+   "authors": "Y Xu, V Derricks, A Earl, D Jurgens",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "An animated picture says at least a thousand words: Selecting Gif-based Replies in Multimodal Dialog",
+   "authors": "X Wang, D Jurgens",
+   "venue": "Findings of EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Methods and apparatus for window-based fair priority scheduling",
+   "authors": "ST Proctor, DA Jurgens, DR Chase",
+   "venue": "US Patent 8,286,173",
+   "year": "2012"
+  },
+  {
+   "title": "Are Economists Always More Introverted? Analyzing Consistency in Persona-Assigned LLMs",
+   "authors": "M Reusens, B Baesens, D Jurgens",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Unstructured Evidence Attribution for Long Context Query Focused Summarization",
+   "authors": "D Wright, ZM Mujahid, L Wang, I Augenstein, D Jurgens",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Geographical disparities in navigating rejection in science drive disparities in its file drawer",
+   "authors": "H Chen, CI Rider, D Jurgens, M Teplitskiy",
+   "venue": "Academy of Management Proceedings 2025 (1), 18866",
+   "year": "2025"
+  },
+  {
+   "title": "HamiltonDinggg at SemEval-2021 Task 5: Investigating toxic span detection using RoBERTa pre-training",
+   "authors": "H Ding, D Jurgens",
+   "venue": "Proceedings of the 15th International Workshop on Semantic Evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the 9th international workshop on semantic evaluation (SemEval 2015)",
+   "authors": "P Nakov, T Zesch, D Cer, D Jurgens",
+   "venue": "Proceedings of the 9th International Workshop on Semantic Evaluation …",
+   "year": "2015"
+  },
+  {
+   "title": "Beyond consensus: Perspectivist modeling and evaluation of annotator disagreement in nlp",
+   "authors": "Y Xu, D Jurgens",
+   "venue": "arXiv preprint arXiv:2601.09065",
+   "year": "2026"
+  },
+  {
+   "title": "Characterizing Online Discussions in Microblogs Using Network Analysis",
+   "authors": "V Strnadova, D Jurgens, TC Lu",
+   "venue": "AAAI Spring Symposium: Analyzing Microtext",
+   "year": "2013"
+  },
+  {
+   "title": "Measuring the impact of sense similarity on word sense induction",
+   "authors": "D Jurgens, K Stevens",
+   "venue": "Proceedings of the First workshop on Unsupervised Learning in NLP, 113-123",
+   "year": "2011"
+  },
+  {
+   "title": "Neurobiber: Fast and interpretable stylistic feature extraction",
+   "authors": "K Alkiek, A Wegmann, J Zhu, D Jurgens",
+   "venue": "arXiv preprint arXiv:2502.18590",
+   "year": "2025"
+  },
+  {
+   "title": "Exploring Linguistic Style Matching in Online Communities: The Role of Social Context and Conversation Dynamics",
+   "authors": "A Ananthasubramaniam, H Chen, J Yan, K Alkiek, J Pei, A Seth, ...",
+   "venue": "Proceedings of the First Workshop on Social Influence in Conversations …",
+   "year": "2023"
+  },
+  {
+   "title": "Learning about word vector representations and deep learning through implementing word2vec",
+   "authors": "D Jurgens",
+   "venue": "Proceedings of the Fifth Workshop on Teaching NLP, 108-111",
+   "year": "2021"
+  },
+  {
+   "title": "Cross-lingual prompt steerability: Towards accurate and robust LLM behavior across languages",
+   "authors": "L Zhang, Y Zhou, T Ergen, L Logeswaran, M Lee, D Jurgens",
+   "venue": "arXiv preprint arXiv:2512.02841",
+   "year": "2025"
+  },
+  {
+   "title": "Tab2Text-A framework for deep learning with tabular data",
+   "authors": "T Lin, J Yan, D Jurgens, S Tomkins",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 12925 …",
+   "year": "2024"
+  },
+  {
+   "title": "An Analysis of Individuals’ Behavior Change in Online Groups",
+   "authors": "D Jurgens, J McCorriston, D Ruths",
+   "venue": "Proceedings of the 9th International Conference on Social Informatics",
+   "year": "2017"
+  },
+  {
+   "title": "Nutmeg: Separating signal from noise in annotator disagreement",
+   "authors": "J Ivey, S Gauch, D Jurgens",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "One model, many morals: Uncovering cross-linguistic misalignments in computational moral reasoning",
+   "authors": "S Farid, J Lin, Z Chen, S Kumar, D Jurgens",
+   "venue": "arXiv preprint arXiv:2509.21443",
+   "year": "2025"
+  },
+  {
+   "title": "Evaluation Framework for AI Systems in\" the Wild\"",
+   "authors": "S Jabbour, T Chang, AD Antar, J Peper, I Jang, J Liu, JW Chung, S He, ...",
+   "venue": "arXiv preprint arXiv:2504.16778",
+   "year": "2025"
+  },
+  {
+   "title": "The persuasive role of generic-you in online interactions",
+   "authors": "M Niu, E Mower Provost, D Jurgens, SA Gelman, E Kross, A Orvell",
+   "venue": "Scientific reports 15 (1), 1347",
+   "year": "2025"
+  },
+  {
+   "title": "Inferring the location of users in online social media platforms using social network analysis",
+   "authors": "DA Jurgens",
+   "venue": "US Patent 9,794,358",
+   "year": "2017"
+  },
+  {
+   "title": "Semantic similarity frontiers: From concepts to documents",
+   "authors": "D Jurgens, MT Pilehvar",
+   "venue": "Conference on Empirical Methods in Natural Language Processing EMNLP, 269",
+   "year": "2015"
+  },
+  {
+   "title": "Evaluating Learning Language Representations",
+   "authors": "J Karlgren, J Callin, K Collins-Thompson, A Cuba, AE Gyllensten, ...",
+   "venue": "Proceedings of the Conference and Labs of Evaluation Forum (CLEF)",
+   "year": "2015"
+  },
+  {
+   "title": "The Million Authors Corpus: A Cross-Lingual and Cross-Domain Wikipedia Dataset for Authorship Verification",
+   "authors": "A Israeli, S Liu, J May, D Jurgens",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 25997-26017",
+   "year": "2025"
+  },
+  {
+   "title": "The noisy path from source to citation: Measuring how scholars engage with past research",
+   "authors": "H Chen, M Teplitskiy, D Jurgens",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Roles of Network and Identity in Hashtag Diffusion",
+   "authors": "A Ananthasubramaniam, YL Zhu, D Jurgens, DM Romero",
+   "venue": "Proceedings of the ACM on Web Conference 2025, 3233-3246",
+   "year": "2025"
+  },
+  {
+   "title": "Networks and identity drive the spatial diffusion of linguistic innovation in urban and rural areas",
+   "authors": "A Ananthasubramaniam, D Jurgens, DM Romero",
+   "venue": "npj Complexity 1 (1), 14",
+   "year": "2024"
+  },
+  {
+   "title": "Method for gauging public interest in a topic using network analysis of online discussions",
+   "authors": "DA Jurgens, TC Lu, V Stmadova",
+   "venue": "US Patent 9,639,610",
+   "year": "2017"
+  },
+  {
+   "title": "Automated collaborative behavior analysis using temporal motifs",
+   "authors": "DA Jurgens, TC Lu",
+   "venue": "US Patent 9,465,504",
+   "year": "2016"
+  },
+  {
+   "title": "Everyone’s Invited: A New Paradigm For Evaluation on Non-transferable Datasets",
+   "authors": "D Jurgens, T Finethy, C Armstrong, D Ruths",
+   "venue": "Proceedings of the ICWSM Workshop on Standards and Practices in Large-Scale …",
+   "year": "2015"
+  },
+  {
+   "title": "Friends, Enemies, and Lovers: Detecting Communities in Networks Where Relationships Matter",
+   "authors": "D Jurgens, TC Lu",
+   "venue": "Web Science",
+   "year": "2012"
+  },
+  {
+   "title": "A multilingual similarity dataset for news article frame",
+   "authors": "X Chen, M Samory, S Hale, D Jurgens, PA Grabowicz",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 18 …",
+   "year": "2024"
+  },
+  {
+   "title": "Finding Educationally Supportive Contexts for Vocabulary Learning with Attention-Based Models",
+   "authors": "S Nam, K Collins-Thompson, D Jurgens, X Tong",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Networks and identity drive geographic properties of the diffusion of linguistic innovation",
+   "authors": "A Ananthasubramaniam, D Jurgens, DM Romero",
+   "venue": "arXiv preprint arXiv:2202.04842",
+   "year": "2022"
+  },
+  {
+   "title": "Graph visualization system based on gravitational forces due to path distance and betweenness centrality",
+   "authors": "EP Tressler, DA Jurgens",
+   "venue": "US Patent 9,892,533",
+   "year": "2018"
+  },
+  {
+   "title": "The Practical Impacts of Theoretical Constructs on Empathy Modeling",
+   "authors": "A Lahnala, C Welch, D Jurgens, L Flek",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Causally Modeling the Linguistic and Social Factors that Predict Email Response",
+   "authors": "Y Xu, H Chen, S Rakshit, A Ananthasubramaniam, O Yadav, M Zheng, ...",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "A test of time: Predicting the sustainable success of online collaboration in wikipedia",
+   "authors": "A Israeli, D Jurgens, D Romero",
+   "venue": "arXiv preprint arXiv:2410.19150",
+   "year": "2024"
+  },
+  {
+   "title": "Global News Synchrony and Diversity During the Start of the COVID-19 Pandemic",
+   "authors": "X Chen, SA Hale, D Jurgens, M Samory, E Zuckerman, PA Grabowicz",
+   "venue": "Proceedings for the 2024 ACM Web Conference",
+   "year": "2024"
+  },
+  {
+   "title": "“Measuring the predictability of life outcomes with a scientific mass collaboration\": Correction.",
+   "authors": "MJ Salganik, I Lundberg, AT Kindel, CE Ahearn, K Al-Ghoneim, ...",
+   "venue": "National Academy of Sciences",
+   "year": "2021"
+  },
+  {
+   "title": "Mapping word frequencies on Twitter using R and Python",
+   "authors": "J Grieve, D Jurgens",
+   "venue": "Workshop presented at NWAV 48, University of Oregon, 2019-10 10",
+   "year": "2019"
+  },
+  {
+   "title": "System and methods for automated community discovery in networks with multiple relational types",
+   "authors": "DA Jurgens, TC Lu",
+   "venue": "US Patent 9,749,406",
+   "year": "2017"
+  },
+  {
+   "title": "Potato 2.0: A Comprehensive Annotation Platform with AI-in-the-Loop Support",
+   "authors": "D Jurgens, M Chen, L Iyer",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Big Reasoning with Small Models: Instruction Retrieval at Inference Time",
+   "authors": "K Alkiek, D Jurgens, V Vydiswaran",
+   "venue": "arXiv preprint arXiv:2510.13935",
+   "year": "2025"
+  },
+  {
+   "title": "Coordinating chaos: A structured review of linguistic coordination methodologies",
+   "authors": "BR Litterer, D Jurgens, D Card",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Modeling Public Perceptions of Science in Media",
+   "authors": "J Pei, D Wright, I Augenstein, D Jurgens",
+   "venue": "arXiv preprint arXiv:2506.16622",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on Customizable NLP: Progress and Challenges in Customizing NLP for a Domain, Application, Group, or Individual (CustomNLP4U)",
+   "authors": "S Kumar, V Balachandran, CY Park, W Shi, SA Hayati, Y Tsvetkov, ...",
+   "venue": "Proceedings of the 1st Workshop on Customizable NLP: Progress and Challenges …",
+   "year": "2024"
+  },
+  {
+   "title": "Characteristics of and variation in suicide mortality related to retirement during the Great Recession: Perspectives from the National Violent Death Reporting System",
+   "authors": "A Ananthasubramaniam, D Jurgens, E Kahsay, B Mezuk",
+   "venue": "The Gerontologist 64 (6), gnae015",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the fifth workshop on natural language processing and computational social science (NLP+ CSS)",
+   "authors": "D Bamman, D Hovy, D Jurgens, KA Keith, B O’Connor, S Volkova",
+   "venue": "Proceedings of the Fifth Workshop on Natural Language Processing and …",
+   "year": "2022"
+  },
+  {
+   "title": "Surveillance of suicide in later life: applying machine learning tools to enhance data quality",
+   "authors": "B Mezuk, T Ko, V Kalesnikava, D Jurgens",
+   "venue": "Innovation in Aging 2 (suppl_1), 757-757",
+   "year": "2018"
+  },
+  {
+   "title": "System for discovering important elements that drive an online discussion of a topic using network analysis",
+   "authors": "DA Jurgens, TC Lu, V Strnadova",
+   "venue": "US Patent 9,646,057",
+   "year": "2017"
+  },
+  {
+   "title": "Road Extraction From Aerial Video Using Active Contours and Motion Cues",
+   "authors": "DA Jurgens",
+   "venue": "",
+   "year": "2004"
+  },
+  {
+   "title": "HARISSA: Inference-Time Self-Checks for Efficient and Safe Local Language Model Deployment",
+   "authors": "K Alkiek, M Lee, D Jurgens, VG Vydiswaran",
+   "venue": "arXiv preprint arXiv:2609.38006",
+   "year": "2026"
+  },
+  {
+   "title": "Lost in Translation: Measuring the Effect of Non-Native English on End User Performance of Large Language Models",
+   "authors": "Y Zhou, E Lin, D Jurgens",
+   "venue": "arXiv preprint arXiv:2609.36214",
+   "year": "2026"
+  },
+  {
+   "title": "A test of time: Modeling the long-term success of crowd collaborations",
+   "authors": "A Israeli, D Jurgens, DM Romero",
+   "venue": "PNAS nexus 5 (8), pgag251",
+   "year": "2026"
+  },
+  {
+   "title": "The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing",
+   "authors": "D Jurgens",
+   "venue": "arXiv preprint arXiv:2607.02416",
+   "year": "2026"
+  },
+  {
+   "title": "Findings of the Association for Computational Linguistics: ACL 2026",
+   "authors": "M Liakata, VP Moreira, J Zhang, D Jurgens",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Interpreting Style Representations via Style-Eliciting Prompts",
+   "authors": "J Kim, D Jurgens",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 41030-41048",
+   "year": "2026"
+  },
+  {
+   "title": "Reducing the rate of personal insults in social media with bystander bots",
+   "authors": "L Hemphill, L Li, R Burton, D Jurgens",
+   "venue": "arXiv preprint arXiv:2606.21043",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the Second Workshop of Identity Aware AI",
+   "authors": "A Pranav, V Basile, N Falk, D Jurgens, G Lapesa, A Lauscher, SM Lo",
+   "venue": "Proceedings of the Second Workshop of Identity Aware AI",
+   "year": "2026"
+  },
+  {
+   "title": "Digital Diasporas: How Origin Characteristics and Host-Native Distance Shape Immigrants' Online Cultural Retention",
+   "authors": "A Khatua, D Jurgens, I Weber",
+   "venue": "The 20th International AAAI Conference on Web and Social Media",
+   "year": "2026"
+  },
+  {
+   "title": "Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows",
+   "authors": "S Kumar, A Bharathwaj, D Jurgens",
+   "venue": "arXiv preprint arXiv:2604.20658",
+   "year": "2026"
+  },
+  {
+   "title": "Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch",
+   "authors": "EM Lin, D Jurgens",
+   "venue": "arXiv preprint arXiv:2604.15490",
+   "year": "2026"
+  },
+  {
+   "title": "The Structure of Major Life Transitions Among Older Suicide Decedents: An Application of Large Language Models",
+   "authors": "B Mezuk, V Kalesnikava, D Jurgens, L Johns, K Zivin",
+   "venue": "Innovation in Aging 9 (Supplement_2), igaf122. 1215",
+   "year": "2025"
+  },
+  {
+   "title": "Beyond the Explicit: A Bilingual Dataset for Dehumanization Detection in Social Media",
+   "authors": "D Assenmacher, P Piot, K Laken, D Jurgens, C Wagner",
+   "venue": "arXiv preprint arXiv:2510.18582",
+   "year": "2025"
+  },
+  {
+   "title": "Separating Signal From Noise in Annotator Disagreement",
+   "authors": "JW Ivey, S Gauch, D Jurgens",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Disparate Attrition of Global South Authors Following Manuscript Rejection",
+   "authors": "H Chen, CI Rider, D Jurgens, M Teplitskiy",
+   "venue": "Available at SSRN 4872023",
+   "year": "2024"
+  },
+  {
+   "title": "Profile update: the effects of identity disclosure on network connections and",
+   "authors": "M Choi, DM Romero, D Jurgens",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "RETIREMENT TRANSITIONS AND COMPLETED SUICIDE DURING RECOVERY FROM THE GREAT RECESSION: EVIDENCE FROM THE NVDRS",
+   "authors": "B Mezuk, A Ananthasubramaniam, L Dang, D Jurgens",
+   "venue": "Innovation in Aging 6, 372-373",
+   "year": "2022"
+  },
+  {
+   "title": "An attention-based model for predicting contextual informativeness and curriculum learning applications",
+   "authors": "S Nam, D Jurgens, G Frishkoff, K Collins-Thompson",
+   "venue": "arXiv preprint arXiv:2204.09885",
+   "year": "2022"
+  },
+  {
+   "title": "Empathy Alignment in Online Communities",
+   "authors": "J Yang, D Jurgens",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "I should not have said that: Measuring contextually inappropriate language in different social settings",
+   "authors": "J Sargent, A Aghighi, M Geraci, D Jurgens",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Learning PyTorch Through A Neural Dependency Parsing Exercise",
+   "authors": "D Jurgens",
+   "venue": "Proceedings of the Fifth Workshop on Teaching NLP, 62-64",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the Fifth Workshop on Teaching NLP",
+   "authors": "D Jurgens, V Kolhatkar, L Lucy, M Mieskes, T Pedersen",
+   "venue": "Proceedings of the Fifth Workshop on Teaching NLP",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the Fourth Workshop on Natural Language Processing and Computational Social Science",
+   "authors": "D Bamman, D Hovy, D Jurgens, B O’Connor, S Volkova",
+   "venue": "Proceedings of the Fourth Workshop on Natural Language Processing and …",
+   "year": "2020"
+  },
+  {
+   "title": "Perceptions of Social Roles",
+   "authors": "MX Dong, D Jurgens, C Banea, R Mihalcea",
+   "venue": "Social Informatics: 11th International Conference, SocInfo 2019, Doha, Qatar …",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of the Third Workshop on Natural Language Processing and Computational Social Science",
+   "authors": "S Volkova, D Jurgens, D Hovy, D Bamman, O Tsur",
+   "venue": "Proceedings of the Third Workshop on Natural Language Processing and …",
+   "year": "2019"
+  },
+  {
+   "title": "CRII: RI: Explainable Recognition of Social Relationships from People's Linguistic Interactions",
+   "authors": "D Jurgens",
+   "venue": "NSF Award Number 1850221. Directorate for Computer and Information Science …",
+   "year": "2019"
+  },
+  {
+   "title": "11th International Workshop on Semantic Evaluation (SemEval-2017): Proceedings of the Workshop",
+   "authors": "S Bethard, M Carpuat, M Apidianaki, SM Mohammad, D Cer, D Jurgens",
+   "venue": "International Workshop on Semantic Evaluations",
+   "year": "2017"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on NLP and Computational Social Science",
+   "authors": "D Hovy, S Volkova, D Bamman, D Jurgens, B O’Connor, O Tsur, ...",
+   "venue": "Proceedings of the Second Workshop on NLP and Computational Social Science",
+   "year": "2017"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on Natural Language Processing and Computational Social Science",
+   "authors": "D Hovy, S Volkova, D Bamman, D Jurgens, B O'connor, O Tsur, ...",
+   "venue": "The 55th Annual Meeting of the Association for Computational Linguistics",
+   "year": "2017"
+  },
+  {
+   "title": "Proceedings of the First Workshop on NLP and Computational Social Science",
+   "authors": "D Bamman, AS Doğruöz, J Eisenstein, D Hovy, D Jurgens, B O’Connor, ...",
+   "venue": "Proceedings of the First Workshop on NLP and Computational Social Science",
+   "year": "2016"
+  },
+  {
+   "title": "Making the Most of It: Word Sense Annotation and Disambiguation in the Face of Data Sparsity and Ambiguity",
+   "authors": "DA Jurgens",
+   "venue": "University of California, Los Angeles",
+   "year": "2014"
+  },
+  {
+   "title": "Capturing nonlinear structure in word spaces through dimensionality reduction",
+   "authors": "D Jurgens, K Stevens",
+   "venue": "Proceedings of the 2010 Workshop on GEometrical Models of Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Road extraction from motion cues in aerial video",
+   "authors": "D Jurgens",
+   "venue": "Proceedings of the 12th annual ACM international workshop on Geographic …",
+   "year": "2004"
+  },
+  {
+   "title": "William hamilton",
+   "authors": "",
+   "venue": "US Patent 619,567",
+   "year": "1899"
+  },
+  {
+   "title": "Modeling LLM Persuasion via Interactive 2T1L Game",
+   "authors": "S Kumar, D Jurgens",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Let's Think 一步一步: A Cognitive Framework for Characterizing Code-Switching in LLM Reasoning",
+   "authors": "E Lin, D Jurgens",
+   "venue": "First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models",
+   "year": null
+  },
+  {
+   "title": "Supplemental Material for “It’s going to be okay: Measuring Access to Support in Online Communities”",
+   "authors": "Z Wang, D Jurgens",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Global News Synchrony During the Start of the COVID-19 Pandemic",
+   "authors": "X Chen, SA Hale, D Jurgens, M Samory, E Zuckerman, PA Grabowicz",
+   "venue": "The Web Conference 2024",
+   "year": null
+  },
+  {
+   "title": "An Analysis of Exercising Behavior in Online Populations David Jurgens, James McCorriston, Derek Ruths",
+   "authors": "D Jurgens",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Embracing Ambiguity",
+   "authors": "D Jurgens",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

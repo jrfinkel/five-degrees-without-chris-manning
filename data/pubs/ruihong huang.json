@@ -1,0 +1,707 @@
+{
+ "user": "NU2aHWUAAAAJ",
+ "pubs": [
+  {
+   "title": "Sarcasm as contrast between a positive sentiment and negative situation",
+   "authors": "E Riloff, A Qadir, P Surve, L De Silva, N Gilbert, R Huang",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Detecting online hate speech using context aware models",
+   "authors": "L Gao, R Huang",
+   "venue": "arXiv preprint arXiv:1710.07395",
+   "year": "2017"
+  },
+  {
+   "title": "In plain sight: Media bias through the lens of factual reporting",
+   "authors": "L Fan, M White, E Sharma, R Su, PK Choubey, R Huang, L Wang",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Modeling document-level causal structures for event causal relation identification",
+   "authors": "L Gao, PK Choubey, R Huang",
+   "venue": "Proceedings of the 2019 conference of the north American chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Casesummarizer: a system for automated summarization of legal texts",
+   "authors": "S Polsley, P Jhunjhunwala, R Huang",
+   "venue": "Proceedings of COLING 2016, the 26th international conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "LLMs assist NLP researchers: Critique paper (meta-) reviewing",
+   "authors": "J Du, Y Wang, W Zhao, Z Deng, S Liu, R Lou, HP Zou, PN Venkit, ...",
+   "venue": "Proceedings of the 2024 conference on empirical methods in natural language …",
+   "year": "2024"
+  },
+  {
+   "title": "Recognizing Explicit and Implicit Hate Speech Using a Weakly Supervised Two-path Bootstrapping Approach",
+   "authors": "L Gao, A Kuppersmith, R Huang",
+   "venue": "IJCNLP",
+   "year": "2017"
+  },
+  {
+   "title": "Modeling textual cohesion for event extraction",
+   "authors": "R Huang, E Riloff",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 26 (1), 1664-1670",
+   "year": "2012"
+  },
+  {
+   "title": "Hytrel: Hypergraph-enhanced tabular data representation learning",
+   "authors": "P Chen, S Sarkar, L Lausen, B Srinivasan, S Zha, R Huang, G Karypis",
+   "venue": "Advances in Neural Information Processing Systems 36, 32173-32193",
+   "year": "2023"
+  },
+  {
+   "title": "Discourse as a function of event: Profiling discourse structure in news articles around the main event",
+   "authors": "PK Choubey, A Lee, R Huang, L Wang",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Improving implicit discourse relation classification by modeling inter-dependencies of discourse units in a paragraph",
+   "authors": "Z Dai, R Huang",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP …",
+   "authors": "S Padó, R Huang",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Bootstrapped training of event extraction classifiers",
+   "authors": "R Huang, E Riloff",
+   "venue": "Proceedings of the 13th Conference of the European Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "A sequential model for classifying temporal relations between intra-sentence events",
+   "authors": "PK Choubey, R Huang",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Event coreference resolution by iteratively unfolding inter-dependencies among events",
+   "authors": "PK Choubey, R Huang",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Semiautomated social media analytics for sensing societal impacts due to community disruptions during disasters",
+   "authors": "C Zhang, W Yao, Y Yang, R Huang, A Mostafavi",
+   "venue": "Computer‐Aided Civil and Infrastructure Engineering 35 (12), 1331-1348",
+   "year": "2020"
+  },
+  {
+   "title": "Inducing domain-specific semantic class taggers from (almost) nothing",
+   "authors": "R Huang, E Riloff",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Peeling back the layers: detecting event role fillers in secondary contexts",
+   "authors": "R Huang, E Riloff",
+   "venue": "Proceedings of the 49th annual meeting of the association for computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Exploring the emergence of influential users on social media during natural disasters",
+   "authors": "Y Yang, C Zhang, C Fan, W Yao, R Huang, A Mostafavi",
+   "venue": "International Journal of Disaster Risk Reduction 38, 101204",
+   "year": "2019"
+  },
+  {
+   "title": "Sentence-level media bias analysis informed by discourse structures",
+   "authors": "Y Lei, R Huang, L Wang, N Beauchamp",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Fine-grained structure-based news genre categorization",
+   "authors": "Z Dai, H Taneja, R Huang",
+   "venue": "Proceedings of the Workshop Events and Stories in the News 2018, 61-67",
+   "year": "2018"
+  },
+  {
+   "title": "A regularization approach for incorporating event knowledge and coreference relations into neural discourse parsing",
+   "authors": "Z Dai, R Huang",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Crossroads, buildings and neighborhoods: A dataset for fine-grained location recognition",
+   "authors": "P Chen, H Xu, C Zhang, R Huang",
+   "venue": "Proceedings of the 2022 conference of the North American chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Identifying the most dominant event in a news article by mining event coreference relations",
+   "authors": "PK Choubey, K Raju, R Huang",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Improving event coreference resolution by modeling correlations between event coreference chains and document topic structures",
+   "authors": "PK Choubey, R Huang",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "中文实体关系抽取中的特征选择研究",
+   "authors": "董静， 孙乐， 冯元勇， 黄瑞红",
+   "venue": "中文信息学报 21 (4), 80-91",
+   "year": "2007"
+  },
+  {
+   "title": "Temporal event knowledge acquisition via identifying narratives",
+   "authors": "W Yao, R Huang",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Composition-contrastive learning for sentence embeddings",
+   "authors": "S Chanchani, R Huang",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Evaluating gender bias of LLMs in making morality judgements",
+   "authors": "D Bajaj, Y Lei, J Tong, R Huang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 15804 …",
+   "year": "2024"
+  },
+  {
+   "title": "Chinese automatic entity relation extraction",
+   "authors": "J Dong, L Sun, YY Feng, RH Huang",
+   "venue": "Journal of Chinese Information Processing 21 (4), 80-85",
+   "year": "2007"
+  },
+  {
+   "title": "PARADE: A new dataset for paraphrase identification requiring computer science domain knowledge",
+   "authors": "Y He, Z Wang, Y Zhang, R Huang, J Caverlee",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Distinguishing past, on-going, and future events: The eventstatus corpus",
+   "authors": "R Huang, I Cases, D Jurafsky, C Condoravdi, E Riloff",
+   "venue": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "Pyinfer: Deep learning semantic type inference for python variables",
+   "authors": "S Cui, G Zhao, Z Dai, L Wang, R Huang, J Huang",
+   "venue": "arXiv preprint arXiv:2106.14316",
+   "year": "2021"
+  },
+  {
+   "title": "A joint model for structure-based news genre classification with application to text summarization",
+   "authors": "Z Dai, R Huang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Multi-faceted event recognition with bootstrapped dictionaries",
+   "authors": "R Huang, E Riloff",
+   "venue": "Proceedings of the 2013 conference of the North American chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Explicitly capturing relations between entity mentions via graph neural networks for domain-specific named entity recognition",
+   "authors": "P Chen, H Ding, J Araki, R Huang",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Weakly-supervised fine-grained event recognition on social media texts for disaster management",
+   "authors": "W Yao, C Zhang, S Saravanan, R Huang, A Mostafavi",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (01), 532-539",
+   "year": "2020"
+  },
+  {
+   "title": "Weakly supervised subevent knowledge acquisition",
+   "authors": "W Yao, Z Dai, M Ramaswamy, B Min, R Huang",
+   "venue": "Proceedings of the 2020 conference on empirical methods in natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Study of kernel-based methods for chinese relation extraction",
+   "authors": "R Huang, L Sun, Y Feng",
+   "venue": "Asia Information Retrieval Symposium, 598-604",
+   "year": "2008"
+  },
+  {
+   "title": "基于核方法的中文实体关系抽取研究",
+   "authors": "黄瑞红， 孙乐， 冯元勇， 黄云平",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Do LLMs understand dialogues? a case study on dialogue acts",
+   "authors": "A Qamar, J Tong, R Huang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Are llms good annotators for discourse-level event relation extraction?",
+   "authors": "K Wei, A Gautam, R Huang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 1-19",
+   "year": "2024"
+  },
+  {
+   "title": "Improving dialogue state tracking by discerning the relevant context",
+   "authors": "S Sharma, PK Choubey, R Huang",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Online deception detection refueled by real world data collection",
+   "authors": "W Yao, Z Dai, R Huang, J Caverlee",
+   "venue": "arXiv preprint arXiv:1707.09406",
+   "year": "2017"
+  },
+  {
+   "title": "Polarity calibration for opinion summarization",
+   "authors": "Y Lei, K Song, S Cho, X Wang, R Huang, D Yu",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Profiling news discourse structure using explicit subtopic structures guided critics",
+   "authors": "PK Choubey, R Huang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 1594-1605",
+   "year": "2021"
+  },
+  {
+   "title": "Boosting logical fallacy reasoning in LLMs via logical structure tree",
+   "authors": "Y Lei, R Huang",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Predicting sentence deletions for text simplification using a functional discourse structure",
+   "authors": "B Zhang, PK Choubey, R Huang",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Extracting subevents via an effective two-phase approach",
+   "authors": "A Badgett, R Huang",
+   "venue": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "Complex adaptive systems science in the era of global sustainability crisis",
+   "authors": "L An, BL Turner II, J Liu, V Grimm, Q Zhang, Z Wang, R Huang",
+   "venue": "Geography and Sustainability 6 (1), 100250",
+   "year": "2025"
+  },
+  {
+   "title": "Identifying conspiracy theories news based on event relation graph",
+   "authors": "Y Lei, R Huang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 9811-9822",
+   "year": "2023"
+  },
+  {
+   "title": "Reconstructing event regions for event extraction via graph attention networks",
+   "authors": "P Chen, H Yang, K Liu, R Huang, Y Chen, T Wang, J Zhao",
+   "venue": "Proceedings of the 1st conference of the Asia-Pacific chapter of the …",
+   "year": "2020"
+  },
+  {
+   "title": "Hidden in plain sight: Evaluation of the deception detection capabilities of llms in multimodal settings",
+   "authors": "MMM Miah, A Anika, X Shi, R Huang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Hierarchical fusion for online multimodal dialog act classification",
+   "authors": "MMM Miah, A Pyarelal, R Huang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 7532-7545",
+   "year": "2023"
+  },
+  {
+   "title": "Few-shot (dis) agreement identification in online discussions with regularized and augmented meta-learning",
+   "authors": "Y Lei, R Huang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 5581-5593",
+   "year": "2022"
+  },
+  {
+   "title": "Discourse structures guided fine-grained propaganda identification",
+   "authors": "Y Lei, R Huang",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "EMONA: Event-level moral opinions in news articles",
+   "authors": "Y Lei, MMM Miah, A Qamar, SR Reddy, J Tong, H Xu, R Huang",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Sentence-level media bias analysis with event relation graph",
+   "authors": "Y Lei, R Huang",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "A graph-based approach for detecting critical infrastructure disruptions on social media in disasters",
+   "authors": "C Fan, W Yao, A Mostafavi, R Huang",
+   "venue": "the 52nd Hawaii International Conference on System Sciences",
+   "year": "2019"
+  },
+  {
+   "title": "Who is speaking? speaker-aware multiparty dialogue act classification",
+   "authors": "A Qamar, A Pyarelal, R Huang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 10122 …",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic data acquisition for event coreference resolution",
+   "authors": "PK Choubey, R Huang",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Building context-aware clause representations for situation entity type classification",
+   "authors": "Z Dai, R Huang",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Modeling document-level temporal structures for building temporal dependency graphs",
+   "authors": "PK Choubey, R Huang",
+   "venue": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Recognizing creative visual design: multiscale design characteristics in free-form web curation documents",
+   "authors": "A Jain, A Kerne, N Lupfer, G Britain, A Perrine, Y Choe, J Keyser, ...",
+   "venue": "Proceedings of the 21st ACM Symposium on Document Engineering, 1-10",
+   "year": "2021"
+  },
+  {
+   "title": "Domain-sensitive temporal tagging",
+   "authors": "R Huang",
+   "venue": "Computational Linguistics 44 (2), 375-377",
+   "year": "2018"
+  },
+  {
+   "title": "Towards accurate event detection in social media: A weakly supervised approach for learning implicit event indicators",
+   "authors": "A Jain, G Kasiviswanathan, R Huang",
+   "venue": "Proceedings of the 2nd Workshop on Noisy User-generated Text (WNUT), 70-77",
+   "year": "2016"
+  },
+  {
+   "title": "Classifying message board posts with an extracted lexicon of patient attributes",
+   "authors": "R Huang, E Riloff",
+   "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Multi-document summarization through multi-document event relation graph reasoning in LLMs: a case study in framing bias mitigation",
+   "authors": "Y Lei, R Huang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "All things considered: Detecting partisan events from news media with cross-article comparison",
+   "authors": "Y Liu, XF Zhang, K Zou, R Huang, N Beauchamp, L Wang",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Two step Chinese named entity recognition based on conditional random fields models",
+   "authors": "Y Feng, R Huang, L Sun",
+   "venue": "Proceedings of the Sixth SIGHAN Workshop on Chinese Language Processing",
+   "year": "2008"
+  },
+  {
+   "title": "ISCAS in Opinion Analysis Pilot Task: Experiments with sentimental dictionary based classifier and CRF model.",
+   "authors": "R Huang, Le Sun 0001, L Pan",
+   "venue": "NTCIR",
+   "year": "2007"
+  },
+  {
+   "title": "Mitigating gender bias via fostering exploratory thinking in llms",
+   "authors": "K Wei, HM Abdullah, R Huang",
+   "venue": "arXiv preprint arXiv:2505.17217",
+   "year": "2025"
+  },
+  {
+   "title": "Ual-bench: The first comprehensive unusual activity localization benchmark",
+   "authors": "HM Abdullah, T Liu, K Wei, S Kong, R Huang",
+   "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …",
+   "year": "2025"
+  },
+  {
+   "title": "TAMU at KBP 2017: Event nugget detection and coreference resolution",
+   "authors": "PK Choubey, R Huang",
+   "venue": "arXiv preprint arXiv:1711.02162",
+   "year": "2017"
+  },
+  {
+   "title": "Learning event expressions via bilingual structure projection",
+   "authors": "F Li, R Huang, D Xiong, M Zhang",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "词汇搭配和用户模型在拼音输入法中的应用",
+   "authors": "张玮， 孙乐， 冯元勇， 李文波， 黄瑞红",
+   "venue": "中文信息学报 21 (004), 105-110",
+   "year": "2007"
+  },
+  {
+   "title": "OD-stega: LLM-based relatively secure steganography via optimized distributions",
+   "authors": "YS Huang, P Just, H Yin, K Narayanan, R Huang, C Tian",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Premind: Multi-agent video understanding for advanced indexing of presentation-style videos",
+   "authors": "K Wei, Z Zhou, B Wang, J Araki, L Lange, R Huang, Z Feng",
+   "venue": "arXiv preprint arXiv:2503.00162",
+   "year": "2025"
+  },
+  {
+   "title": "A weakly supervised approach to train temporal relation classifiers and acquire regular event pairs simultaneously",
+   "authors": "W Yao, S Nettyam, R Huang",
+   "venue": "arXiv preprint arXiv:1707.09410",
+   "year": "2017"
+  },
+  {
+   "title": "ISCAS in CLIR at NTCIR-6: experiments with MT and PRF",
+   "authors": "R Zhang",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Legalcore: A dataset for event coreference resolution in legal documents",
+   "authors": "K Wei, X Shi, J Tong, SR Reddy, A Natarajan, R Jain, A Garimella, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 25044-25059",
+   "year": "2025"
+  },
+  {
+   "title": "Indexing analytics to instances: How integrating a dashboard can support design education",
+   "authors": "A Jain, A Kerne, N Lupfer, G Britain, A Perrine, Y Choe, J Keyser, ...",
+   "venue": "arXiv preprint arXiv:2404.05417",
+   "year": "2024"
+  },
+  {
+   "title": "Semi-supervised news discourse profiling with contrastive learning",
+   "authors": "M Li, R Huang",
+   "venue": "Proceedings of the 13th International Joint Conference on Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Less is more: Simplifying feature extractors prevents overfitting for neural discourse parsing models",
+   "authors": "M Li, S Yu, R Huang",
+   "venue": "arXiv preprint arXiv:2210.09537",
+   "year": "2022"
+  },
+  {
+   "title": "Adore: Aspect dependent online review labeling for review generation",
+   "authors": "P Kaghazgaran, J Wang, R Huang, J Caverlee",
+   "venue": "Proceedings of the 43rd International ACM SIGIR Conference on Research and …",
+   "year": "2020"
+  },
+  {
+   "title": "MedError: A Machine-Assisted Framework for Systematic Error Analysis in Clinical Concept Extraction",
+   "authors": "H Liu, S Fu, Q Lu, J Ahn, F Chen, H Yin, J Wen, Z Yue, T Harrison, J Jun, ...",
+   "venue": "Research Square, rs. 3. rs-7151650",
+   "year": "2025"
+  },
+  {
+   "title": "CliME: Evaluating Multimodal Climate Discourse on Social Media and the Climate Alignment Quotient (CAQ)",
+   "authors": "A Borah, HM Abdullah, K Wei, R Huang",
+   "venue": "Proceedings of the Fourth Workshop on NLP for Positive Impact (NLP4PI), 43-61",
+   "year": "2025"
+  },
+  {
+   "title": "Rst-style discourse parsing guided by document-level content structures",
+   "authors": "M Li, R Huang",
+   "venue": "arXiv preprint arXiv:2309.04141",
+   "year": "2023"
+  },
+  {
+   "title": "Using context events in neural network models for event temporal status identification",
+   "authors": "Z Dai, W Yao, R Huang",
+   "venue": "Proceedings of the Eighth International Joint Conference on Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Mmr-grpo: Accelerating grpo-style training through diversity-aware reward reweighting",
+   "authors": "K Wei, R Huang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 9584-9605",
+   "year": "2026"
+  },
+  {
+   "title": "Sycophantic Praise: Evaluating Excessive Praise in Language Models",
+   "authors": "D Vennemeyer, PA Duong, M Ye, R Huang, T Jiang",
+   "venue": "arXiv preprint arXiv:2606.07441",
+   "year": "2026"
+  },
+  {
+   "title": "Thermal analysis of 3D GPU-memory architectures with boron nitride interposer",
+   "authors": "EH Wang, W Yan, R Huang",
+   "venue": "MRS Communications 16 (2), 537-542",
+   "year": "2026"
+  },
+  {
+   "title": "MultiCAT: Multimodal communication annotations for teams",
+   "authors": "A Pyarelal, JM Culnan, A Qamar, M Krishnaswamy, Y Wang, C Jeong, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 1077-1111",
+   "year": "2025"
+  },
+  {
+   "title": "Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+   "authors": "L Tang, K Wei, T Jiang, R Huang",
+   "venue": "arXiv preprint arXiv:2609.09090",
+   "year": "2026"
+  },
+  {
+   "title": "CHOIR: Harmonizing Structured Persona Diversity for Robust Collaborative LLM Reasoning",
+   "authors": "X Dong, C Wang, M Teleki, M Bismay, R Huang, J Caverlee",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Beyond Labels: Explanatory Collapse due to Instruction Tuning in Protein LLMs",
+   "authors": "Y Yang, R Huang, Y Shen",
+   "venue": "NeurIPS 2025 2nd Workshop on Multi-modal Foundation Models and Large …",
+   "year": "2025"
+  },
+  {
+   "title": "Less is more: A lightweight and robust neural architecture for discourse parsing",
+   "authors": "M Li, R Huang",
+   "venue": "arXiv preprint arXiv:2210.09537",
+   "year": "2022"
+  },
+  {
+   "title": "One classifier for all ambiguous words: Overcoming data sparsity by utilizing sense correlations across words",
+   "authors": "PK Choubey, R Huang",
+   "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference …",
+   "year": "2020"
+  },
+  {
+   "title": "Improving information extraction by discourse-guided and multifaceted event recognition",
+   "authors": "R Huang",
+   "venue": "The University of Utah",
+   "year": "2014"
+  },
+  {
+   "title": "亚洲语言信息检索评测会议 NTCIR 介绍",
+   "authors": "张俊林， 黄瑞红， 孙乐",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "A machine-assisted framework for systematic error analysis in clinical concept extraction",
+   "authors": "S Fu, Q Lu, J Ahn, F Chen, H Yin, J Wen, Z Yue, T Harrison, J Jun, X Ruan, ...",
+   "venue": "Nature Communications",
+   "year": "2026"
+  },
+  {
+   "title": "TRACE: Trajectory Aware Reasoning for Multi-Turn Adversarial Conversation Evaluation",
+   "authors": "MMM Miah, A Anika, Z Yu, R Huang",
+   "venue": "arXiv preprint arXiv:2608.15594",
+   "year": "2026"
+  },
+  {
+   "title": "TRACE: Trajectory Aware Reasoning for Multi-Turn Adversarial Conversation Evaluation",
+   "authors": "M Messal Monem Miah, A Anika, Z Yu, R Huang",
+   "venue": "arXiv e-prints, arXiv: 2608.15594",
+   "year": "2026"
+  },
+  {
+   "title": "Towards Optimal Prompt Design for Clinical Information Extraction using Large Language Models",
+   "authors": "X Su, H Yin, Y Yang, R Wang, Q Lu, S Fu, H Liu, R Huang",
+   "venue": "Proceedings of the 17th ACM International Conference on Bioinformatics …",
+   "year": "2026"
+  },
+  {
+   "title": "TAMU-NLP at ArchEHR-QA 2026: Grounded Clinical QA with Evidence Identification and Intent-Aware Answer Generation",
+   "authors": "X Su, R Wang, S Fu, H Liu, R Huang",
+   "venue": "Proceedings of the Third Workshop on Patient-Oriented Language Processing …",
+   "year": "2026"
+  },
+  {
+   "title": "Domain-specific named entity recognition via graph neural networks",
+   "authors": "P Chen, H Ding, J Araki, R Huang",
+   "venue": "US Patent 12,530,529",
+   "year": "2026"
+  },
+  {
+   "title": "Adaptive Al Sentinels Against Phishing Attacks: Democratizing Cybersecurity Through Interactive Learning",
+   "authors": "R Pagaria, J Xiong, R Huang, S Kumar",
+   "venue": "Proceedings of the 5th International Conference on AI Research",
+   "year": "2026"
+  },
+  {
+   "title": "ENG-DRB: PDTB-style Discourse Relation Bank on Engineering Tutorial Video Scripts",
+   "authors": "C Zhang, R Kakarla, K Wei, R Huang",
+   "venue": "Proceedings of the 14th International Joint Conference on Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Hidden in Plain Sight: Evaluation of the Deception Detection Capabilities of LLMs in Multimodal Settings",
+   "authors": "M Messal Monem Miah, A Anika, X Shi, R Huang",
+   "venue": "arXiv e-prints, arXiv: 2506.09424",
+   "year": "2025"
+  },
+  {
+   "title": "Agent-Based Complex Systems Science in the Era of Global Sustainability Crisis",
+   "authors": "L An, BL Turner_II, J Liu, V Grimm, Q Zhang, Z Wang, R Huang",
+   "venue": "www. preprints. org",
+   "year": "2023"
+  },
+  {
+   "title": "Synthesis Lectures on Human Language Technologies",
+   "authors": "R Huang",
+   "venue": "COMPUTATIONAL LINGUISTICS 44 (2), 375-377",
+   "year": "2018"
+  },
+  {
+   "title": "CaseSummarizer: A System for Automated Summarization of Legal Texts",
+   "authors": "P Jhunjhunwala, S Polsley, R Huang",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Predicting LLM Training and Inference Runtime: A Survey of Methods, Datasets, and Open Challenges",
+   "authors": "K Wei, Z Bi, A Molakalapalli, H Duan, X Zou, V Du, A Carter, R Huang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "In Plain Sight: Media Bias Through the Lens of Factual Reporting (Supplementary Material)",
+   "authors": "L Fan, M White, E Sharma, R Su, PK Choubey, R Huang, L Wang, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "MIRACLE: Multimodal Image-text Retrieval and Analysis for Contextual Long-form Evaluation",
+   "authors": "MMM Miah, A Chatterjee, A Mitra, R Huang, M Luo",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "EMONA: Moral Opinions towards Events in News Articles",
+   "authors": "Y Lei, MMM Miah, A Qamar, SR Reddy, J Tong, H Xu, R Huang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "IMPROVING EVENT EXTRACTION BY DISCOURSE-GUIDED AND MULTI-FACETED EVENT RECOGNITION",
+   "authors": "R Huang",
+   "venue": "The University of Utah",
+   "year": null
+  }
+ ]
+}

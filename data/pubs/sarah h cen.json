@@ -1,0 +1,215 @@
+{
+ "user": "2BTuWpgAAAAJ",
+ "pubs": [
+  {
+   "title": "Mastering the game of Stratego with model-free multiagent reinforcement learning",
+   "authors": "J Perolat, B De Vylder, D Hennes, E Tarassov, F Strub, V de Boer, ...",
+   "venue": "Science 378 (6623), 990-996",
+   "year": "2022"
+  },
+  {
+   "title": "Precise ego-motion estimation with millimeter-wave radar under diverse and challenging conditions",
+   "authors": "SH Cen, P Newman",
+   "venue": "2018 IEEE International Conference on Robotics and Automation (ICRA), 6045-6052",
+   "year": "2018"
+  },
+  {
+   "title": "Radar-only ego-motion estimation in difficult settings via graph matching",
+   "authors": "SH Cen, P Newman",
+   "venue": "2019 international conference on robotics and automation (ICRA), 298-304",
+   "year": "2019"
+  },
+  {
+   "title": "Probably unknown: Deep inverse sensor modelling radar",
+   "authors": "R Weston, S Cen, P Newman, I Posner",
+   "venue": "2019 international conference on robotics and automation (ICRA), 5446-5452",
+   "year": "2019"
+  },
+  {
+   "title": "Regret, stability, and fairness in matching markets with bandit learners",
+   "authors": "SH Cen, D Shah",
+   "venue": "25th International Conference on Artificial Intelligence and Statistics …",
+   "year": "2022"
+  },
+  {
+   "title": "From Transparency to Accountability and Back: A Discussion of Access and Evidence in AI Auditing",
+   "authors": "SH Cen, R Alur",
+   "venue": "Proceedings of the 4th ACM Conference on Equity and Access in Algorithms …",
+   "year": "2024"
+  },
+  {
+   "title": "Regulating algorithmic filtering on social media",
+   "authors": "SH Cen, D Shah",
+   "venue": "35th Conference on Neural Information Processing Systems",
+   "year": "2021"
+  },
+  {
+   "title": "Measuring strategization in recommendation: Users adapt their behavior to shape future content",
+   "authors": "SH Cen, A Ilyas, J Allen, H Li, A Madry",
+   "venue": "arXiv preprint arXiv:2405.05596",
+   "year": "2024"
+  },
+  {
+   "title": "AI Supply Chains: An Emerging Ecosystem of AI Actors, Products, and Services",
+   "authors": "A Hopkins, SH Cen, I Struckman, A Ilyas, L Videgaray, A Mądry",
+   "venue": "arXiv",
+   "year": "2025"
+  },
+  {
+   "title": "AI supply chains",
+   "authors": "SH Cen, A Hopkins, A Ilyas, A Madry, I Struckman, L Videgaray Caso",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "User strategization and trustworthy algorithms",
+   "authors": "SH Cen, A Ilyas, A Madry",
+   "venue": "arXiv preprint arXiv:2312.17666",
+   "year": "2023"
+  },
+  {
+   "title": "Network Synthetic Interventions: A Causal Framework for Panel Data Under Network Interference",
+   "authors": "A Agarwal, SH Cen, D Shah, CL Yu",
+   "venue": "arXiv preprint arXiv:2210.11355",
+   "year": "2022"
+  },
+  {
+   "title": "The right to be an exception to a data-driven rule",
+   "authors": "SH Cen, M Raghavan",
+   "venue": "MIT Schwarzman College of Computing",
+   "year": "2023"
+  },
+  {
+   "title": "The California Report on Frontier AI Policy",
+   "authors": "R Bommasani, SR Singer, RE Appel, SH Cen, AF Cooper, LA Gailmard, ...",
+   "venue": "arXiv preprint arXiv:2506.17303",
+   "year": "2025"
+  },
+  {
+   "title": "Matrix estimation for individual fairness",
+   "authors": "C Zhang, SH Cen, D Shah",
+   "venue": "International Conference on Machine Learning, 40871-40887",
+   "year": "2023"
+  },
+  {
+   "title": "Large-Scale, Longitudinal Study of Large Language Models During the 2024 US Election Season",
+   "authors": "SH Cen, A Ilyas, H Driss, C Park, A Hopkins, C Podimata, A Madry",
+   "venue": "arXiv preprint arXiv:2509.18446",
+   "year": "2025"
+  },
+  {
+   "title": "A user-driven framework for regulating and auditing social media",
+   "authors": "SH Cen, A Madry, D Shah",
+   "venue": "arXiv preprint arXiv:2304.10525",
+   "year": "2023"
+  },
+  {
+   "title": "Ego-Motion Estimation and Localization with Millimeter-Wave Scanning Radar",
+   "authors": "SH Cen",
+   "venue": "University of Oxford",
+   "year": "2019"
+  },
+  {
+   "title": "Auditing AI: How Much Access Is Needed to Audit an AI System",
+   "authors": "SH Cen, CL Fabrizio, J Siderius, A Madry, M Minow",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "The Limits of AI Data Transparency Policy: Three Disclosure Fallacies",
+   "authors": "JH Shen, K Liu, A Wang, SH Cen, AK Zhang, C Meinhardt, D Zhang, ...",
+   "venue": "arXiv preprint arXiv:2601.18127",
+   "year": "2026"
+  },
+  {
+   "title": "Audits Under Resource, Data, and Access Constraints: Scaling Laws For Less Discriminatory Alternatives",
+   "authors": "SH Cen, S Goyal, Z Javed, A Karthik, P Liang, DE Ho",
+   "venue": "arXiv preprint arXiv:2509.05627",
+   "year": "2025"
+  },
+  {
+   "title": "On robustness and leadership in markov switching consensus networks",
+   "authors": "SH Cen, V Srivastava, NE Leonard",
+   "venue": "2017 IEEE 56th Annual Conference on Decision and Control (CDC), 1701-1706",
+   "year": "2017"
+  },
+  {
+   "title": "Mapping the AI Supply Chain: An Analysis of the Complex Relationships in the AI Ecosystem",
+   "authors": "SH Cen, L Gailmard, R Bommasani, DE Ho, P Liang",
+   "venue": "Forthcoming",
+   "year": "2025"
+  },
+  {
+   "title": "Taxing Artificial Intelligence",
+   "authors": "J Faivre, SH Cen",
+   "venue": "arXiv preprint arXiv:2607.02144",
+   "year": "2026"
+  },
+  {
+   "title": "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+   "authors": "A Morosini, SH Cen, A Ilyas, H Driss, C Podimata",
+   "venue": "arXiv preprint arXiv:2606.30801",
+   "year": "2026"
+  },
+  {
+   "title": "Do LLMs Track Public Opinion? A Multi-Model Study of Favorability Predictions in the 2024 US Presidential Election",
+   "authors": "R Parikh, SH Cen, C Podimata",
+   "venue": "arXiv preprint arXiv:2602.06302",
+   "year": "2026"
+  },
+  {
+   "title": "Paths to AI Accountability: Design, Measurement, and the Law",
+   "authors": "SH Cen",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2024"
+  },
+  {
+   "title": "Qualifying and Quantifying Risk Under the EU AI Act",
+   "authors": "GG Gasiola, SH Cen, F Zufall",
+   "venue": "arXiv preprint arXiv:2608.08564",
+   "year": "2026"
+  },
+  {
+   "title": "Qualifying and Quantifying Risk Under the EU AI Act",
+   "authors": "G Gil Gasiola, SH Cen, F Zufall",
+   "venue": "arXiv e-prints, arXiv: 2608.08564",
+   "year": "2026"
+  },
+  {
+   "title": "AI Entanglement: Accounting for dependencies in general-purpose AI policy, regulation, and practice",
+   "authors": "R Hong, J Hutson, SH Cen, J Morgenstern, T Kohno",
+   "venue": "Available at SSRN 7151718",
+   "year": "2026"
+  },
+  {
+   "title": "Barriers to Evidence in AI-Related Cases and the Privatization of Proof",
+   "authors": "SH Cen, H Ismael, L Zheng",
+   "venue": "The 2026 ACM Conference on Fairness, Accountability, and Transparency, 7793-7834",
+   "year": "2026"
+  },
+  {
+   "title": "A causal inference framework for network interference with panel data",
+   "authors": "SH Cen, A Agarwal, C Yu, D Shah",
+   "venue": "NeurIPS 2022 Workshop on Causality for Real-world Impact",
+   "year": "2022"
+  },
+  {
+   "title": "Mapping the AI Supply Chain: Tracking Relationships, Partnerships, and Dependencies in the AI Industry",
+   "authors": "SH Cen, LA Gailmard, J Kim, R Bommasani, DE Ho, P Liang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "DOCTOR OF PHILOSOPHY at the MASSACHUSETTS INSTITUTE OF TECHNOLOGY September 2024© 2024 Sarah H. Cen. All rights reserved.",
+   "authors": "SH Cen",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Outliers Exist: What Happens if You are a Data-Driven Exception?",
+   "authors": "S Cen, M Raghavan",
+   "venue": "NeurIPS 2023 Workshop on Regulatable ML",
+   "year": null
+  }
+ ]
+}

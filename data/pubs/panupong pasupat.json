@@ -1,0 +1,299 @@
+{
+ "user": "BqKXIA8AAAAJ",
+ "pubs": [
+  {
+   "title": "Retrieval augmented language model pre-training",
+   "authors": "K Guu, K Lee, Z Tung, P Pasupat, M Chang",
+   "venue": "International conference on machine learning, 3929-3938",
+   "year": "2020"
+  },
+  {
+   "title": "Compositional semantic parsing on semi-structured tables",
+   "authors": "P Pasupat, P Liang",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Rarr: Researching and revising what language models say, using language models",
+   "authors": "L Gao, Z Dai, P Pasupat, A Chen, AT Chaganty, Y Fan, V Zhao, N Lao, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Reinforcement learning on web interfaces using workflow-guided exploration",
+   "authors": "EZ Liu, K Guu, P Pasupat, T Shi, P Liang",
+   "venue": "arXiv preprint arXiv:1802.08802",
+   "year": "2018"
+  },
+  {
+   "title": "Spoc: Search-based pseudocode to code",
+   "authors": "S Kulal, P Pasupat, K Chandra, M Lee, O Padon, A Aiken, PS Liang",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Compositional generalization and natural language variation: Can a semantic parsing approach handle both?",
+   "authors": "P Shaw, MW Chang, P Pasupat, K Toutanova",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "From language to programs: Bridging reinforcement learning and maximum marginal likelihood",
+   "authors": "K Guu, P Pasupat, E Liu, P Liang",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Large language models as analogical reasoners",
+   "authors": "M Yasunaga, X Chen, Y Li, P Pasupat, J Leskovec, P Liang, EH Chi, ...",
+   "venue": "International Conference on Learning Representations 2024, 17019-17045",
+   "year": "2024"
+  },
+  {
+   "title": "Asgard: A portable architecture for multilingual dialogue systems",
+   "authors": "J Liu, P Pasupat, S Cyphers, J Glass",
+   "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2013"
+  },
+  {
+   "title": "In-context learning with retrieved demonstrations for language models: A survey",
+   "authors": "M Luo, X Xu, Y Liu, P Pasupat, M Kazemi",
+   "venue": "arXiv preprint arXiv:2401.11624",
+   "year": "2024"
+  },
+  {
+   "title": "From pixels to ui actions: Learning to follow instructions via graphical user interfaces",
+   "authors": "P Shaw, M Joshi, J Cohan, J Berant, P Pasupat, H Hu, U Khandelwal, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 34354-34370",
+   "year": "2023"
+  },
+  {
+   "title": "Simpler context-dependent logical forms via model projections",
+   "authors": "R Long, P Pasupat, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Dr. icl: Demonstration-retrieved in-context learning",
+   "authors": "M Luo, X Xu, Z Dai, P Pasupat, M Kazemi, C Baral, V Imbrasaite, VY Zhao",
+   "venue": "Data Intelligence 6 (4), 909-922",
+   "year": "2024"
+  },
+  {
+   "title": "Query understanding enhanced by hierarchical parsing structures",
+   "authors": "J Liu, P Pasupat, Y Wang, S Cyphers, J Glass",
+   "venue": "2013 IEEE Workshop on Automatic Speech Recognition and Understanding, 72-77",
+   "year": "2013"
+  },
+  {
+   "title": "Improving compositional generalization with latent structure and data augmentation",
+   "authors": "L Qiu, P Shaw, P Pasupat, P Nowak, T Linzen, F Sha, K Toutanova",
+   "venue": "Proceedings of the 2022 conference of the north american chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Can long-context language models subsume retrieval, rag, sql, and more?",
+   "authors": "J Lee, A Chen, Z Dai, D Dua, DS Sachan, M Boratko, Y Luan, SMR Arnold, ...",
+   "venue": "arXiv preprint arXiv:2406.13121",
+   "year": "2024"
+  },
+  {
+   "title": "Unlocking compositional generalization in pre-trained models using intermediate representations",
+   "authors": "J Herzig, P Shaw, MW Chang, K Guu, P Pasupat, Y Zhang",
+   "venue": "arXiv preprint arXiv:2104.07478",
+   "year": "2021"
+  },
+  {
+   "title": "Few-shot intent classification and slot filling with retrieved examples",
+   "authors": "D Yu, L He, Y Zhang, X Du, P Pasupat, Q Li",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Purr: Efficiently editing language model hallucinations by denoising language model corruptions",
+   "authors": "A Chen, P Pasupat, S Singh, H Lee, K Guu",
+   "venue": "arXiv preprint arXiv:2305.14908",
+   "year": "2023"
+  },
+  {
+   "title": "Evaluating the impact of model scale for compositional generalization in semantic parsing",
+   "authors": "L Qiu, P Shaw, P Pasupat, T Shi, J Herzig, E Pitler, F Sha, K Toutanova",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Inferring logical forms from denotations",
+   "authors": "P Pasupat, P Liang",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Mapping natural language commands to web elements",
+   "authors": "P Pasupat, TS Jiang, E Liu, K Guu, P Liang",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Macro grammars and holistic triggering for efficient semantic parsing",
+   "authors": "Y Zhang, P Pasupat, P Liang",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "A Conversational Movie Search System Based on Conditional Random Fields.",
+   "authors": "J Liu, S Cyphers, P Pasupat, I McGraw, JR Glass",
+   "venue": "Interspeech, 2454-2457",
+   "year": "2012"
+  },
+  {
+   "title": "Zero-shot entity extraction from web pages",
+   "authors": "P Pasupat, P Liang",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Enriching word embeddings using knowledge graph for semantic tagging in conversational dialog systems",
+   "authors": "A Celikyilmaz, D Hakkani-Tur, P Pasupat, R Sarikaya",
+   "venue": "genre",
+   "year": "2010"
+  },
+  {
+   "title": "Controllable semantic parsing via retrieval augmentation",
+   "authors": "P Pasupat, Y Zhang, K Guu",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Bootstrapped Self Training for Knowledge Base Population.",
+   "authors": "G Angeli, V Zhong, D Chen, AT Chaganty, J Bolton, MJJ Premkumar, ...",
+   "venue": "TAC",
+   "year": "2015"
+  },
+  {
+   "title": "QA-driven zero-shot slot filling with weak supervision pretraining",
+   "authors": "X Du, L He, Q Li, D Yu, P Pasupat, Y Zhang",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Improving semantic parsing for task oriented dialog",
+   "authors": "A Einolghozati, P Pasupat, S Gupta, R Shah, M Mohit, M Lewis, ...",
+   "venue": "arXiv preprint arXiv:1902.06000",
+   "year": "2019"
+  },
+  {
+   "title": "Attributed text generation via post-hoc research and revision",
+   "authors": "L Gao, Z Dai, P Pasupat, A Chen, AT Chaganty, Y Fan, VY Zhao, N Lao, ...",
+   "venue": "arXiv preprint arXiv:2210.08726",
+   "year": "2022"
+  },
+  {
+   "title": "Span-based hierarchical semantic parsing for task-oriented dialog",
+   "authors": "P Pasupat, S Gupta, K Mandyam, R Shah, M Lewis, L Zettlemoyer",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Automating Crowd-supervised Learning for Spoken Language Systems.",
+   "authors": "I McGraw, S Cyphers, P Pasupat, J Liu, JR Glass",
+   "venue": "Interspeech, 2474-2477",
+   "year": "2012"
+  },
+  {
+   "title": "Generate-and-retrieve: Use your predictions to improve retrieval for semantic parsing",
+   "authors": "Y Zemlyanskiy, M de Jong, J Ainslie, P Pasupat, P Shaw, L Qiu, ...",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Meta-learning fast weight language models",
+   "authors": "K Clark, K Guu, MW Chang, P Pasupat, G Hinton, M Norouzi",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Semantic entity relation detection classifier training",
+   "authors": "D Hakkani-Tur, P Pasupat",
+   "venue": "US Patent 10,474,962",
+   "year": "2019"
+  },
+  {
+   "title": "Learning abstract models for strategic exploration and fast reward transfer",
+   "authors": "EZ Liu, R Keramati, S Seshadri, K Guu, P Pasupat, E Brunskill, P Liang",
+   "venue": "arXiv preprint arXiv:2007.05896",
+   "year": "2020"
+  },
+  {
+   "title": "Retrieval-augmented language model pre-training and fine-tuning",
+   "authors": "KCT Lee, K Gu, Z Tung, P Pasupat, MW Chang",
+   "venue": "US Patent 11,003,865",
+   "year": "2021"
+  },
+  {
+   "title": "Machine-Learned User Interface Command Generator Using Pretrained Image Processing Model",
+   "authors": "PT Shaw, M Joshi, KN Toutanova, JF Cohan, JH Berant, KCT Lee, ...",
+   "venue": "US Patent App. 19/002,441",
+   "year": "2025"
+  },
+  {
+   "title": "LOFT: Scalable and more realistic long-context evaluation",
+   "authors": "J Lee, A Chen, Z Dai, D Dua, DS Sachan, M Boratko, Y Luan, S Arnold, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 6713-6738",
+   "year": "2025"
+  },
+  {
+   "title": "Retrieval-augmented parsing for complex graphs by exploiting structure and uncertainty",
+   "authors": "Z Lin, Q Yuan, P Pasupat, J Liu, J Shang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 6330-6345",
+   "year": "2023"
+  },
+  {
+   "title": "On compositional uncertainty quantification for seq2seq graph parsing",
+   "authors": "Z Lin, D Phan, P Pasupat, JZ Liu, J Shang",
+   "venue": "The Eleventh International Conference on Learning Representations",
+   "year": "2023"
+  },
+  {
+   "title": "Graph-based decoding for task oriented semantic parsing",
+   "authors": "J Cole, N Jiang, P Pasupat, L He, P Shaw",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 4057-4065",
+   "year": "2021"
+  },
+  {
+   "title": "Large language model output entailment",
+   "authors": "K Gu, Z Dai, P Pasupat, C Elkind, E Ofek, H Taitelbaum, M Sundararajan, ...",
+   "venue": "US Patent App. 18/887,751",
+   "year": "2025"
+  },
+  {
+   "title": "Unsupervised relation detection using automatic alignment of query patterns extracted from knowledge graphs and query click logs",
+   "authors": "P Pasupat, D Hakkani-Tür",
+   "venue": "Proc. Interspeech 2015, 2714-2718",
+   "year": "2015"
+  },
+  {
+   "title": "Can Long-Context Language Models Subsume Retrieval, SQL, and More?",
+   "authors": "J Lee, A Chen, Z Dai, D Dua, DS Sachan, M Boratko, Y Luan, S Arnold, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Generate-and-Retrieve: use your predictions to improve retrieval for semantic parsing",
+   "authors": "F Sha, I Pasupat, J Ainslie, L Qiu, M de Jong, P Shaw, SK Sanghai, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Natural Language Interfaces for Semi-structured Web Pages",
+   "authors": "P Pasupat",
+   "venue": "Stanford University",
+   "year": "2019"
+  },
+  {
+   "title": "Hierarchy-Driven Exploration for Reinforcement Learning",
+   "authors": "EZ Liu, R Keramati, S Seshadri, K Guu, P Pasupat, E Brunskill, P Liang",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

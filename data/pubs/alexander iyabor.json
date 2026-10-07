@@ -1,0 +1,23 @@
+{
+ "user": "Dl2Y_AsAAAAJ",
+ "pubs": [
+  {
+   "title": "Swords: A benchmark for lexical substitution with improved data coverage and quality",
+   "authors": "M Lee, C Donahue, R Jia, A Iyabor, P Liang",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Neural generation meets real people: Building a social, informative open-domain dialogue agent",
+   "authors": "EA Chi, A Paranjape, A See, C Chiam, T Chang, K Kenealy, SK Lim, ...",
+   "venue": "Proceedings of the 23rd Annual Meeting of the Special Interest Group on …",
+   "year": "2022"
+  },
+  {
+   "title": "Neural, neural everywhere: Controlled generation meets scaffolded, structured dialogue",
+   "authors": "EA Chi, C Chiam, T Chang, SK Lim, C Rastogi, A Iyabor, Y He, ...",
+   "venue": "Alexa Prize Proceedings",
+   "year": "2021"
+  }
+ ]
+}

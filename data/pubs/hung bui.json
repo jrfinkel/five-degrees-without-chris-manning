@@ -1,0 +1,1571 @@
+{
+ "user": "mDLwSZAAAAAJ",
+ "pubs": [
+  {
+   "title": "A dirt-t approach to unsupervised domain adaptation",
+   "authors": "R Shu, HH Bui, H Narui, S Ermon",
+   "venue": "arXiv preprint arXiv:1802.08735",
+   "year": "2018"
+  },
+  {
+   "title": "Activity recognition and abnormality detection with the switching hidden semi-markov model",
+   "authors": "TV Duong, HH Bui, DQ Phung, S Venkatesh",
+   "venue": "2005 IEEE Computer Society Conference on Computer Vision and Pattern …",
+   "year": "2005"
+  },
+  {
+   "title": "Learning and detecting activities from movement trajectories using the hierarchical hidden Markov model",
+   "authors": "NT Nguyen, DQ Phung, S Venkatesh, H Bui",
+   "venue": "2005 IEEE computer society conference on computer vision and pattern …",
+   "year": "2005"
+  },
+  {
+   "title": "Policy recognition in the abstract hidden markov model",
+   "authors": "HH Bui, S Venkatesh, G West",
+   "venue": "Journal of Artificial Intelligence Research 17, 451-499",
+   "year": "2002"
+  },
+  {
+   "title": "Method and apparatus for automated assistance with task management",
+   "authors": "H Bui, S Eker, D Elenius, M Gervasio, TJ Lee, M Marker, D Morley, ...",
+   "venue": "US Patent 8,694,355",
+   "year": "2014"
+  },
+  {
+   "title": "Plan, activity, and intent recognition: Theory and practice",
+   "authors": "G Sukthankar, C Geib, HH Bui, DV Pynadath, RP Goldman",
+   "venue": "Morgan Kaufmann",
+   "year": "2014"
+  },
+  {
+   "title": "Method, system and device for inferring a mobile user's current context and proactively providing assistance",
+   "authors": "KC Nitz, PD Lincoln, KL Myers, HH Bui, R Senanayake, G Denker, ...",
+   "venue": "US Patent 10,163,058",
+   "year": "2018"
+  },
+  {
+   "title": "A general model for online probabilistic plan recognition",
+   "authors": "HH Bui",
+   "venue": "IJCAI 3, 1309-1315",
+   "year": "2003"
+  },
+  {
+   "title": "Efficient Thompson Sampling for Online￼ Matrix-Factorization Recommendation",
+   "authors": "J Kawale, HH Bui, B Kveton, L Tran-Thanh, S Chawla",
+   "venue": "Advances in neural information processing systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Multilevel clustering via Wasserstein means",
+   "authors": "N Ho, XL Nguyen, M Yurochkin, HH Bui, V Huynh, D Phung",
+   "venue": "International conference on machine learning, 1501-1509",
+   "year": "2017"
+  },
+  {
+   "title": "Using multiple windows to track concept drift",
+   "authors": "MM Lazarescu, S Venkatesh, HH Bui",
+   "venue": "Intelligent data analysis 8 (1), 29-59",
+   "year": "2004"
+  },
+  {
+   "title": "Method, system and device for inferring a mobile user's current context and proactively providing assistance",
+   "authors": "KC Nitz, PD Lincoln, KL Myers, HH Bui, R Senanayake, G Denker, ...",
+   "venue": "US Patent 9,015,099",
+   "year": "2015"
+  },
+  {
+   "title": "On unbalanced optimal transport: An analysis of sinkhorn algorithm",
+   "authors": "K Pham, K Le, N Ho, T Pham, H Bui",
+   "venue": "International Conference on Machine Learning, 7673-7682",
+   "year": "2020"
+  },
+  {
+   "title": "Recognizing and monitoring high-level behaviors in complex spatial environments",
+   "authors": "NT Nguyen, HH Bui, S Venkatsh, G West",
+   "venue": "2003 IEEE Computer Society Conference on Computer Vision and Pattern …",
+   "year": "2003"
+  },
+  {
+   "title": "Efficient duration and hierarchical modeling for human activity recognition",
+   "authors": "T Duong, D Phung, H Bui, S Venkatesh",
+   "venue": "Artificial intelligence 173 (7-8), 830-856",
+   "year": "2009"
+  },
+  {
+   "title": "Distributional sliced-Wasserstein and applications to generative modeling",
+   "authors": "K Nguyen, N Ho, T Pham, H Bui",
+   "venue": "arXiv preprint arXiv:2002.07367",
+   "year": "2020"
+  },
+  {
+   "title": "Satellites may underestimate rice residue and associated burning emissions in Vietnam",
+   "authors": "K Lasko, KP Vadrevu, VT Tran, E Ellicott, TTN Nguyen, HQ Bui, C Justice",
+   "venue": "Environmental Research Letters 12 (8), 085006",
+   "year": "2017"
+  },
+  {
+   "title": "Hierarchical hidden Markov models with general state hierarchy",
+   "authors": "HH Bui, DQ Phung, S Venkatesh",
+   "venue": "Proceedings of the national conference on artificial intelligence, 324-329",
+   "year": "2004"
+  },
+  {
+   "title": "Hierarchical recognition of intentional human gestures for sports video annotation",
+   "authors": "GS Chambers, S Venkatesh, GAW West, HH Bui",
+   "venue": "2002 international conference on pattern recognition 2, 1082-1085",
+   "year": "2002"
+  },
+  {
+   "title": "Tracking and surveillance in wide-area spatial environments using the Abstract Hidden Markov Model",
+   "authors": "HH Bui, S Venkatesh, G West",
+   "venue": "International Journal of Pattern Recognition and Artificial Intelligence 15 …",
+   "year": "2001"
+  },
+  {
+   "title": "Robust locally-linear controllable embedding",
+   "authors": "E Banijamali, R Shu, H Bui, A Ghodsi",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 1751-1759",
+   "year": "2018"
+  },
+  {
+   "title": "Amortized inference regularization",
+   "authors": "R Shu, HH Bui, S Zhao, MJ Kochenderfer, S Ermon",
+   "venue": "Advances in Neural Information Processing Systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Improvement of land-cover classification over frequently cloud-covered areas using Landsat 8 time-series composites and an ensemble of supervised classifiers",
+   "authors": "CD Man, TT Nguyen, HQ Bui, K Lasko, TNT Nguyen",
+   "venue": "International Journal of Remote Sensing 39 (4), 1243-1255",
+   "year": "2018"
+  },
+  {
+   "title": "Recognition of human activity through hierarchical stochastic learning",
+   "authors": "S Luhr, HH Bui, S Venkatesh, GAW West",
+   "venue": "Proceedings of the First IEEE International Conference on Pervasive …",
+   "year": "2003"
+  },
+  {
+   "title": "Vec2face: Unveil human faces from their blackbox features in face recognition",
+   "authors": "CN Duong, TD Truong, K Luu, KG Quach, H Bui, K Roy",
+   "venue": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2020"
+  },
+  {
+   "title": "Multiple camera coordination in a surveillance system",
+   "authors": "NT Nguyen, S Venkatesh, G West, HH Bui",
+   "venue": "ACTA Automatica Sinica 29 (3), 408-422",
+   "year": "2003"
+  },
+  {
+   "title": "Temporal predictive coding for model-based planning in latent space",
+   "authors": "TD Nguyen, R Shu, T Pham, H Bui, S Ermon",
+   "venue": "International conference on machine learning, 8130-8139",
+   "year": "2021"
+  },
+  {
+   "title": "Automorphism groups of graphical models and lifted variational inference",
+   "authors": "HH Bui, TN Huynh, S Riedel",
+   "venue": "arXiv preprint arXiv:1207.4814",
+   "year": "2012"
+  },
+  {
+   "title": "Large-scale online kernel learning with random feature reparameterization",
+   "authors": "TD Nguyen, T Le, H Bui, D Phung",
+   "venue": "International Joint Conference on Artificial Intelligence 2017, 2543-2549",
+   "year": "2017"
+  },
+  {
+   "title": "On robust optimal transport: Computational complexity and barycenter computation",
+   "authors": "K Le, H Nguyen, QM Nguyen, T Pham, H Bui, N Ho",
+   "venue": "Advances in Neural Information Processing Systems 34, 21947-21959",
+   "year": "2021"
+  },
+  {
+   "title": "Lamda: Label matching deep domain adaptation",
+   "authors": "T Le, T Nguyen, N Ho, H Bui, D Phung",
+   "venue": "International Conference on Machine Learning, 6043-6054",
+   "year": "2021"
+  },
+  {
+   "title": "Particulate matter concentration mapping from MODIS satellite data: a Vietnamese case study",
+   "authors": "TTN Nguyen, HQ Bui, HV Pham, HV Luu, CD Man, HN Pham, HT Le, ...",
+   "venue": "Environmental Research Letters 10 (9), 095016",
+   "year": "2015"
+  },
+  {
+   "title": "Learning other agents' preferences in multiagent negotiation",
+   "authors": "HH Bui, D Kieronska, S Venkatesh",
+   "venue": "AAAI/IAAI, Vol. 1, 114-119",
+   "year": "1996"
+  },
+  {
+   "title": "LEARNING OTHER AGENTS'PREFERENCES IN MULTI-AGENT NEGOTIATION USING THE BAYESIAN CLASSIFIER",
+   "authors": "HH Bui, S Venkatesh, D Kieronska",
+   "venue": "International Journal of Cooperative Information Systems 8 (04), 275-293",
+   "year": "1999"
+  },
+  {
+   "title": "Spatiotemporal analysis of ground and satellite-based aerosol for air quality assessment in the Southeast Asia region",
+   "authors": "TTN Nguyen, HV Pham, K Lasko, MT Bui, D Laffly, A Jourdan, HQ Bui",
+   "venue": "Environmental Pollution 255, 113106",
+   "year": "2019"
+  },
+  {
+   "title": "Logical hierarchical hidden markov models for modeling user activities",
+   "authors": "S Natarajan, HH Bui, P Tadepalli, K Kersting, WK Wong",
+   "venue": "International Conference on Inductive Logic Programming, 192-209",
+   "year": "2008"
+  },
+  {
+   "title": "Human behavior recognition with generic exponential family duration modeling in the hidden semi-markov model",
+   "authors": "TV Duong, DQ Phung, HH Bui, S Venkatesh",
+   "venue": "18th International Conference on Pattern Recognition (ICPR'06) 3, 202-207",
+   "year": "2006"
+  },
+  {
+   "title": "Duration abnormality detection in sequences of human activity",
+   "authors": "S Luhr, S Venkatesh, G West, HH Bui",
+   "venue": "Curtin University of Technology, Perth",
+   "year": "2004"
+  },
+  {
+   "title": "Recognising behaviours of multiple people with hierarchical probabilistic model and statistical data association",
+   "authors": "N Nguyen, S Venkatesh, H Bui",
+   "venue": "Deakin University",
+   "year": "2006"
+  },
+  {
+   "title": "Rule-based dialog state tracking",
+   "authors": "TH Bui, HH Bui, F Dernoncourt",
+   "venue": "US Patent 10,055,403",
+   "year": "2018"
+  },
+  {
+   "title": "Hierarchical semi-markov conditional random fields for recursive sequential data",
+   "authors": "T Truyen, D Phung, H Bui, S Venkatesh",
+   "venue": "Advances in Neural Information Processing Systems 21",
+   "year": "2008"
+  },
+  {
+   "title": "Collapsed amortized variational inference for switching nonlinear dynamical systems",
+   "authors": "Z Dong, B Seybold, K Murphy, H Bui",
+   "venue": "International Conference on Machine Learning, 2638-2647",
+   "year": "2020"
+  },
+  {
+   "title": "The context-dependent additive recurrent neural net",
+   "authors": "QH Tran, T Lai, G Haffari, I Zukerman, T Bui, H Bui",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "The role of renewable energy in the energy–growth–emission nexus in the ASEAN region",
+   "authors": "T Tran, H Bui, AT Vo, DH Vo",
+   "venue": "Energy, Sustainability and Society 14 (1), 17",
+   "year": "2024"
+  },
+  {
+   "title": "An integrative analysis of foot‐and‐mouth disease virus carriers in Vietnam achieved through targeted surveillance and molecular epidemiology",
+   "authors": "HC de Carvalho Ferreira, SJ Pauszek, A Ludi, CL Huston, JM Pacheco, ...",
+   "venue": "Transboundary and emerging diseases 64 (2), 547-563",
+   "year": "2017"
+  },
+  {
+   "title": "Bayesian nonparametric multilevel clustering with group-level contexts",
+   "authors": "TV Nguyen, D Phung, XL Nguyen, S Venkatesh, H Bui",
+   "venue": "International Conference on Machine Learning, 288-296",
+   "year": "2014"
+  },
+  {
+   "title": "Prediction, consistency, curvature: Representation learning for locally-linear control",
+   "authors": "N Levine, Y Chow, R Shu, A Li, M Ghavamzadeh, H Bui",
+   "venue": "arXiv preprint arXiv:1909.01506",
+   "year": "2019"
+  },
+  {
+   "title": "Object labelling from human action recognition",
+   "authors": "P Peursum, S Venkatesh, GAW West, HH Bui",
+   "venue": "Proceedings of the First IEEE International Conference on Pervasive …",
+   "year": "2003"
+  },
+  {
+   "title": "Exact lifted inference with distinct soft evidence on every object",
+   "authors": "H Bui, T Huynh, R de Salvo Braz",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 26 (1), 1875-1881",
+   "year": "2012"
+  },
+  {
+   "title": "Anytime Lifted Belief Propagation.",
+   "authors": "R de Salvo Braz, S Natarajan, H Bui, JW Shavlik, S Russell",
+   "venue": "MLG/SRL@ ILP",
+   "year": "2009"
+  },
+  {
+   "title": "Segmentation of intentional human gestures for sports video annotation",
+   "authors": "GS Chambers, S Venkatesh, GAW West, HH Bui",
+   "venue": "10th International Multimedia Modelling Conference, 2004. Proceedings., 124-129",
+   "year": "2004"
+  },
+  {
+   "title": "Predictive coding for locally-linear control",
+   "authors": "R Shu, T Nguyen, Y Chow, T Pham, K Than, M Ghavamzadeh, S Ermon, ...",
+   "venue": "International Conference on Machine Learning, 8862-8871",
+   "year": "2020"
+  },
+  {
+   "title": "Predictive analysis by leveraging temporal user behavior and user embeddings",
+   "authors": "C Chen, S Kim, H Bui, R Rossi, E Koh, B Kveton, R Bunescu",
+   "venue": "Proceedings of the 27th ACM international conference on information and …",
+   "year": "2018"
+  },
+  {
+   "title": "Method, system and device for inferring a mobile user's current context and proactively providing assistance",
+   "authors": "KC Nitz, PD Lincoln, KL Myers, HH Bui, R Senanayake, G Denker, ...",
+   "venue": "US Patent 9,501,745",
+   "year": "2016"
+  },
+  {
+   "title": "Particle thompson sampling for online matrix factorization recommendation",
+   "authors": "JB Kawale, B Kveton, HH Bui",
+   "venue": "US Patent 10,332,015",
+   "year": "2019"
+  },
+  {
+   "title": "Bottleneck conditional density estimation",
+   "authors": "R Shu, HH Bui, M Ghavamzadeh",
+   "venue": "International conference on machine learning, 3164-3172",
+   "year": "2017"
+  },
+  {
+   "title": "Ac-gan learns a biased distribution",
+   "authors": "R Shu, H Bui, S Ermon",
+   "venue": "NIPS Workshop on Bayesian Deep Learning 8, 34",
+   "year": "2017"
+  },
+  {
+   "title": "Human action segmentation via controlled use of missing data in hmms",
+   "authors": "P Peursum, HH Bui, S Venkatesh, G West",
+   "venue": "Proceedings of the 17th International Conference on Pattern Recognition …",
+   "year": "2004"
+  },
+  {
+   "title": "Stochastic video prediction with conditional density estimation",
+   "authors": "R Shu, J Brofos, F Zhang, HH Bui, M Ghavamzadeh, M Kochenderfer",
+   "venue": "ECCV Workshop on Action and Anticipation for Visual Learning 2, 2",
+   "year": "2016"
+  },
+  {
+   "title": "Robust recognition and segmentation of human actions using HMMs with missing observations",
+   "authors": "P Peursum, HH Bui, S Venkatesh, G West",
+   "venue": "EURASIP Journal on Advances in Signal Processing 2005 (13), 870416",
+   "year": "2005"
+  },
+  {
+   "title": "On learning domain-invariant representations for transfer learning with multiple sources",
+   "authors": "T Phung, T Le, TL Vuong, T Tran, A Tran, H Bui, D Phung",
+   "venue": "Advances in Neural Information Processing Systems 34, 27720-27733",
+   "year": "2021"
+  },
+  {
+   "title": "Accounting conservatism and banking expertise on board of directors: TT Nguyen et al.",
+   "authors": "TT Nguyen, CM Duong, NTM Nguyen, HQ Bui",
+   "venue": "Review of Quantitative Finance and Accounting 55 (2), 501-539",
+   "year": "2020"
+  },
+  {
+   "title": "Three-player wasserstein gan via amortised duality",
+   "authors": "N Dam, Q Hoang, T Le, TD Nguyen, H Bui, D Phung",
+   "venue": "International Joint Conference on Artificial Intelligence 2019, 2202-2208",
+   "year": "2019"
+  },
+  {
+   "title": "Improving relational regularized autoencoders with spherical sliced fused Gromov Wasserstein",
+   "authors": "K Nguyen, S Nguyen, N Ho, T Pham, H Bui",
+   "venue": "arXiv preprint arXiv:2010.01787",
+   "year": "2020"
+  },
+  {
+   "title": "Practical linear models for large-scale one-class collaborative filtering",
+   "authors": "S Sedhain, H Bui, J Kawale, N Vlassis, B Kveton, AK Menon, T Bui, ...",
+   "venue": "Proceedings of the Twenty-Fifth International Joint Conference on Artificial …",
+   "year": "2016"
+  },
+  {
+   "title": "Topic transition detection using hierarchical hidden Markov and semi-Markov models",
+   "authors": "DQ Phung, TV Duong, S Venkatesh, HH Bui",
+   "venue": "Proceedings of the 13th annual ACM international conference on Multimedia, 11-20",
+   "year": "2005"
+  },
+  {
+   "title": "A Vietnamese-English neural machine translation system",
+   "authors": "TDH Nguyen, D Phung, DTC Nguyen, HM Tran, M Luong, TD Vo, HH Bui, ...",
+   "venue": "Proc. Interspeech 2022, 5543-5544",
+   "year": "2022"
+  },
+  {
+   "title": "On cross-layer alignment for model fusion of heterogeneous neural networks",
+   "authors": "D Nguyen, T Nguyen, K Nguyen, D Phung, H Bui, N Ho",
+   "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2023"
+  },
+  {
+   "title": "Generating dialogue responses in end-to-end dialogue systems utilizing a context-dependent additive recurrent neural network",
+   "authors": "Q Tran, T Bui, H Bui",
+   "venue": "US Patent 10,861,456",
+   "year": "2020"
+  },
+  {
+   "title": "The Hidden Permutation Model and Location-Based Activity Recognition.",
+   "authors": "HH Bui, DQ Phung, S Venkatesh, H Phan",
+   "venue": "AAAI 8, 1345-1350",
+   "year": "2008"
+  },
+  {
+   "title": "Automated workflows for identification of reading order from text segments using probabilistic language models",
+   "authors": "TH Bui, HH Bui, SA Gaither, WWT Chang, MF Kraley, P Daga",
+   "venue": "US Patent 10,713,519",
+   "year": "2020"
+  },
+  {
+   "title": "Adaboost. mrf: Boosted Markov random forests and application to multilevel activity recognition",
+   "authors": "TT Truyen, DQ Phung, S Venkatesh, HH Bui",
+   "venue": "2006 IEEE Computer Society Conference on Computer Vision and Pattern …",
+   "year": "2006"
+  },
+  {
+   "title": "Efficient methods for lifted inference with aggregate factors",
+   "authors": "J Choi, R de Salvo Braz, H Bui",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 25 (1), 1030-1036",
+   "year": "2011"
+  },
+  {
+   "title": "Efficient Online Learning and Prediction of Users' Desktop Actions.",
+   "authors": "O Madani, H Bui, E Yeh",
+   "venue": "IJCAI, 1457-1462",
+   "year": "2009"
+  },
+  {
+   "title": "On transportation of mini-batches: A hierarchical approach",
+   "authors": "K Nguyen, D Nguyen, Q Nguyen, T Pham, H Bui, D Phung, T Le, N Ho",
+   "venue": "arXiv preprint arXiv:2102.05912",
+   "year": "2021"
+  },
+  {
+   "title": "Hierarchical monitoring of people's behaviors in complex environments using multiple cameras",
+   "authors": "NT Nguyen, S Venkatesh, G West, HH Bui",
+   "venue": "2002 International Conference on Pattern Recognition 1, 13-16",
+   "year": "2002"
+  },
+  {
+   "title": "Robust dialog state tracking for large ontologies",
+   "authors": "F Dernoncourt, JY Lee, TH Bui, HH Bui",
+   "venue": "Dialogues with Social Robots: Enablements, Analyses, and Evaluation, 475-485",
+   "year": "2016"
+  },
+  {
+   "title": "An introduction to plan, activity, and intent recognition",
+   "authors": "G Sukthankar, RP Goldman, C Geib, D Pynadath, H Bui",
+   "venue": "Plan, Activity, and Intent Recognition. Philadelphia, PA: Elsevier",
+   "year": "2014"
+  },
+  {
+   "title": "On the recognition of abstract Markov policies",
+   "authors": "HH Bui, S Venkatesh, G West",
+   "venue": "AAAI/IAAI, 524-530",
+   "year": "2000"
+  },
+  {
+   "title": "Recognizing player goals in open-ended digital games with markov logic networks",
+   "authors": "EY Ha, JP Rowe, BW Mott, JC Lester, G Sukthankar, R Goldman, C Geib, ...",
+   "venue": "Plan, activity and intent recognition: Theory and practice, 289-311",
+   "year": "2014"
+  },
+  {
+   "title": "Heritage, education and processes of change in Vietnamese rural tourism: A case study from Hội An",
+   "authors": "TT Trinh, C Ryan, HD Bui",
+   "venue": "Journal of Vacation Marketing 26 (3), 378-394",
+   "year": "2020"
+  },
+  {
+   "title": "Efficient approximate inference for online probabilistic plan recognition",
+   "authors": "HH Bui",
+   "venue": "AAAI Fall Symposium on Intent Inference for Users, Teams and Adversaries 61, 71",
+   "year": "2002"
+  },
+  {
+   "title": "Structured dropout variational inference for Bayesian neural networks",
+   "authors": "S Nguyen, D Nguyen, K Nguyen, K Than, H Bui, N Ho",
+   "venue": "Advances in Neural Information Processing Systems 34, 15188-15202",
+   "year": "2021"
+  },
+  {
+   "title": "Lifted tree-reweighted variational inference",
+   "authors": "HH Bui, TN Huynh, D Sontag",
+   "venue": "arXiv preprint arXiv:1406.4200",
+   "year": "2014"
+  },
+  {
+   "title": "Phogpt: Generative pre-training for vietnamese",
+   "authors": "DQ Nguyen, LT Nguyen, C Tran, DN Nguyen, D Phung, H Bui",
+   "venue": "arXiv preprint arXiv:2311.02945",
+   "year": "2023"
+  },
+  {
+   "title": "Learning people movement model from multiple cameras for behaviour recognition",
+   "authors": "NT Nguyen, S Venkatesh, GAW West, HH Bui",
+   "venue": "Joint IAPR International Workshops on Statistical Techniques in Pattern …",
+   "year": "2004"
+  },
+  {
+   "title": "ARNS: A data-driven approach for SoH estimation of lithium-ion battery using nested sequence models with considering relaxation effect",
+   "authors": "T Pham, T Le, D Dang, H Bui, H Pham, L Truong, M Nguyen, H Vo, ...",
+   "venue": "Ieee Access 10, 117067-117083",
+   "year": "2022"
+  },
+  {
+   "title": "Recovering social networks from massive track datasets",
+   "authors": "CI Connolly, JB Burns, HH Bui",
+   "venue": "2008 IEEE Workshop on Applications of Computer Vision, 1-8",
+   "year": "2008"
+  },
+  {
+   "title": "Human activity learning and segmentation using partially hidden discriminative models",
+   "authors": "T Truyen, H Bui, S Venkatesh",
+   "venue": "Deakin University",
+   "year": "2005"
+  },
+  {
+   "title": "Using interaction signatures to find and label chairs and floors",
+   "authors": "P Peursum, S Venkatesh, GAW West, HH Bui",
+   "venue": "IEEE Pervasive Computing 3 (4), 58-65",
+   "year": "2004"
+  },
+  {
+   "title": "A Comprehensive Review on Data‐Driven Methods of Lithium‐Ion Batteries State‐of‐Health Forecasting",
+   "authors": "T Pham, H Bui, M Nguyen, Q Pham, V Vu, T Le, T Quan",
+   "venue": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 15 (2 …",
+   "year": "2025"
+  },
+  {
+   "title": "Predictive analysis of target behaviors utilizing RNN-based user embeddings",
+   "authors": "S Kim, D Jain, D Gupta, E Koh, B Kveton, N Sheoran, A Sinha, HH Bui, ...",
+   "venue": "US Patent 10,558,852",
+   "year": "2020"
+  },
+  {
+   "title": "A framework for coordination and learning among teams of agents",
+   "authors": "HH Bui, S Venkatesh, D Kieronska",
+   "venue": "Australian Workshop on Distributed Artificial Intelligence, 164-178",
+   "year": "1997"
+  },
+  {
+   "title": "Item recommendation techniques",
+   "authors": "H Bui, B Kveton, S SEDHAIN, N Vlassis, J Kawale",
+   "venue": "US Patent 10,657,574",
+   "year": "2020"
+  },
+  {
+   "title": "Identification of reading order text segments with a probabilistic language model",
+   "authors": "W Chang, T Bui, P Daga, M Kraley, H Bui",
+   "venue": "US Patent 10,372,821",
+   "year": "2019"
+  },
+  {
+   "title": "Learning generative adversarial networks from multiple data sources",
+   "authors": "QH Trung Le, H Vu, TD Nguyen, H Bui, D Phung",
+   "venue": "Proceedings of the 28th International Joint Conference on Artificial …",
+   "year": "2019"
+  },
+  {
+   "title": "Conditionally dependent Dirichlet processes for modelling naturally correlated data sources",
+   "authors": "D Phung, XL Nguyen, H Bui, V Nguyen, S Venkatesh",
+   "venue": "Deakin University, School of Information Technology, Pattern Recognition and …",
+   "year": "2012"
+  },
+  {
+   "title": "A probabilistic framework for extracting narrative act boundaries and semantics in motion pictures",
+   "authors": "B Adams, S Venketesh, HH Bui, C Dorai",
+   "venue": "Multimedia tools and applications 27 (2), 195-213",
+   "year": "2005"
+  },
+  {
+   "title": "AMMA: adaptive multimodal assistants through automated state tracking and user model-directed guidance planning",
+   "authors": "JJ Yang, L Qiu, EA Corona-Moreno, L Shi, H Bui, MS Lam, JA Landay",
+   "venue": "2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), 892-902",
+   "year": "2024"
+  },
+  {
+   "title": "Model fusion of heterogeneous neural networks via cross-layer alignment",
+   "authors": "D Nguyen, K Nguyen, D Phung, H Bui, N Ho",
+   "venue": "arXiv preprint arXiv:2110.15538",
+   "year": "2021"
+  },
+  {
+   "title": "The basic information of main soil units of Vietnam",
+   "authors": "VB Nguyen, DD Bui, QD Ho, HH Bui, TL Dang, P Thai, VT Nguyen",
+   "venue": "The gioi: Hanoi, Vietnam",
+   "year": "2002"
+  },
+  {
+   "title": "A multi-agent incremental negotiation scheme for meetings scheduling",
+   "authors": "HH Bui, S Venkatesh, D Kieronska",
+   "venue": "Proceedings of Third Australian and New Zealand conference on intelligent …",
+   "year": "1995"
+  },
+  {
+   "title": "Digital content interaction prediction and training that addresses imbalanced classes",
+   "authors": "A Roychowdhury, HH Bui, TH Bui, H Jin",
+   "venue": "US Patent 11,676,060",
+   "year": "2023"
+  },
+  {
+   "title": "Scalable Nonparametric Bayesian Multilevel Clustering.",
+   "authors": "V Huynh, DQ Phung, S Venkatesh, XL Nguyen, MD Hoffman, HH Bui",
+   "venue": "UAI",
+   "year": "2016"
+  },
+  {
+   "title": "Layered dynamic probabilistic networks for spatio-temporal modelling",
+   "authors": "HH Bui, S Venkatesh, G West",
+   "venue": "Intelligent Data Analysis 3 (5), 339-361",
+   "year": "1999"
+  },
+  {
+   "title": "An architecture for negotiating agents that learn",
+   "authors": "H Bui, S Venkatesh, D Kieronska",
+   "venue": "Technical report, Department of Computer Science, Curtin University of …",
+   "year": "1995"
+  },
+  {
+   "title": "The cash-holding link within the supply chain",
+   "authors": "TT Nguyen, MC Nguyen, HQ Bui, TN Vu",
+   "venue": "Review of Quantitative Finance and Accounting 57 (4), 1309-1344",
+   "year": "2021"
+  },
+  {
+   "title": "Efficient Coxian duration modelling for activity recognition in smart environments with the hidden semi-Markov model",
+   "authors": "TV Duong, DQ Phung, HH Bui, S Venkatesh",
+   "venue": "2005 International Conference on Intelligent Sensors, Sensor Networks and …",
+   "year": "2005"
+  },
+  {
+   "title": "Financial development and international R&D spillovers through trade: Evidence from developing countries",
+   "authors": "T Le, N Vu Bich, S Mai, H Nguyen, H Bui",
+   "venue": "Sage Open 13 (1), 21582440231163842",
+   "year": "2023"
+  },
+  {
+   "title": "Towards channel-wise bidirectional representation learning with fixed-point positional encoding for soh estimation of lithium-ion battery",
+   "authors": "T Pham, L Truong, H Bui, T Tran, A Garg, L Gao, T Quan",
+   "venue": "Electronics 12 (1), 98",
+   "year": "2022"
+  },
+  {
+   "title": "Methods and systems for determining and outputting correlations between metrics in a web analytic dataset",
+   "authors": "H Dadkhahi, M Ghavamzadeh, H Bui, B Kveton",
+   "venue": "US Patent 11,055,317",
+   "year": "2021"
+  },
+  {
+   "title": "On efficient multilevel clustering via Wasserstein distances",
+   "authors": "V Huynh, N Ho, N Dam, XL Nguyen, M Yurochkin, H Bui, D Phung",
+   "venue": "Journal of Machine Learning Research 22 (145), 1-43",
+   "year": "2021"
+  },
+  {
+   "title": "Jasminanthes tuyetanhiae (Apocynaceae, Asclepiadoideae), a new species from Vietnam, and J. pilosa new for Vietnam",
+   "authors": "XL Hoang, ND Bui, TH Bui, E Sangmi, HQ Bui, VH Do, M Nuraliev, ...",
+   "venue": "Annales Botanici Fennici 55 (1–3), 163-169",
+   "year": "2018"
+  },
+  {
+   "title": "Paddy rice mapping in red river delta region using landsat 8 images: Preliminary results",
+   "authors": "MD Chuc, NH Anh, NT Thuy, BQ Hung, NTN Thanh",
+   "venue": "2017 9th International Conference on Knowledge and Systems Engineering (KSE …",
+   "year": "2017"
+  },
+  {
+   "title": "A probabilistic model with parsinomious representation for sensor fusion in recognizing activity in pervasive environment",
+   "authors": "S Venkatesh, HH Bui, DQ Phung, DT Tran",
+   "venue": "18th International Conference on Pattern Recognition (ICPR'06) 3, 168-172",
+   "year": "2006"
+  },
+  {
+   "title": "Classifying human actions using an incomplete real-time pose skeleton",
+   "authors": "P Peursum, S Venkatesh, G West",
+   "venue": "Lecture Notes in Computer Science, 971-972",
+   "year": "2004"
+  },
+  {
+   "title": "A framework for coordination and learning among team members",
+   "authors": "HH Bui, S Venkatesh, D Kieronska",
+   "venue": "Proceedings of the Third Australian Workshop on Distributed AI (DAI-97), 116-126",
+   "year": "1997"
+  },
+  {
+   "title": "Preliminary result of 3d city modelling for Hanoi, Vietnam",
+   "authors": "P Anh, NTN Thanh, CT Vu, NV Ha, BQ Hung",
+   "venue": "2018 5th NAFOSTED Conference on Information and Computer Science (NICS), 294-299",
+   "year": "2018"
+  },
+  {
+   "title": "Learning discriminative sequence models from partially labelled data for activity recognition",
+   "authors": "TT Truyen, HH Bui, DQ Phung, S Venkatesh",
+   "venue": "Pacific Rim International Conference on Artificial Intelligence, 903-912",
+   "year": "2008"
+  },
+  {
+   "title": "Factored state-abstract hidden markov models for activity recognition using pervasive multi-modal sensors",
+   "authors": "DT Tran, DQ Phung, HH Bui, S Venkatesh",
+   "venue": "2005 International Conference on Intelligent Sensors, Sensor Networks and …",
+   "year": "2005"
+  },
+  {
+   "title": "Encoder, system and method for metaphor detection in natural language processing",
+   "authors": "HH Bui, TH Nguyen, DM Le",
+   "venue": "US Patent 11,625,540",
+   "year": "2023"
+  },
+  {
+   "title": "Assessment of georeferencing methods on MODIS Terra/Aqua and VIIRS NPP satellite images in Vietnam",
+   "authors": "P Van Ha, NTN Thanh, BQ Hung, P Klein, A Jourdan, D Laffly",
+   "venue": "2018 10th International Conference on Knowledge and Systems Engineering (KSE …",
+   "year": "2018"
+  },
+  {
+   "title": "Comparison of various image fusion methods for impervious surface classification from VNREDSat-1",
+   "authors": "HV Luu, MV Pham, CD Man, HQ Bui, TTN Nguyen",
+   "venue": "arXiv preprint arXiv:1803.02326",
+   "year": "2018"
+  },
+  {
+   "title": "Voice in the user interface",
+   "authors": "A Breen, HH Bui, R Crouch, K Farrell, F Faubel, R Gemello, WF Ganong III, ...",
+   "venue": "Interactive Displays: Natural Human‐Interface Technologies, 107-163",
+   "year": "2014"
+  },
+  {
+   "title": "Efficient variable elimination for semi-structured simple temporal networks with continuous domains",
+   "authors": "N Yorke-Smith, HH Bui",
+   "venue": "The Knowledge Engineering Review 25 (3), 337-351",
+   "year": "2010"
+  },
+  {
+   "title": "Indexing narrative structure and semantics in motion pictures with a probabilistic framework",
+   "authors": "B Adams, C Dorai, S Venkatesh, HH Bui",
+   "venue": "2003 International Conference on Multimedia and Expo. ICME'03. Proceedings …",
+   "year": "2003"
+  },
+  {
+   "title": "Cau Giay: A dataset for very dense building extraction from google earth imagery",
+   "authors": "A Nguyen, H Luu, A Phan, H Bui, T Nguyen",
+   "venue": "2019 6th NAFOSTED Conference on Information and Computer Science (NICS), 352-356",
+   "year": "2019"
+  },
+  {
+   "title": "Comparison of resampling methods on different remote sensing images for Vietnam’s urban classification",
+   "authors": "PT Dung, MD Chuc, NTN Thanh, BQ Hung, DM Chung",
+   "venue": "Research and Development on Information and Communication Technology 12 (15 …",
+   "year": "2018"
+  },
+  {
+   "title": "Graphical model sketch",
+   "authors": "B Kveton, H Bui, M Ghavamzadeh, G Theocharous, S Muthukrishnan, ...",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2016"
+  },
+  {
+   "title": "Negotiating agents that learn about others' preferences",
+   "authors": "HH Bui, D Kieronska, S Venkatesh",
+   "venue": "AAAI 96 Spring Symposium on Adaptation, Co-evolution, and Learning in …",
+   "year": "1996"
+  },
+  {
+   "title": "Naturalness improvement of Vietnamese text-to-speech system using diffusion probabilistic modelling and unsupervised data enrichment",
+   "authors": "T Tran, T Nguyen, H Bui, K Nguyen, NG Vo, TV Pham, T Quan",
+   "venue": "International Conference on Intelligence of Things, 376-387",
+   "year": "2022"
+  },
+  {
+   "title": "Learning conditional latent structures from multiple data sources",
+   "authors": "V Huynh, D Phung, L Nguyen, S Venkatesh, HH Bui",
+   "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 343-354",
+   "year": "2015"
+  },
+  {
+   "title": "A bayesian nonparametric approach to multilevel regression",
+   "authors": "V Nguyen, D Phung, S Venkatesh, HH Bui",
+   "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 330-342",
+   "year": "2015"
+  },
+  {
+   "title": "Human action recognition with an incomplete real-time pose skeleton",
+   "authors": "P Peursum, H Bui, S Venkatesh, G West",
+   "venue": "Deakin University",
+   "year": "2004"
+  },
+  {
+   "title": "Coordination of multiple cameras to track multiple people",
+   "authors": "NT Nguyen, S Venkatesh, G West, HH Bui",
+   "venue": "Asian Conference on Computer Vision, 302-307",
+   "year": "2002"
+  },
+  {
+   "title": "Fusing global attention and self-attention for better performance and interpretability on tabular data",
+   "authors": "H Bui, B Le",
+   "venue": "Expert Systems with Applications, 130220",
+   "year": "2025"
+  },
+  {
+   "title": "Learning compositional sparse gaussian processes with a shrinkage prior",
+   "authors": "A Tong, TM Tran, H Bui, J Choi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (11), 9906-9914",
+   "year": "2021"
+  },
+  {
+   "title": "On robust optimal transport: Computational complexity, low-rank approximation, and barycenter computation",
+   "authors": "K Le, H Nguyen, Q Nguyen, N Ho, T Pham, H Bui",
+   "venue": "arXiv preprint arXiv:2102.06857",
+   "year": "2021"
+  },
+  {
+   "title": "Training variational autoencoders with buffered stochastic variational inference",
+   "authors": "R Shu, H Bui, J Whang, S Ermon",
+   "venue": "The 22nd International Conference on Artificial Intelligence and Statistics …",
+   "year": "2019"
+  },
+  {
+   "title": "Discriminative Bayesian nonparametric clustering",
+   "authors": "V Nguyen, D Phung, T Le, H Bui",
+   "venue": "International Joint Conference on Artificial Intelligence 2017, 2550-2556",
+   "year": "2017"
+  },
+  {
+   "title": "Optimizing GLCNMO version 2 method to detect Vietnam's urban expansion",
+   "authors": "PT Dung, MD Chuc, NTN Thanh, BQ Hung, DM Chung",
+   "venue": "2016 Eighth International Conference on Knowledge and Systems Engineering …",
+   "year": "2016"
+  },
+  {
+   "title": "Adobe-MIT submission to the DSTC 4 Spoken Language Understanding pilot task",
+   "authors": "F Dernoncourt, JY Lee, TH Bui, HH Bui",
+   "venue": "arXiv preprint arXiv:1605.02129",
+   "year": "2016"
+  },
+  {
+   "title": "Using central composite design—response surface methodology to optimize inveratse activity condition for fructose production",
+   "authors": "HT Tran, TCL Phan, TAT Tran, TT Ho, TVH Le, H Bui",
+   "venue": "Conference Proceedings of Biotechnology for Green Solutions and Sustainable …",
+   "year": "2010"
+  },
+  {
+   "title": "Leadership style of the principal and the management of secondary schools in Vietnam at present",
+   "authors": "H Bui, H Nguyen",
+   "venue": "Journal of Educational Management 10, 16-24",
+   "year": "2010"
+  },
+  {
+   "title": "Application of isotopic hydrogeological method to investigate groundwater in Nam Dinh area",
+   "authors": "H Bui, TL Le, MT Schafmeister, KH Pham, BV Do",
+   "venue": "J Geol (Vietnam) B 21, 88-94",
+   "year": "2003"
+  },
+  {
+   "title": "An Approach to Coordinating Team of Agents under Incomplete Information",
+   "authors": "HH Bui",
+   "venue": "Curtin University of Technology",
+   "year": "1998"
+  },
+  {
+   "title": "Vietnam Association of Gastroenterology consensus for the diagnosis and treatment of functional dyspepsia",
+   "authors": "KTT Tran, BH Mai, L Ta, LV Dao, HV Tran, MK Tran, DT Quach, KT Vu, ...",
+   "venue": "La Clinica Terapeutica 175 (5)",
+   "year": "2024"
+  },
+  {
+   "title": "Probabilistic language models for identifying sequential reading order of discontinuous text segments",
+   "authors": "TH Bui, HH Bui, SA Gaither, WWT Chang, MF Kraley, P Daga",
+   "venue": "US Patent 11,769,111",
+   "year": "2023"
+  },
+  {
+   "title": "A vietnamese spelling correction system",
+   "authors": "TH Nguyen, T Pham, KM Le, M Luong, NL Tran, H Man, DM Nguyen, ...",
+   "venue": "Companion Proceedings of the 28th International Conference on Intelligent …",
+   "year": "2023"
+  },
+  {
+   "title": "On deep domain adaptation: Some theoretical understandings",
+   "authors": "T Le, K Nguyen, N Ho, H Bui, D Phung",
+   "venue": "arXiv preprint arXiv:1811.06199",
+   "year": "2018"
+  },
+  {
+   "title": "Bayesian minimax estimation of the normal model with incomplete prior covariance matrix specification",
+   "authors": "DS Pham, HH Bui, S Venkatesh",
+   "venue": "IEEE transactions on information theory 56 (12), 6433-6449",
+   "year": "2010"
+  },
+  {
+   "title": "A context-aware personal desktop assistant",
+   "authors": "HH Bui, F Cesari, D Elenius, DN Morley, S Natarajan, S Saadati, E Yeh, ...",
+   "venue": "Proceedings of the 7th international joint conference on Autonomous agents …",
+   "year": "2008"
+  },
+  {
+   "title": "Efficient message passing and propagation of simple temporal constraints: Results on semi-structured networks",
+   "authors": "HH Bui, M Tyson, N Yorke-Smith",
+   "venue": "Proc. of CP/ICAPS’08 Joint Workshop on Constraint Satisfaction Techniques …",
+   "year": "2008"
+  },
+  {
+   "title": "Efficient message passing and propagation of simple temporal constraints",
+   "authors": "HH Bui, M Tyson, N Yorke-Smith",
+   "venue": "Proc. of AAAI 2007 Workshop on Spatial and Temporal Reasoning",
+   "year": "2007"
+  },
+  {
+   "title": "Optimal communication among team members",
+   "authors": "HH Bui, D Kieronska, S Venkatesh",
+   "venue": "Australian Joint Conference on Artificial Intelligence, 116-126",
+   "year": "1997"
+  },
+  {
+   "title": "Digital era after COVID-19: Changes in student attitudes and behaviors in Vietnam",
+   "authors": "Q Phan, H Bui, T Nguyen",
+   "venue": "Journal of Social Studies Education Research 15 (5), 59-86",
+   "year": "2024"
+  },
+  {
+   "title": "Face-aware offset calculation module and method for facial frame interpolation and enhancement and a face video deblurring system and method using the same",
+   "authors": "HH Bui, HM Nguyen, AT Tran, TPN THI",
+   "venue": "US Patent 12,112,455",
+   "year": "2024"
+  },
+  {
+   "title": "In-order transition-based parsing for Vietnamese",
+   "authors": "J Bauer, H Bui, V Thai, C Manning",
+   "venue": "Journal of Computer Science and Cybernetics, 207-221",
+   "year": "2023"
+  },
+  {
+   "title": "CTARNS: Improving Capacity Estimation of Lithium-Ion Battery by Using Convolutional Transformer with Nested Sequence Models",
+   "authors": "H Bui, T Pham, T Quan",
+   "venue": "International Congress on Information and Communication Technology, 625-637",
+   "year": "2023"
+  },
+  {
+   "title": "Multi-scale segmentation system",
+   "authors": "HH Bui, HM Nguyen, K Luu, AT Tran, CM Huynh",
+   "venue": "US Patent App. 17/160,509",
+   "year": "2022"
+  },
+  {
+   "title": "Online training of segmentation model via interactions with interactive computing environment",
+   "authors": "B Kveton, Z Wen, H Bui, T Yu",
+   "venue": "US Patent App. 15/957,706",
+   "year": "2019"
+  },
+  {
+   "title": "Method and system for controlling radio frequency interference to public safety communication",
+   "authors": "H Bui, H Fayad, R Kingsley, M Son",
+   "venue": "US Patent 10,129,763",
+   "year": "2018"
+  },
+  {
+   "title": "Development of virtual campus using GIS data and 3D GIS technology: A case study for Vietnam National University, Hanoi",
+   "authors": "P Anh, MD Chuc, BQ Hung, NTN Thanh",
+   "venue": "2017 9th International Conference on Knowledge and Systems Engineering (KSE …",
+   "year": "2017"
+  },
+  {
+   "title": "Architectures for activity recognition and context-aware computing",
+   "authors": "C Geib, V Agrawal, G Sukthankar, L Shastri, H Bui",
+   "venue": "Ai Magazine 36 (2), 3-9",
+   "year": "2015"
+  },
+  {
+   "title": "Technical report 2004/1: Human action recognition with an incomplete real-time pose skeleton",
+   "authors": "P Peursum, HH Bui, S Venkatesh, GA West",
+   "venue": "Technical Report, Curtin University of Technology",
+   "year": "2004"
+  },
+  {
+   "title": "A probabilistic framework for tracking in wide-area environments",
+   "authors": "HH Bui, S Venkatesh, G West",
+   "venue": "Proceedings 15th International Conference on Pattern Recognition. ICPR-2000 …",
+   "year": "2000"
+  },
+  {
+   "title": "Towards Multiple-View Nested Graph Convolutional Networks for stable and robust lithium-ion battery forecasting",
+   "authors": "T Pham, H Bui, M Nguyen, T Le, V Vu, Q Pham, T Quan",
+   "venue": "Energy Reports 12, 4777-4793",
+   "year": "2024"
+  },
+  {
+   "title": "Ganet-learning tabular data using global attention",
+   "authors": "H Bui, B Le",
+   "venue": "International Conference on Computational Collective Intelligence, 95-106",
+   "year": "2024"
+  },
+  {
+   "title": "On label shift in domain adaptation via wasserstein distance",
+   "authors": "T Le, D Do, T Nguyen, H Nguyen, H Bui, N Ho, D Phung",
+   "venue": "arXiv preprint arXiv:2110.15520",
+   "year": "2021"
+  },
+  {
+   "title": "Standardization procedure for automatic environmental data: A case study in Hanoi, Vietnam",
+   "authors": "LN Duc, MD Chuc, BQ Hung, NTN Thanh",
+   "venue": "2016 Eighth International Conference on Knowledge and Systems Engineering …",
+   "year": "2016"
+  },
+  {
+   "title": "Prediction and Discovery of Users' Desktop Behavior.",
+   "authors": "O Madani, H Bui, E Yeh",
+   "venue": "AAAI Spring Symposium: Human Behavior Modeling, 49-55",
+   "year": "2009"
+  },
+  {
+   "title": "Sampling stable properties of massive track datasets",
+   "authors": "CI Connolly, JB Burns, HH Bui",
+   "venue": "Proceedings of the 2007 workshop on Massive datasets, 2-4",
+   "year": "2007"
+  },
+  {
+   "title": "SvethaVenkatesh",
+   "authors": "DQ Phung",
+   "venue": "Chitra Dorai. Hish Level Segmenta—tion of Instructional Videos Based on …",
+   "year": "2002"
+  },
+  {
+   "title": "Tracking concept drift robustly",
+   "authors": "M Lazarescu, S Venkatesh, H Bui",
+   "venue": "Deakin University",
+   "year": "2001"
+  },
+  {
+   "title": "Constructing hierarchical abstraction for qualitative representations of space and time",
+   "authors": "H Bui, S Venkatesh, D Kieronska",
+   "venue": "Deakin University",
+   "year": "1995"
+  },
+  {
+   "title": "Mechanisms of dendritic cell lysosomal killing of",
+   "authors": "CR Hole, H Bui, FL Wormley Jr, KL Wozniak",
+   "venue": "Cryptococcus",
+   "year": null
+  },
+  {
+   "title": "EP06. 30: Prenatal diagnosis a case of X‐linked hydrocephalus caused by a novel missense mutation in the L1CAM gene",
+   "authors": "ST Vo, KV Hoang, TT Cao, SH Tang, HH Bui, H Giang",
+   "venue": "Ultrasound in Obstetrics & Gynecology 62, 133-133",
+   "year": "2023"
+  },
+  {
+   "title": "Building and Nurturing AI Development in Vietnam",
+   "authors": "H Bui, MH Nguyen, DQ Nguyen, L Pham, D Phung",
+   "venue": "Communications of the ACM 66 (7), 75-76",
+   "year": "2023"
+  },
+  {
+   "title": "SOFT SKILLS FOR ACCOUNTING GRADUATES IN THE ERA OF TECHNOLOGY: SUGGESTIONS FOR ACCOUNTING PROGRAMS.",
+   "authors": "S Tran, T Bui, H Bui",
+   "venue": "International Journal of Education Research 17 (1), 108",
+   "year": "2022"
+  },
+  {
+   "title": "Item recommendation techniques",
+   "authors": "H Bui, B Kveton, S SEDHAIN, N Vlassis, J Kawale",
+   "venue": "US Patent 11,354,720",
+   "year": "2022"
+  },
+  {
+   "title": "Vietnamese Speech-Based Question Answering over Car Manuals",
+   "authors": "TD Vo, M Luong, DM Le, H Tran, N Do, TDH Nguyen, T Nguyen, H Bui, ...",
+   "venue": "Companion Proceedings of the 27th International Conference on Intelligent …",
+   "year": "2022"
+  },
+  {
+   "title": "Image caption apparatus",
+   "authors": "HH Bui, HM Nguyen, TH Nguyen, TM Nguyen",
+   "venue": "US Patent App. 17/188,211",
+   "year": "2022"
+  },
+  {
+   "title": "Improving bayesian inference in deep neural networks with variational structured dropout",
+   "authors": "S Nguyen, D Nguyen, K Nguyen, N Ho, K Than, H Bui",
+   "venue": "arXiv, vol. abs/2102.07927",
+   "year": "2021"
+  },
+  {
+   "title": "RETHINKING ABOUT DETERMINANTS OF INORGANIC FERTILIZER USE IN VIETNAM",
+   "authors": "HD Bui, TT Trinh",
+   "venue": "Agriculture and Food 5 (1), 421-429",
+   "year": "2017"
+  },
+  {
+   "title": "Lifted Arbitrary Constraint Solving for Lifted Probabilistic Inference.",
+   "authors": "R de Salvo Braz, S Saadati, H Bui, C O'Reilly",
+   "venue": "StarAI@ UAI",
+   "year": "2012"
+  },
+  {
+   "title": "Initial Empirical Evaluation of Anytime Lifted Belief Propagation.",
+   "authors": "RG Freedman, R de Salvo Braz, H Bui, S Natarajan",
+   "venue": "StarAI@ UAI",
+   "year": "2012"
+  },
+  {
+   "title": "Boosted Markov networks for activity recognition",
+   "authors": "TT Truyen, HH Bui, S Venkatesh",
+   "venue": "2005 International Conference on Intelligent Sensors, Sensor Networks and …",
+   "year": "2005"
+  },
+  {
+   "title": "Automatically learning structural units in educational videos with the hierarchical hidden Markov models",
+   "authors": "DQ Phung, S Venkatesh, HH Bui",
+   "venue": "2004 International Conference on Image Processing, 2004. ICIP'04. 3, 1605-1608",
+   "year": "2004"
+  },
+  {
+   "title": "Content structure discovery in educational videos using shared structures in the hierarchical hidden markov models",
+   "authors": "DQ Phung, HH Bui, S Venkatesh",
+   "venue": "Joint IAPR International Workshops on Statistical Techniques in Pattern …",
+   "year": "2004"
+  },
+  {
+   "title": "Hierarchical recognition of intentional human gestures for sports video",
+   "authors": "GS Chambers, S Venkatesh, GAW West, HH Bui",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "A Formal Framework For Qualitative Knowledge Representations",
+   "authors": "HH Bui, S Venkatesh, D Kieronska",
+   "venue": "Proceedings ICARCV: the Third International Conference on Automation …",
+   "year": "1994"
+  },
+  {
+   "title": "Bayesian metric learning for robust training of deep models under noisy labels",
+   "authors": "T Tran, H Vu, G Carneiro, H Bui",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Beyond the Frontier: Stochastic Backtracking for Efficient Test-Time Scaling",
+   "authors": "D Tran, DA Le, N Luu, Q Pham, T Pham, H Bui",
+   "venue": "arXiv preprint arXiv:2605.25143",
+   "year": "2026"
+  },
+  {
+   "title": "Thiết kế và triển khai pipeline MLOps cho hệ gợi ý sản phẩm trên dữ liệu RetailRocket",
+   "authors": "H Lê, T Phan, H Bùi, T Phạm",
+   "venue": "Hội nghị khoa học cấp Khoa-FIT. IUH 2 (1)",
+   "year": "2026"
+  },
+  {
+   "title": "Programmable logic block comprising flash memory array to store configuration data for programmable logic",
+   "authors": "H Van Tran, H Pham, H Bui, H Tran, N Do, P Ghazavi, Y Tkachev, ...",
+   "venue": "US Patent App. 18/435,943",
+   "year": "2025"
+  },
+  {
+   "title": "Clinical profile and short-term outcomes of acute severe ulcerative colitis in Vietnam: insights from a resource-limited setting.",
+   "authors": "LM Dang, TH Dinh, TM Huynh, CD Nguyen, TTT Trinh, HH Bui",
+   "venue": "European Review for Medical & Pharmacological Sciences 28 (19), 4328",
+   "year": "2024"
+  },
+  {
+   "title": "Generating and utilizing classification and query-specific models to generate digital responses to queries from client device",
+   "authors": "TM Lai, T Bui, S Li, QH Tran, H Bui",
+   "venue": "US Patent 11,776,036",
+   "year": "2023"
+  },
+  {
+   "title": "Closed subscriber group setup of shared base stations based on public land mobile network configuration",
+   "authors": "M Song, S Sung, H Bui, D Nguyen",
+   "venue": "US Patent 11,765,649",
+   "year": "2023"
+  },
+  {
+   "title": "EP24. 10: Prenatal diagnosis of hydrops fetalis secondary to lysosomal storage disease.",
+   "authors": "ST Vo, HH Bui, H Giang, U Agarwal",
+   "venue": "Ultrasound in Obstetrics & Gynecology 60, 192",
+   "year": "2022"
+  },
+  {
+   "title": "EP25. 04: First trimester prenatal diagnosis of hypophosphatasia using ultrasound imaging and exome sequencing.",
+   "authors": "ST Vo, MB Nguyen, HH Bui, H Giang, U Agarwal, NV Nguyen",
+   "venue": "Ultrasound in Obstetrics & Gynecology 60, 196",
+   "year": "2022"
+  },
+  {
+   "title": "Masked face recognition method",
+   "authors": "HH Bui, TD Bui, AH PHAM",
+   "venue": "US Patent App. 17/230,413",
+   "year": "2022"
+  },
+  {
+   "title": "Sperm quality and bacterial growth in hypothermic, antibiotic-free preserved semen of boars in Vietnam",
+   "authors": "H Bui, T Dinh, H Dang, K Pham, D Waberski",
+   "venue": "Reproduction in domestic animals: physiology, pathology, biotechnology 57 …",
+   "year": "2022"
+  },
+  {
+   "title": "VP47. 02: Prenatal diagnosis of primary microcephaly with novel compound heterozygous mutations of ASPM gene using clinical‐exome sequencing.",
+   "authors": "ST Vo, MH Pham, HH Bui, H Giang",
+   "venue": "Ultrasound in Obstetrics & Gynecology 58, 299",
+   "year": "2021"
+  },
+  {
+   "title": "VP16. 05: Prenatal diagnosis of Zellweger syndrome using clinical‐exome sequencing.",
+   "authors": "ST Vo, TT Le, CX Nguyen, HX Tang, HT Nguyen, TN Nguyen, HH Bui, ...",
+   "venue": "Ultrasound in Obstetrics & Gynecology 58, 164",
+   "year": "2021"
+  },
+  {
+   "title": "Generating dialogue responses utilizing an independent context-dependent additive recurrent neural network",
+   "authors": "Q Tran, T Bui, H Bui",
+   "venue": "US Patent 11,120,801",
+   "year": "2021"
+  },
+  {
+   "title": "Potential of Satellite Image in the End-To-End 3D City Modelling for Developing Regions: A Case Study for Cau Giay District, Hanoi, Vietnam",
+   "authors": "A Phan, H Bui, T Nguyen",
+   "venue": "International Journal of Geoinformatics 17 (4), 11-25",
+   "year": "2021"
+  },
+  {
+   "title": "Liftability Theory of Variational Inference",
+   "authors": "M Mladenov, H Bui, K Kersting",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Lifted Aggregation and Skolemization for Directed Models",
+   "authors": "W Meert, J Choi, J Kisyński, H Bui, G Van den Broeck, A Darwiche, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Audience comparison",
+   "authors": "T Paulsen, C Mathis, N Vlassis, B Kveton, K Paries, I Andrus, H Bui, ...",
+   "venue": "US Patent 11,080,732",
+   "year": "2021"
+  },
+  {
+   "title": "Restricting communication using operator determined barring",
+   "authors": "H Bui, K Lockie, J Weintraub, M Agarwal",
+   "venue": "US Patent 10,972,910",
+   "year": "2021"
+  },
+  {
+   "title": "Content presentation based on a multi-task neural network",
+   "authors": "A Roychowdhury, T Bui, J Kucera, H Bui, H Jin",
+   "venue": "US Patent 10,803,377",
+   "year": "2020"
+  },
+  {
+   "title": "Predictive analysis of target behaviors utilizing RNN-based user embeddings",
+   "authors": "S Kim, D Jain, D Gupta, E Koh, B Kveton, N Sheoran, A Sinha, HH Bui, ...",
+   "venue": "US Patent 10,783,361",
+   "year": "2020"
+  },
+  {
+   "title": "Vec2Face: Unveil Human Faces from their Blackbox Features in Face Recognition",
+   "authors": "C Nhan Duong, TD Truong, K Gia Quach, H Bui, K Roy, K Luu",
+   "venue": "arXiv e-prints, arXiv: 2003.06958",
+   "year": "2020"
+  },
+  {
+   "title": "End-Oligocene inversion structures in the North Song Hong basin and proposed tectonic model",
+   "authors": "H Bui, M Fyhn, T Nguyen, C Tong, C Trinh, KA Nguyen, H Nguyen",
+   "venue": "2nd EAGE Conference on Reservoir Geoscience 2019 (1), 1-5",
+   "year": "2019"
+  },
+  {
+   "title": "Hydrological evaluation of TRMM and GPM Multi-satellite products for the data-scare regions, the upper Srepok River Basin of Vietnam",
+   "authors": "HM Le, V Lakshmi, HQ Bui, DD Bui",
+   "venue": "AGU Fall Meeting Abstracts 2018, GC31K-1387",
+   "year": "2018"
+  },
+  {
+   "title": "Metric Forecasting Employing a Similarity Determination in a Digital Medium Environment",
+   "authors": "LI Chunyuan, HH Bui, M Ghavamzadeh, G Theocharous",
+   "venue": "US Patent App. 15/465,449",
+   "year": "2018"
+  },
+  {
+   "title": ": Online Spectral Learning for Single Topic Models",
+   "authors": "T Yu, B Kveton, Z Wen, H Bui, OJ Mengshoel",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2018"
+  },
+  {
+   "title": "UPS: optimizing Undirected Positive Sparse graph for neural graph filtering",
+   "authors": "M Yurochkin, D Thai, HH Bui, XL Nguyen",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "RICE PRODUCTIVITY IN SOUTH CENTRAL COASTAL VIETNAM: DETERMINANTS AND ROLE OF FARMER PARTICIPATION",
+   "authors": "TT Trinh, HD Bui",
+   "venue": "Agriculture and Food 6 (1), 170-180",
+   "year": "2018"
+  },
+  {
+   "title": "SpectralFPL: Online Spectral Learning for Single Topic Models.",
+   "authors": "T Yu, B Kveton, Z Wen, H Bui, OJ Mengshoel",
+   "venue": "arXiv preprint arXiv:1709.07172",
+   "year": "2017"
+  },
+  {
+   "title": "Facilitating aquaculture productivity in Vietnam: Perspectives from awareness of households and the climate change",
+   "authors": "TT Trinh, HD Bui",
+   "venue": "Agriculture and Food 5 (1), 430-439",
+   "year": "2017"
+  },
+  {
+   "title": "Development of Virtual Campus Using 3D GIS Technology: a case study for Vietnam National University, Hanoi.",
+   "authors": "A Phan, DC Man, QH Bui, TNT Nguyen",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "The Outcome of Hepatoblastoma Treated at National Hospital of Paediatrics (NHP) in Vietnam",
+   "authors": "L Phung, L Bui, D Le, HD Tran, HT Tran, H Nguyen, L Nghiem, SN Tran, ...",
+   "venue": "PEDIATRIC BLOOD & CANCER 63, S174-S174",
+   "year": "2016"
+  },
+  {
+   "title": "Robust Dialog State Tracking for Large Ontologies",
+   "authors": "JY Lee, H Bui, T Bui, F Dernoncourt",
+   "venue": "Lecture Notes in Electrical Engineering",
+   "year": "2016"
+  },
+  {
+   "title": "MCMC for Hierarchical Semi-Markov Conditional Random Fields",
+   "authors": "T Tran, D Phung, S Venkatesh, HH Bui",
+   "venue": "arXiv preprint arXiv:1408.1162",
+   "year": "2014"
+  },
+  {
+   "title": "Supplementary Material for Bayesian Nonparametric Multilevel Clustering with Contexts",
+   "authors": "V Nguyen, D Phung, XL Nguyen, S Venkatesh, H Bui",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Supplementary Material for Bayesian Nonparametric Multilevel Clustering with Contexts",
+   "authors": "D Phung, XL Nguyen, H Bui, V Nguyen, S Venkatesh",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "The AAAI-13 conference workshops",
+   "authors": "V Agrawal, C Archibald, M Bhatt, H Bui, DJ Cook, J Cortés, C Geib, ...",
+   "venue": "Ai magazine 34 (4), 108-115",
+   "year": "2013"
+  },
+  {
+   "title": "MCMC for hierarchical semi-Markov conditional random fields",
+   "authors": "T Truyen, D Phung, S Venkatesh, HH Bui",
+   "venue": "Curtin University",
+   "year": "2009"
+  },
+  {
+   "title": "Baseflow Study of the Red River Basin in Vietnam by Using Isotopes and Some Related Techniques",
+   "authors": "H Bui, CN Nguyen, DN Dang",
+   "venue": "Isotopic Age and Composition of Streamflow as Indicators of Groundwater …",
+   "year": "2009"
+  },
+  {
+   "title": "A Context-Aware Personal Desktop Assistant (Demo Paper)",
+   "authors": "HH Bui, F Cesari, D Elenius, DN Morley, S Natarajan, S Saadati, E Yeh, ...",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "The Hidden Permutation Model and Location-Based Activity Recognition",
+   "authors": "D Phung",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Kunterbuntes Origami der Tiere: pfiffig, lustig, verspielt; mit Schritt-für-Schritt-Anleitungen",
+   "authors": "N Bui, H Bui",
+   "venue": "Knaur",
+   "year": "2005"
+  },
+  {
+   "title": "Technical Report 2004/1 Human Action Recognition with an Incomplete Real-Time Pose Skeleton Curtin University of Technology May 2004",
+   "authors": "P Peursum, HH Bui, S Venkatesh, G West",
+   "venue": "",
+   "year": "2004"
+  },
+  {
+   "title": "Origami-Geldgeschenke: Geld zum Verschenken fantasievoll gestalten",
+   "authors": "N Bui, H Bui",
+   "venue": "Droemer Knaur",
+   "year": "2004"
+  },
+  {
+   "title": "监控系统中的多摄像机协同",
+   "authors": "NT Nguyen, S Venkatesh, G West, HH Bui",
+   "venue": "自动化学报 29 (3), 408-422",
+   "year": "2003"
+  },
+  {
+   "title": "Abstract Hidden Markov Models for Online Probabilistic Plan Recognition",
+   "authors": "HH Bui",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "One step immunoassay for the detection of acetaminophen & salicylate in serum, plasma and whole blood.",
+   "authors": "W Song, H Bui, L Gao, C Dou",
+   "venue": "CLINICAL CHEMISTRY 47 (6), A189-A189",
+   "year": "2001"
+  },
+  {
+   "title": "An application of concept drift tracking to average frame interpretation",
+   "authors": "M Lazarescu, S Venkatesh, H Bui",
+   "venue": "Deakin University",
+   "year": "2001"
+  },
+  {
+   "title": "Tracking Concept Drift Robustly",
+   "authors": "ML Mugurel, S Venkatesh, HH Bui",
+   "venue": "APPLIED INFORMATICS-PROCEEDINGS-, 38-42",
+   "year": "2001"
+  },
+  {
+   "title": "Barrios Bravo, LJ, see del Castillo Sobrino, Ma. D. 399±408",
+   "authors": "H Bartsch, SD Bay, MW Berry, J Jiang, MR Berthold, KP Huber, M Black, ...",
+   "venue": "Intelligent Data Analysis 3 (511), 512",
+   "year": "1999"
+  },
+  {
+   "title": "Probabilistic querying at multiple levels of abstraction in large spatial domains",
+   "authors": "H Bui, S Venkatesh, G West",
+   "venue": "Deakin University",
+   "year": "1999"
+  },
+  {
+   "title": "A formal representation for qualitative spatial knowledge",
+   "authors": "H Bui, S Venkatesh, D Kieronska",
+   "venue": "Deakin University",
+   "year": "1994"
+  },
+  {
+   "title": "● Nam Duong Duong Qualcomm, USA",
+   "authors": "L Aveneau, HP Bui, H Bui, MQ Bui, M Bui, QTT Bui, HG Cao, H Che, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "GROMOV WASSERSTEIN",
+   "authors": "K Nguyen, S Nguyen, N Ho, T Pham, H Bui",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "FPO",
+   "authors": "H BUI, MH NGUYEN, DATQ NGUYEN, L PHAM, D PHUNG",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Ho Chi Minh City University of Foreign Languages and Information Technology Vietnam Ngo Xuan Bach Posts and Telecommunications Institute of Technology Vietnam Fabien Baldacci …",
+   "authors": "D Barbucha, S Boumerdassi, C Bouras, H Bui, L Bui, L Cai, A Casaca, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Department of Computer Science, University of Los Angeles, USA",
+   "authors": "H Blockeel, H Bui, Y Chen, A Choi, J Choi, A Darwiche, J Davis, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Non-Markovian Predictive Coding For Planning In Latent Space",
+   "authors": "T Nguyen, R Shu, T Pham, H Bui, S Ermon",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Incentives in Climate Adaptation: a Discussion on the Dike Reinforcement Program in the Mekong River Delta of Vietnam",
+   "authors": "NH Nam, H Bui",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for Multilevel Clustering via Wasserstein Means",
+   "authors": "N Ho, XL Nguyen, M Yurochkin, HH Bui, V Huynh, D Phung",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Bottleneck Conditional Density Estimators",
+   "authors": "R Shu, HH Bui, M Ghavamzadeh",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Activity Recognition in TaskTracer and CALO",
+   "authors": "T Dietterich, V Keiser, J Shen, H Bui",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary material for “Scalable Nonparametric Bayesian Multilevel Clustering”",
+   "authors": "V Huynh, D Phung, S Venkatesh, XL Nguyen, M Hoffman, HH Bui",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Using Opponent Modeling to Adapt Team Play in American Football",
+   "authors": "IG Sukthankar, R Goldman, C Geib, D Pynadath, H Bui",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "An Introduction to Plan, Activity, and Intent Recognition",
+   "authors": "IG Sukthankar, R Goldman, C Geib, D Pynadath, H Bui",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Hidden Permutation Model and Location-Based Event Detection on Campus",
+   "authors": "H Phan, HB Dinh Phung, S Venkatesh",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Department of Computer Science Curtin University of Technology Perth, WA 6001, Australia buihh, dorota, svetha@ cs. curtin. edu. au",
+   "authors": "HH Bui, D Kieronska, S Venkatesh",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Department of Computer Science Curtin University of Technology Perth, WA 6001, Australia fbuihh, svetha, dorotag@ cs. curtin. edu. au",
+   "authors": "HH Bui, S Venkatesh, D Kieronska",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Using Human-Object Interaction Signatures to Find and Label Chairs, Floors",
+   "authors": "PPSVG West, HH Bui",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "In this paper, we present a method for recognising an agent's behaviour in dynamic, noisy, uncertain domains, and across multiple levels of abstraction. We term this problem …",
+   "authors": "HH Bui, S Venkatesh, G West",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

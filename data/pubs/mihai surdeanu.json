@@ -1,0 +1,1667 @@
+{
+ "user": "a3133-8AAAAJ",
+ "pubs": [
+  {
+   "title": "The Stanford CoreNLP natural language processing toolkit",
+   "authors": "CD Manning, M Surdeanu, J Bauer, JR Finkel, S Bethard, D McClosky",
+   "venue": "Proceedings of 52nd annual meeting of the association for computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Multi-instance multi-label learning for relation extraction",
+   "authors": "M Surdeanu, J Tibshirani, R Nallapati, CD Manning",
+   "venue": "Proceedings of the 2012 joint conference on empirical methods in natural …",
+   "year": "2012"
+  },
+  {
+   "title": "The CoNLL-2009 shared task: Syntactic and semantic dependencies in multiple languages",
+   "authors": "J Hajic, M Ciaramita, R Johansson, D Kawahara, MA Martí, L Màrquez, ...",
+   "venue": "Proceedings of the Thirteenth Conference on Computational Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "Stanford’s multi-pass sieve coreference resolution system at the conll-2011 shared task",
+   "authors": "H Lee, Y Peirsman, A Chang, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Proceedings of the fifteenth conference on computational natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "The CoNLL 2008 shared task on joint parsing of syntactic and semantic dependencies",
+   "authors": "M Surdeanu, R Johansson, A Meyers, L Màrquez, J Nivre",
+   "venue": "CoNLL 2008: Proceedings of the Twelfth Conference on Computational Natural …",
+   "year": "2008"
+  },
+  {
+   "title": "Deterministic coreference resolution based on entity-centric, precision-ranked rules",
+   "authors": "H Lee, A Chang, Y Peirsman, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Computational linguistics 39 (4), 885-916",
+   "year": "2013"
+  },
+  {
+   "title": "A multi-pass sieve for coreference resolution",
+   "authors": "K Raghunathan, H Lee, S Rangarajan, N Chambers, M Surdeanu, ...",
+   "venue": "Proceedings of the 2010 conference on empirical methods in natural language …",
+   "year": "2010"
+  },
+  {
+   "title": "Using predicate-argument structures for information extraction",
+   "authors": "M Surdeanu, S Harabagiu, J Williams, P Aarseth",
+   "venue": "Proceedings of the 41st Annual Meeting of the Association for Computational …",
+   "year": "2003"
+  },
+  {
+   "title": "Falcon: Boosting knowledge for answer engines",
+   "authors": "S Harabagiu, D Moldovan, M Pasca, R Mihalcea, M Surdeanu, ...",
+   "venue": "TREC 9, 479-488",
+   "year": "2000"
+  },
+  {
+   "title": "Performance issues and error analysis in an open-domain question answering system",
+   "authors": "D Moldovan, M Paşca, S Harabagiu, M Surdeanu",
+   "venue": "ACM Transactions on Information Systems (TOIS) 21 (2), 133-154",
+   "year": "2003"
+  },
+  {
+   "title": "Time travel in llms: Tracing data contamination in large language models",
+   "authors": "S Golchin, M Surdeanu",
+   "venue": "International Conference on Learning Representations 2024, 43008-43029",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to rank answers on large online QA collections",
+   "authors": "M Surdeanu, M Ciaramita, H Zaragoza",
+   "venue": "proceedings of ACL-08: HLT, 719-727",
+   "year": "2008"
+  },
+  {
+   "title": "Event extraction as dependency parsing",
+   "authors": "D McClosky, M Surdeanu, CD Manning",
+   "venue": "Proceedings of the 49th annual meeting of the association for computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Joint entity and event coreference resolution across documents",
+   "authors": "H Lee, M Recasens, A Chang, M Surdeanu, D Jurafsky",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Learning to rank answers to non-factoid questions from web collections",
+   "authors": "M Surdeanu, M Ciaramita, H Zaragoza",
+   "venue": "Computational linguistics 37 (2), 351-383",
+   "year": "2011"
+  },
+  {
+   "title": "On the importance of text analysis for stock price prediction.",
+   "authors": "H Lee, M Surdeanu, B MacCartney, D Jurafsky",
+   "venue": "LREC 2014, 1170-1175",
+   "year": "2014"
+  },
+  {
+   "title": "Discourse complements lexical semantics for non-factoid answer reranking",
+   "authors": "P Jansen, M Surdeanu, P Clark",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Overview of the TAC2013 Knowledge Base Population Evaluation: English Slot Filling and Temporal Slot Filling.",
+   "authors": "M Surdeanu",
+   "venue": "TAC 8, 2",
+   "year": "2013"
+  },
+  {
+   "title": "Answering complex, list and context questions with LCC's Question-Answering Server",
+   "authors": "S Harabagiu, D Moldovan, M Pasca, M Surdeanu, R Mihalcea, CR Gırju, ...",
+   "venue": "TITLE The Text REtrieval Conference (TREC-2001)(10th, Gaithersburg, Maryland …",
+   "year": "2001"
+  },
+  {
+   "title": "Quick and (not so) dirty: Unsupervised selection of justification sentences for multi-hop question answering",
+   "authors": "V Yadav, S Bethard, M Surdeanu",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "The role of lexico-semantic feedback in open-domain textual question-answering",
+   "authors": "S Harabagiu, D Moldovan, M Pasca, R Mihalcea, M Surdeanu, ...",
+   "venue": "Proceedings of the 39th Annual Meeting of the Association for Computational …",
+   "year": "2001"
+  },
+  {
+   "title": "Analyzing the language of food on social media",
+   "authors": "D Fried, M Surdeanu, S Kobourov, M Hingle, D Bell",
+   "venue": "2014 IEEE International Conference on Big Data (Big Data), 778-783",
+   "year": "2014"
+  },
+  {
+   "title": "A domain-independent rule-based framework for event extraction",
+   "authors": "MA Valenzuela-Escárcega, G Hahn-Powell, M Surdeanu, T Hicks",
+   "venue": "Proceedings of ACL-IJCNLP 2015 system demonstrations, 127-132",
+   "year": "2015"
+  },
+  {
+   "title": "Ensemble models for dependency parsing: cheap and good?",
+   "authors": "M Surdeanu, CD Manning",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Combination strategies for semantic role labeling",
+   "authors": "M Surdeanu, L Màrquez, X Carreras, PR Comas",
+   "venue": "Journal of Artificial Intelligence Research 29, 105-151",
+   "year": "2007"
+  },
+  {
+   "title": "Large-scale automated machine reading discovers new cancer-driving mechanisms",
+   "authors": "MA Valenzuela-Escárcega, Ö Babur, G Hahn-Powell, D Bell, T Hicks, ...",
+   "venue": "Database 2018, bay098",
+   "year": "2018"
+  },
+  {
+   "title": "Two practical rhetorical structure theory parsers",
+   "authors": "M Surdeanu, T Hicks, MA Valenzuela-Escarcega",
+   "venue": "Proceedings of the 2015 conference of the North American chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Overview of the english slot filling track at the tac2014 knowledge base population evaluation",
+   "authors": "M Surdeanu, H Ji",
+   "venue": "Proc. Text Analysis Conference (TAC2014) 3",
+   "year": "2014"
+  },
+  {
+   "title": "Data contamination quiz: A tool to detect and estimate contamination in large language models",
+   "authors": "S Golchin, M Surdeanu",
+   "venue": "Transactions of the Association for Computational Linguistics 13, 809-830",
+   "year": "2025"
+  },
+  {
+   "title": "Model combination for event extraction in BioNLP 2011",
+   "authors": "S Riedel, D McClosky, M Surdeanu, A McCallum, CD Manning",
+   "venue": "Proceedings of BioNLP Shared Task 2011 Workshop, 51-55",
+   "year": "2011"
+  },
+  {
+   "title": "A Simple Distant Supervision Approach for the TAC-KBP Slot Filling Task.",
+   "authors": "M Surdeanu, D McClosky, J Tibshirani, J Bauer, AX Chang, VI Spitkovsky, ...",
+   "venue": "TAC",
+   "year": "2010"
+  },
+  {
+   "title": "Semantic role labeling using complete syntactic analysis",
+   "authors": "M Surdeanu, J Turmo",
+   "venue": "Proceedings of the Ninth Conference on Computational Natural Language …",
+   "year": "2005"
+  },
+  {
+   "title": "Unsupervised alignment-based iterative evidence retrieval for multi-hop question answering",
+   "authors": "V Yadav, S Bethard, M Surdeanu",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "What’s in an explanation? characterizing knowledge and inference requirements for elementary science exams",
+   "authors": "P Jansen, N Balasubramanian, M Surdeanu, P Clark",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "Creating causal embeddings for question answering with minimal supervision",
+   "authors": "R Sharp, M Surdeanu, P Jansen, P Clark, M Hammond",
+   "venue": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "From words to numbers: Your large language model is secretly a capable regressor when given in-context examples",
+   "authors": "R Vacareanu, VA Negru, V Suciu, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2404.07544",
+   "year": "2024"
+  },
+  {
+   "title": "Higher-order lexical semantic models for non-factoid answer reranking",
+   "authors": "D Fried, P Jansen, G Hahn-Powell, M Surdeanu, P Clark",
+   "venue": "Transactions of the Association for Computational Linguistics 3, 197-210",
+   "year": "2015"
+  },
+  {
+   "title": "Event extraction as dependency parsing for bionlp 2011",
+   "authors": "D McClosky, M Surdeanu, CD Manning",
+   "venue": "Proceedings of BioNLP Shared Task 2011 Workshop, 41-45",
+   "year": "2011"
+  },
+  {
+   "title": "Selectional preferences for semantic role classification",
+   "authors": "B Zapirain, E Agirre, L Marquez, M Surdeanu",
+   "venue": "Computational Linguistics 39 (3), 631-663",
+   "year": "2013"
+  },
+  {
+   "title": "Framing qa as building and ranking intersentence answer justifications",
+   "authors": "P Jansen, R Sharp, M Surdeanu, P Clark",
+   "venue": "Computational Linguistics 43 (2), 407-449",
+   "year": "2017"
+  },
+  {
+   "title": "Named entity recognition from spontaneous open-domain speech",
+   "authors": "M Surdeanu, J Turmo, E Comelles",
+   "venue": "Proc. Interspeech 2005, 3433-3436",
+   "year": "2005"
+  },
+  {
+   "title": "Robust information extraction with perceptrons",
+   "authors": "M Surdeanu, M Ciaramita",
+   "venue": "Proceedings of the NIST 2007 Automatic Content Extraction Workshop (ACE07)",
+   "year": "2007"
+  },
+  {
+   "title": "Performance analysis of a distributed question/answering system",
+   "authors": "M Surdeanu, DI Moldovan, SM Harabagiu",
+   "venue": "IEEE Transactions on Parallel and Distributed Systems 13 (6), 579-596",
+   "year": "2002"
+  },
+  {
+   "title": "A scaffolding approach to coreference resolution integrating statistical and rule-based models",
+   "authors": "H Lee, M Surdeanu, D Jurafsky",
+   "venue": "Natural Language Engineering 23 (5), 733-762",
+   "year": "2017"
+  },
+  {
+   "title": "Company-oriented extractive summarization of financial news",
+   "authors": "K Filippova, M Surdeanu, M Ciaramita, H Zaragoza",
+   "venue": "Proceedings of the 12th Conference of the European Chapter of the ACL (EACL …",
+   "year": "2009"
+  },
+  {
+   "title": "How is llm reasoning distracted by irrelevant context? an analysis using a controlled benchmark",
+   "authors": "M Yang, E Huang, L Zhang, M Surdeanu, WY Wang, L Pan",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "A test of the risk perception attitude framework as a message tailoring strategy to promote diabetes screening",
+   "authors": "SA Rains, MD Hingle, M Surdeanu, D Bell, S Kobourov",
+   "venue": "Health communication 34 (6), 672-679",
+   "year": "2019"
+  },
+  {
+   "title": "Odin’s runes: A rule language for information extraction",
+   "authors": "MA Valenzuela-Escárcega, G Hahn-Powell, M Surdeanu",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "A hybrid unsupervised approach for document clustering",
+   "authors": "M Surdeanu, J Turmo, A Ageno",
+   "venue": "Proceedings of the eleventh ACM SIGKDD international conference on Knowledge …",
+   "year": "2005"
+  },
+  {
+   "title": "Event extraction using distant supervision",
+   "authors": "K Reschke, M Jankowiak, M Surdeanu, CD Manning, D Jurafsky",
+   "venue": "Language Resources and Evaluation Conference (LREC)",
+   "year": "2014"
+  },
+  {
+   "title": "Stanford's Distantly-Supervised Slot-Filling System.",
+   "authors": "M Surdeanu, S Gupta, J Bauer, D McClosky, AX Chang, VI Spitkovsky, ...",
+   "venue": "TAC",
+   "year": "2011"
+  },
+  {
+   "title": "Combining joint models for biomedical event extraction",
+   "authors": "D McClosky, S Riedel, M Surdeanu, A McCallum, CD Manning",
+   "venue": "BMC bioinformatics 13 (Suppl 11), S9",
+   "year": "2012"
+  },
+  {
+   "title": "Clinical Event Management and Communication System",
+   "authors": "JM Carrington, M Surdeanu, PA Jansen, A Forbes",
+   "venue": "US Patent App. 15/656,632",
+   "year": "2018"
+  },
+  {
+   "title": "Customizing an information extraction system to a new domain",
+   "authors": "M Surdeanu, D McClosky, M Smith, A Gusev, CD Manning",
+   "venue": "Proceedings of the ACL 2011 Workshop on Relational Models of Semantics, 2-10",
+   "year": "2011"
+  },
+  {
+   "title": "Authorbots",
+   "authors": "DE Bambauer, M Surdeanu",
+   "venue": "J. Free Speech L. 3, 375",
+   "year": "2023"
+  },
+  {
+   "title": "Detecting cyber threats in non-english dark net markets: A cross-lingual transfer learning approach",
+   "authors": "M Ebrahimi, M Surdeanu, S Samtani, H Chen",
+   "venue": "2018 IEEE International Conference on Intelligence and Security Informatics …",
+   "year": "2018"
+  },
+  {
+   "title": "Methods for extracting and assessing information from literature documents",
+   "authors": "M Surdeanu, MAV Escarcega, G Hahn-Powell, D Bell, T Hicks, E Noriega, ...",
+   "venue": "US Patent App. 15/920,170",
+   "year": "2018"
+  },
+  {
+   "title": "Alignment over heterogeneous embeddings for question answering",
+   "authors": "V Yadav, S Bethard, M Surdeanu",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Desrl: A linear-time semantic role labeling system",
+   "authors": "M Ciaramita, G Attardi, F Dell’Orletta, M Surdeanu",
+   "venue": "CoNLL 2008: Proceedings of the Twelfth Conference on Computational Natural …",
+   "year": "2008"
+  },
+  {
+   "title": "Infrastructure for open-domain information extraction",
+   "authors": "M Surdeanu, S Harabagiu",
+   "venue": "Proceedings of the Human Language Technology Conference 330",
+   "year": "2002"
+  },
+  {
+   "title": "Eidos, INDRA, & Delphi: from free text to executable causal models",
+   "authors": "R Sharp, A Pyarelal, B Gyori, K Alcock, E Laparra, ...",
+   "venue": "Proceedings of the 2019 conference of the north American chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Projective dependency parsing with perceptron",
+   "authors": "X Carreras, M Surdeanu, L Marquez",
+   "venue": "Proceedings of the Tenth Conference on Computational Natural Language …",
+   "year": "2006"
+  },
+  {
+   "title": "A hybrid approach for the acquisition of information extraction patterns",
+   "authors": "M Surdeanu, J Turmo, A Ageno",
+   "venue": "Proceedings of the workshop on adaptive text extraction and mining (ATEM 2006)",
+   "year": "2006"
+  },
+  {
+   "title": "Classify first, and then extract: Prompt chaining technique for information extraction",
+   "authors": "A Kwak, C Morrison, D Bambauer, M Surdeanu",
+   "venue": "Proceedings of the Natural Legal Language Processing Workshop 2024, 303-317",
+   "year": "2024"
+  },
+  {
+   "title": "Risk analysis for intellectual property litigation",
+   "authors": "M Surdeanu, R Nallapati, G Gregory, J Walker, CD Manning",
+   "venue": "Proceedings of the 13th international conference on artificial intelligence …",
+   "year": "2011"
+  },
+  {
+   "title": "A robust combination strategy for semantic role labeling",
+   "authors": "L Màrquez, M Surdeanu, P Comas, J Turmo",
+   "venue": "Proceedings of Human Language Technology Conference and Conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "Information extraction from legal wills: How well does GPT-4 do?",
+   "authors": "A Kwak, C Jeong, G Forte, D Bambauer, CT Morrison, M Surdeanu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 4336-4353",
+   "year": "2023"
+  },
+  {
+   "title": "Legal claim identification: Information extraction with hierarchically labeled data",
+   "authors": "M Surdeanu, R Nallapati, C Manning",
+   "venue": "Workshop Programme, 22",
+   "year": "2010"
+  },
+  {
+   "title": "Data contamination report from the 2024 CONDA shared task",
+   "authors": "O Sainz, I García-Ferrero, A Jacovi, JA Campos, Y Elazar, E Agirre, ...",
+   "venue": "Proceedings of the 1st Workshop on Data Contamination (CONDA), 41-56",
+   "year": "2024"
+  },
+  {
+   "title": "Bionli: Generating a biomedical nli dataset using lexico-semantic constraints for adversarial examples",
+   "authors": "M Bastan, M Surdeanu, N Balasubramanian",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 5093-5104",
+   "year": "2022"
+  },
+  {
+   "title": "On the importance of delexicalization for fact verification",
+   "authors": "S Suntwal, M Paul, R Sharp, M Surdeanu",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Calorie estimation from pictures of food: Crowdsourcing study",
+   "authors": "J Zhou, D Bell, S Nusrat, M Hingle, M Surdeanu, S Kobourov",
+   "venue": "Interactive journal of medical research 7 (2), e9359",
+   "year": "2018"
+  },
+  {
+   "title": "This before that: Causal precedence in the biomedical domain",
+   "authors": "G Hahn-Powell, D Bell, MA Valenzuela-Escárcega, M Surdeanu",
+   "venue": "Proceedings of the 15th Workshop on Biomedical Natural Language Processing …",
+   "year": "2016"
+  },
+  {
+   "title": "Improving semantic role classification with selectional preferences",
+   "authors": "B Zapirain, E Agirre, L Màrquez, M Surdeanu",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Design and performance analysis of a factoid question answering system for spontaneous speech transcriptions.",
+   "authors": "M Surdeanu, D Dominguez-Sal, P Comas",
+   "venue": "Interspeech",
+   "year": "2006"
+  },
+  {
+   "title": "On the role of information retrieval and information extraction in question answering systems",
+   "authors": "D Moldovan, M Surdeanu",
+   "venue": "International Summer School on Information Extraction, 129-147",
+   "year": "2002"
+  },
+  {
+   "title": "Parsing as tagging",
+   "authors": "R Vacareanu, GCG Barbosa, MA Valenzuela-Escárcega, M Surdeanu",
+   "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference …",
+   "year": "2020"
+  },
+  {
+   "title": "Removing noisy mentions for distant supervision",
+   "authors": "A Intxaurrondo, M Surdeanu, OL De Lacalle, E Agirre",
+   "venue": "Procesamiento del lenguaje natural, 41-48",
+   "year": "2013"
+  },
+  {
+   "title": "Layer-wise quantization: A pragmatic and effective method for quantizing llms beyond integer bit-levels",
+   "authors": "RG Dumitru, V Yadav, R Maheshwary, PI Clotan, ST Madhusudhan, ...",
+   "venue": "arXiv preprint arXiv:2406.17415",
+   "year": "2024"
+  },
+  {
+   "title": "Cheap and good? simple and effective data augmentation for low resource machine reading",
+   "authors": "H Van, V Yadav, M Surdeanu",
+   "venue": "Proceedings of the 44th International ACM SIGIR Conference on Research and …",
+   "year": "2021"
+  },
+  {
+   "title": "Explainable multi-hop verbal reasoning through internal monologue",
+   "authors": "Z Liang, S Bethard, M Surdeanu",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring interpretability in event extraction: Multitask learning of a neural event classifier and an explanation decoder",
+   "authors": "Z Tang, G Hahn-Powell, M Surdeanu",
+   "venue": "Proceedings of the 58th annual meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "TALP-QA System at TREC 2004: Structural and Hierarchical Relaxation Over Semantic Constraints.",
+   "authors": "D Ferrés, S Kanaan, E González, A Ageno, H Rodríguez, M Surdeanu, ...",
+   "venue": "TREC",
+   "year": "2004"
+  },
+  {
+   "title": "How may i help you? using neural text simplification to improve downstream nlp tasks",
+   "authors": "H Van, Z Tang, M Surdeanu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 4074-4080",
+   "year": "2021"
+  },
+  {
+   "title": "Lightly-supervised representation learning with global interpretability",
+   "authors": "A Zupon, M Alexeeva, MA Valenzuela-Escárcega, A Nagesh, M Surdeanu",
+   "venue": "Proceedings of the third workshop on structured prediction for NLP, 18-28",
+   "year": "2019"
+  },
+  {
+   "title": "Spinning straw into gold: Using free text to train monolingual alignment models for non-factoid question answering",
+   "authors": "R Sharp, P Jansen, M Surdeanu, P Clark",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Design and performance analysis of a distributed java virtual machine",
+   "authors": "M Surdeanu, D Moldovan",
+   "venue": "IEEE Transactions on Parallel and Distributed Systems 13 (6), 611-627",
+   "year": "2002"
+  },
+  {
+   "title": "Low resource causal event detection from biomedical literature",
+   "authors": "Z Liang, E Noriega-Atala, CT Morrison, M Surdeanu",
+   "venue": "Proceedings of the 21st workshop on biomedical language processing, 252-263",
+   "year": "2022"
+  },
+  {
+   "title": "Description of the Odin event extraction framework and rule language",
+   "authors": "MA Valenzuela-Escárcega, G Hahn-Powell, M Surdeanu",
+   "venue": "arXiv preprint arXiv:1509.07513",
+   "year": "2015"
+  },
+  {
+   "title": "Diamonds in the rough: Event extraction from imperfect microblog data",
+   "authors": "A Intxaurrondo, E Agirre, OL De Lacalle, M Surdeanu",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Sanity check: A strong alignment and information retrieval baseline for question answering",
+   "authors": "V Yadav, R Sharp, M Surdeanu",
+   "venue": "The 41st International ACM SIGIR Conference on Research & Development in …",
+   "year": "2018"
+  },
+  {
+   "title": "A comparison of statistical and rule-induction learners for automatic tagging of time expressions in english",
+   "authors": "J Poveda, M Surdeanu, J Turmo",
+   "venue": "14th International Symposium on Temporal Representation and Reasoning (TIME …",
+   "year": "2007"
+  },
+  {
+   "title": "Analysis of joint inference strategies for the semantic role labeling of Spanish and Catalan",
+   "authors": "M Surdeanu, R Morante, L Màrquez",
+   "venue": "International Conference on Intelligent Text Processing and Computational …",
+   "year": "2008"
+  },
+  {
+   "title": "Hiding in plain sight: Tweets with hate speech masked by homoglyphs",
+   "authors": "P Cooper, M Surdeanu, E Blanco",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 2922-2929",
+   "year": "2023"
+  },
+  {
+   "title": "If you want to go far go together: Unsupervised joint candidate evidence retrieval for multi-hop question answering",
+   "authors": "V Yadav, S Bethard, M Surdeanu",
+   "venue": "Proceedings of the 2021 conference of the North American chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Exploration of noise strategies in semi-supervised named entity classification",
+   "authors": "PL Narayan, A Nagesh, M Surdeanu",
+   "venue": "Proceedings of the Eighth Joint Conference on Lexical and Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Controlling information aggregation for complex question answering",
+   "authors": "H Kwon, H Trivedi, P Jansen, M Surdeanu, N Balasubramanian",
+   "venue": "European Conference on Information Retrieval, 750-757",
+   "year": "2018"
+  },
+  {
+   "title": "Systems and Methods for Using Non-Textual Information In Analyzing Patent Matters",
+   "authors": "M Surdeanu, IK Foster, CL Rydholm, RM Nallapati, JH Walker, ...",
+   "venue": "US Patent App. 13/745,117",
+   "year": "2014"
+  },
+  {
+   "title": "A multi-layer collaborative cache for question answering",
+   "authors": "D Dominguez-Sal, JL Larriba-Pey, M Surdeanu",
+   "venue": "European Conference on Parallel Processing, 295-306",
+   "year": "2007"
+  },
+  {
+   "title": "The TALP-QA system for Spanish at CLEF 2004: Structural and hierarchical relaxing of semantic constraints",
+   "authors": "D Ferrés, S Kanaan, A Ageno, E González, H Rodríguez, M Surdeanu, ...",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 557-568",
+   "year": "2004"
+  },
+  {
+   "title": "Tell me why: Using question answering as distant supervision for answer justification",
+   "authors": "R Sharp, M Surdeanu, P Jansen, MA Valenzuela-Escárcega, P Clark, ...",
+   "venue": "Proceedings of the 21st Conference on Computational Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Transmitting narrative: An interactive shift-summarization tool for improving nurse communication",
+   "authors": "A Forbes, M Surdeanu, P Jansen, J Carrington",
+   "venue": "Proceedings of the IEEE workshop on interactive visual text analytics …",
+   "year": "2013"
+  },
+  {
+   "title": "Cache-aware load balancing for question answering",
+   "authors": "D Dominguez-Sal, M Surdeanu, J Aguilar-Saborit, JL Larriba-Pey",
+   "venue": "Proceedings of the 17th ACM conference on Information and knowledge …",
+   "year": "2008"
+  },
+  {
+   "title": "Deep Learning for Natural Language Processing",
+   "authors": "M Surdeanu, MA Valenzuela-Escárcega",
+   "venue": "American history 1861 (1900)",
+   "year": "1945"
+  },
+  {
+   "title": "Change is the only constant: Dynamic llm slicing based on layer redundancy",
+   "authors": "RG Dumitru, PI Clotan, V Yadav, D Peteleaza, M Surdeanu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 9912-9920",
+   "year": "2024"
+  },
+  {
+   "title": "Memorization in in-context learning",
+   "authors": "S Golchin, M Surdeanu, S Bethard, E Blanco, E Riloff",
+   "venue": "arXiv preprint arXiv:2408.11546",
+   "year": "2024"
+  },
+  {
+   "title": "Semi-supervised teacher-student architecture for relation extraction",
+   "authors": "F Luo, A Nagesh, R Sharp, M Surdeanu",
+   "venue": "Proceedings of the third workshop on structured prediction for NLP, 29-37",
+   "year": "2019"
+  },
+  {
+   "title": "Systems and Methods for Classifying Entities",
+   "authors": "M Surdeanu, SE Jeruss, JH Walker",
+   "venue": "US Patent App. 14/207,223",
+   "year": "2014"
+  },
+  {
+   "title": "Corractive learning: Learning from noisy data through human interaction",
+   "authors": "R Nallapati, M Surdeanu, C Manning",
+   "venue": "IJCAI workshop on intelligence and interaction",
+   "year": "2009"
+  },
+  {
+   "title": "It takes two flints to make a fire: Multitask learning of neural relation and explanation classifiers",
+   "authors": "Z Tang, M Surdeanu",
+   "venue": "Computational Linguistics 49 (1), 117-156",
+   "year": "2023"
+  },
+  {
+   "title": "Best of both worlds: A pliable and generalizable neuro-symbolic approach for relation classification",
+   "authors": "R Vacareanu, F Alam, MA Islam, H Riaz, M Surdeanu",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2024, 2576-2594",
+   "year": "2024"
+  },
+  {
+   "title": "Do not mask randomly: Effective domain-adaptive pre-training by masking in-domain keywords",
+   "authors": "S Golchin, M Surdeanu, N Tavabi, A Kiapour",
+   "venue": "Proceedings of the 8th Workshop on Representation Learning for NLP (RepL4NLP …",
+   "year": "2023"
+  },
+  {
+   "title": "University of arizona at semeval-2019 task 12: Deep-affix named entity recognition of geolocation entities",
+   "authors": "V Yadav, E Laparra, TT Wang, M Surdeanu, S Bethard",
+   "venue": "Proceedings of the 13th international workshop on semantic evaluation, 1319-1323",
+   "year": "2019"
+  },
+  {
+   "title": "A new approach to space domain awareness at the University of Arizona",
+   "authors": "M Hart, M Jah, D Gaylor, BCT Eyck, E Butcher, EL Corral, R Furfaro, ...",
+   "venue": "NATO Symposium on Considerations for Space and Space-Enabled Capabilities in …",
+   "year": "2016"
+  },
+  {
+   "title": "Blind domain transfer for named entity recognition using generative latent topic models",
+   "authors": "R Nallapati, M Surdeanu, C Manning",
+   "venue": "Proceedings of the NIPS 2010 workshop on transfer learning via rich …",
+   "year": "2010"
+  },
+  {
+   "title": "An analysis of bootstrapping for the recognition of temporal expressions",
+   "authors": "J Poveda, M Surdeanu, J Turmo",
+   "venue": "Proceedings of the NAACL HLT 2009 workshop on semi-supervised learning for …",
+   "year": "2009"
+  },
+  {
+   "title": "Active learning design choices for NER with transformers",
+   "authors": "R Vacareanu, E Noriega-Atala, G Hahn-Powell, ...",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Lightly-supervised representation learning with global interpretability",
+   "authors": "MA Valenzuela-Escárcega, A Nagesh, M Surdeanu",
+   "venue": "arXiv preprint arXiv:1805.11545",
+   "year": "2018"
+  },
+  {
+   "title": "UPC: Experiments with joint learning within semeval task 9",
+   "authors": "L Màrquez, L Padró, M Surdeanu, L Villarejo",
+   "venue": "Proceedings of the Fourth International Workshop on Semantic Evaluations …",
+   "year": "2007"
+  },
+  {
+   "title": "NEUROSTRUCTURAL DECODING: Neural text generation with structural constraints",
+   "authors": "M Bastan, M Surdeanu, N Balasubramanian",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Towards the necessity for debiasing natural language inference datasets",
+   "authors": "MP Panenghat, S Suntwal, F Rafique, R Sharp, M Surdeanu",
+   "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference …",
+   "year": "2020"
+  },
+  {
+   "title": "Detecting diabetes risk from social media activity",
+   "authors": "D Bell, E Laparra, A Kousik, T Ishihara, M Surdeanu, S Kobourov",
+   "venue": "Proceedings of the Ninth International Workshop on Health Text Mining and …",
+   "year": "2018"
+  },
+  {
+   "title": "Swanson linking revisited: Accelerating literature-based discovery across domains using a conceptual influence graph",
+   "authors": "G Hahn-Powell, MA Valenzuela-Escárcega, M Surdeanu",
+   "venue": "Proceedings of ACL 2017, System Demonstrations, 103-108",
+   "year": "2017"
+  },
+  {
+   "title": "SnapToGrid: From statistical to interpretable models for biomedical information extraction",
+   "authors": "MA Valenzuela-Escárcega, G Hahn-Powell, D Bell, M Surdeanu",
+   "venue": "Proceedings of the 15th Workshop on Biomedical Natural Language Processing …",
+   "year": "2016"
+  },
+  {
+   "title": "Identifying patent monetization entities",
+   "authors": "M Surdeanu, S Jeruss",
+   "venue": "Proceedings of the Fourteenth International Conference on Artificial …",
+   "year": "2013"
+  },
+  {
+   "title": "A machine learning approach for factoid question answering",
+   "authors": "D Dominguez-Sal, M Surdeanu",
+   "venue": "Procesamiento del Lenguaje Natural, 131-136",
+   "year": "2006"
+  },
+  {
+   "title": "Towards realistic few-shot relation extraction: A new meta dataset and evaluation",
+   "authors": "F Alam, MA Islam, R Vacareanu, M Surdeanu",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Validity assessment of legal will statements as natural language inference",
+   "authors": "A Kwak, J Israelsen, CT Morrison, D Bambauer, M Surdeanu",
+   "venue": "Findings Of The Association For Computational Linguistics: EMNLP 2022, 6047-6056",
+   "year": "2022"
+  },
+  {
+   "title": "Informal persian universal dependency treebank",
+   "authors": "R Kabiri, S Karimi, M Surdeanu",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "An investigation of coreference phenomena in the biomedical domain",
+   "authors": "D Bell, G Hahn-Powell, MA Valenzuela-Escarcega, M Surdeanu",
+   "venue": "Proceedings of the Tenth Edition of the Language Resources and Evaluation …",
+   "year": "2016"
+  },
+  {
+   "title": "Variable Layerwise Quantization: A Simple and Effective Approach to Quantize LLMs",
+   "authors": "RG Dumitru, V Yadav, R Maheshwary, PI Clotan, ST Madhusudhan, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 534-550",
+   "year": "2025"
+  },
+  {
+   "title": "Improving zero-shot relation classification via automatically-acquired entailment templates",
+   "authors": "M Rahimi, M Surdeanu",
+   "venue": "Proceedings of the 8th Workshop on Representation Learning for NLP (RepL4NLP …",
+   "year": "2023"
+  },
+  {
+   "title": "From examples to rules: Neural guided rule synthesis for information extraction",
+   "authors": "R Vacareanu, MA Valenzuela-Escárcega, GCG Barbosa, R Sharp, ...",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "An unsupervised method for learning representations of multi-word expressions for semantic classification",
+   "authors": "R Vacareanu, MA Valenzuela-Escarcega, R Sharp, M Surdeanu",
+   "venue": "Proceedings of the 28th international conference on computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Science citation knowledge extractor",
+   "authors": "H Lent, G Hahn-Powell, A Haug-Baltzell, S Davey, M Surdeanu, E Lyons",
+   "venue": "Frontiers in Research Metrics and Analytics 3, 35",
+   "year": "2018"
+  },
+  {
+   "title": "Scientific discovery as link prediction in influence and citation graphs",
+   "authors": "F Luo, MA Valenzuela-Escárcega, G Hahn-Powell, M Surdeanu",
+   "venue": "Proceedings of the Twelfth Workshop on Graph-Based Methods for Natural …",
+   "year": "2018"
+  },
+  {
+   "title": "Grounding gradable adjectives through crowdsourcing",
+   "authors": "R Sharp, M Paul, A Nagesh, D Bell, M Surdeanu",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Text annotation graphs: Annotating complex natural language phenomena",
+   "authors": "A Forbes, K Lee, G Hahn-Powell, MA Valenzuela-Escárcega, M Surdeanu",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Visual supervision in bootstrapped information extraction",
+   "authors": "M Berger, A Nagesh, J Levine, M Surdeanu, H Zhang",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Sieve-based coreference resolution in the biomedical domain",
+   "authors": "D Bell, G Hahn-Powell, MA Valenzuela-Escárcega, M Surdeanu",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "TALP-UPC at TREC 2005: Experiments Using a Voting Scheme Among Three Heterogeneous QA Systems.",
+   "authors": "D Ferrés, S Kanaan, D Dominguez-Sal, E González, A Ageno, MF Fort, ...",
+   "venue": "TREC",
+   "year": "2005"
+  },
+  {
+   "title": "Distributed Java virtual machine for message passing architectures",
+   "authors": "M Surdeanu",
+   "venue": "Proceedings 20th IEEE International Conference on Distributed Computing …",
+   "year": "2000"
+  },
+  {
+   "title": "On learning bipolar gradual argumentation semantics with neural networks",
+   "authors": "C Al Anaissy, S Suntwal, M Surdeanu, S Vesic",
+   "venue": "16th International Conference on Agents and Artificial Intelligence, 493-499",
+   "year": "2024"
+  },
+  {
+   "title": "Keep your bearings: Lightly-supervised information extraction with ladder networks that avoids semantic drift",
+   "authors": "A Nagesh, M Surdeanu",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Data and model distillation as a solution for domain-transferable fact verification",
+   "authors": "MP Mithun, S Suntwal, M Surdeanu",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "An exploration of three lightly-supervised representation learning approaches for named entity classification",
+   "authors": "A Nagesh, M Surdeanu",
+   "venue": "Proceedings of the 27th International Conference on Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Towards using social media to identify individuals at risk for preventable chronic illness",
+   "authors": "D Bell, D Fried, L Huangfu, M Surdeanu, S Kobourov",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Selected articles from the BioNLP Shared Task 2011",
+   "authors": "JD Kim, S Pyysalo, C Nédellec, S Ananiadou, J Tsujii",
+   "venue": "BMC Bioinformatics",
+   "year": "2012"
+  },
+  {
+   "title": "Some Advanced Features Of Cc's Poweranswer",
+   "authors": "D Moldovan, M Pasca, M Surdeanu",
+   "venue": "Advances in Open Domain Question Answering, 3-34",
+   "year": "2008"
+  },
+  {
+   "title": "Robust question answering for speech transcripts using minimal syntactic analysis",
+   "authors": "PR Comas, J Turmo, M Surdeanu",
+   "venue": "Workshop of the Cross-Language Evaluation Forum for European Languages, 424-432",
+   "year": "2007"
+  },
+  {
+   "title": "Can llms judge debates? evaluating non-linear reasoning via argumentation theory semantics",
+   "authors": "R Sanayei, S Vesic, E Blanco, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2509.15739",
+   "year": "2025"
+  },
+  {
+   "title": "ELLEN: Extremely lightly supervised learning for efficient named entity recognition",
+   "authors": "H Riaz, RG Dumitru, M Surdeanu",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Transferring Legal Natural Language Inference Model from a US State to Another: What Makes It So Hard?",
+   "authors": "A Kwak, G Forte, D Bambauer, M Surdeanu",
+   "venue": "Proceedings Of The Natural Legal Language Processing Workshop 2023, 215-222",
+   "year": "2023"
+  },
+  {
+   "title": "Sume: A dataset towards summarizing biomedical mechanisms",
+   "authors": "M Bastan, N Shankar, M Surdeanu, N Balasubramanian",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "Combining extraction and generation for constructing belief-consequence causal links",
+   "authors": "M Alexeeva, AAB Cohen, M Surdeanu",
+   "venue": "Proceedings of the Third Workshop on Insights from Negative Results in NLP …",
+   "year": "2022"
+  },
+  {
+   "title": "Interpretability rules: Jointly bootstrapping a neural relation extractorwith an explanation decoder",
+   "authors": "Z Tang, M Surdeanu",
+   "venue": "Proceedings of the first workshop on trustworthy natural language processing …",
+   "year": "2021"
+  },
+  {
+   "title": "What does the language of foods say about us?",
+   "authors": "H Van, A Musa, H Chen, S Kobourov, M Surdeanu",
+   "venue": "Proceedings of the Tenth International Workshop on Health Text Mining and …",
+   "year": "2019"
+  },
+  {
+   "title": "On the use of evolutive summary counters in distributed retrieval systems",
+   "authors": "D Dominguez-Sal, J Aguilar-Saborit, M Surdeanu, J Larriba-Pey",
+   "venue": "Technical report. UPC-DAC-RR-DAMA-2008-1",
+   "year": "2008"
+  },
+  {
+   "title": "The UPC System for Arabic-to-English Entity Translation",
+   "authors": "D Farwell, J Giménez, E González, R Halkoum, H Rodrıguez, M Surdeanu",
+   "venue": "Proceedings of the Automatic Content Extraction (ACE) Evaluation Program",
+   "year": "2007"
+  },
+  {
+   "title": "Towards compute-optimal many-shot in-context learning",
+   "authors": "S Golchin, Y Chen, R Han, M Gandhi, T Yu, S Mishra, M Surdeanu, ...",
+   "venue": "arXiv preprint arXiv:2507.16217",
+   "year": "2025"
+  },
+  {
+   "title": "The lies characters tell: Utilizing large language models to normalize adversarial Unicode perturbations",
+   "authors": "P Cooper, E Blanco, M Surdeanu",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 18932-18944",
+   "year": "2025"
+  },
+  {
+   "title": "Morphnli: A stepwise approach to natural language inference using text morphing",
+   "authors": "VA Negru, R Vacareanu, C Lemnaru, M Surdeanu, R Potolea",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 6953-6968",
+   "year": "2025"
+  },
+  {
+   "title": "Copyspec: Accelerating llms with speculative copy-and-paste without compromising quality",
+   "authors": "RG Dumitru, M Yang, V Yadav, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2502.08923",
+   "year": "2025"
+  },
+  {
+   "title": "Divide & conquer for entailment-aware multi-hop evidence retrieval",
+   "authors": "F Luo, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2311.02616",
+   "year": "2023"
+  },
+  {
+   "title": "A compact pretraining approach for neural language models",
+   "authors": "S Golchin, M Surdeanu, N Tavabi, A Kiapour",
+   "venue": "arXiv preprint arXiv:2208.12367",
+   "year": "2022"
+  },
+  {
+   "title": "A Human-machine Interface for Few-shot Rule Synthesis for Information Extraction",
+   "authors": "R Vacareanu, GCG Barbosa, E Noriega-Atala, G Hahn-Powell, R Sharp, ...",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Do transformer networks improve the discovery of rules from text?",
+   "authors": "M Rahimi, M Surdeanu",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "A STEP towards Interpretable Multi-Hop Reasoning: Bridge Phrase Identification and Query Expansion",
+   "authors": "F Luo, M Surdeanu",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "Neural architectures for biological inter-sentence relation extraction",
+   "authors": "E Noriega-Atala, PM Lovett, CT Morrison, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2112.09288",
+   "year": "2021"
+  },
+  {
+   "title": "Using the hammer only on nails: A hybrid method for representation-based evidence retrieval for question answering",
+   "authors": "Z Liang, Y Zhao, M Surdeanu",
+   "venue": "European Conference on Information Retrieval, 327-341",
+   "year": "2021"
+  },
+  {
+   "title": "A study of calorie estimation in pictures of food",
+   "authors": "J Zhou, D Bell, S Nusrat, M Hingle, M Surdeanu, S Kobourov",
+   "venue": "Interact J Med Res 7",
+   "year": "2017"
+  },
+  {
+   "title": "Using evolutive summary counters for efficient cooperative caching in search engines",
+   "authors": "D Dominguez-Sal, J Aguilar-Saborit, M Surdeanu, JL Larriba-Pey",
+   "venue": "IEEE Transactions on Parallel and Distributed Systems 23 (4), 776-784",
+   "year": "2011"
+  },
+  {
+   "title": "Alignsae: Concept-aligned sparse autoencoders",
+   "authors": "M Yang, X Guo, Z Shi, J Bi, S Bethard, M Surdeanu, L Pan",
+   "venue": "arXiv preprint arXiv:2512.02004",
+   "year": "2025"
+  },
+  {
+   "title": "CopySpec: Accelerating LLMs with speculative copy-and-paste",
+   "authors": "RG Dumitru, M Yang, V Yadav, M Surdeanu",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "A Framework to Retrieve Relevant Laws for Will Execution",
+   "authors": "MA Islam, AS Kwak, D Bambauer, CT Morrison, M Surdeanu",
+   "venue": "Proceedings of the Natural Legal Language Processing Workshop 2025, 338-350",
+   "year": "2025"
+  },
+  {
+   "title": "Enhancing transformer rnns with multiple temporal perspectives",
+   "authors": "RG Dumitru, D Peteleaza, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2402.02625",
+   "year": "2024"
+  },
+  {
+   "title": "It’s not sexually suggestive; it’s educative| separating sex education from suggestive content on tiktok videos",
+   "authors": "E Fane, M Surdeanu",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 5904-5915",
+   "year": "2023"
+  },
+  {
+   "title": "Synthetic dataset for evaluating complex compositional knowledge for natural language inference",
+   "authors": "SA Akoju, R Vacareanu, E Blanco, H Riaz, M Surdeanu",
+   "venue": "Proceedings of the 1st Workshop on Natural Language Reasoning and Structured …",
+   "year": "2023"
+  },
+  {
+   "title": "Explainable verbal reasoner plus (evr+): A natural language reasoning framework that supports diverse compositional reasoning",
+   "authors": "Z Liang, Z Zhang, S Bethard, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2305.00061",
+   "year": "2023"
+  },
+  {
+   "title": "PatternRank: Jointly ranking patterns and extractions for relation extraction using graph-based algorithms",
+   "authors": "R Vacareanu, D Bell, M Surdeanu",
+   "venue": "Proceedings of the First Workshop on Pattern-based Approaches to NLP in the …",
+   "year": "2022"
+  },
+  {
+   "title": "Do Transformers Dream of Inference, or Can Pretrained Generative Models Learn Implicit Inferential Rules?",
+   "authors": "Z Liang, M Surdeanu",
+   "venue": "Proceedings of the First Workshop on Insights from Negative Results in NLP …",
+   "year": "2020"
+  },
+  {
+   "title": "The language of food during the pandemic: Hints about the dietary effects of covid-19",
+   "authors": "H Van, A Musa, M Surdeanu, S Kobourov",
+   "venue": "arXiv preprint arXiv:2010.07466",
+   "year": "2020"
+  },
+  {
+   "title": "Using the Hammer Only on Nails: A Hybrid Method for Evidence Retrieval for Question Answering",
+   "authors": "Z Liang, Y Zhao, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2009.10791",
+   "year": "2020"
+  },
+  {
+   "title": "Having your cake and eating it too: Training neural retrieval for language inference without losing lexical match",
+   "authors": "V Yadav, S Bethard, M Surdeanu",
+   "venue": "Proceedings of the 43rd International ACM SIGIR Conference on Research and …",
+   "year": "2020"
+  },
+  {
+   "title": "Learning what to read: Focused machine reading",
+   "authors": "E Noriega-Atala, MA Valenzuela-Escárcega, CT Morrison, M Surdeanu",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Structured Semantic Information Helps Retrieve Better Examples for In-Context Learning in Few-Shot Relation Extraction",
+   "authors": "A Chakma, M Surdeanu, E Blanco",
+   "venue": "arXiv e-prints, arXiv: 2601.20803",
+   "year": "2026"
+  },
+  {
+   "title": "Relation-Aware Prompting Makes Large Language Models Effective Zero-shot Relation Extractors",
+   "authors": "M Rahimi, RG Dumitru, M Surdeanu",
+   "venue": "Proceedings of the 14th Joint Conference on Lexical and Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Information Extraction from Conversation Transcripts: Neuro-Symbolic vs. LLM",
+   "authors": "AS Kwak, M Alexeeva, G Hahn-Powell, K Alcock, K McLaughlin, ...",
+   "venue": "arXiv preprint arXiv:2510.12023",
+   "year": "2025"
+  },
+  {
+   "title": "Fane at SemEval-2025 Task 10: Zero-Shot Entity Framing with Large Language Models",
+   "authors": "E Fane, M Surdeanu, E Blanco, S Corman",
+   "venue": "Proceedings of the 19th International Workshop on Semantic Evaluation …",
+   "year": "2025"
+  },
+  {
+   "title": "Sound-based Mosquito Classification via Featurization and Machine Learning",
+   "authors": "D Gupta, A Gadre",
+   "venue": "2024 IEEE 7th International Conference on Big Data and Artificial …",
+   "year": "2024"
+  },
+  {
+   "title": "Retrieval augmented generation of subjective explanations for socioeconomic scenarios",
+   "authors": "RG Dumitru, M Alexeeva, K Alcock, N Ludgate, C Jeong, ...",
+   "venue": "Proceedings of the Sixth Workshop on Natural Language Processing and …",
+   "year": "2024"
+  },
+  {
+   "title": "From Text to Taste: Advancing Smart Appliances with Multilingual Recipe Interpretation",
+   "authors": "VA Negru, R Vacareanu, C Lemnaru, M Surdeanu, R Potolea",
+   "venue": "2024 IEEE 40th International Conference on Data Engineering Workshops (ICDEW …",
+   "year": "2024"
+  },
+  {
+   "title": "Annotating and training for population subjective views",
+   "authors": "M Alexeeva, C Hyland, K Alcock, AAB Cohen, H Kanyamahanga, IK Anni, ...",
+   "venue": "Proceedings of the 13th Workshop on Computational Approaches to Subjectivity …",
+   "year": "2023"
+  },
+  {
+   "title": "Bootstrapping neural relation and explanation classifiers",
+   "authors": "Z Tang, M Surdeanu",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Better retrieval may not lead to better question answering",
+   "authors": "Z Liang, T Khot, S Bethard, M Surdeanu, A Sabharwal",
+   "venue": "arXiv preprint arXiv:2205.03685",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding the polarity of events in the biomedical literature: deep learning vs. linguistically-informed methods",
+   "authors": "E Noriega-Atala, Z Liang, J Bachman, CT Morrison, M Surdeanu",
+   "venue": "Proceedings of the Workshop on Extracting Structured Knowledge from …",
+   "year": "2019"
+  },
+  {
+   "title": "Enabling search and collaborative assembly of causal interactions extracted from multilingual and multi-domain free text",
+   "authors": "GCG Barbosa, Z Wong, G Hahn-Powell, D Bell, R Sharp, ...",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "MLStar: machine learning in energy profile estimation of android apps",
+   "authors": "B Gaska, C Gniady, M Surdeanu",
+   "venue": "Proceedings of the 15th EAI International Conference on Mobile and …",
+   "year": "2018"
+  },
+  {
+   "title": "A mostly unlexicalized model for recognizing textual entailment",
+   "authors": "M Paul, R Sharp, M Surdeanu",
+   "venue": "Proceedings of the first workshop on fact extraction and verification (FEVER …",
+   "year": "2018"
+  },
+  {
+   "title": "Rematch: Research expert matching system",
+   "authors": "MI Hossain, S Kobourov, H Purchase, M Surdeanu",
+   "venue": "2018 International Symposium on Big Data Visual and Immersive Analytics …",
+   "year": "2018"
+  },
+  {
+   "title": "Bootstrapping polar-opposite emotion dimensions from online reviews",
+   "authors": "L Huangfu, M Surdeanu",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Load balancing for question answering",
+   "authors": "D Dominguez-Sal, M Surdeanu, J Aguilar-Saborit, J Larriba-Pey",
+   "venue": "Technical Report UPC-DAC-RR-DAMA-2008-2",
+   "year": "2008"
+  },
+  {
+   "title": "Infrastructure for Open-Domain Information Extraction",
+   "authors": "S Harabagiu, M Surdeanu",
+   "venue": "Proceedings of Human Language Technology 2002 (HLT 2002)",
+   "year": "2002"
+  },
+  {
+   "title": "Automatic Discovery of Linguistic Patterns for Information Extraction.",
+   "authors": "SM Harabagiu, M Surdeanu, P Morarescu",
+   "venue": "FLAIRS, 449-453",
+   "year": "2001"
+  },
+  {
+   "title": "SVMs for the Temporal Expresión Chunking Problem",
+   "authors": "JP Poveda, M Surdeanu",
+   "venue": "",
+   "year": "1997"
+  },
+  {
+   "title": "A Lightweight Explainable Guardrail for Prompt Safety",
+   "authors": "MA Islam, M Surdeanu",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "From Symbolic to Neurosymbolic Information Extraction",
+   "authors": "M Surdeanu, MA Valenzuela‐Escárcega, G Hahn‐Powell, R Vacareanu, ...",
+   "venue": "Neurosymbolic AI: Foundations and Applications, 383-428",
+   "year": "2026"
+  },
+  {
+   "title": "Say Less, Mean More: Leveraging Pragmatics in Retrieval-Augmented Generation",
+   "authors": "H Riaz, E Riloff, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2502.17839",
+   "year": "2025"
+  },
+  {
+   "title": "The Grid: A semi-automated tool to support expert-driven modeling",
+   "authors": "AAB Cohen, M Alexeeva, K Alcock, M Surdeanu",
+   "venue": "Proceedings of the 1st Workshop on NLP for Science (NLP4Science), 219-229",
+   "year": "2024"
+  },
+  {
+   "title": "Perturbation-based Active Learning for Question Answering",
+   "authors": "F Luo, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2311.02345",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Pattern-based Approaches to NLP in the Age of Deep Learning",
+   "authors": "L Chiticariu, Y Goldberg, G Hahn-Powell, CT Morrison, A Naik, R Sharp, ...",
+   "venue": "Proceedings of the First Workshop on Pattern-based Approaches to NLP in the …",
+   "year": "2022"
+  },
+  {
+   "title": "Learning Open Domain Multi-hop Search Using Reinforcement Learning",
+   "authors": "E Noriega-Atala, M Surdeanu, CT Morrison",
+   "venue": "Proceedings of the Workshop on Structured and Unstructured Knowledge …",
+   "year": "2022"
+  },
+  {
+   "title": "Automatic Correction of Syntactic Dependency Annotation Differences",
+   "authors": "A Zupon, A Carnie, M Hammond, M Surdeanu",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "Answering geosciences research questions at a global scale via a hybrid machine-human learning approach: a case study of the link between climate and volcanism",
+   "authors": "S Park, B Carrapa, MN Ducea, M Surdeanu, R Hayes, D Collins",
+   "venue": "Geological Society of America",
+   "year": "2022"
+  },
+  {
+   "title": "An analysis of capsule networks for part of speech tagging in high-and low-resource scenarios",
+   "authors": "A Zupon, F Rafique, M Surdeanu",
+   "venue": "Proceedings of the First Workshop on Insights from Negative Results in NLP …",
+   "year": "2020"
+  },
+  {
+   "title": "A Gentle Introduction to Deep Learning for Natural Language Processing",
+   "authors": "M Surdeanu",
+   "venue": "google Scholar, 1-63",
+   "year": "2020"
+  },
+  {
+   "title": "Proceedings of the Thirteenth Workshop on Graph-Based Methods for Natural Language Processing (TextGraphs-13)",
+   "authors": "D Ustalov, S Somasundaran, P Jansen, G Glavaš, M Riedl, M Surdeanu, ...",
+   "venue": "Proceedings of the Thirteenth Workshop on Graph-Based Methods for Natural …",
+   "year": "2019"
+  },
+  {
+   "title": "Language technologies: question answering in speech transcripts",
+   "authors": "J Turmo, M Surdeanu, O Galibert, S Rosset",
+   "venue": "Computers in the Human Interaction Loop, 75-86",
+   "year": "2009"
+  },
+  {
+   "title": "Distributed processing applied to question answering",
+   "authors": "M Surdeanu",
+   "venue": "Southern Methodist University",
+   "year": "2001"
+  },
+  {
+   "title": "Fallibility, persuadability, and correctability of large language models under sustained conversational misinformation pressure",
+   "authors": "J Rodriguez, Z Hansen, L De Anda, K Rohrer, C Grubb, E Noriega-Atala, ...",
+   "venue": "Scientific Reports",
+   "year": "2026"
+  },
+  {
+   "title": "Query Expansion Is More Than Generation: Improving Dense Retrieval through Better Integration",
+   "authors": "S Sun, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2608.25521",
+   "year": "2026"
+  },
+  {
+   "title": "Beyond Sequence Order: Syntax-Informed Positional Embeddings for Transformers",
+   "authors": "H Riaz, H Kim, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2608.06111",
+   "year": "2026"
+  },
+  {
+   "title": "A Dual-Hypothesis Reasoning Framework for LLM Guardrails",
+   "authors": "MA Islam, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2607.17575",
+   "year": "2026"
+  },
+  {
+   "title": "Structured Semantic Information Helps Retrieve Better Examples for In-Context Learning Applied to Few-Shot Relation Extraction",
+   "authors": "A Chakma, M Surdeanu, E Blanco",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Two-Stage Prompt Optimization for Few-Shot Relation Extraction: From Reasoning-Guided Search to Gradient-Guided Refinement",
+   "authors": "A Chakma, M Surdeanu, E Blanco",
+   "venue": "arXiv preprint arXiv:2606.29639",
+   "year": "2026"
+  },
+  {
+   "title": "Towards Complex Debate Understanding: Predicting Claim Impact Scores Through the Modelling of Claim Interactions",
+   "authors": "M Brouat, M Surdeanu, S Vesic, E Blanco",
+   "venue": "Proceedings of the Fifteenth Language Resources and Evaluation Conference …",
+   "year": "2026"
+  },
+  {
+   "title": "Bridging the Long-Tail Gap: Robust Retrieval-Augmented Relation Completion via Multi-Stage Paraphrase Infusion",
+   "authors": "F Alam, M Surdeanu, E Riloff",
+   "venue": "arXiv preprint arXiv:2604.22261",
+   "year": "2026"
+  },
+  {
+   "title": "Bidirectional Small-Granularity Search between Code and Text",
+   "authors": "MA Valenzuela-Escárcega, E Noriega-Atala, G Hahn-Powell, CT Morrison, ...",
+   "venue": "arXiv preprint arXiv:2606.07519",
+   "year": "2026"
+  },
+  {
+   "title": "Understanding Cultural Alignment in Multilingual LLMs via Natural Debate Statements",
+   "authors": "VA Negru, C Lemnaru, M Surdeanu, R Potolea",
+   "venue": "arXiv preprint arXiv:2602.12878",
+   "year": "2026"
+  },
+  {
+   "title": "The Alchemy of Thought: Understanding In-Context Learning Through Supervised Classification",
+   "authors": "H Narnoli, M Surdeanu",
+   "venue": "Proceedings of the 14th International Joint Conference on Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Digital Twin Platform for Smart Training and Assessment in Extended Reality",
+   "authors": "R Lan, M Surdeanu, E Azimi",
+   "venue": "2025 IEEE International Symposium on Mixed and Augmented Reality Adjunct …",
+   "year": "2025"
+  },
+  {
+   "title": "The Answer Lies Within: Self-Derived Rewards Enable Explainable Relation Extraction",
+   "authors": "X Guo, Z Shi, M Yang, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2510.06198",
+   "year": "2025"
+  },
+  {
+   "title": "Information Extraction from Conversation Transcripts: Neuro-Symbolic vs. LLM",
+   "authors": "A Saebom Kwak, M Alexeeva, G Hahn-Powell, K Alcock, K McLaughlin, ...",
+   "venue": "arXiv e-prints, arXiv: 2510.12023",
+   "year": "2025"
+  },
+  {
+   "title": "Peeking inside the Black-Box: Reinforcement Learning for Explainable and Accurate Relation Extraction.",
+   "authors": "X Guo, Z Shi, M Yang, M Rahimi, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2510.06198",
+   "year": "2025"
+  },
+  {
+   "title": "Finding a Wolf in Sheep's Clothing: Combating Adversarial Text-To-Image Prompts with Text Summarization",
+   "authors": "P Cooper, H Narnoli, M Surdeanu",
+   "venue": "arXiv preprint arXiv:2412.12212",
+   "year": "2024"
+  },
+  {
+   "title": "When and Where Did it Happen? An Encoder-Decoder Model to Identify Scenario Context",
+   "authors": "E Noriega-Atala, R Vacareanu, ST Ashton, A Pyarelal, CT Morrison, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 3821-3829",
+   "year": "2024"
+  },
+  {
+   "title": "Predicting Mining activities dynamics in Ghana: A Fusion of Social beliefs and Remote Sensing",
+   "authors": "G Metsa WOWO, PC Sibiry Traore, V Joshi, P Cohen, J Mumo Mutuku, ...",
+   "venue": "European Geosciences Union General Assembly 2024 (EGU24), 5509",
+   "year": "2024"
+  },
+  {
+   "title": "Predicting Mining activities dynamics in Ghana: A Fusion of Social beliefs and Remote Sensing",
+   "authors": "GM WOWO, PCS Traore, V Joshi, P Cohen, JM Mutuku, M Surdeanu, ...",
+   "venue": "EGU24",
+   "year": "2024"
+  },
+  {
+   "title": "On the Feasibility of Learning Bipolar Gradual Argumentation Semantics Using Neural Architectures",
+   "authors": "C Al Anaissy, S Suntwal, M Surdeanu, S Vesic",
+   "venue": "International Conference on Agents and Artificial Intelligence, 176-190",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Pattern-based Approaches to NLP in the Age of Deep Learning",
+   "authors": "M Surdeanu, E Riloff, L Chiticariu, D Frietag, G Hahn-Powell, CT Morrison, ...",
+   "venue": "Proceedings of the 2nd Workshop on Pattern-based Approaches to NLP in the …",
+   "year": "2023"
+  },
+  {
+   "title": "Efficient Knowledge Retrieval and Understanding of Complex Socio-Environmental System from Diverse Digital Data Sources and Analyses.",
+   "authors": "VR Joshi, M Alexeeva, K Alcock, GM Wowo, J Mutuku, PCS Traore, ...",
+   "venue": "ASA, CSSA, SSSA International Annual Meeting",
+   "year": "2023"
+  },
+  {
+   "title": "Bootstrapping Neural Relation and Explanation Classifiers",
+   "authors": "T Zheng, M Surdeanu",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference",
+   "authors": "S Anand Akoju, R Vacareanu, H Riaz, E Blanco, M Surdeanu",
+   "venue": "arXiv e-prints, arXiv: 2307.05034",
+   "year": "2023"
+  },
+  {
+   "title": "GRASP: Global Reading and Assembly for Semantic, Probabilistic World Models",
+   "authors": "M Surdeanu",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Domain transferrable fact verification systems and methods",
+   "authors": "P Mithun, M Surdeanu, S Suntwal, R Sharp",
+   "venue": "US Patent App. 17/736,683",
+   "year": "2022"
+  },
+  {
+   "title": "Efficient Parameterization of Crop Model for Large Scale Model Applications in Small-Holder Farming Systems",
+   "authors": "VR Joshi, GM Wowo, H Kanyamahanga, MA Zupon, IK Anni, K Alcock, ...",
+   "venue": "ASA, CSSA, SSSA International Annual Meeting",
+   "year": "2022"
+  },
+  {
+   "title": "Validity Assessment of Legal Will Statements as Natural Language Inference",
+   "authors": "A Saebom Kwak, JO Israelsen, CT Morrison, DE Bambauer, M Surdeanu",
+   "venue": "arXiv e-prints, arXiv: 2210.16989",
+   "year": "2022"
+  },
+  {
+   "title": "Taxonomy Builder: a Data-driven and User-centric Tool for Streamlining Taxonomy Construction",
+   "authors": "M Surdeanu, J Hungerford, YS Chan, J MacBride, B Gyori, A Zupon, ...",
+   "venue": "Proceedings of the Second Workshop on Bridging Human--Computer Interaction …",
+   "year": "2022"
+  },
+  {
+   "title": "Do Transformer Networks Improve the Discovery of Inference Rules from Text?",
+   "authors": "M Rahimi, M Surdeanu",
+   "venue": "LREC proceedings",
+   "year": "2022"
+  },
+  {
+   "title": "Methods for extracting and assessing information from literature documents",
+   "authors": "M Surdeanu, MAV Escarcega, G Hahn-Powell, D Bell, T Hicks, E Noriega, ...",
+   "venue": "US Patent App. 17/344,774",
+   "year": "2021"
+  },
+  {
+   "title": "Students Who Study Together Learn Better: On the Importance of Collective Knowledge Distillation for Domain Transfer in Fact Verification",
+   "authors": "MP Mithun, S Suntwal, M Surdeanu",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Discovering Undiscovered Public Knowledge with Influence Search",
+   "authors": "M Surdeanu",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "NEW TECHNOLOGIES AND ANALYTIC TECHNIQUES: TOWARDS INNOVATIONS IN MONITORING, MODELING, AND MODIFYING FOOD INTAKE",
+   "authors": "D Spruijt-Metz, MD Hingle, K de la Haye, J Lach, J Stankovic, S Kobourov, ...",
+   "venue": "ANNALS OF BEHAVIORAL MEDICINE 51, S642-S642",
+   "year": "2017"
+  },
+  {
+   "title": "Extracting Latent Attributes from Video Scenes Using Text as Background Knowledge",
+   "authors": "A Tran, M Surdeanu, P Cohen",
+   "venue": "Proceedings of the Third Joint Conference on Lexical and Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Removing Noisy Mentions for Distant Supervision",
+   "authors": "EMR para la Supervisión, DA Intxaurrondo, M Surdeanu, OL de Lacalle, ...",
+   "venue": "Procesamiento del Lenguaje Natural 51, 41-48",
+   "year": "2013"
+  },
+  {
+   "title": "On Negative Examples for Distantly-supervised Relation Extraction",
+   "authors": "M Surdeanu",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Combination Strategies for Semantic Role Labeling",
+   "authors": "M Surdeanu, L Màrquez, X Carreras, PR Comas",
+   "venue": "arXiv e-prints, arXiv: 1110.0029",
+   "year": "2011"
+  },
+  {
+   "title": "Professor and Erik Jonsson School Research Initiation Chair",
+   "authors": "MA Weinzierl, S Hopfer, SM Harabagiu, R Maldonado, TR Goodwin, ...",
+   "venue": "ACM Transactions on Information Systems 28 (3)",
+   "year": "2010"
+  },
+  {
+   "title": "A Simple Distant Supervision Approach for the KBP Slot Filling Task",
+   "authors": "M Surdeanu, D McClosky, J Tibshirani, J Bauer, A Chang, VI Spitkovsky, ...",
+   "venue": "Proceedings of the Knowledge Base Population Track of the Text Analysis …",
+   "year": "2010"
+  },
+  {
+   "title": "Projective dependency parsing with perceptron",
+   "authors": "X Carreras Pérez, M Surdeanu, L Màrquez Villodre",
+   "venue": "Tenth Conference on Computational Natural Language Learning (CoNLL-X), 181-185",
+   "year": "2010"
+  },
+  {
+   "title": "The CoNLL-2009 shared task",
+   "authors": "S Padó, J Hajič, M Ciaramita, Y Zhang, D Kawahara, N Xue, MA Martí, ...",
+   "venue": "Proceedings of the Thirteenth Conference on Computational Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "A Combination of Machine Learning Methods for the Recognition of Temporal Expressions",
+   "authors": "JP Poveda, M Surdeanu, JT Borras",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "A Bootstrapping Architecture for Time Expression Recognition in Unlabelled Corpora via Syntactic-Semantic Patterns",
+   "authors": "J Poveda, M Surdeanu, J Turmo",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "A Bootstrapping architecture for time expression recognition in unlabelled corpora via syntactic-semantic patterns",
+   "authors": "J Poveda Poveda, M Surdeanu, J Turmo Borras",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "TALP-UPC at TREC 2005: Experiments using voting scheme among three heterogeneous QA systems",
+   "authors": "D Ferrés Domènech, S Kanaan Izquierdo, E González Pellicer, ...",
+   "venue": "Proceedings of the Fourteenth Text REtrieval Conference, TREC 2005 …",
+   "year": "2005"
+  },
+  {
+   "title": "Do LLMs Acknowledge Disputed Facts? A Benchmark for Factual Pluralism in LLMs",
+   "authors": "E Fane, M Surdeanu",
+   "venue": "Pluralistic Alignment Workshop at ICML 2026",
+   "year": null
+  },
+  {
+   "title": "Synergy of Artificial Intelligence and Boolean Search in Patent Prior Art Assessment",
+   "authors": "AM Islam, R Vacarneau, JE Rodriguez, M Surdeanu, MJ Slepian",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Using Evolutive Summary Counters for Efficient Cooperative Caching in Search Engines (Supplementary material)",
+   "authors": "D Dominguez-Sal, J Aguilar-Saborit, M Surdeanu, JL Larriba-Pey",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "AsmembersoftheDissertationCommittee, wecertifythatwehavereadthedis-sertationpreparedbyMithunPaul, titledKnowledgeDistillationAsASolutionFor …",
+   "authors": "M Surdeanu, K Barnard, S Brown",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Using the Hammer Only on Nails: A Hybrid Method for Representation-based Evidence Retrieval for Question Answering",
+   "authors": "M Surdeanu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Calorie Estimation From Pictures of Food: Crowdsourcing Study",
+   "authors": "BE Jun Zhou, D Bell, S Nusrat, M Hingle, M Surdeanu, S Kobourov",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Using Evolutive Summary Counters for Efficient Cooperative Caching in Search Engines",
+   "authors": "M Surdeanu, J Lluis",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Focused Reading: Reinforcement Learning for What Documents to Read",
+   "authors": "E Noriega-Atala, MA Valenzuela-Escarcega, CT Morrison, M Surdeanu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Challenges for using social media for early detection of T2DM",
+   "authors": "D Bell, D Fried, L Huangfu, M Surdeanu, S Kobourov",
+   "venue": "International Workshop on Social Media World Sensors (Sideways) Workshop …",
+   "year": null
+  },
+  {
+   "title": "Southern Methodist University, Computer Science Department mihai@ seas. smu. edu",
+   "authors": "M Surdeanu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "People want to ask questions…",
+   "authors": "M Hearst, M Surdeanu, M Pasca",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "TALP-QA System for Spanish at CLEF 2004: Structural and Hierarchical Relaxing of Semantic Constraints Daniel Ferrées, Samir Kanaan, Alicia Ageno, Edgar Gonz éalez",
+   "authors": "H Rodréiguez, M Surdeanu, J Turmo",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

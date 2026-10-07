@@ -1,0 +1,113 @@
+{
+ "user": "uCRc7DgAAAAJ",
+ "pubs": [
+  {
+   "title": "An effective two-stage model for exploiting non-local dependencies in named entity recognition",
+   "authors": "V Krishnan, CD Manning",
+   "venue": "Proceedings of the 21st international conference on computational …",
+   "year": "2006"
+  },
+  {
+   "title": "Web spam detection with anti-trust rank.",
+   "authors": "V Krishnan, R Raj",
+   "venue": "AIRWeb 6, 37-40",
+   "year": "2006"
+  },
+  {
+   "title": "On addressing efficiency concerns in privacy-preserving mining",
+   "authors": "S Agrawal, V Krishnan, JR Haritsa",
+   "venue": "International Conference on Database Systems for Advanced Applications, 113-124",
+   "year": "2004"
+  },
+  {
+   "title": "Method for efficiently building compact models for large multi-class text classification",
+   "authors": "SK Selvaraj, D Pavlov, SJ Gaffney, NE Mayoraz, P Berkhin, V Krishnan, ...",
+   "venue": "US Patent App. 12/115,486",
+   "year": "2009"
+  },
+  {
+   "title": "Enhanced answer type inference from questions using sequential models",
+   "authors": "V Krishnan, SD Gollapalli, S Chakrabarti",
+   "venue": "Proceedings of human language technology conference and conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "Named entity recognition",
+   "authors": "V Krishnan, V Ganapathy",
+   "venue": "Stanf. Lect. CS229",
+   "year": "2005"
+  },
+  {
+   "title": "Comparison of automated and human assignment of MeSH terms on publicly-available molecular datasets",
+   "authors": "D Ruau, M Mbagwu, JT Dudley, V Krishnan, AJ Butte",
+   "venue": "Journal of biomedical informatics 44, S39-S43",
+   "year": "2011"
+  },
+  {
+   "title": "Named Entity Recognition. 2005",
+   "authors": "V Krishnan, V Ganapathy",
+   "venue": "Dostupno na: http://cs229. stanford. edu/proj2005/KrishnanGanapathy …",
+   "year": "2005"
+  },
+  {
+   "title": "Short comings of latent models in supervised settings",
+   "authors": "V Krishnan",
+   "venue": "Proceedings of the 28th annual international ACM SIGIR conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "Building blocks for semantic search engines: Ranking and compact indexing in entity-relation graphs",
+   "authors": "S Chakrabarti, A Agarwal, S Das, V Krishnan, K Puniyani",
+   "venue": "Keynote talk at the International Workshop on Intelligent Information Access …",
+   "year": "2006"
+  },
+  {
+   "title": "Text Search-Enhanced with Types and Entities",
+   "authors": "S Chakrabarti, S Das, V Krishnan, K Puniyani",
+   "venue": "Text Mining, 233",
+   "year": "2009"
+  },
+  {
+   "title": "Web spam detection with anti-trust rank",
+   "authors": "VK Stanford, V Krishnan",
+   "venue": "Proc. of the Second Int’l Workshop on Adversarial Information Retrieval on …",
+   "year": "2006"
+  },
+  {
+   "title": "Providing Efficiency in Privacy-Preserving Mining",
+   "authors": "S Agrawal, V Krishnan, J Haritsa",
+   "venue": "Tech. Rep. 2003-02, DSL/SERC, Indian Institute of Science",
+   "year": "2003"
+  },
+  {
+   "title": "Immunoglobulin-G4 Related Disease: A Rare Entity with Many Clinical Faces–Literature Review and Case Illustration",
+   "authors": "V Krishnan, H Seshadri, S Balachandran, V Aribalaji, U TB",
+   "venue": "Mediterranean Journal of Rheumatology 37 (1), 126",
+   "year": "2026"
+  },
+  {
+   "title": "AIRWeb 2006 Program",
+   "authors": "L Becchetti, C Castillo, D Donato, S Leonardi, T Urvoy, T Lavergne, ...",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "Document Clustering using the Aspect Model",
+   "authors": "V Krishnan",
+   "venue": "Indian Institute of Technology Bombay",
+   "year": "2002"
+  },
+  {
+   "title": "Learning Ranking Functions for Question Answering",
+   "authors": "V Krishnan",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Privacy-Preserving Mining of Association Rules",
+   "authors": "V Krishnan, S Agrawal, J Haritsa",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

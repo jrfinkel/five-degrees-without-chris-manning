@@ -1,0 +1,179 @@
+{
+ "user": "Np8Ek3cAAAAJ",
+ "pubs": [
+  {
+   "title": "OpenAI GPT-5 system card",
+   "authors": "A Singh, A Fry, A Perelman, A Tart, A Ganesh, A El-Kishky, A McLaughlin, ...",
+   "venue": "arXiv preprint arXiv:2601.03267",
+   "year": "2025"
+  },
+  {
+   "title": "Neural granger causality for nonlinear time series",
+   "authors": "A Tank, I Covert, N Foti, A Shojaie, E Fox",
+   "venue": "arXiv preprint arXiv:1802.05842",
+   "year": "2018"
+  },
+  {
+   "title": "Understanding global feature contributions with additive importance measures",
+   "authors": "I Covert, S Lundberg, SI Lee",
+   "venue": "arXiv preprint arXiv:2004.00668",
+   "year": "2020"
+  },
+  {
+   "title": "Algorithms to estimate Shapley value feature attributions",
+   "authors": "H Chen, IC Covert, SM Lundberg, SI Lee",
+   "venue": "Nature Machine Intelligence 5 (6), 590-601",
+   "year": "2023"
+  },
+  {
+   "title": "What does a platypus look like? Generating customized prompts for zero-shot image classification",
+   "authors": "S Pratt, I Covert, R Liu, A Farhadi",
+   "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision …",
+   "year": "2023"
+  },
+  {
+   "title": "Explaining by removing: a unified framework for model explanation",
+   "authors": "I Covert, S Lundberg, SI Lee",
+   "venue": "arXiv preprint arXiv:2011.14878",
+   "year": "2020"
+  },
+  {
+   "title": "Improving KernelSHAP: Practical Shapley value estimation using linear regression",
+   "authors": "I Covert, SI Lee",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 3457-3465",
+   "year": "2021"
+  },
+  {
+   "title": "FastSHAP: Real-time Shapley value estimation",
+   "authors": "N Jethani, M Sudarshan, I Covert, SI Lee, R Ranganath",
+   "venue": "arXiv e-prints, arXiv: 2107.07436",
+   "year": "2021"
+  },
+  {
+   "title": "Temporal graph convolutional networks for automatic seizure detection",
+   "authors": "IC Covert, B Krishnan, I Najm, J Zhan, M Shore, J Hixson, MJ Po",
+   "venue": "Machine learning for healthcare conference, 160-180",
+   "year": "2019"
+  },
+  {
+   "title": "A multimodal sleep foundation model for disease prediction",
+   "authors": "R Thapa, MR Kjaer, B He, I Covert, H Moore IV, U Hanif, G Ganjoo, ...",
+   "venue": "Nature Medicine 32 (2), 752-762",
+   "year": "2026"
+  },
+  {
+   "title": "Learning to maximize mutual information for dynamic feature selection",
+   "authors": "I Covert, W Qiu, M Lu, N Kim, N White, SI Lee",
+   "venue": "arXiv preprint arXiv:2301.00557",
+   "year": "2023"
+  },
+  {
+   "title": "Learning to estimate Shapley values with vision transformers",
+   "authors": "I Covert, C Kim, SI Lee",
+   "venue": "arXiv preprint arXiv:2206.05282",
+   "year": "2022"
+  },
+  {
+   "title": "Predictive and robust gene selection for spatial transcriptomics",
+   "authors": "I Covert, R Gala, T Wang, K Svoboda, U Sümbül, SI Lee",
+   "venue": "Nature Communications 14 (1), 2091",
+   "year": "2023"
+  },
+  {
+   "title": "Feature removal is a unifying principle for model explanation methods",
+   "authors": "I Covert, S Lundberg, SI Lee",
+   "venue": "arXiv preprint arXiv:2011.03623",
+   "year": "2020"
+  },
+  {
+   "title": "Dragonfly: multi-resolution zoom-in encoding enhances vision-language models",
+   "authors": "R Thapa, K Chen, I Covert, R Chalamala, B Athiwaratkun, SL Song, J Zou",
+   "venue": "arXiv preprint arXiv:2406.00977",
+   "year": "2024"
+  },
+  {
+   "title": "Stochastic amortization: a unified approach to accelerate feature and data attribution",
+   "authors": "I Covert, C Kim, SI Lee, J Zou, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2401.15866",
+   "year": "2024"
+  },
+  {
+   "title": "An interpretable and sparse neural network model for nonlinear granger causality discovery",
+   "authors": "A Tank, I Covert, NJ Foti, A Shojaie, EB Fox",
+   "venue": "arXiv preprint arXiv:1711.08160",
+   "year": "2017"
+  },
+  {
+   "title": "On the robustness of removal-based feature attributions",
+   "authors": "C Lin, I Covert, SI Lee",
+   "venue": "arXiv preprint arXiv:2306.07462",
+   "year": "2023"
+  },
+  {
+   "title": "Estimating conditional mutual information for dynamic feature selection",
+   "authors": "S Gadgil, I Covert, SI Lee",
+   "venue": "arXiv preprint arXiv:2306.03301",
+   "year": "2023"
+  },
+  {
+   "title": "Locality alignment improves vision-language models",
+   "authors": "I Covert, T Sun, J Zou, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2410.11087",
+   "year": "2024"
+  },
+  {
+   "title": "Scaling laws for the value of individual data points in machine learning",
+   "authors": "I Covert, W Ji, T Hashimoto, J Zou",
+   "venue": "arXiv preprint arXiv:2405.20456",
+   "year": "2024"
+  },
+  {
+   "title": "Disrupting model training with adversarial shortcuts",
+   "authors": "I Evtimov, I Covert, A Kusupati, T Kohno",
+   "venue": "arXiv preprint arXiv:2106.06654",
+   "year": "2021"
+  },
+  {
+   "title": "Feature selection in the contrastive analysis setting",
+   "authors": "E Weinberger, I Covert, SI Lee",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "Shapley feature utility",
+   "authors": "IC Covert, S Lundberg, SI Lee",
+   "venue": "Machine Learning in Computational Biology",
+   "year": "2019"
+  },
+  {
+   "title": "Deep unsupervised feature selection",
+   "authors": "I Covert, U Sumbul, SI Lee",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Transparent Machine Learning: Theory and Computation",
+   "authors": "IC Covert",
+   "venue": "University of Washington",
+   "year": "2023"
+  },
+  {
+   "title": "Learning to estimate shapley values with vision transformers (ViT-Shapley)",
+   "authors": "I Covert, C Kim, SI Lee",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Principal genes selection",
+   "authors": "IC Covert, U Sümbül, SI Lee",
+   "venue": "Machine Learning in Computational Biology",
+   "year": "2019"
+  },
+  {
+   "title": "Multi-Modal Contrastive Learning across Cardiac Diagnostics",
+   "authors": "B He, M Vukadinovic, G Duffy, J Zou, D Ouyang, R Thapa, MR Kjær, ...",
+   "venue": "Division of Artificial Intelligence in Medicine, Department of Medicine …",
+   "year": null
+  }
+ ]
+}

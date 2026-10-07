@@ -1,0 +1,935 @@
+{
+ "user": "Q0piorUAAAAJ",
+ "pubs": [
+  {
+   "title": "Retrieval-augmented generation for knowledge-intensive nlp tasks",
+   "authors": "P Lewis, E Perez, A Piktus, F Petroni, V Karpukhin, N Goyal, H Küttler, ...",
+   "venue": "Advances in neural information processing systems 33, 9459-9474",
+   "year": "2020"
+  },
+  {
+   "title": "Supervised learning of universal sentence representations from natural language inference data",
+   "authors": "A Conneau, D Kiela, H Schwenk, L Barrault, A Bordes",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "Bloom: A 176b-parameter open-access multilingual language model",
+   "authors": "T Le Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow, R Castagné, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Poincaré embeddings for learning hierarchical representations",
+   "authors": "M Nickel, D Kiela",
+   "venue": "Advances in neural information processing systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "Personalizing dialogue agents: I have a dog, do you have pets too?",
+   "authors": "S Zhang, E Dinan, J Urbanek, A Szlam, D Kiela, J Weston",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Retrieval augmentation reduces hallucination in conversation",
+   "authors": "K Shuster, S Poff, M Chen, D Kiela, J Weston",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 3784-3803",
+   "year": "2021"
+  },
+  {
+   "title": "Adversarial NLI: A new benchmark for natural language understanding",
+   "authors": "Y Nie, A Williams, E Dinan, M Bansal, J Weston, D Kiela",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Flava: A foundational language and vision alignment model",
+   "authors": "A Singh, R Hu, V Goswami, G Couairon, W Galuba, M Rohrbach, D Kiela",
+   "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2022"
+  },
+  {
+   "title": "The hateful memes challenge: Detecting hate speech in multimodal memes",
+   "authors": "D Kiela, H Firooz, A Mohan, V Goswami, A Singh, P Ringshia, ...",
+   "venue": "Advances in neural information processing systems 33, 2611-2624",
+   "year": "2020"
+  },
+  {
+   "title": "Kto: Model alignment as prospect theoretic optimization",
+   "authors": "K Ethayarajh, W Xu, N Muennighoff, D Jurafsky, D Kiela",
+   "venue": "arXiv preprint arXiv:2402.01306",
+   "year": "2024"
+  },
+  {
+   "title": "Senteval: An evaluation toolkit for universal sentence representations",
+   "authors": "A Conneau, D Kiela",
+   "venue": "Proceedings of the eleventh international conference on language resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Winoground: Probing vision and language models for visio-linguistic compositionality",
+   "authors": "T Thrush, R Jiang, M Bartolo, A Singh, A Williams, D Kiela, C Ross",
+   "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2022"
+  },
+  {
+   "title": "Dynabench: Rethinking benchmarking in NLP",
+   "authors": "D Kiela, M Bartolo, Y Nie, D Kaushik, A Geiger, Z Wu, B Vidgen, G Prasad, ...",
+   "venue": "Proceedings of the 2021 conference of the North American chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Learning continuous hierarchies in the lorentz model of hyperbolic geometry",
+   "authors": "M Nickel, D Kiela",
+   "venue": "International conference on machine learning, 3779-3788",
+   "year": "2018"
+  },
+  {
+   "title": "Hyperbolic graph neural networks",
+   "authors": "Q Liu, M Nickel, D Kiela",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "True few-shot learning with language models",
+   "authors": "E Perez, D Kiela, K Cho",
+   "venue": "Advances in neural information processing systems 34, 11054-11070",
+   "year": "2021"
+  },
+  {
+   "title": "Obelics: An open web-scale filtered dataset of interleaved image-text documents",
+   "authors": "H Laurençon, L Saulnier, L Tronchon, S Bekman, A Singh, A Lozhkov, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 71683-71702",
+   "year": "2023"
+  },
+  {
+   "title": "The second conversational intelligence challenge (convai2)",
+   "authors": "E Dinan, V Logacheva, V Malykh, A Miller, K Shuster, J Urbanek, D Kiela, ...",
+   "venue": "The NeurIPS'18 Competition: From Machine Learning to Intelligent …",
+   "year": "2019"
+  },
+  {
+   "title": "Learning from the worst: Dynamically generated datasets to improve online hate detection",
+   "authors": "B Vidgen, T Thrush, Z Talat, D Kiela",
+   "venue": "Proceedings of the 59th annual meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Supervised multimodal bitransformers for classifying images and text",
+   "authors": "D Kiela, S Bhooshan, H Firooz, E Perez, D Testuggine",
+   "venue": "arXiv preprint arXiv:1909.02950",
+   "year": "2019"
+  },
+  {
+   "title": "Gradient-based adversarial attacks against text transformers",
+   "authors": "C Guo, A Sablayrolles, H Jégou, D Kiela",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Generative representational instruction tuning",
+   "authors": "N Muennighoff, H Su, L Wang, N Yang, F Wei, T Yu, A Singh, D Kiela",
+   "venue": "International Conference on Learning Representations 2025, 45544-45613",
+   "year": "2025"
+  },
+  {
+   "title": "Masked language modeling and the distributional hypothesis: Order word matters pre-training for little",
+   "authors": "K Sinha, R Jia, D Hupkes, J Pineau, A Williams, D Kiela",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Financebench: A new benchmark for financial question answering",
+   "authors": "P Islam, A Kannappan, D Kiela, R Qian, N Scherrer, B Vidgen",
+   "venue": "arXiv preprint arXiv:2311.11944",
+   "year": "2023"
+  },
+  {
+   "title": "Learning image embeddings using convolutional neural networks for improved multi-modal semantics",
+   "authors": "D Kiela, L Bottou",
+   "venue": "Proceedings of the 2014 Conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Black holes and white rabbits: Metaphor identification with visual features",
+   "authors": "E Shutova, D Kiela, J Maillard",
+   "venue": "Proceedings of the 2016 conference of the North American chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "What makes a good conversation? how controllable attributes affect human judgments",
+   "authors": "A See, S Roller, D Kiela, J Weston",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Queens are powerful too: Mitigating gender bias in dialogue generation",
+   "authors": "E Dinan, A Fan, A Williams, J Urbanek, D Kiela, J Weston",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Efficient large-scale multi-modal classification",
+   "authors": "D Kiela, E Grave, A Joulin, T Mikolov",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 32 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "Olmoe: Open mixture-of-experts language models",
+   "authors": "N Muennighoff, L Soldaini, D Groeneveld, K Lo, J Morrison, S Min, W Shi, ...",
+   "venue": "International Conference on Learning Representations 2025, 62061-62121",
+   "year": "2025"
+  },
+  {
+   "title": "Learning to speak and act in a fantasy text adventure game",
+   "authors": "J Urbanek, A Fan, S Karamcheti, S Jain, S Humeau, E Dinan, ...",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Model alignment as prospect theoretic optimization",
+   "authors": "K Ethayarajh, W Xu, N Muennighoff, D Jurafsky, D Kiela",
+   "venue": "Forty-first International Conference on Machine Learning",
+   "year": "2024"
+  },
+  {
+   "title": "Dataperf: Benchmarks for data-centric ai development",
+   "authors": "M Mazumder, C Banbury, X Yao, B Karlaš, W Gaviria Rojas, S Diamos, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 5320-5347",
+   "year": "2023"
+  },
+  {
+   "title": "Unsupervised question decomposition for question answering",
+   "authors": "E Perez, P Lewis, W Yih, K Cho, D Kiela",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Measuring compositionality in representation learning",
+   "authors": "J Andreas",
+   "venue": "International conference on learning representations 1 (2), 3",
+   "year": "2019"
+  },
+  {
+   "title": "A systematic study of semantic vector space model parameters",
+   "authors": "D Kiela, S Clark",
+   "venue": "Proceedings of the 2nd workshop on continuous vector space models and their …",
+   "year": "2014"
+  },
+  {
+   "title": "Generalized inner loop meta-learning",
+   "authors": "E Grefenstette, B Amos, D Yarats, PM Htut, A Molchanov, F Meier, D Kiela, ...",
+   "venue": "arXiv preprint arXiv:1910.01727",
+   "year": "2019"
+  },
+  {
+   "title": "Hearst patterns revisited: Automatic hypernym detection from large text corpora",
+   "authors": "S Roller, D Kiela, M Nickel",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Specializing word embeddings for similarity or relatedness",
+   "authors": "D Kiela, F Hill, S Clark",
+   "venue": "Proceedings of the 2015 conference on empirical methods in natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "Multi-dimensional gender bias classification",
+   "authors": "E Dinan, A Fan, L Wu, J Weston, D Kiela, A Williams",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Talk the walk: Navigating new york city through grounded dialogue",
+   "authors": "H De Vries, K Shuster, D Batra, D Parikh, J Weston, D Kiela",
+   "venue": "arXiv preprint arXiv:1807.03367",
+   "year": "2018"
+  },
+  {
+   "title": "Rethink reporting of evaluation results in AI",
+   "authors": "R Burnell, W Schellaert, J Burden, TD Ullman, F Martinez-Plumed, ...",
+   "venue": "Science 380 (6641), 136-138",
+   "year": "2023"
+  },
+  {
+   "title": "Perturbation augmentation for fairer NLP",
+   "authors": "R Qian, C Ross, J Fernandes, EM Smith, D Kiela, A Williams",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent communication in a multi-modal, multi-step referential game",
+   "authors": "K Evtimova, A Drozdov, D Kiela, K Cho",
+   "venue": "arXiv preprint arXiv:1705.10369",
+   "year": "2017"
+  },
+  {
+   "title": "Hyperlex: A large-scale evaluation of graded lexical entailment",
+   "authors": "I Vulić, D Gerz, D Kiela, F Hill, A Korhonen",
+   "venue": "Computational Linguistics 43 (4), 781-835",
+   "year": "2017"
+  },
+  {
+   "title": "Answering complex open-domain questions with multi-hop dense retrieval",
+   "authors": "W Xiong, XL Li, S Iyer, J Du, P Lewis, WY Wang, Y Mehdad, W Yih, ...",
+   "venue": "arXiv preprint arXiv:2009.12756",
+   "year": "2020"
+  },
+  {
+   "title": "Dynamic meta-embeddings for improved sentence representations",
+   "authors": "D Kiela, C Wang, K Cho",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "No training required: Exploring random encoders for sentence classification",
+   "authors": "J Wieting, D Kiela",
+   "venue": "arXiv preprint arXiv:1901.10444",
+   "year": "2019"
+  },
+  {
+   "title": "Inferring concept hierarchies from text corpora via hyperbolic embeddings",
+   "authors": "M Le, S Roller, L Papaxanthos, D Kiela, M Nickel",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Improving question answering model robustness with synthetic adversarial data generation",
+   "authors": "M Bartolo, T Thrush, R Jia, S Riedel, P Stenetorp, D Kiela",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Automatically generating rhythmic verse with neural networks",
+   "authors": "J Hopkins, D Kiela",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "DynaSent: A dynamic benchmark for sentiment analysis",
+   "authors": "C Potts, Z Wu, A Geiger, D Kiela",
+   "venue": "Proceedings of the 59th annual meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "I like fish, especially dolphins: Addressing contradictions in dialogue modeling",
+   "authors": "Y Nie, M Williamson, M Bansal, D Kiela, J Weston",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Emergent linguistic phenomena in multi-agent communication games",
+   "authors": "LH Graesser, K Cho, D Kiela",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Multi-and cross-modal semantics beyond vision: Grounding in auditory perception",
+   "authors": "D Kiela, S Clark",
+   "venue": "Proceedings of the 2015 conference on empirical methods in natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "Visually grounded and textual semantic models differentially decode brain activity associated with concrete and abstract nouns",
+   "authors": "AJ Anderson, D Kiela, S Clark, M Poesio",
+   "venue": "Transactions of the Association for Computational Linguistics 5, 17-30",
+   "year": "2017"
+  },
+  {
+   "title": "Adaptive communication: Languages with more non-native speakers tend to have fewer word forms",
+   "authors": "C Bentz, A Verkerk, D Kiela, F Hill, P Buttery",
+   "venue": "PloS one 10 (6), e0128254",
+   "year": "2015"
+  },
+  {
+   "title": "The hateful memes challenge: Competition report",
+   "authors": "D Kiela, H Firooz, A Mohan, V Goswami, A Singh, CA Fitzpatrick, P Bull, ...",
+   "venue": "NeurIPS 2020 Competition and Demonstration Track, 344-360",
+   "year": "2021"
+  },
+  {
+   "title": "Countering language drift via visual grounding",
+   "authors": "J Lee, K Cho, D Kiela",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Improving multi-modal representations using image dispersion: Why less is sometimes more",
+   "authors": "D Kiela, F Hill, A Korhonen, S Clark",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Human-adversarial visual question answering",
+   "authors": "S Sheng, A Singh, V Goswami, J Magana, T Thrush, W Galuba, D Parikh, ...",
+   "venue": "Advances in Neural Information Processing Systems 34, 20346-20359",
+   "year": "2021"
+  },
+  {
+   "title": "Learning visually grounded sentence representations",
+   "authors": "D Kiela, A Conneau, A Jabri, M Nickel",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Dynaboard: An evaluation-as-a-service platform for holistic next-generation benchmarking",
+   "authors": "Z Ma, K Ethayarajh, T Thrush, S Jain, L Wu, R Jia, C Potts, A Williams, ...",
+   "venue": "Advances in Neural Information Processing Systems 34, 10351-10367",
+   "year": "2021"
+  },
+  {
+   "title": "Grasping the finer point: A supervised similarity network for metaphor detection",
+   "authors": "M Rei, L Bulat, D Kiela, E Shutova",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "Towards language models that can see: Computer vision through the lens of natural language",
+   "authors": "W Berrios, G Mittal, T Thrush, D Kiela, A Singh",
+   "venue": "arXiv preprint arXiv:2306.16410",
+   "year": "2023"
+  },
+  {
+   "title": "Lynx: An open source hallucination evaluation model",
+   "authors": "SS Ravi, B Mielczarek, A Kannappan, D Kiela, R Qian",
+   "venue": "arXiv preprint arXiv:2407.08488",
+   "year": "2024"
+  },
+  {
+   "title": "Jump to better conclusions: SCAN both left and right",
+   "authors": "J Bastings, M Baroni, J Weston, K Cho, D Kiela",
+   "venue": "Proceedings of the 2018 EMNLP workshop BlackboxNLP: Analyzing and …",
+   "year": "2018"
+  },
+  {
+   "title": "On the interaction between supervision and self-play in emergent communication",
+   "authors": "R Lowe, A Gupta, J Foerster, D Kiela, J Pineau",
+   "venue": "arXiv preprint arXiv:2002.01093",
+   "year": "2020"
+  },
+  {
+   "title": "Emergent translation in multi-agent communication",
+   "authors": "J Lee, K Cho, J Weston, D Kiela",
+   "venue": "arXiv preprint arXiv:1710.06922",
+   "year": "2017"
+  },
+  {
+   "title": "Anchor points: Benchmarking models with much fewer examples",
+   "authors": "R Vivek, K Ethayarajh, D Yang, D Kiela",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Deep artificial neural networks reveal a distributed cortical network encoding propositional sentence-level meaning",
+   "authors": "AJ Anderson, D Kiela, JR Binder, L Fernandino, CJ Humphries, ...",
+   "venue": "The Journal of Neuroscience 41 (18), 4100-4119",
+   "year": "2021"
+  },
+  {
+   "title": "Great models think alike and this undermines ai oversight",
+   "authors": "S Goel, J Struber, IA Auzina, KK Chandra, P Kumaraguru, D Kiela, ...",
+   "venue": "arXiv preprint arXiv:2502.04313",
+   "year": "2025"
+  },
+  {
+   "title": "Grounding semantics in olfactory perception",
+   "authors": "D Kiela, L Bulat, S Clark",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Learning optimal representations with the decodable information bottleneck",
+   "authors": "Y Dubois, D Kiela, DJ Schwab, R Vedantam",
+   "venue": "Advances in Neural Information Processing Systems 33, 18674-18690",
+   "year": "2020"
+  },
+  {
+   "title": "Exploiting image generality for lexical entailment detection",
+   "authors": "D Kiela, L Rimell, I Vulić, S Clark",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Kto: Model alignment as prospect theoretic optimization, 2024",
+   "authors": "K Ethayarajh, W Xu, N Muennighoff, D Jurafsky, D Kiela",
+   "venue": "URL https://arxiv. org/abs/2402.01306 14",
+   "year": "2023"
+  },
+  {
+   "title": "Anchored preference optimization and contrastive revisions: Addressing underspecification in alignment",
+   "authors": "K D'Oosterlinck, W Xu, C Develder, T Demeester, A Singh, C Potts, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 13, 442-460",
+   "year": "2025"
+  },
+  {
+   "title": "Measuring data",
+   "authors": "M Mitchell, AS Luccioni, N Lambert, M Gerchick, A McMillan-Major, ...",
+   "venue": "arXiv preprint arXiv:2212.05129",
+   "year": "2022"
+  },
+  {
+   "title": "ANLIzing the adversarial natural language inference dataset",
+   "authors": "A Williams, T Thrush, D Kiela",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2022, 23-54",
+   "year": "2022"
+  },
+  {
+   "title": "Zipf's law and the grammar of languages: A quantitative study of Old and Modern English parallel texts.",
+   "authors": "C Bentz, D Kiela, F Hill, P Buttery",
+   "venue": "Corpus Linguistics & Linguistic Theory 10 (2), 175",
+   "year": "2014"
+  },
+  {
+   "title": "Virtual embodiment: A scalable long-term strategy for artificial intelligence research",
+   "authors": "D Kiela, L Bulat, AL Vero, S Clark",
+   "venue": "arXiv preprint arXiv:1610.07432",
+   "year": "2016"
+  },
+  {
+   "title": "On the efficacy of adversarial data collection for question answering: Results from a large-scale randomized study",
+   "authors": "D Kaushik, D Kiela, ZC Lipton, W Yih",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Visual bilingual lexicon induction with transferred convnet features",
+   "authors": "D Kiela, I Vulić, S Clark",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Models in the loop: Aiding crowdworkers with generative annotation assistants",
+   "authors": "M Bartolo, T Thrush, S Riedel, P Stenetorp, R Jia, D Kiela",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluate & evaluation on the hub: Better best practices for data and model measurements",
+   "authors": "L Von Werra, L Tunstall, A Thakur, S Luccioni, T Thrush, A Piktus, F Marty, ...",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Analyzing dynamic adversarial training data in the limit",
+   "authors": "E Wallace, A Williams, R Jia, D Kiela",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 202-217",
+   "year": "2022"
+  },
+  {
+   "title": "Findings of the WOAH 5 shared task on fine grained hateful memes detection",
+   "authors": "L Mathias, S Nie, AM Davani, D Kiela, V Prabhakaran, B Vidgen, Z Talat",
+   "venue": "Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021), 201-206",
+   "year": "2021"
+  },
+  {
+   "title": "Reservoir transformers",
+   "authors": "S Shen, A Baevski, A Morcos, K Keutzer, M Auli, D Kiela",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Finding generalizable evidence by learning to convince q&a models",
+   "authors": "E Perez, S Karamcheti, R Fergus, J Weston, D Kiela, K Cho",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Detecting compositionality of multi-word expressions using nearest neighbours in vector space models",
+   "authors": "D Kiela, S Clark",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Cross-modal retrieval augmentation for multi-modal classification",
+   "authors": "S Gur, N Neverova, C Stauffer, SN Lim, D Kiela, A Reiter",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 111-123",
+   "year": "2021"
+  },
+  {
+   "title": "LMUNIT: Fine-grained Evaluation with Natural Language Unit Tests.",
+   "authors": "J Saad-Falcon, R Vivek, W Berrios, NS Naik, M Franklin, B Vidgen, ...",
+   "venue": "EMNLP (Findings), 3303-3324",
+   "year": "2025"
+  },
+  {
+   "title": "Code-switched named entity recognition with embedding attention",
+   "authors": "C Wang, K Cho, D Kiela",
+   "venue": "Proceedings of the third workshop on computational approaches to linguistic …",
+   "year": "2018"
+  },
+  {
+   "title": "Generating interactive worlds with text",
+   "authors": "A Fan, J Urbanek, P Ringshia, E Dinan, E Qian, S Karamcheti, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (02), 1693-1700",
+   "year": "2020"
+  },
+  {
+   "title": "Multi-modal representations for improved bilingual lexicon learning",
+   "authors": "I Vulić, D Kiela, S Clark, MF Moens",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "To what extent do human explanations of model behavior align with actual model behavior?",
+   "authors": "G Prasad, Y Nie, M Bansal, R Jia, D Kiela, A Williams",
+   "venue": "Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting …",
+   "year": "2021"
+  },
+  {
+   "title": "Mastering the dungeon: Grounded language learning by mechanical turker descent",
+   "authors": "Z Yang, S Zhang, J Urbanek, W Feng, AH Miller, A Szlam, D Kiela, ...",
+   "venue": "arXiv preprint arXiv:1711.07950",
+   "year": "2017"
+  },
+  {
+   "title": "Single-agent LLMs outperform multi-agent systems on multi-hop reasoning under equal thinking token budgets",
+   "authors": "D Tran, D Kiela",
+   "venue": "arXiv preprint arXiv:2604.02460",
+   "year": "2026"
+  },
+  {
+   "title": "Findings of the WMT 2021 shared task on large-scale multilingual machine translation",
+   "authors": "G Wenzek, V Chaudhary, A Fan, S Gomez, N Goyal, S Jain, D Kiela, ...",
+   "venue": "Proceedings of the Sixth Conference on Machine Translation, 89-99",
+   "year": "2021"
+  },
+  {
+   "title": "Rissanen data analysis: Examining dataset characteristics via description length",
+   "authors": "E Perez, D Kiela, K Cho",
+   "venue": "International Conference on Machine Learning, 8500-8513",
+   "year": "2021"
+  },
+  {
+   "title": "Why build an assistant in minecraft?",
+   "authors": "A Szlam, J Gray, K Srinet, Y Jernite, A Joulin, G Synnaeve, D Kiela, H Yu, ...",
+   "venue": "arXiv preprint arXiv:1907.09273",
+   "year": "2019"
+  },
+  {
+   "title": "Vision and feature norms: Improving automatic feature norm learning through cross-modal maps",
+   "authors": "L Bulat, D Kiela, S Clark",
+   "venue": "Proceedings of the 2016 conference of the north american chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Learning neural audio embeddings for grounding semantics in auditory perception",
+   "authors": "D Kiela, S Clark",
+   "venue": "Journal of Artificial Intelligence Research 60, 1003-1030",
+   "year": "2017"
+  },
+  {
+   "title": "Comparing data sources and architectures for deep visual representation learning in semantics",
+   "authors": "D Kiela, AL Verő, S Clark",
+   "venue": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "Concreteness and corpora: A theoretical and practical study",
+   "authors": "F Hill, D Kiela, A Korhonen",
+   "venue": "Proceedings of the Fourth Annual Workshop on Cognitive Modeling and …",
+   "year": "2013"
+  },
+  {
+   "title": "Dynatask: A framework for creating dynamic AI benchmark tasks",
+   "authors": "T Thrush, K Tirumala, A Gupta, M Bartolo, P Rodriguez, T Kane, ...",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "MMFeat: A toolkit for extracting multi-modal features",
+   "authors": "D Kiela",
+   "venue": "Proceedings of ACL-2016 System Demonstrations, 55-60",
+   "year": "2016"
+  },
+  {
+   "title": "Quasi-equivalence discovery for zero-shot emergent communication",
+   "authors": "K Bullard, D Kiela, F Meier, J Pineau, J Foerster",
+   "venue": "arXiv preprint arXiv:2103.08067",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring zero-shot emergent communication in embodied multi-agent populations",
+   "authors": "K Bullard, F Meier, D Kiela, J Pineau, J Foerster",
+   "venue": "arXiv preprint arXiv:2010.15896",
+   "year": "2020"
+  },
+  {
+   "title": "Deep embodiment: grounding semantics in perceptual modalities",
+   "authors": "D Kiela",
+   "venue": "University of Cambridge, Computer Laboratory",
+   "year": "2017"
+  },
+  {
+   "title": "Investigating multi-source active learning for natural language inference",
+   "authors": "A Snijders, D Kiela, K Margatina",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "I love your chain mail! making knights smile in a fantasy game world: Open-domain goal-oriented dialogue agents",
+   "authors": "S Prabhumoye, M Li, J Urbanek, E Dinan, D Kiela, J Weston, A Szlam",
+   "venue": "arXiv preprint arXiv:2002.02878",
+   "year": "2020"
+  },
+  {
+   "title": "Seeded self-play for language learning",
+   "authors": "A Gupta, R Lowe, J Foerster, D Kiela, J Pineau",
+   "venue": "Proceedings of the Beyond Vision and LANguage: inTEgrating Real-world …",
+   "year": "2019"
+  },
+  {
+   "title": "Unsupervised discovery of information structure in biomedical documents",
+   "authors": "D Kiela, Y Guo, U Stenius, A Korhonen",
+   "venue": "Bioinformatics 31 (7), 1084-1092",
+   "year": "2015"
+  },
+  {
+   "title": "Robust text classification for sparsely labelled data using multi-level embeddings",
+   "authors": "S Baker, D Kiela, A Korhonen",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "Nearest neighbor normalization improves multimodal retrieval",
+   "authors": "N Chowdhury, F Wang, S Shenoy, D Kiela, S Schwettmann, T Thrush",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "I am a strange dataset: Metalinguistic tests for language models",
+   "authors": "T Thrush, J Moore, M Monares, C Potts, D Kiela",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to negate adjectives with bilinear models",
+   "authors": "L Rimell, A Mabona, L Bulat, D Kiela",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "Multimodal learning and reasoning",
+   "authors": "D Elliott, D Kiela, A Lazaridou",
+   "venue": "Proceedings of the 54th annual meeting of the association for computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. arXiv preprint (2020). arXiv",
+   "authors": "P Lewis, E Perez, A Piktus, F Petroni, V Karpukhin, N Goyal, H Küttler, ...",
+   "venue": "arXiv preprint arXiv:2005.11401",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluation by association: A systematic study of quantitative word association evaluation",
+   "authors": "I Vulić, D Kiela, A Korhonen",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "Extractbench: A benchmark and evaluation methodology for complex structured extraction",
+   "authors": "N Ferguson, J Pennington, N Beghian, A Mohan, D Kiela, S Agrawal, ...",
+   "venue": "arXiv preprint arXiv:2602.12247",
+   "year": "2026"
+  },
+  {
+   "title": "Leveraging diffusion perturbations for measuring fairness in computer vision",
+   "authors": "N Lui, B Chia, W Berrios, C Ross, D Kiela",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (13), 14220 …",
+   "year": "2024"
+  },
+  {
+   "title": "What’s Hidden in a One-layer Randomly Weighted Transformer?",
+   "authors": "S Shen, Z Yao, D Kiela, K Keutzer, M Mahoney",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to learn to communicate",
+   "authors": "R Lowe, A Gupta, J Foerster, D Kiela, J Pineau",
+   "venue": "Proceedings of the 1st Adaptive & Multitask Learning Workshop",
+   "year": "2019"
+  },
+  {
+   "title": "What makes a good conversation",
+   "authors": "A See, S Roller, D Kiela, J Weston",
+   "venue": "How controllable attributes affect human judgments. arXiv",
+   "year": "2019"
+  },
+  {
+   "title": "Analysis of joint multilingual sentence representations and semantic k-nearest neighbor graphs",
+   "authors": "H Schwenk, D Kiela, M Douze",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 6982-6990",
+   "year": "2019"
+  },
+  {
+   "title": "Grounding, meaning and foundation models: Adventures in multimodal machine learning",
+   "authors": "D Kiela",
+   "venue": "Proceedings of the 30th ACM International Conference on Multimedia, 5-5",
+   "year": "2022"
+  },
+  {
+   "title": "Talk the walk: Navigating grids in new york city through grounded dialogue",
+   "authors": "H de Vries, K Shuster, D Batra, D Parikh, J Weston, D Kiela",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Afrodigits: A community-driven spoken digit dataset for african languages",
+   "authors": "CC Emezue, S Gandhi, L Tunstall, A Abid, J Meyer, Q Lhoest, P Allen, ...",
+   "venue": "arXiv preprint arXiv:2303.12582",
+   "year": "2023"
+  },
+  {
+   "title": "I love your chain mail! making knights smile in a fantasy game world",
+   "authors": "S Prabhumoye, M Li, J Urbanek, E Dinan, D Kiela, J Weston, A Szlam",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Zipf's Law Across Languages of the World: Towards a Quantitative Measure of Lexical Diversity",
+   "authors": "C Bentz, D Kiela",
+   "venue": "Evolution of Language: Proceedings of the 10th International Conference …",
+   "year": "2014"
+  },
+  {
+   "title": "Ucam-core: Incorporating structured distributional similarity into sts",
+   "authors": "T Polajnar, L Rimell, D Kiela",
+   "venue": "Second Joint Conference on Lexical and Computational Semantics (* SEM …",
+   "year": "2013"
+  },
+  {
+   "title": "Document Optimization for Black-Box Retrieval via Reinforcement Learning",
+   "authors": "O Uzan, R Polonsky, D Kiela, C Potts",
+   "venue": "arXiv preprint arXiv:2604.05087",
+   "year": "2026"
+  },
+  {
+   "title": "Contextualized role interaction for neural machine translation",
+   "authors": "D Weissenborn, D Kiela, J Weston, K Cho",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Adaptive languages: Modeling the co-evolution of population structure and lexical diversity",
+   "authors": "C Bentz, A Verkerk, D Kiela, F Hill, P Buttery",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Variable binding in biologically plausible neural networks",
+   "authors": "D Kiela",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Steerable Cultural Preference Optimization of Reward Models",
+   "authors": "M Oh, A Deepak, S Wu, D Kiela, E Shutova",
+   "venue": "arXiv preprint arXiv:2606.18606",
+   "year": "2026"
+  },
+  {
+   "title": "BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs",
+   "authors": "S Agrawal, TH Nguyen, D Kiela",
+   "venue": "arXiv preprint arXiv:2602.05448",
+   "year": "2026"
+  },
+  {
+   "title": "Higher: A PyTorch Meta-Learning Library",
+   "authors": "E Grefenstette, B Amos, D Yarats, PM Htut, A Molchanov, F Meier, D Kiela, ...",
+   "venue": "arXiv preprint arXiv:1910.01727",
+   "year": "2019"
+  },
+  {
+   "title": "Reflective Context Learning: Studying the Optimization Primitives of Context Space",
+   "authors": "N Vassilyev, W Berrios, R Zhang, B Han, D Kiela, S Mehri",
+   "venue": "arXiv preprint arXiv:2604.03189",
+   "year": "2026"
+  },
+  {
+   "title": "Lynx: An Open Source Hallucination Evaluation Model",
+   "authors": "S Sunitha Ravi, B Mielczarek, A Kannappan, D Kiela, R Qian",
+   "venue": "arXiv e-prints, arXiv: 2407.08488",
+   "year": "2024"
+  },
+  {
+   "title": "AfroDigits: A Community-Driven Spoken Digit Dataset for African Languages",
+   "authors": "C Chinenye Emezue, S Gandhi, L Tunstall, A Abid, J Meyer, Q Lhoest, ...",
+   "venue": "arXiv e-prints, arXiv: 2303.12582",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Dynamic Adversarial Data Collection",
+   "authors": "M Bartolo, H Kirk, P Rodriguez, K Margatina, T Thrush, R Jia, P Stenetorp, ...",
+   "venue": "Proceedings of the First Workshop on Dynamic Adversarial Data Collection",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)",
+   "authors": "AM Davani, D Kiela, M Lambert, B Vidgen, V Prabhakaran, Z Talat",
+   "venue": "Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the Student Research Workshop at the 14th Conference of the European Chapter of the Association for Computational Linguistics",
+   "authors": "S Wintner, D Elliott, K Garoufi, D Kiela, I Vulić",
+   "venue": "Proceedings of the Student Research Workshop at the 14th Conference of the …",
+   "year": "2014"
+  },
+  {
+   "title": "Proceedings of the student research workshop at the 14th conference of the european chapter of the association for computational linguistics (SRW at EACL 2014)",
+   "authors": "I Vulic, D Kiela, K Garoufi, D Elliott",
+   "venue": "ACL; East Stroudsburg, PA, USA",
+   "year": "2014"
+  },
+  {
+   "title": "Efficient nonparametric inference for discretely observed compound Poisson processes Alberto Jesus Coca Cabrero Darwin College",
+   "authors": "M Edwards, D Kiela, K van der Ploeg",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Continual Pre-Training for Hallucination Reduction",
+   "authors": "M Oh, S Kim, D Kiela, G Wang, KM Yoo, J Lee",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Anchored Optimization and Contrastive Revisions: Addressing Reward Hacking in Alignment",
+   "authors": "K D'Oosterlinck, W Xu, C Develder, T Demeester, A Singh, C Potts, ...",
+   "venue": "Neurips Safe Generative AI Workshop 2024",
+   "year": null
+  },
+  {
+   "title": "4.7 Tasks and Datasets for Vision and Language",
+   "authors": "S Clark, Z Akata, A Barbu, L Barrault, R Bernardi, O Caglayan, A Erdem, ...",
+   "venue": "Joint Processing of Language and Visual Data for Better Automated …",
+   "year": null
+  },
+  {
+   "title": "Countering Language Drift with KL Regularization",
+   "authors": "M Noukhovitch, S Lavoie, IH Laradji, D Kiela, F Strub, A Courville",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning to learn to communicate",
+   "authors": "A Gupta, R Lowe, J Foerster, D Kiela, J Pineau",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Towards Emerging Nonverbal Communication Protocols for Multi-Robot Populations",
+   "authors": "K Bullard, J Foerster, D Kiela, J Pineau, F Meier",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "4.4 Modeling Human Learning",
+   "authors": "R Bernardi, Z Akata, A Barbu, O Caglayan, S Clark, G Collell, D Elliott, ...",
+   "venue": "Joint Processing of Language and Visual Data for Better Automated …",
+   "year": null
+  }
+ ]
+}

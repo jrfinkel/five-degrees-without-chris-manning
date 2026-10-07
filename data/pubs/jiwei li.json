@@ -1,0 +1,887 @@
+{
+ "user": "PwU16JEAAAAJ",
+ "pubs": [
+  {
+   "title": "A diversity-promoting objective function for neural conversation models",
+   "authors": "J Li, M Galley, C Brockett, J Gao, WB Dolan",
+   "venue": "Proceedings of the 2016 conference of the North American chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Instruction Tuning for Large Language Models: A Survey",
+   "authors": "S Zhang, L Dong, X Li, S Zhang, X Sun, S Wang, J Li, R Hu, T Zhang, ...",
+   "venue": "arXiv preprint arXiv:2308.10792",
+   "year": "2023"
+  },
+  {
+   "title": "Deep reinforcement learning for dialogue generation",
+   "authors": "J Li, W Monroe, A Ritter, M Galley, J Gao, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1606.01541",
+   "year": "2016"
+  },
+  {
+   "title": "A persona-based neural conversation model",
+   "authors": "J Li, M Galley, C Brockett, GP Spithourakis, J Gao, B Dolan",
+   "venue": "arXiv preprint arXiv:1603.06155",
+   "year": "2016"
+  },
+  {
+   "title": "Adversarial learning for neural dialogue generation",
+   "authors": "J Li, W Monroe, T Shi, S Jean, A Ritter, D Jurafsky",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "Dice loss for data-imbalanced NLP tasks",
+   "authors": "X Li, X Sun, Y Meng, J Liang, F Wu, J Li",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Visualizing and understanding neural models in NLP",
+   "authors": "J Li, X Chen, E Hovy, D Jurafsky",
+   "venue": "Proceedings of the 2016 Conference of the North American Chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Gpt-ner: Named entity recognition via large language models",
+   "authors": "S Wang, X Sun, X Li, R Ouyang, F Wu, T Zhang, J Li, G Wang",
+   "venue": "arXiv preprint arXiv:2304.10428",
+   "year": "2023"
+  },
+  {
+   "title": "A unified MRC framework for named entity recognition",
+   "authors": "X Li, J Feng, Y Meng, Q Han, F Wu, J Li",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Understanding neural networks through representation erasure",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1612.08220",
+   "year": "2016"
+  },
+  {
+   "title": "A hierarchical neural autoencoder for paragraphs and documents",
+   "authors": "J Li, MT Luong, D Jurafsky",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Pre-trained language models and their applications",
+   "authors": "H Wang, J Li, H Wu, E Hovy, Y Sun",
+   "venue": "Engineering 25, 51-65",
+   "year": "2023"
+  },
+  {
+   "title": "Text classification via large language models",
+   "authors": "X Sun, X Li, J Li, F Wu, S Guo, T Zhang, G Wang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 8990-9005",
+   "year": "2023"
+  },
+  {
+   "title": "Towards a general rule for identifying deceptive opinion spam",
+   "authors": "J Li, M Ott, C Cardie, E Hovy",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Entity-Relation Extraction as Multi-Turn Question Answering",
+   "authors": "X Li, F Yin, Z Sun, X Li, A Yuan, D Chai, M Zhou, J Li",
+   "venue": "ACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "BertGCN: Transductive text classification by combining GNN and BERT",
+   "authors": "Y Lin, Y Meng, X Sun, Q Han, K Kuang, J Li, F Wu",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Learning through dialogue interactions by asking questions",
+   "authors": "J Li, AH Miller, S Chopra, MA Ranzato, J Weston",
+   "venue": "arXiv preprint arXiv:1612.04936",
+   "year": "2016"
+  },
+  {
+   "title": "Gpt-re: In-context learning for relation extraction using large language models",
+   "authors": "Z Wan, F Cheng, Z Mao, Q Liu, H Song, J Li, S Kurohashi",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Data noising as smoothing in neural network language models",
+   "authors": "Z Xie, SI Wang, J Li, D Lévy, A Nie, D Jurafsky, AY Ng",
+   "venue": "arXiv preprint arXiv:1703.02573",
+   "year": "2017"
+  },
+  {
+   "title": "ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information",
+   "authors": "Z Sun, X Li, X Sun, Y Meng, X Ao, Q He, F Wu, J Li",
+   "venue": "ACL2021",
+   "year": "2021"
+  },
+  {
+   "title": "Do multi-sense embeddings improve natural language understanding?",
+   "authors": "J Li, D Jurafsky",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Glyce: Glyph-vectors for Chinese character representations",
+   "authors": "Y Meng, W Wu, F Wang, X Li, P Nie, F Yin, M Li, Q Han, X Sun, J Li",
+   "venue": "Advances in Neural Information Processing Systems, 2746-2757",
+   "year": "2019"
+  },
+  {
+   "title": "A simple, fast diverse decoding algorithm for neural generation",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1611.08562",
+   "year": "2016"
+  },
+  {
+   "title": "When are tree structures necessary for deep learning of representations?",
+   "authors": "J Li, MT Luong, D Jurafsky, E Hovy",
+   "venue": "Proceedings of the 2015 conference on empirical methods in natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "CorefQA: Coreference resolution as query-based span prediction",
+   "authors": "W Wu, F Wang, A Yuan, F Wu, J Li",
+   "venue": "ACL 2020, 6953-6963",
+   "year": "2020"
+  },
+  {
+   "title": "Infiagent-dabench: Evaluating agents on data analysis tasks",
+   "authors": "X Hu, Z Zhao, S Wei, Z Chai, Q Ma, G Wang, X Wang, J Su, J Xu, M Zhu, ...",
+   "venue": "arXiv preprint arXiv:2401.05507",
+   "year": "2024"
+  },
+  {
+   "title": "A model of coherence based on distributed sentence representation",
+   "authors": "J Li, E Hovy",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "Recursive deep models for discourse parsing",
+   "authors": "J Li, R Li, E Hovy",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Dialogue learning with human-in-the-loop",
+   "authors": "J Li, AH Miller, S Chopra, MA Ranzato, J Weston",
+   "venue": "arXiv preprint arXiv:1611.09823",
+   "year": "2016"
+  },
+  {
+   "title": "Is word segmentation necessary for deep learning of Chinese representations?",
+   "authors": "X Li, Y Meng, X Sun, Q Han, A Yuan, J Li",
+   "venue": "ACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Neural net models of open-domain discourse coherence",
+   "authors": "J Li, D Jurafsky",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Badpre: Task-agnostic backdoor attacks to pre-trained nlp foundation models",
+   "authors": "K Chen, Y Meng, X Sun, S Guo, T Zhang, J Li, C Fan",
+   "venue": "ICLR2022",
+   "year": "2021"
+  },
+  {
+   "title": "Weakly supervised user profile extraction from twitter",
+   "authors": "J Li, A Ritter, E Hovy",
+   "venue": "Proceedings of the 52nd annual meeting of the association for computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Mutual information and diverse decoding improve neural machine translation",
+   "authors": "J Li, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1601.00372",
+   "year": "2016"
+  },
+  {
+   "title": "Major life event extraction from twitter based on congratulations/condolences speech acts",
+   "authors": "J Li, A Ritter, C Cardie, E Hovy",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Topicspam: a topic-model based approach for spam detection",
+   "authors": "J Li, C Cardie, S Li",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Reinforcement learning enhanced llms: A survey",
+   "authors": "S Wang, S Zhang, J Zhang, R Hu, X Li, T Zhang, J Li, F Wu, G Wang, ...",
+   "venue": "arXiv preprint arXiv:2412.10400",
+   "year": "2024"
+  },
+  {
+   "title": "Cater: Intellectual property protection on text generation apis via conditional watermarks",
+   "authors": "X He, Q Xu, Y Zeng, L Lyu, F Wu, J Li, R Jia",
+   "venue": "Advances in Neural Information Processing Systems 35, 5431-5445",
+   "year": "2022"
+  },
+  {
+   "title": "Triggerless Backdoor Attack for NLP Tasks with Clean Labels",
+   "authors": "L Gan, J Li, T Zhang, X Li, Y Meng, F Wu, S Guo, C Fan",
+   "venue": "NAACL2022",
+   "year": "2021"
+  },
+  {
+   "title": "Timeline generation: Tracking individuals on twitter",
+   "authors": "J Li, C Cardie",
+   "venue": "Proceedings of the 23rd international conference on World wide web, 643-652",
+   "year": "2014"
+  },
+  {
+   "title": "Generating more interesting responses in neural conversation models with distributional constraints",
+   "authors": "A Baheti, A Ritter, J Li, WB Dolan",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Deep reinforcement learning for NLP",
+   "authors": "WY Wang, J Li, X He",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Physical backdoor attacks to lane detection systems in autonomous driving",
+   "authors": "X Han, G Xu, Y Zhou, X Yang, J Li, T Zhang",
+   "venue": "Proceedings of the 30th ACM International Conference on Multimedia, 2957-2968",
+   "year": "2022"
+  },
+  {
+   "title": "Defending against backdoor attacks in natural language generation",
+   "authors": "X Sun, X Li, Y Meng, X Ao, L Lyu, J Li, T Zhang",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (4), 5257-5265",
+   "year": "2023"
+  },
+  {
+   "title": "Reflections on sentiment/opinion analysis",
+   "authors": "J Li, E Hovy",
+   "venue": "A practical guide to sentiment analysis, 41-59",
+   "year": "2017"
+  },
+  {
+   "title": "Early stage influenza detection from twitter",
+   "authors": "J Li, C Cardie",
+   "venue": "arXiv preprint arXiv:1309.7340",
+   "year": "2013"
+  },
+  {
+   "title": "Sentiment analysis through llm negotiations",
+   "authors": "X Sun, X Li, S Zhang, S Wang, F Wu, J Li, T Zhang, G Wang",
+   "venue": "arXiv preprint arXiv:2311.01876",
+   "year": "2023"
+  },
+  {
+   "title": "Fast nearest neighbor machine translation",
+   "authors": "Y Meng, X Li, X Zheng, F Wu, X Sun, T Zhang, J Li",
+   "venue": "ACL2022",
+   "year": "2021"
+  },
+  {
+   "title": "Description based text classification with reinforcement learning",
+   "authors": "D Chai, W Wu, Q Han, F Wu, J Li",
+   "venue": "ICML 2020, 1371-1382",
+   "year": "2020"
+  },
+  {
+   "title": "Interpreting deep learning models in natural language processing: A review",
+   "authors": "X Sun, D Yang, X Li, T Zhang, Y Meng, H Qiu, G Wang, E Hovy, J Li",
+   "venue": "arXiv preprint arXiv:2110.10470",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to decode for future success",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1701.06549",
+   "year": "2017"
+  },
+  {
+   "title": "Analyzing COVID-19 on online social media: Trends, sentiments and emotions",
+   "authors": "X Li, M Zhou, J Wu, A Yuan, F Wu, J Li",
+   "venue": "arXiv preprint arXiv:2005.14464",
+   "year": "2020"
+  },
+  {
+   "title": "Identifying manipulated offerings on review portals",
+   "authors": "J Li, M Ott, C Cardie",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Os agents: A survey on mllm-based agents for computer, phone and browser use",
+   "authors": "X Hu, T Xiong, B Yi, Z Wei, R Xiao, Y Chen, J Ye, M Tao, X Zhou, Z Zhao, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Sok: Rethinking sensor spoofing attacks against robotic vehicles from a systematic view",
+   "authors": "Y Xu, X Han, G Deng, J Li, Y Liu, T Zhang",
+   "venue": "2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P), 1082-1100",
+   "year": "2023"
+  },
+  {
+   "title": "Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only.",
+   "authors": "K Chen, X Lou, G Xu, J Li, T Zhang",
+   "venue": "ICLR 1 (2), 3",
+   "year": "2023"
+  },
+  {
+   "title": "What a nasty day: Exploring mood-weather relationship from twitter",
+   "authors": "J Li, X Wang, E Hovy",
+   "venue": "proceedings of the 23rd ACM International Conference on Conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Pushing the limits of chatgpt on nlp tasks",
+   "authors": "X Sun, L Dong, X Li, Z Wan, S Wang, T Zhang, J Li, F Cheng, L Lyu, F Wu, ...",
+   "venue": "arXiv preprint arXiv:2306.09719",
+   "year": "2023"
+  },
+  {
+   "title": "Sentence similarity based on contexts",
+   "authors": "X Sun, Y Meng, X Ao, F Wu, T Zhang, J Li, C Fan",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 573-588",
+   "year": "2022"
+  },
+  {
+   "title": "Icorating: A deep-learning system for scam ico identification",
+   "authors": "S Bian, Z Deng, F Li, W Monroe, P Shi, Z Sun, W Wu, S Wang, WY Wang, ...",
+   "venue": "arXiv preprint arXiv:1803.03670",
+   "year": "2018"
+  },
+  {
+   "title": "Self-explaining structures improve nlp models",
+   "authors": "Z Sun, C Fan, Q Han, X Sun, Y Meng, F Wu, J Li",
+   "venue": "arXiv preprint arXiv:2012.01786",
+   "year": "2020"
+  },
+  {
+   "title": "Cuda-l1: Improving cuda optimization via contrastive reinforcement learning",
+   "authors": "X Sun, A Wang, J Li, C Shum",
+   "venue": "International Conference on Learning Representations 2026, 123922-123957",
+   "year": "2026"
+  },
+  {
+   "title": "Gnn-lm: Language modeling based on global contexts via gnn",
+   "authors": "Y Meng, S Zong, X Li, X Sun, T Zhang, F Wu, J Li",
+   "venue": "ICLR2022",
+   "year": "2021"
+  },
+  {
+   "title": "Threats to pre-trained language models: Survey and taxonomy",
+   "authors": "S Guo, C Xie, J Li, L Lyu, T Zhang",
+   "venue": "arXiv preprint arXiv:2202.06862",
+   "year": "2022"
+  },
+  {
+   "title": "Evolutionary hierarchical dirichlet process for timeline summarization",
+   "authors": "J Li, S Li",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Query-focused multi-document summarization: Combining a novel topic model with graph-based semi-supervised learning",
+   "authors": "J Li, S Li",
+   "venue": "arXiv preprint arXiv:1212.2036",
+   "year": "2012"
+  },
+  {
+   "title": "Implicit discourse relation recognition by selecting typical training examples",
+   "authors": "X Wang, S Li, J Li, W Li",
+   "venue": "Proceedings of COLING 2012, 2757-2772",
+   "year": "2012"
+  },
+  {
+   "title": "Openvidial: A large-scale, open-domain dialogue dataset with visual contexts",
+   "authors": "Y Meng, S Wang, Q Han, X Sun, F Wu, R Yan, J Li",
+   "venue": "arXiv preprint arXiv:2012.15015",
+   "year": "2020"
+  },
+  {
+   "title": "Videoshield: Regulating diffusion-based video generation models via watermarking",
+   "authors": "R Hu, J Zhang, Y Li, J Li, Q Guo, H Qiu, T Zhang",
+   "venue": "International Conference on Learning Representations 2025, 52395-52425",
+   "year": "2025"
+  },
+  {
+   "title": "Learning multi-faceted representations of individuals from heterogeneous evidence using neural networks",
+   "authors": "J Li, A Ritter, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1510.05198",
+   "year": "2015"
+  },
+  {
+   "title": "Robust-Wide: Robust Watermarking Against Instruction-Driven Image Editing",
+   "authors": "R Hu, J Zhang, T Xu, J Li, T Zhang",
+   "venue": "European conference on computer vision, 20-37",
+   "year": "2024"
+  },
+  {
+   "title": "NN-NER: Named Entity Recognition with Nearest Neighbor Search",
+   "authors": "S Wang, X Li, Y Meng, T Zhang, R Ouyang, J Li, G Wang",
+   "venue": "arXiv preprint arXiv:2203.17103",
+   "year": "2022"
+  },
+  {
+   "title": "Collaboration of large language models and small recommendation models for device-cloud recommendation",
+   "authors": "Z Lv, T Zhan, W Wang, X Lin, S Zhang, W Zhang, J Li, K Kuang, F Wu",
+   "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and …",
+   "year": "2025"
+  },
+  {
+   "title": "Layer-wise Model Pruning based on Mutual Information",
+   "authors": "C Fan, J Li, X Ao, F Wu, Y Meng, X Sun",
+   "venue": "EMNLP2021",
+   "year": "2021"
+  },
+  {
+   "title": "Sac: Accelerating and structuring self-attention via sparse adaptive connection",
+   "authors": "X Li, Y Meng, M Zhou, Q Han, F Wu, J Li",
+   "venue": "NeurIPS 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Exploring hypergraph-based semi-supervised ranking for query-oriented summarization",
+   "authors": "W Wang, S Li, J Li, W Li, F Wei",
+   "venue": "Information Sciences 237, 271-286",
+   "year": "2013"
+  },
+  {
+   "title": "Summarize, outline, and elaborate: Long-text generation via hierarchical supervision from extractive summaries",
+   "authors": "X Sun, Z Sun, Y Meng, J Li, C Fan",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "A novel topic model for automatic term extraction",
+   "authors": "S Li, J Li, T Song, W Li, B Chang",
+   "venue": "Proceedings of the 36th international ACM SIGIR conference on Research and …",
+   "year": "2013"
+  },
+  {
+   "title": "You only query once: An efficient label-only membership inference attack",
+   "authors": "Y Wu, H Qiu, S Guo, J Li, T Zhang",
+   "venue": "International Conference on Learning Representations 2024, 41291-41304",
+   "year": "2024"
+  },
+  {
+   "title": "Ranking-enhanced unsupervised sentence representation learning",
+   "authors": "Y Seonwoo, G Wang, C Seo, S Choudhary, J Li, X Li, P Xu, S Park, A Oh",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Watermarking pre-trained encoders in contrastive learning",
+   "authors": "Y Wu, H Qiu, T Zhang, J Li, M Qiu",
+   "venue": "2022 4th International Conference on Data Intelligence and Security (ICDIS …",
+   "year": "2022"
+  },
+  {
+   "title": "Deep adversarial learning for NLP",
+   "authors": "WY Wang, S Singh, J Li",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Deep reinforcement learning for dialogue generation. arXiv 2016",
+   "authors": "J Li, W Monroe, A Ritter, M Galley, J Gao, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1606.01541",
+   "year": null
+  },
+  {
+   "title": "Openvidial 2.0: A larger-scale, open-domain dialogue generation dataset with visual contexts",
+   "authors": "S Wang, Y Meng, X Li, X Sun, R Ouyang, J Li",
+   "venue": "arXiv preprint arXiv:2109.12761",
+   "year": "2021"
+  },
+  {
+   "title": "ConRPG: Paraphrase Generation using Contexts as Regularizer",
+   "authors": "Y Meng, X Ao, Q He, X Sun, Q Han, F Wu, J Li",
+   "venue": "EMNLP2021",
+   "year": "2021"
+  },
+  {
+   "title": "Improving adversarial robustness of 3D point cloud classification models",
+   "authors": "G Li, G Xu, H Qiu, R He, J Li, T Zhang",
+   "venue": "European conference on computer vision, 672-689",
+   "year": "2022"
+  },
+  {
+   "title": "Ownership verification of DNN architectures via hardware cache side channels",
+   "authors": "X Lou, S Guo, J Li, T Zhang",
+   "venue": "IEEE Transactions on Circuits and Systems for Video Technology 32 (11), 8078 …",
+   "year": "2022"
+  },
+  {
+   "title": "Mask image watermarking",
+   "authors": "R Hu, J Zhang, S Zhao, N Lukas, J Li, Q Guo, H Qiu, T Zhang",
+   "venue": "Advances in Neural Information Processing Systems 38, 146313-146346",
+   "year": "2026"
+  },
+  {
+   "title": "Self question-answering: Aspect-based sentiment analysis by role flipped machine reading comprehension",
+   "authors": "G Yu, J Li, L Luo, Y Meng, X Ao, Q He",
+   "venue": "Findings of the association for computational linguistics: EMNLP 2021, 1331-1342",
+   "year": "2021"
+  },
+  {
+   "title": "Data distillation for controlling specificity in dialogue generation",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1702.06703",
+   "year": "2017"
+  },
+  {
+   "title": "Dependency parsing as MRC-based span-span prediction",
+   "authors": "L Gan, Y Meng, K Kuang, X Sun, C Fan, F Wu, J Li",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "A novel feature-based bayesian model for query focused multi-document summarization",
+   "authors": "J Li, S Li",
+   "venue": "Transactions of the Association for Computational Linguistics 1, 89-98",
+   "year": "2013"
+  },
+  {
+   "title": "Packing analysis: Packing is more appropriate for large models or datasets in supervised fine-tuning",
+   "authors": "S Wang, G Wang, Y Wang, J Li, E Hovy, C Guo",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 4953-4967",
+   "year": "2025"
+  },
+  {
+   "title": "Backdoor attacks with input-unique triggers in nlp",
+   "authors": "X Zhou, J Li, T Zhang, L Lyu, M Yang, J He",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2024"
+  },
+  {
+   "title": "Neural semi-supervised learning for text classification under large-scale pretraining",
+   "authors": "Z Sun, C Fan, X Sun, Y Meng, F Wu, J Li",
+   "venue": "arXiv preprint arXiv:2011.08626",
+   "year": "2020"
+  },
+  {
+   "title": "Feature weight tuning for recursive neural networks",
+   "authors": "J Li",
+   "venue": "arXiv preprint arXiv:1412.3714",
+   "year": "2014"
+  },
+  {
+   "title": "Update summarization using a multi-level hierarchical dirichlet process model",
+   "authors": "J Li, S Li, X Wang, Y Tian, B Chang",
+   "venue": "Proceedings of COLING 2012, 1603-1618",
+   "year": "2012"
+  },
+  {
+   "title": "Inferring user preferences by probabilistic logical reasoning over social networks",
+   "authors": "J Li, A Ritter, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1411.2679",
+   "year": "2014"
+  },
+  {
+   "title": "Self-supervised graph representation learning integrates multiple molecular networks and decodes gene-disease relationships",
+   "authors": "Y Wang, Z Sun, Q He, J Li, M Ni, M Yang",
+   "venue": "Patterns 4 (1)",
+   "year": "2023"
+  },
+  {
+   "title": "Sentiment analysis on the people’s daily",
+   "authors": "J Li, E Hovy",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Are human-generated demonstrations necessary for in-context learning?",
+   "authors": "R Li, G Wang, J Li",
+   "venue": "International Conference on Learning Representations 2024, 6227-6263",
+   "year": "2024"
+  },
+  {
+   "title": "GNN-SL: Sequence labeling based on nearest examples via GNN",
+   "authors": "S Wang, Y Meng, R Ouyang, J Li, T Zhang, L Lyu, G Wang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 12679-12692",
+   "year": "2023"
+  },
+  {
+   "title": "An mrc framework for semantic role labeling",
+   "authors": "N Wang, J Li, Y Meng, X Sun, H Qiu, Z Wang, G Wang, J He",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Pair the dots: Jointly examining training history and test stimuli for model interpretability",
+   "authors": "Y Meng, C Fan, Z Sun, E Hovy, F Wu, J Li",
+   "venue": "arXiv preprint arXiv:2010.06943",
+   "year": "2020"
+  },
+  {
+   "title": "Similarity-based neighbor selection for graph llms",
+   "authors": "R Li, J Li, J Han, G Wang",
+   "venue": "arXiv preprint arXiv:2402.03720",
+   "year": "2024"
+  },
+  {
+   "title": "Protecting your nlg models with semantic and robust watermarks",
+   "authors": "T Xiang, C Xie, S Guo, J Li, T Zhang",
+   "venue": "arXiv preprint arXiv:2112.05428",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling text-visual mutual dependency for multi-modal dialog generation",
+   "authors": "S Wang, Y Meng, X Sun, F Wu, R Ouyang, R Yan, T Zhang, J Li",
+   "venue": "arXiv preprint arXiv:2105.14445",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring and adapting Chinese GPT to pinyin input method",
+   "authors": "M Tan, Y Dai, D Tang, Z Feng, G Huang, J Jiang, J Li, S Shi",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Faster nearest neighbor machine translation",
+   "authors": "S Wang, J Li, Y Meng, R Ouyang, G Wang, X Li, T Zhang, S Zong",
+   "venue": "arXiv preprint arXiv:2112.08152",
+   "year": "2021"
+  },
+  {
+   "title": "Cuda-l2: Surpassing cublas performance for matrix multiplication through reinforcement learning",
+   "authors": "S Su, X Li, A Wang, G Wang, J Li, C Shum",
+   "venue": "arXiv preprint arXiv:2512.02551",
+   "year": "2025"
+  },
+  {
+   "title": "Improving robustness and generality of NLP models using disentangled representations",
+   "authors": "J Wu, X Li, X Ao, Y Meng, F Wu, J Li",
+   "venue": "arXiv preprint arXiv:2009.09587",
+   "year": "2020"
+  },
+  {
+   "title": "Lava nat: A non-autoregressive translation model with look-around decoding and vocabulary attention",
+   "authors": "X Li, Y Meng, A Yuan, F Wu, J Li",
+   "venue": "arXiv preprint arXiv:2002.03084",
+   "year": "2020"
+  },
+  {
+   "title": "Rescue implicit and long-tail cases: Nearest neighbor relation extraction",
+   "authors": "Z Wan, Q Liu, Z Mao, F Cheng, S Kurohashi, J Li",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Supermark: Robust and training-free image watermarking via diffusion-based super-resolution",
+   "authors": "R Hu, J Zhang, Y Li, J Li, Q Guo, H Qiu, T Zhang",
+   "venue": "arXiv preprint arXiv:2412.10049",
+   "year": "2024"
+  },
+  {
+   "title": "Naspy: Automated extraction of automated machine learning models",
+   "authors": "X Lou, S Guo, J Li, Y Wu, T Zhang",
+   "venue": "International Conference on Learning Representations",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring simultaneous keyword and key sentence extraction: Improve graph-based ranking using wikipedia",
+   "authors": "X Wang, L Wang, J Li, S Li",
+   "venue": "Proceedings of the 21st ACM international conference on Information and …",
+   "year": "2012"
+  },
+  {
+   "title": "Extracting Robust Models with Uncertain Examples.",
+   "authors": "G Li, G Xu, S Guo, H Qiu, J Li, T Zhang",
+   "venue": "ICLR",
+   "year": "2023"
+  },
+  {
+   "title": "Fingerprinting multi-exit deep neural network models via inference time",
+   "authors": "T Dong, H Qiu, T Zhang, J Li, H Li, J Lu",
+   "venue": "arXiv preprint arXiv:2110.03175",
+   "year": "2021"
+  },
+  {
+   "title": "Folden: -Fold Ensemble for Out-Of-Distribution Detection",
+   "authors": "X Li, J Li, X Sun, C Fan, T Zhang, F Wu, Y Meng, J Zhang",
+   "venue": "EMNLP2021",
+   "year": "2021"
+  },
+  {
+   "title": "Sitemb-v1. 5: Improved context-aware dense retrieval for semantic association and long story comprehension",
+   "authors": "J Wu, J Li, Y Li, L Liu, L Xu, J Li, DY Yeung, J Zhou, M Yu",
+   "venue": "arXiv preprint arXiv:2508.01959",
+   "year": "2025"
+  },
+  {
+   "title": "A general framework for defending against backdoor attacks via influence graph",
+   "authors": "X Sun, J Li, X Li, Z Wang, T Zhang, H Qiu, F Wu, C Fan",
+   "venue": "arXiv preprint arXiv:2111.14309",
+   "year": "2021"
+  },
+  {
+   "title": "Instruction Tuning for Large Language Models: A Survey. doi: 10.48550",
+   "authors": "S Zhang, L Dong, X Li, S Zhang, X Sun, S Wang, J Li, R Hu, T Zhang, ...",
+   "venue": "arXiv preprint arXiv.2308.10792",
+   "year": "2025"
+  },
+  {
+   "title": "Sim-gpt: Text similarity via gpt annotated data",
+   "authors": "S Wang, B Cao, S Zhang, X Li, J Li, F Wu, G Wang, E Hovy",
+   "venue": "arXiv preprint arXiv:2312.05603",
+   "year": "2023"
+  },
+  {
+   "title": "Large-scale pretraining for neural machine translation with tens of billions of sentence pairs",
+   "authors": "Y Meng, X Ren, Z Sun, X Li, A Yuan, F Wu, J Li",
+   "venue": "arXiv preprint arXiv:1909.11861",
+   "year": "2019"
+  },
+  {
+   "title": "Understanding neural networks through representation erasure, arXiv",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1612.08220",
+   "year": "2017"
+  },
+  {
+   "title": "Faceid-6m: A large-scale, open-source faceid customization dataset",
+   "authors": "S Wang, X Li, J Li, G Wang, X Sun, B Zhu, H Qiu, M Yu, S Shen, T Zhang, ...",
+   "venue": "arXiv preprint arXiv:2503.07091",
+   "year": "2025"
+  },
+  {
+   "title": "Paraphrase generation as unsupervised machine translation",
+   "authors": "X Sun, Y Tian, Y Meng, N Peng, F Wu, J Li, C Fan",
+   "venue": "Proceedings of the 29th International Conference on Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Parameter estimation for the SEIR model using recurrent nets",
+   "authors": "C Fan, Y Meng, X Sun, F Wu, T Zhang, J Li",
+   "venue": "arXiv preprint arXiv:2105.14524",
+   "year": "2021"
+  },
+  {
+   "title": "Teaching machines to converse",
+   "authors": "J Li",
+   "venue": "Stanford University",
+   "year": "2017"
+  },
+  {
+   "title": "The NLP engine: A universal turing machine for nlp",
+   "authors": "J Li, E Hovy",
+   "venue": "arXiv preprint arXiv:1503.00168",
+   "year": "2015"
+  },
+  {
+   "title": "others. 2023. Instruction tuning for large language models: A survey",
+   "authors": "Z Shengyu, D Linfeng, L Xiaoya, Z Sen, S Xiaofei, W Shuhe, L Jiwei, R Hu, ...",
+   "venue": "arXiv preprint arXiv:2308.10792",
+   "year": "1"
+  },
+  {
+   "title": "Unlocking the mysteries of OpenAI o1: A survey of the reasoning abilities of large language models",
+   "authors": "G Wang, S Zhang, T Zhan, Z Shen, J Li, X Hu, X Sun, F Wu, G Deng, ...",
+   "venue": "ed",
+   "year": "2025"
+  },
+  {
+   "title": "Emage: Non-autoregressive text-to-image generation",
+   "authors": "Z Feng, R Hu, L Liu, F Zhang, D Tang, Y Dai, X Feng, J Li, B Qin, S Shi",
+   "venue": "arXiv preprint arXiv:2312.14988",
+   "year": "2023"
+  },
+  {
+   "title": "Analysis on action tracking reports of COVID-19 informs control strategies and vaccine delivery in post-pandemic era",
+   "authors": "X Sun, T Guan, T Xue, C Fan, M Yang, Y Meng, T Zhang, B Jiangtulu, ...",
+   "venue": "medRxiv, 2021.04. 08.21254953",
+   "year": "2021"
+  },
+  {
+   "title": "Fine-grained classification of named entities by fusing multi-features",
+   "authors": "W Li, J Li, Y Tian, Z Sui",
+   "venue": "Proceedings of COLING 2012: Posters, 693-702",
+   "year": "2012"
+  },
+  {
+   "title": "GPT-NER: Named Entity Recognition via Large Language Models (May 2023)",
+   "authors": "S Wang, X Sun, X Li, R Ouyang, F Wu, T Zhang, J Li, G Wang",
+   "venue": "arXiv preprint arXiv:2304.10428",
+   "year": null
+  },
+  {
+   "title": "Grandcode: Achieving grandmaster level in competitive programming via agentic reinforcement learning",
+   "authors": "O Team, X Li, G Wang, S Su, C Shum, J Li",
+   "venue": "arXiv preprint arXiv:2604.02721",
+   "year": "2026"
+  },
+  {
+   "title": "Dsreg: using distant supervision as a regularizer",
+   "authors": "Y Meng, M Li, X Li, W Wu, J Li",
+   "venue": "arXiv preprint arXiv:1905.11658",
+   "year": "2019"
+  },
+  {
+   "title": "Is Word Segmentation Necessary for Deep Learning of Chinese Representations? arXiv e-prints, art",
+   "authors": "X Li, Y Meng, X Sun, Q Han, A Yuan, J Li",
+   "venue": "arXiv preprint arXiv:1905.05526",
+   "year": "2019"
+  },
+  {
+   "title": "Understanding Neural Networks through Representation Erasure.” arXiv [cs. CL]. arXiv",
+   "authors": "J Li, W Monroe, D Jurafsky",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Deep reinforcement learning for dialogue generation. arXiv e-print",
+   "authors": "J Li, W Monroe, A Ritter, M Galley, J Gao, D Jurafsky",
+   "venue": "arXiv preprint arXiv:1606.01541",
+   "year": "2016"
+  },
+  {
+   "title": "GPTNER: named entity recognition via large language models [Internet]. arXiv. org. 2023",
+   "authors": "S Wang, X Sun, X Li, R Ouyang, F Wu, T Zhang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "2016natexlaba. A persona-based neural conversation model",
+   "authors": "J Li, M Galley, C Brockett, GP Spithourakis, J Gao, B Dolan",
+   "venue": "Preprint",
+   "year": null
+  },
+  {
+   "title": "CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search",
+   "authors": "X Li, A Wang, G Wang, C Shum, J Li",
+   "venue": "arXiv preprint arXiv:2508.02091",
+   "year": "2025"
+  },
+  {
+   "title": "Efficient estimation of word representations in vector space",
+   "authors": "J Li, M Will, D Jurafsky",
+   "venue": "ICLR",
+   "year": "2017"
+  },
+  {
+   "title": "Towards Automatic Generation of Advanced Shift Networks",
+   "authors": "X Lou, G Xu, K Chen, G Li, J Li, T Zhang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Materials of Improving Adversarial Robustness of 3D Point Cloud Classification Models",
+   "authors": "G Li, G Xu, H Qiu, R He, J Li, T Zhang",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

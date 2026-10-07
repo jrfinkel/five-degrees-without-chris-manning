@@ -1,0 +1,4109 @@
+{
+ "user": "vhP-tlcAAAAJ",
+ "pubs": [
+  {
+   "title": "The curious case of neural text degeneration",
+   "authors": "A Holtzman, J Buys, L Du, M Forbes, Y Choi",
+   "venue": "arXiv preprint arXiv:1904.09751",
+   "year": "2019"
+  },
+  {
+   "title": "Hellaswag: Can a machine really finish your sentence?",
+   "authors": "R Zellers, A Holtzman, Y Bisk, A Farhadi, Y Choi",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Winogrande: An adversarial winograd schema challenge at scale",
+   "authors": "K Sakaguchi, RL Bras, C Bhagavatula, Y Choi",
+   "venue": "Communications of the ACM 64 (9), 99-106",
+   "year": "2021"
+  },
+  {
+   "title": "Clipscore: A reference-free evaluation metric for image captioning",
+   "authors": "J Hessel, A Holtzman, M Forbes, R Le Bras, Y Choi",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Piqa: Reasoning about physical commonsense in natural language",
+   "authors": "Y Bisk, R Zellers, J Gao, Y Choi",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (05), 7432-7439",
+   "year": "2020"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks",
+   "authors": "X Li, X Yin, C Li, P Zhang, X Hu, L Zhang, L Wang, H Hu, L Dong, F Wei, ...",
+   "venue": "European conference on computer vision, 121-137",
+   "year": "2020"
+  },
+  {
+   "title": "Realtoxicityprompts: Evaluating neural toxic degeneration in language models",
+   "authors": "S Gehman, S Gururangan, M Sap, Y Choi, NA Smith",
+   "venue": "Findings of the association for computational linguistics: EMNLP 2020, 3356-3369",
+   "year": "2020"
+  },
+  {
+   "title": "Finding deceptive opinion spam by any stretch of the imagination",
+   "authors": "M Ott, Y Choi, C Cardie, JT Hancock",
+   "venue": "Proceedings of the 49th annual meeting of the association for computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Defending against neural fake news",
+   "authors": "R Zellers, A Holtzman, H Rashkin, Y Bisk, A Farhadi, F Roesner, Y Choi",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Babytalk: Understanding and generating simple image descriptions",
+   "authors": "G Kulkarni, V Premraj, V Ordonez, S Dhar, S Li, Y Choi, AC Berg, TL Berg",
+   "venue": "IEEE transactions on pattern analysis and machine intelligence 35 (12), 2891 …",
+   "year": "2013"
+  },
+  {
+   "title": "Social IQa: Commonsense reasoning about social interactions",
+   "authors": "M Sap, H Rashkin, D Chen, R Le Bras, Y Choi",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Vinvl: Revisiting visual representations in vision-language models",
+   "authors": "P Zhang, X Li, X Hu, J Yang, L Zhang, L Wang, Y Choi, J Gao",
+   "venue": "arXiv preprint arXiv:2101.00529",
+   "year": "2021"
+  },
+  {
+   "title": "Neural motifs: Scene graph parsing with global context",
+   "authors": "R Zellers, M Yatskar, S Thomson, Y Choi",
+   "venue": "2018 IEEE/CVF conference on computer vision and pattern recognition, 5831-5840",
+   "year": "2018"
+  },
+  {
+   "title": "COMET: Commonsense transformers for automatic knowledge graph construction",
+   "authors": "A Bosselut, H Rashkin, M Sap, C Malaviya, A Celikyilmaz, Y Choi",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "The risk of racial bias in hate speech detection",
+   "authors": "M Sap, D Card, S Gabriel, Y Choi, NA Smith",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Truth of varying shades: Analyzing language in fake news and political fact-checking",
+   "authors": "H Rashkin, E Choi, JY Jang, S Volkova, Y Choi",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "From recognition to cognition: Visual commonsense reasoning",
+   "authors": "R Zellers, Y Bisk, A Farhadi, Y Choi",
+   "venue": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2019"
+  },
+  {
+   "title": "Atomic: An atlas of machine commonsense for if-then reasoning",
+   "authors": "M Sap, R Le Bras, E Allaway, C Bhagavatula, N Lourie, H Rashkin, ...",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 33 (01), 3027-3035",
+   "year": "2019"
+  },
+  {
+   "title": "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting",
+   "authors": "M Sclar, Y Choi, Y Tsvetkov, A Suhr",
+   "venue": "International Conference on Learning Representations 2024, 25055-25083",
+   "year": "2024"
+  },
+  {
+   "title": "QuAC: Question answering in context",
+   "authors": "E Choi, H He, M Iyyer, M Yatskar, W Yih, Y Choi, P Liang, L Zettlemoyer",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Mathqa: Towards interpretable math word problem solving with operation-based formalisms",
+   "authors": "A Amini, S Gabriel, S Lin, R Koncel-Kedziorski, Y Choi, H Hajishirzi",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Swag: A large-scale adversarial dataset for grounded commonsense inference",
+   "authors": "R Zellers, Y Bisk, R Schwartz, Y Choi",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks",
+   "authors": "Y Wang, S Mishra, P Alipoormolabashi, Y Kordi, A Mirzaei, A Naik, ...",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Faith and fate: Limits of transformers on compositionality",
+   "authors": "N Dziri, X Lu, M Sclar, XL Li, L Jiang, BY Lin, S Welleck, P West, ...",
+   "venue": "Advances in neural information processing systems 36, 70293-70332",
+   "year": "2023"
+  },
+  {
+   "title": "Wildchat: 1m chatgpt interaction logs in the wild",
+   "authors": "W Zhao, X Ren, J Hessel, C Cardie, Y Choi, Y Deng",
+   "venue": "International Conference on Learning Representations 2024, 34590-34605",
+   "year": "2024"
+  },
+  {
+   "title": "Syntactic Stylometry for Deception Detection",
+   "authors": "S Feng, R Banerjee, Y Choi",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Social bias frames: Reasoning about social and power implications of language",
+   "authors": "M Sap, S Gabriel, L Qin, D Jurafsky, NA Smith, Y Choi",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "OpinionFinder: A system for subjectivity analysis.",
+   "authors": "T Wilson, P Hoffmann, S Somasundaran, J Kessler, J Wiebe, Y Choi, ...",
+   "venue": "HLT/EMNLP 2005 (2005), 34-35",
+   "year": "2005"
+  },
+  {
+   "title": "Rewardbench: Evaluating reward models for language modeling",
+   "authors": "N Lambert, V Pyatkin, J Morrison, LJ Miranda, BY Lin, K Chandu, N Dziri, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 1755-1797",
+   "year": "2025"
+  },
+  {
+   "title": "Dataset cartography: Mapping and diagnosing datasets with training dynamics",
+   "authors": "S Swayamdipta, R Schwartz, N Lourie, Y Wang, H Hajishirzi, NA Smith, ...",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Mauve: Measuring the gap between neural text and human text using divergence frontiers",
+   "authors": "K Pillutla, S Swayamdipta, R Zellers, J Thickstun, S Welleck, Y Choi, ...",
+   "venue": "Advances in Neural Information Processing Systems 34, 4816-4828",
+   "year": "2021"
+  },
+  {
+   "title": "Wildguard: Open one-stop moderation tools for safety risks, jailbreaks, and refusals of llms",
+   "authors": "S Han, K Rao, A Ettinger, L Jiang, BY Lin, N Lambert, Y Choi, N Dziri",
+   "venue": "Advances in neural information processing systems 37, 8093-8131",
+   "year": "2024"
+  },
+  {
+   "title": "DExperts: Decoding-time controlled text generation with experts and anti-experts",
+   "authors": "A Liu, M Sap, X Lu, S Swayamdipta, C Bhagavatula, NA Smith, Y Choi",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Cosmos QA: Machine reading comprehension with contextual commonsense reasoning",
+   "authors": "L Huang, R Le Bras, C Bhagavatula, Y Choi",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "A roadmap to pluralistic alignment",
+   "authors": "T Sorensen, J Moore, J Fisher, M Gordon, N Mireshghallah, CM Rytting, ...",
+   "venue": "arXiv preprint arXiv:2402.05070",
+   "year": "2024"
+  },
+  {
+   "title": "Abductive commonsense reasoning",
+   "authors": "C Bhagavatula, RL Bras, C Malaviya, K Sakaguchi, A Holtzman, ...",
+   "venue": "arXiv preprint arXiv:1908.05739",
+   "year": "2019"
+  },
+  {
+   "title": "(Comet-) atomic 2020: On symbolic and neural commonsense knowledge graphs",
+   "authors": "JD Hwang, C Bhagavatula, R Le Bras, J Da, K Sakaguchi, A Bosselut, ...",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 35 (7), 6384-6392",
+   "year": "2021"
+  },
+  {
+   "title": "Composing simple image descriptions using web-scale n-grams",
+   "authors": "S Li, G Kulkarni, T Berg, A Berg, Y Choi",
+   "venue": "Proceedings of the fifteenth conference on computational natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Generated knowledge prompting for commonsense reasoning",
+   "authors": "J Liu, A Liu, X Lu, S Welleck, P West, R Le Bras, Y Choi, H Hajishirzi",
+   "venue": "Proceedings of the 60th annual meeting of the association for computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Merlot: Multimodal neural script knowledge models",
+   "authors": "R Zellers, X Lu, J Hessel, Y Yu, JS Park, J Cao, A Farhadi, Y Choi",
+   "venue": "Advances in neural information processing systems 34, 23634-23651",
+   "year": "2021"
+  },
+  {
+   "title": "CommonGen: A constrained text generation challenge for generative commonsense reasoning",
+   "authors": "BY Lin, W Zhou, M Shen, P Zhou, C Bhagavatula, Y Choi, X Ren",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 1823-1840",
+   "year": "2020"
+  },
+  {
+   "title": "Identifying sources of opinions with conditional random fields and extraction patterns",
+   "authors": "Y Choi, C Cardie, E Riloff, S Patwardhan",
+   "venue": "Proceedings of human language technology conference and conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "Annotators with attitudes: How annotator beliefs and identities bias toxic language detection",
+   "authors": "M Sap, S Swayamdipta, L Vianna, X Zhou, Y Choi, NA Smith",
+   "venue": "Proceedings of the 2022 conference of the north american chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Collective generation of natural image descriptions",
+   "authors": "P Kuznetsova, V Ordonez, A Berg, T Berg, Y Choi",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "SYSTEM AND METHOD FOR AUTOMATICALLY SUMMARIZING FINE-GRAINED OPINIONS IN DIGITAL TEXT",
+   "authors": "C Cardie, V Stoyanov, Y Choi, E Breck",
+   "venue": "US Patent App. 11/927,456",
+   "year": "2007"
+  },
+  {
+   "title": "Symbolic knowledge distillation: from general language models to commonsense models",
+   "authors": "P West, C Bhagavatula, J Hessel, JD Hwang, L Jiang, R Le Bras, X Lu, ...",
+   "venue": "Proceedings of the 2022 conference of the North American chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Agent ai: Surveying the horizons of multimodal interaction",
+   "authors": "Z Durante, Q Huang, N Wake, R Gong, JS Park, B Sarkar, R Taori, Y Noda, ...",
+   "venue": "arXiv preprint arXiv:2401.03568",
+   "year": "2024"
+  },
+  {
+   "title": "Deep communicating agents for abstractive summarization",
+   "authors": "A Celikyilmaz, A Bosselut, X He, Y Choi",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Social chemistry 101: Learning to reason about social and moral norms",
+   "authors": "M Forbes, JD Hwang, V Shwartz, M Sap, Y Choi",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Learning with compositional semantics as structural inference for subsentential sentiment analysis",
+   "authors": "Y Choi, C Cardie",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Magpie: Alignment data synthesis from scratch by prompting aligned llms with nothing",
+   "authors": "Z Xu, F Jiang, L Niu, Y Deng, R Poovendran, Y Choi, BY Lin",
+   "venue": "International Conference on Learning Representations 2025, 76346-76382",
+   "year": "2025"
+  },
+  {
+   "title": "Neural theory-of-mind? on the limits of social intelligence in large lms",
+   "authors": "M Sap, R Le Bras, D Fried, Y Choi",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding Dataset Difficulty with -Usable Information",
+   "authors": "K Ethayarajh, Y Choi, S Swayamdipta",
+   "venue": "International Conference on Machine Learning, 5988-6008",
+   "year": "2022"
+  },
+  {
+   "title": "Foundational challenges in assuring alignment and safety of large language models",
+   "authors": "U Anwar, A Saparov, J Rando, D Paleka, M Turpin, P Hase, ES Lubana, ...",
+   "venue": "arXiv preprint arXiv:2404.09932",
+   "year": "2024"
+  },
+  {
+   "title": "Neural AMR: Sequence-to-sequence models for parsing and generation",
+   "authors": "I Konstas, S Iyer, M Yatskar, Y Choi, L Zettlemoyer",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Merlot reserve: Neural script knowledge through vision and language and sound",
+   "authors": "R Zellers, J Lu, X Lu, Y Yu, Y Zhao, M Salehi, A Kusupati, J Hessel, ...",
+   "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2022"
+  },
+  {
+   "title": "DREAM: A challenge data set and models for dialogue-based reading comprehension",
+   "authors": "K Sun, D Yu, J Chen, D Yu, Y Choi, C Cardie",
+   "venue": "Transactions of the Association for Computational Linguistics 7, 217-231",
+   "year": "2019"
+  },
+  {
+   "title": "The unlocking spell on base llms: Rethinking alignment via in-context learning",
+   "authors": "BY Lin, A Ravichander, X Lu, N Dziri, M Sclar, K Chandu, C Bhagavatula, ...",
+   "venue": "International Conference on Learning Representations 2024, 24907-24933",
+   "year": "2024"
+  },
+  {
+   "title": "Surface form competition: Why the highest probability answer isn’t always right",
+   "authors": "A Holtzman, P West, V Shwartz, Y Choi, L Zettlemoyer",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Can llms keep a secret? testing privacy implications of language models via contextual integrity theory",
+   "authors": "N Mireshghallah, H Kim, X Zhou, Y Tsvetkov, M Sap, R Shokri, Y Choi",
+   "venue": "International Conference on Learning Representations 2024, 1892-1915",
+   "year": "2024"
+  },
+  {
+   "title": "Unsupervised commonsense question answering with self-talk",
+   "authors": "V Shwartz, P West, R Le Bras, C Bhagavatula, Y Choi",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Clever hans or neural theory of mind? stress testing social reasoning in large language models",
+   "authors": "N Shapira, M Levy, SH Alavi, X Zhou, Y Choi, Y Goldberg, M Sap, ...",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Realtime qa: What's the answer right now?",
+   "authors": "J Kasai, K Sakaguchi, R Le Bras, A Asai, X Yu, D Radev, NA Smith, ...",
+   "venue": "Advances in neural information processing systems 36, 49025-49043",
+   "year": "2023"
+  },
+  {
+   "title": "Identifying expressions of opinion in context.",
+   "authors": "E Breck, Y Choi, C Cardie",
+   "venue": "IJCAI 7, 2683-2688",
+   "year": "2007"
+  },
+  {
+   "title": "Learning to write with cooperative discriminators",
+   "authors": "A Holtzman, J Buys, M Forbes, A Bosselut, D Golub, Y Choi",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Reframing instructional prompts to gptk’s language",
+   "authors": "S Mishra, D Khashabi, C Baral, Y Choi, H Hajishirzi",
+   "venue": "Findings of the association for computational linguistics: ACL 2022, 589-612",
+   "year": "2022"
+  },
+  {
+   "title": "TreeTalk: Composition and Compression of Trees for                     Image Descriptions",
+   "authors": "P Kuznetsova, V Ordonez, TL Berg, Y Choi",
+   "venue": "Transactions of the Association for Computational Linguistics 2, 351-362",
+   "year": "2014"
+  },
+  {
+   "title": "Quark: Controllable text generation with reinforced unlearning",
+   "authors": "X Lu, S Welleck, J Hessel, L Jiang, L Qin, P West, P Ammanabrolu, Y Choi",
+   "venue": "Advances in neural information processing systems 35, 27591-27609",
+   "year": "2022"
+  },
+  {
+   "title": "Personalized soups: Personalized large language model alignment via post-hoc parameter merging",
+   "authors": "J Jang, S Kim, BY Lin, Y Wang, J Hessel, L Zettlemoyer, H Hajishirzi, ...",
+   "venue": "arXiv preprint arXiv:2310.11564",
+   "year": "2023"
+  },
+  {
+   "title": "WANLI: Worker and AI collaboration for natural language inference dataset creation",
+   "authors": "A Liu, S Swayamdipta, NA Smith, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 6826-6847",
+   "year": "2022"
+  },
+  {
+   "title": "Globally coherent text generation with neural checklist models",
+   "authors": "C Kiddon, L Zettlemoyer, Y Choi",
+   "venue": "Proceedings of the 2016 conference on empirical methods in natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "Ultra-fine entity typing",
+   "authors": "E Choi, O Levy, Y Choi, L Zettlemoyer",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Adversarial filters of dataset biases",
+   "authors": "R Le Bras, S Swayamdipta, C Bhagavatula, R Zellers, M Peters, ...",
+   "venue": "International conference on machine learning, 1078-1088",
+   "year": "2020"
+  },
+  {
+   "title": "Moral stories: Situated reasoning about norms, intents, actions, and their consequences",
+   "authors": "D Emelin, R Le Bras, JD Hwang, M Forbes, Y Choi",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Multimodal c4: An open, billion-scale corpus of images interleaved with text",
+   "authors": "W Zhu, J Hessel, A Awadalla, SY Gadre, J Dodge, A Fang, Y Yu, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 8958-8974",
+   "year": "2023"
+  },
+  {
+   "title": "Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning",
+   "authors": "Z Wang, K Wang, Q Wang, P Zhang, L Li, Z Yang, X Jin, K Yu, MN Nguyen, ...",
+   "venue": "arXiv preprint arXiv:2504.20073",
+   "year": "2025"
+  },
+  {
+   "title": "Distributional footprints of deceptive product reviews",
+   "authors": "S Feng, L Xing, A Gogar, Y Choi",
+   "venue": "Proceedings of the international AAAI conference on web and social media 6 …",
+   "year": "2012"
+  },
+  {
+   "title": "Prorl: Prolonged reinforcement learning expands reasoning boundaries in large language models",
+   "authors": "M Liu, S Diao, X Lu, J Hu, X Dong, Y Choi, J Kautz, Y Dong",
+   "venue": "Advances in Neural Information Processing Systems 38, 17998-18031",
+   "year": "2026"
+  },
+  {
+   "title": "Symbolic chain-of-thought distillation: Small models can also “think” step-by-step",
+   "authors": "LH Li, J Hessel, Y Yu, X Ren, KW Chang, Y Choi",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Is GPT-3 text indistinguishable from human text? scarecrow: A framework for scrutinizing machine text",
+   "authors": "Y Dou, M Forbes, R Koncel-Kedziorski, NA Smith, Y Choi",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Cold decoding: Energy-based constrained text generation with langevin dynamics",
+   "authors": "L Qin, S Welleck, D Khashabi, Y Choi",
+   "venue": "Advances in Neural Information Processing Systems 35, 9538-9551",
+   "year": "2022"
+  },
+  {
+   "title": "Neurologic a* esque decoding: Constrained text generation with lookahead heuristics",
+   "authors": "X Lu, S Welleck, P West, L Jiang, J Kasai, D Khashabi, R Le Bras, L Qin, ...",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Generative data augmentation for commonsense reasoning",
+   "authors": "Y Yang, C Malaviya, J Fernandez, S Swayamdipta, R Le Bras, JP Wang, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 1008-1025",
+   "year": "2020"
+  },
+  {
+   "title": "Soda: Million-scale dialogue distillation with social commonsense contextualization",
+   "authors": "H Kim, J Hessel, L Jiang, P West, X Lu, Y Yu, P Zhou, R Bras, M Alikhani, ...",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Event2mind: Commonsense inference on events, intents, and reactions",
+   "authors": "H Rashkin, M Sap, E Allaway, NA Smith, Y Choi",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Neurologic decoding:(un) supervised neural text generation with predicate logic constraints",
+   "authors": "X Lu, P West, R Zellers, R Le Bras, C Bhagavatula, Y Choi",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Generating sequences by learning to self-correct",
+   "authors": "S Welleck, X Lu, P West, F Brahman, T Shen, D Khashabi, Y Choi",
+   "venue": "arXiv preprint arXiv:2211.00053",
+   "year": "2022"
+  },
+  {
+   "title": "Adapting a polarity lexicon using integer linear programming for domain-specific sentiment classification",
+   "authors": "Y Choi, C Cardie",
+   "venue": "Proceedings of the 2009 conference on empirical methods in natural language …",
+   "year": "2009"
+  },
+  {
+   "title": "FANToM: A benchmark for stress-testing machine theory of mind in interactions",
+   "authors": "H Kim, M Sclar, X Zhou, R Bras, G Kim, Y Choi, M Sap",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "xgen-mm (blip-3): A family of open large multimodal models",
+   "authors": "L Xue, M Shu, A Awadalla, J Wang, A Yan, S Purushwalkam, H Zhou, ...",
+   "venue": "arXiv preprint arXiv:2408.08872",
+   "year": "2024"
+  },
+  {
+   "title": "Dynamic neuro-symbolic knowledge graph construction for zero-shot commonsense question answering",
+   "authors": "A Bosselut, R Le Bras, Y Choi",
+   "venue": "Proceedings of the AAAI conference on Artificial Intelligence 35 (6), 4923-4931",
+   "year": "2021"
+  },
+  {
+   "title": "Joint extraction of entities and relations for opinion recognition",
+   "authors": "Y Choi, E Breck, C Cardie",
+   "venue": "Proceedings of the 2006 conference on empirical methods in natural language …",
+   "year": "2006"
+  },
+  {
+   "title": "Tactical rewind: Self-correction via backtracking in vision-and-language navigation",
+   "authors": "L Ke, X Li, Y Bisk, A Holtzman, Z Gan, J Liu, J Gao, Y Choi, S Srinivasa",
+   "venue": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2019"
+  },
+  {
+   "title": "From explicit cot to implicit cot: Learning to internalize cot step by step",
+   "authors": "Y Deng, Y Choi, S Shieber",
+   "venue": "arXiv preprint arXiv:2405.14838",
+   "year": "2024"
+  },
+  {
+   "title": "Reframing human-AI collaboration for generating free-text explanations",
+   "authors": "S Wiegreffe, J Hessel, S Swayamdipta, M Riedl, Y Choi",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Zebralogic: On the scaling limits of llms for logical reasoning",
+   "authors": "BY Lin, RL Bras, K Richardson, A Sabharwal, R Poovendran, P Clark, ...",
+   "venue": "arXiv preprint arXiv:2502.01100",
+   "year": "2025"
+  },
+  {
+   "title": "Do membership inference attacks work on large language models?",
+   "authors": "M Duan, A Suri, N Mireshghallah, S Min, W Shi, L Zettlemoyer, Y Tsvetkov, ...",
+   "venue": "arXiv preprint arXiv:2402.07841",
+   "year": "2024"
+  },
+  {
+   "title": "Generating topical poetry",
+   "authors": "M Ghazvininejad, X Shi, Y Choi, K Knight",
+   "venue": "Proceedings of the 2016 conference on empirical methods in natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "PlotMachines: Outline-conditioned generation with dynamic plot state tracking",
+   "authors": "H Rashkin, A Celikyilmaz, Y Choi, J Gao",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Can machines learn morality? the delphi experiment",
+   "authors": "L Jiang, JD Hwang, C Bhagavatula, RL Bras, J Liang, J Dodge, ...",
+   "venue": "arXiv preprint arXiv:2110.07574",
+   "year": "2021"
+  },
+  {
+   "title": "Challenges in automated debiasing for toxic language detection",
+   "authors": "X Zhou, M Sap, S Swayamdipta, Y Choi, NA Smith",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "We’re afraid language models aren’t modeling ambiguity",
+   "authors": "A Liu, Z Wu, J Michael, A Suhr, P West, A Koller, S Swayamdipta, ...",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Vinvl: Making visual representations matter in vision-language models",
+   "authors": "P Zhang, X Li, X Hu, J Yang, L Zhang, L Wang, Y Choi, J Gao",
+   "venue": "arXiv preprint arXiv:2101.00529 1 (6), 8",
+   "year": "2021"
+  },
+  {
+   "title": "Openthoughts: Data recipes for reasoning models",
+   "authors": "E Guha, R Marten, S Keh, N Raoof, G Smyrnis, H Bansal, M Nezhurina, ...",
+   "venue": "International Conference on Learning Representations 2026, 108059-108130",
+   "year": "2026"
+  },
+  {
+   "title": "Value kaleidoscope: Engaging ai with pluralistic human values, rights, and duties",
+   "authors": "T Sorensen, L Jiang, JD Hwang, S Levine, V Pyatkin, P West, N Dziri, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (18), 19937 …",
+   "year": "2024"
+  },
+  {
+   "title": "Neural metaphor detection in context",
+   "authors": "G Gao, E Choi, Y Choi, L Zettlemoyer",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Prosocialdialog: A prosocial backbone for conversational agents",
+   "authors": "H Kim, Y Yu, L Jiang, X Lu, D Khashabi, G Kim, Y Choi, M Sap",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Commonsense knowledge base completion with structural and semantic context",
+   "authors": "C Malaviya, C Bhagavatula, A Bosselut, Y Choi",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (03), 2925-2933",
+   "year": "2020"
+  },
+  {
+   "title": "Is reinforcement learning (not) for natural language processing: Benchmarks, baselines, and building blocks for natural language policy optimization",
+   "authors": "R Ramamurthy, P Ammanabrolu, K Brantley, J Hessel, R Sifa, ...",
+   "venue": "arXiv preprint arXiv:2210.01241",
+   "year": "2022"
+  },
+  {
+   "title": "Visualcomet: Reasoning about the dynamic context of a still image",
+   "authors": "JS Park, C Bhagavatula, R Mottaghi, A Farhadi, Y Choi",
+   "venue": "European Conference on Computer Vision, 508-524",
+   "year": "2020"
+  },
+  {
+   "title": "The curious case of neural text degeneration. arXiv 2019",
+   "authors": "A Holtzman, J Buys, L Du, M Forbes, Y Choi",
+   "venue": "arXiv preprint arXiv:1904.09751 10",
+   "year": "1904"
+  },
+  {
+   "title": "Counterfactual story reasoning and generation",
+   "authors": "L Qin, A Bosselut, A Holtzman, C Bhagavatula, E Clark, Y Choi",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Do androids laugh at electric sheep? humor “understanding” benchmarks from the new yorker caption contest",
+   "authors": "J Hessel, A Marasović, JD Hwang, L Lee, J Da, R Zellers, R Mankoff, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Scruples: A corpus of community ethical judgments on 32,000 real-life anecdotes",
+   "authors": "N Lourie, R Le Bras, Y Choi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (15), 13470 …",
+   "year": "2021"
+  },
+  {
+   "title": "Success with style: Using writing style to predict the success of novels",
+   "authors": "VG Ashok, S Feng, Y Choi",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Tuning language models by proxy",
+   "authors": "A Liu, X Han, Y Wang, Y Tsvetkov, Y Choi, NA Smith",
+   "venue": "arXiv preprint arXiv:2401.08565",
+   "year": "2024"
+  },
+  {
+   "title": "Contrastive explanations for model interpretability",
+   "authors": "A Jacovi, S Swayamdipta, S Ravfogel, Y Elazar, Y Choi, Y Goldberg",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Commonsense reasoning for natural language processing",
+   "authors": "M Sap, V Shwartz, A Bosselut, Y Choi, D Roth",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Connotation frames of power and agency in modern films",
+   "authors": "M Sap, MC Prasettio, A Holtzman, H Rashkin, Y Choi",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "Sparse caching for streaming media",
+   "authors": "AV Grigorovitch, Y Choi, TPD Carvalho",
+   "venue": "US Patent App. 20,050/066,063",
+   "year": "2003"
+  },
+  {
+   "title": "Unicorn on rainbow: A universal commonsense reasoning model on a new multitask benchmark",
+   "authors": "N Lourie, R Le Bras, C Bhagavatula, Y Choi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (15), 13480 …",
+   "year": "2021"
+  },
+  {
+   "title": "Modular pluralism: Pluralistic alignment via multi-llm collaboration",
+   "authors": "S Feng, T Sorensen, Y Liu, J Fisher, CY Park, Y Choi, Y Tsvetkov",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Artificial hivemind: The open-ended homogeneity of language models (and beyond)",
+   "authors": "L Jiang, Y Chai, M Li, M Liu, R Fok, N Dziri, Y Tsvetkov, M Sap, Y Choi",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Hellaswag: Can a machine really finish your sentence?, 2019",
+   "authors": "R Zellers, A Holtzman, Y Bisk, A Farhadi, Y Choi",
+   "venue": "URL https://arxiv. org/abs, 20",
+   "year": "1905"
+  },
+  {
+   "title": "Commonsenseqa 2.0: Exposing the limits of ai through gamification",
+   "authors": "A Talmor, O Yoran, RL Bras, C Bhagavatula, Y Goldberg, Y Choi, J Berant",
+   "venue": "arXiv preprint arXiv:2201.05320",
+   "year": "2022"
+  },
+  {
+   "title": "Swiftsage: A generative agent with fast and slow thinking for complex interactive tasks",
+   "authors": "BY Lin, Y Fu, K Yang, F Brahman, S Huang, C Bhagavatula, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 23813-23825",
+   "year": "2023"
+  },
+  {
+   "title": "Where not to eat? Improving public policy by predicting hygiene inspections using online reviews",
+   "authors": "JS Kang, P Kuznetsova, M Luca, Y Choi",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Delphi: Towards machine ethics and norms",
+   "authors": "L Jiang, JD Hwang, C Bhagavatula, R Le Bras, M Forbes, J Borchardt, ...",
+   "venue": "arXiv preprint arXiv:2110.07574 6",
+   "year": "2021"
+  },
+  {
+   "title": "Minding language models’(lack of) theory of mind: A plug-and-play multi-character belief tracker",
+   "authors": "M Sclar, S Kumar, P West, A Suhr, Y Choi, Y Tsvetkov",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Unpacking dpo and ppo: Disentangling best practices for learning from preference feedback",
+   "authors": "H Ivison, Y Wang, J Liu, Z Wu, V Pyatkin, N Lambert, NA Smith, Y Choi, ...",
+   "venue": "Advances in neural information processing systems 37, 36602-36633",
+   "year": "2024"
+  },
+  {
+   "title": "Do embodied agents dream of pixelated sheep: Embodied decision making using language guided world modelling",
+   "authors": "K Nottingham, P Ammanabrolu, A Suhr, Y Choi, H Hajishirzi, S Singh, ...",
+   "venue": "International Conference on Machine Learning, 26311-26325",
+   "year": "2023"
+  },
+  {
+   "title": "Benchmarking generalization via in-context instructions on 1,600+ language tasks",
+   "authors": "Y Wang, S Mishra, P Alipoormolabashi, Y Kordi, A Mirzaei, A Arunkumar, ...",
+   "venue": "arXiv preprint arXiv:2204.07705 2 (2)",
+   "year": "2022"
+  },
+  {
+   "title": "Robust navigation with language pretraining and stochastic sampling",
+   "authors": "X Li, C Li, Q Xia, Y Bisk, A Celikyilmaz, J Gao, NA Smith, Y Choi",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Simulating action dynamics with neural process networks",
+   "authors": "A Bosselut, O Levy, A Holtzman, C Ennis, D Fox, Y Choi",
+   "venue": "arXiv preprint arXiv:1711.05313",
+   "year": "2017"
+  },
+  {
+   "title": "Gender attribution: tracing stylometric evidence beyond topic and genre",
+   "authors": "R Sarawgi, K Gajulapalli, Y Choi",
+   "venue": "Proceedings of the fifteenth conference on computational natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Hierarchical sequential learning for extracting opinions and their attributes",
+   "authors": "Y Choi, C Cardie",
+   "venue": "Proceedings of the ACL 2010 conference short papers, 269-274",
+   "year": "2010"
+  },
+  {
+   "title": "Gdpo: Group reward-decoupled normalization policy optimization for multi-reward rl optimization",
+   "authors": "SY Liu, X Dong, X Lu, S Diao, P Belcak, M Liu, MH Chen, H Yin, ...",
+   "venue": "arXiv preprint arXiv:2601.05242",
+   "year": "2026"
+  },
+  {
+   "title": "Mise en place: Unsupervised interpretation of instructional recipes",
+   "authors": "C Kiddon, GT Ponnuraj, L Zettlemoyer, Y Choi",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Connotation Lexicon: A Dash of Sentiment Beneath the Surface Meaning",
+   "authors": "S Feng, JS Kang, P Kuznetsova, Y Choi",
+   "venue": "ACL",
+   "year": "2013"
+  },
+  {
+   "title": "Do neural language representations learn physical commonsense?",
+   "authors": "M Forbes, A Holtzman, Y Choi",
+   "venue": "arXiv preprint arXiv:1908.02899",
+   "year": "2019"
+  },
+  {
+   "title": "The art of saying no: Contextual noncompliance in language models",
+   "authors": "F Brahman, S Kumar, V Balachandran, P Dasigi, V Pyatkin, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 49706-49748",
+   "year": "2024"
+  },
+  {
+   "title": "Modeling naive psychology of characters in simple commonsense stories",
+   "authors": "H Rashkin, A Bosselut, M Sap, K Knight, Y Choi",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "System and method for automatically recovering from failed network connections in streaming media scenarios",
+   "authors": "Y Choi, A Grigorovitch, T Batterberry",
+   "venue": "US Patent App. 20,030/236,905",
+   "year": "2002"
+  },
+  {
+   "title": "The invisible leash: Why rlvr may or may not escape its origin",
+   "authors": "F Wu, W Xuan, X Lu, M Liu, Y Dong, Z Harchaoui, Y Choi",
+   "venue": "arXiv preprint arXiv:2507.14843",
+   "year": "2025"
+  },
+  {
+   "title": "From large scale image categorization to entry-level categories",
+   "authors": "V Ordonez, J Deng, Y Choi, AC Berg, TL Berg",
+   "venue": "Proceedings of the ieee international conference on computer vision, 2768-2775",
+   "year": "2013"
+  },
+  {
+   "title": "X-teaming: Multi-turn jailbreaks and defenses with adaptive multi-agents",
+   "authors": "S Rahman, L Jiang, J Shiffer, G Liu, S Issaka, MR Parvez, H Palangi, ...",
+   "venue": "arXiv preprint arXiv:2504.13203",
+   "year": "2025"
+  },
+  {
+   "title": "One-minute video generation with test-time training",
+   "authors": "K Dalal, D Koceja, J Xu, Y Zhao, S Han, KC Cheung, J Kautz, Y Choi, ...",
+   "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2025"
+  },
+  {
+   "title": "Thinking like a skeptic: Defeasible inference in natural language",
+   "authors": "R Rudinger, V Shwartz, JD Hwang, C Bhagavatula, M Forbes, R Le Bras, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 4661-4675",
+   "year": "2020"
+  },
+  {
+   "title": "Connotation frames: A data-driven investigation",
+   "authors": "H Rashkin, S Singh, Y Choi",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Goedel-prover-v2: Scaling formal theorem proving with scaffolded data synthesis and self-correction",
+   "authors": "Y Lin, S Tang, B Lyu, Z Yang, JH Chung, H Zhao, L Jiang, Y Geng, J Ge, ...",
+   "venue": "International Conference on Learning Representations 2026, 11793-11818",
+   "year": "2026"
+  },
+  {
+   "title": "Wildbench: Benchmarking llms with challenging tasks from real users in the wild",
+   "authors": "BY Lin, Y Deng, K Chandu, A Ravichander, V Pyatkin, N Dziri, R Le Bras, ...",
+   "venue": "International Conference on Learning Representations 2025, 47852-47870",
+   "year": "2025"
+  },
+  {
+   "title": "The effect of different writing tasks on linguistic style: A case study of the ROC story cloze task",
+   "authors": "R Schwartz, M Sap, I Konstas, L Zilles, Y Choi, NA Smith",
+   "venue": "Proceedings of the 21st Conference on Computational Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Naturalproofs: Mathematical theorem proving in natural language",
+   "authors": "S Welleck, J Liu, RL Bras, H Hajishirzi, Y Choi, K Cho",
+   "venue": "arXiv preprint arXiv:2104.01112",
+   "year": "2021"
+  },
+  {
+   "title": "Wildteaming at scale: From in-the-wild jailbreaks to (adversarially) safer language models",
+   "authors": "L Jiang, K Rao, S Han, A Ettinger, F Brahman, S Kumar, N Mireshghallah, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 47094-47165",
+   "year": "2024"
+  },
+  {
+   "title": "Naturalprover: Grounded mathematical proof generation with language models",
+   "authors": "S Welleck, J Liu, X Lu, H Hajishirzi, Y Choi",
+   "venue": "Advances in Neural Information Processing Systems 35, 4913-4927",
+   "year": "2022"
+  },
+  {
+   "title": "Dynamic entity representations in neural language models",
+   "authors": "Y Ji, C Tan, S Martschat, Y Choi, NA Smith",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Trust or escalate: Llm judges with provable guarantees for human agreement",
+   "authors": "J Jung, F Brahman, Y Choi",
+   "venue": "International Conference on Learning Representations 2025, 3101-3125",
+   "year": "2025"
+  },
+  {
+   "title": "Conversing by reading: Contentful neural conversation with on-demand machine reading",
+   "authors": "L Qin, M Galley, C Brockett, X Liu, X Gao, WB Dolan, Y Choi, J Gao",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "GO FIGURE: A meta evaluation of factuality in summarization",
+   "authors": "S Gabriel, A Celikyilmaz, R Jha, Y Choi, J Gao",
+   "venue": "Findings of the association for computational linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "TIMEDIAL: Temporal commonsense reasoning in dialog",
+   "authors": "L Qin, A Gupta, S Upadhyay, L He, Y Choi, M Faruqui",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Maieutic prompting: Logically consistent reasoning with recursive explanations",
+   "authors": "J Jung, L Qin, S Welleck, F Brahman, C Bhagavatula, R Le Bras, Y Choi",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Event detection and factuality assessment with non-expert supervision",
+   "authors": "K Lee, Y Artzi, Y Choi, L Zettlemoyer",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Infini-gram: Scaling unbounded n-gram language models to a trillion tokens",
+   "authors": "J Liu, S Min, L Zettlemoyer, Y Choi, H Hajishirzi",
+   "venue": "arXiv preprint arXiv:2401.17377",
+   "year": "2024"
+  },
+  {
+   "title": "Back to the future: Unsupervised backprop-based decoding for counterfactual and abductive commonsense reasoning",
+   "authors": "L Qin, V Shwartz, P West, C Bhagavatula, JD Hwang, R Le Bras, ...",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Faking fake news for real fake news detection: Propaganda-loaded training data generation",
+   "authors": "KH Huang, K McKeown, P Nakov, Y Choi, H Ji",
+   "venue": "Proceedings of the 61st annual meeting of the association for computational …",
+   "year": "2023"
+  },
+  {
+   "title": "PIGLeT: Language grounding through neuro-symbolic interaction in a 3D world",
+   "authors": "R Zellers, A Holtzman, ME Peters, R Mottaghi, A Kembhavi, A Farhadi, ...",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Trust no bot: Discovering personal disclosures in human-llm conversations in the wild",
+   "authors": "N Mireshghallah, M Antoniak, Y More, Y Choi, G Farnadi",
+   "venue": "arXiv preprint arXiv:2407.11438",
+   "year": "2024"
+  },
+  {
+   "title": "Phenomenal yet puzzling: Testing inductive reasoning capabilities of language models with hypothesis refinement",
+   "authors": "L Qiu, L Jiang, X Lu, M Sclar, V Pyatkin, C Bhagavatula, B Wang, Y Kim, ...",
+   "venue": "International Conference on Learning Representations 2024, 1452-1481",
+   "year": "2024"
+  },
+  {
+   "title": "Verb physics: Relative physical knowledge of actions and objects",
+   "authors": "M Forbes, Y Choi",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Generalizing Image Captions for Image-Text Parallel Corpus",
+   "authors": "P Kuznetsova, V Ordonez, A Berg, T Berg, Y Choi",
+   "venue": "ACL",
+   "year": "2013"
+  },
+  {
+   "title": "Piqa: Reasoning about physical commonsense in natural language, 2019",
+   "authors": "Y Bisk, R Zellers, R Le Bras, J Gao, Y Choi",
+   "venue": "URL https://arxiv. org/abs",
+   "year": "1911"
+  },
+  {
+   "title": "It’s not rocket science: Interpreting figurative language in narratives",
+   "authors": "T Chakrabarty, Y Choi, V Shwartz",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 589-606",
+   "year": "2022"
+  },
+  {
+   "title": "Discourse-aware neural rewards for coherent text generation",
+   "authors": "A Bosselut, A Celikyilmaz, X He, J Gao, PS Huang, Y Choi",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Large scale retrieval and generation of image descriptions",
+   "authors": "V Ordonez, X Han, P Kuznetsova, G Kulkarni, M Mitchell, K Yamaguchi, ...",
+   "venue": "International Journal of Computer Vision 119 (1), 46-59",
+   "year": "2016"
+  },
+  {
+   "title": "Dailydilemmas: Revealing value preferences of llms with quandaries of daily life",
+   "authors": "YY Chiu, L Jiang, Y Choi",
+   "venue": "arXiv preprint arXiv:2410.02683",
+   "year": "2024"
+  },
+  {
+   "title": "MacGyver: Are large language models creative problem solvers?",
+   "authors": "Y Tian, A Ravichander, L Qin, R Le Bras, R Marjieh, N Peng, Y Choi, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Transparent human evaluation for image captioning",
+   "authors": "J Kasai, K Sakaguchi, L Dunagan, J Morrison, R Le Bras, Y Choi, ...",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "PowerTransformer: Unsupervised controllable revision for biased language correction",
+   "authors": "X Ma, M Sap, H Rashkin, Y Choi",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Understanding self-evolution in llm agents via multi-turn reinforcement learning, 2025",
+   "authors": "Z Wang, K Wang, Q Wang, P Zhang, L Li, Z Yang, X Jin, K Yu, MN Nguyen, ...",
+   "venue": "URL https://arxiv. org/abs/2504.20073 2 (3), 7",
+   "year": "2025"
+  },
+  {
+   "title": "Wildvision: Evaluating vision-language models in the wild with human preferences",
+   "authors": "Y Lu, D Jiang, W Chen, WY Wang, Y Choi, BY Lin",
+   "venue": "Advances in Neural Information Processing Systems 37, 48224-48255",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to discover at test time",
+   "authors": "M Yuksekgonul, D Koceja, X Li, F Bianchi, J McCaleb, X Wang, J Kautz, ...",
+   "venue": "arXiv preprint arXiv:2601.16175",
+   "year": "2026"
+  },
+  {
+   "title": "Agent lumos: Unified and modular training for open-source language agents",
+   "authors": "D Yin, F Brahman, A Ravichander, K Chandu, KW Chang, Y Choi, BY Lin",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "proScript: Partially ordered scripts generation",
+   "authors": "K Sakaguchi, C Bhagavatula, R Le Bras, N Tandon, P Clark, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 2138-2149",
+   "year": "2021"
+  },
+  {
+   "title": "Midstream determination of varying bandwidth availability",
+   "authors": "TD Batterberry, AV Grigorovitch, AE Klemets, JC Stewart, Y Choi",
+   "venue": "US Patent 7,054,774",
+   "year": "2006"
+  },
+  {
+   "title": "Latent collaboration in multi-agent systems",
+   "authors": "J Zou, R Qiu, G Li, X Yang, K Tieu, P Lu, K Shen, H Tong, Y Choi, J He, ...",
+   "venue": "arXiv preprint arXiv:2511.20639",
+   "year": "2025"
+  },
+  {
+   "title": "In-the-flow agentic system optimization for effective planning and tool use",
+   "authors": "Z Li, H Zhang, S Han, S Liu, J Xie, Y Zhang, Y Choi, JY Zou, P Lu",
+   "venue": "International Conference on Learning Representations 2026, 50524-50570",
+   "year": "2026"
+  },
+  {
+   "title": "CulturalBench: A robust, diverse and challenging benchmark for measuring LMs’ cultural knowledge through human-AI red-teaming",
+   "authors": "YY Chiu, L Jiang, BY Lin, CY Park, SS Li, S Ravi, M Bhatia, M Antoniak, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Nemotron-h: A family of accurate and efficient hybrid mamba-transformer models",
+   "authors": "A Blakeman, A Basant, A Khattar, A Renduchintala, A Bercovich, A Ficek, ...",
+   "venue": "arXiv preprint arXiv:2504.03624",
+   "year": "2025"
+  },
+  {
+   "title": "Rainier: Reinforced knowledge introspector for commonsense question answering",
+   "authors": "J Liu, S Hallinan, X Lu, P He, S Welleck, H Hajishirzi, Y Choi",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Natural language rationales with full-stack visual reasoning: From pixels to semantic frames to commonsense graphs",
+   "authors": "A Marasović, C Bhagavatula, JS Park, R Le Bras, NA Smith, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 2810-2829",
+   "year": "2020"
+  },
+  {
+   "title": "Bottlesum: Unsupervised and self-supervised sentence summarization using the information bottleneck principle",
+   "authors": "P West, A Holtzman, J Buys, Y Choi",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Keystroke patterns as prosody in digital writings: A case study with deceptive reviews and essays",
+   "authors": "R Banerjee, S Feng, JS Kang, Y Choi",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Do neural language models overcome reporting bias?",
+   "authors": "V Shwartz, Y Choi",
+   "venue": "Proceedings of the 28th International Conference on Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "The curious case of commonsense intelligence",
+   "authors": "Y Choi",
+   "venue": "Daedalus 151 (2), 139-155",
+   "year": "2022"
+  },
+  {
+   "title": "Investigating machine moral judgement through the Delphi experiment",
+   "authors": "L Jiang, JD Hwang, C Bhagavatula, RL Bras, JT Liang, S Levine, J Dodge, ...",
+   "venue": "Nature Machine Intelligence 7 (1), 145-160",
+   "year": "2025"
+  },
+  {
+   "title": "The generative AI paradox:“what it can create, it may not understand”",
+   "authors": "P West, X Lu, N Dziri, F Brahman, L Li, J Hwang, L Jiang, J Fisher, ...",
+   "venue": "International Conference on Learning Representations 2024, 47159-47187",
+   "year": "2024"
+  },
+  {
+   "title": "Don't throw away your value model! Generating more preferable text with Value-Guided Monte-Carlo Tree Search decoding",
+   "authors": "J Liu, A Cohen, R Pasunuru, Y Choi, H Hajishirzi, A Celikyilmaz",
+   "venue": "arXiv preprint arXiv:2309.15028",
+   "year": "2023"
+  },
+  {
+   "title": "Sounding board: A user-centric and content-driven social chatbot",
+   "authors": "H Fang, H Cheng, M Sap, E Clark, A Holtzman, Y Choi, NA Smith, ...",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Memoryarena: Benchmarking agent memory in interdependent multi-session agentic tasks",
+   "authors": "Z He, Y Wang, C Zhi, Y Hu, TP Chen, L Yin, Z Chen, TA Wu, S Ouyang, ...",
+   "venue": "arXiv preprint arXiv:2602.16313",
+   "year": "2026"
+  },
+  {
+   "title": "Halogen: Fantastic llm hallucinations and where to find them",
+   "authors": "A Ravichander, S Ghela, D Wadden, Y Choi",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Can llms reason with rules? logic scaffolding for stress-testing and improving llms",
+   "authors": "S Wang, Z Wei, Y Choi, X Ren",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning",
+   "authors": "J Hessel, JD Hwang, JS Park, R Zellers, C Bhagavatula, A Rohrbach, ...",
+   "venue": "European Conference on Computer Vision, 558-575",
+   "year": "2022"
+  },
+  {
+   "title": "Learning interpretable spatial operations in a rich 3d blocks world",
+   "authors": "Y Bisk, K Shih, Y Choi, D Marcu",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 32 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "Genie: A leaderboard for human-in-the-loop evaluation of text generation",
+   "authors": "D Khashabi, G Stanovsky, J Bragg, N Lourie, J Kasai, Y Choi, NA Smith, ...",
+   "venue": "arXiv preprint arXiv:2101.06561",
+   "year": "2021"
+  },
+  {
+   "title": "Culture-gen: Revealing global cultural perception in language models through natural language prompting",
+   "authors": "H Li, L Jiang, JD Hwang, H Kim, S Santy, T Sorensen, BY Lin, N Dziri, ...",
+   "venue": "arXiv preprint arXiv:2404.10199",
+   "year": "2024"
+  },
+  {
+   "title": "Vera: A general-purpose plausibility estimation model for commonsense statements",
+   "authors": "J Liu, W Wang, D Wang, NA Smith, Y Choi, H Hajishirzi",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Recollection versus imagination: Exploring human memory and cognition via neural language models",
+   "authors": "M Sap, E Horvitz, Y Choi, NA Smith, J Pennebaker",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "International scientific report on the safety of advanced ai (interim report)",
+   "authors": "Y Bengio, S Mindermann, D Privitera, T Besiroglu, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2412.05282",
+   "year": "2024"
+  },
+  {
+   "title": "Misinfo reaction frames: Reasoning about readers’ reactions to news headlines",
+   "authors": "S Gabriel, S Hallinan, M Sap, P Nguyen, F Roesner, E Choi, Y Choi",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Rewardbench: Evaluating reward models for language modeling, 2024",
+   "authors": "N Lambert, V Pyatkin, J Morrison, LJ Miranda, BY Lin, K Chandu, N Dziri, ...",
+   "venue": "URL https://arxiv. org/abs/2403.13787 40",
+   "year": null
+  },
+  {
+   "title": "From dogwhistles to bullhorns: Unveiling coded rhetoric with language models",
+   "authors": "J Mendelsohn, R Le Bras, Y Choi, M Sap",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Efficient adaptation of pretrained transformers for abstractive summarization",
+   "authors": "A Hoang, A Bosselut, A Celikyilmaz, Y Choi",
+   "venue": "arXiv preprint arXiv:1906.00138",
+   "year": "2019"
+  },
+  {
+   "title": "Detoxifying text with marco: Controllable revision with experts and anti-experts",
+   "authors": "S Hallinan, A Liu, Y Choi, M Sap",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Nouha Dziri, et al. Phenomenal yet puzzling: Testing inductive reasoning capabilities of language models with hypothesis refinement",
+   "authors": "L Qiu, L Jiang, X Lu, M Sclar, V Pyatkin, C Bhagavatula, B Wang, Y Kim, ...",
+   "venue": "arXiv preprint arXiv:2310.08559 2 (9)",
+   "year": "2023"
+  },
+  {
+   "title": "Using landing pages for sponsored search ad selection",
+   "authors": "Y Choi, M Fontoura, E Gabrilovich, V Josifovski, M Mediano, B Pang",
+   "venue": "Proceedings of the 19th international conference on World wide web, 251-260",
+   "year": "2010"
+  },
+  {
+   "title": "Nvidia nemotron nano 2: An accurate and efficient hybrid mamba-transformer reasoning model",
+   "authors": "A Basant, A Khairnar, A Paithankar, A Khattar, A Renduchintala, A Malte, ...",
+   "venue": "arXiv preprint arXiv:2508.14444",
+   "year": "2025"
+  },
+  {
+   "title": "SuperBPE: Space travel for language models",
+   "authors": "A Liu, J Hayase, V Hofmann, S Oh, NA Smith, Y Choi",
+   "venue": "arXiv preprint arXiv:2503.13423",
+   "year": "2025"
+  },
+  {
+   "title": "ClarifyDelphi: Reinforced clarification questions with defeasibility rewards for social and moral situations",
+   "authors": "V Pyatkin, JD Hwang, V Srikumar, X Lu, L Jiang, Y Choi, C Bhagavatula",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Mauve scores for generative models: Theory and practice",
+   "authors": "K Pillutla, L Liu, J Thickstun, S Welleck, S Swayamdipta, R Zellers, S Oh, ...",
+   "venue": "Journal of Machine Learning Research 24 (356), 1-92",
+   "year": "2023"
+  },
+  {
+   "title": "Zero-shot activity recognition with verb attribute induction",
+   "authors": "R Zellers, Y Choi",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Are elephants bigger than butterflies? reasoning about sizes of objects",
+   "authors": "H Bagherinezhad, H Hajishirzi, Y Choi, A Farhadi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 30 (1)",
+   "year": "2016"
+  },
+  {
+   "title": "Structured chemistry reasoning with large language models",
+   "authors": "S Ouyang, Z Zhang, B Yan, X Liu, Y Choi, J Han, L Qin",
+   "venue": "arXiv preprint arXiv:2311.09656",
+   "year": "2023"
+  },
+  {
+   "title": "Automatically generating annotator rationales to improve sentiment classification",
+   "authors": "A Yessenalina, Y Choi, C Cardie",
+   "venue": "Proceedings of the ACL 2010 Conference Short Papers, 336-341",
+   "year": "2010"
+  },
+  {
+   "title": "Machine unlearning doesn't do what you think: Lessons for generative ai policy, research, and practice",
+   "authors": "AF Cooper, CA Choquette-Choo, M Bogen, M Jagielski, K Filippova, K Liu, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Lumos: Learning agents with unified data, modular design, and open-source llms",
+   "authors": "D Yin, F Brahman, A Ravichander, K Chandu, KW Chang, Y Choi, BY Lin",
+   "venue": "ICLR 2024 Workshop on Large Language Model (LLM) Agents",
+   "year": "2023"
+  },
+  {
+   "title": "Aligning to social norms and values in interactive narratives",
+   "authors": "P Ammanabrolu, L Jiang, M Sap, H Hajishirzi, Y Choi",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "CulturalBench: a robust, diverse and challenging benchmark on measuring (the lack of) cultural knowledge of LLMs",
+   "authors": "YY Chiu, L Jiang, BY Lin, CY Park, SS Li, S Ravi, M Bhatia, M Antoniak, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Vagen: Reinforcing world model reasoning for multi-turn vlm agents",
+   "authors": "K Wang, P Zhang, Z Wang, Y Gao, L Li, Q Wang, H Chen, Y Lu, Z Yang, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 172871-172933",
+   "year": "2026"
+  },
+  {
+   "title": "Simpletom: Exposing the gap between explicit tom inference and implicit tom application in llms",
+   "authors": "Y Gu, O Tafjord, H Kim, J Moore, R Le Bras, P Clark, Y Choi",
+   "venue": "International Conference on Learning Representations 2026, 50252-50297",
+   "year": "2026"
+  },
+  {
+   "title": "Alpaca against vicuna: Using llms to uncover memorization of llms",
+   "authors": "AM Kassem, O Mahmoud, N Mireshghallah, H Kim, Y Tsvetkov, Y Choi, ...",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Mint-1t: Scaling open-source multimodal data by 10x: A multimodal dataset with one trillion tokens",
+   "authors": "A Awadalla, L Xue, O Lo, M Shu, H Lee, E Guha, M Jordan, S Shen, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 36805-36828",
+   "year": "2024"
+  },
+  {
+   "title": "Quantifying the narrative flow of imagined versus autobiographical stories",
+   "authors": "M Sap, A Jafarpour, Y Choi, NA Smith, JW Pennebaker, E Horvitz",
+   "venue": "Proceedings of the National Academy of Sciences 119 (45), e2211715119",
+   "year": "2022"
+  },
+  {
+   "title": "Diverging preferences: When do annotators disagree and do models know?",
+   "authors": "MJQ Zhang, Z Wang, JD Hwang, Y Dong, O Delalleau, Y Choi, E Choi, ...",
+   "venue": "arXiv preprint arXiv:2410.14632",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to rationalize for nonmonotonic reasoning with distant supervision",
+   "authors": "F Brahman, V Shwartz, R Rudinger, Y Choi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (14), 12592 …",
+   "year": "2021"
+  },
+  {
+   "title": "Paragraph-level commonsense transformers with recurrent memory",
+   "authors": "S Gabriel, C Bhagavatula, V Shwartz, R Le Bras, M Forbes, Y Choi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (14), 12857 …",
+   "year": "2021"
+  },
+  {
+   "title": "Language of vandalism: Improving wikipedia vandalism detection via stylometric analysis",
+   "authors": "M Harpalani, M Hart, S Singh, R Johnson, Y Choi",
+   "venue": "Proceedings of the 49th Annual Meeting of the Association for Computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Neural poetry translation",
+   "authors": "M Ghazvininejad, Y Choi, K Knight",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Characterizing stylistic elements in syntactic structure",
+   "authors": "S Feng, R Banerjee, Y Choi",
+   "venue": "Proceedings of the 2012 joint conference on empirical methods in natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Are machine rationales (not) useful to humans? measuring and improving human utility of free-text rationales",
+   "authors": "B Joshi, Z Liu, S Ramnath, A Chan, Z Tong, S Nie, Q Wang, Y Choi, X Ren",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Learning General Connotation of Words using Graph-based Algorithms",
+   "authors": "S Feng, R Bose, Y Choi",
+   "venue": "EMNLP",
+   "year": "2011"
+  },
+  {
+   "title": "Can language models reason about individualistic human values and preferences?",
+   "authors": "L Jiang, T Sorensen, S Levine, Y Choi",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Language model alignment in multilingual trolley problems",
+   "authors": "Z Jin, M Kleiman-Weiner, G Piatti, S Levine, J Liu, F Gonzalez Adauto, ...",
+   "venue": "International Conference on Learning Representations 2025, 18831-18860",
+   "year": "2025"
+  },
+  {
+   "title": "Déja image-captions: A corpus of expressive descriptions in repetition",
+   "authors": "J Chen, P Kuznetsova, D Warren, Y Choi",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Explore theory of mind: program-guided adversarial data generation for theory of mind reasoning",
+   "authors": "M Sclar, J Dwivedi-Yu, M Fazel-Zarandi, Y Tsvetkov, Y Bisk, Y Choi, ...",
+   "venue": "International Conference on Learning Representations 2025, 67635-67660",
+   "year": "2025"
+  },
+  {
+   "title": "Selective “selective prediction”: Reducing unnecessary abstention in vision-language reasoning",
+   "authors": "T Srinivasan, J Hessel, T Gupta, BY Lin, Y Choi, J Thomason, K Chandu",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 12935-12948",
+   "year": "2024"
+  },
+  {
+   "title": "Bidimensional leaderboards: Generate and evaluate language hand in hand",
+   "authors": "J Kasai, K Sakaguchi, R Le Bras, L Dunagan, J Morrison, AR Fabbri, ...",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Story cloze task: Uw nlp system",
+   "authors": "R Schwartz, M Sap, I Konstas, L Zilles, Y Choi, NA Smith",
+   "venue": "Proceedings of the 2nd Workshop on Linking Models of Lexical, Sentential and …",
+   "year": "2017"
+  },
+  {
+   "title": "“You are an expert linguistic annotator”: limits of LLMs as analyzers of abstract meaning representation",
+   "authors": "A Ettinger, J Hwang, V Pyatkin, C Bhagavatula, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 8250-8263",
+   "year": "2023"
+  },
+  {
+   "title": "Analyzing commonsense emergence in few-shot knowledge models",
+   "authors": "J Da, RL Bras, X Lu, Y Choi, A Bosselut",
+   "venue": "arXiv preprint arXiv:2101.00297",
+   "year": "2021"
+  },
+  {
+   "title": "Biased LLMs can influence political decision-making",
+   "authors": "J Fisher, S Feng, R Aron, T Richardson, Y Choi, DW Fisher, J Pan, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "“I’m not mad”: Commonsense implications of negation and contradiction",
+   "authors": "L Jiang, A Bosselut, C Bhagavatula, Y Choi",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Detecting visual text",
+   "authors": "J Dodge, A Goyal, X Han, A Mensch, M Mitchell, K Stratos, K Yamaguchi, ...",
+   "venue": "Proceedings of the 2012 Conference of the North American Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "Perceptions to beliefs: Exploring precursory inferences for theory of mind in large language models",
+   "authors": "C Jung, D Kim, J Jin, J Kim, Y Seonwoo, Y Choi, A Oh, H Kim",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Wildhallucinations: Evaluating long-form factuality in llms with real-world entity queries",
+   "authors": "W Zhao, T Goyal, YY Chiu, L Jiang, B Newman, A Ravichander, ...",
+   "venue": "arXiv preprint arXiv:2407.17468",
+   "year": "2024"
+  },
+  {
+   "title": "Prismatic synthesis: Gradient-based data diversification boosts generalization in llm reasoning",
+   "authors": "J Jung, S Han, X Lu, S Hallinan, D Acuna, S Prabhumoye, M Patwary, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 90649-90685",
+   "year": "2026"
+  },
+  {
+   "title": "End-to-end test-time training for long context",
+   "authors": "A Tandon, K Dalal, X Li, D Koceja, M Rød, S Buchanan, X Wang, ...",
+   "venue": "arXiv preprint arXiv:2512.23675",
+   "year": "2025"
+  },
+  {
+   "title": "Multimodal knowledge alignment with reinforcement learning",
+   "authors": "Y Yu, J Chung, H Yun, J Hessel, JS Park, X Lu, P Ammanabrolu, R Zellers, ...",
+   "venue": "arXiv preprint arXiv:2205.12630",
+   "year": "2022"
+  },
+  {
+   "title": "Sounding board–university of washington’s alexa prize submission",
+   "authors": "H Fang, H Cheng, E Clark, A Holtzman, M Sap, M Ostendorf, Y Choi, ...",
+   "venue": "Alexa prize proceedings",
+   "year": "2017"
+  },
+  {
+   "title": "Hypothesis-driven theory-of-mind reasoning for large language models",
+   "authors": "H Kim, M Sclar, T Zhi-Xuan, L Ying, S Levine, Y Liu, JB Tenenbaum, ...",
+   "venue": "arXiv preprint arXiv:2502.11881",
+   "year": "2025"
+  },
+  {
+   "title": "Symbolic brittleness in sequence models: on systematic generalization in symbolic mathematics",
+   "authors": "S Welleck, P West, J Cao, Y Choi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (8), 8629-8637",
+   "year": "2022"
+  },
+  {
+   "title": "Domain Independent Authorship Attribution without Domain Adaptation",
+   "authors": "RK Menon, Y Choi",
+   "venue": "RANLP",
+   "year": "2011"
+  },
+  {
+   "title": "GENIE: Toward reproducible and standardized human evaluation for text generation",
+   "authors": "D Khashabi, G Stanovsky, J Bragg, N Lourie, J Kasai, Y Choi, NA Smith, ...",
+   "venue": "Proceedings of the 2022 conference on empirical methods in natural language …",
+   "year": "2022"
+  },
+  {
+   "title": "Exposing the limits of video-text models through contrast sets",
+   "authors": "JS Park, S Shen, A Farhadi, T Darrell, Y Choi, A Rohrbach",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Document-level sentiment inference with social, faction, and discourse context",
+   "authors": "E Choi, H Rashkin, L Zettlemoyer, Y Choi",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "When one llm drools, multi-llm collaboration rules",
+   "authors": "S Feng, W Ding, A Liu, Z Wang, W Shi, Y Wang, SZ Shen, X Han, H Lang, ...",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Nvidia nemotron 3: Efficient and open intelligence",
+   "authors": "A Blakeman, A Grattafiori, A Basant, A Gupta, A Khattar, A Renduchintala, ...",
+   "venue": "arXiv preprint arXiv:2512.20856",
+   "year": "2025"
+  },
+  {
+   "title": "Culturalteaming: Ai-assisted interactive red-teaming for challenging llms'(lack of) multicultural knowledge",
+   "authors": "YY Chiu, L Jiang, M Antoniak, CY Park, SS Li, M Bhatia, S Ravi, ...",
+   "venue": "arXiv preprint arXiv:2404.06664",
+   "year": "2024"
+  },
+  {
+   "title": "I cast detect thoughts: Learning to converse and guide with intents and theory-of-mind in dungeons and dragons",
+   "authors": "P Zhou, A Zhu, J Hu, J Pujara, X Ren, C Callison-Burch, Y Choi, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Connecting the dots between audio and text without parallel data through visual knowledge transfer",
+   "authors": "Y Zhao, J Hessel, Y Yu, X Lu, R Zellers, Y Choi",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Model swarms: Collaborative search to adapt llm experts via swarm intelligence",
+   "authors": "S Feng, Z Wang, Y Wang, S Ebrahimi, H Palangi, L Miculicich, ...",
+   "venue": "arXiv preprint arXiv:2410.11163",
+   "year": "2024"
+  },
+  {
+   "title": "I2d2: Inductive knowledge distillation with neurologic and self-imitation",
+   "authors": "C Bhagavatula, JD Hwang, D Downey, R Le Bras, X Lu, L Qin, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Penguins don’t fly: Reasoning about generics through instantiations and exceptions",
+   "authors": "E Allaway, JD Hwang, C Bhagavatula, K McKeown, D Downey, Y Choi",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Toolorchestra: Elevating intelligence via efficient model and tool orchestration",
+   "authors": "H Su, S Diao, X Lu, M Liu, J Xu, X Dong, Y Fu, P Belcak, H Ye, H Yin, ...",
+   "venue": "arXiv preprint arXiv:2511.21689",
+   "year": "2025"
+  },
+  {
+   "title": "SQuARe: A large-scale dataset of sensitive questions and acceptable responses created through human-machine collaboration",
+   "authors": "H Lee, S Hong, J Park, T Kim, M Cha, Y Choi, B Kim, G Kim, EJ Lee, Y Lim, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Data mixture inference attack: BPE tokenizers reveal training data compositions",
+   "authors": "J Hayase, A Liu, Y Choi, S Oh, NA Smith",
+   "venue": "Advances in Neural Information Processing Systems 37, 8956-8983",
+   "year": "2024"
+  },
+  {
+   "title": "TuringAdvice: A generative and dynamic evaluation of language use",
+   "authors": "R Zellers, A Holtzman, E Clark, L Qin, A Farhadi, Y Choi",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Advancing science-and evidence-based AI policy",
+   "authors": "R Bommasani, S Arora, J Chayes, Y Choi, MF Cuéllar, L Fei-Fei, DE Ho, ...",
+   "venue": "Science 389 (6759), 459-461",
+   "year": "2025"
+  },
+  {
+   "title": "Particip-ai: A democratic surveying framework for anticipating future ai use cases, harms and benefits",
+   "authors": "J Mun, L Jiang, J Liang, I Cheong, N DeCario, Y Choi, T Kohno, M Sap",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7 (1), 997 …",
+   "year": "2024"
+  },
+  {
+   "title": "Benchmarking vision language model unlearning via fictitious facial identity dataset",
+   "authors": "Y Ma, J Wang, F Wang, S Ma, J Li, J Pan, X Li, F Huang, L Sun, B Li, ...",
+   "venue": "International Conference on Learning Representations 2025, 87806-87827",
+   "year": "2025"
+  },
+  {
+   "title": "Symbolic working memory enhances language models for complex rule application",
+   "authors": "S Wang, Z Wei, Y Choi, X Ren",
+   "venue": "Proceedings of the 2024 conference on empirical methods in natural language …",
+   "year": "2024"
+  },
+  {
+   "title": "Crystal: Introspective reasoners reinforced with self-feedback",
+   "authors": "J Liu, R Pasunuru, H Hajishirzi, Y Choi, A Celikyilmaz",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Plasma: Making small language models better procedural knowledge models for (counterfactual) planning",
+   "authors": "F Brahman, C Bhagavatula, V Pyatkin, JD Hwang, XL Li, HJ Arai, ...",
+   "venue": "arXiv preprint arXiv:2305.19472",
+   "year": "2023"
+  },
+  {
+   "title": "Multilingual connotation frames: a case study on social media for targeted sentiment analysis and forecast",
+   "authors": "H Rashkin, E Bell, Y Choi, S Volkova",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Wildchat: 1m chatgpt interaction logs in the wild, 2024",
+   "authors": "W Zhao, X Ren, J Hessel, C Cardie, Y Choi, Y Deng",
+   "venue": "URL https://arxiv. org/abs/2405.01470 6 (7), 24",
+   "year": null
+  },
+  {
+   "title": "Making ppo even better: Value-guided monte-carlo tree search decoding",
+   "authors": "J Liu, A Cohen, R Pasunuru, Y Choi, H Hajishirzi, A Celikyilmaz",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Prompt waywardness: The curious case of discretized interpretation of continuous prompts",
+   "authors": "D Khashabi, X Lyu, S Min, L Qin, K Richardson, S Welleck, H Hajishirzi, ...",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "ConnotationWordNet: Learning connotation over the word+ sense network",
+   "authors": "JS Kang, S Feng, L Akoglu, Y Choi",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Chasing moving targets with online self-play reinforcement learning for safer language models",
+   "authors": "M Liu, L Jiang, Y Liang, SS Du, Y Choi, T Althoff, N Jaques",
+   "venue": "arXiv preprint arXiv:2506.07468",
+   "year": "2025"
+  },
+  {
+   "title": "Culturalbench: A robust, diverse, and challenging cultural benchmark by human-ai culturalteaming",
+   "authors": "YY Chiu, L Jiang, BY Lin, CY Park, SS Li, S Ravi, M Bhatia, M Antoniak, ...",
+   "venue": "Preprint",
+   "year": "2025"
+  },
+  {
+   "title": "Paraguide: Guided diffusion paraphrasers for plug-and-play textual style transfer",
+   "authors": "Z Horvitz, A Patel, C Callison-Burch, Z Yu, K McKeown",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 38 (16), 18216 …",
+   "year": "2024"
+  },
+  {
+   "title": "Neurocounterfactuals: Beyond minimal-edit counterfactuals for richer data augmentation",
+   "authors": "P Howard, G Singer, V Lal, Y Choi, S Swayamdipta",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 5056-5072",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding and quantifying creativity in lexical composition",
+   "authors": "P Kuznetsova, J Chen, Y Choi",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "CopyBench: Measuring literal and non-literal reproduction of copyright-protected text in language model generation",
+   "authors": "T Chen, A Asai, N Mireshghallah, S Min, J Grimmelmann, Y Choi, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Biased ai can influence political decision-making",
+   "authors": "J Fisher, S Feng, R Aron, T Richardson, Y Choi, DW Fisher, J Pan, ...",
+   "venue": "arXiv preprint arXiv:2410.06415",
+   "year": "2024"
+  },
+  {
+   "title": "Discourse understanding and factual consistency in abstractive summarization",
+   "authors": "S Gabriel, A Bosselut, J Da, A Holtzman, J Buys, K Lo, A Celikyilmaz, ...",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "HellaSwag: Can a machine really finish your sentence? arXiv",
+   "authors": "R Zellers, A Holtzman, Y Bisk, A Farhadi, Y Choi",
+   "venue": "arXiv preprint arXiv:1905.07830",
+   "year": "2019"
+  },
+  {
+   "title": "Defending against neural fake news (2019)",
+   "authors": "R Zellers, A Holtzman, H Rashkin, Y Bisk, A Farhadi, F Roesner, Y Choi",
+   "venue": "arXiv preprint arXiv:1905.12616",
+   "year": "1905"
+  },
+  {
+   "title": "Goedel-prover-v2: Scaling formal theorem proving with scaffolded data synthesis and self-correction, 2025",
+   "authors": "Y Lin, S Tang, B Lyu, Z Yang, JH Chung, H Zhao, L Jiang, Y Geng, J Ge, ...",
+   "venue": "URL https://arxiv. org/abs/2508.03613",
+   "year": null
+  },
+  {
+   "title": "Nemotron 3 nano: Open, efficient mixture-of-experts hybrid mamba-transformer model for agentic reasoning",
+   "authors": "A Blakeman, A Grattafiori, A Basant, A Gupta, A Khattar, A Renduchintala, ...",
+   "venue": "arXiv preprint arXiv:2512.20848",
+   "year": "2025"
+  },
+  {
+   "title": "Haicosystem: An ecosystem for sandboxing safety risks in human-ai interactions",
+   "authors": "X Zhou, H Kim, F Brahman, L Jiang, H Zhu, X Lu, F Xu, BY Lin, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2409.16427",
+   "year": "2024"
+  },
+  {
+   "title": "Beyond semantic similarity: Rethinking retrieval for agentic search via direct corpus interaction",
+   "authors": "Z Li, H Zhang, C Wei, P Lu, P Nie, Y Lu, Y Bai, S Feng, H Zhu, M Zhong, ...",
+   "venue": "arXiv preprint arXiv:2605.05242",
+   "year": "2026"
+  },
+  {
+   "title": "A false sense of privacy: Evaluating textual data sanitization beyond surface-level privacy leakage",
+   "authors": "R Xin, N Mireshghallah, SS Li, M Duan, H Kim, Y Choi, Y Tsvetkov, S Oh, ...",
+   "venue": "2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML …",
+   "year": "2026"
+  },
+  {
+   "title": "Wildteaming at scale: From in-the-wild jailbreaks to (adversarially) safer language models, 2024",
+   "authors": "L Jiang, K Rao, S Han, A Ettinger, F Brahman, S Kumar, N Mireshghallah, ...",
+   "venue": "URL https://arxiv. org/abs/2406.18510",
+   "year": "2025"
+  },
+  {
+   "title": "From explicit cot to implicit cot: Learning to internalize cot step by step, 2024",
+   "authors": "Y Deng, Y Choi, S Shieber",
+   "venue": "URL https://arxiv. org/abs/2405.14838",
+   "year": null
+  },
+  {
+   "title": "Rlp: Reinforcement as a pretraining objective",
+   "authors": "A Hatamizadeh, SN Akter, S Prabhumoye, J Kautz, M Patwary, M Shoeybi, ...",
+   "venue": "International Conference on Learning Representations 2026, 41375-41402",
+   "year": "2026"
+  },
+  {
+   "title": "Inference-time policy adapters (ipa): Tailoring extreme-scale lms without fine-tuning",
+   "authors": "X Lu, F Brahman, P West, J Jung, K Chandu, A Ravichander, ...",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Realtoxicityprompts: Evaluating neural toxic degeneration in language models, 2020",
+   "authors": "S Gehman, S Gururangan, M Sap, Y Choi, NA Smith",
+   "venue": "URL https://arxiv. org/abs",
+   "year": "2009"
+  },
+  {
+   "title": "Unfolding spatial cognition: Evaluating multimodal models on visual simulations",
+   "authors": "L Li, M Bigverdi, J Gu, Z Ma, Y Yang, Z Li, Y Choi, R Krishna",
+   "venue": "International Conference on Learning Representations 2026, 93136-93189",
+   "year": "2026"
+  },
+  {
+   "title": "Adaptation of agentic ai",
+   "authors": "P Jiang, J Lin, Z Shi, Z Wang, L He, Y Wu, M Zhong, P Song, Q Zhang, ...",
+   "venue": "arXiv e-prints, arXiv: 2512.16301",
+   "year": "2025"
+  },
+  {
+   "title": "Zebralogic: On the scaling limits of llms for logical reasoning, 2025",
+   "authors": "BY Lin, R Le Bras, K Richardson, A Sabharwal, R Poovendran, P Clark, ...",
+   "venue": "URL https://arxiv. org/abs/2502.01100",
+   "year": "2025"
+  },
+  {
+   "title": "Actionatlas: A videoqa benchmark for domain-specialized action recognition",
+   "authors": "M Salehi, JS Park, T Yadav, A Kusupati, R Krishna, Y Choi, H Hajishirzi, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 137372-137402",
+   "year": "2024"
+  },
+  {
+   "title": "Referee: Reference-free sentence summarization with sharper controllability through symbolic knowledge distillation",
+   "authors": "M Sclar, P West, S Kumar, Y Tsvetkov, Y Choi",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Divergence frontiers for generative models: Sample complexity, quantization effects, and frontier integrals",
+   "authors": "L Liu, K Pillutla, S Welleck, S Oh, Y Choi, Z Harchaoui",
+   "venue": "Advances in Neural Information Processing Systems 34, 12930-12942",
+   "year": "2021"
+  },
+  {
+   "title": "System and methods for automatically detecting deceptive content",
+   "authors": "M Ott, Y Choi, C Cardie, J Hancock",
+   "venue": "US Patent 10,642,975",
+   "year": "2020"
+  },
+  {
+   "title": "Tailoring self-rationalizers with multi-reward distillation",
+   "authors": "S Ramnath, B Joshi, S Hallinan, X Lu, L Li, A Chan, J Hessel, Y Choi, ...",
+   "venue": "International Conference on Learning Representations 2024, 41611-41641",
+   "year": "2024"
+  },
+  {
+   "title": "CHAMPAGNE: learning real-world conversation from large-scale web videos",
+   "authors": "S Han, J Hessel, N Dziri, Y Choi, Y Yu",
+   "venue": "2023 IEEE/CVF International Conference on Computer Vision (ICCV), 15452-15463",
+   "year": "2023"
+  },
+  {
+   "title": "Fusing pre-trained language models with multimodal prompts through reinforcement learning",
+   "authors": "Y Yu, J Chung, H Yun, J Hessel, JS Park, X Lu, R Zellers, P Ammanabrolu, ...",
+   "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2023"
+  },
+  {
+   "title": "Nemotron-crossthink: Scaling self-learning beyond math reasoning",
+   "authors": "SN Akter, S Prabhumoye, M Novikov, S Han, Y Lin, E Bakhturina, ...",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "L3go: Language agents with chain-of-3d-thoughts for generating unconventional objects",
+   "authors": "Y Yamada, K Chandu, BY Lin, J Hessel, I Yildirim, Y Choi",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Can machines learn morality? The Delphi experiment. arXiv",
+   "authors": "L Jiang, JD Hwang, C Bhagavatula, RL Bras, J Liang, J Dodge, ...",
+   "venue": "arXiv preprint arXiv:2110.07574",
+   "year": "2021"
+  },
+  {
+   "title": "Procedural reading comprehension with attribute-aware context flow",
+   "authors": "A Amini, A Bosselut, BD Mishra, Y Choi, H Hajishirzi",
+   "venue": "arXiv preprint arXiv:2003.13878",
+   "year": "2020"
+  },
+  {
+   "title": "Clipscore: A reference-free evaluation metric for image captioning. arXiv 2021",
+   "authors": "J Hessel, A Holtzman, M Forbes, RL Bras, Y Choi",
+   "venue": "arXiv preprint arXiv:2104.08718",
+   "year": null
+  },
+  {
+   "title": "Front-loading reasoning: The synergy between pretraining and post-training data",
+   "authors": "SN Akter, S Prabhumoye, E Nyberg, M Patwary, M Shoeybi, Y Choi, ...",
+   "venue": "International Conference on Learning Representations 2026, 80909-80928",
+   "year": "2026"
+  },
+  {
+   "title": "Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?",
+   "authors": "P Zhang, Z Huang, Y Wang, J Zhang, L Xue, Z Wang, Q Wang, ...",
+   "venue": "The Fourteenth International Conference on Learning Representations",
+   "year": "2026"
+  },
+  {
+   "title": "Dler: Doing length penalty right-incentivizing more intelligence per token via reinforcement learning",
+   "authors": "SY Liu, X Dong, X Lu, S Diao, M Liu, MH Chen, H Yin, YCF Wang, ...",
+   "venue": "arXiv preprint arXiv:2510.15110",
+   "year": "2025"
+  },
+  {
+   "title": "Will ai tell lies to save sick children? litmus-testing ai values prioritization with airiskdilemmas",
+   "authors": "YY Chiu, Z Wang, S Maiya, Y Choi, K Fish, S Levine, E Hubinger",
+   "venue": "arXiv preprint arXiv:2505.14633",
+   "year": "2025"
+  },
+  {
+   "title": "Botpercent: Estimating bot populations in twitter communities",
+   "authors": "Z Tan, S Feng, M Sclar, H Wan, M Luo, Y Choi, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 14295 …",
+   "year": "2023"
+  },
+  {
+   "title": "Predicting entry-level categories",
+   "authors": "V Ordonez, W Liu, J Deng, Y Choi, AC Berg, TL Berg",
+   "venue": "International Journal of Computer Vision 115 (1), 29-43",
+   "year": "2015"
+  },
+  {
+   "title": "Why and how llms hallucinate: Connecting the dots with subsequence associations",
+   "authors": "Y Sun, Y Gai, L Chen, A Ravichander, Y Choi, N Dziri, D Song",
+   "venue": "Advances in Neural Information Processing Systems 38, 35159-35203",
+   "year": "2026"
+  },
+  {
+   "title": "Brorl: Scaling reinforcement learning via broadened exploration",
+   "authors": "J Hu, M Liu, X Lu, F Wu, Z Harchaoui, S Diao, Y Choi, P Molchanov, ...",
+   "venue": "arXiv preprint arXiv:2510.01180",
+   "year": "2025"
+  },
+  {
+   "title": "Ai as humanity’s salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text",
+   "authors": "X Lu, M Sclar, S Hallinan, N Mireshghallah, J Liu, S Han, A Ettinger, ...",
+   "venue": "International Conference on Learning Representations 2025, 91005-91056",
+   "year": "2025"
+  },
+  {
+   "title": "Retro-search: Exploring untaken paths for deeper and efficient reasoning",
+   "authors": "X Lu, S Han, D Acuna, H Kim, J Jung, S Prabhumoye, N Muennighoff, ...",
+   "venue": "arXiv preprint arXiv:2504.04383",
+   "year": "2025"
+  },
+  {
+   "title": "Wildvis: Open source visualizer for million-scale chat logs in the wild",
+   "authors": "Y Deng, W Zhao, J Hessel, X Ren, C Cardie, Y Choi",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "StyleRemix: Interpretable authorship obfuscation via distillation and perturbation of style elements",
+   "authors": "J Fisher, S Hallinan, X Lu, ML Gordon, Z Harchaoui, Y Choi",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Agent ai: Surveying the horizons of multimodal interaction, 2024",
+   "authors": "Z Durante, Q Huang, N Wake, R Gong, JS Park, B Sarkar, R Taori, Y Noda, ...",
+   "venue": "URL https://arxiv. org/abs/2401.03568 2401",
+   "year": "2024"
+  },
+  {
+   "title": "Botpercent: estimating Twitter bot populations from groups to crowds",
+   "authors": "Z Tan, S Feng, M Sclar, H Wan, M Luo, Y Choi, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2302.00381",
+   "year": "2023"
+  },
+  {
+   "title": "Conversational multi-hop reasoning with neural commonsense knowledge and symbolic logic rules",
+   "authors": "F Arabshahi, J Lee, A Bosselut, Y Choi, T Mitchell",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Learning prototypical event structure from photo albums",
+   "authors": "A Bosselut, J Chen, D Warren, H Hajishirzi, Y Choi",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Segment-phrase table for semantic segmentation, visual entailment and paraphrasing",
+   "authors": "H Izadinia, F Sadeghi, SK Divvala, H Hajishirzi, Y Choi, A Farhadi",
+   "venue": "Proceedings of the IEEE international conference on computer vision, 10-18",
+   "year": "2015"
+  },
+  {
+   "title": "Gated DeltaNet-2: Decoupling erase and write in linear attention",
+   "authors": "A Hatamizadeh, Y Choi, J Kautz",
+   "venue": "arXiv preprint arXiv:2605.22791",
+   "year": "2026"
+  },
+  {
+   "title": "Profbench: Multi-domain rubrics requiring professional knowledge to answer and judge",
+   "authors": "Z Wang, J Jung, X Lu, S Diao, E Evans, J Zeng, P Molchanov, Y Choi, ...",
+   "venue": "International Conference on Learning Representations 2026, 5355-5384",
+   "year": "2026"
+  },
+  {
+   "title": "Edited media understanding frames: Reasoning about the intent and implications of visual misinformation",
+   "authors": "J Da, M Forbes, R Zellers, A Zheng, JD Hwang, A Bosselut, Y Choi",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Scaling up rl: Unlocking diverse reasoning in llms via prolonged training",
+   "authors": "M Liu, S Diao, J Hu, X Lu, X Dong, H Zhang, A Bukharin, S Zhang, J Zeng, ...",
+   "venue": "arXiv preprint arXiv:2507.12507",
+   "year": "2025"
+  },
+  {
+   "title": "A call for clarity in beam search: How it works and when it stops",
+   "authors": "J Kasai, K Sakaguchi, R Le Bras, D Radev, Y Choi, NA Smith",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Exploiting structural and semantic context for commonsense knowledge base completion",
+   "authors": "C Malaviya, C Bhagavatula, A Bosselut, Y Choi",
+   "venue": "arXiv preprint arXiv:1910.02915",
+   "year": "2019"
+  },
+  {
+   "title": "Thinkmorph: Emergent properties in multimodal interleaved chain-of-thought reasoning",
+   "authors": "J Gu, Y Hao, H Wang, L Li, MQ Shieh, Y Choi, R Krishna, Y Cheng",
+   "venue": "International Conference on Learning Representations 2026, 141405-141447",
+   "year": "2026"
+  },
+  {
+   "title": "Reflective decoding: Beyond unidirectional generation with off-the-shelf language models",
+   "authors": "P West, X Lu, A Holtzman, C Bhagavatula, JD Hwang, Y Choi",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "The curious case of neural text degeneration (arXiv: 1904.09751). arXiv",
+   "authors": "A Holtzman, J Buys, L Du, M Forbes, Y Choi",
+   "venue": "",
+   "year": "1904"
+  },
+  {
+   "title": "Posex: AI defeats physics-based methods on protein ligand cross-docking",
+   "authors": "Y Jiang, X Li, Y Zhang, J Han, Y Xu, A Pandit, Z Zhang, M Wang, M Wang, ...",
+   "venue": "International Conference on Learning Representations 2026, 88211-88245",
+   "year": "2026"
+  },
+  {
+   "title": "Towards execution-grounded automated AI research",
+   "authors": "C Si, Z Yang, Y Choi, E Candès, D Yang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2601.14525",
+   "year": "2026"
+  },
+  {
+   "title": "Nitrogen: An open foundation model for generalist gaming agents",
+   "authors": "L Magne, A Awadalla, G Wang, Y Xu, J Belofsky, F Hu, J Kim, L Schmidt, ...",
+   "venue": "arXiv preprint arXiv:2601.02427",
+   "year": "2026"
+  },
+  {
+   "title": "CertainlyUncertain: A benchmark and metric for multimodal epistemic and aleatoric awareness",
+   "authors": "K Chandu, L Li, A Awadalla, X Lu, JS Park, J Hessel, L Wang, Y Choi",
+   "venue": "International Conference on Learning Representations 2025, 12676-12705",
+   "year": "2025"
+  },
+  {
+   "title": "Information-guided identification of training data imprint in (proprietary) large language models",
+   "authors": "A Ravichander, J Fisher, T Sorensen, X Lu, M Antoniak, BY Lin, ...",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Blip-3: A family of open large multimodal models",
+   "authors": "L Xue, M Shu, A Awadalla, J Wang, A Yan, S Purushwalkam, H Zhou, ...",
+   "venue": "Proceedings of the IEEE/CVF international conference on computer vision …",
+   "year": "2025"
+  },
+  {
+   "title": "Blip3-kale: Knowledge augmented large-scale dense captions",
+   "authors": "A Awadalla, L Xue, M Shu, A Yan, J Wang, S Purushwalkam, S Shen, ...",
+   "venue": "arXiv preprint arXiv:2411.07461",
+   "year": "2024"
+  },
+  {
+   "title": "Broken tokens? your language model can secretly handle non-canonical tokenizations",
+   "authors": "B Zheng, A Liu, O Ahia, J Hayase, Y Choi, N Smith",
+   "venue": "Advances in Neural Information Processing Systems 38, 30322-30349",
+   "year": "2026"
+  },
+  {
+   "title": "Spectrum tuning: Post-training for distributional coverage and in-context steerability",
+   "authors": "T Sorensen, B Newman, J Moore, CY Park, J Fisher, N Mireshghallah, ...",
+   "venue": "International Conference on Learning Representations 2026, 76138-76212",
+   "year": "2026"
+  },
+  {
+   "title": "Synthetic visual genome",
+   "authors": "JS Park, Z Ma, L Li, C Zheng, CY Hsieh, X Lu, K Chandu, Q Kong, ...",
+   "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2025"
+  },
+  {
+   "title": "STEER: Unified style transfer with expert reinforcement",
+   "authors": "S Hallinan, F Brahman, X Lu, J Jung, S Welleck, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 7546-7562",
+   "year": "2023"
+  },
+  {
+   "title": "Benchmarking hierarchical script knowledge",
+   "authors": "Y Bisk, J Buys, K Pichotta, Y Choi",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Longperceptualthoughts: Distilling system-2 reasoning for system-1 perception",
+   "authors": "YH Liao, S Elflein, L He, L Leal-Taixé, Y Choi, S Fidler, D Acuna",
+   "venue": "arXiv preprint arXiv:2504.15362",
+   "year": "2025"
+  },
+  {
+   "title": "REV: Information-theoretic evaluation of free-text rationales",
+   "authors": "H Chen, F Brahman, X Ren, Y Ji, Y Choi, S Swayamdipta",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "On-the-fly attention modulation for neural generation",
+   "authors": "Y Dong, C Bhagavatula, X Lu, JD Hwang, A Bosselut, JCK Cheung, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Information-theoretic measures of dataset difficulty",
+   "authors": "K Ethayarajh, Y Choi, S Swayamdipta",
+   "venue": "CoRR",
+   "year": "2021"
+  },
+  {
+   "title": "Structured local training and biased potential functions for conditional random fields with application to coreference resolution",
+   "authors": "Y Choi, C Cardie",
+   "venue": "Human Language Technologies 2007: The Conference of the North American …",
+   "year": "2007"
+  },
+  {
+   "title": "Learning human-perceived fakeness in ai-generated videos via multimodal llms",
+   "authors": "X Fu, S Liu, Y Xu, P Lu, G Hu, T Yang, T Anantasagar, C Shen, Y Mao, ...",
+   "venue": "arXiv preprint arXiv:2509.22646",
+   "year": "2025"
+  },
+  {
+   "title": "Localized symbolic knowledge distillation for visual commonsense models",
+   "authors": "JS Park, J Hessel, K Chandu, PP Liang, X Lu, P West, Y Yu, Q Huang, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 11338-11352",
+   "year": "2023"
+  },
+  {
+   "title": "Impossible distillation: from low-quality model to high-quality dataset & model for summarization and paraphrasing",
+   "authors": "J Jung, P West, L Jiang, F Brahman, X Lu, J Fisher, T Sorensen, Y Choi",
+   "venue": "arXiv preprint arXiv:2305.16635",
+   "year": "2023"
+  },
+  {
+   "title": "Backpropagation-based decoding for unsupervised counterfactual and abductive reasoning",
+   "authors": "L Qin, V Shwartz, P West, C Bhagavatula, JD Hwang, R Le Bras, ...",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Resource rational contractualism should guide AI alignment",
+   "authors": "S Levine, M Franklin, T Zhi-Xuan, SY Guyot, J Haas, L Wong, D Kilov, ...",
+   "venue": "Proceedings of IASEAI Conference 2 (1), 353-368",
+   "year": "2026"
+  },
+  {
+   "title": "Deepsearch: Overcome the bottleneck of reinforcement learning with verifiable rewards via monte carlo tree search",
+   "authors": "F Wu, W Xuan, H Qi, X Lu, A Tu, LE Li, Y Choi",
+   "venue": "arXiv preprint arXiv:2509.25454",
+   "year": "2025"
+  },
+  {
+   "title": "Political neutrality in AI is impossible-but here is how to approximate it",
+   "authors": "J Fisher, RE Appel, CY Park, Y Potter, L Jiang, T Sorensen, S Feng, ...",
+   "venue": "arXiv preprint arXiv:2503.05728",
+   "year": "2025"
+  },
+  {
+   "title": "Safetyanalyst: Interpretable, transparent, and steerable safety moderation for ai behavior",
+   "authors": "JJ Li, V Pyatkin, M Kleiman-Weiner, L Jiang, N Dziri, AGE Collins, JS Borg, ...",
+   "venue": "arXiv preprint arXiv:2410.16665",
+   "year": "2024"
+  },
+  {
+   "title": "Jamdec: Unsupervised authorship obfuscation using constrained decoding over small language models",
+   "authors": "J Fisher, X Lu, J Jung, L Jiang, Z Harchaoui, Y Choi",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Will llms reshape, supercharge, or kill data science?(vldb 2023 panel)",
+   "authors": "A Halevy, Y Choi, A Floratou, MJ Franklin, N Noy, H Wang",
+   "venue": "Proceedings of the VLDB Endowment 16 (12), 4114-4115",
+   "year": "2023"
+  },
+  {
+   "title": "The curious case of neural text degeneration. arXiv preprint",
+   "authors": "A Holtzman, J Buys, L Du, M Forbes, Y Choi",
+   "venue": "arXiv preprint arXiv:1904.09751 5",
+   "year": "2019"
+  },
+  {
+   "title": "Automated suggestion of tests for identifying likelihood of adverse drug events",
+   "authors": "R Banerjee, Y Choi, G Piyush, A Naik, I Ramakrishnan",
+   "venue": "2014 IEEE International Conference on Healthcare Informatics (ICHI). IEEE …",
+   "year": "2014"
+  },
+  {
+   "title": "Artificial hivemind: The open-ended homogeneity of language models (and beyond), 2025",
+   "authors": "L Jiang, Y Chai, M Li, M Liu, R Fok, N Dziri, Y Tsvetkov, M Sap, A Albalak, ...",
+   "venue": "URL https://arxiv. org/abs/2510.22954",
+   "year": null
+  },
+  {
+   "title": "Toolorchestra: Elevating intelligence via efficient model and tool orchestration, 2025",
+   "authors": "H Su, S Diao, X Lu, M Liu, J Xu, X Dong, Y Fu, P Belcak, H Ye, H Yin, ...",
+   "venue": "URL https://arxiv. org/abs/2511.21689",
+   "year": null
+  },
+  {
+   "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
+   "authors": "Y Hong, J Liu, H Yin, M Li, L Guibas, L Fei-Fei, J Wu, Y Choi",
+   "venue": "arXiv preprint arXiv:2605.18746",
+   "year": "2026"
+  },
+  {
+   "title": "Morebench: Evaluating procedural and pluralistic moral reasoning in language models, more than outcomes",
+   "authors": "YY Chiu, M Lee, R Calcott, B Handoko, P de Font-Reaulx, P Rodriguez, ...",
+   "venue": "International Conference on Learning Representations 2026, 5514-5561",
+   "year": "2026"
+  },
+  {
+   "title": "Nemotron 3 super: Open, efficient mixture-of-experts hybrid mamba-transformer model for agentic reasoning",
+   "authors": "A Chandiramani, A Blakeman, A Olaoye, A Gupta, A Somasamudramath, ...",
+   "venue": "arXiv preprint arXiv:2604.12374",
+   "year": "2026"
+  },
+  {
+   "title": "When visualizing is the first step to reasoning: Mira, a benchmark for visual chain-of-thought",
+   "authors": "Y Zhou, H Tu, Z Wang, Z Wang, N Muennighoff, F Nie, C Deng, S Yan, ...",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2026"
+  },
+  {
+   "title": "OLMoTrace: tracing language model outputs back to trillions of training tokens",
+   "authors": "J Liu, T Blanton, Y Elazar, S Min, YS Chen, A Chheda-Kothary, H Tran, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Verifying the verifiers: Unveiling pitfalls and potentials in fact verifiers",
+   "authors": "W Seo, S Han, J Jung, B Newman, S Lim, S Lee, X Lu, Y Choi, Y Yu",
+   "venue": "arXiv preprint arXiv:2506.13342",
+   "year": "2025"
+  },
+  {
+   "title": "A path for science-and evidence-based AI policy",
+   "authors": "R Bommasani, S Arora, Y Choi, L Fei-Fei, DE Ho, D Jurafsky, S Koyejo, ...",
+   "venue": "https://understanding-ai-safety. org",
+   "year": "2024"
+  },
+  {
+   "title": "Novacomet: Open commonsense foundation models with symbolic knowledge distillation",
+   "authors": "P West, R Bras, T Sorensen, B Lin, L Jiang, X Lu, K Chandu, J Hessel, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 1127-1149",
+   "year": "2023"
+  },
+  {
+   "title": "Bridging hmms and rnns through architectural transformations",
+   "authors": "J Buys, Y Bisk, Y Choi",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Finding deceptive opinion spam by any stretch of the imagination. arXiv 2011",
+   "authors": "M Ott, Y Choi, C Cardie, JT Hancock",
+   "venue": "arXiv preprint arXiv:1107.4557",
+   "year": null
+  },
+  {
+   "title": "Multi-view learning for vision-and-language navigation",
+   "authors": "Q Xia, X Li, C Li, Y Bisk, Z Sui, J Gao, Y Choi, NA Smith",
+   "venue": "arXiv preprint arXiv:2003.00857",
+   "year": "2020"
+  },
+  {
+   "title": "Cooperative generator-discriminator networks for abstractive summarization with narrative flow",
+   "authors": "S Gabriel, A Bosselut, A Holtzman, K Lo, A Celikyilmaz, Y Choi",
+   "venue": "arXiv preprint arXiv:1907.01272",
+   "year": "2019"
+  },
+  {
+   "title": "From recognition to cognition: Visual commonsense reasoning. 2019 IEEE",
+   "authors": "R Zellers, Y Bisk, A Farhadi, Y Choi",
+   "venue": "CVF Conference on Computer Vision and Pattern Recognition (CVPR), 6713-6724",
+   "year": "2018"
+  },
+  {
+   "title": "Keystroke patterns as prosody in digital writings: A case study with deceptive reviews and essays",
+   "authors": "Y Choi",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "Using text analysis to target government inspections: evidence from restaurant hygiene inspections and online reviews",
+   "authors": "JS Kang, Y Choi, P Kuznetsova, M Luca",
+   "venue": "Harvard Business School",
+   "year": "2013"
+  },
+  {
+   "title": "The invisible leash: Why rlvr may or may not escape its origin, 2026",
+   "authors": "F Wu, W Xuan, X Lu, M Liu, Y Dong, Z Harchaoui, Y Choi",
+   "venue": "URL https://arxiv. org/abs/2507.14843",
+   "year": null
+  },
+  {
+   "title": "Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy and Research",
+   "authors": "AF Cooper, CA Choquette-Choo, M Bogen, K Klyman, M Jagielski, ...",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "AI debate aids assessment of controversial claims",
+   "authors": "S Rahman, S Issaka, A Suvarna, G Liu, J Shiffer, J Lee, MR Parvez, ...",
+   "venue": "Advances in Neural Information Processing Systems 38, 170218-170297",
+   "year": "2026"
+  },
+  {
+   "title": "Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index",
+   "authors": "H Xu, J Liu, Y Choi, NA Smith, H Hajishirzi",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "A deep reinforcement learning platform for antibiotic discovery",
+   "authors": "H Cao, MDT Torres, J Zhang, Z Gao, F Wu, C Gu, J Leskovec, Y Choi, ...",
+   "venue": "bioRxiv",
+   "year": "2025"
+  },
+  {
+   "title": "Neurocomparatives: Neuro-symbolic distillation of comparative knowledge",
+   "authors": "P Howard, J Wang, V Lal, G Singer, Y Choi, S Swayamdipta",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2024, 4502-4520",
+   "year": "2024"
+  },
+  {
+   "title": "Zebralogic: Benchmarking the logical reasoning ability of language models, 2024",
+   "authors": "BY Lin, R Le Bras, Y Choi",
+   "venue": "URL https://huggingface. co/spaces/allenai/ZebraLogic",
+   "year": "2024"
+  },
+  {
+   "title": "Commonsense knowledge transfer for pre-trained language models",
+   "authors": "W Zhou, R Le Bras, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 5946-5960",
+   "year": "2023"
+  },
+  {
+   "title": "Influence diagnostics under self-concordance",
+   "authors": "J Fisher, L Liu, K Pillutla, Y Choi, Z Harchaoui",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 10028-10076",
+   "year": "2023"
+  },
+  {
+   "title": "Multitalk: A highly-branching dialog testbed for diverse conversations",
+   "authors": "Y Dou, M Forbes, A Holtzman, Y Choi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (14), 12760 …",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluating machines by their real-world language use",
+   "authors": "R Zellers, A Holtzman, E Clark, L Qin, A Farhadi, Y Choi",
+   "venue": "arXiv preprint arXiv:2004.03607",
+   "year": "2020"
+  },
+  {
+   "title": "Learning to name objects",
+   "authors": "V Ordonez, W Liu, J Deng, Y Choi, AC Berg, TL Berg",
+   "venue": "Communications of the ACM 59 (3), 108-115",
+   "year": "2016"
+  },
+  {
+   "title": "Multilingual trolley problems for language models",
+   "authors": "Z Jin, M Kleiman-Weiner, G Piatti, S Levine, J Liu, FG Adauto, F Ortu, ...",
+   "venue": "Pluralistic alignment workshop at NeurIPS 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Film: Fill-in language models for any-order generation",
+   "authors": "T Shen, H Peng, R Shen, Y Fu, Z Harchaoui, Y Choi",
+   "venue": "arXiv preprint arXiv:2310.09930",
+   "year": "2023"
+  },
+  {
+   "title": "Modular transformers: Compressing transformers into modularized layers for flexible efficient inference",
+   "authors": "W Zhou, R Le Bras, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 10452-10465",
+   "year": "2023"
+  },
+  {
+   "title": "An ai dungeon master’s guide: Learning to converse and guide with intents and theory-of-mind in dungeons and dragons",
+   "authors": "P Zhou, A Zhu, J Hu, J Pujara, X Ren, C Callison-Burch, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2212.10060",
+   "year": "2022"
+  },
+  {
+   "title": "Early fusion for goal directed robotic vision",
+   "authors": "A Walsman, Y Bisk, S Gabriel, D Misra, Y Artzi, Y Choi, D Fox",
+   "venue": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …",
+   "year": "2019"
+  },
+  {
+   "title": "Defending Against Neural Fake News. Advances in Neural Information Processing Systems",
+   "authors": "R Zellers, A Holtzman, H Rashkin, Y Bisk, A Farhadi, F Roesner, Y Choi",
+   "venue": "Vancouver, Canada 9054, 9065",
+   "year": "2019"
+  },
+  {
+   "title": "Realtoxicityprompts: Evaluating neural toxic degeneration in language models. arXiv",
+   "authors": "S Gehman, S Gururangan, M Sap, Y Choi, NA Smith",
+   "venue": "Article",
+   "year": "2009"
+  },
+  {
+   "title": "The Curious Case of Neural Text Degeneration, February 2020",
+   "authors": "A Holtzman, J Buys, L Du, M Forbes, Y Choi",
+   "venue": "URL http://arxiv. org/abs/1904.09751",
+   "year": null
+  },
+  {
+   "title": "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+   "authors": "A Blakeman, A Thomas, A Jhunjhunwala, A Gupta, A Khattar, A Rajfer, ...",
+   "venue": "arXiv preprint arXiv:2606.15007",
+   "year": "2026"
+  },
+  {
+   "title": "Learning from trials and errors: Reflective test-time planning for embodied LLMs",
+   "authors": "Y Hong, H Huang, M Li, L Fei-Fei, L Guibas, J Wu, Y Choi",
+   "venue": "arXiv preprint arXiv:2602.21198",
+   "year": "2026"
+  },
+  {
+   "title": "Privacy-preserving llm interaction with socratic chain-of-thought reasoning and homomorphically encrypted vector databases",
+   "authors": "Y Bae, M Kim, J Lee, S Kim, J Kim, Y Choi, N Mireshghallah",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Nemotron-crossthink: Scaling self-learning beyond math reasoning, 2025",
+   "authors": "SN Akter, S Prabhumoye, M Novikov, S Han, Y Lin, E Bakhturina, ...",
+   "venue": "URL https://arxiv. org/abs/2504.13941 5",
+   "year": "2025"
+  },
+  {
+   "title": "UNcommonsense reasoning: abductive reasoning about uncommon situations",
+   "authors": "W Zhao, JT Chiu, JD Hwang, F Brahman, J Hessel, S Choudhury, Y Choi, ...",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Probing factually grounded content transfer with factual ablation",
+   "authors": "P West, C Quirk, M Galley, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 3732-3746",
+   "year": "2022"
+  },
+  {
+   "title": "Towards machine ethics and norms",
+   "authors": "L Jiang, JD Hwang, C Bhagavatula, RL Bras, M Forbes, J Borchardt, ...",
+   "venue": "AI2 blog 4",
+   "year": "2021"
+  },
+  {
+   "title": "Superbpe: Space travel for language models, 2025",
+   "authors": "A Liu, J Hayase, V Hofmann, S Oh, NA Smith, Y Choi",
+   "venue": "URL https://arxiv. org/abs/2503.13423",
+   "year": "2021"
+  },
+  {
+   "title": "Towards grounded natural language proof generation",
+   "authors": "S Welleck, J Liu, JM Han, Y Choi",
+   "venue": "MathAI4Ed Workshop at NeurIPS",
+   "year": "2021"
+  },
+  {
+   "title": "On symbolic and neural commonsense knowledge graphs",
+   "authors": "JD Hwang, C Bhagavatula, R Le Bras, J Da, K Sakaguchi, A Bosselut, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "HellaSwag: Can a machine really finish your sentence? arXiv preprint",
+   "authors": "R Zellers, A Holtzman, Y Bisk, A Farhadi, Y Choi",
+   "venue": "arXiv preprint arXiv:1905.07830",
+   "year": "2019"
+  },
+  {
+   "title": "HellaSwag: Can a Machine Really Finish Your Sentence? May 2019. DOI: 10.48550",
+   "authors": "R Zellers, A Holtzman, Y Bisk, A Farhadi, Y Choi",
+   "venue": "arXiv",
+   "year": "1905"
+  },
+  {
+   "title": "The invisible leash: Why rlvr may not escape its origin, 2025",
+   "authors": "F Wu, W Xuan, X Lu, Z Harchaoui, Y Choi",
+   "venue": "URL https://arxiv. org/abs/2507.14843",
+   "year": null
+  },
+  {
+   "title": "Realtime qa: What’s the answer right now?, 2024",
+   "authors": "J Kasai, K Sakaguchi, Y Takahashi, R Le Bras, A Asai, X Yu, D Radev, ...",
+   "venue": "URL https://arxiv. org/abs/2207.13332 2207",
+   "year": null
+  },
+  {
+   "title": "Plasma: Procedural knowledge models for language-based planning and re-planning",
+   "authors": "F Brahman, C Bhagavatula, V Pyatkin, J Hwang, XL Li, H Arai, S Sanyal, ...",
+   "venue": "International Conference on Learning Representations 2024, 5555-5585",
+   "year": "2024"
+  },
+  {
+   "title": "Clever Hans or neural theory of mind? Stress testing social reasoning in large language models. arXiv",
+   "authors": "N Shapira, M Levy, SH Alavi, X Zhou, Y Choi, Y Goldberg, M Sap, ...",
+   "venue": "Preprint posted online May 24",
+   "year": "2023"
+  },
+  {
+   "title": "Reinforced clarification question generation with defeasibility rewards for disambiguating social and moral situations",
+   "authors": "V Pyatkin, JD Hwang, V Srikumar, X Lu, L Jiang, Y Choi, C Bhagavatula",
+   "venue": "arXiv preprint arXiv:2212.10409",
+   "year": "2022"
+  },
+  {
+   "title": "An information divergence measure between neural text and human text",
+   "authors": "K Pillutla, S Swayamdipta, R Zellers, J Thickstun, S Welleck, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2102.01454",
+   "year": "2021"
+  },
+  {
+   "title": "Swag: A large-scale adversarial dataset for grounded commonsense inference. arXiv",
+   "authors": "R Zellers, Y Bisk, R Schwartz, Y Choi",
+   "venue": "arXiv preprint arXiv:1808.05326",
+   "year": "2018"
+  },
+  {
+   "title": "WINOGRANDE: An adversarial Winograd schema challenge at scale. arXiv",
+   "authors": "K Sakaguchi, R Le Bras, C Bhagavatula, Y Choi",
+   "venue": "",
+   "year": "1907"
+  },
+  {
+   "title": "COMET: Commonsense transformers for automatic knowledge graph construction. arXiv 2019",
+   "authors": "A Bosselut, H Rashkin, M Sap, C Malaviya, A Celikyilmaz, Y Choi",
+   "venue": "arXiv preprint arXiv:1906.05317",
+   "year": "1906"
+  },
+  {
+   "title": "HellaSwag: Can a Machine Really Finish Your Sentence?, May 2019",
+   "authors": "R Zellers, A Holtzman, Y Bisk, A Farhadi, Y Choi",
+   "venue": "URL http://arxiv. org/abs/1905.07830",
+   "year": null
+  },
+  {
+   "title": "Realtoxicityprompts: Evaluating neural toxic degeneration in language models. arXiv 2020",
+   "authors": "S Gehman, S Gururangan, M Sap, Y Choi, NA Smith",
+   "venue": "arXiv preprint arXiv:2009.11462",
+   "year": null
+  },
+  {
+   "title": "Golden goose: A simple trick to synthesize unlimited rlvr tasks from unverifiable internet text",
+   "authors": "X Lu, D Acuna, J Jung, J Hu, D Zhang, S Diao, Y Zou, S Zhang, B Cui, ...",
+   "venue": "arXiv preprint arXiv:2601.22975",
+   "year": "2026"
+  },
+  {
+   "title": "Adaptation of agentic AI: A survey of post-training, memory, and skills",
+   "authors": "P Jiang, J Lin, Z Shi, Z Wang, L He, Y Wu, M Zhong, P Song, Q Zhang, ...",
+   "venue": "arXiv preprint arXiv:2512.16301",
+   "year": "2025"
+  },
+  {
+   "title": "Socratic-mcts: Test-time visual reasoning by asking the right questions",
+   "authors": "D Acuna, X Lu, J Jung, H Kim, A Kar, S Fidler, Y Choi",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "From Supervision to Exploration: What Does Protein Language Model Learn During Reinforcement Learning?",
+   "authors": "H Cao, H Zhang, J Xu, Z Zhang, L Shen, M Sun, G Liu, J Xu, WJ Li, J Ni, ...",
+   "venue": "arXiv preprint arXiv:2510.01571",
+   "year": "2025"
+  },
+  {
+   "title": "Position: The hidden costs and measurement gaps of reinforcement learning with verifiable rewards",
+   "authors": "F Wu, A Tu, W Xuan, H Qi, X Huang, Q Zeng, S Talaei, Y Xiao, P Xia, ...",
+   "venue": "arXiv preprint arXiv:2509.21882",
+   "year": "2025"
+  },
+  {
+   "title": "Political Neutrality in AI Is Impossible-But Here Is How to Approximate It(arXiv: 2503.05728). arXiv",
+   "authors": "J Fisher, RE Appel, CY Park, Y Potter, L Jiang, T Sorensen, S Feng, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Position: Political neutrality in AI is impossible—but here is how to approximate it",
+   "authors": "J Fisher, RE Appel, CY Park, Y Potter, L Jiang, T Sorensen, S Feng, ...",
+   "venue": "Forty-second International Conference on Machine Learning Position Paper Track",
+   "year": "2025"
+  },
+  {
+   "title": "danah boyd, Jennifer Wortman Vaughan, Miles Brundage, David Bau, Seth Neel, Abigail Z",
+   "authors": "AF Cooper, CA Choquette-Choo, M Bogen, M Jagielski, K Filippova, ...",
+   "venue": "Jacobs, Andreas Terzis, Hanna Wallach, Nicolas Papernot, and Katherine Lee",
+   "year": "2024"
+  },
+  {
+   "title": "In search of the long-tail: Systematic generation of long-tail inferential knowledge via logical rule guided search",
+   "authors": "H Li, Y Ning, Z Liao, S Wang, XL Li, X Lu, W Zhao, F Brahman, Y Choi, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "RESTOR: knowledge recovery in machine unlearning",
+   "authors": "K Rezaei, K Chandu, S Feizi, Y Choi, F Brahman, A Ravichander",
+   "venue": "arXiv preprint arXiv:2411.00204",
+   "year": "2024"
+  },
+  {
+   "title": "A roadmap to pluralistic alignment. arXiv",
+   "authors": "T Sorensen, J Moore, J Fisher, M Gordon, N Mireshghallah, CM Rytting, ...",
+   "venue": "arXiv preprint arXiv:2402.05070 10",
+   "year": "2024"
+  },
+  {
+   "title": "Thinking out-of-the-Box: A comparative investigation of human and LLMs in creative problem-solving",
+   "authors": "Y Tian, A Ravichander, L Qin, R Le Bras, R Marjieh, N Peng, Y Choi, ...",
+   "venue": "ICML 2024 workshop on LLMs and cognition",
+   "year": "2024"
+  },
+  {
+   "title": "Wildvision arena: Benchmarking multimodal llms in the wild (February 2024)",
+   "authors": "Y Lu, D Jiang, W Chen, W Wang, Y Choi, BY Lin",
+   "venue": "URL https://huggingface. co/spaces/WildVision/vision-arena 2 (6)",
+   "year": "2024"
+  },
+  {
+   "title": "Urial: Tuning-free instruction learning and alignment for untuned llms",
+   "authors": "BY Lin, A Ravichander, X Lu, N Dziri, M Sclar, K Chandu, C Bhagavatula, ...",
+   "venue": "NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following",
+   "year": "2023"
+  },
+  {
+   "title": "Faith and fate: limits of transformers on compositionality. arXiv",
+   "authors": "N Dziri, X Lu, M Sclar, XL Li, L Jiang, BY Lin, P West, C Bhagavatula, ...",
+   "venue": "arXiv preprint arXiV:2305.18654",
+   "year": "2023"
+  },
+  {
+   "title": "Twist decoding: Diverse generators guide each other",
+   "authors": "J Kasai, K Sakaguchi, R Le Bras, H Peng, X Lu, D Radev, Y Choi, ...",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Do androids laugh at electric sheep? Humor “understanding” benchmarks from the New Yorker caption contest. arXiv",
+   "authors": "J Hessel, A Marasović, J Hwang, L Lee, J Da, R Zellers, R Mankoff, ...",
+   "venue": "arXiv preprint arXiv:2209.06293",
+   "year": "2022"
+  },
+  {
+   "title": "Delphi: Towards machine ethics and norms. ArXiv",
+   "authors": "L Jiang, JD Hwang, C Bhagavatula, R Le Bras, M Forbes, J Borchardt, ...",
+   "venue": "arXiv preprint arXiv:2110.07574",
+   "year": "2021"
+  },
+  {
+   "title": "CLIPScore: A Reference-free Evaluation Metric for Image Captioning. ArXiv abs/2104.08718 (2021)",
+   "authors": "J Hessel, A Holtzman, M Forbes, RL Bras, Y Choi",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Edited media understanding: Reasoning about implications of manipulated images",
+   "authors": "J Da, M Forbes, R Zellers, A Zheng, JD Hwang, A Bosselut, Y Choi",
+   "venue": "Association for Computational Linguistics",
+   "year": "2020"
+  },
+  {
+   "title": "The curious case of neural text degeneration. iclr",
+   "authors": "A Holtzman, J Buys, M Forbes, Y Choi",
+   "venue": "Anais... OpenReview. net",
+   "year": "2020"
+  },
+  {
+   "title": "The risk of racial bias in hate speech detection. In Proceedings of the 57th annual meeting of the association for computational linguistics",
+   "authors": "M Sap, D Card, S Gabriel, Y Choi, NA Smith",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Refer-to-as Relations as Semantic Knowledge",
+   "authors": "S Feng, S Ravi, R Kumar, P Kuznetsova, W Liu, AC Berg, TL Berg, Y Choi",
+   "venue": "AAAI",
+   "year": "2015"
+  },
+  {
+   "title": "SWAG: A large-scale adversarial dataset for grounded commonsense inference. 2018",
+   "authors": "R Zellers, Y Bisk, R Schwartz, Y Choi",
+   "venue": "URL https://www. aclweb. org/anthology/D18-1009",
+   "year": "1808"
+  },
+  {
+   "title": "QuAC: question answering in context (2018)",
+   "authors": "E Choi, H He, M Iyyer, M Yatskar, W Yih, Y Choi, P Liang, L Zettlemoyer",
+   "venue": "URL https://arxiv. org/abs/1808.07036.(cited on p. 40)",
+   "year": "1808"
+  },
+  {
+   "title": "Swag: A large-scale adversarial dataset for grounded commonsense inference. arXiv 2018",
+   "authors": "R Zellers, Y Bisk, R Schwartz, Y Choi, PG Allen",
+   "venue": "arXiv preprint arXiv:1808.05326",
+   "year": "1808"
+  },
+  {
+   "title": "T.(2011)",
+   "authors": "M Ott, Y Choi, C Cardie, J Hancock",
+   "venue": "Finding deceptive opinion spam by any stretch of the imagination. In …",
+   "year": null
+  },
+  {
+   "title": "Piqa: Reasoning about phys-527 ical commonsense in natural language",
+   "authors": "Y Bisk, R Zellers, J Gao, Y Choi",
+   "venue": "Proceedings of the AAAI conference on artificial 528, 7432-7439",
+   "year": null
+  },
+  {
+   "title": "Tuning language models by proxy, 2024",
+   "authors": "A Liu, X Han, Y Wang, Y Tsvetkov, Y Choi, NA Smith",
+   "venue": "URL https://arxiv. org/abs/2401.08565",
+   "year": null
+  },
+  {
+   "title": "Multiplayer nash preference optimization",
+   "authors": "F Wu, X Huang, W Xuan, Z Zhang, Y Xiao, F Wan, X Li, B Hu, P Xia, ...",
+   "venue": "International Conference on Learning Representations 2026, 61004-61024",
+   "year": "2026"
+  },
+  {
+   "title": "Qinghao Ye",
+   "authors": "Y Zhou, H Tu, Z Wang, Z Wang, N Muennighoff, F Nie, Y Choi, J Zou, ...",
+   "venue": "When visualizing is the first step to reasoning: Mira, a benchmark for …",
+   "year": "2025"
+  },
+  {
+   "title": "Impossible distillation for paraphrasing and summarization: How to make high-quality lemonade out of small, low-quality model",
+   "authors": "J Jung, P West, L Jiang, F Brahman, X Lu, J Fisher, T Sorensen, Y Choi",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Information-theoretic distillation for reference-less summarization",
+   "authors": "J Jung, X Lu, L Jiang, F Brahman, P West, PW Koh, Y Choi",
+   "venue": "arXiv preprint arXiv:2403.13780",
+   "year": "2024"
+  },
+  {
+   "title": "Urial: Aligning untuned LLMs with just the’write’amount of in-context learning",
+   "authors": "BY Lin, A Ravichander, X Lu, N Dziri, M Sclar, K Chandu, C Bhagavatula, ...",
+   "venue": "The Twelfth International Conference on Learning Representations",
+   "year": "2024"
+  },
+  {
+   "title": "What makes it ok to set a fire? iterative self-distillation of contexts and rationales for disambiguating defeasible social and moral situations",
+   "authors": "K Rao, L Jiang, V Pyatkin, Y Gu, N Tandon, N Dziri, F Brahman, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 12140 …",
+   "year": "2023"
+  },
+  {
+   "title": "Text as Images: Can Multimodal Large Language Models Follow Printed Instructions in Pixels?",
+   "authors": "X Li, Y Lu, Z Gan, J Gao, WY Wang, Y Choi",
+   "venue": "arXiv preprint arXiv:2311.17647",
+   "year": "2023"
+  },
+  {
+   "title": "Don’t throw away your value model! Making PPO even better via Value-Guided Monte-Carlo Tree Search decoding",
+   "authors": "J Liu, A Cohen, R Pasunuru, Y Choi, H Hajishirzi, A Celikyilmaz",
+   "venue": "arXiv preprint arXiv:2309.15028",
+   "year": "2023"
+  },
+  {
+   "title": "Common sense: The dark matter of language and intelligence",
+   "authors": "Y Choi",
+   "venue": "Proceedings of the 2023 International Conference on Autonomous Agents and …",
+   "year": "2023"
+  },
+  {
+   "title": "ArK: Augmented reality with knowledge interactive emergent ability",
+   "authors": "Q Huang, JS Park, A Gupta, P Bennett, R Gong, S Som, B Peng, ...",
+   "venue": "arXiv preprint arXiv:2305.00970",
+   "year": "2023"
+  },
+  {
+   "title": "Vim: Probing multimodal large language models for visual embedded instruction following",
+   "authors": "Y Lu, X Li, WY Wang, Y Choi",
+   "venue": "arXiv preprint arXiv:2311.17647",
+   "year": "2023"
+  },
+  {
+   "title": "On-the-fly controlled text generation with experts and anti-experts",
+   "authors": "A Liu, M Sap, X Lu, S Swayamdipta, C Bhagavatula, NA Smith, Y Choi",
+   "venue": "arXiv preprint arXiv:2105.03023",
+   "year": "2021"
+  },
+  {
+   "title": "Symbolic Knowledge Distillation: from General Language Models to Commonsense Models. 2022",
+   "authors": "P West, C Bhagavatula, J Hessel, JD Hwang, L Jiang, R Le Bras, X Lu, ...",
+   "venue": "URL: https://doi. org/10.48550/arXiv 2110",
+   "year": "2021"
+  },
+  {
+   "title": "Comet: Commonsense transformers for automatic knowledge graph construction. arXiv preprint arXiv: 190605317",
+   "authors": "A Bosselut, H Rashkin, M Sap, C Malaviya, A Celikyilmaz, Y Choi",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Balancing shared autonomy with human-robot communication",
+   "authors": "R Scalise, Y Bisk, M Forbes, D Yi, Y Choi, S Srinivasa",
+   "venue": "arXiv preprint arXiv:1805.07719",
+   "year": "2018"
+  },
+  {
+   "title": "Go figure",
+   "authors": "S Gabriel, A Celikyilmaz, R Jha, Y Choi, J Gao",
+   "venue": "A meta evaluation of factuality in summarization. CoRR, abs",
+   "year": "2010"
+  },
+  {
+   "title": "Quac: Question answering in context. CoRR abs/1808.07036 (2018)",
+   "authors": "E Choi, H He, M Iyyer, M Yatskar, W Yih, Y Choi, P Liang, L Zettlemoyer",
+   "venue": "",
+   "year": "1808"
+  },
+  {
+   "title": "Dler: Doing length penalty right-incentivizing more intelligence per token via reinforcement learning, 2025a",
+   "authors": "SY Liu, X Dong, X Lu, S Diao, M Liu, MH Chen, H Yin, YCF Wang, ...",
+   "venue": "URL https://arxiv. org/abs/2510.15110",
+   "year": null
+  },
+  {
+   "title": "Uq: Assessing language models on unsolved questions, 2025",
+   "authors": "F Nie, KZ Liu, Z Wang, R Sun, W Liu, W Shi, H Yao, L Zhang, AY Ng, ...",
+   "venue": "URL https://arxiv. org/abs/2508.17580",
+   "year": null
+  },
+  {
+   "title": "Faith and Fate: Limits of Transformers on Compositionality, June 2023",
+   "authors": "N Dziri, X Lu, M Sclar, XL Li, L Jiang, BY Lin, P West, C Bhagavatula, ...",
+   "venue": "URL http://arxiv. org/abs/2305.18654",
+   "year": null
+  },
+  {
+   "title": "From explicit cot to implicit cot: Learning to internalize cot step by step. CoRR, abs/2405.14838, 2024. doi: 10.48550",
+   "authors": "Y Deng, Y Choi, SM Shieber",
+   "venue": "arXiv preprint ARXIV.2405.14838 10",
+   "year": null
+  },
+  {
+   "title": "Modular pluralism: Pluralistic alignment via multi-llm collaboration, 2024",
+   "authors": "S Feng, T Sorensen, Y Liu, J Fisher, CY Park, Y Choi, Y Tsvetkov",
+   "venue": "URL https://arxiv. org/abs/2406.15951",
+   "year": null
+  },
+  {
+   "title": "Deepsearch: Overcome the bottleneck of reinforcement learning with verifiable rewards via tree-based search",
+   "authors": "F Wu, W Xuan, H Qi, A Tu, X Lu, L Li, Y Choi",
+   "venue": "International Conference on Learning Representations 2026, 95559-95584",
+   "year": "2026"
+  },
+  {
+   "title": "Litmusvalues: Will ai tell lies to save sick children? litmus-testing ai values prioritization with airiskdilemmas",
+   "authors": "YY Chiu, Z Wang, S Maiya, Y Choi, K Fish, S Levine, E Hubinger",
+   "venue": "International Conference on Learning Representations 2026, 36973-37007",
+   "year": "2026"
+  },
+  {
+   "title": "Privasis: Synthesizing the Largest\" Public\" Private Dataset from Scratch",
+   "authors": "H Kim, N Mireshghallah, M Duan, R Xin, SS Li, J Jung, D Acuna, Q Pang, ...",
+   "venue": "arXiv preprint arXiv:2602.03183",
+   "year": "2026"
+  },
+  {
+   "title": "Guardrails and security for LLMs: Safe, secure and controllable steering of LLM applications",
+   "authors": "T Rebedea, L Derczynski, S Ghosh, MN Sreedhar, F Brahman, L Jiang, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "On the limits of RLVR: Support, entropy, and the illusion of reasoning",
+   "authors": "F Wu, Y Choi",
+   "venue": "2nd AI for Math Workshop@ ICML 2025, 10",
+   "year": "2025"
+  },
+  {
+   "title": "Negative token merging: Image-based adversarial feature guidance",
+   "authors": "J Singh, L Li, W Shi, R Krishna, Y Choi, PW Koh, MF Cohen, S Gould, ...",
+   "venue": "arXiv preprint arXiv:2412.01339",
+   "year": "2024"
+  },
+  {
+   "title": "How to train your fact verifier: knowledge transfer with multimodal open models",
+   "authors": "J Lee, X Lu, J Hessel, F Brahman, Y Yu, Y Bisk, Y Choi, S Gabriel",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 13060 …",
+   "year": "2024"
+  },
+  {
+   "title": "Zebralogic: Benchmarking the logical reasoning ability of language models",
+   "authors": "BY Lin, R Le Bras, Y Choi",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Wildvision arena: Benchmarking multimodal llms in the wild",
+   "authors": "Y Lu, D Jiang, W Chen, W Wang, Y Choi, BY Lin",
+   "venue": "February",
+   "year": "2024"
+  },
+  {
+   "title": "SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation",
+   "authors": "JJ Li, V Pyatkin, M Kleiman-Weiner, L Jiang, N Dziri, A Collins, JS Borg, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Faith and Fate: Limits of Transformers on Compositionality (arXiv: 2305.18654). arXiv",
+   "authors": "N Dziri, X Lu, M Sclar, XL Li, L Jiang, BY Lin, P West, C Bhagavatula, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Wildbench: Benchmarking llms with challenging tasks from real users in the wild, 2024",
+   "authors": "BY Lin, Y Deng, K Chandu, F Brahman, A Ravichander, V Pyatkin, N Dziri, ...",
+   "venue": "URL https://arxiv. org/abs/2406.04770",
+   "year": "2023"
+  },
+  {
+   "title": "Generated knowledge prompting for commonsense reasoning (arXiv: 2110.08387). arXiv",
+   "authors": "J Liu, A Liu, X Lu, S Welleck, P West, RL Bras, Y Choi, H Hajishirzi",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding few-shot commonsense knowledge models",
+   "authors": "J Da, RL Bras, X Lu, Y Choi, A Bosselut",
+   "venue": "CoRR abs/2101.00297",
+   "year": "2021"
+  },
+  {
+   "title": "Moral Stories: Situated Reasoning about Norms",
+   "authors": "D Emelin, RL Bras, JD Hwang, M Forbes, Y Choi",
+   "venue": "Intents, Actions, and their Consequences",
+   "year": "2020"
+  },
+  {
+   "title": "Detecting english writing styles for non native speakers",
+   "authors": "Y Chen, R Al-Rfou, Y Choi",
+   "venue": "arXiv preprint arXiv:1704.07441",
+   "year": "2017"
+  },
+  {
+   "title": "System and method for automatically summarizing fine-grained opinions in digital text",
+   "authors": "C Cardie, V Stoyanov, E Breck, Y Choi",
+   "venue": "US Patent App. 14/810,134",
+   "year": "2015"
+  },
+  {
+   "title": "Social chemistry 101: Learning to reason about social and moral norms, 2021",
+   "authors": "M Forbes, JD Hwang, V Shwartz, M Sap, Y Choi",
+   "venue": "URL https://arxiv. org/abs",
+   "year": "2011"
+  },
+  {
+   "title": "Scruples: A corpus of community ethical judgments on 32,000 real-life anecdotes, 2020",
+   "authors": "N Lourie, R Le Bras, Y Choi",
+   "venue": "URL https://arxiv. org/abs/2008.09094.(cited on pp. 35 and 39)",
+   "year": "2008"
+  },
+  {
+   "title": "others. 2024. Model swarms: Collaborative search to adapt llm experts via swarm intelligence",
+   "authors": "S Feng, Z Wang, Y Wang, S Ebrahimi, H Palangi, L Miculicich, ...",
+   "venue": "arXiv preprint arXiv:2410.11163",
+   "year": "1"
+  },
+  {
+   "title": "Towards execution-grounded automated ai research, 2026",
+   "authors": "C Si, Z Yang, Y Choi, E Candès, D Yang, T Hashimoto",
+   "venue": "URL https://arxiv. org/abs/2601.14525",
+   "year": null
+  },
+  {
+   "title": "Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step; 2023",
+   "authors": "LH Li, J Hessel, Y Yu, X Ren, KW Chang, Y Choi",
+   "venue": "URL https://arxiv. org/abs/2306.14050",
+   "year": null
+  },
+  {
+   "title": "Dailydilemmas: Revealing value preferences of llms with quandaries of daily life, 2024",
+   "authors": "YY Chiu, L Jiang, Y Choi",
+   "venue": "URL https://arxiv. org/abs/2410.02683",
+   "year": null
+  },
+  {
+   "title": "When one llm drools, multi-llm collaboration rules, 2025b",
+   "authors": "S Feng, W Ding, A Liu, Z Wang, W Shi, Y Wang, Z Shen, X Han, H Lang, ...",
+   "venue": "URL https://arxiv. org/abs/2502.04506",
+   "year": null
+  },
+  {
+   "title": "Fantom: A benchmark for stress-testing machine theory of mind in interactions, 2023",
+   "authors": "H Kim, M Sclar, X Zhou, R Le Bras, G Kim, Y Choi, M Sap",
+   "venue": "URL https://arxiv. org/abs/2310.15421",
+   "year": null
+  },
+  {
+   "title": "Generated knowledge prompting for commonsense reasoning (2022)",
+   "authors": "J Liu, A Liu, X Lu, S Welleck, P West, RL Bras, Y Choi, H Hajishirzi",
+   "venue": "URL: https://arxiv. org/abs/2110.08387",
+   "year": null
+  },
+  {
+   "title": "Faith and Fate: Limits of Transformers on Compositionality, October 2023",
+   "authors": "N Dziri, X Lu, M Sclar, XL Li, L Jiang, BY Lin, P West, C Bhagavatula, ...",
+   "venue": "URL http://arxiv. org/abs/2305.18654",
+   "year": null
+  },
+  {
+   "title": "WINOGRANDE: An Adversarial Winograd Schema Challenge at Scale. arXiv 2019",
+   "authors": "K Sakaguchi, RL Bras, C Bhagavatula, Y Choi",
+   "venue": "arXiv preprint arXiv:1907.10641",
+   "year": null
+  },
+  {
+   "title": "SPADE: Self-play in adaptive synthetic executable environments",
+   "authors": "B Liu, S Yu, Y Jiang, A Qu, A Zhao, Z Liu, J Kim, Z Zhou, S Kim, T Ren, ...",
+   "venue": "arXiv preprint arXiv:2608.19197",
+   "year": "2026"
+  },
+  {
+   "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+   "authors": "BK Lee, X Lu, S Diao, M Kang, S Muralidharan, K Sapra, A Tao, ...",
+   "venue": "arXiv preprint arXiv:2606.18216",
+   "year": "2026"
+  },
+  {
+   "title": "Proteo-r1: Reasoning foundation models for de novo protein design",
+   "authors": "F Wu, W Xuan, H Qi, H Cao, HJ Chang, Z Zhou, H Zhao, M Jian, C Ma, ...",
+   "venue": "arXiv preprint arXiv:2605.02937",
+   "year": "2026"
+  },
+  {
+   "title": "L^ 2M^ 3OF: a large language multimodal model for metal-organic frameworks",
+   "authors": "J Cui, F Wu, H Zhao, M Feng, X Evangelopoulos, AI Cooper, Y Choi",
+   "venue": "arXiv preprint arXiv:2510.20976",
+   "year": "2025"
+  },
+  {
+   "title": "Bias in gender bias benchmarks: How spurious features distort evaluation",
+   "authors": "Y Hirota, R Hachiuma, B Li, X Lu, MR Boone, B Ivanovic, Y Choi, ...",
+   "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV), 8634-8644",
+   "year": "2025"
+  },
+  {
+   "title": "The surprising effectiveness of membership inference with simple n-gram coverage",
+   "authors": "S Hallinan, J Jung, M Sclar, X Lu, A Ravichander, S Ramnath, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2508.09603",
+   "year": "2025"
+  },
+  {
+   "title": "The Curious Case of Factuality Finetuning: Models' Internal Beliefs Can Improve Factuality",
+   "authors": "B Newman, A Ravichander, J Jung, R Xin, H Ivison, Y Kuznetsov, PW Koh, ...",
+   "venue": "arXiv preprint arXiv:2507.08371",
+   "year": "2025"
+  },
+  {
+   "title": "PPMI: Privacy-preserving llm interaction with socratic chain-of-thought reasoning and homomorphically encrypted vector databases",
+   "authors": "Y Bae, M Kim, J Lee, S Kim, J Kim, Y Choi, N Mireshghallah",
+   "venue": "arXiv preprint arXiv:2506.17336",
+   "year": "2025"
+  },
+  {
+   "title": "Investigating machine moral judgement through the Delphi experiment. Nature Machine Intelligence, 7 (1), 145–160",
+   "authors": "L Jiang, JD Hwang, C Bhagavatula, RL Bras, JT Liang, S Levine, J Dodge, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "danah boyd, JW Vaughan, M",
+   "authors": "AF Cooper, CA Choquette-Choo, M Bogen, M Jagielski, K Filippova, ...",
+   "venue": "Brundage, D. Bau, S. Neel, AZ Jacobs, A. Terzis, H. Wallach, N. Papernot …",
+   "year": "2024"
+  },
+  {
+   "title": "Biased AI can influence political decision-making. arXiv",
+   "authors": "J Fisher, S Feng, R Aron, T Richardson, Y Choi, DW Fisher, J Pan, ...",
+   "venue": "arXiv preprint arXiv:2410.06415",
+   "year": "2024"
+  },
+  {
+   "title": "Rewardbench: Evaluating reward models for language modeling. arXiv 2024",
+   "authors": "N Lambert, V Pyatkin, J Morrison, L Miranda, BY Lin, K Chandu, N Dziri, ...",
+   "venue": "arXiv preprint arXiv:2403.13787",
+   "year": "2024"
+  },
+  {
+   "title": "Resource-rational moral judgment",
+   "authors": "SA Wu, X Ren, T Gerstenberg, Y Choi, S Levine",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 46",
+   "year": "2024"
+  },
+  {
+   "title": "Clever Hans or neural theory of mind? Stress testing social reasoning in large language models (arXiv: 2305.14763). arXiv",
+   "authors": "N Shapira, M Levy, SH Alavi, X Zhou, Y Choi, Y Goldberg, M Sap, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Neural theory-of-mind? On the limits of social intelligence in large LMs (arXiv: 2210.13312). arXiv",
+   "authors": "M Sap, R LeBras, D Fried, Y Choi",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Knowledge is power: Symbolic knowledge distillation, commonsense morality, & multimodal script knowledge",
+   "authors": "Y Choi",
+   "venue": "Proceedings of the Fifteenth ACM International Conference on Web Search and …",
+   "year": "2022"
+  },
+  {
+   "title": "Reframing instructional prompts to gptk’s language, 2022",
+   "authors": "S Mishra, D Khashabi, C Baral, Y Choi, H Hajishirzi",
+   "venue": "URL: https://arxiv. org/abs/2109 7830",
+   "year": "2022"
+  },
+  {
+   "title": "Multimodal Knowledge Alignment with Reinforcement Learning. CoRR abs/2205.12630 (2022)",
+   "authors": "Y Yu, J Chung, H Yun, J Hessel, JS Park, X Lu, P Ammanabrolu, R Zellers, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Rainier: reinforced knowledge introspector for commonsense question answering (2022)",
+   "authors": "J Liu, S Hallinan, X Lu, P He, S Welleck, H Hajishirzi, Y Choi",
+   "venue": "arXiv preprint arXiv:2210.03078",
+   "year": "2022"
+  },
+  {
+   "title": "Computational lens on cognition: Study of autobiographical versus imagined stories with large-scale language models",
+   "authors": "M Sap, A Jafarpour, Y Choi, NA Smith, JW Pennebaker, E Horvitz",
+   "venue": "arXiv Preprint arXiv 2201",
+   "year": "2022"
+  },
+  {
+   "title": "The curious case of neural text degeneration. arXiv 2019. 10.48550",
+   "authors": "A Holtzman, J Buys, L Du, M Forbes, Y Choi",
+   "venue": "arXiv",
+   "year": "1904"
+  },
+  {
+   "title": "Delphi: Towards machine ethics and norms. CoRR abs/2110.07574 (2021)",
+   "authors": "L Jiang, JD Hwang, C Bhagavatula, RL Bras, M Forbes, J Borchardt, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Infini-gram: Scaling unbounded n-gram language models to a trillion tokens, 2024a",
+   "authors": "J Liu, S Min, L Zettlemoyer, Y Choi, H Hajishirzi",
+   "venue": "URL https://arxiv. org/abs/2401.17377",
+   "year": null
+  },
+  {
+   "title": "Quark: Controllable text generation with reinforced unlearning, 2022",
+   "authors": "X Lu, S Welleck, J Hessel, L Jiang, L Qin, P West, P Ammanabrolu, Y Choi",
+   "venue": "URL https://arxiv. org/abs/2205.13636",
+   "year": null
+  },
+  {
+   "title": "Cosmos QA: Machine reading comprehension with contextual commonsense reasoning. arXiv 2019",
+   "authors": "L Huang, RL Bras, C Bhagavatula, Y Choi",
+   "venue": "arXiv preprint arXiv:1909.00277",
+   "year": null
+  },
+  {
+   "title": "Symbolic chain-of-thought distillation: Small models can also “think” step-by-step. arXiv 2023",
+   "authors": "LH Li, J Hessel, Y Yu, X Ren, KW Chang, Y Choi",
+   "venue": "arXiv preprint arXiv:2306.14050",
+   "year": null
+  },
+  {
+   "title": "Quac: Question answering in context. arXiv 2018",
+   "authors": "E Choi, H He, M Iyyer, M Yatskar, W Yih, Y Choi, P Liang, L Zettlemoyer",
+   "venue": "arXiv preprint arXiv:1808.07036",
+   "year": null
+  },
+  {
+   "title": "Solar Open 2 Technical Report",
+   "authors": "S Park, S Kim, G Gim, J Cho, H Ko, M Jeong, M Kim, K Choi, C Shin, ...",
+   "venue": "arXiv preprint arXiv:2607.20062",
+   "year": "2026"
+  },
+  {
+   "title": "Data-efficient pre-training by scaling synthetic megadocs",
+   "authors": "K Kim, S Kotha, Y Choi, T Hashimoto, N Haber, P Liang",
+   "venue": "arXiv preprint arXiv:2603.18534",
+   "year": "2026"
+  },
+  {
+   "title": "iGRPO: Self-Feedback-Driven LLM Reasoning",
+   "authors": "A Hatamizadeh, S Prabhumoye, I Gitman, X Lu, S Han, W Ping, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2602.09000",
+   "year": "2026"
+  },
+  {
+   "title": "Zero-shot multimodal document retrieval via cross-modal question generation",
+   "authors": "Y Choi, J Park, J Yoon, S Kim, J Jeon, Y Yu",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Uq: Assessing language models on unsolved questions",
+   "authors": "F Nie, KZ Liu, Z Wang, R Sun, W Liu, W Shi, H Yao, L Zhang, AY Ng, ...",
+   "venue": "arXiv preprint arXiv:2508.17580",
+   "year": "2025"
+  },
+  {
+   "title": "Making vlms more robot-friendly: Self-critical distillation of low-level procedural reasoning",
+   "authors": "CY Park, J Fisher, M Memmel, D Khullar, S Yun, A Gupta, Y Choi",
+   "venue": "arXiv preprint arXiv:2507.08224",
+   "year": "2025"
+  },
+  {
+   "title": "When to trust context: Self-reflective debates for context reliability",
+   "authors": "Z Zhou, F Wu, S Talaei, H Zhao, C Meixin, T Xu, A Saberi, Y Choi",
+   "venue": "arXiv preprint arXiv:2506.06020",
+   "year": "2025"
+  },
+  {
+   "title": "LLMs' potential influences on our democracy: Challenges and opportunities",
+   "authors": "Y Potter, D Rand, Y Choi, D Song",
+   "venue": "The Fourth Blogpost Track at ICLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "The Twelfth International Conference on Learning Representations (ICLR 2024)",
+   "authors": "W Zhao, X Ren, J Hessel, C Cardie, Y Choi, Y Deng",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "ReAct: Synergizing reasoning and acting in language models",
+   "authors": "B Atil",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "From recognition to cognition: Visual commonsense reasoning, 2018",
+   "authors": "R Zellers, Y Bisk, A Farhadi, Y Choi",
+   "venue": "URL https://arxiv. org/abs/1811.10830.(cited on p. 39)",
+   "year": "1811"
+  },
+  {
+   "title": "Magpie: Alignment data synthesis from scratch by prompting aligned llms with nothing, 2024b",
+   "authors": "Z Xu, F Jiang, L Niu, Y Deng, R Poovendran, Y Choi, BY Lin",
+   "venue": "URL https://arxiv. org/abs/2406.08464",
+   "year": null
+  },
+  {
+   "title": "Wildvis: Open source visualizer for million-scale chat logs in the wild, 2024",
+   "authors": "Y Deng, W Zhao, J Hessel, X Ren, C Cardie, Y Choi",
+   "venue": "URL https://arxiv. org/abs/2409.03753 2",
+   "year": null
+  },
+  {
+   "title": "Multimodal c4: An open, billion-scale corpus of images interleaved with text (2023)",
+   "authors": "W Zhu, J Hessel, A Awadalla, SY Gadre, J Dodge, A Fang, Y Yu, ...",
+   "venue": "arXiv preprint arXiv:2304.06939",
+   "year": null
+  },
+  {
+   "title": "Do mllms capture how interfaces guide user behavior? a benchmark for multimodal ui/ux design understanding",
+   "authors": "J Jeon, MS Kim, J Yoon, S Shim, Y Choi, H Kim, DH Kim, Y Yu",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "FDARxBench: Benchmarking regulatory and clinical reasoning on FDA generic drug assessment",
+   "authors": "B Xiong, J Fisher, B Newman, M Hu, S Gupta, Y Choi, L Fang, RB Altman",
+   "venue": "arXiv preprint arXiv:2603.19539",
+   "year": "2026"
+  },
+  {
+   "title": "HAICOSYSTEM: An ecosystem for sandboxing safety risks in interactive AI agents",
+   "authors": "X Zhou, H Kim, F Brahman, L Jiang, H Zhu, X Lu, FF Xu, BY Lin, Y Choi, ...",
+   "venue": "Second Conference on Language Modeling",
+   "year": "2025"
+  },
+  {
+   "title": "Quantifying language models’ sensitivity to spurious features in prompt design or: How i learned to start worrying about prompt formatting. arXiv [Preprint](2023). 10.48550",
+   "authors": "M Sclar, Y Choi, Y Tsvetkov, A Suhr, PG Allen",
+   "venue": "arXiv preprint arXiv.2310.11324",
+   "year": "2024"
+  },
+  {
+   "title": "Reading Books is Great, But Not if You Are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms",
+   "authors": "S Han, J Kim, J Hessel, L Jiang, J Chung, Y Son, Y Choi, Y Yu",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Common sense: the dark matter of language and intelligence (VLDB 2023 Keynote)",
+   "authors": "Y Choi",
+   "venue": "Proceedings of the VLDB Endowment 16 (12), 4139-4139",
+   "year": "2023"
+  },
+  {
+   "title": "Quantifying language models’ sensitivity to spurious features in prompt design or: how I learned to start worrying about prompt formatting. arXiv, Published online October 17, 2023",
+   "authors": "M Sclar, Y Choi, Y Tsvetkov",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Clipscore: A reference-free evaluation metric for image captioning. arXiv preprint arXiv: 210408718",
+   "authors": "J Hessel, A Holtzman, M Forbes, RL Bras, Y Choi",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Connotation frames of agency and power in modern films",
+   "authors": "M Sap, MC Prasettio, A Holtzman, H Rashkin, Y Choi",
+   "venue": "Conference on Empirical Methods in Natural Language Processing",
+   "year": "2017"
+  },
+  {
+   "title": "Connotation frames: Typed relations of implied sentiment in predicate-argument structure",
+   "authors": "H Rashkin, S Singh, Y Choi",
+   "venue": "CoRR, abs/1506.02739",
+   "year": "2015"
+  },
+  {
+   "title": "Finding deceptive opinion spam by any stretch of the imagination. arXiv preprint",
+   "authors": "M Ott, Y Choi, C Cardie, JT Hancock",
+   "venue": "arXiv preprint arXiv:1107.4557",
+   "year": "2011"
+  },
+  {
+   "title": "Cornell System Description for the NTCIR-6 Opinion Task.",
+   "authors": "E Breck, Y Choi, V Stoyanov, C Cardie",
+   "venue": "NTCIR",
+   "year": "2007"
+  },
+  {
+   "title": "Defending against neural fake news. arXiv. doi: 10.48550",
+   "authors": "R Zellers, A Holtzman, H Rashkin, Y Bisk, A Farhadi, F Roesner, Y Choi",
+   "venue": "arXiv",
+   "year": "1905"
+  },
+  {
+   "title": "C., and Hancock, JT (2011) Finding Deceptive Opinion Spam by Any Stretch of the Imagination",
+   "authors": "M Ott, YC Choi",
+   "venue": "Proceedings of the 49th Annual Meeting of the Association for Computational …",
+   "year": null
+  },
+  {
+   "title": "Introspective X Training: Feedback Conditioning Improves Scaling Across all LLM Training Stages",
+   "authors": "B Cui, X Lu, J Jung, SN Akter, H Kim, Y Qu, D Acuna, S Prabhumoye, ...",
+   "venue": "arXiv preprint arXiv:2605.20285",
+   "year": "2026"
+  },
+  {
+   "title": "Ragen-2: Reasoning collapse in agentic rl",
+   "authors": "Z Wang, C Gui, X Jin, Q Wang, L Liu, K Wang, S Chen, L Li, Z Yang, ...",
+   "venue": "arXiv preprint arXiv:2604.06268",
+   "year": "2026"
+  },
+  {
+   "title": "Zebraarena: A diagnostic simulation environment for studying reasoning-action coupling in tool-augmented llms",
+   "authors": "W Zhao, L Schmidt, Y Choi, J Zou, V Balachandran, L Chen",
+   "venue": "arXiv preprint arXiv:2603.18614",
+   "year": "2026"
+  },
+  {
+   "title": "Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome",
+   "authors": "P Lu, Y Gao, WG Peng, H Zhang, K Zhu, EK Robinson, Q Xu, M Kotaka, ...",
+   "venue": "bioRxiv, 2026.02. 27.708412",
+   "year": "2026"
+  },
+  {
+   "title": "Moco: A one-stop shop for model collaboration research",
+   "authors": "S Feng, Y Bai, Z Yang, Y Wang, Z Tan, J Yan, Z Lei, W Ding, W Shi, ...",
+   "venue": "arXiv preprint arXiv:2601.21257",
+   "year": "2026"
+  },
+  {
+   "title": "K-EXAONE technical report",
+   "authors": "E Choi, K Choi, S Hong, J Hwang, H Jeon, H Jo, J Kim, S Kim, S Kim, ...",
+   "venue": "arXiv preprint arXiv:2601.01739",
+   "year": "2026"
+  },
+  {
+   "title": "Opt-icl at lewidi-2025: Maximizing in-context signal from rater examples via meta-learning",
+   "authors": "T Sorensen, Y Choi",
+   "venue": "Proceedings of the The 4th Workshop on Perspectivist Approaches to NLP, 228-241",
+   "year": "2025"
+  },
+  {
+   "title": "LOTUS: A Leaderboard for Detailed Image Captioning from Quality to Societal Bias and User Preferences",
+   "authors": "Y Hirota, B Li, R Hachiuma, YH Wu, B Ivanovic, M Pavone, Y Choi, ...",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "G-focus: Towards a robust method for assessing ui design persuasiveness",
+   "authors": "J Jeon, JH Yoon, MS Kim, S Shim, Y Choi, H Kim, Y Yu",
+   "venue": "arXiv e-prints, arXiv: 2505.05026",
+   "year": "2025"
+  },
+  {
+   "title": "VCAF: a multi-agent framework for venture capital decision-making using synthetic startup data",
+   "authors": "C Meixin, Z Zhou, Y Xiao, W Xuan, X Tang, X Huang, T Xu, Z Xu, ...",
+   "venue": "NeurIPS 2025 Workshop: Generative AI in Finance",
+   "year": "2025"
+  },
+  {
+   "title": "Intuitions of compromise: Utilitarianism vs. contractualism",
+   "authors": "J Moore, Y Choi, S Levine",
+   "venue": "arXiv preprint arXiv:2410.05496",
+   "year": "2024"
+  },
+  {
+   "title": "Perceptions of Compromise: Comparing Consqequentialist and Conctractualist Accounts",
+   "authors": "J Moore, S Levine, Y Choi",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 46",
+   "year": "2024"
+  },
+  {
+   "title": "In search of the long-tail: systematic generation of long-tail knowledge via logical rule guided search",
+   "authors": "H Li, Y Ning, Z Liao, S Wang, XL Li, X Lu, F Brahman, W Zhao, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2311.07237",
+   "year": "2023"
+  },
+  {
+   "title": "CLIPScore",
+   "authors": "J Hessel, A Holtzman, M Forbes, R Le Bras, Y Choi",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Information-Theoretic Evaluation of Free-Text Rationales with Conditional -Information",
+   "authors": "H Chen, F Brahman, X Ren, Y Ji, Y Choi, S Swayamdipta",
+   "venue": "Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "MAUVE: Human-machine divergence curves for evaluating open-ended text generation",
+   "authors": "K Pillutla, S Swayamdipta, R Zellers, J Thickstun, Y Choi, Z Harchaoui",
+   "venue": "CoRR",
+   "year": "2021"
+  },
+  {
+   "title": "Annotating and Modeling Shallow Semantics Directly from Text",
+   "authors": "L He",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Truth of varying shades: On political fact-checking and fake news",
+   "authors": "H Rashkin, E Choi, JY Jang, S Volkova, Y Choi",
+   "venue": "Conference on Empirical Methods in Natural Language Processing",
+   "year": "2017"
+  },
+  {
+   "title": "Claire, and Jeffrey Hancock",
+   "authors": "M Ott, Y Choi",
+   "venue": "Finding Deceptive Opinion Spam by Any Stretch of the Imagination. ACL, 309-319",
+   "year": "2011"
+  },
+  {
+   "title": "Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks",
+   "authors": "Z He, Y Wang, C Zhi, Y Hu, TP Chen, L Yin, Z Chen, TA Wu, S Ouyang, ...",
+   "venue": "Forty-third International Conference on Machine Learning",
+   "year": null
+  },
+  {
+   "title": "Forty Shades of Blue: Quality-Diversity Alignment via Mode-Conditioned Reinforcement Learning",
+   "authors": "J Yuan, H Kang, JJ Liu, Y Choi, V Iyer, L Jiang, N Jaques",
+   "venue": "arXiv preprint arXiv:2609.14896",
+   "year": "2026"
+  },
+  {
+   "title": "How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning",
+   "authors": "B Kim, R Wang, D Acuna, J Jung, A Trevithick, B Cui, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2605.17077",
+   "year": "2026"
+  },
+  {
+   "title": "VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition",
+   "authors": "T Yadav, M Salehi, JS Park, V Ramanujan, H Hajishirzi, Y Choi, A Farhadi, ...",
+   "venue": "arXiv preprint arXiv:2605.02834",
+   "year": "2026"
+  },
+  {
+   "title": "NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training",
+   "authors": "F Wu, H Zhao, D Xing, H Cao, T Xu, Y Li, X Tang, Z Wang, A Tu, K Pang, ...",
+   "venue": "arXiv preprint arXiv:2605.08144",
+   "year": "2026"
+  },
+  {
+   "title": "Long grounded thoughts: Synthesizing visual problems and reasoning chains at scale",
+   "authors": "D Acuna, CHH Yang, Y Deng, J Jung, X Lu, P Ammanabrolu, H Kim, ...",
+   "venue": "arXiv preprint arXiv:2511.05705",
+   "year": "2025"
+  },
+  {
+   "title": "Long Grounded Thoughts: Distilling Compositional Visual Reasoning Chains at Scale",
+   "authors": "D Acuna, CHH Yang, Y Deng, J Jung, X Lu, P Ammanabrolu, H Kim, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "RiboPO: Preference Optimization for Structure-and Stability-Aware RNA Design",
+   "authors": "M Sun, H Cao, Z Zhang, C Wei, L Wang, T Jia, Z Liu, T Fu, X Tang, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2510.21161",
+   "year": "2025"
+  },
+  {
+   "title": "A Roadmap for Alignable Algorithmic Decision-Makers in the Medical Triage Domain",
+   "authors": "B Hu, D Chan, T Sorensen, X Chen, H Ji, Y Choi, T Darrell, A Basharat",
+   "venue": "2025 IEEE Conference on Artificial Intelligence (CAI), 1179-1183",
+   "year": "2025"
+  },
+  {
+   "title": "Towards visual text design transfer across languages",
+   "authors": "Y Choi, J Chung, S Shim, G Oh, Y Yu",
+   "venue": "Advances in Neural Information Processing Systems 37, 89706-89727",
+   "year": "2024"
+  },
+  {
+   "title": "Pixelated Instructions: Can Multimodal Large Language Models Follow Printed Instructions in Images?",
+   "authors": "X Li, Y Lu, Z Gan, J Gao, WY Wang, Y Choi",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "RESTOR: Knowledge Recovery through Machine Unlearning",
+   "authors": "K Rezaei, K Chandu, S Feizi, Y Choi, F Brahman, A Ravichander",
+   "venue": "arXiv preprint arXiv:2411.00204",
+   "year": "2024"
+  },
+  {
+   "title": "Statistical and Computational Guarantees for Influence Diagnostics",
+   "authors": "J Fisher, L Liu, K Pillutla, Y Choi, Z Harchaoui",
+   "venue": "arXiv preprint arXiv:2212.04014",
+   "year": "2022"
+  },
+  {
+   "title": "NaturalAdversaries: Can Naturalistic Adversaries Be as Effective as Artificial Adversaries?",
+   "authors": "S Gabriel, H Palangi, Y Choi",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 5635-5645",
+   "year": "2022"
+  },
+  {
+   "title": "Imagined versus Remembered Stories: Quantifying Differences in Narrative Flow",
+   "authors": "M Sap, A Jafarpour, Y Choi, NA Smith, JW Pennebaker, E Horvitz",
+   "venue": "arXiv preprint arXiv:2201.02662",
+   "year": "2022"
+  },
+  {
+   "title": "Reflective decoding: Unsupervised paraphrasing and abductive reasoning",
+   "authors": "P West, X Lu, A Holtzman, C Bhagavatula, J Hwang, Y Choi",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration",
+   "authors": "SU Hongjin, S Diao, X Lu, M Liu, J Xu, X Dong, Y Fu, P Belcak, H Ye, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Je rey T. Hancock. Finding deceptive opinion spam by any stretch of the imagination",
+   "authors": "M Ott, Y Choi, C Cardie",
+   "venue": "Proceedings of the 49th Annual Meeting of the Asso",
+   "year": null
+  },
+  {
+   "title": "Intuitions of compromise: Utilitarianism, egalitarianism, contractualism",
+   "authors": "J Moore, Y Choi, S Levine",
+   "venue": "Cognition 278, 106694",
+   "year": "2027"
+  },
+  {
+   "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+   "authors": "S Kim, Y Lee, B Liu, D Ko, R Shao, S Kim, G Neubig, PW Koh, ...",
+   "venue": "arXiv preprint arXiv:2610.02202",
+   "year": "2026"
+  },
+  {
+   "title": "Prefix Sliding for efficient test-time scaling",
+   "authors": "N Muennighoff, Z Wang, Z Chen, W Shi, B Hui, J Yang, D Jiang, ...",
+   "venue": "arXiv preprint arXiv:2608.26070",
+   "year": "2026"
+  },
+  {
+   "title": "Deciphering Fingerprints of 3D Molecular Surfaces for Accurate Epitope Prediction",
+   "authors": "F Wu, W Xuan, J Leskovec, Y Choi, LE Li",
+   "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and …",
+   "year": "2026"
+  },
+  {
+   "title": "SurfDesign: Effective Protein Design on Molecular Surfaces",
+   "authors": "F Wu, S Jin, X Tang, M Gerstein, X Zeng, J Leskovec, Y Choi, J Xu",
+   "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and …",
+   "year": "2026"
+  },
+  {
+   "title": "ProCUA-SFT Technical Report",
+   "authors": "J Jung, X Lu, B Cui, M Khalifa, S Zhang, H Zhang, J Xu, AS Deshmukh, ...",
+   "venue": "arXiv preprint arXiv:2606.17321",
+   "year": "2026"
+  },
+  {
+   "title": "Spokes: Optimizing for Diverse Pretraining Data Selection",
+   "authors": "C Lee, Y Choi, L Zettlemoyer, PW Koh, HL Chieu",
+   "venue": "arXiv preprint arXiv:2606.15216",
+   "year": "2026"
+  },
+  {
+   "title": "Scaling Participation in Modular AI Systems",
+   "authors": "S Feng, Y Wang, W Shi, L Zettlemoyer, Y Choi, Y Tsvetkov",
+   "venue": "arXiv preprint arXiv:2606.07812",
+   "year": "2026"
+  },
+  {
+   "title": "DeltaPrompts: Escaping the Zero-Delta Trap in Multimodal Distillation",
+   "authors": "J Jung, H Kim, B Cui, X Lu, D Acuna, P Ammanabrolu, Y Choi",
+   "venue": "arXiv preprint arXiv:2605.15532",
+   "year": "2026"
+  },
+  {
+   "title": "EXAONE 4.5 Technical Report",
+   "authors": "E Choi, K Choi, S Chun, S Hong, J Hwang, H Jeon, A Jo, H Jo, Y Jo, J Kim, ...",
+   "venue": "arXiv preprint arXiv:2604.08644",
+   "year": "2026"
+  },
+  {
+   "title": "Synthetic Mixed Training: Scaling Parametric Knowledge Acquisition Beyond RAG",
+   "authors": "S Han, K Kim, C Park, B Newman, S Kotha, J Jung, J Zou, Y Choi",
+   "venue": "arXiv preprint arXiv:2603.23562",
+   "year": "2026"
+  },
+  {
+   "title": "Theory of Space: Evaluating Active Spatial Belief Construction in Foundation Models with Synthetic 3D Environments",
+   "authors": "P Zhang, Z Huang, Y Wang, J Zhang, L Xue, Z Wang, Q Wang, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens (paper summary)",
+   "authors": "J Liu, S Min, L Zettlemoyer, Y Choi, H Hajishirzi",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Are you going to finish that? A Practical Study of the Partial Token Problem",
+   "authors": "H Xu, A Liu, J Hayase, Y Choi, NA Smith",
+   "venue": "arXiv preprint arXiv:2601.23223",
+   "year": "2026"
+  },
+  {
+   "title": "Are you going to finish that? A Practical Study of the Tokenization Boundary Problem",
+   "authors": "H Xu, A Liu, J Hayase, Y Choi, NA Smith",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data",
+   "authors": "S Nahida Akter, S Prabhumoye, E Nyberg, M Patwary, M Shoeybi, Y Choi, ...",
+   "venue": "arXiv e-prints, arXiv: 2510.03264",
+   "year": "2025"
+  },
+  {
+   "title": "Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations",
+   "authors": "B Siyuan Zheng, A Liu, O Ahia, J Hayase, Y Choi, NA Smith",
+   "venue": "arXiv e-prints, arXiv: 2506.19004",
+   "year": "2025"
+  },
+  {
+   "title": "Nemotron-CrossThink: Scaling Self-Learning beyond Math Reasoning",
+   "authors": "S Nahida Akter, S Prabhumoye, M Novikov, S Han, Y Lin, E Bakhturina, ...",
+   "venue": "arXiv e-prints, arXiv: 2504.13941",
+   "year": "2025"
+  },
+  {
+   "title": "ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning",
+   "authors": "B Yuchen Lin, R Le Bras, K Richardson, A Sabharwal, R Poovendran, ...",
+   "venue": "arXiv e-prints, arXiv: 2502.01100",
+   "year": "2025"
+  },
+  {
+   "title": "The HALoGen Benchmark: Fantastic LLM Hallucinations and Where To Find Them",
+   "authors": "A Ravichander, S Ghela, D Wadden, Y Choi",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Multi-Attribute Constraint Satisfaction via Language Model Rewriting",
+   "authors": "A Baheti, D Chakraborty, F Brahman, RL Bras, X Lu, N Dziri, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2412.19198",
+   "year": "2024"
+  },
+  {
+   "title": "Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy and Research",
+   "authors": "A Feder Cooper, CA Choquette-Choo, M Bogen, K Klyman, M Jagielski, ...",
+   "venue": "arXiv e-prints, arXiv: 2412.06966",
+   "year": "2024"
+  },
+  {
+   "title": "Certainly Uncertain: A Benchmark and Metric for Multimodal Epistemic and Aleatoric Awareness",
+   "authors": "K Raghavi Chandu, L Li, A Awadalla, X Lu, JS Park, J Hessel, L Wang, ...",
+   "venue": "arXiv e-prints, arXiv: 2407.01942",
+   "year": "2024"
+  },
+  {
+   "title": "WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild",
+   "authors": "B Yuchen Lin, Y Deng, K Chandu, F Brahman, A Ravichander, V Pyatkin, ...",
+   "venue": "arXiv e-prints, arXiv: 2406.04770",
+   "year": "2024"
+  },
+  {
+   "title": "LUMOS: Towards language agents that are unified, modular, and open source",
+   "authors": "D Yin, F Brahman, A Ravichander, K Chandu, KW Chang, Y Choi, BY Lin",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning",
+   "authors": "B Yuchen Lin, A Ravichander, X Lu, N Dziri, M Sclar, K Chandu, ...",
+   "venue": "arXiv e-prints, arXiv: 2312.01552",
+   "year": "2023"
+  },
+  {
+   "title": "SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks",
+   "authors": "B Yuchen Lin, Y Fu, K Yang, F Brahman, S Huang, C Bhagavatula, ...",
+   "venue": "arXiv e-prints, arXiv: 2305.17390",
+   "year": "2023"
+  },
+  {
+   "title": "The magazine archive includes every article published in Communications of the ACM for over the past 50 years.",
+   "authors": "K Sakaguchi, R Le Bras, C Bhagavatula, Y Choi",
+   "venue": "Communications of the ACM 64 (9), 99-106",
+   "year": "2021"
+  },
+  {
+   "title": "Misinfo Belief Frames: A Case Study on Covid & Climate News",
+   "authors": "S Gabriel, S Hallinan, M Sap, P Nguyen, F Roesner, E Choi, Y Choi",
+   "venue": "CoRR",
+   "year": "2021"
+  },
+  {
+   "title": "Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral.",
+   "authors": "L Liu, K Pillutla, S Welleck, S Oh, Y Choi, Z Harchaoui",
+   "venue": "CoRR",
+   "year": "2021"
+  },
+  {
+   "title": "On-the-Fly Attention Modularization for Neural Generation.",
+   "authors": "Y Dong, C Bhagavatula, X Lu, JD Hwang, A Bosselut, JCK Cheung, ...",
+   "venue": "CoRR",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to Write by Learning the Objective",
+   "authors": "A Holtzman, J Buys, M Forbes, A Bosselut, Y Choi",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Vicente Ordonez-Rom án",
+   "authors": "Y Choi, AA Efros",
+   "venue": "Communications of the ACM 59 (3)",
+   "year": "2016"
+  },
+  {
+   "title": "Language, Vision, and Social AI",
+   "authors": "Y Choi",
+   "venue": "IEEE INTELLIGENT SYSTEMS 31 (1), 59-59",
+   "year": "2016"
+  },
+  {
+   "title": "Using external sources for sponsored search AD selection",
+   "authors": "M Fontoura, V Josifovski, E Gabrilovich, B PANG, Y Choi, MR Mediano",
+   "venue": "US Patent 9,129,300",
+   "year": "2015"
+  },
+  {
+   "title": "OpinionFinder",
+   "authors": "P Hoffmann, E Riloff, JS Kessler, T Wilson, SV Patwardhan, ...",
+   "venue": "Proceedings of HLT/EMNLP on Interactive Demonstrations-",
+   "year": "2005"
+  },
+  {
+   "title": "Neural Models for Large-Scale Semantic Role Labelling Nicholas FitzGerald",
+   "authors": "L Zettlemoyer, N Smith, Y Choi",
+   "venue": "Future 78 (11), 12",
+   "year": null
+  },
+  {
+   "title": "Text Generation and Evaluation for Human-Machine Collaborative Writing Elizabeth Clark A dissertation",
+   "authors": "NA Smith, Y Choi, K Reinecke",
+   "venue": "Writer 71, 8",
+   "year": null
+  },
+  {
+   "title": "FROM PHYS ICAL TO SOC IAL COMMONSENSE: NAT URAL LANGUAGE AND THE NAT URAL WORLD maxwell forbes A dissertation",
+   "authors": "Y Choi, NA Smith, F Xia",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Towards Efficient, Customizable, and Communal Natural Language Processing Jungo Kasai A dissertation",
+   "authors": "NA Smith, Y Choi, L Schmidt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Commonsense reasoning about social dynamics in text Hannah Rashkin A dissertation",
+   "authors": "Y Choi, GA Levow, NA Smith",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "How to train your self-supervised NLP model: Investigating pre-training objectives, data, and scale Mandar Joshi A dissertation",
+   "authors": "Y Choi",
+   "venue": "Future 90, 12",
+   "year": null
+  },
+  {
+   "title": "requirements for the degree of Doctor of Philosophy University of Washington 2016 Reading Committee",
+   "authors": "D Fox, A Farhadi, Y Choi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "c© Copyright 2018 Luheng He Annotating and Modeling Shallow Semantics Directly from Text Luheng He A dissertation",
+   "authors": "L Zettlemoyer, Y Choi, N Smith",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "TinyEye: Sharpening Visual Reasoning of Tiny Models with Offline Policy Optimization",
+   "authors": "D Zhang, J Li, S Wang, W Wang, G Chen, H Zhang, S Diao, M Liu, X Lu, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Understanding Natural Language with Commonsense Knowledge Representation, Reasoning, and Simulation Antoine Bosselut A dissertation",
+   "authors": "Y Choi, GA Levow, N Smith",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Introductory Tutorial: Commonsense Reasoning for Natural Language Processing",
+   "authors": "M Sap, V Shwartz, A Bosselut, Y Choi, D Roth",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Application of Natural Language Processing Toward Scientific Text Understanding Aida Amini",
+   "authors": "H Hajishirzi, Y Choi, B Dalvi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "c? Copyright 2015 Andrea M. Kahn New Methods for Detecting Deceptive Product Reviews Andrea M. Kahn A thesis",
+   "authors": "Y Choi, F Xia",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Natural Language as a Scaffold for Visual Recognition Mark Yatskar A dissertation",
+   "authors": "L Zettlemoyer, A Farhadi, Y Choi",
+   "venue": "Future 110, 11",
+   "year": null
+  },
+  {
+   "title": "Constrained, Causal, and Knowledge-Grounded Reasoning for Neural Language Generation Lianhui Qin A dissertation",
+   "authors": "Y Choi, L Zettlemoyer, F Xia, O Etzioni, L Qin",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Human-Centered Interactive Information Seeking Zeqiu Wu A dissertation",
+   "authors": "Y Choi, Z Wu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "c© Copyright 2016 Chloe Kiddon Learning to Interpret and Generate Instructional Recipes",
+   "authors": "C Kiddon, Y Choi, L Zettlemoyer, H Hajishirzi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Theory of Space: Benchmarking Active Spatial Belief Construction and Revision in Foundation Models for Embodied Agents",
+   "authors": "P Zhang, Z Huang, Y Wang, J Zhang, L Xue, Z Wang, Q Wang, ...",
+   "venue": "The 2nd Workshop on Foundation Models Meet Embodied Agents at CVPR 2026",
+   "year": null
+  },
+  {
+   "title": "Theory of Space: Evaluating Multimodal Spatial Belief through Active Exploration",
+   "authors": "P Zhang, Z Huang, Y Wang, J Zhang, L Xue, Z Wang, Q Wang, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Theory of Space: Active Exploration and Spatial Belief Probing for Foundation Models",
+   "authors": "P Zhang, Z Huang, Y Wang, J Zhang, L Xue, Z Wang, Q Wang, ...",
+   "venue": "4th Workshop on Advances in Language and Vision Research (ALVR)",
+   "year": null
+  },
+  {
+   "title": "Theory of Space: A Benchmark for Evaluating Spatial Belief Construction through Active Exploration",
+   "authors": "P Zhang, Z Huang, Y Wang, J Zhang, L Xue, Z Wang, Q Wang, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Understanding Reasoning Collapse in Multi-Turn Agent Reinforcement Learning",
+   "authors": "Z Wang, C Gui, X Jin, Q Wang, L Liu, K Wang, S Chen, L Li, Z Yang, ...",
+   "venue": "ICLR 2026 Workshop on Lifelong Agents: Learning, Aligning, Evolving",
+   "year": null
+  },
+  {
+   "title": "A Journal Dedicated to Entrepreneurship",
+   "authors": "D Shepherd, S Subramony, M Minniti, S Parker, SB Kotha, M Lenox, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The Agent's Marathon: Probing the Limits of Endurance in Long-Horizon Tasks",
+   "authors": "W Zheng, X Ye, P Xia, F Wu, L Li, W Zhang, L Wang, Y Choi, Y Li, H Yao",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Fighting Fire with Fire: Assessing Test Set Contamination Through Deliberate Training on Test Data",
+   "authors": "M Sclar, SS Li, N Mireshghallah, Y Choi, Y Tsvetkov",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning to Write with Cooperative Discriminators: Supplementary Material",
+   "authors": "A Holtzman, J Buys, M Forbes, A Bosselut, D Golub, Y Choi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Best Unpacking DPO and PPO: Disentangling Practices for Learning from Preference Feedback",
+   "authors": "H Ivison, Y Wang, J Liu, Z Wu, V Pyatkin, N Lambert, NA Smith, Y Choi, ...",
+   "venue": "NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles …",
+   "year": null
+  },
+  {
+   "title": "In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Induced Search",
+   "authors": "H Li, Z Liao, Y Ning, S Wang, XL Li, X Lu, F Brahman, W Zhao, Y Choi, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "NeuroCounterfactuals",
+   "authors": "P Howard, G Singer, V Lal, Y Choi, S Swayamdipta",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "DEXPERTS: On-the-Fly Controlled Text Generation with Experts and Anti-Experts",
+   "authors": "A Liu, M Sap, X Lu, S Swayamdipta, C Bhagavatula, NA Smith, Y Choi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "CS5740: Natural Language Processing",
+   "authors": "M Collins, L Zettlemoyer, Y Choi, S Petrov",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ConnotafionWordNet",
+   "authors": "JS Kang, S Feng, L Akoglu, Y Choi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Transformer Commonsense Models for Knowledge Graph Construction",
+   "authors": "A Bosselut, H Rashkin, M Sap, C Malaviya, A Celikyilmaz, Y Choi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplemental Material-Incomparable Evaluation Summary",
+   "authors": "R Zellers, M Yatskar, S Thomson, Y Choi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Forecasting Event-Driven Connotation Dynamics and Classifying Event Types on Twitter with LSTMs",
+   "authors": "H Rashkin, Y Choi, S Volkova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Document-level Sentiment Inference with Social, Faction, and Discourse Context",
+   "authors": "ECHRL Zettlemoyer, Y Choi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplemental Material: From Large Scale Image Categorization to Entry-Level Categories",
+   "authors": "V Ordonez, J Deng, Y Choi, AC Berg, TL Berg",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Untitled",
+   "authors": "",
+   "venue": "US Patent 20,050,066,063",
+   "year": null
+  },
+  {
+   "title": "Untitled",
+   "authors": "",
+   "venue": "US Patent 20,030,236,905",
+   "year": null
+  }
+ ]
+}

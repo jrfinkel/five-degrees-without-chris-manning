@@ -1,0 +1,113 @@
+{
+ "user": "D4pG_5kAAAAJ",
+ "pubs": [
+  {
+   "title": "Distant supervision for relation extraction without labeled data",
+   "authors": "M Mintz, S Bills, R Snow, D Jurafsky",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Cheap and fast–but is it good? evaluating non-expert annotations for natural language tasks",
+   "authors": "R Snow, B O’connor, D Jurafsky, AY Ng",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Learning syntactic patterns for automatic hypernym discovery",
+   "authors": "R Snow, D Jurafsky, A Ng",
+   "venue": "Advances in neural information processing systems 17",
+   "year": "2004"
+  },
+  {
+   "title": "Semantic taxonomy induction from heterogenous evidence",
+   "authors": "R Snow, D Jurafsky, AY Ng",
+   "venue": "Proceedings of the 21st international conference on computational …",
+   "year": "2006"
+  },
+  {
+   "title": "Methods and Systems of Automatic Ontology Population",
+   "authors": "BS Srinivasan, RL Snow",
+   "venue": "US Patent App. 12/110,199",
+   "year": "2009"
+  },
+  {
+   "title": "Smoothing techniques for adaptive online language models: topic tracking in tweet streams",
+   "authors": "J Lin, R Snow, W Morgan",
+   "venue": "Proceedings of the 17th ACM SIGKDD international conference on Knowledge …",
+   "year": "2011"
+  },
+  {
+   "title": "Learning to merge word senses",
+   "authors": "R Snow, S Prakash, D Jurafsky, AY Ng",
+   "venue": "Proceedings of the 2007 joint conference on empirical methods in natural …",
+   "year": "2007"
+  },
+  {
+   "title": "Natural language hypernym weighting for word sense disambiguation",
+   "authors": "B Pell, R Snow, SA Waterman",
+   "venue": "US Patent 8,463,593",
+   "year": "2013"
+  },
+  {
+   "title": "Effectively using syntax for recognizing false entailment",
+   "authors": "R Snow, L Vanderwende, A Menezes",
+   "venue": "Proceedings of the Human Language Technology Conference of the NAACL, Main …",
+   "year": "2006"
+  },
+  {
+   "title": "Learning named entity hyponyms for question answering",
+   "authors": "P McNamee, R Snow, P Schone, J Mayfield",
+   "venue": "Proceedings of the Third International Joint Conference on Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Microsoft research at rte-2: Syntactic contributions in the entailment task: an implementation",
+   "authors": "L Vanderwende, A Menezes, R Snow",
+   "venue": "Proceedings of the Second PASCAL Challenges Workshop",
+   "year": "2006"
+  },
+  {
+   "title": "Efficiently representing word sense probabilities",
+   "authors": "R Snow, GL Thione, SA Waterman, C Walters, T Converse",
+   "venue": "US Patent 8,280,721",
+   "year": "2012"
+  },
+  {
+   "title": "A combinatorial problem associated with nonograms",
+   "authors": "J Benton, R Snow, N Wallach",
+   "venue": "Linear algebra and its applications 412 (1), 30-38",
+   "year": "2006"
+  },
+  {
+   "title": "Semantic taxonomy induction",
+   "authors": "RL Snow",
+   "venue": "Stanford University",
+   "year": "2009"
+  },
+  {
+   "title": "Cheap and fast---but is it good?",
+   "authors": "AY Ng, B O’Connor, R Snow, D Jurafsky",
+   "venue": "Proceedings of the Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Abrego, BM, S. Fernández-Merchant, MG Neubauer and W. Watkins, Trace-minimal graphs and D-optimal weighing designs 412 (2005) 161",
+   "authors": "M Al-Barwani, S Al-Farsi, M Koca, H Attia, D Alpay, J Benton, R Snow, ...",
+   "venue": "Linear Algebra and its Applications 412, 549-550",
+   "year": "2006"
+  },
+  {
+   "title": "CS 224N Class Project Automatic Hypernym Classification",
+   "authors": "RL Snow, KD Patel",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "CS 221 Programming Assignment Othello: The Moors of Venice",
+   "authors": "R Snow, K Patel, J Jacobs",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

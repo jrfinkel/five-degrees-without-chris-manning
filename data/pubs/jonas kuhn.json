@@ -1,0 +1,1559 @@
+{
+ "user": "t5vqVEkAAAAJ",
+ "pubs": [
+  {
+   "title": "Learning structured perceptrons for coreference resolution with latent antecedents and non-local features",
+   "authors": "A Björkelund, J Kuhn",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Optimality theory style constraint ranking in large-scale LFG grammars",
+   "authors": "A Frank, J Maxwell",
+   "venue": "Universität Stuttgart, Fakultät Philosophie",
+   "year": "1998"
+  },
+  {
+   "title": "Lexicalized stochastic modeling of constraint-based grammars using log-linear measures and EM training",
+   "authors": "S Riezler, D Prescher, J Kuhn, M Johnson",
+   "venue": "Proceedings of the 38th annual meeting of the Association for Computational …",
+   "year": "2000"
+  },
+  {
+   "title": "CCOHA: Clean corpus of historical American English",
+   "authors": "R Alatrash, D Schlechtweg, J Kuhn, SS Im Walde",
+   "venue": "Proceedings of the twelfth language resources and evaluation conference …",
+   "year": "2020"
+  },
+  {
+   "title": "Optimality-theoretic syntax: A declarative approach",
+   "authors": "J Kuhn, J Kuhn",
+   "venue": "CSLI publications, Center for the Study of Language and Information",
+   "year": "2003"
+  },
+  {
+   "title": "The best of both worlds–a graph-based completion model for transition-based parsers",
+   "authors": "B Bohnet, J Kuhn",
+   "venue": "Proceedings of the 13th Conference of the European Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "Explaining and improving BERT performance on lexical semantic change detection",
+   "authors": "S Laicher, S Kurtyigit, D Schlechtweg, J Kuhn, SS im Walde",
+   "venue": "Proceedings of the 16th conference of the European chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Making ellipses explicit in dependency conversion for a German treebank",
+   "authors": "W Seeker, J Kuhn",
+   "venue": "Proceedings of the Eighth International Conference on Language Resources and …",
+   "year": "2012"
+  },
+  {
+   "title": "Experiments in parallel-text based grammar induction",
+   "authors": "J Kuhn",
+   "venue": "Proceedings of the 42nd Annual Meeting of the Association for Computational …",
+   "year": "2004"
+  },
+  {
+   "title": "Computational text analysis within the Humanities: How to combine working practices from the contributing fields? J. Kuhn",
+   "authors": "J Kuhn",
+   "venue": "Language Resources and Evaluation 53 (4), 565-602",
+   "year": "2019"
+  },
+  {
+   "title": "Resource sensitivity in the syntax-semantics interface and the German split NP construction",
+   "authors": "J Kuhn",
+   "venue": "Universität Stuttgart, Fakultät Philosophie",
+   "year": "1998"
+  },
+  {
+   "title": "Multi-modular domain-tailored OCR post-correction",
+   "authors": "S Schulz, J Kuhn",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Generation and parsing in Optimality Theoretic syntax–issues in the formalization of OT-LFG",
+   "authors": "J Kuhn",
+   "venue": "Formal and Empirical Issues in Optimality-theoretic Syntax, 313-366",
+   "year": "2001"
+  },
+  {
+   "title": "Lexical semantic change discovery",
+   "authors": "S Kurtyigit, M Park, D Schlechtweg, J Kuhn, SS im Walde",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Detection of product comparisons-how far does an out-of-the-box semantic role labeling system take you?",
+   "authors": "W Kessler, J Kuhn",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Morphological and syntactic case in statistical dependency parsing",
+   "authors": "W Seeker, J Kuhn",
+   "venue": "Computational Linguistics 39 (1), 23-55",
+   "year": "2013"
+  },
+  {
+   "title": "Data-driven dependency parsing of new languages using incomplete and noisy training data",
+   "authors": "K Spreyer, J Kuhn",
+   "venue": "Proceedings of the Thirteenth Conference on Computational Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "Bridging resolution: Task definition, corpus resources and rule-based experiments",
+   "authors": "I Rösiger, A Riester, J Kuhn",
+   "venue": "Proceedings of the 27th international conference on computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Exploiting translational correspondences for pattern-independent MWE identification",
+   "authors": "S Zarrieß, J Kuhn",
+   "venue": "Proceedings of the Workshop on Multiword Expressions: Identification …",
+   "year": "2009"
+  },
+  {
+   "title": "Formal and computational aspects of optimality-theoretic syntax",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": "2001"
+  },
+  {
+   "title": "A Corpus of Comparisons in Product Reviews.",
+   "authors": "W Kessler, J Kuhn",
+   "venue": "LREC, 2242-2248",
+   "year": "2014"
+  },
+  {
+   "title": "Who sides with whom? Towards computational construction of discourse networks for political debates",
+   "authors": "S Padó, A Blessing, N Blokker, E Dayanık, S Haunss, J Kuhn",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Learning the Dyck language with attention-based Seq2Seq models",
+   "authors": "X Yu, NT Vu, J Kuhn",
+   "venue": "Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting …",
+   "year": "2019"
+  },
+  {
+   "title": "The feature space in parallel grammar writing",
+   "authors": "TH King, M Forst, J Kuhn, M Butt",
+   "venue": "Research on Language & Computation 3 (2), 139-163",
+   "year": "2005"
+  },
+  {
+   "title": "Ambiguity management in grammar writing",
+   "authors": "TH King, S Dipper, A Frank, J Kuhn, JT Maxwell",
+   "venue": "Research on Language & Computation 2 (2), 259-280",
+   "year": "2004"
+  },
+  {
+   "title": "Integrating manual and automatic annotation for the creation of discourse network data sets",
+   "authors": "S Haunss, J Kuhn, S Padó, A Blessing, N Blokker, E Dayanik, G Lapesa",
+   "venue": "Politics and Governance 8 (2), 326-339",
+   "year": "2020"
+  },
+  {
+   "title": "IMS at the CoNLL 2017 UD shared task: CRFs and perceptrons meet neural networks",
+   "authors": "A Björkelund, A Falenska, X Yu, J Kuhn",
+   "venue": "Proceedings of the CoNLL 2017 shared task: Multilingual parsing from raw …",
+   "year": "2017"
+  },
+  {
+   "title": "ICARUS–an extensible graphical search tool for dependency treebanks",
+   "authors": "M Gärtner, G Thiele, W Seeker, A Björkelund, J Kuhn",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Single conjunct agreement and the formal treatment of coordination in LFG",
+   "authors": "J Kuhn, L Sadler, M Butt, TH King",
+   "venue": "Proceedings of the LFG07 Conference, 302-322",
+   "year": "2007"
+  },
+  {
+   "title": "Interfaces in constraint-based theories of grammar",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "New learning models for robust reference resolution",
+   "authors": "P Denis",
+   "venue": "The University of Texas at Austin",
+   "year": "2007"
+  },
+  {
+   "title": "Argument clauses and correlative es in German-deriving discourse properties in a unification analysis",
+   "authors": "J Berman, J Kuhn",
+   "venue": "Universität Stuttgart, Fakultät Philosophie",
+   "year": "1998"
+  },
+  {
+   "title": "FlowchartQA: The first large-scale benchmark for reasoning over flowcharts",
+   "authors": "S Tannert, MG Feighelstein, J Bogojeska, J Shtok, A Arbelle, PWJ Staar, ...",
+   "venue": "Proceedings of the 1st Workshop on Linguistic Insights from and for …",
+   "year": "2023"
+  },
+  {
+   "title": "German radio interviews: The GRAIN release of the SFB732 Silver Standard Collection",
+   "authors": "K Schweitzer, K Eckart, M Gärtner, A Falenska, A Riester, I Rösiger, ...",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Empirical lower bounds on aligment error rates in syntax-based machine translation",
+   "authors": "A Søgaard, J Kuhn",
+   "venue": "Proceedings of the Third Workshop on Syntax and Structure in Statistical …",
+   "year": "2009"
+  },
+  {
+   "title": "Improving data-driven dependency parsing using large-scale LFG grammars",
+   "authors": "L Øvrelid, J Kuhn, K Spreyer",
+   "venue": "Proceedings of the ACL-IJCNLP 2009 Conference Short Papers, 37-40",
+   "year": "2009"
+  },
+  {
+   "title": "An underspecified HPSG representation for information structure",
+   "authors": "J Kuhn",
+   "venue": "COLING 1996 Volume 2: The 16th International Conference on Computational …",
+   "year": "1996"
+  },
+  {
+   "title": "Reflektierte textanalyse",
+   "authors": "A Pichler, N Reiter",
+   "venue": "Reflektierte Algorithmische Textanalyse, 43-59",
+   "year": "2020"
+  },
+  {
+   "title": "Applying Occam’s razor to transformer-based dependency parsing: What works, what doesn’t, and what is really necessary",
+   "authors": "S Grünewald, A Friedrich, J Kuhn",
+   "venue": "Proceedings of the 17th International Conference on Parsing Technologies and …",
+   "year": "2021"
+  },
+  {
+   "title": "Processing optimality-theoretic syntax by interleaved chart parsing and generation",
+   "authors": "J Kuhn",
+   "venue": "Proceedings of the 38th Annual Meeting of the Association for Computational …",
+   "year": "2000"
+  },
+  {
+   "title": "The syntax and semantics of split NPs in LFG",
+   "authors": "J Kuhn",
+   "venue": "Empirical Issues in Formal Syntax and Semantics 2, 145-166",
+   "year": "1999"
+  },
+  {
+   "title": "Ensemble self-training for low-resource languages: Grapheme-to-phoneme conversion and morphological inflection",
+   "authors": "X Yu, NT Vu, J Kuhn",
+   "venue": "Proceedings of the 17th SIGMORPHON Workshop on Computational Research in …",
+   "year": "2020"
+  },
+  {
+   "title": "Towards a tool for interactive concept building for large scale analysis in the humanities",
+   "authors": "A Blessing, J Sonntag, F Kliche, U Heid, J Kuhn, M Stede",
+   "venue": "Proceedings of the 7th Workshop on Language Technology for Cultural Heritage …",
+   "year": "2013"
+  },
+  {
+   "title": "Cross-framework parser stacking for data-driven dependency parsing",
+   "authors": "L Øvrelid, J Kuhn, K Spreyer",
+   "venue": "Traitement Automatique des Langues, Volume 50, Numéro 3: Apprentissage …",
+   "year": "2009"
+  },
+  {
+   "title": "The DURel annotation tool: Human and computational measurement of semantic proximity, sense clusters and semantic change",
+   "authors": "D Schlechtweg, SM Virk, P Sander, E Sköldberg, LT Linke, T Zhang, ...",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Supervised rhyme detection with Siamese recurrent networks",
+   "authors": "T Haider, J Kuhn",
+   "venue": "Proceedings of the second joint SIGHUM workshop on computational linguistics …",
+   "year": "2018"
+  },
+  {
+   "title": "Data-driven dependency parsing with empty heads",
+   "authors": "W Seeker, R Farkas, B Bohnet, H Schmid, J Kuhn",
+   "venue": "Proceedings of COLING 2012: Posters, 1081-1090",
+   "year": "2012"
+  },
+  {
+   "title": "DEbateNet-mig15: Tracing the 2015 immigration debate in Germany over time",
+   "authors": "G Lapesa, A Blessing, N Blokker, E Dayanık, S Haunss, J Kuhn, S Padó",
+   "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference, 919-927",
+   "year": "2020"
+  },
+  {
+   "title": "The (non-) utility of structural features in BiLSTM-based dependency parsers",
+   "authors": "A Falenska, J Kuhn",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "A plea for a method-driven agenda in the Digital Humanities",
+   "authors": "J Kuhn, N Reiter",
+   "venue": "Proceedings of Digital Humanities",
+   "year": "2015"
+  },
+  {
+   "title": "Generating non-projective word order in statistical linearization",
+   "authors": "B Bohnet, A Björkelund, J Kuhn, W Seeker, S Zarrieß",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "The feature space in parallel grammar writing",
+   "authors": "M Butt, M Forst, TH King, J Kuhn",
+   "venue": "ESSLLI 2003 Workshop on ideas and strategies for multilingual grammar …",
+   "year": "2003"
+  },
+  {
+   "title": "Investigating active learning sampling strategies for extreme multi label text classification",
+   "authors": "L Wertz, K Mirylenka, J Kuhn, J Bogojeska",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "IMS HotCoref DE: A data-driven co-reference resolver for German",
+   "authors": "I Rösiger, J Kuhn",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Towards a Large Parallel Corpus of Cleft Constructions.",
+   "authors": "G Bouma, L Øvrelid, J Kuhn",
+   "venue": "LREC",
+   "year": "2010"
+  },
+  {
+   "title": "Faithfulness violations and bidirectional optimization",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": "2000"
+  },
+  {
+   "title": "Approaching ambiguity in real-life sentences-the application of an Optimality Theory-inspired constraint ranking in a large-scale LFG grammar",
+   "authors": "J Kuhn, C Rohrer",
+   "venue": "Universitätsbibliothek der Universität Stuttgart",
+   "year": "1999"
+  },
+  {
+   "title": "Towards a simple architecture for the structure-function mapping",
+   "authors": "J Kuhn",
+   "venue": "Proceedings of the LFG99 Conference, Manchester, UK, CSLI Proceedings Online",
+   "year": "1999"
+  },
+  {
+   "title": "Polyglot semantic parsing in APIs",
+   "authors": "K Richardson, J Berant, J Kuhn",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "The Code2Text challenge: Text generation in source libraries",
+   "authors": "K Richardson, S Zarrieß, J Kuhn",
+   "venue": "Proceedings of the 10th International Conference on Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Converting an HPSG-based treebank into its parallel dependency-based treebank",
+   "authors": "M Ghayoomi",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Lexicon acquisition with and for symbolic NLP-Systems: a bootstrapping approach.",
+   "authors": "J Kuhn, J Eckle-Kohler, C Rohrer",
+   "venue": "LREC, 89-96",
+   "year": "1998"
+  },
+  {
+   "title": "Die Behandlung von Funktionsverbgefügen in einem HPSG-basierten Übersetzungsansatz",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": "1994"
+  },
+  {
+   "title": "Utilizing LFG parses for treebank annotation",
+   "authors": "H Zinsmeister, J Kuhn, S Dipper",
+   "venue": "LFG 2002, Athens, 78712-1196",
+   "year": "2002"
+  },
+  {
+   "title": "PoeticTTS--Controllable Poetry Reading for Literary Studies",
+   "authors": "J Koch, F Lux, N Schauffler, T Bernhart, F Dieterle, J Kuhn, S Richter, ...",
+   "venue": "arXiv preprint arXiv:2207.05549",
+   "year": "2022"
+  },
+  {
+   "title": "Computerlinguistische Werkzeuge zur Erschließung und Exploration großer Textsammlungen aus der Perspektive fachspezifischer Theorie",
+   "authors": "A Blessing, F Kliche, U Heid, C Kantner, J Kuhn",
+   "venue": "Zeitschrift für digitale Geisteswissenschaften",
+   "year": "2015"
+  },
+  {
+   "title": "Informed ways of improving data-driven dependency parsing for German",
+   "authors": "W Seeker, B Bohnet, L Øvrelid, J Kuhn",
+   "venue": "Coling 2010: Posters, 1122-1130",
+   "year": "2010"
+  },
+  {
+   "title": "Prosody and discourse structure: Issues and experiments",
+   "authors": "G Dogil, J Kuhn, J Mayer, G Möhler, S Rapp",
+   "venue": "Universität Stuttgart, Fakultät Philosophie",
+   "year": "1997"
+  },
+  {
+   "title": "Reinforced active learning for low-resource, domain-specific, multi-label text classification",
+   "authors": "L Wertz, J Bogojeska, K Mirylenka, J Kuhn",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 10959-10977",
+   "year": "2023"
+  },
+  {
+   "title": "IMSurReal: IMS at the surface realization shared task 2019",
+   "authors": "X Yu, A Falenska, M Haid, NT Vu, J Kuhn",
+   "venue": "Proceedings of the 2nd Workshop on Multilingual Surface Realisation (MSR …",
+   "year": "2019"
+  },
+  {
+   "title": "Function assistant: A tool for NL querying of APIs",
+   "authors": "K Richardson, J Kuhn",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Phrase structures and dependencies for end-to-end coreference resolution",
+   "authors": "A Björkelund, J Kuhn",
+   "venue": "Proceedings of COLING 2012: Posters, 145-154",
+   "year": "2012"
+  },
+  {
+   "title": "Training Parsers on Partial Trees: A Cross-language Comparison.",
+   "authors": "K Spreyer, L Øvrelid, J Kuhn",
+   "venue": "LREC",
+   "year": "2010"
+  },
+  {
+   "title": "DSPy-based neural-symbolic pipeline to enhance spatial reasoning in LLMs",
+   "authors": "R Wang, K Sun",
+   "venue": "Neural Networks, 108022",
+   "year": "2025"
+  },
+  {
+   "title": "Improving neural political statement classification with class hierarchical information",
+   "authors": "E Dayanık, A Blessing, N Blokker, S Haunss, J Kuhn, G Lapesa, S Pado",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 2367-2382",
+   "year": "2022"
+  },
+  {
+   "title": "Design and Development of Part-of-Speech-Tagging Resources for Wolof (Niger-Congo, spoken in Senegal).",
+   "authors": "CMB Dione, J Kuhn, S Zarrieß",
+   "venue": "LREC",
+   "year": "2010"
+  },
+  {
+   "title": "Between welcome culture and border fence: N. Blokker et al.",
+   "authors": "N Blokker, A Blessing, E Dayanik, J Kuhn, S Padó, G Lapesa",
+   "venue": "Language Resources and Evaluation 57 (1), 121-153",
+   "year": "2023"
+  },
+  {
+   "title": "Visualization, search, and error analysis for coreference annotations",
+   "authors": "M Gärtner, A Björkelund, G Thiele, W Seeker, J Kuhn",
+   "venue": "Proceedings of 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Towards Data Intensive Testing of a Broad Coverage LFG Grammar",
+   "authors": "J Kuhn",
+   "venue": "Universität Stuttgart, Fakultät Philosophie",
+   "year": "1998"
+  },
+  {
+   "title": "Prosodic realisation of enjambment in recitations of German poetry",
+   "authors": "N Schauffler, F Schubö, T Bernhart, G Eschenbach, J Koch, S Richter, ...",
+   "venue": "Proc. SpeechProsody 2022, 530-534",
+   "year": "2022"
+  },
+  {
+   "title": "Analysis of political debates through newspaper reports: methods and outcomes",
+   "authors": "G Lapesa, A Blessing, N Blokker, E Dayanik, S Haunss, J Kuhn, S Padó",
+   "venue": "Datenbank-Spektrum 20 (2), 143-153",
+   "year": "2020"
+  },
+  {
+   "title": "Dependency length minimization vs. word order constraints: An empirical study on 55 treebanks",
+   "authors": "X Yu, A Falenska, J Kuhn",
+   "venue": "Proceedings of the First Workshop on Quantitative Syntax (Quasy, SyntaxFest …",
+   "year": "2019"
+  },
+  {
+   "title": "To GUI or not to GUI?",
+   "authors": "N Reiter, J Kuhn, M Willand",
+   "venue": "INFORMATIK 2017, 1179-1184",
+   "year": "2017"
+  },
+  {
+   "title": "Learning from Within? Comparing POS tagging approaches for historical text",
+   "authors": "S Schulz, J Kuhn",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Towards opinion mining from reviews for the prediction of product rankings",
+   "authors": "W Kessler, R Klinger, J Kuhn",
+   "venue": "Proceedings of the 6th Workshop on Computational Approaches to Subjectivity …",
+   "year": "2015"
+  },
+  {
+   "title": "Towards joint morphological analysis and dependency parsing of turkish",
+   "authors": "Ö Çetinoğlu, J Kuhn",
+   "venue": "Proceedings of the Second International Conference on Dependency Linguistics …",
+   "year": "2013"
+  },
+  {
+   "title": "Combining referring expression generation and surface realization: A corpus-based investigation of architectures",
+   "authors": "S Zarrieß, J Kuhn",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Hard constraints for grammatical function labelling",
+   "authors": "W Seeker, I Rehbein, J Kuhn, J Van Genabith",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Corpus-based learning of OT constraint rankings for large-scale LFG grammars",
+   "authors": "M Forst, J Kuhn, C Rohrer",
+   "venue": "Proceedings of the 10th International LFG Conference (LFG’05), Bergen …",
+   "year": "2005"
+  },
+  {
+   "title": "V-PP goal motion complexes in English: An HPSG account",
+   "authors": "P Denis, J Kuhn, S Wechsler",
+   "venue": "Proceedings of the ACL-SIGSEM workshop: The Linguistic Dimensions of …",
+   "year": "2003"
+  },
+  {
+   "title": "On Intonation and Interpretation in Context-is There a Unitary Explanation for Focus and Deaccenting?",
+   "authors": "J Kuhn",
+   "venue": "Universität Stuttgart, Fakultät Philosophie",
+   "year": "1997"
+  },
+  {
+   "title": "Reflektierte algorithmische Textanalyse: interdisziplinäre (s) Arbeiten in der CRETA-Werkstatt",
+   "authors": "N Reiter, A Pichler, J Kuhn",
+   "venue": "Walter de Gruyter GmbH & Co KG",
+   "year": "2020"
+  },
+  {
+   "title": "Die Exploration großer Textsammlungen in den Sozialwissenschaften",
+   "authors": "A Blessing, F Kliche, U Heid, C Kantner, J Kuhn",
+   "venue": "CLARIN Newsletter 8, 17-20",
+   "year": "2015"
+  },
+  {
+   "title": "Detecting Comparative Sentiment Expressions:–A Case Study in Annotation Design Decisions",
+   "authors": "W Kessler, J Kuhn",
+   "venue": "KONVENS, 165-170",
+   "year": "2014"
+  },
+  {
+   "title": "Textual emigration analysis",
+   "authors": "A Blessing, J Kuhn",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "Machine translation as tree labeling",
+   "authors": "M Hopkins, J Kuhn",
+   "venue": "Proceedings of SSST, NAACL-HLT 2007/AMTA Workshop on Syntax and Structure in …",
+   "year": "2007"
+  },
+  {
+   "title": "An environment for relational annotation of political debates",
+   "authors": "A Blessing, N Blokker, S Haunss, J Kuhn, G Lapesa, S Padó",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Parallel LFG Grammars on Parallel Corpora: A base for practical triangulation",
+   "authors": "G Bouma, J Kuhn, B Schrader, K Spreyer, M Butt, TH King",
+   "venue": "Proceedings of the LFG08 Conference, 169-189",
+   "year": "2008"
+  },
+  {
+   "title": "Information packaging in German: Some motivation from HPSG-based translation",
+   "authors": "J Kuhn",
+   "venue": "Ms. Centre for Cognitive Science, University of Edinburgh",
+   "year": "1995"
+  },
+  {
+   "title": "Evaluating pre-trained sentence-BERT with class embeddings in active learning for multi-label text classification",
+   "authors": "L Wertz, J Bogojeska, K Mirylenka, J Kuhn",
+   "venue": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling sense structure in word usage graphs with the weighted stochastic block model",
+   "authors": "D Schlechtweg, E Castaneda, J Kuhn, SS im Walde",
+   "venue": "Proceedings of* SEM 2021: The tenth joint conference on lexical and …",
+   "year": "2021"
+  },
+  {
+   "title": "A graphical interface for automatic error mining in corpora",
+   "authors": "G Thiele, W Seeker, M Gärtner, A Björkelund, J Kuhn",
+   "venue": "Proceedings of the Demonstrations at the 14th Conference of the European …",
+   "year": "2014"
+  },
+  {
+   "title": "Underspecifying and predicting voice for surface realisation ranking",
+   "authors": "S Zarrieß, A Cahill, J Kuhn",
+   "venue": "Proceedings of the 49th Annual Meeting of the Association for Computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Parsing word-aligned parallel corpora in a grammar induction context",
+   "authors": "J Kuhn",
+   "venue": "Proceedings of the ACL Workshop on Building and Using Parallel Texts, 17-24",
+   "year": "2005"
+  },
+  {
+   "title": "Two ways of formalizing OT syntax in the LFG framework",
+   "authors": "J Kuhn",
+   "venue": "Ms. Institut fr maschinelle Sprachverarbeitung, Universit t Stuttgart",
+   "year": "1999"
+  },
+  {
+   "title": "Encoding HPSG grammars in TFS",
+   "authors": "J Kuhn",
+   "venue": "Part I & II-Tutorial. ms., Universit at Stuttgart",
+   "year": "1993"
+  },
+  {
+   "title": "Learning semantic correspondences in technical documentation",
+   "authors": "K Richardson, J Kuhn",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "How to train dependency parsers with inexact search for joint sentence boundary detection and parsing of entire documents",
+   "authors": "A Björkelund, A Falenska, W Seeker, J Kuhn",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "On the role of explicit morphological feature representation in syntactic dependency parsing for German",
+   "authors": "W Seeker, J Kuhn",
+   "venue": "Proceedings of the 12th International Conference on Parsing Technologies, 58-62",
+   "year": "2011"
+  },
+  {
+   "title": "Applying Computational Linguistic Techniques in a Documentary Project for Q'anjob'al (Mayan, Guatemala).",
+   "authors": "J Kuhn, B'alam Mateo-Toledo",
+   "venue": "LREC",
+   "year": "2004"
+  },
+  {
+   "title": "OT syntax–decidability of generation-based optimization",
+   "authors": "J Kuhn",
+   "venue": "Proceedings of the 40th annual meeting of the Association for Computational …",
+   "year": "2002"
+  },
+  {
+   "title": "TIGER Transfer-From LFG Structures to the TIGER Treebank",
+   "authors": "H Zinsmeister, J Kuhn, B Schrader, S Dipper",
+   "venue": "Rap. Tecn., IMS, University of Stuttgart, Stuttgart",
+   "year": "2001"
+  },
+  {
+   "title": "Domain restriction in quantification is independent of focus marking: a DRT account of the use of adverbial quantifiers in partial answers to questions",
+   "authors": "J Kuhn",
+   "venue": "Proceedings of the Conference on Formal Grammar, Prague",
+   "year": "1996"
+  },
+  {
+   "title": "The LSCD benchmark: A testbed for diachronic word meaning tasks",
+   "authors": "D Schlechtweg, S Yadav, J Kuhn, N Arefyev",
+   "venue": "Proceedings of the 15th Joint Conference on Lexical and Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Fast and accurate non-projective dependency tree linearization",
+   "authors": "X Yu, S Tannert, NT Vu, J Kuhn",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Computerlinguistische Textanalyse in der Literaturwissenschaft? Oder:„The Importance of Being Earnest “bei quantitativen Untersuchungen",
+   "authors": "J Kuhn",
+   "venue": "Bernhart, T. et al.(Hg.): Quantitative Ansätze in den Literatur-und …",
+   "year": "2018"
+  },
+  {
+   "title": "Resources, tools, and applications at the CLARIN center Stuttgart",
+   "authors": "C Mahlow, K Eckart, J Stegmann, A Blessing, G Thiele, M Gärtner, J Kuhn",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "To what extent does sentence-internal realisation reflect discourse context? A study on word order",
+   "authors": "S Zarrieß, A Cahill, J Kuhn",
+   "venue": "Proceedings of the 13th Conference of the European Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "SOA meets relation extraction: Less may be more in interaction",
+   "authors": "A Blessing, J Stegmann, J Kuhn",
+   "venue": "Thomas Zastrow and Emanuel Dima.",
+   "year": "2012"
+  },
+  {
+   "title": "Reversing f-structure rewriting for generation from meaning representations",
+   "authors": "S Zarrieß, J Kuhn",
+   "venue": "transfer 7 (7), 5",
+   "year": "2010"
+  },
+  {
+   "title": "Extracting and using discourse structure to resolve anaphoric dependencies: Combining logico-semantic and statistical approaches",
+   "authors": "N Asher, P Denis, J Kuhn, E Larson, E McCready, A Palmer, B Reese, ...",
+   "venue": "Proceedings of TALN’04 (Conférence sur le Traitment Automatique du Langage …",
+   "year": "2004"
+  },
+  {
+   "title": "Automatic analysis of political debates and manifestos: Successes and challenges",
+   "authors": "T Ceron, A Barić, A Blessing, S Haunss, J Kuhn, G Lapesa, S Padó, ...",
+   "venue": "Conference on advances in robust argumentation machines, 71-88",
+   "year": "2024"
+  },
+  {
+   "title": "Negation-instance based evaluation of end-to-end negation resolution",
+   "authors": "E Sineva, S Grünewald, A Friedrich, J Kuhn",
+   "venue": "Proceedings of the 25th conference on computational natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Kriterien für die Auswahl einer Softwarelösung für den Betrieb eines Repositoriums für Forschungsdaten",
+   "authors": "J Leendertse, D Suchodoletz",
+   "venue": "Bausteine Forschungsdatenmanagement, 14-26",
+   "year": "2021"
+  },
+  {
+   "title": "IMSurReal too: IMS in the surface realization shared task 2020",
+   "authors": "X Yu, S Tannert, NT Vu, J Kuhn",
+   "venue": "Proceedings of the Third Workshop on Multilingual Surface Realisation, 35-41",
+   "year": "2020"
+  },
+  {
+   "title": "Integrating graph-based and transition-based dependency parsers in the deep contextualized era",
+   "authors": "A Falenska, A Björkelund, J Kuhn",
+   "venue": "Proceedings of the 16th International Conference on Parsing Technologies and …",
+   "year": "2020"
+  },
+  {
+   "title": "Computational text analysis within the humanities",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Multi-modal visualization and search for text and prosody annotations",
+   "authors": "M Gärtner, K Schweitzer, K Eckart, J Kuhn",
+   "venue": "Proceedings of ACL-IJCNLP 2015 System Demonstrations, 25-30",
+   "year": "2015"
+  },
+  {
+   "title": "An Out-of-Domain Test Suite for Dependency Parsing of German.",
+   "authors": "W Seeker, J Kuhn",
+   "venue": "LREC, 4066-4073",
+   "year": "2014"
+  },
+  {
+   "title": "Exploiting XLE’s finite state interface in LFG-based statistical machine translation",
+   "authors": "E Avramidis, J Kuhn, M Butt, TH King",
+   "venue": "Proceedings of LFG 9",
+   "year": "2009"
+  },
+  {
+   "title": "An architecture for parallel corpus-based grammar learning",
+   "authors": "J Kuhn",
+   "venue": "Sprachtechnologie, mobile Kommunikation und linguistische Ressourcen …",
+   "year": "2005"
+  },
+  {
+   "title": "Exploiting parallel corpora for monolingual grammar induction–a pilot study",
+   "authors": "J Kuhn",
+   "venue": "Workshop proceedings of the 4th International Conference on Language …",
+   "year": "2004"
+  },
+  {
+   "title": "A pipeline of neural-symbolic integration to enhance spatial reasoning in large language models",
+   "authors": "R Wang, K Sun, J Kuhn",
+   "venue": "arXiv preprint arXiv:2411.18564",
+   "year": "2024"
+  },
+  {
+   "title": "LFG, Optimality Theory and learnability of languages",
+   "authors": "J Kuhn",
+   "venue": "Handbook of Lexical Functional Grammar, 961-1032",
+   "year": "2023"
+  },
+  {
+   "title": "Reflektierte algorithmische Textanalyse",
+   "authors": "N Reiter, A Pichler, J Kuhn",
+   "venue": "Interdisziplinäre (s) Arbeiten in der CRETA-Werkstatt, Berlin/Boston",
+   "year": "2020"
+  },
+  {
+   "title": "Graph-based universal dependency parsing in the age of the transformer: What works, and what doesn’t",
+   "authors": "S Grünewald, A Friedrich, J Kuhn",
+   "venue": "arXiv preprint arXiv:2010.12699",
+   "year": "2020"
+  },
+  {
+   "title": "Head-first linearization with tree-structured representation",
+   "authors": "X Yu, A Falenska, NT Vu, J Kuhn",
+   "venue": "Proceedings of the 12th International Conference on Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Named Entity Disambiguation for little known referents: a topic-based approach",
+   "authors": "A Glaser, J Kuhn",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "Learning to make inferences in a semantic parsing task",
+   "authors": "K Richardson, J Kuhn",
+   "venue": "Transactions of the Association for Computational Linguistics 4, 155-168",
+   "year": "2016"
+  },
+  {
+   "title": "Corpus-based Learning in Stochastic OT-LFG–Experiments with a Bidirectional Bootstrapping Approach",
+   "authors": "J Kuhn",
+   "venue": "The LFG 02 Conference, 239-257",
+   "year": "2002"
+  },
+  {
+   "title": "Vorzüge von Auszügen–Urheberrechtlich geschützte Texte in den digitalen Geisteswissenschaften (nach-) nutzen",
+   "authors": "M Andresen, M Gärtner, S Hermann, J Jacke, N Ketschik, F Kleinkopf, ...",
+   "venue": "Zeitschrift für digitale Geisteswissenschaften",
+   "year": "2023"
+  },
+  {
+   "title": "WordGuess: using associations for guessing, learning and exploring related words",
+   "authors": "C Oguz, A Blessing, J Kuhn, SS im Walde",
+   "venue": "Proceedings of the 17th Conference on Natural Language Processing (KONVENS …",
+   "year": "2021"
+  },
+  {
+   "title": "Text analysis using large high-resolution displays",
+   "authors": "S Mayer, L Lischke, V Schwind, M Gärtner, E Hämmerle, E Turcan, ...",
+   "venue": "Proceedings of Mensch und Computer 2019, 189-197",
+   "year": "2019"
+  },
+  {
+   "title": "Approximate dynamic oracle for dependency parsing with reinforcement learning",
+   "authors": "X Yu, NT Vu, J Kuhn",
+   "venue": "Proceedings of the Second Workshop on Universal Dependencies (UDW 2018), 183-191",
+   "year": "2018"
+  },
+  {
+   "title": "UnixMan corpus: A resource for language learning in the Unix domain",
+   "authors": "K Richardson, J Kuhn",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "The effects of syntactic features in automatic prediction of morphology",
+   "authors": "W Seeker, J Kuhn",
+   "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Light textual inference for semantic parsing",
+   "authors": "K Richardson, J Kuhn",
+   "venue": "Proceedings of COLING 2012: Posters, 1007-1018",
+   "year": "2012"
+  },
+  {
+   "title": "Right node raising in parsing and generation",
+   "authors": "J Kuhn, C Rohrer, S Zarrieß, M Butt, TH King",
+   "venue": "Proceedings of LFG10, 332",
+   "year": "2010"
+  },
+  {
+   "title": "Multilingual parallel treebanking: a lean and flexible approach.",
+   "authors": "J Kuhn, M Jellinghaus",
+   "venue": "LREC, 555-558",
+   "year": "2006"
+  },
+  {
+   "title": "Utilization of Multiple Language Resources for Robust Grammar-Based Tense and Aspect Classification.",
+   "authors": "A Palmer, J Kuhn, C Smith",
+   "venue": "LREC",
+   "year": "2004"
+  },
+  {
+   "title": "Empirie–Beschreibung–Interpretation. Über den Platz von Computermodellen in den hermeneutisch-historisch orientierten Literaturwissenschaften",
+   "authors": "J Kuhn",
+   "venue": "Digitale Literaturwissenschaft: DFG-Symposion 2017, 57-95",
+   "year": "2023"
+  },
+  {
+   "title": "Aligning Immanuel Kant’s work and its translations",
+   "authors": "R Pozzo, T Gatta, H Hohenegger, J Kuhn, A Pichler, M Turchi, J Genabith",
+   "venue": "Digital Linguistics, 727-746",
+   "year": "2022"
+  },
+  {
+   "title": "» textklang «–towards a multi-modal exploration platform for German poetry",
+   "authors": "N Schauffler, T Bernhart, A Blessing, G Eschenbach, M Gärtner, K Jung, ...",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "Adapting Transformer Language Models for Application in Computational Creativity: Generating German Theater Plays with Varied Topics.",
+   "authors": "L Wertz, J Kuhn",
+   "venue": "ICCC, 17-25",
+   "year": "2022"
+  },
+  {
+   "title": "Compound or term features? Analyzing salience in predicting the difficulty of German noun compounds across domains",
+   "authors": "A Hätty, J Bettinger, M Dorna, J Kuhn, SS im Walde",
+   "venue": "Proceedings of* SEM 2021: The Tenth Joint Conference on Lexical and …",
+   "year": "2021"
+  },
+  {
+   "title": "Moving TIGER beyond sentence-level",
+   "authors": "A Falenska, K Eckart, J Kuhn",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Teaching computational aspects in the digital humanities program at university of stuttgart–intentions and experiences",
+   "authors": "N Reiter, S Schulz, G Kremer, R Klinger, G Viehhauser, J Kuhn",
+   "venue": "Humanities 1 (6)",
+   "year": "2017"
+  },
+  {
+   "title": "Structural alignment for comparison detection",
+   "authors": "W Kessler, J Kuhn",
+   "venue": "Proceedings of the International Conference Recent Advances in Natural …",
+   "year": "2015"
+  },
+  {
+   "title": "Biographical Data Exploration as a Test-bed for a Multi-view, Multi-method Approach in the Digital Humanities.",
+   "authors": "A Blessing, A Glaser, J Kuhn",
+   "venue": "BD, 53-60",
+   "year": "2015"
+  },
+  {
+   "title": "Comparing non-projective strategies for labeled graph-based dependency parsing",
+   "authors": "A Björkelund, J Kuhn",
+   "venue": "Proceedings of COLING 2012: Posters, 135-144",
+   "year": "2012"
+  },
+  {
+   "title": "A cross-lingual induction technique for German adverbial participles",
+   "authors": "S Zarrieß, A Cahill, J Kuhn, C Rohrer",
+   "venue": "Proceedings of the 2010 Workshop on NLP and Linguistics: Finding the Common …",
+   "year": "2010"
+  },
+  {
+   "title": "Using a maximum entropy-based tagger to improve a very fast vine parser",
+   "authors": "A Søgaard, J Kuhn",
+   "venue": "Proceedings of the 11th International Conference on Parsing Technologies …",
+   "year": "2009"
+  },
+  {
+   "title": "Deep grammars in a tree labeling approach to syntax-based statistical machine translation",
+   "authors": "M Hopkins, J Kuhn",
+   "venue": "ACL 2007 Workshop on Deep Linguistic Processing, 33-40",
+   "year": "2007"
+  },
+  {
+   "title": "Generalized tree descriptions for LFG",
+   "authors": "J Kuhn",
+   "venue": "On-line Proceedings of the LFG2003 Conference, Stanford, CA. CSLI On-line …",
+   "year": "2003"
+  },
+  {
+   "title": "Computational optimality-theoretic syntax–a chart-based approach to parsing and generation",
+   "authors": "J Kuhn",
+   "venue": "Linguistic Form and its Computation, 353-385",
+   "year": "2001"
+  },
+  {
+   "title": "Context Effects on Interpretation and Intonation.",
+   "authors": "J Kuhn",
+   "venue": "KONVENS, 186-198",
+   "year": "1996"
+  },
+  {
+   "title": "Treating structural differences in an hpsg-based approach to interlingual machine translation",
+   "authors": "J Kuhn, U Heid",
+   "venue": "na",
+   "year": "1994"
+  },
+  {
+   "title": "Why justifications of claims matter for understanding party positions",
+   "authors": "N Blokker, T Ceron, A Blessing, E Dayanik, S Haunss, J Kuhn, G Lapesa, ...",
+   "venue": "Proceedings of the 2nd workshop on computational linguistics for political …",
+   "year": "2022"
+  },
+  {
+   "title": "Using hierarchical class structure to improve fine-grained claim classification",
+   "authors": "E Dayanık, A Blessing, N Blokker, S Haunss, J Kuhn, G Lapesa, S Padó",
+   "venue": "Proceedings of the 5th Workshop on Structured Prediction for NLP (SPNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Real-valued logics for typological universals: Framework and application",
+   "authors": "T Dönicke, X Yu, J Kuhn",
+   "venue": "Proceedings of the 28th International Conference on Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "GRAIN-S: Manually Annotated Syntax for German Interviews",
+   "authors": "A Falenska, Z Czesznak, K Jung, M Völkel, W Seeker, J Kuhn",
+   "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference …",
+   "year": "2020"
+  },
+  {
+   "title": "NLATool: An Application for Enhanced Deep Text Understanding",
+   "authors": "M Gärtner, S Mayer, V Schwind, E Hämmerle, E Turcan, F Rheinwald, ...",
+   "venue": "Proceedings of the 27th International Conference on Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "A lightweight modeling middleware for corpus processing",
+   "authors": "M Gärtner, J Kuhn",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "Making corpus querying ready for the future: Challenges and concepts",
+   "authors": "M Gärtner, J Kuhn",
+   "venue": "Verlag der Österreichischen Akademie der Wissenschaften",
+   "year": "2018"
+  },
+  {
+   "title": "How to train dependency parsers with inexact search for joint sentence boundary detection and parsing of entire documents",
+   "authors": "A Seeker, A Björkelund, W Falenska, J Kuhn",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Visualization, search, and error analysis for coreference annotations",
+   "authors": "J Kuhn, M Gärtner, A Björkelund, G Thiele, W Seeker",
+   "venue": "ACL 2014, 7",
+   "year": "2014"
+  },
+  {
+   "title": "Sampling methods in Active Learning for treebanking",
+   "authors": "M Ghayoomi, J Kuhn",
+   "venue": "Proceedings of the 12th Workshop on Treebanks and Linguistic Theories (TLT …",
+   "year": "2013"
+  },
+  {
+   "title": "Dependency-based sentence simplification for increasing deep LFG parsing coverage",
+   "authors": "O Cetinoglu, S Zarrieß, J Kuhn, M Butt, TH King",
+   "venue": "Proceedings of the LFG13 Conference, 191-211",
+   "year": "2013"
+  },
+  {
+   "title": "On the split nature of the Dutch latencausative",
+   "authors": "G Bouma, J Kuhn, M Butt, TH King",
+   "venue": "Proceedings of the LFG’09 Conference, 167-187",
+   "year": "2009"
+  },
+  {
+   "title": "Compounding and derivational morphology in a finite-state setting",
+   "authors": "J Kuhn",
+   "venue": "Proceedings of the 41st Annual Meeting of the Association for Computational …",
+   "year": "2003"
+  },
+  {
+   "title": "From LFG Structures to TIGER Treebank Annotations",
+   "authors": "H Zinsmeister, J Kuhn, S Dipper, US IMS",
+   "venue": "Third Wokshop on Linguistically Interpreted Corpora (LINC)",
+   "year": "2001"
+  },
+  {
+   "title": "Resolving some apparent formal problems of OT Syntax",
+   "authors": "J Kuhn",
+   "venue": "PROCEEDINGS-NELS 30, 443-454",
+   "year": "2000"
+  },
+  {
+   "title": "Treating structual differences in an HPSG-based approach to interlingual machine translation",
+   "authors": "U Heid, J Kuhn",
+   "venue": "Proceedings of Arbeitsgruppe AG-6 der DGfS-Jahrestagung",
+   "year": "1994"
+  },
+  {
+   "title": "Empirische Evaluation des Verhaltens von LLMs auf Basis sprachphilosophischer Theorien: Methode und Pilotannotationen",
+   "authors": "A Pichler, D Gerstorfer, J Kuhn, J Pagel",
+   "venue": "Under Construction (DHd2025), 235-238",
+   "year": "2025"
+  },
+  {
+   "title": "Approaching literature and culture and/as ‘intelligent systems’",
+   "authors": "S Baumbach, J Kuhn",
+   "venue": "Interdisciplinary Science Reviews 49 (2), 181-188",
+   "year": "2024"
+  },
+  {
+   "title": "Exploring intonational patterns of poetic speech: Insights from a large corpus of German poetry",
+   "authors": "N Schauffler, N Ketschik, A Blessing, K Jung, T Bernhart, A Kinder, J Koch, ...",
+   "venue": "Proc. TAI 2023, 83-87",
+   "year": "2023"
+  },
+  {
+   "title": "Contextgen: Targeted data generation for low resource domain specific text classification",
+   "authors": "L Fromme, J Bogojeska, J Kuhn",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 3016-3027",
+   "year": "2022"
+  },
+  {
+   "title": "SDC4Lit-Science Data Center for Literature",
+   "authors": "A Blessing, T Bönisch, N Buck, A Ganzenmüller, P Hein, J Hess, A Holz, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Identifying and handling cross-treebank inconsistencies in UD: A pilot study",
+   "authors": "T Dönicke, X Yu, J Kuhn",
+   "venue": "Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020), 67-75",
+   "year": "2020"
+  },
+  {
+   "title": "Fine-GRAINed process metadata",
+   "authors": "K Jung, M Gärtner, J Kuhn",
+   "venue": "Research Conference on Metadata and Semantics Research, 373-378",
+   "year": "2019"
+  },
+  {
+   "title": "Flexible and Reliable Text Analytics in the Digital Humanities–Some Methodological Considerations",
+   "authors": "J Kuhn",
+   "venue": "Proceedings of the Workshop on Language Technology Resources and Tools for …",
+   "year": "2016"
+  },
+  {
+   "title": "Authorship Attribution of Mediaeval German Text: Style and Contents in Apollonius von Tyrland.",
+   "authors": "S Schulz, J Kuhn, N Reiter",
+   "venue": "DH, 883-885",
+   "year": "2016"
+  },
+  {
+   "title": "CRETA (Centrum für reflektierte Textanalyse)-Fachübergreifende Methodenentwicklung in den Digital Humanities.",
+   "authors": "J Kuhn, A Alexiadou, M Braun, T Ertl, S Holtz, C Kantner, C Misselhorn, ...",
+   "venue": "DHd",
+   "year": "2016"
+  },
+  {
+   "title": "Argumentanalyse in digitalen Textkorpora",
+   "authors": "M Butt, G Heyer, K Holzinger, C Kantner, DA Keim, J Kuhn, GS Schaal, ...",
+   "venue": "DHd",
+   "year": "2016"
+  },
+  {
+   "title": "A Pilot Experiment on Exploiting Translations for Literary Studies on Kafka’s “Verwandlung”",
+   "authors": "F Cap, I Rösiger, J Kuhn",
+   "venue": "Proceedings of the Fourth Workshop on Computational Linguistics for …",
+   "year": "2015"
+  },
+  {
+   "title": "Analysing automatic descriptions of intonation with ICARUS",
+   "authors": "K Schweitzer",
+   "venue": "Interspeech 2015",
+   "year": "2015"
+  },
+  {
+   "title": "Exploring the utility of coreference chains for improved identification of personal names",
+   "authors": "A Glaser, J Kuhn",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "On the ‘spirit of LFG’in current Computational Linguistics",
+   "authors": "J Kuhn, M Butt, TH King",
+   "venue": "Proceedings of LFG13, 356",
+   "year": "2013"
+  },
+  {
+   "title": "A Corpus-based Study of the German Recipient Passive",
+   "authors": "P Ziering, S Zarrieß, J Kuhn",
+   "venue": "Proceedings of the Eighth International Conference on Language Resources and …",
+   "year": "2012"
+  },
+  {
+   "title": "Grammar Learning",
+   "authors": "J Kuhn",
+   "venue": "Encyclopedia of the Sciences of Learning, 1383-1387",
+   "year": "2012"
+  },
+  {
+   "title": "Analysierte Parallelkorpora für die sprachvergleichende Grammatik: Was können computerlinguistische Methoden leisten?",
+   "authors": "J Kuhn",
+   "venue": "Deutsch im Sprachvergleich. Grammatische Kontraste und Konvergenzen, 485-520",
+   "year": "2012"
+  },
+  {
+   "title": "Towards Semantic Parsing in Dynamic Domains",
+   "authors": "K Richardson, J Kuhn",
+   "venue": "Proceedings of SemDial 2012 (SeineDial): The 16th Workshop on the Semantics …",
+   "year": "2012"
+  },
+  {
+   "title": "Design and development of part-of-speech-tagging resources for Wolof",
+   "authors": "CMB Dione, J Kuhn, S Zarrieß",
+   "venue": "Calzolari et al",
+   "year": "2010"
+  },
+  {
+   "title": "Paraphrases in LFG-based Broad-Coverage Semantics",
+   "authors": "S Zarrieß, J Kuhn, M Butt, TH King",
+   "venue": "Proceedings of LFG09, 655",
+   "year": "2009"
+  },
+  {
+   "title": "Identification of Comparable Argument-Head Relations in Parallel Corpora.",
+   "authors": "K Spreyer, J Kuhn, B Schrader",
+   "venue": "LREC",
+   "year": "2008"
+  },
+  {
+   "title": "APPLYING AN LFG PARSER IN COREFERENCE RESOLUTION: EXPERIMENTS AND ANALYSIS",
+   "authors": "P Denis, J Kuhn, M Butt, TH King",
+   "venue": "Proceedings of the LFG conference, Konstanz, Germany",
+   "year": "2006"
+  },
+  {
+   "title": "A framework for incorporating alignment information in parsing",
+   "authors": "M Hopkins, J Kuhn",
+   "venue": "Proceedings of the Cross-Language Knowledge Induction Workshop",
+   "year": "2006"
+  },
+  {
+   "title": "Meta-descriptions of rules for generalization in constraint-based grammar design",
+   "authors": "J Kuhn",
+   "venue": "Ms. Institut für maschinelle Sprachverarbeitung, Universität Stuttgart",
+   "year": "1999"
+  },
+  {
+   "title": "Nützlich und nutzbar für die linguistische Forschung: Sprachtechnologische Infrastruktur",
+   "authors": "K Eckart, M Gärtner, J Kuhn, K Schweitzer",
+   "venue": "Digitale Infrastrukturen für die germanistische Forschung, 115-148",
+   "year": null
+  },
+  {
+   "title": "Mixed-Methods-Analyse von Lyrik in Text und Ton: Kurzbericht zum Projekt\" textklang\": Projektlaufzeit 01.02. 2021-31.01. 2024",
+   "authors": "T Bernhart, NK Ketschik, A Kinder, J Koch, J Kuhn, S Richter, N Schauffler, ...",
+   "venue": "Universität Stuttgart",
+   "year": "2024"
+  },
+  {
+   "title": "Exploring retrieval-augmented language modeling for material prediction of vehicle components",
+   "authors": "F Wagner",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "SDC4Lit–Infrastruktur, Methodik und Kompetenzvermittlung für einen Datenlebenszyklus Digitaler Literatur",
+   "authors": "V Kushnarenko, CM Schlesinger, N Buck, A Ganzenmüller, M Ulrich, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Der Klang der Lyrik: Zur Konzeptualisierung von Sprecher und Stimme, auch für die computationelle Analyse",
+   "authors": "S Richter, T Bernhart, F Dieterle, G Viehhauser, G Eschenbach, J Kuhn, ...",
+   "venue": "POEMA 1.2023, 39-51",
+   "year": "2023"
+  },
+  {
+   "title": "Begriffsregister",
+   "authors": "N Reiter, A Pichler, J Kuhn",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "A Priority Programme on Computational Literary Studies.",
+   "authors": "S Pielström, JC Tello, N Reiter, E Gius, C Schöch, S Winko, J Kuhn, ...",
+   "venue": "DH",
+   "year": "2020"
+  },
+  {
+   "title": "Science Data Center für Literatur.",
+   "authors": "M Ulrich, J Hess, R Kamzelak, HW Kramski, K Jung, J Kuhn, ...",
+   "venue": "DHd",
+   "year": "2020"
+  },
+  {
+   "title": "Textanalyse mit kombinierten Methoden-ein konzeptioneller Rahmen für reflektierte Arbeitspraktiken.",
+   "authors": "J Kuhn, A Pichler, N Reiter, G Viehhauser",
+   "venue": "DHd",
+   "year": "2020"
+  },
+  {
+   "title": "IMS at the PolEval 2018: A Bulky Ensemble Depedency Parser meets 12 Simple Rules for Predicting Enhanced Dependencies in Polish",
+   "authors": "A Falenska, A Björkelund, X Yu, J Kuhn",
+   "venue": "arXiv preprint arXiv:1811.03036",
+   "year": "2018"
+  },
+  {
+   "title": "Patient Risk Assessment and Warning Symptom Detection Using Deep Attention-Based Neural Networks",
+   "authors": "L Wertz, J Bogojeska, K Mirylenka, J Kuhn",
+   "venue": "Conference on Empirical Methods in Natural Language Processing",
+   "year": "2018"
+  },
+  {
+   "title": "Computerlinguistische Textanalyse in der",
+   "authors": "J Kuhn",
+   "venue": "Quantitative Ansätze in den Literatur-und Geisteswissenschaften …",
+   "year": "2018"
+  },
+  {
+   "title": "CRETA (Centrum fürreflektierte Textanalyse)–FachübergreifendeMethodenentwicklung in denDigital Humanities",
+   "authors": "C Zittel, J Kuhn, A Artemis, M Braun, T Ertl, S Holtz, C Kantner, ...",
+   "venue": "MODELLIERUNG VERNETZUNG VISUALISIERUNG DIE DIGITAL HUMANITIES ALS …",
+   "year": "2016"
+  },
+  {
+   "title": "eIdentity-Werkzeuge zur Erschließung und Exploration von Textdaten.",
+   "authors": "C Kantner, F Kliche, J Kuhn",
+   "venue": "DHd",
+   "year": "2014"
+  },
+  {
+   "title": "TEANLIS-Text Analysis for Literary Scholars",
+   "authors": "A Müller, M John, J Kuhn",
+   "venue": "Proceedings of the 12th edition of the KONVENS conference, 152-157",
+   "year": "2014"
+  },
+  {
+   "title": "Cross-Lingual Induction for Deep Broad-Coverage Syntax: A Case Study on German Participles",
+   "authors": "S Zarrieß, A Cahill, J Kuhn, C Rohrer",
+   "venue": "Coling 2010: Posters, 1426-1434",
+   "year": "2010"
+  },
+  {
+   "title": "computational architecture for corpus-based studies of syntax¹",
+   "authors": "J Kuhn",
+   "venue": "Cognitive Foundations of Interpretation 190, 127",
+   "year": "2007"
+  },
+  {
+   "title": "Exploring the potential of intractable parsers",
+   "authors": "M Hopkins, J Kuhn",
+   "venue": "Proceedings of the COLING/ACL 2006 Main Conference Poster Sessions, 369-376",
+   "year": "2006"
+  },
+  {
+   "title": "Correspondence-guided synchronous parsing of parallel corpora",
+   "authors": "J Kuhn",
+   "venue": "INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE 19, 1694",
+   "year": "2005"
+  },
+  {
+   "title": "Iii, JTM, 259",
+   "authors": "G Bierner, D Chiang, TL Cornell, C Cremers, P Dekker, S Dipper, M Dras, ...",
+   "venue": "New Forests 29, 321",
+   "year": "2005"
+  },
+  {
+   "title": "Session details: Student session",
+   "authors": "J Kuhn, A Voutilainen",
+   "venue": "Proceedings of the ninth conference on European chapter of the Association …",
+   "year": "1999"
+  },
+  {
+   "title": "19 Context Effects on Interpretation and",
+   "authors": "J Kuhn",
+   "venue": "Natural Language Processing and Speech Technology: Results of the 3rd …",
+   "year": "1996"
+  },
+  {
+   "title": "draft versiony",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": "1995"
+  },
+  {
+   "title": "The treatment of support verb constructions in HPSG-based Machine Translation| a summary",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": "1994"
+  },
+  {
+   "title": "Process and Automatic Control Peculiarities in the Production of Superfluxed Sinter.(Retroactive Coverage)",
+   "authors": "F Cappel, W Hastik, J Kuhn",
+   "venue": "Ironmaking Conference, 1969, 75-83",
+   "year": "1969"
+  },
+  {
+   "title": "Blowing The Boy’s Magic Horn: Plotted and Synthesised Romanticism",
+   "authors": "J Koch, T Bernhart, A Blessing, G Eschenbach, M Gärtner, K Jung, ...",
+   "venue": "POPULAR, 93",
+   "year": null
+  },
+  {
+   "title": "North East Linguistics Societ y",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material: Learning Semantic Correspondences in Technical Documentation",
+   "authors": "K Richardson, J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The work presented here had its beginnings in 1990, in a series of discussions on semantic composition and representation involving John Lamping, Vijay Saraswat, and me. After …",
+   "authors": "K Halvorsen, A Hinrichs, R Kaplan, S Kaufmann, J Kuhn, J Maxwell, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "FINAL LENGTHENING IN LINE END PERCEPTION OF RE-SYNTHESIZED RECITATIONS OF GERMAN POEMS",
+   "authors": "N Schauffler, J Koch, N Ketschik, T Bernhart, F Dieterle, G Eschenbach, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Sprachgebrauch und Terminologie in deutschen Modeblogs und Online-Mode-Magazinen im Vergleich",
+   "authors": "W Seeker, B Bohnet, L Ovrelid, J Kuhn",
+   "venue": "Verarbeitung und Annotation von Sprachdaten aus Genres internetbasierter …",
+   "year": null
+  },
+  {
+   "title": "SDC4Lit–Science Data Center for Literature. Aufbau eines nachhaltigen Datenlebenszyklus für Literaturforschung und-vermittlung",
+   "authors": "RS Kaminski, J Kuhn, G Viehhauser",
+   "venue": "Tage 2021, 344",
+   "year": null
+  },
+  {
+   "title": "Towards a Tool for Interactive Concept Building for Large Scale Analysis in the Humanities",
+   "authors": "J Sonntag, A Blessing, F Kliche, U Heid, J Kuhn, M Stede",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Resources, Tools, and Applications at the CLARIN Center Stuttgart",
+   "authors": "CMKEJ Stegmann, A Blessing, GTMGJ Kuhn",
+   "venue": "Publikationsserver des Leibniz-Instituts für Deutsche Sprache URN: https …",
+   "year": null
+  },
+  {
+   "title": "Following Natural Language Route Instructions",
+   "authors": "J Kuhn, DE Perry",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Thomas Zastrow and Emanuel Dima.",
+   "authors": "KE Nyberg, D Beermann, P Mihaylov, H Sloetjes, A Blessing, J Stegmann, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Unsupervised Induction of Multi Bottom-up Tree Transducers",
+   "authors": "R Kurtz, J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "EXPLORATION VIEWS",
+   "authors": "M Gärtner, K Schweitzer, K Eckart, J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "VARIATION",
+   "authors": "G Thiele, W Seeker, M Gärtner, A Björkelund, J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A System Architecture for Parallel Corpus-based Grammar Learning",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Towards a multipurpose gold standard annotation of a multiparallel corpus",
+   "authors": "B Schrader, J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Argument clauses and correlative",
+   "authors": "J Berman, S Dipper, C Fortmann, J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Split NPs and Floating Quantifiers in Lexical Functional Grammar",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "TRACY HOLLOWAY KING NLTT/ISTL, Xerox PARC, 3333 Coyote Hill Rd, Palo Alto, CA 94304 USA. E-mail: thking@ parc. xerox. com STEFANIE DIPPER Institut f 勃 r maschinelle …",
+   "authors": "J KUHN, JT MAXWELL III",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Right Node Raising in Parsing and Generation",
+   "authors": "C Rohrer, J Kuhn, S Zarrieß",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Optimality in analysis, generation and learning: Towards a robust computational architecture for corpus-based studies of syntax1",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Processing Aspects",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Some recent extensions of the LFG formalism and their application in broad-coverage grammars",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Coordination in LFG",
+   "authors": "J Kuhn, S Müller",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Einfuhrung in die Grammatikentwicklung/Introduction to Grammar Engineering",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The Interface to Morphological Analyzers",
+   "authors": "J Kuhn",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

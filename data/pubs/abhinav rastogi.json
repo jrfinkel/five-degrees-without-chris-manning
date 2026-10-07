@@ -1,0 +1,443 @@
+{
+ "user": "uDrgdtwAAAAJ",
+ "pubs": [
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback",
+   "authors": "H Lee, S Phatale, H Mansoor, T Mesnard, J Ferret, K Lu, C Bishop, E Hall, ...",
+   "venue": "arXiv preprint arXiv:2309.00267",
+   "year": "2023"
+  },
+  {
+   "title": "Towards scalable multi-domain conversational agents: The schema-guided dialogue dataset",
+   "authors": "A Rastogi, X Zang, S Sunkara, R Gupta, P Khaitan",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (05), 8689-8696",
+   "year": "2020"
+  },
+  {
+   "title": "A fast unified model for parsing and sentence understanding",
+   "authors": "SR Bowman, J Gauthier, A Rastogi, R Gupta, CD Manning, C Potts",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Improve mathematical reasoning in language models by automated process supervision",
+   "authors": "L Luo, Y Liu, R Liu, S Phatale, M Guo, H Lara, Y Li, L Shu, Y Zhu, L Meng, ...",
+   "venue": "arXiv preprint arXiv:2406.06592",
+   "year": "2024"
+  },
+  {
+   "title": "MultiWOZ 2.2: A dialogue dataset with additional annotation corrections and state tracking baselines",
+   "authors": "X Zang, A Rastogi, S Sunkara, R Gupta, J Zhang, J Chen",
+   "venue": "Proceedings of the 2nd workshop on natural language processing for …",
+   "year": "2020"
+  },
+  {
+   "title": "Text-to-text pre-training for data-to-text tasks",
+   "authors": "M Kale, A Rastogi",
+   "venue": "Proceedings of the 13th international conference on natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Building a conversational agent overnight with dialogue self-play",
+   "authors": "P Shah, D Hakkani-Tür, G Tür, A Rastogi, A Bapna, N Nayak, L Heck",
+   "venue": "arXiv preprint arXiv:1801.04871",
+   "year": "2018"
+  },
+  {
+   "title": "Ministral 3",
+   "authors": "AH Liu, K Khandelwal, S Subramanian, V Jouault, A Rastogi, A Sadé, ...",
+   "venue": "arXiv preprint arXiv:2601.08584",
+   "year": "2026"
+  },
+  {
+   "title": "Uibert: Learning generic multimodal representations for ui understanding",
+   "authors": "C Bai, X Zang, Y Xu, S Sunkara, A Rastogi, J Chen",
+   "venue": "arXiv preprint arXiv:2107.13731",
+   "year": "2021"
+  },
+  {
+   "title": "Scalable multi-domain dialogue state tracking",
+   "authors": "A Rastogi, D Hakkani-Tür, L Heck",
+   "venue": "2017 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU …",
+   "year": "2017"
+  },
+  {
+   "title": "Template guided text generation for task-oriented dialogue",
+   "authors": "M Kale, A Rastogi",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Deepcopy: Grounded response generation with hierarchical pointer networks",
+   "authors": "S Yavuz, A Rastogi, GL Chao, D Hakkani-Tur",
+   "venue": "Proceedings of the 20th annual SIGdial meeting on discourse and dialogue …",
+   "year": "2019"
+  },
+  {
+   "title": "Magistral",
+   "authors": "A Rastogi, AQ Jiang, A Lo, G Berrada, G Lample, J Rute, J Barmentlo, ...",
+   "venue": "arXiv preprint arXiv:2506.10910",
+   "year": "2025"
+  },
+  {
+   "title": "Description-driven task-oriented dialog modeling",
+   "authors": "J Zhao, R Gupta, Y Cao, D Yu, M Wang, H Lee, A Rastogi, I Shafran, Y Wu",
+   "venue": "arXiv preprint arXiv:2201.08904",
+   "year": "2022"
+  },
+  {
+   "title": "Overview of the Ninth Dialog System Technology Challenge: DSTC9",
+   "authors": "C Gunasekara, S Kim, LF D'haro, A Rastogi, YN Chen, M Eric, ...",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing",
+   "year": "2024"
+  },
+  {
+   "title": "Voxtral",
+   "authors": "AH Liu, A Ehrenberg, A Lo, C Denoix, C Barreau, G Lample, JM Delignon, ...",
+   "venue": "arXiv preprint arXiv:2507.13264",
+   "year": "2025"
+  },
+  {
+   "title": "The eighth dialog system technology challenge",
+   "authors": "S Kim, M Galley, C Gunasekara, S Lee, A Atkinson, B Peng, H Schulz, ...",
+   "venue": "arXiv preprint arXiv:1911.06394",
+   "year": "2019"
+  },
+  {
+   "title": "Multi-task learning for joint language understanding and dialogue state tracking",
+   "authors": "A Rastogi, R Gupta, D Hakkani-Tur",
+   "venue": "Proceedings of the 19th Annual SIGdial Meeting on Discourse and Dialogue …",
+   "year": "2018"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models, 2023",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "URL https://arxiv. org/abs/2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Rlaif: Scaling reinforcement learning from human feedback with ai feedback.(2023)",
+   "authors": "H Lee, S Phatale, H Mansoor, KR Lu, T Mesnard, J Ferret, C Bishop, ...",
+   "venue": "URL https://openreview. net/forum",
+   "year": "2023"
+  },
+  {
+   "title": "Improve mathematical reasoning in language models by automated process supervision, 2024",
+   "authors": "L Luo, Y Liu, R Liu, S Phatale, M Guo, H Lara, Y Li, L Shu, Y Zhu, L Meng, ...",
+   "venue": "URL https://arxiv. org/abs/2406.06592 2",
+   "year": "2024"
+  },
+  {
+   "title": "Schema-guided dialogue state tracking task at DSTC8",
+   "authors": "A Rastogi, X Zang, S Sunkara, R Gupta, P Khaitan",
+   "venue": "arXiv preprint arXiv:2002.01359",
+   "year": "2020"
+  },
+  {
+   "title": "Rlaif vs. rlhf: Scaling reinforcement learning from human feedback with ai feedback, 2024",
+   "authors": "H Lee, S Phatale, H Mansoor, T Mesnard, J Ferret, K Lu, C Bishop, E Hall, ...",
+   "venue": "URL https://arxiv. org/abs/2309.00267 2309",
+   "year": "2023"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models. arXiv 2022",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615 10",
+   "year": "2022"
+  },
+  {
+   "title": "SGD-X: A Benchmark for Robust Generalization in Schema-Guided Dialogue Systems",
+   "authors": "H Lee, R Gupta, A Rastogi, Y Cao, B Zhang, Y Wu",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (10), 10938 …",
+   "year": "2022"
+  },
+  {
+   "title": "Determining state of automated assistant dialog",
+   "authors": "A Rastogi, LP Heck, D Hakkani-Tur",
+   "venue": "US Patent 10,867,599",
+   "year": "2020"
+  },
+  {
+   "title": "Show, Don't Tell: Demonstrations Outperform Descriptions for Schema-Guided Task-Oriented Dialogue",
+   "authors": "R Gupta, H Lee, J Zhao, A Rastogi, Y Cao, Y Wu",
+   "venue": "arXiv preprint arXiv:2204.04327",
+   "year": "2022"
+  },
+  {
+   "title": "An efficient approach to encoding context for spoken language understanding",
+   "authors": "R Gupta, A Rastogi, D Hakkani-Tur",
+   "venue": "arXiv preprint arXiv:1807.00267",
+   "year": "2018"
+  },
+  {
+   "title": "Parameter efficient reinforcement learning from human feedback",
+   "authors": "H Sidahmed, S Phatale, A Hutcheson, Z Lin, Z Chen, Z Yu, J Jin, ...",
+   "venue": "arXiv preprint arXiv:2403.10704",
+   "year": "2024"
+  },
+  {
+   "title": "Dialogue systems",
+   "authors": "D Hakkani-Tur, AK Rastogi, R Gupta",
+   "venue": "US Patent App. 17/273,555",
+   "year": "2021"
+  },
+  {
+   "title": "DSTC-11: Speech aware task-oriented dialog modeling track",
+   "authors": "H Soltau, I Shafran, M Wang, A Rastogi, W Han, Y Cao",
+   "venue": "Proceedings of The Eleventh Dialog System Technology Challenge, 226-234",
+   "year": "2023"
+  },
+  {
+   "title": "Devstral: Fine-tuning language models for coding agent applications",
+   "authors": "A Rastogi, A Yang, AQ Jiang, AH Liu, A Sablayrolles, A Héliou, A Martin, ...",
+   "venue": "arXiv preprint arXiv:2509.25193",
+   "year": "2025"
+  },
+  {
+   "title": "Robust multi-objective preference alignment with online DPO",
+   "authors": "R Gupta, R Sullivan, Y Li, S Phatale, A Rastogi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (26), 27321 …",
+   "year": "2025"
+  },
+  {
+   "title": "Overview of the eighth dialog system technology challenge: DSTC8",
+   "authors": "S Kim, M Galley, C Gunasekara, S Lee, A Atkinson, B Peng, H Schulz, ...",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 29, 2529-2540",
+   "year": "2021"
+  },
+  {
+   "title": "Anytod: A programmable task-oriented dialog system",
+   "authors": "J Zhao, Y Cao, R Gupta, H Lee, A Rastogi, M Wang, H Soltau, I Shafran, ...",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Schema-guided response generation",
+   "authors": "AK Rastogi, R Gupta, X Zang, SK Sunkara, P Khaitan",
+   "venue": "US Patent 11,551,159",
+   "year": "2023"
+  },
+  {
+   "title": "Efficient Melodic Query Based Audio Search for Hindustani Vocal Compositions.",
+   "authors": "KK Ganguli, A Rastogi, V Pandit, P Kantan, P Rao",
+   "venue": "ISMIR, 591-597",
+   "year": "2015"
+  },
+  {
+   "title": "Mode: Effective multi-task parameter efficient fine-tuning with a mixture of dyadic experts",
+   "authors": "L Ning, H Lara, M Guo, A Rastogi",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2025, 8248-8261",
+   "year": "2025"
+  },
+  {
+   "title": "Conversational recommendation as retrieval: A simple, strong baseline",
+   "authors": "R Gupta, R Aksitov, S Phatale, S Chaudhary, H Lee, A Rastogi",
+   "venue": "Proceedings of the 5th Workshop on NLP for Conversational AI (NLP4ConvAI …",
+   "year": "2023"
+  },
+  {
+   "title": "Voxtral realtime",
+   "authors": "AH Liu, A Ehrenberg, A Lo, CY Sun, G Lample, JM Delignon, KR Chandu, ...",
+   "venue": "arXiv preprint arXiv:2602.11298",
+   "year": "2026"
+  },
+  {
+   "title": "Learning question-guided video representation for multi-turn video question answering",
+   "authors": "GL Chao, A Rastogi, S Yavuz, D Hakkani-Tur, J Chen, I Lane",
+   "venue": "Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue …",
+   "year": "2019"
+  },
+  {
+   "title": "Guided text generation for task-oriented dialogue",
+   "authors": "A Rastogi, MS Kale",
+   "venue": "US Patent App. 17/007,270",
+   "year": "2022"
+  },
+  {
+   "title": "Efficient entity embedding construction from type knowledge for BERT",
+   "authors": "Y Feng, A Fayazi, A Rastogi, M Okumura",
+   "venue": "Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022 …",
+   "year": "2022"
+  },
+  {
+   "title": "Determining state of automated assistant dialog",
+   "authors": "A Rastogi, LP Heck, D Hakkani-Tur",
+   "venue": "US Patent App. 16/952,413",
+   "year": "2021"
+  },
+  {
+   "title": "Description-driven task-oriented dialogue modeling",
+   "authors": "R Gupta, Y Cao, AK Rastogi, HJ Lee, JL Zhao",
+   "venue": "US Patent 12,632,664",
+   "year": "2026"
+  },
+  {
+   "title": "driven Scalable Task-oriented Dialogue Modeling",
+   "authors": "R Gupta, Y Cao, AK Rastogi, HJ Lee, JL Zhao",
+   "venue": "US Patent App. 18/148,037",
+   "year": "2024"
+  },
+  {
+   "title": "Echocardiographic Study to Assess Left Ventricular Function in Cases of Acute Myocardial Infarction with Comparison between Non ST Elevation Myocardial Infarction and ST …",
+   "authors": "A Rastogi",
+   "venue": "Indian Journal of Public Health Research & Development",
+   "year": "2020"
+  },
+  {
+   "title": "Virtual musical instruments",
+   "authors": "A Rastogi, A Joshi",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Voxtral tts",
+   "authors": "AH Liu, A Tacnet, A Ehrenberg, A Lo, CY Sun, G Lample, H Lagarde, ...",
+   "venue": "arXiv preprint arXiv:2603.25551",
+   "year": "2026"
+  },
+  {
+   "title": "Machine-Learned Models for User Interface Prediction and Generation",
+   "authors": "X Zang, Y Xu, SK Sunkara, AK Rastogi, J Chen, B Aguera-Arcas, C Bai",
+   "venue": "US Patent App. 18/550,203",
+   "year": "2024"
+  },
+  {
+   "title": "Determining state of automated assistant dialog",
+   "authors": "A Rastogi, LP Heck, D Hakkani-Tur",
+   "venue": "US Patent App. 18/367,785",
+   "year": "2023"
+  },
+  {
+   "title": "A Unified Approach to Entity-Centric Context Tracking in Social Conversations",
+   "authors": "U Rückert, S Sunkara, A Rastogi, S Prakash, P Khaitan",
+   "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on Discourse Structure in Neural NLG",
+   "authors": "A Balakrishnan, V Demberg, C Khatri, A Rastogi, D Scott, M Walker, ...",
+   "venue": "Proceedings of the 1st Workshop on Discourse Structure in Neural NLG",
+   "year": "2019"
+  },
+  {
+   "title": "Wcis 2019: 1st workshop on conversational interaction systems",
+   "authors": "A Rastogi, A Papangelis, R Goel, C Khatri",
+   "venue": "Proceedings of the 42nd International ACM SIGIR Conference on Research and …",
+   "year": "2019"
+  },
+  {
+   "title": "Scalable Schema-Guided Dialogue State Tracking",
+   "authors": "A Rastogi, A Fayazi, R Gupta, U Rueckert, J Chen, DT Proposal",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Schema-guided response generation",
+   "authors": "AK Rastogi, R Gupta, X Zang, SK Sunkara, P Khaitan",
+   "venue": "US Patent 12,579,482",
+   "year": "2026"
+  },
+  {
+   "title": "Scaling Reinforcement Learning With AI Feedback",
+   "authors": "S Phatale, H Lee, H Mansoor, K Lu, T Mesnard, J Ferret, C Bishop, E Hall, ...",
+   "venue": "US Patent App. 18/609,083",
+   "year": "2025"
+  },
+  {
+   "title": "Machine-Learned Models for User Interface Prediction, Generation, and Interaction Understanding",
+   "authors": "SK Sunkara, X Zang, Y Xu, L Liu, NH Wichers, GO Schubiner, J Chen, ...",
+   "venue": "US Patent App. 18/988,564",
+   "year": "2025"
+  },
+  {
+   "title": "Guided text generation for task-oriented dialogue",
+   "authors": "A Rastogi, MS Kale",
+   "venue": "US Patent App. 18/978,233",
+   "year": "2025"
+  },
+  {
+   "title": "Machine-learned models for user interface prediction, generation, and interaction understanding",
+   "authors": "SK Sunkara, X Zang, Y Xu, L Liu, NH Wichers, GO Schubiner, J Chen, ...",
+   "venue": "US Patent 12,197,930",
+   "year": "2025"
+  },
+  {
+   "title": "Guided text generation for task-oriented dialogue",
+   "authors": "A Rastogi, MS Kale",
+   "venue": "US Patent 12,197,872",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 6th Workshop on NLP for Conversational AI (NLP4ConvAI 2024)",
+   "authors": "E Nouri, A Rastogi, G Spithourakis, B Liu, YN Chen, Y Li, A Albalak, ...",
+   "venue": "Proceedings of the 6th Workshop on NLP for Conversational AI (NLP4ConvAI 2024)",
+   "year": "2024"
+  },
+  {
+   "title": "Weather resistant plastic packaging",
+   "authors": "K Rastogi, A Rastogi",
+   "venue": "US Patent App. 18/090,046",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the 5th Workshop on NLP for Conversational AI (NLP4ConvAI 2023)",
+   "authors": "YN Chen, A Rastogi",
+   "venue": "Proceedings of the 5th Workshop on NLP for Conversational AI (NLP4ConvAI 2023)",
+   "year": "2023"
+  },
+  {
+   "title": "Study of association between C-reactive protein and albuminuria in type 2 diabetes mellitus",
+   "authors": "A Rastogi, A Kumar, K Rastogi, S Kapoor, T Mahmood",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Machine-Learned Models for User Interface Prediction, Generation, and Interaction Understanding",
+   "authors": "SK Sunkara, X Zang, Y Xu, L Liu, NH Wichers, GO Schubiner, J Chen, ...",
+   "venue": "US Patent App. 17/335,596",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 4th Workshop on NLP for Conversational AI",
+   "authors": "B Liu, A Papangelis, S Ultes, A Rastogi, YN Chen, G Spithourakis, E Nouri, ...",
+   "venue": "Proceedings of the 4th Workshop on NLP for Conversational AI",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 3rd Workshop on Natural Language Processing for Conversational AI",
+   "authors": "A Papangelis, P Budzianowski, B Liu, E Nouri, A Rastogi, YN Chen",
+   "venue": "Proceedings of the 3rd Workshop on Natural Language Processing for …",
+   "year": "2021"
+  },
+  {
+   "title": "Special Issue on the Eighth Dialog System Technology Challenge",
+   "authors": "S Kim, H Schulz, C Gunasekara, C Hori, A Rastogi, LF D’Haro",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 29, 2434-2436",
+   "year": "2021"
+  },
+  {
+   "title": "Schema-guided natural language generation",
+   "authors": "S Oraby, V Perera, Y Du, M Shen, T Chung, A Narayan-Chen, ...",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Context Encoding LSTM CS224N Course Project",
+   "authors": "A Rastogi",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Equation to LaTeX",
+   "authors": "A Rastogi, S Harris",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

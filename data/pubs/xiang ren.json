@@ -1,0 +1,2765 @@
+{
+ "user": "_moJlrIAAAAJ",
+ "pubs": [
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Hierarchical Graph Representation Learning with Differentiable Pooling",
+   "authors": "R Ying, J You, C Morris, X Ren, WL Hamilton, J Leskovec",
+   "venue": "NeurIPS 2018",
+   "year": "2018"
+  },
+  {
+   "title": "GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models",
+   "authors": "J You, R Ying, X Ren, WL Hamilton, J Leskovec",
+   "venue": "ICML 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Personalized Entity Recommendation: A Heterogeneous Information Network Approach",
+   "authors": "X Yu, X Ren, Y Sun, Q Gu, B Sturt, U Khandelwal, B Norick, J Han",
+   "venue": "WSDM 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Faith and fate: Limits of transformers on compositionality",
+   "authors": "N Dziri, X Lu, M Sclar, XL Li, L Jiang, BY Lin, S Welleck, P West, ...",
+   "venue": "Advances in neural information processing systems 36, 70293-70332",
+   "year": "2023"
+  },
+  {
+   "title": "Llm-blender: Ensembling large language models with pairwise ranking and generative fusion",
+   "authors": "D Jiang, X Ren, BY Lin",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Wildchat: 1m chatgpt interaction logs in the wild",
+   "authors": "W Zhao, X Ren, J Hessel, C Cardie, Y Choi, Y Deng",
+   "venue": "International Conference on Learning Representations 2024, 34590-34605",
+   "year": "2024"
+  },
+  {
+   "title": "Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs",
+   "authors": "W Jin, M Qu, X Jin, X Ren",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Kagnet: Knowledge-aware graph networks for commonsense reasoning",
+   "authors": "BY Lin, X Chen, J Chen, X Ren",
+   "venue": "EMNLP 2019 (Oral)",
+   "year": "2019"
+  },
+  {
+   "title": "Dynamic network embedding by modeling triadic closure process",
+   "authors": "L Zhou, Y Yang, X Ren, F Wu, Y Zhuang",
+   "venue": "AAAI 2018",
+   "year": "2018"
+  },
+  {
+   "title": "CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning",
+   "authors": "BY Lin, M Shen, Y Xing, P Zhou, X Ren",
+   "venue": "Findings of EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Empower Sequence Labeling with Task-Aware Neural Language Model",
+   "authors": "L Liu, J Shang, X Ren, F Xu, H Gui, J Peng, J Han",
+   "venue": "AAAI 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Dataless knowledge fusion by merging weights of language models",
+   "authors": "X Jin, X Ren, D Preotiuc-Pietro, P Cheng",
+   "venue": "arXiv preprint arXiv:2212.09849",
+   "year": "2022"
+  },
+  {
+   "title": "Automated phrase mining from massive text corpora",
+   "authors": "J Shang, J Liu, M Jiang, X Ren, CR Voss, J Han",
+   "venue": "IEEE TKDE 30 (10), 1825-1837",
+   "year": "2018"
+  },
+  {
+   "title": "Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning",
+   "authors": "X Wang, Y Zhang, X Ren, Y Zhang, M Zitnik, J Shang, C Langlotz, J Han",
+   "venue": "Bioinformatics",
+   "year": "2018"
+  },
+  {
+   "title": "CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases",
+   "authors": "X Ren, Z Wu, W He, M Qu, CR Voss, H Ji, TF Abdelzaher, J Han",
+   "venue": "WWW 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering",
+   "authors": "Y Feng, X Chen, BY Lin, P Wang, J Yan, X Ren",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Jointly learning explainable rules for recommendation with knowledge graph",
+   "authors": "W Ma, M Zhang, Y Cao, W Jin, C Wang, Y Liu, S Ma, X Ren",
+   "venue": "The world wide web conference, 1210-1221",
+   "year": "2019"
+  },
+  {
+   "title": "Learning Named Entity Tagger using Domain-Specific Dictionary",
+   "authors": "J Shang, L Liu, X Ren, X Gu, T Ren, J Han",
+   "venue": "EMNLP 2018",
+   "year": "2018"
+  },
+  {
+   "title": "On the Strengths of Cross-Attention in Pretrained Transformers for Machine Translation",
+   "authors": "M Gheini, X Ren, J May",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Backdooring instruction-tuned large language models with virtual prompt injection",
+   "authors": "J Yan, V Yadav, S Li, L Chen, Z Tang, H Wang, V Srinivasan, X Ren, H Jin",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Mining Quality Phrases from Massive Text Corpora",
+   "authors": "J Liu, J Shang, C Wang, X Ren, J Han",
+   "venue": "SIGMOD 2015",
+   "year": "2015"
+  },
+  {
+   "title": "Breast cancer models: Engineering the tumor microenvironment",
+   "authors": "G Bahcecioglu, G Basara, BW Ellis, X Ren, P Zorlutuna",
+   "venue": "Acta biomaterialia 106, 1-21",
+   "year": "2020"
+  },
+  {
+   "title": "Symbolic chain-of-thought distillation: Small models can also “think” step-by-step",
+   "authors": "LH Li, J Hessel, Y Yu, X Ren, KW Chang, Y Choi",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Recommendation in Heterogeneous Information Networks with Implicit User Feedback",
+   "authors": "X Yu, X Ren, Y Sun, B Sturt, U Khandelwal, Q Gu, B Norick, J Han",
+   "venue": "RecSys 2013",
+   "year": "2013"
+  },
+  {
+   "title": "A Good Prompt Is Worth Millions of Parameters? Low-resource Prompt-based Learning for Vision-Language Models",
+   "authors": "W Jin, Y Cheng, Y Shen, W Chen, X Ren",
+   "venue": "ACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Fednlp: Benchmarking federated learning methods for natural language processing tasks",
+   "authors": "BY Lin, C He, Z Ze, H Wang, Y Hua, C Dupuy, R Gupta, M Soltanolkotabi, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2022, 157-175",
+   "year": "2022"
+  },
+  {
+   "title": "An attention-based collaboration framework for multi-view network representation learning",
+   "authors": "M Qu, J Tang, J Shang, X Ren, M Zhang, J Han",
+   "venue": "CIKM, 1767-1776",
+   "year": "2017"
+  },
+  {
+   "title": "Contextualizing hate speech classifiers with post-hoc explanation",
+   "authors": "B Kennedy, X Jin, AM Davani, M Dehghani, X Ren",
+   "venue": "ACL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Collaborative Filtering with Entity Similarity Regularization in Heterogeneous Information Networks",
+   "authors": "X Yu, X Ren, Q Gu, Y Sun, J Han",
+   "venue": "IJCAI-HINA",
+   "year": "2013"
+  },
+  {
+   "title": "Self-discover: Large language models self-compose reasoning structures",
+   "authors": "P Zhou, J Pujara, X Ren, X Chen, HT Cheng, QV Le, D Zhou, S Mishra, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 126032-126058",
+   "year": "2024"
+  },
+  {
+   "title": "CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP",
+   "authors": "Q Ye, BY Lin, X Ren",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models",
+   "authors": "BY Lin, S Lee, R Khanna, X Ren",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Scott: Self-consistent chain-of-thought distillation",
+   "authors": "P Wang, Z Wang, Z Li, Y Gao, B Yin, X Ren",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Relying on the unreliable: The impact of language models’ reluctance to express uncertainty",
+   "authors": "K Zhou, J Hwang, X Ren, M Sap",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Gradient-based Editing of Memory Examples for Online Task-free Continual Learning",
+   "authors": "X Jin, A SadhuDu, Junyi, X Ren",
+   "venue": "NeurIPS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Lifelong pretraining: Continually adapting language models to emerging corpora",
+   "authors": "X Jin, D Zhang, H Zhu, W Xiao, SW Li, X Wei, A Arnold, X Ren",
+   "venue": "NAACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Social media polarization and echo chambers in the context of COVID-19: Case study",
+   "authors": "J Jiang, X Ren, E Ferrara",
+   "venue": "JMIRx med 2 (3), e29570",
+   "year": "2021"
+  },
+  {
+   "title": "AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding",
+   "authors": "X Ren, W He, M Qu, L Huang, H Ji, J Han",
+   "venue": "EMNLP 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Label Noise Reduction in Entity Typing by Heterogeneous Partial-Label Embedding",
+   "authors": "X Ren, W He, M Qu, CR Voss, H Ji, J Han",
+   "venue": "KDD 2016",
+   "year": "2016"
+  },
+  {
+   "title": "ClusCite: Effective Citation Recommendation by Information Network-Based Clustering",
+   "authors": "X Ren, J Liu, X Yu, U Khandelwal, Q Gu, L Wang, J Han",
+   "venue": "KDD 2014, 821-830",
+   "year": "2014"
+  },
+  {
+   "title": "Kg-fid: Infusing knowledge graph in fusion-in-decoder for open-domain question answering",
+   "authors": "D Yu, C Zhu, Y Fang, W Yu, S Wang, Y Xu, X Ren, Y Yang, M Zeng",
+   "venue": "ACL 2022",
+   "year": "2021"
+  },
+  {
+   "title": "Hierarchical Text Classification with Reinforced Label Assignment",
+   "authors": "Y Mao, J Tian, J Han, X Ren",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Swiftsage: A generative agent with fast and slow thinking for complex interactive tasks",
+   "authors": "BY Lin, Y Fu, K Yang, F Brahman, S Huang, C Bhagavatula, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 23813-23825",
+   "year": "2023"
+  },
+  {
+   "title": "Bootstrap your own skills: Learning to solve new tasks with large language model guidance",
+   "authors": "J Zhang, J Zhang, K Pertsch, Z Liu, X Ren, M Chang, SH Sun, JJ Lim",
+   "venue": "arXiv preprint arXiv:2310.10021",
+   "year": "2023"
+  },
+  {
+   "title": "Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models",
+   "authors": "X Jin, J Du, Z Wei, X Xue, X Ren",
+   "venue": "ICLR 2020 (Spotlight)",
+   "year": "2020"
+  },
+  {
+   "title": "ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering",
+   "authors": "X Ren, A El-Kishky, C Wang, T Fangbo, C Voss, H Ji, J Han",
+   "venue": "KDD 2015",
+   "year": "2015"
+  },
+  {
+   "title": "HMEAE: Hierarchical modular event argument extraction",
+   "authors": "X Wang, Z Wang, X Han, Z Liu, J Li, P Li, M Sun, J Zhou, X Ren",
+   "venue": "Proceedings of the 2019 Conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Setexpan: Corpus-based set expansion via context feature selection and rank ensemble",
+   "authors": "J Shen, Z Wu, D Lei, J Shang, X Ren, J Han",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2017"
+  },
+  {
+   "title": "Good Examples Make A Faster Learner: Simple Demonstration-based Learning for Low-resource NER",
+   "authors": "DH Lee, M Agarwal, A Kadakia, J Pujara, X Ren",
+   "venue": "NAACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "On Transferability of Bias Mitigation Effects in Language Model Fine-Tuning",
+   "authors": "X Jin, F Barbieri, AM Davani, B Kennedy, L Neves, X Ren",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "How far are large language models from agents with theory-of-mind?",
+   "authors": "P Zhou, A Madaan, SP Potharaju, A Gupta, KR McKee, A Holtzman, ...",
+   "venue": "arXiv preprint arXiv:2310.03051",
+   "year": "2023"
+  },
+  {
+   "title": "TriggerNER: Learning with entity triggers as explanations for named entity recognition",
+   "authors": "BY Lin, DH Lee, M Shen, R Moreno, X Huang, P Shiralkar, X Ren",
+   "venue": "ACL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Refractive-index-insensitive nanolaminated SERS substrates for label-free Raman profiling and classification of living cancer cells",
+   "authors": "W Nam, X Ren, SAS Tali, P Ghassemi, I Kim, M Agah, W Zhou",
+   "venue": "Nano letters 19 (10), 7273-7281",
+   "year": "2019"
+  },
+  {
+   "title": "Learning Dynamic Context Augmentation for Global Entity Linking",
+   "authors": "X Yang, X Gu, S Lin, S Tang, Y Zhuang, F Wu, Z Chen, G Hu, X Ren",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning",
+   "authors": "BY Lin, S Lee, X Qiao, X Ren",
+   "venue": "ACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Connecting the Dots: A Knowledgeable Path Generator for Commonsense Question Answering",
+   "authors": "P Wang, N Peng, P Szekely, X Ren",
+   "venue": "Findings of EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Hiexpan: Task-guided taxonomy construction by hierarchical tree expansion",
+   "authors": "J Shen, Z Wu, D Lei, C Zhang, X Ren, MT Vanni, BM Sadler, J Han",
+   "venue": "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge …",
+   "year": "2018"
+  },
+  {
+   "title": "TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names",
+   "authors": "J Shen, W Qiu, Y Meng, J Shang, X Ren, J Han",
+   "venue": "NAACL 2021, 4239-4249",
+   "year": "2021"
+  },
+  {
+   "title": "Phenomenal yet puzzling: Testing inductive reasoning capabilities of language models with hypothesis refinement",
+   "authors": "L Qiu, L Jiang, X Lu, M Sclar, V Pyatkin, C Bhagavatula, B Wang, Y Kim, ...",
+   "venue": "International Conference on Learning Representations 2024, 1452-1481",
+   "year": "2024"
+  },
+  {
+   "title": "ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning",
+   "authors": "R Han, X Ren, N Peng",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "BITE: Textual backdoor attacks with iterative trigger injection",
+   "authors": "J Yan, V Gupta, X Ren",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge",
+   "authors": "BY Lin, Z Wu, Y Yang, DH Lee, X Ren",
+   "venue": "Findings of  ACL 2021, 1504-1515",
+   "year": "2021"
+  },
+  {
+   "title": "Metapad: Meta pattern discovery from massive text corpora",
+   "authors": "M Jiang, J Shang, T Cassidy, X Ren, LM Kaplan, TP Hanratty, J Han",
+   "venue": "Proceedings of the 23rd ACM SIGKDD international conference on knowledge …",
+   "year": "2017"
+  },
+  {
+   "title": "Pinto: Faithful language reasoning using prompt-generated rationales",
+   "authors": "P Wang, A Chan, F Ilievski, M Chen, X Ren",
+   "venue": "arXiv preprint arXiv:2211.01562",
+   "year": "2022"
+  },
+  {
+   "title": "Identification of a CRYAB mutation associated with autosomal dominant posterior polar cataract in a Chinese family",
+   "authors": "M Liu, T Ke, Z Wang, Q Yang, W Chang, F Jiang, Z Tang, H Li, X Ren, ...",
+   "venue": "Investigative ophthalmology & visual science 47 (8), 3461-3466",
+   "year": "2006"
+  },
+  {
+   "title": "Discretized Integrated Gradients for Explaining Language Models",
+   "authors": "S Sanyal, X Ren",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Collaborative Policy Learning for Open Knowledge Graph Reasoning",
+   "authors": "C Fu, T Chen, M Qu, W Jin, X Ren",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat",
+   "authors": "Y Liu, X Shi, L Pierce, X Ren",
+   "venue": "KDD 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach",
+   "authors": "L Liu, X Ren, Q Zhu, S Zhi, H Gui, H Ji, J Han",
+   "venue": "EMNLP 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Retweet-bert: political leaning detection using language features and information diffusion on social networks",
+   "authors": "J Jiang, X Ren, E Ferrara",
+   "venue": "Proceedings of the international AAAI conference on web and social media 17 …",
+   "year": "2023"
+  },
+  {
+   "title": "Novel CACNA1S mutation causes autosomal dominant hypokalemic periodic paralysis in a Chinese family",
+   "authors": "Q Wang, M Liu, C Xu, Z Tang, Y Liao, R Du, W Li, X Wu, X Wang, P Liu, ...",
+   "venue": "Journal of molecular medicine 83 (3), 203-208",
+   "year": "2005"
+  },
+  {
+   "title": "Cross-relation cross-bag attention for distantly-supervised relation extraction",
+   "authors": "Y Yuan, L Liu, S Tang, Z Zhang, Y Zhuang, S Pu, F Wu, X Ren",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 33 (01), 419-426",
+   "year": "2019"
+  },
+  {
+   "title": "Identification of NPPA variants associated with atrial fibrillation in a Chinese GeneID population",
+   "authors": "X Ren, C Xu, C Zhan, Y Yang, L Shi, F Wang, C Wang, Y Xia, B Yang, ...",
+   "venue": "Clinica chimica acta 411 (7-8), 481-485",
+   "year": "2010"
+  },
+  {
+   "title": "ForecastQA: A Question Answering Challenge for Event Forecasting with Temporal Text Data",
+   "authors": "W Jin, R Khanna, S Kim, DH Lee, F Morstatter, A Galstyan, X Ren",
+   "venue": "ACL 2021, 4636-4650",
+   "year": "2021"
+  },
+  {
+   "title": "AdaTag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding",
+   "authors": "J Yan, N Zalmout, Y Liang, C Grant, X Ren, XL Dong",
+   "venue": "ACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Pre-training Text-to-Text Transformers for Concept-centric Common Sense",
+   "authors": "W Zhou, DH Lee, RK Selvam, S Lee, BY Lin, X Ren",
+   "venue": "ICLR 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Learning dual retrieval module for semi-supervised relation extraction",
+   "authors": "H Lin, J Yan, M Qu, X Ren",
+   "venue": "The world wide web conference, 1073-1083",
+   "year": "2019"
+  },
+  {
+   "title": "Repairing Sparse Low-Rank Texture",
+   "authors": "X Liang, X Ren, Z Zhang, Y Ma",
+   "venue": "ECCV",
+   "year": "2012"
+  },
+  {
+   "title": "Can llms reason with rules? logic scaffolding for stress-testing and improving llms",
+   "authors": "S Wang, Z Wei, Y Choi, X Ren",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning",
+   "authors": "D Lei, G Jiang, X Gu, K Sun, Y Mao, X Ren",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "The IL-33-ST2L pathway is associated with coronary artery disease in a Chinese Han population",
+   "authors": "X Tu, S Nie, Y Liao, H Zhang, Q Fan, C Xu, Y Bai, F Wang, X Ren, T Tang, ...",
+   "venue": "The American Journal of Human Genetics 93 (4), 652-660",
+   "year": "2013"
+  },
+  {
+   "title": "Automatic construction and ranking of topical keyphrases on collections of short documents",
+   "authors": "M Danilevsky, C Wang, N Desai, X Ren, J Gao, J Han",
+   "venue": "SDM 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning",
+   "authors": "Y Mao, Y Qu, Y Xie, X Ren, J Han",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Weakly-supervised relation extraction by pattern-enhanced embedding learning",
+   "authors": "M Qu, X Ren, Y Zhang, J Han",
+   "venue": "Proceedings of the 2018 World Wide Web Conference, 1257-1266",
+   "year": "2018"
+  },
+  {
+   "title": "Culture-gen: Revealing global cultural perception in language models through natural language prompting",
+   "authors": "H Li, L Jiang, JD Hwang, H Kim, S Santy, T Sorensen, BY Lin, N Dziri, ...",
+   "venue": "arXiv preprint arXiv:2404.10199",
+   "year": "2024"
+  },
+  {
+   "title": "End-to-End Reinforcement Learning for Automatic Taxonomy Induction",
+   "authors": "Y Mao, X Ren, J Shen, X Gu, J Han",
+   "venue": "ACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "A non-convex relaxation approach to sparse dictionary learning",
+   "authors": "J Shi, X Ren, G Dai, J Wang, Z Zhang",
+   "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 1809-1816",
+   "year": "2011"
+  },
+  {
+   "title": "Cultural intermediation and the basis of trust among webtoon and webnovel communities",
+   "authors": "A Shim, B Yecies, X Ren, D Wang",
+   "venue": "Information, Communication & Society 23 (6), 833-848",
+   "year": "2020"
+  },
+  {
+   "title": "Single-cell mechanical characteristics analyzed by multiconstriction microfluidic channels",
+   "authors": "X Ren, P Ghassemi, H Babahosseini, JS Strobl, M Agah",
+   "venue": "ACS sensors 2 (2), 290",
+   "year": "2017"
+  },
+  {
+   "title": "NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction",
+   "authors": "W Zhou, H Lin, Z Wang, L Neves, X Ren",
+   "venue": "The Web Conference 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Direct inkjet printing of micro-scale silver electrodes on polydimethylsiloxane (PDMS) microchip",
+   "authors": "Y Kim, X Ren, JW Kim, H Noh",
+   "venue": "Journal of micromechanics and microengineering 24 (11), 115010",
+   "year": "2014"
+  },
+  {
+   "title": "Linearized Alternating Direction Method with Adaptive Penalty and Warm Starts for Fast Solving Transform Invariant Low-Rank Textures",
+   "authors": "X Ren, Z Lin",
+   "venue": "International Journal of Computer Vision 104 (1), 1-14",
+   "year": "2012"
+  },
+  {
+   "title": "On grounded planning for embodied tasks with language models",
+   "authors": "BY Lin, C Huang, Q Liu, W Gu, S Sommerer, X Ren",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (11), 13192 …",
+   "year": "2023"
+  },
+  {
+   "title": "Think before you speak: Explicitly generating implicit commonsense knowledge for response generation",
+   "authors": "P Zhou, K Gopalakrishnan, B Hedayatnia, S Kim, J Pujara, X Ren, Y Liu, ...",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "UniREx: A Unified Learning Framework for Language Model Rationale Extraction",
+   "authors": "A Chan, M Sanjabi, L Mathias, L Tan, S Nie, X Peng, X Ren, H Firooz",
+   "venue": "arXiv preprint arXiv:2112.08802",
+   "year": "2022"
+  },
+  {
+   "title": "Fednlp: A research platform for federated learning in natural language processing",
+   "authors": "BY Lin, C He, Z Zeng, H Wang, Y Huang, M Soltanolkotabi, X Ren, ...",
+   "venue": "arXiv preprint arXiv:2104.08815",
+   "year": "2021"
+  },
+  {
+   "title": "Automatic synonym discovery with knowledge bases",
+   "authors": "M Qu, X Ren, J Han",
+   "venue": "Proceedings of the 23rd ACM SIGKDD international conference on knowledge …",
+   "year": "2017"
+  },
+  {
+   "title": "RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models",
+   "authors": "BY Lin, W Gao, J Yan, R Moreno, X Ren",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Commonsense-Focused Dialogues for Response Generation: An Empirical Study",
+   "authors": "P Zhou, K Gopalakrishnan, B Hedayatnia, S Kim, J Pujara, X Ren, Y Liu, ...",
+   "venue": "SIGDIAL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Semi-automated protocol disambiguation and code generation",
+   "authors": "J Yen, T Lévai, Q Ye, X Ren, R Govindan, B Raghavan",
+   "venue": "Proceedings of the 2021 ACM SIGCOMM 2021 Conference, 272-286",
+   "year": "2021"
+  },
+  {
+   "title": "Identification of a novel GPR143 mutation in a large Chinese family with congenital nystagmus as the most prominent and consistent manifestation",
+   "authors": "JY Liu, X Ren, X Yang, T Guo, Q Yao, L Li, X Dai, M Zhang, L Wang, M Liu, ...",
+   "venue": "Journal of human genetics 52 (6), 565-570",
+   "year": "2007"
+  },
+  {
+   "title": "Novel HSF4 mutation causes congenital total white cataract in a Chinese family",
+   "authors": "MST Ke, MDB Ji, BSX Wang, BSP Liu, BSX Zhang, BSZ Tang, PDX Ren, ...",
+   "venue": "American journal of ophthalmology 142 (2), 298-303. e2",
+   "year": "2006"
+  },
+  {
+   "title": "Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning",
+   "authors": "X Jin, BY Lin, M Rostami, X Ren",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Differentiable Open-Ended Commonsense Reasoning",
+   "authors": "BY Lin, H Sun, B Dhingra, M Zaheer, X Ren, WW Cohen",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling",
+   "authors": "L Liu, X Ren, J Shang, J Peng, J Han",
+   "venue": "EMNLP 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Chinese online literature: creative consumers and evolving business models",
+   "authors": "X Ren, L Montgomery",
+   "venue": "Arts Marketing: an international journal 2 (2), 118-130",
+   "year": "2012"
+  },
+  {
+   "title": "Diverging preferences: When do annotators disagree and do models know?",
+   "authors": "MJQ Zhang, Z Wang, JD Hwang, Y Dong, O Delalleau, Y Choi, E Choi, ...",
+   "venue": "arXiv preprint arXiv:2410.14632",
+   "year": "2024"
+  },
+  {
+   "title": "Logits of api-protected llms leak proprietary information",
+   "authors": "M Finlayson, X Ren, S Swayamdipta",
+   "venue": "arXiv preprint arXiv:2403.09539",
+   "year": "2024"
+  },
+  {
+   "title": "Refining Language Models with Compositional Explanations",
+   "authors": "H Yao, Y Chen, Q Ye, X Jin, X Ren",
+   "venue": "NeurIPS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Lawyers are Dishonest? Quantifying Representational Harms in Commonsense Knowledge Resources",
+   "authors": "N Mehrabi, P Zhou, F Morstatter, J Pujara, X Ren, A Galstyan",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Open-schema event profiling for massive news corpora",
+   "authors": "Q Yuan, X Ren, W He, C Zhang, X Geng, L Huang, H Ji, CY Lin, J Han",
+   "venue": "Proceedings of the 27th ACM international conference on information and …",
+   "year": "2018"
+  },
+  {
+   "title": "Entrapment of prostate cancer circulating tumor cells with a sequential size-based microfluidic chip",
+   "authors": "X Ren, BM Foster, P Ghassemi, JS Strobl, BA Kerr, M Agah",
+   "venue": "Analytical chemistry 90 (12), 7526",
+   "year": "2018"
+  },
+  {
+   "title": "How predictable are large language model capabilities? a case study on big-bench",
+   "authors": "Q Ye, H Fu, X Ren, R Jia",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 7493-7517",
+   "year": "2023"
+  },
+  {
+   "title": "Unsupervised cross-task generalization via retrieval augmentation",
+   "authors": "BY Lin, K Tan, C Miller, B Tian, X Ren",
+   "venue": "Advances in Neural Information Processing Systems 35, 22003-22017",
+   "year": "2022"
+  },
+  {
+   "title": "RICA: Evaluating Robust Inference Capabilities Based on Commonsense Axioms",
+   "authors": "P Zhou, R Khanna, BY Lin, D Ho, X Ren, J Pujara",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Plasmonically calibrated label-free surface-enhanced Raman spectroscopy for improved multivariate analysis of living cells in cancer subtyping and drug testing",
+   "authors": "W Nam, X Ren, I Kim, J Strobl, M Agah, W Zhou",
+   "venue": "Analytical chemistry 93 (10), 4601-4610",
+   "year": "2021"
+  },
+  {
+   "title": "Time-Series Event Prediction with Evolutionary State Graph",
+   "authors": "W Hu, Y Yang, Z Cheng, C Yang, X Ren",
+   "venue": "Proceedings of the 14th ACM International Conference on Web Search and Data …",
+   "year": "2020"
+  },
+  {
+   "title": "Are machine rationales (not) useful to humans? measuring and improving human utility of free-text rationales",
+   "authors": "B Joshi, Z Liu, S Ramnath, A Chan, Z Tong, S Nie, Q Wang, Y Choi, X Ren",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "FaiRR: Faithful and Robust Deductive Reasoning over Natural Language",
+   "authors": "S Sanyal, H Singh, X Ren",
+   "venue": "ACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Vine copula-based dependence description for multivariate multimode process monitoring",
+   "authors": "X Ren, Y Tian, S Li",
+   "venue": "Industrial & Engineering Chemistry Research 54 (41), 10001-10019",
+   "year": "2015"
+  },
+  {
+   "title": "Heterogeneous Graph-Based Intent Learning with Queries, Web Pages and Wikipedia Concepts",
+   "authors": "X Ren, Y Wang, X Yu, J Yan, Z Chen, J Han",
+   "venue": "The 7th ACM WSDM Conference (WSDM'14)",
+   "year": "2014"
+  },
+  {
+   "title": "How new ideas diffuse in science",
+   "authors": "M Cheng, DS Smith, X Ren, H Cao, S Smith, DA McFarland",
+   "venue": "American sociological review 88 (3), 522-561",
+   "year": "2023"
+  },
+  {
+   "title": "Cataract mutation P20S of αB-crystallin impairs chaperone activity of αA-crystallin and induces apoptosis of human lens epithelial cells",
+   "authors": "H Li, C Li, Q Lu, T Su, T Ke, DWC Li, M Yuan, J Liu, X Ren, Z Zhang, ...",
+   "venue": "Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease 1782 (5), 303-309",
+   "year": "2008"
+  },
+  {
+   "title": "Dynamic network embedding via incremental skip-gram with negative sampling",
+   "authors": "H Peng, J Li, H Yan, Q Gong, S Wang, L Liu, L Wang, X Ren",
+   "venue": "Science China Information Sciences 63 (10), 202103",
+   "year": "2020"
+  },
+  {
+   "title": "Human heart anoxia and reperfusion tissue (HEART) model for the rapid study of exosome bound miRNA expression as biomarkers for myocardial infarction",
+   "authors": "BW Ellis, G Ronan, X Ren, G Bahcecioglu, S Senapati, D Anderson, ...",
+   "venue": "Small 18 (28), 2201330",
+   "year": "2022"
+  },
+  {
+   "title": "Constrained abstractive summarization: Preserving factual consistency with constrained generation",
+   "authors": "Y Mao, X Ren, H Ji, J Han",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Learning from Explanations with Neural Execution Tree",
+   "authors": "Z Wang, Y Qin, W Zhou, J Yan, Q Ye, L Neves, Z Liu, X Ren",
+   "venue": "ICLR 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Rel-ai: An interaction-centered approach to measuring human-lm reliance",
+   "authors": "K Zhou, JD Hwang, X Ren, N Dziri, D Jurafsky, M Sap",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Learning to Generate Task-specific Adapters from Task Description",
+   "authors": "Q Ye, X Ren",
+   "venue": "Findings of ACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Mutation in NPPA causes atrial fibrillation by activating inflammation and cardiac fibrosis in a knock‐in rat model",
+   "authors": "C Cheng, H Liu, C Tan, D Tong, Y Zhao, X Liu, W Si, L Wang, L Liang, J Li, ...",
+   "venue": "The FASEB Journal 33 (8), 8878-8891",
+   "year": "2019"
+  },
+  {
+   "title": "One-shot Learning for Temporal Knowledge Graphs",
+   "authors": "M Mirtaheri, M Rostami, X Ren, F Morstatter, A Galstyan",
+   "venue": "arXiv preprint arXiv:2010.12144",
+   "year": "2021"
+  },
+  {
+   "title": "Atsne: Efficient and robust visualization on gpu through hierarchical optimization",
+   "authors": "C Fu, Y Zhang, D Cai, X Ren",
+   "venue": "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge …",
+   "year": "2019"
+  },
+  {
+   "title": "Precision matrix estimation in high dimensional gaussian graphical models with faster rates",
+   "authors": "L Wang, X Ren, Q Gu",
+   "venue": "Artificial intelligence and statistics, 177-185",
+   "year": "2016"
+  },
+  {
+   "title": "Instruction-following evaluation through verbalizer manipulation",
+   "authors": "S Li, J Yan, H Wang, Z Tang, X Ren, V Srinivasan, H Jin",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2024, 3678-3692",
+   "year": "2024"
+  },
+  {
+   "title": "Mining entity synonyms with efficient neural set generation",
+   "authors": "J Shen, R Lyu, X Ren, M Vanni, B Sadler, J Han",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 249-256",
+   "year": "2019"
+  },
+  {
+   "title": "I cast detect thoughts: Learning to converse and guide with intents and theory-of-mind in dungeons and dragons",
+   "authors": "P Zhou, A Zhu, J Hu, J Pujara, X Ren, C Callison-Burch, Y Choi, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "On Continual Model Refinement in Out-of-Distribution Data Streams",
+   "authors": "BY Lin, S Wang, XV Lin, R Jia, L Xiao, X Ren, W Yih",
+   "venue": "arXiv preprint arXiv:2205.02014",
+   "year": "2022"
+  },
+  {
+   "title": "Biophysical phenotyping of cells via impedance spectroscopy in parallel cyclic deformability channels",
+   "authors": "X Ren, P Ghassemi, JS Strobl, M Agah",
+   "venue": "Biomicrofluidics 13 (4)",
+   "year": "2019"
+  },
+  {
+   "title": "Cascade-bgnn: Toward efficient self-supervised representation learning on large-scale bipartite graphs",
+   "authors": "C He, T Xie, Y Rong, W Huang, J Huang, X Ren, C Shahabi",
+   "venue": "arXiv preprint arXiv:1906.11994",
+   "year": "2019"
+  },
+  {
+   "title": "Identification of a molecular signaling gene-gene regulatory network between GWAS susceptibility genes ADTRP and MIA3/TANGO1 for coronary artery disease",
+   "authors": "C Luo, F Wang, X Ren, T Ke, C Xu, B Tang, S Qin, Y Yao, Q Chen, ...",
+   "venue": "Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease 1863 (6 …",
+   "year": "2017"
+  },
+  {
+   "title": "Lamin A mutation impairs interaction with nucleoporin NUP155 and disrupts nucleocytoplasmic transport in atrial fibrillation",
+   "authors": "M Han, M Zhao, C Cheng, Y Huang, S Han, W Li, X Tu, X Luo, X Yu, Y Liu, ...",
+   "venue": "Human mutation 40 (3), 310-325",
+   "year": "2019"
+  },
+  {
+   "title": "Hybrid forecasting of geopolitical events†",
+   "authors": "DM Benjamin, F Morstatter, AE Abbas, A Abeliuk, P Atanasov, S Bennett, ...",
+   "venue": "AI Magazine 44 (1), 112-128",
+   "year": "2023"
+  },
+  {
+   "title": "Knowledge-augmented methods for natural language processing",
+   "authors": "C Zhu, Y Xu, X Ren, BY Lin, M Jiang, W Yu",
+   "venue": "Proceedings of the sixteenth ACM international conference on web search and …",
+   "year": "2023"
+  },
+  {
+   "title": "NewsEdits: A news article revision dataset and a novel document-level reasoning challenge",
+   "authors": "A Spangher, X Ren, J May, N Peng",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Generating natural language adversarial examples on a large scale with generative models",
+   "authors": "Y Ren, J Lin, S Tang, J Zhou, S Yang, Y Qi, X Ren",
+   "venue": "ECAI 2020: 24th European Conference on Artificial Intelligence, 29 August–8 …",
+   "year": "2020"
+  },
+  {
+   "title": "Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling",
+   "authors": "O Lan, X Huang, BY Lin, H Jiang, L Liu, X Ren",
+   "venue": "ACL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "A novel mutation in GDF5 causes autosomal dominant symphalangism in two Chinese families",
+   "authors": "X Wang, F Xiao, Q Yang, B Liang, Z Tang, L Jiang, Q Zhu, W Chang, ...",
+   "venue": "American Journal of Medical Genetics Part A 140 (17), 1846-1853",
+   "year": "2006"
+  },
+  {
+   "title": "A novel heterozygous mutation in the Indian hedgehog gene (IHH) is associated with brachydactyly type A1 in a Chinese family",
+   "authors": "M Liu, X Wang, Z Cai, Z Tang, K Cao, B Liang, X Ren, JY Liu, QK Wang",
+   "venue": "Journal of human genetics 51 (8), 727-731",
+   "year": "2006"
+  },
+  {
+   "title": "Symbolic working memory enhances language models for complex rule application",
+   "authors": "S Wang, Z Wei, Y Choi, X Ren",
+   "venue": "Proceedings of the 2024 conference on empirical methods in natural language …",
+   "year": "2024"
+  },
+  {
+   "title": "Plasma: Making small language models better procedural knowledge models for (counterfactual) planning",
+   "authors": "F Brahman, C Bhagavatula, V Pyatkin, JD Hwang, XL Li, HJ Arai, ...",
+   "venue": "arXiv preprint arXiv:2305.19472",
+   "year": "2023"
+  },
+  {
+   "title": "Novel ACTG1 mutation causing autosomal dominant non-syndromic hearing impairment in a Chinese family",
+   "authors": "P Liu, H Li, X Ren, H Mao, Q Zhu, Z Zhu, R Yang, W Yuan, J Liu, Q Wang, ...",
+   "venue": "Journal of Genetics and Genomics 35 (9), 553-558",
+   "year": "2008"
+  },
+  {
+   "title": "Reflect, not reflex: Inference-based common ground improves dialogue response quality",
+   "authors": "P Zhou, H Cho, P Jandaghi, DH Lee, BY Lin, J Pujara, X Ren",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization",
+   "authors": "W Zhou, BY Lin, X Ren",
+   "venue": "AAAI 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Exploring distributional shifts in large language models for code analysis",
+   "authors": "S Arakelyan, R Das, Y Mao, X Ren",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Distantly supervised biomedical named entity recognition with dictionary expansion",
+   "authors": "X Wang, Y Zhang, Q Li, X Ren, J Shang, J Han",
+   "venue": "2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …",
+   "year": "2019"
+  },
+  {
+   "title": "Bipartite graph neural networks for efficient node representation learning",
+   "authors": "C He, T Xie, Y Rong, W Huang, Y Li, J Huang, X Ren, C Shahabi",
+   "venue": "arXiv preprint arXiv:1906.11994 120",
+   "year": "2019"
+  },
+  {
+   "title": "BRG1 variant rs1122608 on chromosome 19p13.2 confers protection against stroke and regulates expression of pre-mRNA-splicing factor SFRS3",
+   "authors": "X Xiong, C Xu, Y Zhang, X Li, B Wang, F Wang, Q Yang, D Wang, X Wang, ...",
+   "venue": "Human genetics 133 (5), 499-508",
+   "year": "2014"
+  },
+  {
+   "title": "A multiplexed ion-exchange membrane-based miRNA (MIX· miR) detection platform for rapid diagnosis of myocardial infarction",
+   "authors": "X Ren, BW Ellis, G Ronan, SR Blood, C DeShetler, S Senapati, KL March, ...",
+   "venue": "Lab on a Chip 21 (20), 3876-3887",
+   "year": "2021"
+  },
+  {
+   "title": "Teaching Machine Comprehension with Compositional Explanations",
+   "authors": "Q Ye, X Huang, X Ren",
+   "venue": "Findings of EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Fault detection and diagnosis for nonlinear and non-Gaussian processes based on copula subspace division",
+   "authors": "X Ren, K Zhu, T Cai, S Li",
+   "venue": "Industrial & Engineering Chemistry Research 56 (40), 11545-11564",
+   "year": "2017"
+  },
+  {
+   "title": "Candidate pathway-based genome-wide association studies identify novel associations of genomic variants in the complement system associated with coronary artery disease",
+   "authors": "C Xu, Q Yang, H Xiong, L Wang, J Cai, F Wang, S Li, J Chen, C Wang, ...",
+   "venue": "Circulation: Cardiovascular Genetics 7 (6), 887-894",
+   "year": "2014"
+  },
+  {
+   "title": "FacetGist: Collective Extraction of Document Facets in Large Technical Corpora",
+   "authors": "TA Siddiqui, X Ren, A Parameswaran, J Han",
+   "venue": "CIKM 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Meta-analysis identifies robust association between SNP rs17465637 in MIA3 on chromosome 1q41 and coronary artery disease",
+   "authors": "X Li, Y Huang, D Yin, D Wang, C Xu, F Wang, Q Yang, X Wang, S Li, ...",
+   "venue": "Atherosclerosis 231 (1), 136-140",
+   "year": "2013"
+  },
+  {
+   "title": "Realtalk: A 21-day real-world dataset for long-term conversation",
+   "authors": "DH Lee, A Maharana, J Pujara, X Ren, F Barbieri",
+   "venue": "arXiv preprint arXiv:2502.13270",
+   "year": "2025"
+  },
+  {
+   "title": "Scalable nanolaminated SERS multiwell cell culture assay",
+   "authors": "X Ren, W Nam, P Ghassemi, JS Strobl, I Kim, W Zhou, M Agah",
+   "venue": "Microsystems & Nanoengineering 6 (1), 47",
+   "year": "2020"
+  },
+  {
+   "title": "SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery",
+   "authors": "J Shen, W Qiu, J Shang, M Vanni, X Ren, J Han",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Creative industries in China: the digital turn",
+   "authors": "T Flew, X Ren, Y Wang",
+   "venue": "A research agenda for creative industries, 164-178",
+   "year": "2019"
+  },
+  {
+   "title": "A simplified method for UAV multispectral images mosaicking",
+   "authors": "X Ren, M Sun, X Zhang, L Liu",
+   "venue": "Remote Sensing 9 (9), 962",
+   "year": "2017"
+  },
+  {
+   "title": "Improving Distantly-supervised Entity Typing with Compact Latent Space Clustering",
+   "authors": "B Chen, X Gu, Y Hu, S Tang, G Hu, Y Zhuang, X Ren",
+   "venue": "NAACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Genomic Variants in NEURL, GJA1 and CUX2 Significantly Increase Genetic Susceptibility to Atrial Fibrillation",
+   "authors": "P Wang, W Qin, P Wang, Y Huang, Y Liu, R Zhang, S Li, Q Yang, X Wang, ...",
+   "venue": "Scientific reports 8 (1), 3297",
+   "year": "2018"
+  },
+  {
+   "title": "Liberal entity extraction: Rapid construction of fine-grained entity typing systems",
+   "authors": "L Huang, J May, X Pan, H Ji, X Ren, J Han, L Zhao, JA Hendler",
+   "venue": "Big data 5 (1), 19-31",
+   "year": "2017"
+  },
+  {
+   "title": "Comparative Document Analysis for Large Text Corpora",
+   "authors": "X Ren, Y Lv, K Wang, J Han",
+   "venue": "WSDM 2017",
+   "year": "2017"
+  },
+  {
+   "title": "X-METRA-ADA: Cross-lingual Meta-Transfer Learning Adaptation to Natural Language Understanding and Question Answering",
+   "authors": "M M'hamdi, DS Kim, F Dernoncourt, T Bui, X Ren, J May",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "AlpacaTag: An active learning-based crowd annotation framework for sequence tagging",
+   "authors": "BY Lin, DH Lee, FF Xu, O Lan, X Ren",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Life-inet: A structured network-based knowledge exploration and analytics system for life sciences",
+   "authors": "X Ren, J Shen, M Qu, X Wang, Z Wu, Q Zhu, M Jiang, F Tao, S Sinha, ...",
+   "venue": "Proceedings of ACL 2017, System Demonstrations, 55-60",
+   "year": "2017"
+  },
+  {
+   "title": "Representing documents via latent keyphrase inference",
+   "authors": "J Liu, X Ren, J Shang, T Cassidy, CR Voss, J Han",
+   "venue": "Proceedings of the 25th international conference on World wide web, 1057-1067",
+   "year": "2016"
+  },
+  {
+   "title": "Visually Grounded Continual Learning of Compositional Phrases",
+   "authors": "X Jin, J Du, A Sadhu, R Nevatia, X Ren",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Inference-time policy adapters (ipa): Tailoring extreme-scale lms without fine-tuning",
+   "authors": "X Lu, F Brahman, P West, J Jung, K Chandu, A Ravichander, ...",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Contextualized Scene Imagination for Generative Commonsense Reasoning",
+   "authors": "PF Wang, J Zamora, J Liu, F Ilievski, M Chen, X Ren",
+   "venue": "ICLR 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Angiogenic factor AGGF1 acts as a tumor suppressor by modulating p53 post-transcriptional modifications and stability via MDM2",
+   "authors": "W Si, B Zhou, W Xie, H Li, K Li, S Li, W Deng, P Shi, C Yuan, T Ke, X Ren, ...",
+   "venue": "Cancer letters 497, 28-40",
+   "year": "2021"
+  },
+  {
+   "title": "Sequential Dependence Modeling Using Bayesian Theory and D‑Vine Copula and Its Application on Chemical Process Risk Prediction",
+   "authors": "X Ren, S Li, C Lv, Z Zhang",
+   "venue": "Industrial & Engineering Chemistry Research 53 (38), 14788-14801",
+   "year": "2014"
+  },
+  {
+   "title": "Tailoring self-rationalizers with multi-reward distillation",
+   "authors": "S Ramnath, B Joshi, S Hallinan, X Lu, L Li, A Chan, J Hessel, Y Choi, ...",
+   "venue": "International Conference on Learning Representations 2024, 41611-41641",
+   "year": "2024"
+  },
+  {
+   "title": "RobustLR: A diagnostic benchmark for evaluating logical robustness of deductive reasoners",
+   "authors": "S Sanyal, Z Liao, X Ren",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Improving Counterfactual Generation for Fair Hate Speech Detection",
+   "authors": "AM Davani, A Omrani, B Kennedy, M Atari, X Ren, M Dehghani",
+   "venue": "The 5th Workshop on Online Abuse and Harms (WOAH 2021)",
+   "year": "2021"
+  },
+  {
+   "title": "Learning Contextualized Knowledge Structures for Commonsense Reasoning",
+   "authors": "J Yan, M Raman, T Zhang, R Rossi, H Zhao, S Kim, N Lipka, X Ren",
+   "venue": "Findings of ACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation",
+   "authors": "DH Lee, R Khanna, BY Lin, J Chen, S Lee, Q Ye, E Boschee, L Neves, ...",
+   "venue": "ACL 2020 Demo",
+   "year": "2020"
+  },
+  {
+   "title": "Gluten-free living in China: The characteristics, food choices and difficulties in following a gluten-free diet–An online survey",
+   "authors": "Z Lu, H Zhang, S Luoto, X Ren",
+   "venue": "Appetite 127, 242-248",
+   "year": "2018"
+  },
+  {
+   "title": "Identification of a novel KCNQ1 mutation associated with both Jervell and Lange-Nielsen and Romano-Ward forms of long QT syndrome in a Chinese family",
+   "authors": "S Zhang, K Yin, X Ren, P Wang, S Zhang, L Cheng, J Yang, JY Liu, M Liu, ...",
+   "venue": "BMC Medical Genetics 9 (1), 24",
+   "year": "2008"
+  },
+  {
+   "title": "Ser217Cys mutation in the Ig II domain ofFGFR3in a Chinese family with autosomal dominant achondroplasia",
+   "authors": "S Zhang, REN Xiang, W Qing",
+   "venue": "Chinese medical journal 120 (11), 1017-1019",
+   "year": "2007"
+  },
+  {
+   "title": "Are machines better at complex reasoning? unveiling human-machine inference gaps in entailment verification",
+   "authors": "S Sanyal, T Xiao, J Liu, W Wang, X Ren",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 10361-10386",
+   "year": "2024"
+  },
+  {
+   "title": "Eliciting and understanding cross-task skills with task-level mixture-of-experts",
+   "authors": "Q Ye, J Zha, X Ren",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 2567-2592",
+   "year": "2022"
+  },
+  {
+   "title": "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation",
+   "authors": "M Raman, S Agarwal, P Wang, A Chan, H Wang, S Kim, R Rossi, H Zhao, ...",
+   "venue": "ICLR 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Looking Beyond Label Noise: Shifted Label Distribution Matters in Distantly Supervised Relation Extraction",
+   "authors": "Q Ye, L Liu, M Zhang, X Ren",
+   "venue": "EMNLP 2019 (Oral), 3832-3841",
+   "year": "2019"
+  },
+  {
+   "title": "Cross-media event extraction and recommendation",
+   "authors": "D Lu, C Voss, F Tao, X Ren, R Guan, R Korolov, T Zhang, D Wang, H Li, ...",
+   "venue": "Proceedings of the 2016 conference of the North American chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Stress-testing long-context language models with lifelong icl and task haystack",
+   "authors": "X Xu, Q Ye, X Ren",
+   "venue": "Advances in Neural Information Processing Systems 37, 15801-15840",
+   "year": "2024"
+  },
+  {
+   "title": "Wildvis: Open source visualizer for million-scale chat logs in the wild",
+   "authors": "Y Deng, W Zhao, J Hessel, X Ren, C Cardie, Y Choi",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Llm-driven instruction following: Progresses and concerns",
+   "authors": "W Yin, Q Ye, P Liu, X Ren, H Schütze",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Roles of S-adenosylmethionine and its derivatives in salt tolerance of cotton",
+   "authors": "L Yang, X Wang, F Zhao, X Zhang, W Li, J Huang, X Pei, X Ren, Y Liu, ...",
+   "venue": "International journal of molecular sciences 24 (11), 9517",
+   "year": "2023"
+  },
+  {
+   "title": "Virtual prompt injection for instruction-tuned large language models",
+   "authors": "J Yan, V Yadav, S Li, L Chen, Z Tang, H Wang, V Srinivasan, X Ren, H Jin",
+   "venue": "arXiv preprint arXiv:2307.16888",
+   "year": "2023"
+  },
+  {
+   "title": "NS3: Neuro-symbolic semantic code search",
+   "authors": "S Arakelyan, A Hakhverdyan, M Allamanis, L Garcia, C Hauser, X Ren",
+   "venue": "Advances in Neural Information Processing Systems 35, 10476-10491",
+   "year": "2022"
+  },
+  {
+   "title": "Er-test: Evaluating explanation regularization methods for language models",
+   "authors": "B Joshi, A Chan, Z Liu, S Nie, M Sanjabi, H Firooz, X Ren",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 3315-3336",
+   "year": "2022"
+  },
+  {
+   "title": "On the Robustness of Reading Comprehension Models to Entity Renaming",
+   "authors": "J Yan, Y Xiao, S Mukherjee, BY Lin, R Jia, X Ren",
+   "venue": "NAACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Probing commonsense explanation in dialogue response generation",
+   "authors": "P Zhou, P Jandaghi, H Cho, BY Lin, J Pujara, X Ren",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 4132-4146",
+   "year": "2021"
+  },
+  {
+   "title": "Do Language Models Perform Generalizable Commonsense Inference?",
+   "authors": "P Wang, F Ilievski, M Chen, X Ren",
+   "venue": "ACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Social media polarization and echo chambers: A case study of COVID-19",
+   "authors": "J Jiang, X Ren, E Ferrara",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Porous polydimethylsiloxane as a gas–liquid interface for microfluidic applications",
+   "authors": "X Ren, H Lu, JG Zhou, PLG Chong, W Yuan, M Noh",
+   "venue": "Journal of Microelectromechanical Systems 26 (1), 120-126",
+   "year": "2016"
+  },
+  {
+   "title": "The quandary between communication and certification: Individual academics’ views on Open Access and open scholarship",
+   "authors": "X Ren",
+   "venue": "Online Information Review 39 (5), 682-697",
+   "year": "2015"
+  },
+  {
+   "title": "Design, fabrication, and characterization of archaeal tetraether free-standing planar membranes in a PDMS-and PCB-based fluidic platform",
+   "authors": "X Ren, K Liu, Q Zhang, HM Noh, EC Kumbur, WW Yuan, JG Zhou, ...",
+   "venue": "ACS Applied Materials & Interfaces 6 (15), 12618-12628",
+   "year": "2014"
+  },
+  {
+   "title": "Cross-lingual continual learning",
+   "authors": "M M’hamdi, X Ren, J May",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic Entity Recognition and Typing in Massive Text Corpora",
+   "authors": "X Ren, A El-Kishky, C Wang, J Han",
+   "venue": "WWW",
+   "year": "2016"
+  },
+  {
+   "title": "Synonym Discovery for Structured Entities on Heterogeneous Graphs",
+   "authors": "X Ren, T Cheng",
+   "venue": "Proc. of 2015 Int. Conf. on World-Wide Web (WWW'15)",
+   "year": "2015"
+  },
+  {
+   "title": "Facet-aware evaluation for extractive summarization",
+   "authors": "Y Mao, L Liu, Q Zhu, X Ren, J Han",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Probabilistic weighted copula regression model with adaptive sample selection strategy for complex industrial processes",
+   "authors": "Y Zhou, X Ren, S Li",
+   "venue": "IEEE Transactions on Industrial Informatics 16 (11), 6972-6981",
+   "year": "2020"
+  },
+  {
+   "title": "The G401D mutation of OPA1 causes autosomal dominant optic atrophy and hearing loss in a Chinese family.",
+   "authors": "T Ke, SW Nie, QB Yang, JP Liu, LN Zhou, X Ren, JY Liu, Q Wang, MG Liu",
+   "venue": "Zhonghua yi xue yi Chuan xue za zhi= Zhonghua Yixue Yichuanxue Zazhi …",
+   "year": "2006"
+  },
+  {
+   "title": "FiD-ICL: A fusion-in-decoder approach for efficient in-context learning",
+   "authors": "Q Ye, I Beltagy, ME Peters, X Ren, H Hajishirzi",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Curriculum learning for data-efficient vision-language alignment",
+   "authors": "T Srinivasan, X Ren, J Thomason",
+   "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …",
+   "year": "2023"
+  },
+  {
+   "title": "Reporting the unreported: Event extraction for analyzing the local representation of hate crimes",
+   "authors": "AM Davani, L Yeh, M Atari, B Kennedy, GP Wightman, E Gonzalez, ...",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Understanding open knowledge in China: a Chinese approach to openness?",
+   "authors": "L Montgomery, X Ren",
+   "venue": "Cultural Science 10 (1), 17-26",
+   "year": "2018"
+  },
+  {
+   "title": "Mixture of D-Vine copulas for chemical process monitoring",
+   "authors": "W Zheng, X Ren, N Zhou, D Jiang, S Li",
+   "venue": "Chemometrics and Intelligent Laboratory Systems 169, 19-34",
+   "year": "2017"
+  },
+  {
+   "title": "Protective function of pyridoxamine on retinal photoreceptor cells via activation of the p‑Erk1/2/Nrf2/Trx/ASK1 signalling pathway in diabetic mice",
+   "authors": "X Ren, H Sun, C Zhang, C Li, J Wang, J Shen, D Yu, L Kong",
+   "venue": "Molecular medicine reports 14 (1), 420-424",
+   "year": "2016"
+  },
+  {
+   "title": "Predicting the frequency of abnormal events in chemical process with Bayesian theory and vine copula",
+   "authors": "C Lv, Z Zhang, X Ren, S Li",
+   "venue": "Journal of Loss Prevention in the Process Industries 32, 192-200",
+   "year": "2014"
+  },
+  {
+   "title": "Improving Language Model Personas via Rationalization with Psychological Scaffolds.",
+   "authors": "B Joshi, X Ren, S Swayamdipta, R Koncel-Kedziorski, T Paek",
+   "venue": "EMNLP (Findings), 21747-21770",
+   "year": "2025"
+  },
+  {
+   "title": "L-BGNN: Layerwise trained bipartite graph neural networks",
+   "authors": "T Xie, C He, X Ren, C Shahabi, CCJ Kuo",
+   "venue": "IEEE Transactions on Neural Networks and Learning Systems 34 (12), 10711-10723",
+   "year": "2022"
+  },
+  {
+   "title": "Open knowledge institutions",
+   "authors": "L Montgomery, J Hartley, C Neylon, M Gillies, E Gray, C Herrmann-Pillath, ...",
+   "venue": "MIT Press",
+   "year": "2021"
+  },
+  {
+   "title": "Kernel-based microfluidic constriction assay for tumor sample identification",
+   "authors": "X Ren, P Ghassemi, YM Kanaan, T Naab, RL Copeland, RL Dewitty, I Kim, ...",
+   "venue": "ACS sensors 3 (8), 1510",
+   "year": "2018"
+  },
+  {
+   "title": "Open access and soft power: Chinese voices in international scholarship",
+   "authors": "X Ren, L Montgomery",
+   "venue": "Media, Culture & Society 37 (3), 394-408",
+   "year": "2015"
+  },
+  {
+   "title": "XMD: An end-to-end framework for interactive explanation-based debugging of NLP models",
+   "authors": "DH Lee, A Kadakia, B Joshi, A Chan, Z Liu, K Narahari, T Shibuya, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "REV: Information-theoretic evaluation of free-text rationales",
+   "authors": "H Chen, F Brahman, X Ren, Y Ji, Y Choi, S Swayamdipta",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Cardiac Muscle Cell‐Based Coupled Oscillator Network for Collective Computing",
+   "authors": "X Ren, J Gomez, MK Bashar, J Ji, UI Can, HC Chang, N Shukla, S Datta, ...",
+   "venue": "Advanced Intelligent Systems 3 (4), 2000253",
+   "year": "2021"
+  },
+  {
+   "title": "Automatic Entity Recognition and Typing in Massive Text Data",
+   "authors": "X Ren, A El-Kishky, H Ji, J Han",
+   "venue": "SIGMOD",
+   "year": "2016"
+  },
+  {
+   "title": "A novel de novo frameshift mutation of RPGR ORF15 is associated with X-linked retinitis pigmentosa in a Chinese family",
+   "authors": "W Chang, Q Ding, Z Tang, P Liu, F Jiang, T Ke, X Ren, Z Wang, J Liu, ...",
+   "venue": "Mol Vis 13, 1548-1554",
+   "year": "2007"
+  },
+  {
+   "title": "Development of a semi-mechanistic allergenic pollen emission model",
+   "authors": "T Cai, Y Zhang, X Ren, L Bielory, Z Mi, CG Nolte, Y Gao, LR Leung, ...",
+   "venue": "Science of the Total Environment 653, 947-957",
+   "year": "2019"
+  },
+  {
+   "title": "Modeling of pneumatic valve dispenser for printing viscous biomaterials in additive manufacturing",
+   "authors": "X Ren, Q Zhang, K Liu, H Li, JG Zhou",
+   "venue": "Rapid Prototyping Journal 20 (6), 434-443",
+   "year": "2014"
+  },
+  {
+   "title": "Newsnetexplorer: automatic construction and exploration of news information networks",
+   "authors": "F Tao, G Brova, J Han, H Ji, C Wang, B Norick, A El-Kishky, J Liu, X Ren, ...",
+   "venue": "Proceedings of the 2014 ACM SIGMOD International Conference on Management of …",
+   "year": "2014"
+  },
+  {
+   "title": "Hierarchical graph representation learning with differentiable pooling. arXiv 2018",
+   "authors": "R Ying, J You, C Morris, X Ren, WL Hamilton, J Leskovec",
+   "venue": "arXiv preprint arXiv:1806.08804",
+   "year": null
+  },
+  {
+   "title": "Large‐Scale Cardiac Muscle Cell‐Based Coupled Oscillator Network for Vertex Coloring Problem",
+   "authors": "J Ji, X Ren, J Gomez, MK Bashar, N Shukla, S Datta, P Zorlutuna",
+   "venue": "Advanced Intelligent Systems 5 (5), 2200356",
+   "year": "2023"
+  },
+  {
+   "title": "Understanding the digital publishing economy: From eBook disruption to platform ecosystem",
+   "authors": "X Ren",
+   "venue": "The SAGE Handbook of the Digital Media Economy. London: SAGE, 301-324",
+   "year": "2022"
+  },
+  {
+   "title": "Leveraging Visual Knowledge in Language Tasks: An Empirical Study on Intermediate Pre-training for Cross-modal Knowledge Transfer",
+   "authors": "W Jin, DH Lee, C Zhu, J Pujara, X Ren",
+   "venue": "ACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Cardiac cell patterning on customized microelectrode arrays for electrophysiological recordings",
+   "authors": "J Ji, X Ren, P Zorlutuna",
+   "venue": "Micromachines 12 (11), 1351",
+   "year": "2021"
+  },
+  {
+   "title": "Stability of free-standing tetraether planar membranes in microchips",
+   "authors": "X Ren, EC Kumbur, JG Zhou, M Noh, PLG Chong",
+   "venue": "Journal of membrane science 540, 27-34",
+   "year": "2017"
+  },
+  {
+   "title": "Thioredoxin is implicated in the anti-apoptotic effects of grape seed proanthocyanidin extract during hyperglycemia",
+   "authors": "X Ren, H Lu, N Wang, C Zhang, Y Ji, S Cui, Y Dong, K Yang, M Du, ...",
+   "venue": "Molecular medicine reports 16 (5), 7731-7737",
+   "year": "2017"
+  },
+  {
+   "title": "Attributing culture-conditioned generations to pretraining corpora",
+   "authors": "H Li, A Goel, K He, X Ren",
+   "venue": "International Conference on Learning Representations 2025, 79008-79033",
+   "year": "2025"
+  },
+  {
+   "title": "Towards real-time myocardial infarction diagnosis: a convergence of machine learning and ion-exchange membrane technologies leveraging miRNA signatures",
+   "authors": "X Ren, R Zhou, G Ronan, SG Ozcebe, J Ji, S Senapati, KL March, ...",
+   "venue": "Lab on a Chip 24 (23), 5203-5214",
+   "year": "2024"
+  },
+  {
+   "title": "APOLLO: A simple approach for adaptive pretraining of language models for logical reasoning",
+   "authors": "S Sanyal, Y Xu, S Wang, Z Yang, R Pryzant, W Yu, C Zhu, X Ren",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Grill: Grounded vision-language pre-training via aligning text and image regions",
+   "authors": "W Jin, S Mukherjee, Y Cheng, Y Shen, W Chen, AH Awadallah, D Jose, ...",
+   "venue": "arXiv preprint arXiv:2305.14676",
+   "year": "2023"
+  },
+  {
+   "title": "Spatial heterogeneity of socio-economic determinants of typhoid/paratyphoid fever in one province in central China from 2015 to 2019",
+   "authors": "X Ren, S Zhang, P Luo, J Zhao, W Kuang, H Ni, N Zhou, H Dai, X Hong, ...",
+   "venue": "BMC Public Health 23 (1), 927",
+   "year": "2023"
+  },
+  {
+   "title": "Frame: Evaluating simulatability metrics for free-text rationales",
+   "authors": "A Chan, S Nie, L Tan, X Peng, H Firooz, M Sanjabi, X Ren",
+   "venue": "arXiv preprint arXiv:2207.00779",
+   "year": "2022"
+  },
+  {
+   "title": "On the Influence of Masking Policies in Intermediate Pre-training",
+   "authors": "Q Ye, BZ Li, S Wang, B Bolte, H Ma, W Yih, X Ren, M Khabsa",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "A monolithic dielectrophoresis chip with impedimetric sensing for assessment of pathogen viability",
+   "authors": "K Kikkeri, MVR Breazeal, X Ren, A Pruden, M Agah",
+   "venue": "Journal of Microelectromechanical Systems 27 (5), 810-817",
+   "year": "2018"
+  },
+  {
+   "title": "Enhancing quality of multivariate process monitoring based on vine copula and active learning strategy",
+   "authors": "Y Zhou, X Ren, S Li",
+   "venue": "Industrial & Engineering Chemistry Research 57 (23), 7961-7974",
+   "year": "2018"
+  },
+  {
+   "title": "Frame: Evaluating rationale-label consistency metrics for free-text rationales",
+   "authors": "A Chan, S Nie, L Tan, X Peng, H Firooz, M Sanjabi, X Ren",
+   "venue": "arXiv preprint arXiv:2207.00779",
+   "year": "2022"
+  },
+  {
+   "title": "MSD: Saliency-aware Knowledge Distillation for Multimodal Understanding",
+   "authors": "W Jin, M Sanjabi, S Nie, L Tan, X Ren, H Firooz",
+   "venue": "Findings of EMNLP 2021, 3557-3569",
+   "year": "2021"
+  },
+  {
+   "title": "Alleviate dataset shift problem in fine-grained entity typing with virtual adversarial training",
+   "authors": "H Shi, S Tang, X Gu, B Chen, Z Chen, J Shao, X Ren",
+   "venue": "Proceedings of the Twenty-Ninth International Conference on International …",
+   "year": "2021"
+  },
+  {
+   "title": "Constant-potential environment for activating and synchronizing cardiomyocyte colonies with on-chip ion-depleting perm-selective membranes",
+   "authors": "V Yadav, N Chong, B Ellis, X Ren, S Senapati, HC Chang, P Zorlutuna",
+   "venue": "Lab on a Chip 20 (22), 4273-4284",
+   "year": "2020"
+  },
+  {
+   "title": "Will This Idea Spread Beyond Academia? Understanding Knowledge Transfer of Scientific Concepts across Text Corpora",
+   "authors": "H Cao, M Cheng, Z Cen, DA McFarland, X Ren",
+   "venue": "Findings of EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Rethinking backdoor detection evaluation for language models",
+   "authors": "J Yan, WJ Mo, X Ren, R Jia",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "CAVE: Controllable authorship verification explanations",
+   "authors": "S Ramnath, K Pandey, E Boschee, X Ren",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Estimating large language model capabilities without labeled test data",
+   "authors": "H Fu, Q Ye, A Xu, X Ren, R Jia",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 9530-9546",
+   "year": "2023"
+  },
+  {
+   "title": "Think Before You Speak: Using Self-talk to Generate Implicit Commonsense Knowledge for Response Generation",
+   "authors": "P Zhou, K Gopalakrishnan, B Hedayatnia, S Kim, J Pujara, X Ren, Y Liu, ...",
+   "venue": "ACL 2022",
+   "year": "2021"
+  },
+  {
+   "title": "Studying Strategically: Learning to Mask for Closed-book QA",
+   "authors": "Q Ye, BZ Li, S Wang, B Bolte, H Ma, X Ren, W Yih, M Khabsa",
+   "venue": "arXiv preprint arXiv:2012.15856",
+   "year": "2021"
+  },
+  {
+   "title": "An augmented reality Geo-registration method for ground target localization from a low-cost UAV platform",
+   "authors": "X Ren, M Sun, C Jiang, L Liu, W Huang",
+   "venue": "Sensors 18 (11), 3739",
+   "year": "2018"
+  },
+  {
+   "title": "Semantic Frame-Based Document Representation for Comparable Corpora",
+   "authors": "H Kim, X Ren, Y Sun, C Wang, J Han",
+   "venue": "The IEEE International Conference on Data Mining series (ICDM'13)",
+   "year": "2013"
+  },
+  {
+   "title": "Lookahead tree-based rollouts for enhanced trajectory-level exploration in reinforcement learning with verifiable rewards",
+   "authors": "S Xing, S Wang, C Yang, XY Dai, X Ren",
+   "venue": "International Conference on Learning Representations 2026, 31759-31776",
+   "year": "2026"
+  },
+  {
+   "title": "Minds versus machines: Rethinking entailment verification with language models",
+   "authors": "S Sanyal, T Xiao, J Liu, W Wang, X Ren",
+   "venue": "arXiv preprint arXiv:2402.03686",
+   "year": "2024"
+  },
+  {
+   "title": "Assessing scientific research papers with knowledge graphs",
+   "authors": "K Sun, Z Qiu, A Salinas, Y Huang, DH Lee, D Benjamin, F Morstatter, ...",
+   "venue": "Proceedings of the 45th International ACM SIGIR Conference on Research and …",
+   "year": "2022"
+  },
+  {
+   "title": "An ai dungeon master’s guide: Learning to converse and guide with intents and theory-of-mind in dungeons and dragons",
+   "authors": "P Zhou, A Zhu, J Hu, J Pujara, X Ren, C Callison-Burch, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2212.10060",
+   "year": "2022"
+  },
+  {
+   "title": "Think before you speak: Learning to generate implicit knowledge for response generation by self-talk",
+   "authors": "P Zhou, B Hedayatnia, K Gopalakrishnan, S Kim, J Pujara, X Ren, Y Liu, ...",
+   "venue": "Proceedings of the 3rd Workshop on Natural Language Processing for …",
+   "year": "2021"
+  },
+  {
+   "title": "SalKG: Learning From Knowledge Graph Explanations for Commonsense Reasoning",
+   "authors": "A Chan, B Long, J Xu, S Sanyal, T Gupta, X Ren",
+   "venue": "NeurIPS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Two step joint model for drug drug interaction extraction",
+   "authors": "S Tang, Q Zhang, T Zheng, M Zhou, Z Chen, L Shen, X Ren, Y Zhuang, ...",
+   "venue": "arXiv preprint arXiv:2008.12704",
+   "year": "2020"
+  },
+  {
+   "title": "Integrating local context and global cohesiveness for open information extraction",
+   "authors": "Q Zhu, X Ren, J Shang, Y Zhang, A El-Kishky, J Han",
+   "venue": "Proceedings of the Twelfth ACM International Conference on Web Search and …",
+   "year": "2019"
+  },
+  {
+   "title": "Hierarchical graph representation learning with differentiable pooling. Adv. Neural Inf. Process. Syst",
+   "authors": "Z Ying, J You, C Morris, X Ren, W Hamilton, J Leskovec",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Creative users, social networking, and new models of publishing",
+   "authors": "X Ren",
+   "venue": "Cultural Science 7 (1), 58-67",
+   "year": "2014"
+  },
+  {
+   "title": "Eli-why: Evaluating the pedagogical utility of language model explanations",
+   "authors": "B Joshi, K He, S Ramnath, S Sabouri, K Zhou, S Chattopadhyay, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 25466-25499",
+   "year": "2025"
+  },
+  {
+   "title": "What will my model forget? forecasting forgotten examples in language model refinement",
+   "authors": "X Jin, X Ren",
+   "venue": "arXiv preprint arXiv:2402.01865",
+   "year": "2024"
+  },
+  {
+   "title": "Contrastive novelty-augmented learning: Anticipating outliers with large language models",
+   "authors": "A Xu, X Ren, R Jia",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Recommendation in context-rich environment: An information network analysis approach",
+   "authors": "Y Sun, H Yin, X Ren",
+   "venue": "Proceedings of the 26th International Conference on World Wide Web Companion …",
+   "year": "2017"
+  },
+  {
+   "title": "Indirect Supervision for Relation Extraction using Question-Answer Pairs",
+   "authors": "Z Wu, X Ren, FF Xu, J Li, J Han",
+   "venue": "WSDM 2018",
+   "year": "2017"
+  },
+  {
+   "title": "Texture repairing by unified low rank optimization",
+   "authors": "X Liang, X Ren, Z Zhang, Y Ma",
+   "venue": "Journal of Computer Science and Technology 31 (3), 525-546",
+   "year": "2016"
+  },
+  {
+   "title": "Better language model inversion by compactly representing next-token distributions",
+   "authors": "M Nazir, M Finlayson, J Morris, X Ren, S Swayamdipta",
+   "venue": "Advances in Neural Information Processing Systems 38, 8636-8659",
+   "year": "2026"
+  },
+  {
+   "title": "Demystifying language model forgetting with low-rank example associations",
+   "authors": "X Jin, X Ren",
+   "venue": "Advances in Neural Information Processing Systems 38, 4313-4349",
+   "year": "2026"
+  },
+  {
+   "title": "Plasma: Procedural knowledge models for language-based planning and re-planning",
+   "authors": "F Brahman, C Bhagavatula, V Pyatkin, J Hwang, XL Li, H Arai, S Sanyal, ...",
+   "venue": "International Conference on Learning Representations 2024, 5555-5585",
+   "year": "2024"
+  },
+  {
+   "title": "Modality-specific Distillation",
+   "authors": "W Jin, M Sanjabi, S Nie, L Tan, X Ren, H Firooz",
+   "venue": "Findings of EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Using Word Embedding to Reveal Monetary Policy Explanation Changes",
+   "authors": "A Matsui, X Ren, E Ferrara",
+   "venue": "Proceedings of the Third Workshop on Economics and Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution",
+   "authors": "S Garg, N Sharma, W Jin, X Ren",
+   "venue": "IJCAI 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Improving BERT fine-tuning with embedding normalization",
+   "authors": "W Zhou, J Du, X Ren",
+   "venue": "arXiv preprint arXiv:1911.03918",
+   "year": "2019"
+  },
+  {
+   "title": "Copyright, media and modernization in China: A historical review, 1890–2015",
+   "authors": "X Ren",
+   "venue": "Interactions: Studies in Communication & Culture 7 (3), 311-326",
+   "year": "2016"
+  },
+  {
+   "title": "Between sustaining and disruptive innovation: China’s digital publishing industry in the age of mobile internet",
+   "authors": "X Ren",
+   "venue": "Handbook of Cultural and Creative Industries in China, 377-395",
+   "year": "2016"
+  },
+  {
+   "title": "Fast stereo aerial image construction and measurement for emergency rescue",
+   "authors": "N Dong, X Ren, M Sun, C Jiang, H Zheng",
+   "venue": "2013 Fifth International Conference on Geo-Information Technologies for …",
+   "year": "2013"
+  },
+  {
+   "title": "Hierarchical graph representation learning with differentiable pooling (2018)",
+   "authors": "R Ying, J You, C Morris, X Ren, WL Hamilton, J Leskovec",
+   "venue": "arXiv preprint arXiv:1806.08804",
+   "year": "1806"
+  },
+  {
+   "title": "Proof-of-guardrail in AI agents and what (not) to trust from it",
+   "authors": "X Jin, M Duan, Q Lin, A Chan, Z Chen, J Du, X Ren",
+   "venue": "arXiv preprint arXiv:2603.05786",
+   "year": "2026"
+  },
+  {
+   "title": "In search of the long-tail: Systematic generation of long-tail inferential knowledge via logical rule guided search",
+   "authors": "H Li, Y Ning, Z Liao, S Wang, XL Li, X Lu, W Zhao, F Brahman, Y Choi, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Textual backdoor attacks with iterative trigger injection",
+   "authors": "J Yan, V Gupta, X Ren",
+   "venue": "arXiv preprint arXiv:2205.12700",
+   "year": "2022"
+  },
+  {
+   "title": "Fair Hate Speech Detection through Evaluation of Social Group Counterfactuals",
+   "authors": "AM Davani, A Omrani, B Kennedy, M Atari, X Ren, M Dehghani",
+   "venue": "arXiv preprint arXiv:2010.12779",
+   "year": "2021"
+  },
+  {
+   "title": "Open information extraction with global structure constraints",
+   "authors": "Q Zhu, X Ren, J Shang, Y Zhang, FF Xu, J Han",
+   "venue": "Companion Proceedings of the The Web Conference 2018, 57-58",
+   "year": "2018"
+  },
+  {
+   "title": "Automatic Entity Recognition and Typing from Massive Text Corpora: A Phrase and Network Mining Approach",
+   "authors": "X Ren, A El-Kishky, C Wang, J Han",
+   "venue": "KDD: proceedings/International Conference on Knowledge Discovery & Data …",
+   "year": "2015"
+  },
+  {
+   "title": "AutoTriggER: Label-efficient and robust named entity recognition with auxiliary trigger extraction",
+   "authors": "DH Lee, RK Selvam, SM Sarwar, BY Lin, F Morstatter, J Pujara, ...",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Knife: Distilling meta-reasoning knowledge with free-text rationales",
+   "authors": "A Chan, Z Zeng, W Lake, B Joshi, H Chen, X Ren",
+   "venue": "ICLR 2023 Workshop on Pitfalls of limited data and computation for …",
+   "year": "2023"
+  },
+  {
+   "title": "Robustlr: Evaluating robustness to logical perturbation in deductive reasoning",
+   "authors": "S Sanyal, Z Liao, X Ren",
+   "venue": "arXiv preprint arXiv:2205.12598",
+   "year": "2022"
+  },
+  {
+   "title": "Extract, denoise and enforce: Evaluating and improving concept preservation for text-to-text generation",
+   "authors": "Y Mao, W Ma, D Lei, J Han, X Ren",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Comparative study of prostate cancer biophysical and migratory characteristics via iterative mechanoelectrical properties (iMEP) and standard migration assays",
+   "authors": "P Ghassemi, KS Harris, X Ren, BM Foster, CD Langefeld, BA Kerr, ...",
+   "venue": "Sensors and Actuators B: Chemical 321, 128522",
+   "year": "2020"
+  },
+  {
+   "title": "Hyperspectral image quality based on convolutional network of multi-scale depth",
+   "authors": "L Liu, M Sun, X Ren, X Li, Q Zhang, L Ma, Y Li, M Song",
+   "venue": "Journal of Visual Communication and Image Representation 71, 102721",
+   "year": "2020"
+  },
+  {
+   "title": "Mining Structures of Factual Knowledge from Text: An Effort-Light Approach",
+   "authors": "X Ren, J Han",
+   "venue": "Morgan & Claypool Publishers",
+   "year": "2018"
+  },
+  {
+   "title": "Beyond online preprints: formalization of open initiatives in China",
+   "authors": "X Ren",
+   "venue": "Learned publishing 26 (3), 197-205",
+   "year": "2013"
+  },
+  {
+   "title": "Learning from explanations with neural module execution tree",
+   "authors": "Y Qin, Z Wang, W Zhou, J Yan, Q Ye, X Ren, L Neves, Z Liu",
+   "venue": "International Conference on Learning Representations",
+   "year": "2020"
+  },
+  {
+   "title": "Mining news events from comparable news corpora: A multi-attribute proximity network modeling approach",
+   "authors": "H Kim, A El-Kishky, X Ren, J Han",
+   "venue": "2019 IEEE International Conference on Big Data (Big Data), 105-114",
+   "year": "2019"
+  },
+  {
+   "title": "Quality assessment and certification in open scholarly publishing and inspiration for MOOC credentialing",
+   "authors": "X Ren",
+   "venue": "Scholarly Ethics and Publishing: Breakthroughs in Research and Practice, 902-919",
+   "year": "2019"
+  },
+  {
+   "title": "Building structured databases of factual knowledge from massive text corpora",
+   "authors": "X Ren, M Jiang, J Shang, J Han",
+   "venue": "Proceedings of the 2017 ACM International Conference on Management of Data …",
+   "year": "2017"
+  },
+  {
+   "title": "Analysis of PAX6 gene in a Chinese family with congenital aniridia",
+   "authors": "PC Li, Q Yao, X Ren, MC Zhang, H Li, JY Liu, SY Sheng, Q Wang, MG Liu",
+   "venue": "[Zhonghua yan ke za Zhi] Chinese Journal of Ophthalmology 45 (10), 931-934",
+   "year": "2009"
+  },
+  {
+   "title": "Hierarchical graph representation learning with differentiable pooling. arXiv. 10.48550",
+   "authors": "Z Ying, J You, C Morris, X Ren, W Hamilton, J Leskovec",
+   "venue": "arXiv",
+   "year": "1806"
+  },
+  {
+   "title": "Hierarchical graph representation learning with differentiable pooling. arxiv",
+   "authors": "Z Ying, J You, C Morris, X Ren, W Hamilton, J Leskovec",
+   "venue": "arXiv preprint arxiv:1806.08804",
+   "year": "1806"
+  },
+  {
+   "title": "FedNLP: Benchmarking federated learning methods for natural language processing tasks. arXiv 2021",
+   "authors": "BY Lin, C He, Z Zeng, H Wang, Y Huang, C Dupuy, R Gupta, ...",
+   "venue": "arXiv preprint arXiv:2104.08815",
+   "year": null
+  },
+  {
+   "title": "Every language model has a forgery-resistant signature",
+   "authors": "M Finlayson, X Ren, S Swayamdipta",
+   "venue": "International Conference on Learning Representations 2026, 46161-46177",
+   "year": "2026"
+  },
+  {
+   "title": "The surprising effectiveness of membership inference with simple n-gram coverage",
+   "authors": "S Hallinan, J Jung, M Sclar, X Lu, A Ravichander, S Ramnath, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2508.09603",
+   "year": "2025"
+  },
+  {
+   "title": "Resource-rational moral judgment",
+   "authors": "SA Wu, X Ren, T Gerstenberg, Y Choi, S Levine",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 46",
+   "year": "2024"
+  },
+  {
+   "title": "Knife: Knowledge distillation with free-text rationales",
+   "authors": "A Chan, Z Zeng, W Lake, B Joshi, H Chen, X Ren",
+   "venue": "arXiv preprint arXiv:2212.09721",
+   "year": "2022"
+  },
+  {
+   "title": "Chinese teen digital entertainment: rethinking censorship and commercialisation in short video and online fiction",
+   "authors": "X Ren",
+   "venue": "The Routledge companion to digital media and children, 539-548",
+   "year": "2020"
+  },
+  {
+   "title": "Raw-to-end name entity recognition in social media",
+   "authors": "L Liu, Z Wang, J Shang, D Yin, H Ji, X Ren, S Wang, J Han",
+   "venue": "arXiv preprint arXiv:1908.05344",
+   "year": "2019"
+  },
+  {
+   "title": "Process monitoring method based on double-model and multi-subspace vine copula",
+   "authors": "Q Jia, H Deng, X Ren, S Li",
+   "venue": "Industrial & Engineering Chemistry Research 58 (27), 12137-12148",
+   "year": "2019"
+  },
+  {
+   "title": "Publishing and innovation: disruption in the chinese e-book industry",
+   "authors": "X Ren",
+   "venue": "Publishing and Culture. Cambridge, UK: Cambridge Scholars, 199-219",
+   "year": "2019"
+  },
+  {
+   "title": "Scalable construction and reasoning of massive knowledge bases",
+   "authors": "X Ren, N Peng, WY Wang",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Design and fabrication of chitosan for application of artificial photosynthesis",
+   "authors": "X Ren, Y Kim, J Zhou",
+   "venue": "J. Mech. Eng. Autom. 3 (12), 739-746",
+   "year": "2013"
+  },
+  {
+   "title": "Beyond Open Access: open publishing and the future of digital scholarship",
+   "authors": "X Ren",
+   "venue": "ASCILITE-Australian Society for Computers in Learning in Tertiary Education …",
+   "year": "2013"
+  },
+  {
+   "title": "Diagnosing memorization in chain-of-thought reasoning, one token at a time",
+   "authors": "H Li, Y Chen, S Wang, Y He, N Mehrabi, R Gupta, X Ren",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Pairreranker: Pairwise reranking for natural language generation",
+   "authors": "D Jiang, BY Lin, X Ren",
+   "venue": "arXiv preprint arXiv:2212.10555",
+   "year": "2022"
+  },
+  {
+   "title": "Cross-lingual lifelong learning",
+   "authors": "M M'hamdi, X Ren, J May",
+   "venue": "arXiv preprint arXiv:2205.11152",
+   "year": "2022"
+  },
+  {
+   "title": "AutoTriggER: Named Entity Recognition with Auxiliary Trigger Extraction",
+   "authors": "DH Lee, RK Selvam, SM Sarwar, BY Lin, M Agarwal, F Morstatter, ...",
+   "venue": "TrustNLP @NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Probing causal common sense in dialogue response generation",
+   "authors": "P Zhou, P Jandaghi, BY Lin, J Cho, J Pujara, X Ren",
+   "venue": "arXiv preprint arXiv:2104.09574",
+   "year": "2021"
+  },
+  {
+   "title": "RiddleSense: Answering riddle questions as commonsense reasoning",
+   "authors": "BY Lin, Z Wu, Y Yang, DH Lee, X Ren",
+   "venue": "arXiv preprint arXiv:2101.00376",
+   "year": "2021"
+  },
+  {
+   "title": "Electronic schoolbag and mobile learning in China: Design principles and educational innovations",
+   "authors": "X Ren",
+   "venue": "Mobile learning in higher education in the Asia-Pacific region: Harnessing …",
+   "year": "2017"
+  },
+  {
+   "title": "Constructing structured information networks from massive text corpora",
+   "authors": "X Ren, M Jiang, J Shang, J Han",
+   "venue": "Proceedings of the 26th International Conference on World Wide Web Companion …",
+   "year": "2017"
+  },
+  {
+   "title": "Effective citation recommendation by information network-based clustering",
+   "authors": "X Ren",
+   "venue": "University of Illinois at Urbana-Champaign",
+   "year": "2016"
+  },
+  {
+   "title": "A method of 3D-GIS application aided with stereo panorama technology",
+   "authors": "M Sun, N Dong, H Zheng, C Jiang, X Ren",
+   "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial …",
+   "year": "2013"
+  },
+  {
+   "title": "Open and networked initiatives and the digital transformation of academic publishing in China",
+   "authors": "X Ren",
+   "venue": "Queensland University of Technology",
+   "year": "2013"
+  },
+  {
+   "title": "The crossing number of two Cartesian products",
+   "authors": "L Zhao, W He, Y Liu, X Ren",
+   "venue": "Mathematical Combinatorics 1 (1), 120-127",
+   "year": "2007"
+  },
+  {
+   "title": "Hierarchical graph representation learning withdifferentiable pooling",
+   "authors": "R Ying, J You, C Morris, X Ren, WL Hamilton, J Leskovec",
+   "venue": "arXiv preprint arXiv:1806.08804",
+   "year": null
+  },
+  {
+   "title": "Function induction and task generalization: An interpretability study with off-by-one addition",
+   "authors": "Q Ye, R Jia, X Ren",
+   "venue": "International Conference on Learning Representations 2026, 88017-88054",
+   "year": "2026"
+  },
+  {
+   "title": "Segment-level attribution for selective learning of long reasoning traces",
+   "authors": "S Wang, Y Liu, X Ren",
+   "venue": "arXiv preprint arXiv:2602.00425",
+   "year": "2026"
+  },
+  {
+   "title": "WINOVIZ: probing visual properties of objects under different states",
+   "authors": "W Jin, T Srinivasan, J Thomason, X Ren",
+   "venue": "Proceedings of the Fifth Workshop on Insights from Negative Results in NLP …",
+   "year": "2024"
+  },
+  {
+   "title": "Demystifying forgetting in language model fine-tuning with statistical analysis of example associations",
+   "authors": "X Jin, X Ren",
+   "venue": "arXiv preprint arXiv 2406",
+   "year": "2024"
+  },
+  {
+   "title": "An Experimental and Numerical Investigation of Cardiac Tissue-Patch Interrelation",
+   "authors": "G Basara, G Bahcecioglu, X Ren, P Zorlutuna",
+   "venue": "Journal of Biomechanical Engineering 145 (8), 081004",
+   "year": "2023"
+  },
+  {
+   "title": "Knife: Distilling reasoning knowledge from free-text rationales",
+   "authors": "A Chan, Z Zeng, W Lake, B Joshi, H Chen, X Ren",
+   "venue": "arXiv preprint arXiv:2212.09721",
+   "year": "2022"
+  },
+  {
+   "title": "Machine Translation Robustness to Natural Asemantic Variation",
+   "authors": "J Bremerman, X Ren, J May",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Human heart anoxia and reperfusion tissue (HEART) model for the rapid study of exosome bound miRNA expression as biomarkers for myocardial infarction (small 28/2022)",
+   "authors": "BW Ellis, G Ronan, X Ren, G Bahcecioglu, S Senapati, D Anderson, ...",
+   "venue": "Small 18 (28), 2270151",
+   "year": "2022"
+  },
+  {
+   "title": "Sparse distillation: Speeding up text classification by using bigger student models",
+   "authors": "Q Ye, M Khabsa, M Lewis, S Wang, X Ren, A Jaech",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Facet-Aware Evaluation for Extractive Text Summarization",
+   "authors": "Y Mao, L Liu, Q Zhu, X Ren, J Han",
+   "venue": "ACL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Eliciting Knowledge from Experts: Automatic Transcript Parsing for Cognitive Task Analysis",
+   "authors": "J Du, H Jiang, J Shen, X Ren",
+   "venue": "ACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "KCAT: A Knowledge-Constraint Typing Annotation Tool",
+   "authors": "S Lin, L Zheng, B Chen, S Tang, Y Zhuang, F Wu, Z Chen, G Hu, X Ren",
+   "venue": "ACL 2019 (Demo)",
+   "year": "2019"
+  },
+  {
+   "title": "Single-cell mechanical characteristics of human breast cell lines analyzed by multi-constriction microfluidic channels",
+   "authors": "X Ren, P Ghassemi, H Babahosseini, JS Strobl, M Agah",
+   "venue": "Cancer Research 77 (13_Supplement), 3924-3924",
+   "year": "2017"
+  },
+  {
+   "title": "Cell-free artificial photosynthesis system",
+   "authors": "X Ren, P Ghassemi, W Yuan, J Zhou, P Chong, M Noh",
+   "venue": "2017 19th International Conference on Solid-State Sensors, Actuators and …",
+   "year": "2017"
+  },
+  {
+   "title": "The changing role of copyright in China's emergent media economy",
+   "authors": "L Montgomery, X Ren",
+   "venue": "Routledge handbook of Chinese media, 315-329",
+   "year": "2015"
+  },
+  {
+   "title": "Fabrication of chitosan porous structure and applications on artificial photosynthesis device",
+   "authors": "X Ren, M Yu, X Zhou, Q Zhang, J Zhou",
+   "venue": "International Manufacturing Science and Engineering Conference 55461 …",
+   "year": "2013"
+  },
+  {
+   "title": "OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction",
+   "authors": "S Hallinan, T Venkatesh, X Ren, SP Karimireddy, A Paranjape, Y Zhang, ...",
+   "venue": "Proceedings of the ACM Conference on AI and Agentic Systems, 620-638",
+   "year": "2026"
+  },
+  {
+   "title": "Mixing inference-time experts for enhancing LLM reasoning",
+   "authors": "S Sanyal, T Xiao, X Ren",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Research Advances of Map-Based Cloning Genes in Cotton",
+   "authors": "XS ZANG, KW WANG, XL ZHANG, XP WANG, J Wang, Y Liang, XY PEI, ...",
+   "venue": "Scientia Agricultura Sinica 56 (23), 4635-4647",
+   "year": "2023"
+  },
+  {
+   "title": "New geochronological and provenance constraints on the Late Mesozoic sedimentary formations in the western Shandong Province and Tanlu fault zone, China",
+   "authors": "Y Meng, H Yuan, Q Wang, F Meng, X Ren",
+   "venue": "Frontiers in Earth Science 10, 995848",
+   "year": "2023"
+  },
+  {
+   "title": "In search of the long-tail: systematic generation of long-tail knowledge via logical rule guided search",
+   "authors": "H Li, Y Ning, Z Liao, S Wang, XL Li, X Lu, F Brahman, W Zhao, Y Choi, ...",
+   "venue": "arXiv preprint arXiv:2311.07237",
+   "year": "2023"
+  },
+  {
+   "title": "Information-Theoretic Evaluation of Free-Text Rationales with Conditional -Information",
+   "authors": "H Chen, F Brahman, X Ren, Y Ji, Y Choi, S Swayamdipta",
+   "venue": "Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Sprint: Scalable semantic policy pre-training via language instruction relabeling",
+   "authors": "J Zhang, K Pertsch, J Zhang, T Nam, SJ Hwang, X Ren, JJ Lim",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "ForecastQA: A Question Answering Challenge for Event Forecasting",
+   "authors": "W Jin, R Khanna, S Kim, DH Lee, F Morstatter, A Galstyan, X Ren",
+   "venue": "arXiv preprint arXiv:2005.00792",
+   "year": "2020"
+  },
+  {
+   "title": "4. Universities",
+   "authors": "L Montgomery, J Hartley, C Neylon, M Gillies, E Gray, C Herrmann-Pillath, ...",
+   "venue": "Works in Progress",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings on Advances in Neural Information Processing Systems",
+   "authors": "Z Ying, J You, C Morris, X Ren, W Hamilton, J Leskovec",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Open and interactive publishing as a catalyst for educational innovations",
+   "authors": "X Ren",
+   "venue": "Proceedings of the 32nd Annual Conference of the Australasian Society for …",
+   "year": "2015"
+  },
+  {
+   "title": "Rural Skin, Urban Masks: Hybridization at the edge of contemporary Chinese cities",
+   "authors": "X Ren",
+   "venue": "The Hybrid_Link: Hybridization Design Strategies 4",
+   "year": "2014"
+  },
+  {
+   "title": "Creating a gas-liquid interface in a microchannel using porous polydimethylsiloxane (PDMS)",
+   "authors": "X Ren, M Yu, HM Noh, JG Zhou",
+   "venue": "Proc. Hilton Head Workshop, 215-218",
+   "year": "2014"
+  },
+  {
+   "title": "Direct printing of silver nano-particles based ink on polydimethylsiloxane (PDMS) for mems devices",
+   "authors": "Y Kim, X Ren, HM Noh",
+   "venue": "Proceedings of the Hilton Head Workshop",
+   "year": "2014"
+  },
+  {
+   "title": "Micro and nano design and fabrication of a novel artificial photosynthesis device",
+   "authors": "X Ren, Q Zhang, H Li, J Zhou",
+   "venue": "International Manufacturing Science and Engineering Conference 54990, 971-977",
+   "year": "2012"
+  },
+  {
+   "title": "A novel COL4A5 splicing mutation causing Alport syndrome in a Chinese family",
+   "authors": "Z Tang, Y Dai, Z Wan, T Zhan, J Tan, X Ren, J Liu, Q Wang, M Liu",
+   "venue": "Zhonghua yi xue yi Chuan xue za zhi= Zhonghua Yixue Yichuanxue Zazhi …",
+   "year": "2008"
+  },
+  {
+   "title": "Mutation of Thr704Met in SCN 4A causes normoKPP in a Chinese family",
+   "authors": "X Ren, BT Bu, Q Yao, X Qiu, JY Liu, Q Wang, MG Liu",
+   "venue": "Yi Chuan= Hereditas 28 (8), 923-926",
+   "year": "2006"
+  },
+  {
+   "title": "In-Context Personalized Alignment with Feedback History under Counterfactual Evaluation",
+   "authors": "X Jin, Z Li, Z Dai, H Liu, X Tang, C Luo, R Goutam, X Ren, Q He",
+   "venue": "2nd Workshop on Models of Human Feedback for AI Alignment",
+   "year": null
+  },
+  {
+   "title": "Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries",
+   "authors": "S Ramnath, A Mudgil, B Joshi, S Hallinan, X Ren",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Collaborative Multi-Task Representation for Natural Language Understanding",
+   "authors": "Y Yang, D Cao, M Zeng, J Yu, X Ren, Y Tong, Y Wang",
+   "venue": "2024 International Joint Conference on Neural Networks (IJCNN), 1-8",
+   "year": "2024"
+  },
+  {
+   "title": "Are Machines Better at Slow Thinking? Unveiling Human-Machine Inference Gaps in Entailment Verification",
+   "authors": "S Sanyal, T Xiao, J Liu, W Wang, X Ren",
+   "venue": "ICLR 2024 Workshop on Large Language Model (LLM) Agents",
+   "year": "2024"
+  },
+  {
+   "title": "Epidemiologic characteristics and prediction of incidence trend of all types of influenza based on ARIMA MODEL.",
+   "authors": "H Dai, N Zhou, X Ren, P Luo, S Yi, M Quan, W Zha, Y Lyu",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "MMGA: Multimodal Learning with Graph Alignment",
+   "authors": "X Yang, Q Tao, X Feng, D Cai, X Ren, Y Yang",
+   "venue": "arXiv preprint arXiv:2210.09946",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Federated Learning for Natural Language Processing (FL4NLP 2022)",
+   "authors": "BY Lin, C He, C Xie, F Mireshghallah, N Mehrabi, T Li, M Soltanolkotabi, ...",
+   "venue": "Proceedings of the First Workshop on Federated Learning for Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Correction: Constant-potential environment for activating and synchronizing cardiomyocyte colonies with on-chip ion-depleting perm-selective membranes",
+   "authors": "V Yadav, N Chong, B Ellis, X Ren, S Senapati, HC Chang, P Zorlutuna",
+   "venue": "Lab on a Chip 21 (18), 3614-3614",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Trustworthy Natural Language Processing",
+   "authors": "Y Pruksachatkun, A Ramakrishna, KW Chang, S Krishna, J Dhamala, ...",
+   "venue": "Proceedings of the First Workshop on Trustworthy Natural Language Processing",
+   "year": "2021"
+  },
+  {
+   "title": "RiddleSense: Reasoning about riddle questions featuring linguistic creativity and commonsense knowledge",
+   "authors": "B Yuchen Lin, Z Wu, Y Yang, DH Lee, X Ren",
+   "venue": "arXiv e-prints, arXiv: 2101.00376",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling Combinatorial Evolution in Time Series Prediction",
+   "authors": "W Hu, Y Yang, Z You, Z Liu, X Ren",
+   "venue": "WSDM 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Deep Learning Approaches for Low-Resource NLP (DeepLo 2019)",
+   "authors": "C Cherry, G Durrett, G Foster, G Haffari, S Khadivi, N Peng, X Ren, ...",
+   "venue": "Proceedings of the 2nd Workshop on Deep Learning Approaches for Low-Resource …",
+   "year": "2019"
+  },
+  {
+   "title": "Reporting the Unreported: Event Extraction for Analyzing the Local Representation of Hate Crimes",
+   "authors": "A Mostafazadeh Davani, L Yeh, M Atari, B Kennedy, G Portillo-Wightman, ...",
+   "venue": "arXiv e-prints, arXiv: 1909.02126",
+   "year": "2019"
+  },
+  {
+   "title": "Posterior-regularized REINFORCE for Instance Selection in Distant Supervision",
+   "authors": "Q Zhang, S Tang, X Ren, F Wu, S Pu, Y Zhuang",
+   "venue": "NAACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "5. Coordination",
+   "authors": "L Montgomery, J Hartley, C Neylon, M Gillies, E Gray, CKK Huang, ...",
+   "venue": "Works in Progress",
+   "year": "2019"
+  },
+  {
+   "title": "7. Diversity",
+   "authors": "L Montgomery, J Hartley, C Neylon, M Gillies, E Gray, C Herrmann-Pillath, ...",
+   "venue": "Works in Progress",
+   "year": "2019"
+  },
+  {
+   "title": "First workshop on knowledge base construction, mining and reasoning",
+   "authors": "X Ren, C Knoblock, W Wang, Y Su",
+   "venue": "Proceedings of the Eleventh ACM International Conference on Web Search and …",
+   "year": "2018"
+  },
+  {
+   "title": "Appendix for “GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models”",
+   "authors": "J You, R Ying, X Ren, WL Hamilton, J Leskovec",
+   "venue": "Proceedings of the 35th International Conference on Machine Learning …",
+   "year": "2018"
+  },
+  {
+   "title": "End-to-End Hierarchical Text Classification With Label Assignment Policy",
+   "authors": "Y Mao, J Tian, J Han, X Ren",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Incorporating diversity into influential node mining",
+   "authors": "Y Zhang, FF Xu, T Lyu, X Ren, J Han",
+   "venue": "Computing Research Repository",
+   "year": "2018"
+  },
+  {
+   "title": "Xiang Ren on an organic connection with China-Architecture and Ritual: How Buildings Shape Society By Peter Blundell Jones London, Bloomsbury, 2016 365pp. Price£ 24.99 (hb)",
+   "authors": "X Ren",
+   "venue": "arq: Architectural Research Quarterly 21 (3), 277-280",
+   "year": "2017"
+  },
+  {
+   "title": "CoType: Joint Typing of Entities and Relations in Massive Text Data",
+   "authors": "X Ren",
+   "venue": "Proceedings of the 2017 ACM International Conference on Management of Data …",
+   "year": "2017"
+  },
+  {
+   "title": "基于无人机影像序列的三维重建方法综述",
+   "authors": "L Liu, M Sun, X Ren, X Liu, L Liu, H Zheng, X Li",
+   "venue": "Acta Scientiarum Naturalium Universitatis Pekinensis 53 (6), 1165-1178",
+   "year": "2017"
+  },
+  {
+   "title": "DWCox: a density-weighted Cox model for outlier-robust prediction of prostate cancer survival",
+   "authors": "J Xiao, S Wang, J Shang, H Lin, D Xin, X Ren, J Han, J Peng",
+   "venue": "F1000Research 5, 2806",
+   "year": "2016"
+  },
+  {
+   "title": "Entity Typing: A Critical Step for Mining Structures from Massive Unstructured Text",
+   "authors": "X Ren, W He, A El-Kishky, CR Voss, H Ji, M Qu, J Han",
+   "venue": "champion 3, 4_national",
+   "year": "2016"
+  },
+  {
+   "title": "Comments on “Rolling Pin Method: Efficient General Method of Joint Probability Modeling”",
+   "authors": "X Ren, K Zhu, S Li",
+   "venue": "Industrial & Engineering Chemistry Research 54 (8), 2414-2415",
+   "year": "2015"
+  },
+  {
+   "title": "Archaeal tetraether free standing lipid membranes in a PDMS and PCB based fluidic platform",
+   "authors": "P Chong, X Ren, H Noh, C Kumbur, W Yuan, J Zhou",
+   "venue": "Biophysical Journal 108 (2), 485a-486a",
+   "year": "2015"
+  },
+  {
+   "title": "Fabrication of porous polydimethylsiloxane (PDMS) thin film for gas-liquid interface",
+   "authors": "X Ren, JG Zhou, M Noh",
+   "venue": "MicroTAS 2015-19th international conference on miniaturized systems for …",
+   "year": "2015"
+  },
+  {
+   "title": "Candidate pathway-based GWAS identifies novel associations of genomic variants in the complement system associated with coronary artery disease",
+   "authors": "C Xu, Q Yang, H Xiong, L Wang, J Cai, F Wang, S Li, J Chen, C Wang, ...",
+   "venue": "Circulation. Cardiovascular genetics 7 (6), 887",
+   "year": "2014"
+  },
+  {
+   "title": "ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality",
+   "authors": "X Jin, J Li, Z Chen, J Du, X Ren",
+   "venue": "arXiv preprint arXiv:2610.00710",
+   "year": "2026"
+  },
+  {
+   "title": "DRInQ: Evaluating Conversational Implicature with Controlled Context Variation",
+   "authors": "HJ Arai, X Ren",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Believing without Seeing: Quality Scores for Contextualizing Vision-Language Model Explanations",
+   "authors": "K He, T Srinivasan, B Joshi, X Ren, J Thomason, S Swayamdipta",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Translating the Untranslatable: An Operationalizable Ontology for Untranslatability",
+   "authors": "J Bremerman, B Joshi, H Arai, X Ren, J May",
+   "venue": "arXiv preprint arXiv:2606.17354",
+   "year": "2026"
+  },
+  {
+   "title": "Token Rankings are Unforgeable Language Model Signatures",
+   "authors": "M Finlayson, A Grivas, X Ren, S Swayamdipta",
+   "venue": "arXiv preprint arXiv:2606.04459",
+   "year": "2026"
+  },
+  {
+   "title": "LATTICE: Evaluating Decision Support Utility of Crypto Agents",
+   "authors": "A Chan, T Li, T Xiao, A Chen, J Du, X Ren",
+   "venue": "arXiv preprint arXiv:2604.26235",
+   "year": "2026"
+  },
+  {
+   "title": "DIAL-SUMMER: A Structured Evaluation Framework of Hierarchical Errors in Dialogue Summaries",
+   "authors": "S Ramnath, N Chitsazan, M Zhou, CH Lee, SX Zhang, S Rawls, S Sahu, ...",
+   "venue": "arXiv preprint arXiv:2602.08149",
+   "year": "2026"
+  },
+  {
+   "title": "SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks",
+   "authors": "B Yuchen Lin, Y Fu, K Yang, F Brahman, S Huang, C Bhagavatula, ...",
+   "venue": "arXiv e-prints, arXiv: 2305.17390",
+   "year": "2023"
+  },
+  {
+   "title": "Estimating Large Language Model Capabilities without Labeled Test Data",
+   "authors": "H Yiyun Fu, Q Ye, A Xu, X Ren, R Jia",
+   "venue": "arXiv e-prints, arXiv: 2305.14802",
+   "year": "2023"
+  },
+  {
+   "title": "ONLINE SUPPLEMENT to article in",
+   "authors": "M Cheng, DS Smith, X Ren, H Cao, S Smith, DA McFarland",
+   "venue": "AMERICAN SOCIOLOGICAL REVIEW 88",
+   "year": "2023"
+  },
+  {
+   "title": "BIOM-41. IDENTIFICATION OF GLIOMA CELLS BY PROFILING SINGLE-CELL BIOPHYSICAL PROPERTIES THROUGH MULTICONSTRICTION MICROFLUIDIC CHANNELS",
+   "authors": "X Ren, H Ji, X Geng",
+   "venue": "Neuro-Oncology 24 (Suppl 7), vii13",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing",
+   "authors": "C Cherry, A Fan, G Foster, GR Haffari, S Khadivi, X Ren, E Shareghi, ...",
+   "venue": "Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural …",
+   "year": "2022"
+  },
+  {
+   "title": "NewsEdits: A News Article Revision Dataset and a Document-Level Reasoning Challenge",
+   "authors": "A Spangher, X Ren, J May, N Peng",
+   "venue": "arXiv preprint arXiv:2206.07106",
+   "year": "2022"
+  },
+  {
+   "title": "Electronic Raman scattering calibration for quantitative surface-enhanced Raman spectroscopy and improved biostatistical analysis",
+   "authors": "W Nam, Y Zhao, X Ren, M Agah, I Kim, W Zhou",
+   "venue": "Biomedical Spectroscopy, Microscopy, and Imaging II 12144, 19-23",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Commonsense Representation and Reasoning (CSRR 2022)",
+   "authors": "A Bosselut, X Li, BY Lin, V Shwartz, BP Majumder, YK Lal, R Rudinger, ...",
+   "venue": "Proceedings of the First Workshop on Commonsense Representation and …",
+   "year": "2022"
+  },
+  {
+   "title": "Unsupervised Cross-Task Generalization via Retrieval Augmentation",
+   "authors": "B Yuchen Lin, K Tan, C Miller, B Tian, X Ren",
+   "venue": "arXiv e-prints, arXiv: 2204.07937",
+   "year": "2022"
+  },
+  {
+   "title": "Joint Extraction of Typed Entities and Relationships",
+   "authors": "X Ren, J Han",
+   "venue": "Mining Structures of Factual Knowledge from Text: An Effort-Light Approach …",
+   "year": "2022"
+  },
+  {
+   "title": "Fine-Grained Entity Typing with Knowledge Bases",
+   "authors": "X Ren, J Han",
+   "venue": "Mining Structures of Factual Knowledge from Text: An Effort-Light Approach …",
+   "year": "2022"
+  },
+  {
+   "title": "Entity Recognition and Typing with Knowledge Bases",
+   "authors": "X Ren, J Han",
+   "venue": "Mining Structures of Factual Knowledge from Text: An Effort-Light Approach …",
+   "year": "2022"
+  },
+  {
+   "title": "Vision and Future Work",
+   "authors": "X Ren, J Han",
+   "venue": "Mining Structures of Factual Knowledge from Text: An Effort-Light Approach …",
+   "year": "2022"
+  },
+  {
+   "title": "Sparse Distillation: Speeding Up Text Classification by Using Bigger Models",
+   "authors": "Q Ye, M Khabsa, M Lewis, S Wang, X Ren, A Jaech",
+   "venue": "NAACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Cardiac Muscle-Cell-Based Coupled Oscillator Network for Collective Computing and Related Methods",
+   "authors": "P Zorlutuna, S Datta, JG Mir, X Ren, NS Shukla, J Ji, MK Bashar",
+   "venue": "US Patent App. 17/407,604",
+   "year": "2022"
+  },
+  {
+   "title": "On Continual Model Refinement in Out-of-Distribution Data Streams",
+   "authors": "B Yuchen Lin, S Wang, XV Lin, R Jia, L Xiao, X Ren, W Yih",
+   "venue": "arXiv e-prints, arXiv: 2205.02014",
+   "year": "2022"
+  },
+  {
+   "title": "FedNLP: Benchmarking federated learning models for natural language processing tasks",
+   "authors": "BY Lin, C He, Z Zeng, H Wang, Y Huang, C Dupuy, R Gupta, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "KG-FID: INFUSING KNOWLEDGE GRAPH IN FUSION-IN-DECODER FOR OPEN-DOMAIN QUESTION AN",
+   "authors": "D Yu, C Zhu, Y Fang, W Yu, S Wang, Y Xu, X Ren, Y Yang, M Zeng",
+   "venue": "arXiv preprint arXiv:2110.04330",
+   "year": "2021"
+  },
+  {
+   "title": "RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models",
+   "authors": "B Yuchen Lin, W Gao, J Yan, R Moreno, X Ren",
+   "venue": "arXiv e-prints, arXiv: 2109.05620",
+   "year": "2021"
+  },
+  {
+   "title": "Extract, Denoise, and Enforce: Evaluating and Predicting Lexical Constraints for Conditional Text Generation",
+   "authors": "Y Mao, W Ma, D Lei, X Ren",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Differentiable Open-Ended Commonsense Reasoning",
+   "authors": "B Yuchen Lin, H Sun, B Dhingra, M Zaheer, X Ren, WW Cohen",
+   "venue": "arXiv e-prints, arXiv: 2010.14439",
+   "year": "2020"
+  },
+  {
+   "title": "Fair Hate Speech Detection through Evaluation of Social Group Counterfactuals",
+   "authors": "A Mostafazadeh Davani, A Omrani, B Kennedy, M Atari, X Ren, ...",
+   "venue": "arXiv e-prints, arXiv: 2010.12779",
+   "year": "2020"
+  },
+  {
+   "title": "Review And Assessment Of Malaria Epidemic Situation And Re-Transmission Risk In A Central City Of China, 1950-2019",
+   "authors": "W ZHA, G LI, R FENG, Y LIAO, N ZHOU, M CHEN, J LI, X Ren, Y SU, S YI, ...",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Indoor ozone chemistry in a real-world study of urban apartments in the US",
+   "authors": "H Kipen, K Black, R Laumbach, K Mohan, C Weisel, P Georgopoulos, ...",
+   "venue": "16th Conference of the International Society of Indoor Air Quality and …",
+   "year": "2020"
+  },
+  {
+   "title": "Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP-2019)",
+   "authors": "I Augenstein, S Gella, S Ruder, K von der Wense, B Can, J Welbl, ...",
+   "venue": "Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP …",
+   "year": "2019"
+  },
+  {
+   "title": "Looking Beyond Label Noise: Shifted Label Distribution Matters in Distantly Supervised Relation Extraction",
+   "authors": "M Zhang, Q Ye, L Liu, X Ren",
+   "venue": "arXiv preprint arXiv:1904.09331",
+   "year": "2019"
+  },
+  {
+   "title": "9. Indicators",
+   "authors": "L Montgomery, J Hartley, C Neylon, M Gillies, E Gray, C Herrmann-Pillath, ...",
+   "venue": "Works in Progress",
+   "year": "2019"
+  },
+  {
+   "title": "10. Action",
+   "authors": "L Montgomery, J Hartley, C Neylon, M Gillies, E Gray, C Herrmann-Pillath, ...",
+   "venue": "Works in Progress",
+   "year": "2019"
+  },
+  {
+   "title": "The readers’ advisory guide to teen literature",
+   "authors": "X Ren",
+   "venue": "Journal of the Australian Library and Information Association 68 (1), 100-101",
+   "year": "2019"
+  },
+  {
+   "title": "10 Creative industries in China: the digital",
+   "authors": "T Flew, X Ren, Y Wang",
+   "venue": "A Research Agenda for Creative Industries, 164",
+   "year": "2019"
+  },
+  {
+   "title": "The ZJU-EDL System for Entity Discovery and Linking at TAC KBP 2019.",
+   "authors": "Y Hu, H Shi, T Chen, S Tang, Q Liu, Z Chen, X Ren, F Wu, Y Zhuang",
+   "venue": "TAC",
+   "year": "2019"
+  },
+  {
+   "title": "Multiscale Modeling of Human Exposure to Traffic Related Air Pollution: Focus on New Jersey Industrial/Transportation Corridor",
+   "authors": "Z Mi, X Ren, T Cai, R Laumbach, P Georgopoulos",
+   "venue": "ISEE Conference Abstracts 2018 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "Effects of Climate Change on Co-Occurrences of Allergenic Pollen and Photochemical Air Pollutants in the United States",
+   "authors": "T Cai, X Ren, Y Zhang, Z Mi, P Georgopoulos",
+   "venue": "ISEE Conference Abstracts 2018 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "Mining entity and relation structures from text: An effort-light approach",
+   "authors": "X Ren",
+   "venue": "University of Illinois at Urbana-Champaign",
+   "year": "2018"
+  },
+  {
+   "title": "Withdraw",
+   "authors": "L Liu, J Shang, X Gu, X Ren, J Peng, J Han",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "An embedded single-cell impedametric positioning tracker in microfluidic deformability assays",
+   "authors": "P Ghassemi, X Ren, JS Strobl, M Agah",
+   "venue": "2017 19th International Conference on Solid-State Sensors, Actuators and …",
+   "year": "2017"
+  },
+  {
+   "title": "DWCox: A density-weighted Cox model for outlier-robust prediction of prostate cancer survival [version 1; referees",
+   "authors": "J Xiao, S Wang, J Shang, H Lin, D Xin, X Ren, J Han, J Peng",
+   "venue": "cancer 1000, 5",
+   "year": "2016"
+  },
+  {
+   "title": "ClusType",
+   "authors": "CR Voss, X Ren, C Wang, A El-Kishky, F Tao",
+   "venue": "Proceedings of the 21th ACM SIGKDD International Conference on Knowledge …",
+   "year": "2015"
+  },
+  {
+   "title": "Automatic Entity Recognition and Typing from Massive Text Corpora: A Phrase and Network Mining Approach",
+   "authors": "JH Xiang Ren, Ahmed El-Kishky, Chi Wang",
+   "venue": "ACM SIGKDD International Conference on Knowledge discovery and Data Mining …",
+   "year": "2015"
+  },
+  {
+   "title": "One ARGIS Prototype Based on Handheld Mobile Terminal",
+   "authors": "L Liu, X Ren, M Sun, N Dong",
+   "venue": "Proceedings of the 2012 International Conference on Information Technology …",
+   "year": "2012"
+  },
+  {
+   "title": "the Maximum Genus of Graphs with Diameter 4",
+   "authors": "X Ren, WL He, L Zhao",
+   "venue": "International Journal of Mathematical Combinatorics, Volume 1, 2007 1 (1), 87-93",
+   "year": "2007"
+  },
+  {
+   "title": "Cataract mutation P20S of αB-crystallin impairs chaperone activity of αA-crystallin and induces apoptosis of human lens epithelial cells",
+   "authors": "X Ren, Z Zhang, S Zeng, QK Wang, M Liu",
+   "venue": "Biochimica et Biophysica Acta 2008, 303-309",
+   "year": "1782"
+  },
+  {
+   "title": "Efficient Learning of Less Biased Models with Transfer Learning",
+   "authors": "X Jin, F Barbieri, L Neves, X Ren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Believing without Seeing: Quality Scores for Contextualizing Vision-Language Model Explanations",
+   "authors": "KHT Srinivasan, B Joshi, X Ren, J Thomason, S Swayamdipta",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ELI-WHY: Evaluating the Pedagogical Utility of LLM Explanations",
+   "authors": "B Joshi, K He, S Ramnath, S Sabouri, K Zhou, S Chattopadhyay, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ReMod: Learning Structured Sparsity with ReLU Modulation",
+   "authors": "W Zhang, X Ren",
+   "venue": "ICLR 2025 Workshop on Modularity for Collaborative, Decentralized, and …",
+   "year": null
+  },
+  {
+   "title": "In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Induced Search",
+   "authors": "H Li, Z Liao, Y Ning, S Wang, XL Li, X Lu, F Brahman, W Zhao, Y Choi, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Contrastive Novelty Learning: Anticipating Outliers with Large Language Models",
+   "authors": "A Xu, X Ren, R Jia",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Translating Vernacular Hybridity into a Living Matrix--Reflections on",
+   "authors": "X Ren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Human Explanation-based Learning for Machine Comprehension",
+   "authors": "Q Ye, X Huang, E Boschee, X Ren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Annotator Explanation",
+   "authors": "DH Lee, R Khanna, BY Lin, S Lee, Q Ye, E Boschee, L Neves, X Ren",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Winslow Building 2144 Phone:(617) 650-6612 Rensselaer Polytechnic Institute WWW: www. dylandilu. com Troy, NY 12180 USA E-mail: lud2@ rpi. edu",
+   "authors": "D Lu, CR Voss, F Tao, X Ren, R Guan, R Korolov, T Zhang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Adaptive Pre-training of Language Models for Better Logical Reasoning",
+   "authors": "S Sanyal, Y Xu, S Wang, Z Yang, R Pryzant, W Yu, C Zhu, X Ren",
+   "venue": "NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": null
+  },
+  {
+   "title": "Workshop on Federated Learning for Natural Language Processing (FL4NLP 2022)",
+   "authors": "BY Lin, C He, T Li, N Mehrabi, F Mireshghallah, C Xie, M Soltanolkotabi, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Bio-Text Mining for Construction of Biomedical Information Networks",
+   "authors": "M Qu, J Shang, J Peng, S Wang, X Ren, J Liu, A El-Kishky, Y Shi, D Xin, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

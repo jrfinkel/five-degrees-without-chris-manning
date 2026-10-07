@@ -1,0 +1,41 @@
+{
+ "user": "gqHh87IAAAAJ",
+ "pubs": [
+  {
+   "title": "Gemini: a family of highly capable multimodal models",
+   "authors": "G Team, R Anil, S Borgeaud, JB Alayrac, J Yu, R Soricut, J Schalkwyk, ...",
+   "venue": "arXiv preprint arXiv:2312.11805",
+   "year": "2023"
+  },
+  {
+   "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+   "authors": "G Team, P Georgiev, VI Lei, R Burnell, L Bai, A Gulati, G Tanzer, ...",
+   "venue": "arXiv preprint arXiv:2403.05530",
+   "year": "2024"
+  },
+  {
+   "title": "Enhancing self-consistency and performance of pre-trained language models through natural language inference",
+   "authors": "E Mitchell, J Noh, S Li, W Armstrong, A Agarwal, P Liu, C Finn, ...",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Mechanisms vs. outcomes: Probing for syntax fails to explain performance on targeted syntactic evaluations",
+   "authors": "A Agarwal, J Jian, CD Manning, S Murty",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Task Fusion: Specializing Common Representations in Multi-Task Learning",
+   "authors": "A Agarwal, D Duan, A Singla, CS Stanford",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Faster Training by Automatically Selecting the Best Training Data for Computer Vision Tasks",
+   "authors": "T Cai, D Duan, A Agarwal",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

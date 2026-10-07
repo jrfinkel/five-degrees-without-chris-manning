@@ -1,0 +1,161 @@
+{
+ "user": "4kJYLpcAAAAJ",
+ "pubs": [
+  {
+   "title": "MultiWOZ 2.1: A consolidated multi-domain dialogue dataset with state corrections and state tracking baselines",
+   "authors": "M Eric, R Goel, S Paul, A Sethi, S Agarwal, S Gao, A Kumar, A Goyal, ...",
+   "venue": "Proceedings of the twelfth language resources and evaluation conference, 422-428",
+   "year": "2020"
+  },
+  {
+   "title": "Key-value retrieval networks for task-oriented dialogue",
+   "authors": "M Eric, L Krishnan, F Charette, CD Manning",
+   "venue": "Proceedings of the 18th annual SIGdial meeting on discourse and dialogue, 37-49",
+   "year": "2017"
+  },
+  {
+   "title": "Learning symmetric collaborative dialogue agents with dynamic knowledge graph embeddings",
+   "authors": "H He, A Balakrishnan, M Eric, P Liang",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "A copy-augmented sequence-to-sequence architecture gives good performance on task-oriented dialogue",
+   "authors": "M Eric, CD Manning",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "Dialoglue: A natural language understanding benchmark for task-oriented dialogue",
+   "authors": "S Mehri, M Eric, D Hakkani-Tur",
+   "venue": "arXiv preprint arXiv:2009.13570",
+   "year": "2020"
+  },
+  {
+   "title": "Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access",
+   "authors": "S Kim, M Eric, K Gopalakrishnan, B Hedayatnia, Y Liu, D Hakkani-Tur",
+   "venue": "Proceedings of the 21th Annual Meeting of the Special Interest Group on …",
+   "year": "2020"
+  },
+  {
+   "title": "Just ask: An interactive learning framework for vision and language navigation",
+   "authors": "TC Chi, M Shen, M Eric, S Kim, D Hakkani-Tur",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (03), 2459-2466",
+   "year": "2020"
+  },
+  {
+   "title": "SceneSeer: 3D scene design with natural language",
+   "authors": "AX Chang, M Eric, M Savva, CD Manning",
+   "venue": "arXiv preprint arXiv:1703.00050",
+   "year": "2017"
+  },
+  {
+   "title": "Overview of the ninth dialog system technology challenge: Dstc9",
+   "authors": "C Gunasekara, S Kim, LF D'haro, A Rastogi, YN Chen, M Eric, ...",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 32, 4066-4076",
+   "year": "2024"
+  },
+  {
+   "title": "Policy-driven neural response generation for knowledge-grounded dialog systems",
+   "authors": "B Hedayatnia, K Gopalakrishnan, S Kim, Y Liu, M Eric, D Hakkani-Tur",
+   "venue": "Proceedings of the 13th International Conference on Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Further advances in open domain dialog systems in the third alexa prize socialbot grand challenge",
+   "authors": "R Gabriel, Y Liu, A Gottardi, M Eric, A Khatri, A Chadha, Q Chen, ...",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Example-driven intent prediction with observers",
+   "authors": "S Mehri, M Eric",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Beyond domain apis: Task-oriented conversational modeling with unstructured knowledge access track in DSTC9",
+   "authors": "S Kim, M Eric, B Hedayatnia, K Gopalakrishnan, Y Liu, CW Huang, ...",
+   "venue": "arXiv preprint arXiv:2101.09276",
+   "year": "2021"
+  },
+  {
+   "title": "Multi-sentence knowledge selection in open-domain dialogue",
+   "authors": "M Eric, N Chartier, B Hedayatnia, K Gopalakrishnan, P Rajan, Y Liu, ...",
+   "venue": "Proceedings of the 14th international conference on natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Eunjoon",
+   "authors": "C Gunasekara, S Kim, LF D’Haro, A Rastogi, YN Chen, M Eric, ...",
+   "venue": "Cho",
+   "year": null
+  },
+  {
+   "title": "Further advances in open domain dialog systems in the fourth alexa prize socialbot grand challenge",
+   "authors": "S Hu, Y Liu, A Gottardi, B Hedayatnia, A Khatri, A Chadha, Q Chen, ...",
+   "venue": "Alexa Prize SocialBot Grand Challenge 4",
+   "year": "2021"
+  },
+  {
+   "title": "Entity resolution in open-domain conversations",
+   "authors": "M Shang, T Wang, M Eric, J Chen, J Wang, M Welch, T Deng, A Grewal, ...",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Hitting depth: Investigating robustness to adversarial examples in deep convolutional neural networks",
+   "authors": "C Billovits, M Eric, N Agarwala",
+   "venue": "Stanford University, Tech. Rep. cs231n-119",
+   "year": "2016"
+  },
+  {
+   "title": "Enhancing CO2 Electrocatalysis on 2D Porphyrin-Based Metal-Organic Framework Nanosheets Coupled with Visible-Light, Small Methods, 2020, 2000991",
+   "authors": "Y Zhou, LR Zheng, DR Yang, HZ Yang, QC Lu, QH Zhang, L Gu, X Wang",
+   "venue": "DOI",
+   "year": null
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Natural Language Processing for Conversational AI",
+   "authors": "TH Wen, A Celikyilmaz, Z Yu, A Papangelis, M Eric, A Kumar, ...",
+   "venue": "Proceedings of the 2nd Workshop on Natural Language Processing for …",
+   "year": "2020"
+  },
+  {
+   "title": "The Pragmatics of Indirect Commands in Collaborative Discourse",
+   "authors": "M Lamm, M Eric",
+   "venue": "Proceedings of the 12th International Conference on Computational Semantics …",
+   "year": "2017"
+  },
+  {
+   "title": "Using Contextual Information for Neural Natural Language Inference",
+   "authors": "C Billovits, M Eric",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "WIEN: Wordwise Inference and Entailment Now Or: How We Taught Machines to Recognize Natural Language Inference",
+   "authors": "C Billovits, M Eric, C Guthrie",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Modeling Scene Interactions in Text2Scene",
+   "authors": "M Eric",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Autonomous Tagging of Stack Overflow Posts",
+   "authors": "M Eric, A Klimovic, V Zhong",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "A Machine Learning Perspective on the Pragmatics of Indirect Commands",
+   "authors": "M Lamm, M Eric",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

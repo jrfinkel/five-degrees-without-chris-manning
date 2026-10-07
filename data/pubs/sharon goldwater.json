@@ -1,0 +1,983 @@
+{
+ "user": "_ZxvlzoAAAAJ",
+ "pubs": [
+  {
+   "title": "Learning OT constraint rankings using a maximum entropy model",
+   "authors": "S Goldwater, M Johnson",
+   "venue": "Proceedings of the workshop on variation within Optimality Theory, 111-120",
+   "year": "2003"
+  },
+  {
+   "title": "A Bayesian framework for word segmentation: Exploring the effects of context",
+   "authors": "S Goldwater, TL Griffiths, M Johnson",
+   "venue": "Cognition 112 (1), 21-54",
+   "year": "2009"
+  },
+  {
+   "title": "A fully Bayesian approach to unsupervised part-of-speech tagging",
+   "authors": "S Goldwater, T Griffiths",
+   "venue": "Proceedings of the 45th annual meeting of the association of computational …",
+   "year": "2007"
+  },
+  {
+   "title": "Inducing probabilistic CCG grammars from logical form with higher-order unification",
+   "authors": "T Kwiatkowksi, L Zettlemoyer, S Goldwater, M Steedman",
+   "venue": "Proceedings of the 2010 conference on empirical methods in natural language …",
+   "year": "2010"
+  },
+  {
+   "title": "Adaptor grammars: A framework for specifying compositional nonparametric Bayesian models",
+   "authors": "M Johnson, T Griffiths, S Goldwater",
+   "venue": "Advances in neural information processing systems 19",
+   "year": "2006"
+  },
+  {
+   "title": "Lexical generalization in CCG grammar induction for semantic parsing",
+   "authors": "T Kwiatkowski, L Zettlemoyer, S Goldwater, M Steedman",
+   "venue": "Proceedings of the 2011 conference on empirical methods in natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Interpolating between types and tokens by estimating power-law generators",
+   "authors": "S Goldwater, M Johnson, T Griffiths",
+   "venue": "Advances in neural information processing systems 18",
+   "year": "2005"
+  },
+  {
+   "title": "Which words are hard to recognize? Prosodic, lexical, and disfluency factors that increase speech recognition error rates",
+   "authors": "S Goldwater, D Jurafsky, CD Manning",
+   "venue": "Speech Communication 52 (3), 181-200",
+   "year": "2010"
+  },
+  {
+   "title": "Bayesian inference for pcfgs via markov chain monte carlo",
+   "authors": "M Johnson, TL Griffiths, S Goldwater",
+   "venue": "Human Language Technologies 2007: The Conference of the North American …",
+   "year": "2007"
+  },
+  {
+   "title": "Contextual dependencies in unsupervised word segmentation",
+   "authors": "S Goldwater, TL Griffiths, M Johnson",
+   "venue": "Proceedings of the 21st International Conference on Computational …",
+   "year": "2006"
+  },
+  {
+   "title": "Modeling human performance in statistical word segmentation",
+   "authors": "MC Frank, S Goldwater, TL Griffiths, JB Tenenbaum",
+   "venue": "Cognition 117 (2), 107-125",
+   "year": "2010"
+  },
+  {
+   "title": "Pre-training on high-resource speech recognition improves low-resource speech-to-text translation",
+   "authors": "S Bansal, H Kamper, K Livescu, A Lopez, S Goldwater",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Improving statistical MT through morphological analysis",
+   "authors": "S Goldwater, D McClosky",
+   "venue": "Proceedings of Human Language Technology Conference and Conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "A role for the developing lexicon in phonetic category acquisition.",
+   "authors": "NH Feldman, TL Griffiths, S Goldwater, JL Morgan",
+   "venue": "Psychological review 120 (4), 751",
+   "year": "2013"
+  },
+  {
+   "title": "Two decades of unsupervised POS induction: How far have we come?",
+   "authors": "C Christodoulopoulos, S Goldwater, M Steedman",
+   "venue": "Proceedings of the 2010 Conference on Empirical Methods in Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Bootstrapping language acquisition",
+   "authors": "O Abend, T Kwiatkowski, NJ Smith, S Goldwater, M Steedman",
+   "venue": "Cognition 164, 116-143",
+   "year": "2017"
+  },
+  {
+   "title": "Improving nonparameteric Bayesian inference: experiments on unsupervised word segmentation with adaptor grammars",
+   "authors": "M Johnson, S Goldwater",
+   "venue": "Proceedings of human language technologies: The 2009 annual conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Nonparametric Bayesian models of lexical acquisition",
+   "authors": "SJ Goldwater",
+   "venue": "Brown University",
+   "year": "2007"
+  },
+  {
+   "title": "UNSUPERVISED NEURAL NETWORK BASED FEATURE EXTRACTION USING WEAK TOP-DOWN CONSTRAINTS",
+   "authors": "H Kamper, M Elsner, A Jansen, S Goldwater",
+   "venue": "Proceedings of the 40th IEEE International Conference on Acoustics, Speech …",
+   "year": "2015"
+  },
+  {
+   "title": "Inducing tree-substitution grammars",
+   "authors": "T Cohn, P Blunsom, S Goldwater",
+   "venue": "The Journal of Machine Learning Research 11, 3053-3096",
+   "year": "2010"
+  },
+  {
+   "title": "A segmental framework for fully-unsupervised large-vocabulary speech recognition",
+   "authors": "H Kamper, A Jansen, S Goldwater",
+   "venue": "Computer Speech & Language 46, 154-174",
+   "year": "2017"
+  },
+  {
+   "title": "Edge-based best-first chart parsing",
+   "authors": "E Charniak, S Goldwater, M Johnson",
+   "venue": "Sixth Workshop on Very Large Corpora",
+   "year": "1998"
+  },
+  {
+   "title": "Context sensitive neural lemmatization with Lematus",
+   "authors": "T Bergmanis, S Goldwater",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "An embedded segmental k-means model for unsupervised segmentation and clustering of speech",
+   "authors": "H Kamper, K Livescu, S Goldwater",
+   "venue": "2017 IEEE automatic speech recognition and understanding workshop (ASRU …",
+   "year": "2017"
+  },
+  {
+   "title": "A Type System for Statically Detecting Spreadsheet Errors.",
+   "authors": "Y Ahmad, T Antoniu, S Goldwater, S Krishnamurthi",
+   "venue": "ASE 3, 174-183",
+   "year": "2003"
+  },
+  {
+   "title": "A summary of the 2012 JHU CLSP workshop on zero resource speech technologies and models of early language acquisition",
+   "authors": "A Jansen, E Dupoux, S Goldwater, M Johnson, S Khudanpur, K Church, ...",
+   "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2013"
+  },
+  {
+   "title": "A comparison of neural network methods for unsupervised representation learning on the zero resource speech challenge",
+   "authors": "D Renshaw, H Kamper, A Jansen, S Goldwater",
+   "venue": "Proc. Interspeech 2015, 3199-3203",
+   "year": "2015"
+  },
+  {
+   "title": "Producing Power-Law Distributions and Damping Word Frequencies with Two-Stage Language Models.",
+   "authors": "S Goldwater, TL Griffiths, M Johnson",
+   "venue": "Journal of Machine Learning Research 12 (7)",
+   "year": "2011"
+  },
+  {
+   "title": "A probabilistic model of syntactic and semantic acquisition from child-directed utterances and their meanings",
+   "authors": "T Kwiatkowski, S Goldwater, L Zettlemoyer, M Steedman",
+   "venue": "Proceedings of the 13th Conference of the European Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "Early phonetic learning without phonetic categories: Insights from large-scale simulations on realistic input",
+   "authors": "T Schatz, NH Feldman, S Goldwater, XN Cao, E Dupoux",
+   "venue": "Proceedings of the National Academy of Sciences 118 (7), e2001844118",
+   "year": "2021"
+  },
+  {
+   "title": "Unsupervised word segmentation and lexicon discovery using acoustic word embeddings",
+   "authors": "H Kamper, A Jansen, S Goldwater",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 24 (4), 669-679",
+   "year": "2016"
+  },
+  {
+   "title": "Analyzing ASR pretraining for low-resource speech-to-text translation",
+   "authors": "MC Stoian, S Bansal, S Goldwater",
+   "venue": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2020"
+  },
+  {
+   "title": "Towards speech-to-text translation without speech recognition",
+   "authors": "S Bansal, H Kamper, A Lopez, S Goldwater",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "Low-resource speech-to-text translation",
+   "authors": "S Bansal, H Kamper, K Livescu, A Lopez, S Goldwater",
+   "venue": "arXiv preprint arXiv:1803.09164",
+   "year": "2018"
+  },
+  {
+   "title": "Talkers account for listener and channel characteristics to communicate efficiently",
+   "authors": "JK Pate, S Goldwater",
+   "venue": "Journal of Memory and Language 78, 1-17",
+   "year": "2015"
+  },
+  {
+   "title": "Minimally-supervised morphological segmentation using adaptor grammars",
+   "authors": "K Sirts, S Goldwater",
+   "venue": "Transactions of the Association for Computational Linguistics 1, 255-266",
+   "year": "2013"
+  },
+  {
+   "title": "Inducing compact but accurate tree-substitution grammars",
+   "authors": "T Cohn, S Goldwater, P Blunsom",
+   "venue": "Proceedings of Human Language Technologies: The 2009 Annual Conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Online learning mechanisms for Bayesian models of word segmentation",
+   "authors": "L Pearl, S Goldwater, M Steyvers",
+   "venue": "Research on Language and Computation 8 (2), 107-132",
+   "year": "2010"
+  },
+  {
+   "title": "Training data augmentation for low-resource morphological inflection",
+   "authors": "T Bergmanis, K von der Wense, H Schütze, S Goldwater",
+   "venue": "Proceedings of the CoNLL SIGMORPHON 2017 Shared Task: Universal …",
+   "year": "2017"
+  },
+  {
+   "title": "Are we there yet? Encoder-decoder neural networks as cognitive models of English past tense inflection",
+   "authors": "M Corkery, Y Matusevych, S Goldwater",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Semantic parsing with bayesian tree transducers",
+   "authors": "B Jones, M Johnson, S Goldwater",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Inflecting when there’s no majority: Limitations of encoder-decoder neural networks as cognitive models for German plurals",
+   "authors": "K McCurdy, S Goldwater, A Lopez",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Aye or naw, whit dae ye hink? Scottish independence and linguistic identity on social media",
+   "authors": "P Shoemark, D Sur, L Shrimpton, I Murray, S Goldwater",
+   "venue": "15th Conference of the European Chapter of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "A non-parametric Bayesian approach to spike sorting",
+   "authors": "F Wood, S Goldwater, MJ Black",
+   "venue": "2006 international conference of the IEEE engineering in medicine and …",
+   "year": "2006"
+  },
+  {
+   "title": "Self-representation on twitter using emoji skin color modifiers",
+   "authors": "A Robertson, W Magdy, S Goldwater",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 12 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "A Joint Learning Model of Word Segmentation, Lexical Acquisition and Phonetic Variability",
+   "authors": "M Elsner, S Goldwater, N Feldman, F Wood",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Do infants really learn phonetic categories?",
+   "authors": "NH Feldman, S Goldwater, E Dupoux, T Schatz",
+   "venue": "Open Mind 5, 113-131",
+   "year": "2021"
+  },
+  {
+   "title": "Emoji skin tone modifiers: Analyzing variation in usage on social media",
+   "authors": "A Robertson, W Magdy, S Goldwater",
+   "venue": "ACM Transactions on Social Computing 3 (2), 1-25",
+   "year": "2020"
+  },
+  {
+   "title": "Fully unsupervised small-vocabulary speech recognition using a segmental bayesian model",
+   "authors": "H Kamper, A Jansen, S Goldwater",
+   "venue": "Proceedings of Interspeech 2015, 5",
+   "year": "2015"
+  },
+  {
+   "title": "Black or white but never neutral: How readers perceive identity from yellow or skin-toned emoji",
+   "authors": "A Robertson, W Magdy, S Goldwater",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 5 (CSCW2), 1-23",
+   "year": "2021"
+  },
+  {
+   "title": "Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings",
+   "authors": "H Kamper, A Jansen, S King, S Goldwater",
+   "venue": "2014 IEEE Spoken Language Technology Workshop (SLT), 100-105",
+   "year": "2014"
+  },
+  {
+   "title": "A Bayesian mixture model for PoS induction using multiple features",
+   "authors": "C Christodoulopoulos, S Goldwater, M Steedman",
+   "venue": "Proceedings of the 2011 conference on empirical methods in Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Analyzing acoustic word embeddings from pre-trained self-supervised speech models",
+   "authors": "R Sanabria, H Tang, S Goldwater",
+   "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the Stockholm workshop on variation within Optimality Theory",
+   "authors": "S Goldwater, M Johnson, J Spenader, A Eriksson, Ö Dahl",
+   "venue": "Stockholm University",
+   "year": "2003"
+  },
+  {
+   "title": "ALDi: Quantifying the Arabic level of dialectness of text",
+   "authors": "A Keleg, S Goldwater, W Magdy",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Which words are hard to recognize? Prosodic, lexical, and disfluency factors that increase ASR error rates",
+   "authors": "S Goldwater, D Jurafsky, CD Manning",
+   "venue": "Proceedings of ACL-08: HLT, 380-388",
+   "year": "2008"
+  },
+  {
+   "title": "Priors in Bayesian learning of phonological rules",
+   "authors": "S Goldwater, M Johnson",
+   "venue": "Proceedings of the 7th meeting of the acl special interest group in …",
+   "year": "2004"
+  },
+  {
+   "title": "Bootstrapping a Unified Model of Lexical and Phonetic Acquisition",
+   "authors": "M Elsner, S Goldwater, J Eisenstein",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Improving morphology induction by learning spelling rules",
+   "authors": "J Naradowsky",
+   "venue": "UCAI 2009, Proceedings of the 21st,…",
+   "year": "2009"
+  },
+  {
+   "title": "Self-supervised predictive coding models encode speaker and phonetic information in orthogonal subspaces",
+   "authors": "O Liu, H Tang, S Goldwater",
+   "venue": "arXiv preprint arXiv:2305.12464",
+   "year": "2023"
+  },
+  {
+   "title": "Improved acoustic word embeddings for zero-resource languages using multilingual transfer",
+   "authors": "H Kamper, Y Matusevych, S Goldwater",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 29, 1107-1118",
+   "year": "2021"
+  },
+  {
+   "title": "Statistical learning, inductive bias, and Bayesian inference in language acquisition",
+   "authors": "L Pearl, S Goldwater",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "A note on the implementation of hierarchical Dirichlet processes",
+   "authors": "P Blunsom, T Cohn, S Goldwater, M Johnson",
+   "venue": "Proceedings of the ACL-IJCNLP 2009 Conference Short Papers, 337-340",
+   "year": "2009"
+  },
+  {
+   "title": "Representational bias in unsupervised learning of syllable structure",
+   "authors": "S Goldwater, M Johnson",
+   "venue": "Proceedings of the Ninth Conference on Computational Natural Language …",
+   "year": "2005"
+  },
+  {
+   "title": "Multilingual acoustic word embedding models for processing zero-resource languages",
+   "authors": "H Kamper, Y Matusevych, S Goldwater",
+   "venue": "ICASSP 2020-2020 IEEE international conference on acoustics, speech and …",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluating historical text normalization systems: How well do they generalize?",
+   "authors": "A Robertson, S Goldwater",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Multilingual and unsupervised subword modeling for zero-resource languages",
+   "authors": "E Hermann, H Kamper, S Goldwater",
+   "venue": "Computer Speech & Language 65, 101098",
+   "year": "2021"
+  },
+  {
+   "title": "From segmentation to analyses: a probabilistic model for unsupervised morphology induction",
+   "authors": "T Bergmanis, S Goldwater",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "Unsupervised dependency parsing with acoustic cues",
+   "authors": "JK Pate, S Goldwater",
+   "venue": "Transactions of the Association for Computational Linguistics 1, 63-74",
+   "year": "2013"
+  },
+  {
+   "title": "Unsupervised syntactic chunking with acoustic cues: computational models for prosodic bootstrapping",
+   "authors": "JK Pate, S Goldwater",
+   "venue": "Proceedings of the 2nd workshop on cognitive modeling and computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Distributional cues to word boundaries: Context is important",
+   "authors": "S Goldwater, TL Griffiths, M Johnson",
+   "venue": "Proceedings of the 31st annual Boston University conference on language …",
+   "year": "2007"
+  },
+  {
+   "title": "Topic and audience effects on distinctively Scottish vocabulary usage in Twitter data",
+   "authors": "P Shoemark, J Kirby, S Goldwater",
+   "venue": "Proceedings of the workshop on stylistic variation, 59-68",
+   "year": "2017"
+  },
+  {
+   "title": "Weak semantic context helps phonetic learning in a model of infant language acquisition",
+   "authors": "S Frank, N Feldman, S Goldwater",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Evaluating computational models of infant phonetic learning across languages",
+   "authors": "Y Matusevych, T Schatz, H Kamper, NH Feldman, S Goldwater",
+   "venue": "arXiv preprint arXiv:2008.02888",
+   "year": "2020"
+  },
+  {
+   "title": "Multilingual bottleneck features for subword modeling in zero-resource languages",
+   "authors": "E Hermann, S Goldwater",
+   "venue": "arXiv preprint arXiv:1803.08863",
+   "year": "2018"
+  },
+  {
+   "title": "Towards robust cross-linguistic comparisons of phonological networks",
+   "authors": "P Shoemark, S Goldwater, J Kirby, R Sarkar",
+   "venue": "Proceedings of the 14th SIGMORPHON Workshop on Computational Research in …",
+   "year": "2016"
+  },
+  {
+   "title": "Evaluating models of syntactic category acquisition without using a gold standard",
+   "authors": "S Frank, S Goldwater, F Keller",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models",
+   "authors": "Y Matusevych, T Schatz, H Kamper, NH Feldman, S Goldwater",
+   "venue": "Cognitive Science 47 (7), e13314",
+   "year": "2023"
+  },
+  {
+   "title": "Unsupervised extraction of recurring words from infant-directed speech",
+   "authors": "F McInnes, S Goldwater",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "Beyond transitional probabilities: Human learners impose a parsimony bias in statistical word segmentation",
+   "authors": "M Frank, H Tily, I Arnon, S Goldwater",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "Compiling language models from a linguistically motivated unification grammar",
+   "authors": "M Rayner, BA Hockey, F James, EO Bratt, S Goldwater, JM Gawron",
+   "venue": "COLING 2000 Volume 2: The 18th International Conference on Computational …",
+   "year": "2000"
+  },
+  {
+   "title": "Orthogonality and isotropy of speaker and phonetic information in self-supervised speech representations",
+   "authors": "M Mohamed, OD Liu, H Tang, S Goldwater",
+   "venue": "arXiv preprint arXiv:2406.09200",
+   "year": "2024"
+  },
+  {
+   "title": "Interpreting Language in Context in CommandTalk",
+   "authors": "J Dowding, EO Bratt, S Goldwater",
+   "venue": "Proceedings of Communicative Agents Workshop: The Use of Natural Language in …",
+   "year": "1999"
+  },
+  {
+   "title": "Analyzing autoencoder-based acoustic word embeddings",
+   "authors": "Y Matusevych, H Kamper, S Goldwater",
+   "venue": "arXiv preprint arXiv:2004.01647",
+   "year": "2020"
+  },
+  {
+   "title": "Spoken term discovery for language documentation using translations",
+   "authors": "A Anastasopoulos, S Bansal, D Chiang, S Goldwater, A Lopez",
+   "venue": "Proceedings of the Workshop on Speech-Centric Natural Language Processing, 53-58",
+   "year": "2017"
+  },
+  {
+   "title": "Modeling graph languages with grammars extracted via tree decompositions",
+   "authors": "B Jones, S Goldwater, M Johnson",
+   "venue": "Proceedings of the 11th International Conference on Finite State Methods and …",
+   "year": "2013"
+  },
+  {
+   "title": "Weakly supervised spoken term discovery using cross-lingual side information",
+   "authors": "S Bansal, H Kamper, S Goldwater, A Lopez",
+   "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2017"
+  },
+  {
+   "title": "Cross-linguistically consistent semantic and syntactic annotation of child-directed speech",
+   "authors": "I Szubert, O Abend, N Schneider, S Gibbon, L Mahon, S Goldwater, ...",
+   "venue": "Language Resources and Evaluation 59 (2), 727-776",
+   "year": "2025"
+  },
+  {
+   "title": "How ideal are we? Incorporating human limitations into Bayesian models of word segmentation",
+   "authors": "L Pearl, S Goldwater, M Steyvers",
+   "venue": "Proceedings of the 34th annual Boston University conference on child …",
+   "year": "2010"
+  },
+  {
+   "title": "Data augmentation for context-sensitive neural lemmatization using inflection tables and raw text",
+   "authors": "T Bergmanis, S Goldwater",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "A phonetic model of non-native spoken word processing",
+   "authors": "Y Matusevych, H Kamper, T Schatz, N Feldman, S Goldwater",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Conditioning, but on which distribution? Grammatical gender in German plural inflection",
+   "authors": "K McCurdy, A Lopez, S Goldwater",
+   "venue": "Proceedings of the workshop on cognitive modeling and computational …",
+   "year": "2020"
+  },
+  {
+   "title": "The role of context in neural pitch accent detection in English",
+   "authors": "E Nielsen, M Steedman, S Goldwater",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Inducing a lexicon of sociolinguistic variables from code-mixed text",
+   "authors": "P Shoemark, J Kirby, S Goldwater",
+   "venue": "Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User …",
+   "year": "2018"
+  },
+  {
+   "title": "Turning the pipeline into a loop: Iterated unsupervised dependency parsing and PoS induction",
+   "authors": "C Christodoulopoulos, S Goldwater, M Steedman",
+   "venue": "Proceedings of the NAACL-HLT Workshop on the Induction of Linguistic …",
+   "year": "2012"
+  },
+  {
+   "title": "Revisiting common assumptions about Arabic dialects in NLP",
+   "authors": "A Keleg, S Goldwater, W Magdy",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "On the difficulty of segmenting words with attention",
+   "authors": "R Sanabria, H Tang, S Goldwater",
+   "venue": "Proceedings of the Second Workshop on Insights from Negative Results in NLP …",
+   "year": "2021"
+  },
+  {
+   "title": "Adding sentence types to a model of syntactic category acquisition",
+   "authors": "S Frank, S Goldwater, F Keller",
+   "venue": "Topics in cognitive science 5 (3), 495-521",
+   "year": "2013"
+  },
+  {
+   "title": "Predictability effects in adult-directed and infant-directed speech: Does the listener matter?",
+   "authors": "J Pate, S Goldwater",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "Input matters in the modeling of early phonetic learning",
+   "authors": "R Li, T Schatz, Y Matusevych, S Goldwater, NH Feldman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 42",
+   "year": "2020"
+  },
+  {
+   "title": "Exploring the utility of joint morphological and syntactic learning from child-directed speech",
+   "authors": "S Frank, F Keller, S Goldwater",
+   "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Modeling human performance on statistical word segmentation tasks",
+   "authors": "MC Frank, S Goldwater, V Mansinghka, TL Griffiths, JB Tenenbaum",
+   "venue": "Proceedings of the 29th annual conference of the cognitive science society",
+   "year": "2007"
+  },
+  {
+   "title": "Building a robust dialogue system with limited data",
+   "authors": "S Goldwater, EO Bratt, JM Gawron, J Dowding",
+   "venue": "ANLP-NAACL 2000 Workshop: Conversational Systems",
+   "year": "2000"
+  },
+  {
+   "title": "Quantum cryptography and privacy amplification",
+   "authors": "S Goldwater",
+   "venue": "SRI International",
+   "year": "1996"
+  },
+  {
+   "title": "Effective context in neural speech models",
+   "authors": "Y Meng, S Goldwater, H Tang",
+   "venue": "arXiv preprint arXiv:2505.22487",
+   "year": "2025"
+  },
+  {
+   "title": "POS induction with distributional and morphological information using a distance-dependent Chinese restaurant process",
+   "authors": "K Sirts, J Eisenstein, M Elsner, S Goldwater",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Estimating the level of dialectness predicts inter-annotator agreement in multi-dialect Arabic datasets",
+   "authors": "A Keleg, W Magdy, S Goldwater",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Computational grammar acquisition from childes data using a probabilistic parsing model",
+   "authors": "T Kwiatkowski, S Goldwater, M Steedman",
+   "venue": "Psychocomputational Models of Human Language Acquisition (PsychoCompLA 2009)",
+   "year": "2009"
+  },
+  {
+   "title": "The cross-linguistic role of animacy in grammar structures",
+   "authors": "N Gregorio, M Gay, S Goldwater, EM Ponti",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech",
+   "authors": "OD Liu, H Tang, N Feldman, S Goldwater",
+   "venue": "arXiv preprint arXiv:2405.08237",
+   "year": "2024"
+  },
+  {
+   "title": "Corpus-based measures discriminate inflection and derivation cross-linguistically",
+   "authors": "C Haley, EM Ponti, S Goldwater",
+   "venue": "Journal of Language Modelling 12 (2), 477-529",
+   "year": "2024"
+  },
+  {
+   "title": "Adaptor Grammars for unsupervised paradigm clustering",
+   "authors": "K McCurdy, S Goldwater, A Lopez",
+   "venue": "Proceedings of the 18th SIGMORPHON Workshop on Computational Research in …",
+   "year": "2021"
+  },
+  {
+   "title": "Formalizing semantic parsing with tree transducers",
+   "authors": "B Jones, M Johnson, S Goldwater",
+   "venue": "Proceedings of the Australasian Language Technology Association Workshop …",
+   "year": "2011"
+  },
+  {
+   "title": "Analyzing the relationships between pretraining language, phonetic, tonal, and speaker information in self-supervised speech models",
+   "authors": "M Gubian, I Krehan, O Liu, J Kirby, S Goldwater",
+   "venue": "arXiv preprint arXiv:2506.10855",
+   "year": "2025"
+  },
+  {
+   "title": "A grounded typology of word classes",
+   "authors": "C Haley, S Goldwater, EM Ponti",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Self-supervised speech representations display some human-like cross-linguistic perceptual abilities",
+   "authors": "J Rodriguez, K Sreepada, RL Famularo, S Goldwater, N Feldman",
+   "venue": "Proceedings of the 28th Conference on Computational Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Acoustic word embeddings for untranscribed target languages with continued pretraining and learned pooling",
+   "authors": "R Sanabria, O Klejch, H Tang, S Goldwater",
+   "venue": "arXiv preprint arXiv:2306.02153",
+   "year": "2023"
+  },
+  {
+   "title": "Identity signals in Emoji do not influence perception of factual truth on Twitter",
+   "authors": "A Robertson, W Magdy, S Goldwater",
+   "venue": "arXiv preprint arXiv:2105.03160",
+   "year": "2021"
+  },
+  {
+   "title": "Which words are hard to recognize? lexical, prosodic, and disfluency factors that increase asr error rates",
+   "authors": "S Goldwater, D Jurafsky, C Manning",
+   "venue": "Proceedings of ACL/HLT",
+   "year": "2008"
+  },
+  {
+   "title": "Cross-lingual topic prediction for speech using translations",
+   "authors": "S Bansal, H Kamper, A Lopez, S Goldwater",
+   "venue": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2020"
+  },
+  {
+   "title": "Training data augmentation for context-sensitive neural lemmatization using inflection tables and raw text",
+   "authors": "T Bergmanis, S Goldwater",
+   "venue": "arXiv preprint arXiv:1904.01464",
+   "year": "2019"
+  },
+  {
+   "title": "Unsupervised NLP and human language acquisition: making connections to make progress",
+   "authors": "S Goldwater",
+   "venue": "Proceedings of the First workshop on Unsupervised Learning in NLP, 1-1",
+   "year": "2011"
+  },
+  {
+   "title": "Proceedings of the Fifteenth Conference on Computational Natural Language Learning",
+   "authors": "S Goldwater, CD Manning",
+   "venue": "Proceedings of the Fifteenth Conference on Computational Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "A framework for analyzing concept representations in neural models",
+   "authors": "B Naowarat, H Tang, S Goldwater",
+   "venue": "Proceedings of the 30th Conference on Computational Natural Language …",
+   "year": "2026"
+  },
+  {
+   "title": "Brain-like dynamics in speech representations can emerge through self-supervised learning",
+   "authors": "OD Liu, H Tang, NH Feldman, S Goldwater",
+   "venue": "bioRxiv, 2026.01. 16.700011",
+   "year": "2026"
+  },
+  {
+   "title": "Prosodic features improve sentence segmentation and parsing in english",
+   "authors": "E Nielsen, M Steedman, S Goldwater",
+   "venue": "Interspeech 2023, 2633-2637",
+   "year": "2023"
+  },
+  {
+   "title": "Language-Agnostic Measures Discriminate Inflection and Derivation",
+   "authors": "C Haley, EM Ponti, S Goldwater",
+   "venue": "Proceedings of the 5th Workshop on Research in Computational Linguistic …",
+   "year": "2023"
+  },
+  {
+   "title": "Prosodic features improve sentence segmentation and parsing",
+   "authors": "E Nielsen, S Goldwater, M Steedman",
+   "venue": "arXiv preprint arXiv:2302.12165",
+   "year": "2023"
+  },
+  {
+   "title": "Parsing dialog turns with prosodic features in English",
+   "authors": "E Nielsen, M Steedman, S Goldwater",
+   "venue": "Proc. Interspeech 2023, 2633-2637",
+   "year": "2023"
+  },
+  {
+   "title": "Universal Dependencies and Semantics for English and Hebrew Child-directed Speech",
+   "authors": "I Szubert, O Abend, N Schneider, S Gibbon, S Goldwater, M Steedman",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2022, 235-240",
+   "year": "2022"
+  },
+  {
+   "title": "[RETRACTED] Prosodic segmentation for parsing spoken dialogue",
+   "authors": "E Nielsen, M Steedman, S Goldwater",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Using sentence type information for syntactic category acquisition",
+   "authors": "S Frank, S Goldwater, F Keller",
+   "venue": "Proceedings of the 2010 Workshop on Cognitive Modeling and Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "In-Context Adaptation of Encoder-Decoder Models in Speech Recognition",
+   "authors": "Y Meng, S Goldwater, H Tang",
+   "venue": "arXiv preprint arXiv:2609.33865",
+   "year": "2026"
+  },
+  {
+   "title": "Measuring the Effects of Visual Salience in Human and AI Descriptions with Image Editing",
+   "authors": "N Gregorio, EM Ponti, S Goldwater",
+   "venue": "Proceedings of the 30th Conference on Computational Natural Language …",
+   "year": "2026"
+  },
+  {
+   "title": "When transformers learn “impossible” languages, what do they learn?",
+   "authors": "R Janarthan, C Haley, S Goldwater",
+   "venue": "Proceedings of the 30th Conference on Computational Natural Language …",
+   "year": "2026"
+  },
+  {
+   "title": "Most German Speakers Ignore the Cue That Best Predicts Plural Class",
+   "authors": "K McCurdy, TJ O’Donnell, A Lopez, S Goldwater",
+   "venue": "Open Mind 9, 2175-2204",
+   "year": "2025"
+  },
+  {
+   "title": "Visual groundedness as an organizing principle for word class: Evidence from Japanese",
+   "authors": "C Haley, S Goldwater, E Ponti",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2025, 382-384",
+   "year": "2025"
+  },
+  {
+   "title": "Correction: Cross-linguistically consistent semantic and syntactic annotation of child-directed speech",
+   "authors": "I Szubert, O Abend, N Schneider, S Gibbon, L Mahon, S Goldwater, ...",
+   "venue": "Language Resources and Evaluation 59 (2), 777-778",
+   "year": "2025"
+  },
+  {
+   "title": "Regularization or lexical probability-matching? How German speakers generalize plural",
+   "authors": "K McCurdy, S Goldwater, A Lopez",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Regularization or lexical probability-matching? How German speakers generalize plural morphology",
+   "authors": "K McCurdy, S Goldwater, A Lopez",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "LemMED: Fast and Effective Neural Morphological Analysis with Short Context Windows",
+   "authors": "A Makazhanov, S Goldwater, A Lopez",
+   "venue": "arXiv preprint arXiv:2010.10921",
+   "year": "2020"
+  },
+  {
+   "title": "Modeling grammatical gender and plural inflection in German",
+   "authors": "K McCurdy, A Lopez, S Goldwater",
+   "venue": "26th Architectures and Mechanisms for Language Processing Conference",
+   "year": "2020"
+  },
+  {
+   "title": "Classifying topics in speech when all you have is crummy translations.",
+   "authors": "S Bansal, H Kamper, A Lopez, S Goldwater",
+   "venue": "CoRR",
+   "year": "2019"
+  },
+  {
+   "title": "ANLP Lecture 21 Distributional Semantics",
+   "authors": "S Goldwater",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, volume 2: Short Papers",
+   "authors": "S Wintner, S Riezler, S Goldwater",
+   "venue": "Proceedings of the 14th Conference of the European Chapter of the …",
+   "year": "2014"
+  },
+  {
+   "title": "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics",
+   "authors": "S Wintner, S Goldwater, S Riezler",
+   "venue": "Proceedings of the 14th Conference of the European Chapter of the …",
+   "year": "2014"
+  },
+  {
+   "title": "Cues to word segmentation",
+   "authors": "S Goldwater",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Computational Cognitive Science",
+   "authors": "S Goldwater",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Computational Modeling of Human Language Acquisition",
+   "authors": "S Goldwater",
+   "venue": "COMPUTATIONAL LINGUISTICS 37 (3), 627-629",
+   "year": "2011"
+  },
+  {
+   "title": "Improving morphology induction by learning spelling rules",
+   "authors": "S Goldwater, J Naradowski",
+   "venue": "International Joint Conference on Artificial Intelligence, 1-6",
+   "year": "2009"
+  },
+  {
+   "title": "Modeling human performance on statistical word segmentation tasks",
+   "authors": "MC Frank, S Goldwater, V Mansinghka, TL Griffiths, JB Tenenbaum",
+   "venue": "Proceedings of the 29th Annual Conference of the Cognitive Science Society",
+   "year": "2007"
+  },
+  {
+   "title": "Corpus-Based Optimization of Language Models Derived from Unification Grammars",
+   "authors": "M Rayner, BA Hockey, F James, H Bratt, EO Bratt, M Gawron, S Goldwater, ...",
+   "venue": "RIACS",
+   "year": "2000"
+  },
+  {
+   "title": "Edge-Based Best-First Chart Parsing",
+   "authors": "S Goldwater",
+   "venue": "Brown University",
+   "year": "1998"
+  },
+  {
+   "title": "ANLP Week 9/Unit 3 Syntax/Semantics interface (Semantic analysis)",
+   "authors": "S Goldwater",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ANLP Week 9/Unit 1 Corpus data: legal and ethical issues",
+   "authors": "S Goldwater",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Modeling early phonetic learning: The effect of input size and speaker distribution",
+   "authors": "R Li, T Schatz, Y Matusevych, S Goldwater, NH Feldman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Modeling early phonetic development as representation learning",
+   "authors": "Y Matusevych, T Schatz, NH Feldman, S Goldwater",
+   "venue": "SPPL2020: 2nd Workshop on Speech Perception and Production across the …",
+   "year": null
+  },
+  {
+   "title": "Foundational Models of Language I",
+   "authors": "S Goldwater",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Primary Reviewers The list of all reviewers for NAACL HLT 2015. The area chairs also picked the best reviewers in their track. These best reviewers are marked with an asterisk …",
+   "authors": "S Eetemadi, M Egg, K Eguchi, P Ehlen, A Eisele, J Eisenstein, J Eisner, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Statically Finding Errors in Spreadsheets",
+   "authors": "Y Ahmad, T Antoniu, S Goldwater, S Krishnamurthi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning Syntax Using Prosody",
+   "authors": "J Pate, S Goldwater",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Computational Cognitive Science (2010-2011)",
+   "authors": "S Goldwater, J Pate, B Webber",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Online Learning Mechanisms for Bayesian Models of Word Segmentation",
+   "authors": "S Goldwater, L Pearl, M Steyvers",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "user": "as5iYn4AAAAJ",
+ "pubs": [
+  {
+   "title": "Synchromesh: Reliable code generation from pre-trained language models",
+   "authors": "G Poesia, O Polozov, V Le, A Tiwari, G Soares, C Meek, S Gulwani",
+   "venue": "ICLR 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Hypothesis search: Inductive reasoning with language models",
+   "authors": "R Wang, E Zelikman, G Poesia, Y Pu, N Haber, ND Goodman",
+   "venue": "ICLR 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Solving math word problems by combining language models with symbolic solvers",
+   "authors": "J He-Yueya, G Poesia, RE Wang, ND Goodman",
+   "venue": "NeurIPS MATH-AI Workshop",
+   "year": "2023"
+  },
+  {
+   "title": "Formal mathematical reasoning: A new frontier in ai",
+   "authors": "K Yang, G Poesia, J He, W Li, K Lauter, S Chaudhuri, D Song",
+   "venue": "arXiv preprint arXiv:2412.16075",
+   "year": "2024"
+  },
+  {
+   "title": "Parsel🐍: Algorithmic Reasoning with Language Models by Composing Decompositions",
+   "authors": "E Zelikman, Q Huang, G Poesia, N Goodman, N Haber",
+   "venue": "Advances in Neural Information Processing Systems 36, 31466-31523",
+   "year": "2023"
+  },
+  {
+   "title": "Learning Formal Mathematics From Intrinsic Motivation",
+   "authors": "G Poesia, D Broman, N Haber, ND Goodman",
+   "venue": "NeurIPS",
+   "year": "2024"
+  },
+  {
+   "title": "Certified deductive reasoning with language models",
+   "authors": "G Poesia, K Gandhi, E Zelikman, ND Goodman",
+   "venue": "Transactions on Machine Learning Research, 2024",
+   "year": "2023"
+  },
+  {
+   "title": "Peano: learning formal mathematical reasoning",
+   "authors": "G Poesia, ND Goodman",
+   "venue": "Philosophical transactions. Series A, Mathematical, physical, and …",
+   "year": "2023"
+  },
+  {
+   "title": "Open-domain clarification question generation without question examples",
+   "authors": "J White, G Poesia, R Hawkins, D Sadigh, N Goodman",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "h4rm3l: A language for composable jailbreak attack synthesis",
+   "authors": "MKB Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, F Bianchi, ...",
+   "venue": "International Conference on Learning Representations 2025, 57253-57286",
+   "year": "2025"
+  },
+  {
+   "title": "Contrastive reinforcement learning of symbolic reasoning domains",
+   "authors": "G Poesia, WX Dong, N Goodman",
+   "venue": "Advances in neural information processing systems 34, 15946-15956",
+   "year": "2021"
+  },
+  {
+   "title": "h4rm3l: A dynamic benchmark of composable jailbreak attacks for llm safety assessment",
+   "authors": "MKB Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, F Bianchi, ...",
+   "venue": "arXiv preprint arXiv:2408.04811",
+   "year": "2024"
+  },
+  {
+   "title": "Static placement of computation on heterogeneous devices",
+   "authors": "G Poesia, B Guimarães, F Ferracioli, FMQ Pereira",
+   "venue": "Proceedings of the ACM on Programming Languages 1 (OOPSLA), 1-28",
+   "year": "2017"
+  },
+  {
+   "title": "Position: Formal mathematical reasoning—a new frontier in AI",
+   "authors": "K Yang, G Poesia, J He, W Li, KE Lauter, S Chaudhuri, D Song",
+   "venue": "Forty-second International Conference on Machine Learning Position Paper Track",
+   "year": "2025"
+  },
+  {
+   "title": "Formal mathematical reasoning: A new frontier in ai, 2024",
+   "authors": "K Yang, G Poesia, J He, W Li, K Lauter, S Chaudhuri, D Song",
+   "venue": "URL https://arxiv. org/abs/2412.16075",
+   "year": "2024"
+  },
+  {
+   "title": "dafny-annotator: Ai-assisted verification of dafny programs",
+   "authors": "G Poesia, C Loughridge, N Amin",
+   "venue": "arXiv preprint arXiv:2411.15143",
+   "year": "2024"
+  },
+  {
+   "title": "Data for mathematical copilots: Better ways of presenting proofs for machine learning",
+   "authors": "S Frieder, J Bayer, S Looi, J Loader, J Berner, KM Collins, A Juhász, ...",
+   "venue": "arXiv preprint arXiv:2412.15184",
+   "year": "2024"
+  },
+  {
+   "title": "Dynamic dispatch of context-sensitive optimizations",
+   "authors": "G Poesia, FMQ Pereira",
+   "venue": "Proceedings of the ACM on Programming Languages 4 (OOPSLA), 1-28",
+   "year": "2020"
+  },
+  {
+   "title": "Lemma: Bootstrapping high-level mathematical reasoning with learned symbolic abstractions",
+   "authors": "Z Li, G Poesia, O Costilla-Reyes, N Goodman, A Solar-Lezama",
+   "venue": "NeurIPS MATH-AI Workshop",
+   "year": "2022"
+  },
+  {
+   "title": "Mathcamps: Fine-grained synthesis of mathematical problems from human curricula",
+   "authors": "S Mishra, G Poesia, B Mo, N Goodman",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Formal reasoning meets llms: Toward ai for mathematics and verification",
+   "authors": "K Yang, G Poesia, J He, W Li, K Lauter, S Chaudhuri, D Song",
+   "venue": "Communications of the ACM 69 (3), 66-73",
+   "year": "2026"
+  },
+  {
+   "title": "Proofcompass: Enhancing specialized provers with llm guidance",
+   "authors": "N Wischermann, CM Verdun, G Poesia, F Noseda",
+   "venue": "arXiv preprint arXiv:2507.14335",
+   "year": "2025"
+  },
+  {
+   "title": "Can visual scratchpads with diagrammatic abstractions augment llm reasoning?",
+   "authors": "J Hsu, G Poesia, J Wu, N Goodman",
+   "venue": "Proceedings on, 21-28",
+   "year": "2023"
+  },
+  {
+   "title": "Pragmatic code autocomplete",
+   "authors": "G Poesia, N Goodman",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (1), 445-452",
+   "year": "2021"
+  },
+  {
+   "title": "A Matter of Interest: Understanding Interestingness of Math Problems in Humans and Language Models",
+   "authors": "S Mishra, Y Machino, G Poesia, A Jiang, J Hsu, A Weller, C Mishra, ...",
+   "venue": "arXiv preprint arXiv:2511.08548",
+   "year": "2025"
+  },
+  {
+   "title": "Code-enabled language models can outperform reasoning models on diverse tasks",
+   "authors": "CE Zhang, C Colas, G Poesia, JB Tenenbaum, J Andreas",
+   "venue": "arXiv preprint arXiv:2510.20909",
+   "year": "2025"
+  },
+  {
+   "title": "From next-token to mathematics: The learning dynamics of mathematical reasoning in language models",
+   "authors": "S Mishra, G Poesia, ND Goodman",
+   "venue": "arXiv preprint arXiv:2407.00900",
+   "year": "2024"
+  },
+  {
+   "title": "A Lossless Data Reduction for Mining Constrained Patterns in n-ary Relations",
+   "authors": "G Poesia, L Cerf",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2014"
+  },
+  {
+   "title": "Learning to Rank the Initial Branching Order of SAT Solvers",
+   "authors": "A Eriksson, G Poesia, R Bresson, KH Johansson, D Broman",
+   "venue": "arXiv preprint arXiv:2603.07176",
+   "year": "2026"
+  },
+  {
+   "title": "Automated Discovery of Tactic Libraries for Interactive Theorem Proving",
+   "authors": "Y Xin, J Xin, G Poesia, ND Goodman, Q Chen, I Dillig",
+   "venue": "Proceedings of the ACM on Programming Languages 9 (OOPSLA2), 1974-2001",
+   "year": "2025"
+  },
+  {
+   "title": "When Do Skills Help Reinforcement Learning? A Theoretical Analysis of Temporal Abstractions",
+   "authors": "Z Li, G Poesia, A Solar-Lezama",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Formal Disco: Scalable Open-Ended Generation of Formally Verified Programs",
+   "authors": "G Poesia, S Henniger, TH Hsu, Y Du, N Amin",
+   "venue": "arXiv preprint arXiv:2607.04631",
+   "year": "2026"
+  },
+  {
+   "title": "The Token Games: Evaluating Language Model Reasoning with Puzzle Duels",
+   "authors": "S Henniger, G Poesia",
+   "venue": "arXiv preprint arXiv:2602.17831",
+   "year": "2026"
+  },
+  {
+   "title": "Programmatic Representation Learning with Language Models",
+   "authors": "G Poesia, GG Sampaio",
+   "venue": "arXiv preprint arXiv:2510.14825",
+   "year": "2025"
+  },
+  {
+   "title": "h4rm3l: A language for Composable Jailbreak Attack Synthesis",
+   "authors": "M Koulako Bala Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, ...",
+   "venue": "arXiv e-prints, arXiv: 2408.04811",
+   "year": "2024"
+  },
+  {
+   "title": "Neuro-Symbolic Discovery Systems: Conjectures, Proofs and Abstractions",
+   "authors": "G Poesia",
+   "venue": "2026 Joint Mathematics Meetings (JMM 2026)",
+   "year": null
+  },
+  {
+   "title": "Left to the Reader: Abstracting Solutions in Mathematical Reasoning",
+   "authors": "G Poesia, ND Goodman",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

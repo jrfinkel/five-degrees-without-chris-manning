@@ -1,0 +1,443 @@
+{
+ "user": "q77J4fgAAAAJ",
+ "pubs": [
+  {
+   "title": "Direct preference optimization: Your language model is secretly a reward model",
+   "authors": "R Rafailov, A Sharma, E Mitchell, S Ermon, CD Manning, C Finn",
+   "venue": "Neural Information Processing Systems (NeurIPS)",
+   "year": "2023"
+  },
+  {
+   "title": "Openai o1 system card",
+   "authors": "A Jaech, A Kalai, A Lerer, A Richardson, A El-Kishky, A Low, A Helyar, ...",
+   "venue": "arXiv preprint arXiv:2412.16720",
+   "year": "2024"
+  },
+  {
+   "title": "Detectgpt: Zero-shot machine-generated text detection using probability curvature",
+   "authors": "E Mitchell, Y Lee, A Khazatsky, CD Manning, C Finn",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2023"
+  },
+  {
+   "title": "Just ask for calibration: Strategies for eliciting calibrated confidence scores from language models fine-tuned with human feedback",
+   "authors": "K Tian, E Mitchell, A Zhou, A Sharma, R Rafailov, H Yao, C Finn, ...",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2023"
+  },
+  {
+   "title": "Openai gpt-5 system card",
+   "authors": "A Singh, A Fry, A Perelman, A Tart, A Ganesh, A El-Kishky, A McLaughlin, ...",
+   "venue": "arXiv preprint arXiv:2601.03267",
+   "year": "2025"
+  },
+  {
+   "title": "Fast model editing at scale",
+   "authors": "E Mitchell, C Lin, A Bosselut, C Finn, CD Manning",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2021"
+  },
+  {
+   "title": "Neuronal wiring diagram of an adult brain",
+   "authors": "S Dorkenwald, A Matsliah, AR Sterling, P Schlegel, SC Yu, CE McKellar, ...",
+   "venue": "Nature 634 (8032), 124-138",
+   "year": "2024"
+  },
+  {
+   "title": "Memory-Based Model Editing at Scale",
+   "authors": "E Mitchell, C Lin, A Bosselut, CD Manning, C Finn",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2022"
+  },
+  {
+   "title": "Functional connectomics spanning multiple areas of mouse visual cortex",
+   "authors": "",
+   "venue": "Nature 640 (8058), 435-447",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "Fine-tuning language models for factuality",
+   "authors": "K Tian, E Mitchell, H Yao, C Manning, C Finn",
+   "venue": "International Conference on Learning Representations 2024, 44851-44866",
+   "year": "2024"
+  },
+  {
+   "title": "FlyWire: online community for whole-brain connectomics",
+   "authors": "S Dorkenwald, CE McKellar, T Macrina, N Kemnitz, K Lee, R Lu, J Wu, ...",
+   "venue": "Nature methods 19 (1), 119-128",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Learning language-conditioned robot behavior from offline data and crowd-sourced annotation",
+   "authors": "S Nair, E Mitchell, K Chen, S Savarese, C Finn",
+   "venue": "Conference on Robot Learning, 1303-1315",
+   "year": "2022"
+  },
+  {
+   "title": "Identifying and mitigating the security risks of generative ai",
+   "authors": "C Barrett, B Boyd, E Bursztein, N Carlini, B Chen, J Choi, AR Chowdhury, ...",
+   "venue": "Foundations and Trends® in Privacy and Security 6 (1), 1-52",
+   "year": "2023"
+  },
+  {
+   "title": "Offline Meta-Reinforcement Learning with Advantage Weighting",
+   "authors": "E Mitchell, R Rafailov, XB Peng, S Levine, C Finn",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2021"
+  },
+  {
+   "title": "Functional connectomics reveals general wiring rule in mouse visual cortex",
+   "authors": "Z Ding, PG Fahey, S Papadopoulos, EY Wang, B Celii, C Papadopoulos, ...",
+   "venue": "Nature 640 (8058), 459-469",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Calibrating language models with adaptive temperature scaling",
+   "authors": "J Xie, AS Chen, Y Lee, E Mitchell, C Finn",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "CAVE: Connectome annotation versioning engine",
+   "authors": "S Dorkenwald, CM Schneider-Mizell, D Brittain, A Halageri, C Jordan, ...",
+   "venue": "Nature methods 22 (5), 1112-1120",
+   "year": "2025"
+  },
+  {
+   "title": "Self-destructing models: Increasing the costs of harmful dual uses of foundation models",
+   "authors": "P Henderson, E Mitchell, C Manning, D Jurafsky, C Finn",
+   "venue": "Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society, 287-296",
+   "year": "2023"
+  },
+  {
+   "title": "An emulator for fine-tuning large language models using small language models",
+   "authors": "E Mitchell, R Rafailov, A Sharma, C Finn, CD Manning",
+   "venue": "arXiv preprint arXiv:2310.12962",
+   "year": "2023"
+  },
+  {
+   "title": "Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference",
+   "authors": "E Mitchell, JJ Noh, S Li, WS Armstrong, A Agarwal, P Liu, C Finn, ...",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2022"
+  },
+  {
+   "title": "Inhibitory specificity from a connectomic census of mouse visual cortex",
+   "authors": "CM Schneider-Mizell, AL Bodor, D Brittain, JA Buchanan, DJ Bumbarger, ...",
+   "venue": "Nature 640 (8058), 448-458",
+   "year": "2025"
+  },
+  {
+   "title": "Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex",
+   "authors": "CM Schneider-Mizell, AL Bodor, D Brittain, JA Buchanan, DJ Bumbarger, ...",
+   "venue": "bioRxiv, 2023.01. 23.525290",
+   "year": "2024"
+  },
+  {
+   "title": "Petascale neural circuit reconstruction: automated methods",
+   "authors": "T Macrina, K Lee, R Lu, NL Turner, J Wu, S Popovych, W Silversmith, ...",
+   "venue": "BioRxiv, 2021.08. 04.455162",
+   "year": "2021"
+  },
+  {
+   "title": "Meta-Learning Online Adaptation of Language Models",
+   "authors": "N Hu, E Mitchell, CD Manning, C Finn",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2023"
+  },
+  {
+   "title": "A critical evaluation of ai feedback for aligning large language models",
+   "authors": "A Sharma, S Keh, E Mitchell, C Finn, K Arora, T Kollar",
+   "venue": "Advances in Neural Information Processing Systems 37, 29166-29190",
+   "year": "2024"
+  },
+  {
+   "title": "NEURD offers automated proofreading and feature extraction for connectomics",
+   "authors": "B Celii, S Papadopoulos, Z Ding, PG Fahey, E Wang, C Papadopoulos, ...",
+   "venue": "Nature 640 (8058), 487-496",
+   "year": "2025"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Online adaptation of language models with a memory of amortized contexts",
+   "authors": "J Tack, J Kim, E Mitchell, J Shin, YW Teh, JR Schwarz",
+   "venue": "Advances in Neural Information Processing Systems 37, 130109-130135",
+   "year": "2024"
+  },
+  {
+   "title": "Petascale pipeline for precise alignment of images from serial section electron microscopy",
+   "authors": "S Popovych, T Macrina, N Kemnitz, M Castro, B Nehoran, Z Jia, JA Bae, ...",
+   "venue": "Nature communications 15 (1), 289",
+   "year": "2024"
+  },
+  {
+   "title": "Q-Learning for Continuous Actions with Cross-Entropy Guided Policies",
+   "authors": "R Simmons-Edler, B Eisner, E Mitchell, S Seung, D Lee",
+   "venue": "RL for Real Life Workshop, International Conference on Machine Learning",
+   "year": "2019"
+  },
+  {
+   "title": "An unsupervised map of excitatory neuron dendritic morphology in the mouse visual cortex",
+   "authors": "MA Weis, S Papadopoulos, L Hansel, T Lüddecke, B Celii, PG Fahey, ...",
+   "venue": "Nature Communications 16 (1), 3361",
+   "year": "2025"
+  },
+  {
+   "title": "Fspo: Few-shot preference optimization of synthetic preference data in llms elicits effective personalization to real users",
+   "authors": "A Singh, S Hsu, K Hsu, E Mitchell, S Ermon, T Hashimoto, A Sharma, ...",
+   "venue": "arXiv preprint arXiv:2502.19312",
+   "year": "2025"
+  },
+  {
+   "title": "A note on DPO with noisy preferences & relationship to IPO",
+   "authors": "E Mitchell",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Connectomics of predicted Sst transcriptomic types in mouse visual cortex",
+   "authors": "CR Gamlin, CM Schneider-Mizell, M Mallory, L Elabbady, N Gouwens, ...",
+   "venue": "Nature 640 (8058), 497-505",
+   "year": "2025"
+  },
+  {
+   "title": "Language model detectors are easily optimized against",
+   "authors": "C Nicks, E Mitchell, R Rafailov, A Sharma, C Manning, C Finn, S Ermon",
+   "venue": "International Conference on Learning Representations 2024, 7807-7826",
+   "year": "2024"
+  },
+  {
+   "title": "Perisomatic ultrastructure efficiently classifies cells in mouse cortex",
+   "authors": "L Elabbady, S Seshamani, S Mu, G Mahalingam, CM Schneider-Mizell, ...",
+   "venue": "Nature 640 (8058), 478-486",
+   "year": "2025"
+  },
+  {
+   "title": "Rlvf: Learning from verbal feedback without overgeneralization",
+   "authors": "M Stephan, A Khazatsky, E Mitchell, AS Chen, S Hsu, A Sharma, C Finn",
+   "venue": "arXiv preprint arXiv:2402.10893",
+   "year": "2024"
+  },
+  {
+   "title": "Higher-Order Function Networks for Learning Composable 3D Object Representations",
+   "authors": "E Mitchell, S Engin, V Isler, DD Lee",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2020"
+  },
+  {
+   "title": "RECKONING: Reasoning through Dynamic Knowledge Encoding",
+   "authors": "Z Chen, G Weiss, E Mitchell, A Celikyilmaz, A Bosselut",
+   "venue": "Neural Information Processing Systems (NeurIPS)",
+   "year": "2023"
+  },
+  {
+   "title": "Siamese encoding and alignment by multiscale learning with self-supervision",
+   "authors": "E Mitchell, S Keselj, S Popovych, D Buniatyan, HS Seung",
+   "venue": "arXiv preprint arXiv:1904.02643",
+   "year": "2019"
+  },
+  {
+   "title": "The synaptic architecture of layer 5 thick tufted excitatory neurons in mouse visual cortex",
+   "authors": "AL Bodor, CM Schneider-Mizell, C Zhang, L Elabbady, A Mallen, ...",
+   "venue": "Nature neuroscience 28 (8), 1704-1715",
+   "year": "2025"
+  },
+  {
+   "title": "Reward Prediction Error as an Exploration Objective in Deep RL",
+   "authors": "R Simmons-Edler, B Eisner, D Yang, A Bisulco, E Mitchell, S Seung, ...",
+   "venue": "International Joint Conference on Artificial Intelligence (IJCAI-20)",
+   "year": "2020"
+  },
+  {
+   "title": "Quantitative census of local somatic features in mouse visual cortex",
+   "authors": "L Elabbady, S Seshamani, S Mu, G Mahalingam, C Schneider-Mizell, ...",
+   "venue": "bioRxiv, 2022.07. 20.499976",
+   "year": "2022"
+  },
+  {
+   "title": "Integrating EM and Patch-seq data: Synaptic connectivity and target specificity of predicted Sst transcriptomic types",
+   "authors": "CR Gamlin, CM Schneider-Mizell, M Mallory, L Elabbady, N Gouwens, ...",
+   "venue": "bioRxiv, 2023.03. 22.533857",
+   "year": "2023"
+  },
+  {
+   "title": "Pixels to Plans: Learning Non-Prehensile Manipulation by Imitating a Planner",
+   "authors": "T Tosun, E Mitchell, B Eisner, J Huh, B Lee, D Lee, V Isler, HS Seung, ...",
+   "venue": "International Conference on Intelligent Robots and Systems (IROS)",
+   "year": "2019"
+  },
+  {
+   "title": "The synaptic architecture of layer 5 thick tufted excitatory neurons in the visual cortex of mice",
+   "authors": "AL Bodor, CM Schneider-Mizell, C Zhang, L Elabbady, A Mallen, ...",
+   "venue": "bioRxiv, 2023.10. 18.562531",
+   "year": "2023"
+  },
+  {
+   "title": "NEURD: A mesh decomposition framework for automated proofreading and morphological analysis of neuronal EM reconstructions",
+   "authors": "B Celii, S Papadopoulos, Z Ding, PG Fahey, E Wang, C Papadopoulos, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Challenges of acquiring compositional inductive biases via meta-learning",
+   "authors": "E Mitchell, C Finn, C Manning",
+   "venue": "AAAI Workshop on Meta-Learning and MetaDL Challenge, 138-148",
+   "year": "2021"
+  },
+  {
+   "title": "Test-time alignment via hypothesis reweighting",
+   "authors": "Y Lee, J Williams, H Marklund, A Sharma, E Mitchell, A Singh, C Finn",
+   "venue": "arXiv preprint arXiv:2412.08812",
+   "year": "2024"
+  },
+  {
+   "title": "Higher Order Function Networks for View Planning and Multi-View Reconstruction",
+   "authors": "S Engin, E Mitchell, D Lee, V Isler, DD Lee",
+   "venue": "International Conference on Robotics and Automation (ICRA)",
+   "year": "2020"
+  },
+  {
+   "title": "Perisomatic features enable efficient and dataset wide cell-type classifications across large-scale electron microscopy volumes",
+   "authors": "L Elabbady, S Seshamani, S Mu, G Mahalingam, C Schneider-Mizell, ...",
+   "venue": "bioRxiv",
+   "year": "2022"
+  },
+  {
+   "title": "FSPO: Few-shot preference optimization of synthetic preference data elicits LLM personalization to real users",
+   "authors": "A Singh, S Hsu, K Hsu, E Mitchell, S Ermon, T Hashimoto, A Sharma, ...",
+   "venue": "2nd Workshop on Models of Human Feedback for AI Alignment",
+   "year": "2025"
+  },
+  {
+   "title": "Higher-order function networks for learning composable three-dimensional (3d) object and operating method thereof",
+   "authors": "E Mitchell, S Engin, V Isler, D Lee",
+   "venue": "US Patent App. 16/811,755",
+   "year": "2021"
+  },
+  {
+   "title": "Inference-Time Alignment via Hypothesis Reweighting",
+   "authors": "Y Lee, J Williams, H Marklund, A Sharma, E Mitchell, A Singh, C Finn",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2026"
+  },
+  {
+   "title": "FSPO: Few-Shot Optimization of Synthetic Preferences Personalizes to Real Users",
+   "authors": "A Singh, S Hsu, K Hsu, E Mitchell, S Ermon, T Hashimoto, A Sharma, ...",
+   "venue": "arXiv preprint arXiv:2502.19312",
+   "year": "2025"
+  },
+  {
+   "title": "Method and apparatus for three-dimensional (3d) object and surface reconstruction",
+   "authors": "Z Wang, EA Mitchell, IV Isler, DD Lee",
+   "venue": "US Patent App. 17/177,896",
+   "year": "2021"
+  },
+  {
+   "title": "Geodesic-HOF: 3D Reconstruction Without Cutting Corners",
+   "authors": "Z Wang, EA Mitchell, V Isler, DD Lee",
+   "venue": "AAAI Conference on Artificial Intelligence",
+   "year": "2021"
+  },
+  {
+   "title": "Apparatus for q-learning for continuous actions with cross-entropy guided policies and method thereof",
+   "authors": "R SIMMONS-EDLER, B EISNER, E Mitchell, DD Lee, S Seung",
+   "venue": "US Patent App. 16/749,658",
+   "year": "2020"
+  },
+  {
+   "title": "Author Correction: Inhibitory specificity from a connectomic census of mouse visual cortex",
+   "authors": "CM Schneider-Mizell, AL Bodor, D Brittain, JA Buchanan, DJ Bumbarger, ...",
+   "venue": "Nature 642 (8066)",
+   "year": "2025"
+  },
+  {
+   "title": "Method and apparatus for estimating tool trajectories",
+   "authors": "T Tosun, E Mitchell, B EISNER, J Huh, B LEE, D Lee, V Isler, S Seung, ...",
+   "venue": "US Patent 11,170,526",
+   "year": "2021"
+  },
+  {
+   "title": "Treatment‐Related Adverse Events and Health‐Related Quality of Life Associated With Immune Checkpoint Inhibitor Treatment for Mucosal Head and Neck Squamous Cell Carcinoma: A …",
+   "authors": "ND O'Donnell, EC Ward, LR Wishart, R Perera, C Barrett, KA Edmiston, ...",
+   "venue": "Head & Neck",
+   "year": "2026"
+  },
+  {
+   "title": "FSPO: Few-Shot Optimization of Synthetic Preferences Effectively Personalizes to Real Users",
+   "authors": "A Singh, S Hsu, K Hsu, E Mitchell, S Ermon, T Hashimoto, A Sharma, ...",
+   "venue": "International Conference on Learning Representations 2026, 109496-109524",
+   "year": "2026"
+  },
+  {
+   "title": "Inhibitory specificity from a connectomic census of mouse visual cortex (vol 640, pg 448, 2025)",
+   "authors": "CM Schneider-Mizell, AL Bodor, D Brittain, J Buchanan, DJ Bumbarger, ...",
+   "venue": "NATURE 642 (8066), E9-E9",
+   "year": "2025"
+  },
+  {
+   "title": "The Synaptic Architecture of Layer 5 Thick Tufted Excitatory Neurons in the Visual Cortex of Mice",
+   "authors": "C NMd, A Bodor, C Schneider-Mizell, C Zhang, L Elabbady, A Mallen, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "The Synaptic Architecture of Layer 5 Thick Tufted Excitatory Neurons in the Visual Cortex of Mice",
+   "authors": "NM da Costa, A Bodor, C Schneider-Mizell, C Zhang, L Elabbady, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "From Pre-Trained Language Models to Useful AI Systems",
+   "authors": "EA Mitchell",
+   "venue": "Stanford University",
+   "year": "2024"
+  },
+  {
+   "title": "Abstracts from 11th George Rajka International Symposium on Atopic Dermatitis",
+   "authors": "A Halling, J Silverberg, J Hanifin, K Abuabara, S Lee, H Kim, J Lee, H Chu, ...",
+   "venue": "Acta Dermato-venereologica 101 (1)",
+   "year": "2021"
+  },
+  {
+   "title": "DeepAlign: Learning Optical Flow for Image Alignment",
+   "authors": "E Mitchell",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "ICLR 2024 Workshop on Reliable and Responsible Foundation Models",
+   "authors": "M Bansal, Z Deng, C Finn, P Izmailov, H He, PW Koh, E Mitchell, C Xie, ...",
+   "venue": "ICLR 2024 Workshops",
+   "year": null
+  },
+  {
+   "title": "Mint: Matrix-Interleaving for Multi-Task Learning",
+   "authors": "T Yu, S Kumar, E Mitchell, A Gupta, K Hausman, S Levine, C Finn",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

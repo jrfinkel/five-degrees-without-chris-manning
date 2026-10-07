@@ -1,0 +1,89 @@
+{
+ "user": "8uoXk-EAAAAJ",
+ "pubs": [
+  {
+   "title": "Gepa: Reflective prompt evolution can outperform reinforcement learning",
+   "authors": "LA Agrawal, S Tan, D Soylu, N Ziems, R Khare, K Opsahl-Ong, A Singhvi, ...",
+   "venue": "International Conference on Learning Representations 2026, 8479-8565",
+   "year": "2026"
+  },
+  {
+   "title": "Optimizing instructions and demonstrations for multi-stage language model programs",
+   "authors": "K Opsahl-Ong, MJ Ryan, J Purtell, D Broman, C Potts, M Zaharia, ...",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Gepa: Reflective prompt evolution can outperform reinforcement learning, 2025",
+   "authors": "LA Agrawal, S Tan, D Soylu, N Ziems, R Khare, K Opsahl-Ong, A Singhvi, ...",
+   "venue": "URL https://arxiv. org/abs/2507.19457 2 (3), 4",
+   "year": "2025"
+  },
+  {
+   "title": "Diagnosing failures of fairness transfer across distribution shift in real-world medical settings",
+   "authors": "J Schrouff, N Harris, S Koyejo, IM Alabdulmohsin, E Schnider, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 19304-19318",
+   "year": "2022"
+  },
+  {
+   "title": "Automating the enterprise with foundation models",
+   "authors": "M Wornow, A Narayan, K Opsahl-Ong, Q McIntyre, NH Shah, C Re",
+   "venue": "arXiv preprint arXiv:2405.03710",
+   "year": "2024"
+  },
+  {
+   "title": "Maintaining fairness across distribution shift: do we have viable solutions for real-world applications",
+   "authors": "J Schrouff, N Harris, O Koyejo, I Alabdulmohsin, E Schnider, ...",
+   "venue": "arXiv preprint arXiv:2202.01034 469",
+   "year": "2022"
+  },
+  {
+   "title": "fastMitoCalc: an ultra-fast program to estimate mitochondrial DNA copy number from whole-genome sequences",
+   "authors": "Y Qian, TJ Butler, K Opsahl-Ong, NS Giroux, C Sidore, R Nagaraja, ...",
+   "venue": "Bioinformatics 33 (9), 1399-1401",
+   "year": "2017"
+  },
+  {
+   "title": "others. 2025. Gepa: Reflective prompt evolution can outperform reinforcement learning",
+   "authors": "LA Agrawal, S Tan, D Soylu, N Ziems, R Khare, K Opsahl-Ong, A Singhvi, ...",
+   "venue": "arXiv preprint arXiv:2507.19457",
+   "year": "1"
+  },
+  {
+   "title": "Officeqa pro: An enterprise benchmark for end-to-end grounded reasoning",
+   "authors": "K Opsahl-Ong, A Singhvi, J Collins, I Zhou, C Wang, A Baheti, O Oertell, ...",
+   "venue": "arXiv preprint arXiv:2603.08655",
+   "year": "2026"
+  },
+  {
+   "title": "Personality traits are consistently associated with blood mitochondrial DNA copy number estimated from genome sequences in two genetic cohort studies",
+   "authors": "RF Oppong, A Terracciano, M Picard, Y Qian, TJ Butler, T Tanaka, ...",
+   "venue": "Elife 11, e77806",
+   "year": "2022"
+  },
+  {
+   "title": "KARL: Knowledge agents via reinforcement learning",
+   "authors": "JD Chang, A Drozdov, S Toshniwal, O Oertell, A Trott, J Portes, A Gupta, ...",
+   "venue": "arXiv preprint arXiv:2603.05218",
+   "year": "2026"
+  },
+  {
+   "title": "A state-of-the-art sql reasoning model using rlvr",
+   "authors": "A Ali, A Baheti, J Chang, TC Chi, B Cui, A Drozdov, J Frankle, A Gupta, ...",
+   "venue": "arXiv preprint arXiv:2509.21459",
+   "year": "2025"
+  },
+  {
+   "title": "The evolving role of data & safety monitoring boards for real-world clinical trials",
+   "authors": "BJ Bunning, H Hedlin, JH Chen, JD Ciolino, JO Ferstad, E Fox, A Garcia, ...",
+   "venue": "Journal of Clinical and Translational Science 7 (1), e179",
+   "year": "2023"
+  },
+  {
+   "title": "Diagnosing failures of fairness transfer across distribution shift in real-world medical settings: Supplement",
+   "authors": "J Schrouff, N Harris, O Koyejo, I Alabdulmohsin, E Schnider, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

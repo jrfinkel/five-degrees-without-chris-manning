@@ -1,0 +1,149 @@
+{
+ "user": "-RVWgYUAAAAJ",
+ "pubs": [
+  {
+   "title": "Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration",
+   "authors": "D Card, S Chang, C Becker, J Mendelsohn, R Voigt, L Boustan, ...",
+   "venue": "Proceedings of the National Academy of Sciences 119 (31), e2120510119",
+   "year": "2022"
+  },
+  {
+   "title": "Iris: A conversational agent for complex tasks",
+   "authors": "E Fast, B Chen, J Mendelsohn, J Bassen, MS Bernstein",
+   "venue": "Proceedings of the 2018 CHI conference on human factors in computing systems …",
+   "year": "2018"
+  },
+  {
+   "title": "A Framework for the Computational Linguistic Analysis of Dehumanization",
+   "authors": "J Mendelsohn, Y Tsvetkov, D Jurafsky",
+   "venue": "Frontiers in Artificial Intelligence 3, 55",
+   "year": "2020"
+  },
+  {
+   "title": "Modeling Framing in Immigration Discourse on Social Media",
+   "authors": "J Mendelsohn, C Budak, D Jurgens",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "How AI ideas affect the creativity, diversity, and evolution of human ideas: Evidence from a large, dynamic experiment",
+   "authors": "J Ashkinaze, J Mendelsohn, L Qiwei, C Budak, E Gilbert",
+   "venue": "Proceedings of the ACM collective intelligence conference, 198-213",
+   "year": "2025"
+  },
+  {
+   "title": "What's in a prompt?: a large-scale experiment to assess the impact of prompt design on the compliance and accuracy of LLM-generated text annotations",
+   "authors": "S Atreja, J Ashkinaze, L Li, J Mendelsohn, L Hemphill",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 19 …",
+   "year": "2025"
+  },
+  {
+   "title": "Challenges and Opportunities in Information Manipulation Detection: An Examination of Wartime Russian Media",
+   "authors": "CY Park, J Mendelsohn, A Field, Y Tsvetkov",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 5209-5235",
+   "year": "2022"
+  },
+  {
+   "title": "From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models",
+   "authors": "J Mendelsohn, RL Bras, Y Choi, M Sap",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "AI-LieDar: Examine the trade-off between utility and truthfulness in LLM agents",
+   "authors": "Z Su, X Zhou, S Rangreji, A Kabra, J Mendelsohn, F Brahman, M Sap",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Framing Social Movements on Social Media: Unpacking Diagnostic, Prognostic, and Motivational Strategies",
+   "authors": "J Mendelsohn, M Vijan, D Card, C Budak",
+   "venue": "Journal of Quantitative Description 4",
+   "year": "2024"
+  },
+  {
+   "title": "Detecting community sensitive norm violations in online conversations",
+   "authors": "CY Park, J Mendelsohn, K Radhakrishnan, K Jain, T Kanakagiri, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 3386-3397",
+   "year": "2021"
+  },
+  {
+   "title": "Bridging nations: quantifying the role of multilinguals in communication on social media",
+   "authors": "J Mendelsohn, S Ghosh, D Jurgens, C Budak",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 17 …",
+   "year": "2023"
+  },
+  {
+   "title": "When People are Floods: Analyzing Dehumanizing Metaphors in Immigration Discourse with Large Language Models",
+   "authors": "J Mendelsohn, C Budak",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Using sentiment induction to understand variation in gendered online communities",
+   "authors": "L Lucy, J Mendelsohn",
+   "venue": "Proceedings of the Society for Computation in Linguistics (SCiL), 156--166",
+   "year": "2019"
+  },
+  {
+   "title": "Giving gold: Understanding appreciation in reddit communities",
+   "authors": "J Mendelsohn, L Li",
+   "venue": "Technical report, Working paper, Stanford University, Stanford, CA",
+   "year": "2017"
+  },
+  {
+   "title": "Theory-grounded Computational Analysis of Political Framing in Online Media",
+   "authors": "J Mendelsohn",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Exploring Techniques in Distinguishing Similar Languages",
+   "authors": "I Mendoza, J Mendelsohn",
+   "venue": "Stanford course project",
+   "year": "2017"
+  },
+  {
+   "title": "Finding Common Ground: Graded Communal Knowledge in Bluesky Starter Packs",
+   "authors": "S Kumar, LSX Prince, J Mendelsohn, BF Welles, NW Landry",
+   "venue": "arXiv preprint arXiv:2609.19549",
+   "year": "2026"
+  },
+  {
+   "title": "Unifying Models of Intergroup Hostility in Online Discourse",
+   "authors": "P Gerard, J Mendelsohn, K Lerman",
+   "venue": "arXiv preprint arXiv:2609.20808",
+   "year": "2026"
+  },
+  {
+   "title": "TurEngMix: A Text Corpus and Benchmark for Turkish-English Code-Mixed Language Identification and Named Entity Recognition",
+   "authors": "I Dogan, PA Nguyen-Le, J Mendelsohn",
+   "venue": "arXiv preprint arXiv:2609.06963",
+   "year": "2026"
+  },
+  {
+   "title": "Evaluating Large Language Models for Antisemitic Incident Classification",
+   "authors": "K Halevy, J Mendelsohn, CY Park, Y Tsvetkov, M Sap",
+   "venue": "arXiv preprint arXiv:2607.04890",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the Seventh Workshop on Natural Language Processing and Computational Social Science",
+   "authors": "D Card, A Field, KA Keith, J Mendelsohn",
+   "venue": "Proceedings of the Seventh Workshop on Natural Language Processing and …",
+   "year": "2026"
+  },
+  {
+   "title": "Persuasion Index: A Theory-Guided Framework for Persuasion Analysis",
+   "authors": "L Gong, Z Wang, Y Xu, J Mendelsohn",
+   "venue": "arXiv preprint arXiv:2606.14580",
+   "year": "2026"
+  },
+  {
+   "title": "Motivational Framing in Networked Publics on Indian Social Media: A Case Study of# HindusUnderAttack",
+   "authors": "A Panda, SZ Akbar, J Mendelsohn, C Budak, M Bui",
+   "venue": "Proceedings of the International AAAI Conference on Web and Social Media 20 …",
+   "year": "2026"
+  }
+ ]
+}

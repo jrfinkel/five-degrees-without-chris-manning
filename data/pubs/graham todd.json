@@ -1,0 +1,227 @@
+{
+ "user": "NyBWyCIAAAAJ",
+ "pubs": [
+  {
+   "title": "Large language models and games: A survey and roadmap",
+   "authors": "R Gallotta, G Todd, M Zammit, S Earle, A Liapis, J Togelius, ...",
+   "venue": "IEEE Transactions on Games",
+   "year": "2024"
+  },
+  {
+   "title": "Level Generation Through Large Language Models",
+   "authors": "G Todd, S Earle, MU Nasir, MC Green, J Togelius",
+   "venue": "Proceedings of the 18th International Conference on the Foundations of …",
+   "year": "2023"
+  },
+  {
+   "title": "Can language models serve as text-based world simulators?",
+   "authors": "R Wang, G Todd, Z Xiao, X Yuan, MA Côté, P Clark, P Jansen",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Gavel: Generating games via evolution and language models",
+   "authors": "G Todd, AG Padula, M Stephenson, É Piette, DJ Soemers, J Togelius",
+   "venue": "Advances in Neural Information Processing Systems 37, 110723-110745",
+   "year": "2024"
+  },
+  {
+   "title": "Goals as reward-producing programs",
+   "authors": "G Davidson, G Todd, J Togelius, TM Gureckis, BM Lake",
+   "venue": "Nature Machine Intelligence 7 (2), 205-220",
+   "year": "2025"
+  },
+  {
+   "title": "Bytesized32: A corpus and challenge task for generating task-specific world models expressed as text games",
+   "authors": "R Wang, G Todd, X Yuan, Z Xiao, MA Côté, P Jansen",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Missed Connections: Lateral Thinking Puzzles for Large Language Models",
+   "authors": "G Todd, T Merino, S Earle, J Togelius",
+   "venue": "IEEE Conference on Games (CoG), 1-8",
+   "year": "2024"
+  },
+  {
+   "title": "Interaction between evolution and learning in nk fitness landscapes",
+   "authors": "G Todd, M Candadai, EJ Izquierdo",
+   "venue": "Artificial Life Conference Proceedings 32, 761-767",
+   "year": "2020"
+  },
+  {
+   "title": "Generation and evaluation in the human invention process through the lens of game design",
+   "authors": "KM Collins, G Todd, CE Zhang, A Weller, J Togelius, J Chu, L Wong, ...",
+   "venue": "arXiv preprint arXiv:2508.10914",
+   "year": "2025"
+  },
+  {
+   "title": "Large language models and games: A survey and roadmap. arXiv",
+   "authors": "R Gallotta, G Todd, M Zammit, S Earle, A Liapis, J Togelius, ...",
+   "venue": "arXiv preprint arXiv:2402.18659",
+   "year": "2024"
+  },
+  {
+   "title": "People use fast, flat goal-directed simulation to reason about novel problems",
+   "authors": "KM Collins, CE Zhang, L Wong, M Barba da Costa, G Todd, A Weller, ...",
+   "venue": "arXiv e-prints, arXiv: 2510.11503",
+   "year": "2025"
+  },
+  {
+   "title": "Scriptdoctor: Automatic generation of puzzlescript games via large language models and tree search",
+   "authors": "S Earle, A Khalifa, MU Nasir, Z Jiang, G Todd, A Banburski-Fahey, ...",
+   "venue": "2025 IEEE Conference on Games (CoG), 1-5",
+   "year": "2025"
+  },
+  {
+   "title": "Unsupervised anomaly detection in parole hearings using language models",
+   "authors": "G Todd, C Voss, J Hong",
+   "venue": "Proceedings of the Fourth Workshop on Natural Language Processing and …",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluating Language Models' Evaluations of Games",
+   "authors": "K Collins, C Zhang, G Todd, L Ying, M da Costa, R Liu, P Sharma, ...",
+   "venue": "International Conference on Learning Representations 2026, 157702-157740",
+   "year": "2026"
+  },
+  {
+   "title": "Large language models and games: A survey and roadmap. arXiv 2024",
+   "authors": "R Gallotta, G Todd, M Zammit, S Earle, A Liapis, J Togelius, ...",
+   "venue": "arXiv preprint arXiv:2402.18659",
+   "year": "2024"
+  },
+  {
+   "title": "Puzzlejax: A benchmark for reasoning and learning",
+   "authors": "S Earle, G Todd, Y Li, A Khalifa, MU Nasir, Z Jiang, A Banburski-Fahey, ...",
+   "venue": "arXiv preprint arXiv:2508.16821",
+   "year": "2025"
+  },
+  {
+   "title": "Ludax: A GPU-accelerated domain specific language for board games",
+   "authors": "G Todd, AG Padula, DJNJ Soemers, J Togelius",
+   "venue": "arXiv preprint arXiv:2506.22609",
+   "year": "2025"
+  },
+  {
+   "title": "Position: Principles of Animal Cognition to Improve LLM Evaluations",
+   "authors": "S Rane, CF Kirkman, G Todd, A Royka, RMC Law, E Cartmill, JG Foster",
+   "venue": "Forty-second International Conference on Machine Learning Position Paper Track",
+   "year": "2025"
+  },
+  {
+   "title": "Benchmarking language models with the new york times connections puzzle",
+   "authors": "G Todd, T Merino, S Earle, J Togelius",
+   "venue": "IEEE Transactions on Games",
+   "year": "2025"
+  },
+  {
+   "title": "Goal inference using reward-producing programs in a novel physics environment",
+   "authors": "G Davidson, G Todd, CŽ Colas, J Chu, J Togelius, JB Tenenbaum, ...",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "Principles of animal cognition for LLM evaluations: A case study on transitive inference",
+   "authors": "S Rane, C Kirkman, A Royka, G Todd, R Law, JG Foster, E Cartmill",
+   "venue": "NeurIPS 2024 Workshop on Behavioral Machine Learning",
+   "year": "2025"
+  },
+  {
+   "title": "Towards Knowledge-Graph Constrained Generation for Text Adventure Games",
+   "authors": "G Todd, Z Cheng, Y Liu, J Togelius",
+   "venue": "The Third Wordplay: When Language Meets Games Workshop",
+   "year": "2022"
+  },
+  {
+   "title": "Novel goal creation and evaluation in open-ended games",
+   "authors": "G Todd, J Chu, G Davidson, W Xu",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "Using machine learning to scrutinize parole release hearings",
+   "authors": "K Bell, J Hong, C Voss, G Todd, AJ Alvero",
+   "venue": "Berkeley Tech. LJ 40, 233",
+   "year": "2025"
+  },
+  {
+   "title": "People use fast and flat simulation to reason about new games",
+   "authors": "KM Collins, CE Zhang, L Wong, M Barba da Costa, G Todd, A Weller, ...",
+   "venue": "Nature 655 (8123), 598-607",
+   "year": "2026"
+  },
+  {
+   "title": "Artificial intelligence models can predict and collaboratively modulate human memory search",
+   "authors": "E Lacosse, M Duarte, G Todd, PM Todd, DC McNamee",
+   "venue": "arXiv preprint arXiv:2608.26152",
+   "year": "2026"
+  },
+  {
+   "title": "Ludax: A GPU-Accelerated Description Language for Board Games",
+   "authors": "G Todd, AG Padula, DJNJ Soemers, S Earle, J Togelius",
+   "venue": "Reinforcement Learning Journal 7",
+   "year": "2026"
+  },
+  {
+   "title": "Learning Compositional Negation in Populations of Roth-Erev and Neural Agents",
+   "authors": "G Todd, S Steinert-Threlkeld, C Potts",
+   "venue": "arXiv preprint arXiv:2012.04107",
+   "year": "2020"
+  },
+  {
+   "title": "MuML: Musical Meta-Learning",
+   "authors": "O Gul, C Schlager, G Todd, S Deparment",
+   "venue": "2021-10-01)[2023-04-11]. https://vdocuments. mx/muml-musical-meta-learning …",
+   "year": null
+  },
+  {
+   "title": "AI Models Can Predict and Collaboratively Modulate Human Memory Search",
+   "authors": "E Lacosse, M Duarte, G Todd, PM Todd, DC McNamee",
+   "venue": "arXiv e-prints, arXiv: 2608.26152",
+   "year": "2026"
+  },
+  {
+   "title": "Games, Goals, Programs: Modeling and Understanding the Process of Game Creation in Humans and Machines",
+   "authors": "GDR Todd",
+   "venue": "New York University Tandon School of Engineering",
+   "year": "2026"
+  },
+  {
+   "title": "Analyzing Parole Hearings with Natural Language Processing",
+   "authors": "G Todd",
+   "venue": "Stanford University",
+   "year": "2021"
+  },
+  {
+   "title": "CS 224W PROJECT REPORT: PREDICTING MICROBE",
+   "authors": "G Blake, K Hatch, G Todd",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Ludax: A GPU-Accelerated Description Language for Board Games (Encore Abstract)",
+   "authors": "G Todd, AG Padula, DJNJ Soemers, S Earle, J Togelius",
+   "venue": "The 38th Benelux Conference on Artificial Intelligence and the 35th Belgian …",
+   "year": null
+  },
+  {
+   "title": "What can we learn about AGI from game AI?",
+   "authors": "J Togelius, S Earle, G Todd, GN Yannakakis",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Antonios Liapis",
+   "authors": "R Gallotta, G Todd, M Zammit, S Earle",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Generating Human-Like Goals by Synthesizing Reward-Producing Programs",
+   "authors": "G Davidson, G Todd, T Gureckis, J Togelius, B Lake",
+   "venue": "Intrinsically-Motivated and Open-Ended Learning Workshop@ NeurIPS2023",
+   "year": null
+  }
+ ]
+}

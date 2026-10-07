@@ -1,0 +1,173 @@
+{
+ "user": "ghGDz7MAAAAJ",
+ "pubs": [
+  {
+   "title": "Lost in the middle: How language models use long contexts",
+   "authors": "NF Liu, K Lin, J Hewitt, A Paranjape, M Bevilacqua, F Petroni, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 12, 157-173",
+   "year": "2024"
+  },
+  {
+   "title": "AllenNLP: A Deep Semantic Natural Language Processing Platform",
+   "authors": "M Gardner, J Grus, M Neumann, O Tafjord, P Dasigi, N Liu, M Peters, ...",
+   "venue": "NLP-OSS",
+   "year": "2018"
+  },
+  {
+   "title": "OpenAI GPT-5 System Card",
+   "authors": "A Singh, A Fry, A Perelman, A Tart, A Ganesh, A El-Kishky, A McLaughlin, ...",
+   "venue": "arXiv preprint arXiv:2601.03267",
+   "year": "2025"
+  },
+  {
+   "title": "Linguistic Knowledge and Transferability of Contextual Representations",
+   "authors": "NF Liu, M Gardner, Y Belinkov, M Peters, NA Smith",
+   "venue": "NAACL",
+   "year": "2019"
+  },
+  {
+   "title": "Crowdsourcing Multiple Choice Science Questions",
+   "authors": "J Welbl, NF Liu, M Gardner",
+   "venue": "WNUT",
+   "year": "2017"
+  },
+  {
+   "title": "Evaluating Models' Local Decision Boundaries via Contrast Sets",
+   "authors": "M Gardner, Y Artzi, V Basmova, J Berant, B Bogin, S Chen, P Dasigi, ...",
+   "venue": "Findings of EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluating Verifiability in Generative Search Engines",
+   "authors": "NF Liu, T Zhang, P Liang",
+   "venue": "Findings of EMNLP",
+   "year": "2023"
+  },
+  {
+   "title": "Barack’s Wife Hillary: Using Knowledge Graphs for Fact-Aware Language Modeling",
+   "authors": "RL Logan IV, NF Liu, ME Peters, M Gardner, S Singh",
+   "venue": "ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning",
+   "authors": "P Dasigi, NF Liu, A Marasovic, NA Smith, M Gardner",
+   "venue": "EMNLP",
+   "year": "2019"
+  },
+  {
+   "title": "Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets",
+   "authors": "NF Liu, R Schwartz, NA Smith",
+   "venue": "NAACL",
+   "year": "2019"
+  },
+  {
+   "title": "Do Question Answering Modeling Improvements Hold Across Benchmarks?",
+   "authors": "NF Liu, T Lee, R Jia, P Liang",
+   "venue": "ACL",
+   "year": "2021"
+  },
+  {
+   "title": "Instruction following without instruction tuning",
+   "authors": "J Hewitt, NF Liu, P Liang, CD Manning",
+   "venue": "arXiv preprint arXiv:2409.14254",
+   "year": "2024"
+  },
+  {
+   "title": "Lexical semantic recognition",
+   "authors": "NF Liu, D Hershcovich, M Kranzlein, N Schneider",
+   "venue": "MWE",
+   "year": "2020"
+  },
+  {
+   "title": "Discovering Phonesthemes with Sparse Regularization",
+   "authors": "NF Liu, GA Levow, NA Smith",
+   "venue": "SCLeM",
+   "year": "2018"
+  },
+  {
+   "title": "LSTMs Exploit Linguistic Attributes of Data",
+   "authors": "NF Liu, O Levy, R Schwartz, C Tan, NA Smith",
+   "venue": "RepL4NLP",
+   "year": "2018"
+  },
+  {
+   "title": "Stronger baselines for retrieval-augmented generation with long-context language models",
+   "authors": "A Laitenberger, CD Manning, NF Liu",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Are Sample-Efficient NLP Models More Robust?",
+   "authors": "NF Liu, A Kumar, P Liang, R Jia",
+   "venue": "ACL",
+   "year": "2022"
+  },
+  {
+   "title": "Augmenting statistical machine translation with subword translation of out-of-vocabulary words",
+   "authors": "NF Liu, J May, M Pust, K Knight",
+   "venue": "arXiv preprint arXiv:1808.05700",
+   "year": "2018"
+  },
+  {
+   "title": "Identifying the limits of cross-domain knowledge transfer for pretrained models",
+   "authors": "Z Wu, NF Liu, C Potts",
+   "venue": "RepL4NLP",
+   "year": "2021"
+  },
+  {
+   "title": "Dyna-bAbI: unlocking bAbI's potential with dynamic synthetic benchmarking",
+   "authors": "R Tamari, K Richardson, A Sar-Shalom, N Kahlon, N Liu, R Tsarfaty, ...",
+   "venue": "*SEM",
+   "year": "2022"
+  },
+  {
+   "title": "ELISA System Description for LoReHLT 2017",
+   "authors": "L Cheung, T Gowda, U Hermjakob, N Liu, J May, A Mayn, ...",
+   "venue": "NIST LoReHLT 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Anchor prediction: Automatic refinement of internet links",
+   "authors": "NF Liu, K Lee, K Toutanova",
+   "venue": "arXiv preprint arXiv:2305.14337",
+   "year": "2023"
+  },
+  {
+   "title": "Making Heads and Tails of Models with Marginal Calibration for Sparse Tagsets",
+   "authors": "M Kranzlein, NF Liu, N Schneider",
+   "venue": "Findings of EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "Understanding and Improving Ecological Validity in Natural Language Processing Evaluations",
+   "authors": "NF Liu",
+   "venue": "Stanford University",
+   "year": "2025"
+  },
+  {
+   "title": "Inference and verbalization functions during in-context learning",
+   "authors": "J Tao, X Chen, NF Liu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 16394 …",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop",
+   "authors": "E Durmus, V Gupta, NF Liu, N Peng, Y Su",
+   "venue": "NAACL Student Research Workshop",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of Second Workshop for NLP Open Source Software (NLP-OSS)",
+   "authors": "EL Park, M Hagiwara, D Milajevs, NF Liu, G Chauhan, L Tan",
+   "venue": "NLP-OSS",
+   "year": "2020"
+  },
+  {
+   "title": "Потерянные в середине: как языковые модели используют длинные контексты (Lost in the Middle: How Language Models Use Long Contexts)",
+   "authors": "NF Liu, K Lin, J Hewitt, A Paranjape, M Bevilacqua, F Petroni, P Liang",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

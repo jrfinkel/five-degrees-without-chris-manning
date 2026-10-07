@@ -1,0 +1,107 @@
+{
+ "user": "YS-7RFUAAAAJ",
+ "pubs": [
+  {
+   "title": "DementiaBank: Theoretical rationale, protocol, and illustrative analyses",
+   "authors": "AM Lanzi, AK Saylor, D Fromm, H Liu, B MacWhinney, ML Cohen",
+   "venue": "American Journal of Speech-Language Pathology 32 (2), 426-438",
+   "year": "2023"
+  },
+  {
+   "title": "Automation of language sample analysis",
+   "authors": "H Liu, B MacWhinney, D Fromm, A Lanzi",
+   "venue": "Journal of Speech, Language, and Hearing Research 66 (7), 2421-2433",
+   "year": "2023"
+  },
+  {
+   "title": "Morphosyntactic analysis for CHILDES",
+   "authors": "H Liu, B MacWhinney",
+   "venue": "arXiv preprint arXiv:2407.12389",
+   "year": "2024"
+  },
+  {
+   "title": "LeRAAT: LLM-enabled real-time aviation advisory tool",
+   "authors": "MR Schlichting, V Rasmussen, H Alazzeh, H Liu, K Jafari, AF Hardy, ...",
+   "venue": "ECAI 2025: 28th European Conference on Artificial Intelligence 25-30 October …",
+   "year": "2025"
+  },
+  {
+   "title": "Foundational world models accurately detect bimanual manipulator failures",
+   "authors": "IR Ward, M Ho, H Liu, A Feldman, J Vincent, L Kruse, S Cheong, D Eddy, ...",
+   "venue": "arXiv preprint arXiv:2603.06987",
+   "year": "2026"
+  },
+  {
+   "title": "MSCAW-coref: Multilingual, singleton and conjunction-aware word-level coreference resolution",
+   "authors": "H Liu, J Bauer, K D’Oosterlinck, C Potts, CD Manning",
+   "venue": "Proceedings of the seventh workshop on computational models of reference …",
+   "year": "2024"
+  },
+  {
+   "title": "ASTPrompter: Preference-Aligned Automated Language Model Red-Teaming to Generate Low-Perplexity Unsafe Prompts",
+   "authors": "AF Hardy*, H Liu*, B Lange, D Eddy, MJ Kochenderfer",
+   "venue": "arXiv preprint arXiv:2407.09447",
+   "year": "2024"
+  },
+  {
+   "title": "Alto: Orchestrating Distributed Compound AI Systems with Nested Ancestry",
+   "authors": "D Raghavan, K Santhanam, MS Rahman, N Modugula, LG Schroeder, ...",
+   "venue": "arXiv preprint arXiv:2403.04311",
+   "year": "2024"
+  },
+  {
+   "title": "Longitudinal methods for Alzheimer's cognitive status prediction with deep learning",
+   "authors": "H Liu, AM Weakley, HH Dodge, X Liu",
+   "venue": "Alzheimer's & Dementia 21 (9), e70488",
+   "year": "2025"
+  },
+  {
+   "title": "Drop Dropout on Single Epoch Language Model Pretraining",
+   "authors": "H Liu, J Bauer, CD Manning",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 2157-2166",
+   "year": "2025"
+  },
+  {
+   "title": "A transformer approach for cognitive impairment classification and prediction",
+   "authors": "H Liu, AM Weakley, J Zhang, X Liu",
+   "venue": "Alzheimer Disease & Associated Disorders 38 (2), 189-194",
+   "year": "2024"
+  },
+  {
+   "title": "Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space",
+   "authors": "H Liu, S Murty, CD Manning, R Csordás",
+   "venue": "arXiv preprint arXiv:2510.00219",
+   "year": "2025"
+  },
+  {
+   "title": "Simplifying Flow Matching Transformations with Low-Rank Mixture Models",
+   "authors": "LA Kruse, H Liu, AE Tzikas, MM Arief, MJ Kochenderfer",
+   "venue": "arXiv preprint arXiv:2606.29724",
+   "year": "2026"
+  },
+  {
+   "title": "SecureForge: Finding and Preventing Vulnerabilities in LLM-Generated Code via Prompt Optimization",
+   "authors": "H Liu, L Einstein, J Yang, J Baumann, D Eddy, CD Manning, ...",
+   "venue": "arXiv preprint arXiv:2605.08382",
+   "year": "2026"
+  },
+  {
+   "title": "Plan of Thoughts: Heuristic-Guided Problem Solving with Large Language Models",
+   "authors": "H Liu",
+   "venue": "arXiv preprint arXiv:2404.19055",
+   "year": "2024"
+  },
+  {
+   "title": "RAG-DOLL: Zero-Shot LLM Multi-Hop Question Answering by Simultaneously Planning Over Documents and Strategies",
+   "authors": "H Liu, AF Hardy, S Akinwande, RJ Moss, D Eddy, CD Manning, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "ICLR 2025 Workshop on Human-AI Coevolution",
+   "authors": "JR Anthis, D Asmar, KR Driggs-Campbell, A Hardy, KJ Meimandi, ...",
+   "venue": "ICLR 2025 Workshop Proposals",
+   "year": null
+  }
+ ]
+}

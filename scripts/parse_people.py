@@ -6,6 +6,7 @@ data/roster.json: [{name, source, dept?, role?, url?}].
 Dedup is by normalized name (casefold, strip accents, collapse whitespace,
 a few known alias fixes like Chris/Christopher Manning).
 """
+import html as H
 import json
 import re
 import sys
@@ -30,6 +31,7 @@ ALIASES = {
     "jenny finkel": "Jenny Finkel",
     "jenny rose finkel": "Jenny Finkel",
     "e chi": "Ed Chi",
+    "jenny rose finkel mason": "Jenny Finkel",
     "thang luong": "Minh-Thang Luong",
     "sam bowman": "Samuel Bowman",
     "sebastian pado": "Sebastian Padó",
@@ -54,6 +56,7 @@ def norm(name: str) -> str:
 
 
 def canonical(name: str) -> str:
+    name = H.unescape(name)
     return ALIASES.get(norm(name), name.strip())
 
 
@@ -129,6 +132,14 @@ def main() -> None:
     ]
 
     seen: dict[str, dict] = {}
+    # (first,last)-token key -> norm key, to merge "Arun Chaganty" into
+    # "Arun Tejasvi Chaganty" and "Chris Cox" into "Chris(topher) Cox"
+    fl_seen: dict[str, str] = {}
+
+    def fl(name: str) -> str | None:
+        toks = norm(name).split()
+        return f"{toks[0]} {toks[-1]}" if len(toks) >= 2 else None
+
     for p in site:
         c = canonical(p["name"])
         key = norm(c)
@@ -141,15 +152,22 @@ def main() -> None:
                 "url": p.get("url"),
                 "section": p.get("section"),
             }
+            k = fl(c)
+            if k:
+                fl_seen.setdefault(k, key)
     n_site = len(seen)
     for name in extra:
         c = canonical(name)
         key = norm(c)
-        if key in seen:
-            if seen[key]["source"] == "site":
-                seen[key]["source"] = "both"
+        hit = key if key in seen else fl_seen.get(fl(c) or "")
+        if hit and hit in seen:
+            if seen[hit]["source"] == "site":
+                seen[hit]["source"] = "both"
         else:
             seen[key] = {"name": c, "source": "list"}
+            k = fl(c)
+            if k:
+                fl_seen.setdefault(k, key)
 
     roster = sorted(seen.values(), key=lambda p: p["name"].split()[-1].casefold())
     OUT.write_text(json.dumps(roster, indent=1, ensure_ascii=False))

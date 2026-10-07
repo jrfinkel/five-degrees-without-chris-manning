@@ -1,0 +1,269 @@
+{
+ "user": "q_trRV0AAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Gemini: a family of highly capable multimodal models",
+   "authors": "G Team, R Anil, S Borgeaud, JB Alayrac, J Yu, R Soricut, J Schalkwyk, ...",
+   "venue": "arXiv preprint arXiv:2312.11805",
+   "year": "2023"
+  },
+  {
+   "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
+   "authors": "G Comanici, E Bieber, M Schaekermann, I Pasupat, N Sachdeva, I Dhillon, ...",
+   "venue": "arXiv preprint arXiv:2507.06261",
+   "year": "2025"
+  },
+  {
+   "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+   "authors": "G Team, P Georgiev, VI Lei, R Burnell, L Bai, A Gulati, G Tanzer, ...",
+   "venue": "arXiv preprint arXiv:2403.05530",
+   "year": "2024"
+  },
+  {
+   "title": "GQA: A new dataset for real-world visual reasoning and compositional question answering",
+   "authors": "DA Hudson, CD Manning",
+   "venue": "arXiv preprint arXiv:1902.09506",
+   "year": "2019"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Compositional attention networks for machine reasoning",
+   "authors": "DA Hudson, CD Manning",
+   "venue": "arXiv preprint arXiv:1803.03067",
+   "year": "2018"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "Learning by abstraction: The neural state machine",
+   "authors": "D Hudson, CD Manning",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Generative adversarial transformers",
+   "authors": "DA Hudson, L Zitnick",
+   "venue": "International conference on machine learning, 4487-4499",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (arXiv: 2108.07258). arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "others (2021). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 24",
+   "year": "1"
+  },
+  {
+   "title": "Sydney von Arx, Michael S",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill, Erik …",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Soda: Bottleneck diffusion models for representation learning",
+   "authors": "DA Hudson, D Zoran, M Malinowski, AK Lampinen, A Jaegle, ...",
+   "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv preprint arXiv: 210807258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "Published online",
+   "year": "2021"
+  },
+  {
+   "title": "Sydney von Arx, Michael S Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill, et al. 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "On the opportunities and risks of foundation models. arXiv preprint arXiv …",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Scaling instructable agents across many simulated worlds",
+   "authors": "MA Raad, A Ahuja, C Barros, F Besse, A Bolt, A Bolton, B Brownfield, ...",
+   "venue": "arXiv preprint arXiv:2404.10179",
+   "year": "2024"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Compositional transformers for scene generation",
+   "authors": "D Arad Hudson, L Zitnick",
+   "venue": "Advances in neural information processing systems 34, 9506-9520",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "Sydney von Arx",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora",
+   "venue": "Michael S Bernstein, Jeannette Bohg, Antoine Bosselut, Emma Brunskill, et al",
+   "year": "2021"
+  },
+  {
+   "title": "SLM: Learning a discourse language representation with sentence unshuffling",
+   "authors": "H Lee, DA Hudson, K Lee, CD Manning",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Scaling instructable agents across many simulated worlds",
+   "authors": "M Abi Raad, A Ahuja, C Barros, F Besse, A Bolt, A Bolton, B Brownfield, ...",
+   "venue": "arXiv e-prints, arXiv: 2404.10179",
+   "year": "2024"
+  },
+  {
+   "title": "Neural assets: 3d-aware multi-object scene synthesis with image diffusion models",
+   "authors": "Z Wu, Y Rubanova, R Kabra, DA Hudson, I Gilitschenski, Y Aytar, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 76289-76318",
+   "year": "2024"
+  },
+  {
+   "title": "Scaling 4d representations",
+   "authors": "J Carreira, D Gokay, M King, C Zhang, I Rocco, A Mahendran, TA Keck, ...",
+   "venue": "arXiv preprint arXiv:2412.15212",
+   "year": "2024"
+  },
+  {
+   "title": "Sima 2: A generalist embodied agent for virtual worlds",
+   "authors": "A Bolton, A Lerchner, A Cordell, A Moufarek, A Bolt, A Lampinen, ...",
+   "venue": "arXiv preprint arXiv:2512.04797",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. CoRR abs/2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Moving off-the-grid: Scene-grounded video representations",
+   "authors": "S van Steenkiste, D Zoran, Y Yang, Y Rubanova, R Kabra, C Doersch, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 124319-124346",
+   "year": "2024"
+  },
+  {
+   "title": "Recurrent video masked autoencoders",
+   "authors": "D Zoran, N Parthasarathy, Y Yang, D A Hudson, J Carreira, A Zisserman",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2026"
+  },
+  {
+   "title": "Can foundation models actively gather information in interactive environments to test hypotheses?",
+   "authors": "DP Sawyer, NR Ke, H Soyer, M Engelcke, DP Reichert, DA Hudson, ...",
+   "venue": "arXiv preprint arXiv:2412.06438",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv e-Prints 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "LayerLock: Non-collapsing Representation Learning with Progressive Freezing",
+   "authors": "G Erdogan, N Parthasarathy, C Ionescu, DA Hudson, A Lerchner, ...",
+   "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV), 19461-19470",
+   "year": "2025"
+  },
+  {
+   "title": "A Mixed Diet Makes DINO An Omnivorous Vision Encoder",
+   "authors": "R Kabra, M Ovsjanikov, DA Hudson, Y Xia, S Koppula, A Araujo, ...",
+   "venue": "arXiv preprint arXiv:2602.24181",
+   "year": "2026"
+  },
+  {
+   "title": "Exploring exploration with foundation agents in interactive environments",
+   "authors": "DP Sawyer, NR Ke, H Soyer, M Engelcke, J Reid, DP Reichert, ...",
+   "venue": "NeurIPS 2025 Workshop on Embodied World Models for Decision Making",
+   "year": "2025"
+  },
+  {
+   "title": "unPIC: a geometric multiview prior for image to 3D synthesis",
+   "authors": "R Kabra, DA Hudson, S van Steenkiste, J Carreira, NJ Mitra",
+   "venue": "arXiv e-prints, arXiv: 2412.10273",
+   "year": "2024"
+  },
+  {
+   "title": "How to Spin an Object: First, Get the Shape Right",
+   "authors": "R Kabra, D A Hudson, S van Steenkiste, J Carreira, NJ Mitra",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2026"
+  },
+  {
+   "title": "Probabilistic Inverse Cameras: Image to 3D via Multiview Geometry.",
+   "authors": "R Kabra, DA Hudson, S van Steenkiste, J Carreira, NJ Mitra",
+   "venue": "CoRR",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the Fourth Workshop on Visually Grounded Interaction and Language",
+   "authors": "C Cangea, A Das, D Hudson, J Krantz, S Lee, J Mao, F Strub, A Suhr, ...",
+   "venue": "Proceedings of the Fourth Workshop on Visually Grounded Interaction and Language",
+   "year": "2021"
+  },
+  {
+   "title": "The Neural State Machine",
+   "authors": "D Hudson, C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering–Supplementary Material",
+   "authors": "DA Hudson, CD Manning",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

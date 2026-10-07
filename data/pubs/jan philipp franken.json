@@ -1,0 +1,161 @@
+{
+ "user": "s2omqQcAAAAJ",
+ "pubs": [
+  {
+   "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.",
+   "authors": "",
+   "venue": "Google DeepMind Technical Report",
+   "year": "2025"
+  },
+  {
+   "title": "Understanding social reasoning in language models with language models",
+   "authors": "K Gandhi*, JP Fränken*, T Gerstenberg, ND Goodman",
+   "venue": "NeurIPS 2023 Datasets and Benchmarks Track (Spotlight)",
+   "year": "2023"
+  },
+  {
+   "title": "Generative reward models",
+   "authors": "D Mahan, D Van Phung, R Rafailov, C Blagden, N Lile, L Castricato, ...",
+   "venue": "arXiv preprint arXiv:2410.12832",
+   "year": "2024"
+  },
+  {
+   "title": "Star-gate: Teaching language models to ask clarifying questions",
+   "authors": "C Andukuri*, JP Fränken*, T Gerstenberg, ND Goodman",
+   "venue": "COLM 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought",
+   "authors": "V Xiang, C Snell, K Gandhi, A Albalak, A Singh, C Blagden, D Phung, ...",
+   "venue": "arXiv preprint arXiv:2501.04682",
+   "year": "2025"
+  },
+  {
+   "title": "Persona: A reproducible testbed for pluralistic alignment",
+   "authors": "L Castricato, N Lile, R Rafailov, JP Fränken, C Finn",
+   "venue": "Proceedings of the 31st International Conference on Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Cascades Across Networks Are Sufficient for the Formation of Echo Chambers: An Agent-Based Model",
+   "authors": "JP Fränken, T Pilditch",
+   "venue": "Journal of Artificial Societies and Social Simulation 24 (3), 1-1",
+   "year": "2021"
+  },
+  {
+   "title": "Algorithms of adaptation in inductive inference",
+   "authors": "JP Fränken, NC Theodoropoulos, NR Bramley",
+   "venue": "Cognitive Psychology 137, 101506",
+   "year": "2022"
+  },
+  {
+   "title": "Self-Supervised Alignment with Mutual Information: Learning to Follow Principles without Preference Labels",
+   "authors": "JP Fränken, E Zelikman, R Rafailov, K Gandhi, T Gerstenberg, ...",
+   "venue": "NeurIPS 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Human-like affective cognition in foundation models",
+   "authors": "K Gandhi, Z Lynch, JP Fränken, K Patterson, S Wambu, T Gerstenberg, ...",
+   "venue": "arXiv preprint arXiv:2409.11733",
+   "year": "2024"
+  },
+  {
+   "title": "Believing does not equal remembering: The effects of social feedback and objective false evidence on belief in occurrence, belief in accuracy, and recollection",
+   "authors": "H Otgaar, J Wang, JP Fränken, ML Howe",
+   "venue": "Acta Psychologica 191, 271-280",
+   "year": "2018"
+  },
+  {
+   "title": "Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models",
+   "authors": "JP Fränken, K Gandhi, T Qiu, A Khawaja, ND Goodman, T Gerstenberg",
+   "venue": "CogSci 2024 (Oral)",
+   "year": "2024"
+  },
+  {
+   "title": "Naïve information aggregation in human social learning",
+   "authors": "JP Fränken, S Valentin, CG Lucas, NR Bramley",
+   "venue": "Cognition 242, 105633",
+   "year": "2024"
+  },
+  {
+   "title": "Social Contract AI: Aligning AI Assistants with Implicit Group Norms",
+   "authors": "JP Fränken, S Kwok, P Ye, K Gandhi, D Arumugam, J Moore, A Tamkin, ...",
+   "venue": "NeurIPS 2023 SoLaR Workshop (Oral)",
+   "year": "2023"
+  },
+  {
+   "title": "Non-literal understanding of number words by language models",
+   "authors": "P Tsvilodub, K Gandhi, H Zhao, JP Fränken, M Franke, ND Goodman",
+   "venue": "CogSci 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Belief revision in a micro-social network: Modeling sensitivity to statistical dependencies in social learning",
+   "authors": "JP Fränken, N Theodoropolous, A Moore, N Bramley",
+   "venue": "CogSci 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Understanding social reasoning in language models with language models (2023)",
+   "authors": "K Gandhi, JP Fränken, T Gerstenberg, ND Goodman",
+   "venue": "URL https://arxiv. org/abs/2306.15448",
+   "year": null
+  },
+  {
+   "title": "MARPLE: A Benchmark for Long-Horizon Inference",
+   "authors": "E Jin, Z Huang, JP Fränken, W Liu, H Cha, E Brockbank, S Wu, R Zhang, ...",
+   "venue": "NeurIPS 2024 Datasets and Benchmarks Track",
+   "year": "2024"
+  },
+  {
+   "title": "Whodunnit? Inferring what happened from multimodal evidence",
+   "authors": "SA Wu, E Brockbank, H Cha, JP Fränken, E Jin, Z Huang, W Liu, R Zhang, ...",
+   "venue": "CogSci 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Modeling infant object perception as program induction",
+   "authors": "JP Fränken, CG Lucas, NR Bramley, ST Piantadosi",
+   "venue": "CCN 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Peripheral contributions to resting state brain dynamics",
+   "authors": "S Bricault, M Dawson, J Lee, M Desai, M Schwalm, KS Chung, ...",
+   "venue": "Nature communications 15 (1), 10820",
+   "year": "2024"
+  },
+  {
+   "title": "Variational inference in dynamical active causal learning",
+   "authors": "V Btesh, NR Bramley, JP Fränken, M Speekenbrink, DA Lagnado",
+   "venue": "Conference on Cognitive Computational Neuroscience 2023",
+   "year": "2023"
+  },
+  {
+   "title": "From Centralized to Self-Supervised: Pursuing Realistic Multi-Agent Reinforcement Learning",
+   "authors": "V Xiang, L Cross, JP Fränken, N Haber",
+   "venue": "NeurIPS 2023 ALOE Workshop",
+   "year": "2023"
+  },
+  {
+   "title": "Algorithms of Adaptation in Inductive Inference",
+   "authors": "J Fränken, T NC, NR Bramley",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Multimodal inference through mental simulation",
+   "authors": "A Beller, Y Xu, M Siegel, S Grant, A Brown, JP Fränken, J Tenenbaum, ...",
+   "venue": "PsyArXiv.",
+   "year": "2025"
+  },
+  {
+   "title": "Variational inference for continuous time causal learning",
+   "authors": "V Btesh, NR Bramley, JP Fränken, M Speekenbrink, DA Lagnado",
+   "venue": "CCN 2023",
+   "year": "2023"
+  }
+ ]
+}

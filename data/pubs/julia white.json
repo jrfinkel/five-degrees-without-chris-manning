@@ -1,0 +1,65 @@
+{
+ "user": "JBUEyL8AAAAJ",
+ "pubs": [
+  {
+   "title": "Open-domain clarification question generation without question examples",
+   "authors": "J White, G Poesia, RD Hawkins, D Sadigh, N Goodman",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to refer informatively by amortizing pragmatic reasoning",
+   "authors": "J White, J Mu, ND Goodman",
+   "venue": "arXiv preprint arXiv:2006.00418",
+   "year": "2020"
+  },
+  {
+   "title": "Calibrate your listeners! Robust communication-based training for pragmatic speakers",
+   "authors": "R Wang, J White, J Mu, N Goodman",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 977-984",
+   "year": "2021"
+  },
+  {
+   "title": "Beyond reactivity: Measuring proactive problem solving in llm agents",
+   "authors": "G Pasternak, D Rajagopal, J White, D Atreja, M Thomas, G Hurn-Maloney, ...",
+   "venue": "arXiv preprint arXiv:2510.19771",
+   "year": "2025"
+  },
+  {
+   "title": "Automated generation of sentence reading fluency test items",
+   "authors": "J White, A Burkhardt, J Yeatman, N Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Mixed-effects transformers for hierarchical adaptation",
+   "authors": "J White, N Goodman, RD Hawkins",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Leveraging Explicit Procedural Instructions for Data-Efficient Action Prediction",
+   "authors": "J White, A Raghuvanshi, Y Pruksachatkun",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 2895-2904",
+   "year": "2023"
+  },
+  {
+   "title": "Correcting Stochastic Update Bias in Preconditioned Language Model Optimizers",
+   "authors": "N Nayak, J White, U Zaratiana, K Zhang, H Princis, D Atreja, H Fawcett, ...",
+   "venue": "arXiv preprint arXiv:2605.20756",
+   "year": "2026"
+  },
+  {
+   "title": "Pioneer Agent: Continual Improvement of Small Language Models in Production",
+   "authors": "D Atreja, J White, N Nayak, K Zhang, H Princis, G Hurn-Maloney, A Lewis, ...",
+   "venue": "arXiv preprint arXiv:2604.09791",
+   "year": "2026"
+  },
+  {
+   "title": "M362 Developing concurrent distributed systems M362 Developing concurrent distributed systems Unit 10 Security",
+   "authors": "J van der Linden, A Dil, B Quinn, M Wermelinger, H Krajinski, B Segal, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

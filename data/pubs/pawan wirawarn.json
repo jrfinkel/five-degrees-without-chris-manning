@@ -1,0 +1,29 @@
+{
+ "user": "iKkuOacAAAAJ",
+ "pubs": [
+  {
+   "title": "Sight: A large annotated dataset on student insights gathered from higher education transcripts",
+   "authors": "R Wang, P Wirawarn, N Goodman, D Demszky",
+   "venue": "Proceedings of the 18th Workshop on Innovative Use of NLP for Building …",
+   "year": "2023"
+  },
+  {
+   "title": "Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations",
+   "authors": "RE Wang, P Wirawarn, K Lam, O Khattab, D Demszky",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 12654 …",
+   "year": "2024"
+  },
+  {
+   "title": "Backtracing: Retrieving the cause of the query",
+   "authors": "R Wang, P Wirawarn, O Khattab, N Goodman, D Demszky",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2024, 722-735",
+   "year": "2024"
+  },
+  {
+   "title": "Reflections and New Directions for Human-Centered Large Language Models",
+   "authors": "C Ziems, D Zhao, RE Wang, M Jörke, A Rushdi, A Deepak, S Yu, ...",
+   "venue": "arXiv preprint arXiv:2605.06901",
+   "year": "2026"
+  }
+ ]
+}

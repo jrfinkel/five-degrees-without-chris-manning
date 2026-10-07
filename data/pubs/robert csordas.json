@@ -1,0 +1,239 @@
+{
+ "user": "av1lplwAAAAJ",
+ "pubs": [
+  {
+   "title": "The Devil is in the Detail: Simple Tricks Improve Systematic Generalization of Transformers",
+   "authors": "R Csordás, K Irie, J Schmidhuber",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Randomized positional encodings boost length generalization of transformers",
+   "authors": "A Ruoss, G Delétang, T Genewein, J Grau-Moya, R Csordás, M Bennani, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Mindstorms in Natural Language-Based Societies of Mind",
+   "authors": "M Zhuge, H Liu, F Faccio, DR Ashley, R Csordás, A Gopalakrishnan, ...",
+   "venue": "arXiv preprint arXiv:2305.17066",
+   "year": "2023"
+  },
+  {
+   "title": "Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks",
+   "authors": "R Csordás, S van Steenkiste, J Schmidhuber",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2021"
+  },
+  {
+   "title": "A generalist neural algorithmic learner",
+   "authors": "B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ...",
+   "venue": "Learning on Graphs Conference, 2: 1-2: 23",
+   "year": "2022"
+  },
+  {
+   "title": "Going Beyond Linear Transformers with Recurrent Fast Weight Programmers",
+   "authors": "K Irie, I Schlag, R Csordás, J Schmidhuber",
+   "venue": "Conference on Neural Information Processing Systems (NeurIPS), 2021",
+   "year": "2021"
+  },
+  {
+   "title": "The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization",
+   "authors": "R Csordás, K Irie, J Schmidhuber",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2021"
+  },
+  {
+   "title": "A Modern Self-Referential Weight Matrix That Learns to Modify Itself",
+   "authors": "K Irie, I Schlag, R Csordás, J Schmidhuber",
+   "venue": "Deep RL Workshop NeurIPS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "MoEUT: Mixture-of-Experts Universal Transformers",
+   "authors": "R Csordás, K Irie, J Schmidhuber, C Potts, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 37, 28589-28614",
+   "year": "2024"
+  },
+  {
+   "title": "The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention",
+   "authors": "K Irie*, R Csordás*, J Schmidhuber",
+   "venue": "International Conference on Machine Learning 2022 (ICML)",
+   "year": "2022"
+  },
+  {
+   "title": "Do language models use their depth efficiently?",
+   "authors": "R Csordás, CD Manning, C Potts",
+   "venue": "Advances in Neural Information Processing Systems 38, 160313-160362",
+   "year": "2026"
+  },
+  {
+   "title": "Recurrent neural networks learn to store and generate sequences using non-linear representations",
+   "authors": "R Csordás, C Potts, CD Manning, A Geiger",
+   "venue": "Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting …",
+   "year": "2024"
+  },
+  {
+   "title": "SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention",
+   "authors": "R Csordás, P Piękos, K Irie, J Schmidhuber",
+   "venue": "arXiv preprint arXiv:2312.07987",
+   "year": "2023"
+  },
+  {
+   "title": "Improving Differentiable Neural Computers Through Memory Masking, De-allocation, and Link Distribution Sharpness Control",
+   "authors": "R Csordás, J Schmidhuber",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2019"
+  },
+  {
+   "title": "Approximating two-layer feedforward networks for efficient transformers",
+   "authors": "R Csordás, K Irie, J Schmidhuber",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 674-692",
+   "year": "2023"
+  },
+  {
+   "title": "Method and apparatus for generating a displacement map of an input dataset pair",
+   "authors": "R Csordás, Á Kis-Benedek, B Szalkai",
+   "venue": "US Patent 10,380,753",
+   "year": "2019"
+  },
+  {
+   "title": "Mrt5: Dynamic token merging for efficient byte-level language models",
+   "authors": "J Kallini, S Murty, C Manning, C Potts, R Csordás",
+   "venue": "International Conference on Learning Representations 2025, 56646-56669",
+   "year": "2025"
+  },
+  {
+   "title": "Practical computational power of linear transformers and their recurrent and self-referential extensions",
+   "authors": "K Irie, R Csordás, J Schmidhuber",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Metalearning Continual Learning Algorithms",
+   "authors": "K Irie, R Csordás, J Schmidhuber",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2025"
+  },
+  {
+   "title": "CTL++: Evaluating Generalization on Never-Seen Compositional Patterns of Known Functions, and Compatibility of Neural Representations",
+   "authors": "R Csordás, K Irie, J Schmidhuber",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Mixture of sparse attention: Content-based learnable sparse attention via expert-choice routing",
+   "authors": "P Piękos, R Csordás, J Schmidhuber",
+   "venue": "arXiv preprint arXiv:2505.00315",
+   "year": "2025"
+  },
+  {
+   "title": "Mechanistic evaluation of Transformers and state space models",
+   "authors": "A Arora, N Rathi, NR Selvam, R Csordás, D Jurafsky, C Potts",
+   "venue": "arXiv preprint arXiv:2505.15105",
+   "year": "2025"
+  },
+  {
+   "title": "Chain-of-Experts: Unlocking the Communication Power of Mixture-of-Experts Models",
+   "authors": "Z Wang, R Pan, J Yao, R Csordas, L Li, L Yin, J Wu, T Zhang, M Li, S Liu",
+   "venue": "arXiv preprint arXiv:2506.18945",
+   "year": "2025"
+  },
+  {
+   "title": "Self-organising Neural Discrete Representation Learning à la Kohonen",
+   "authors": "K Irie, R Csordás, J Schmidhuber",
+   "venue": "International Conference on Artificial Neural Networks, 343-362",
+   "year": "2024"
+  },
+  {
+   "title": "Mechanistic evaluation of transformers and state space models, 2025a",
+   "authors": "A Arora, N Rathi, NR Selvam, R Csordás, D Jurafsky, C Potts",
+   "venue": "URL https://arxiv. org/abs/2505.15105",
+   "year": null
+  },
+  {
+   "title": "Decoupling the\" What\" and\" Where\" With Polar Coordinate Positional Embeddings",
+   "authors": "A Gopalakrishnan, R Csordás, J Schmidhuber, MC Mozer",
+   "venue": "arXiv preprint arXiv:2509.10534",
+   "year": "2025"
+  },
+  {
+   "title": "Measuring In-Context Computation Complexity via Hidden State Prediction",
+   "authors": "V Herrmann, R Csordás, J Schmidhuber",
+   "venue": "ICML 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Automating Continual Learning",
+   "authors": "K Irie, R Csordás, J Schmidhuber",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Systematic generalization in connectionist models",
+   "authors": "R Csordás",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "The Devil is in the Detail: Simple Tricks Improve Systematic Generalization of Transformers, February 2022",
+   "authors": "R Csordás, K Irie, J Schmidhuber",
+   "venue": "URL http://arxiv. org/abs/2108.12284",
+   "year": null
+  },
+  {
+   "title": "A Generalist Neural Algorithmic Learner.(2022)",
+   "authors": "B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ...",
+   "venue": "URL https://arxiv. org/abs/2209.11142 3 (8)",
+   "year": "2022"
+  },
+  {
+   "title": "Improving Differentiable Neural Computers Through Memory Masking",
+   "authors": "R Csordas, J Schmidhuber",
+   "venue": "De-allocation, and Link Distribution Sharpness Control",
+   "year": "2018"
+  },
+  {
+   "title": "Are neural nets modular? inspecting functional modularity through differentiable weight masks, 2021",
+   "authors": "R Csordás, S van Steenkiste, J Schmidhuber",
+   "venue": "URL https://arxiv. org/abs",
+   "year": "2010"
+  },
+  {
+   "title": "Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space",
+   "authors": "H Liu, S Murty, CD Manning, R Csordás",
+   "venue": "arXiv preprint arXiv:2510.00219",
+   "year": "2025"
+  },
+  {
+   "title": "GIM: Improved Interpretability for Large Language Models",
+   "authors": "J Edin, R Csordás, T Ruotsalo, Z Wu, M Maistro, CL Christensen, J Huang, ...",
+   "venue": "arXiv preprint arXiv:2505.17630",
+   "year": "2025"
+  },
+  {
+   "title": "Improving Baselines in the Wild",
+   "authors": "K Irie, I Schlag, R Csordás, J Schmidhuber",
+   "venue": "NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and …",
+   "year": "2021"
+  },
+  {
+   "title": "Metalearning to Continually Learn In Context",
+   "authors": "K Irie, R Csordás, J Schmidhuber",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization",
+   "authors": "C Robert",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Mindstorms in Natural Language-based Societies of Mind. CoRR, abs/2305.17066, 2023. doi: 10.48550",
+   "authors": "M Zhuge, H Liu, F Faccio, DR Ashley, R Csordás, A Gopalakrishnan, ...",
+   "venue": "arXiv preprint ARXIV.2305.17066",
+   "year": null
+  }
+ ]
+}

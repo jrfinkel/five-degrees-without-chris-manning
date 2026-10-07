@@ -1,0 +1,35 @@
+{
+ "user": "T7hTD88AAAAJ",
+ "pubs": [
+  {
+   "title": "Causal abstractions of neural networks",
+   "authors": "A Geiger, H Lu, T Icard, C Potts",
+   "venue": "Advances in neural information processing systems 34, 9574-9586",
+   "year": "2021"
+  },
+  {
+   "title": "Inducing causal structure for interpretable neural networks",
+   "authors": "A Geiger, Z Wu, H Lu, J Rozner, E Kreiss, T Icard, N Goodman, C Potts",
+   "venue": "International Conference on Machine Learning, 7324-7338",
+   "year": "2022"
+  },
+  {
+   "title": "Causal distillation for language models",
+   "authors": "Z Wu, A Geiger, J Rozner, E Kreiss, H Lu, T Icard, C Potts, N Goodman",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Causal abstractions of neural networks, 2021",
+   "authors": "A Geiger, H Lu, T Icard, C Potts",
+   "venue": "URL https://arxiv. org/abs/2106.02997",
+   "year": null
+  },
+  {
+   "title": "Open-Ended Generative Commonsense Question Answering with Knowledge Graph-enhanced Language Models",
+   "authors": "H Lu",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

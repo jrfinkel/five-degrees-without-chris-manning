@@ -1,0 +1,641 @@
+{
+ "user": "dy_JBs0AAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic Evaluation of Language Models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2023"
+  },
+  {
+   "title": "Deep Reinforcement Learning that Matters",
+   "authors": "P Henderson, R Islam, P Bachman, J Pineau, D Precup, D Meger",
+   "venue": "AAAI Conference on Artificial Intelligence (AAAI)",
+   "year": "2018"
+  },
+  {
+   "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+   "authors": "TL Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow, R Castagné, ...",
+   "venue": "arXiv preprint arXiv:2211.05100",
+   "year": "2022"
+  },
+  {
+   "title": "An Introduction to Deep Reinforcement Learning",
+   "authors": "V François-Lavet, P Henderson, R Islam, MG Bellemare, J Pineau",
+   "venue": "Foundations and Trends® in Machine Learning 11 (3-4), 219-354",
+   "year": "2018"
+  },
+  {
+   "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+   "authors": "X Qi, Y Zeng, T Xie, PY Chen, R Jia, P Mittal, P Henderson",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2024"
+  },
+  {
+   "title": "Towards the systematic reporting of the energy and carbon footprints of machine learning",
+   "authors": "P Henderson, J Hu, J Romoff, E Brunskill, D Jurafsky, J Pineau",
+   "venue": "Journal of Machine Learning Research 21 (248), 1-43",
+   "year": "2020"
+  },
+  {
+   "title": "Legalbench: A collaboratively built benchmark for measuring legal reasoning in large language models",
+   "authors": "N Guha, J Nyarko, D Ho, C Ré, A Chilton, A Chohlas-Wood, A Peters, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 44123-44279",
+   "year": "2023"
+  },
+  {
+   "title": "Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims",
+   "authors": "M Brundage, S Avin, J Wang, H Belfield, G Krueger, G Hadfield, H Khlaaf, ...",
+   "venue": "arXiv preprint arXiv:2004.07213",
+   "year": "2020"
+  },
+  {
+   "title": "When does pretraining help? assessing self-supervised learning for law and the CaseHOLD dataset of 53,000+ legal holdings",
+   "authors": "L Zheng*, N Guha*, BR Anderson, P Henderson, DE Ho",
+   "venue": "Proceedings of the Eighteenth International Conference on Artificial …",
+   "year": "2021"
+  },
+  {
+   "title": "Visual adversarial examples jailbreak aligned large language models",
+   "authors": "X Qi, K Huang, A Panda, P Henderson, M Wang, P Mittal",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (19), 21527 …",
+   "year": "2024"
+  },
+  {
+   "title": "Safety Alignment Should Be Made More Than Just a Few Tokens Deep",
+   "authors": "X Qi, A Panda, K Lyu, X Ma, S Roy, A Beirami, P Mittal, P Henderson",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2025"
+  },
+  {
+   "title": "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version",
+   "authors": "IV Serban, R Lowe, P Henderson, L Charlin, J Pineau",
+   "venue": "Dialogue & Discourse 9 (1), 1-49",
+   "year": "2018"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2022)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control",
+   "authors": "R Islam*, P Henderson*, M Gomrokchi, D Precup",
+   "venue": "Reproducibility in Machine Learning Workshop (ICML)",
+   "year": "2017"
+  },
+  {
+   "title": "SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors",
+   "authors": "T Xie, X Qi, Y Zeng, Y Huang, UM Sehwag, K Huang, L He, B Wei, D Li, ...",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2025"
+  },
+  {
+   "title": "Foundation models and fair use",
+   "authors": "P Henderson, X Li, D Jurafsky, T Hashimoto, MA Lemley, P Liang",
+   "venue": "Journal of Machine Learning Research 24 (400), 1-79",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Ethical Challenges in Data-Driven Dialogue Systems",
+   "authors": "P Henderson, K Sinha, N Angelard-Gontier, NR Ke, G Fried, R Lowe, ...",
+   "venue": "AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)",
+   "year": "2018"
+  },
+  {
+   "title": "Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset",
+   "authors": "P Henderson*, MS Krass*, L Zheng, N Guha, CD Manning, D Jurafsky, ...",
+   "venue": "Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track",
+   "year": "2022"
+  },
+  {
+   "title": "With Little Power Comes Great Responsibility",
+   "authors": "D Card, P Henderson, U Khandelwal, R Jia, K Mahowald, D Jurafsky",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2020"
+  },
+  {
+   "title": "An Adversarial Perspective on Machine Unlearning for AI Safety",
+   "authors": "J Łucki, B Wei, Y Huang, P Henderson, F Tramèr, J Rando",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2025"
+  },
+  {
+   "title": "Position: On the Societal Impact of Open Foundation Models",
+   "authors": "S Kapoor, R Bommasani, K Klyman, S Longpre, A Ramaswami, P Cihon, ...",
+   "venue": "International Conference on Machine Learning, 23082-23104",
+   "year": "2024"
+  },
+  {
+   "title": "What's in Your Safe Data? Identifying Benign Data that Breaks Safety",
+   "authors": "L He, M Xia, P Henderson",
+   "venue": "Conference on Language Modeling (COLM)",
+   "year": "2024"
+  },
+  {
+   "title": "Data Governance in the Age of Large-Scale Data-Driven Language Technology",
+   "authors": "Y Jerncite, H Nguyen, S Biderman, A Rogers, V Danchev, S Tan, ...",
+   "venue": "Proceedings of the 2022 ACM Conference on Fairness, Accountability, and …",
+   "year": "2022"
+  },
+  {
+   "title": "A Safe Harbor for AI Evaluation and Red Teaming",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2403.04893",
+   "year": "2024"
+  },
+  {
+   "title": "Where's the Liability in harmful AI Speech?",
+   "authors": "P Henderson, T Hashimoto, M Lemley",
+   "venue": "J. Free Speech L. 3, 589",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic agent leaderboard: The missing infrastructure for ai agent evaluation",
+   "authors": "S Kapoor, B Stroebl, P Kirgis, N Nadgir, Z Siegel, B Wei, T Xue, Z Chen, ...",
+   "venue": "International Conference on Learning Representations 2026, 98778-98849",
+   "year": "2026"
+  },
+  {
+   "title": "Self-Destructing Models: Increasing the Costs of Harmful Dual Uses of Foundation Models",
+   "authors": "P Henderson, E Mitchell, C Manning, D Jurafsky, C Finn",
+   "venue": "Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society, 287-296",
+   "year": "2023"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Underwater Multi-Robot Convoying using Visual Tracking by Detection",
+   "authors": "F Shkurti, WD Chang, P Henderson, MJ Islam, JCG Higuera, J Li, ...",
+   "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "year": "2017"
+  },
+  {
+   "title": "A Reasoning-Focused Legal Retrieval Benchmark",
+   "authors": "L Zheng, N Guha, J Arifov, S Zhang, M Skreta, CD Manning, P Henderson, ...",
+   "venue": "Proceedings of the 2025 Symposium on Computer Science and Law, 169-193",
+   "year": "2025"
+  },
+  {
+   "title": "LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?",
+   "authors": "Z Zheng, Z Cheng, Z Shen, S Zhou, K Liu, H He, D Li, S Wei, H Hao, J Yao, ...",
+   "venue": "NeurIPS Datasets & Benchmarks",
+   "year": "2025"
+  },
+  {
+   "title": "Freedom of Speech and AI Output",
+   "authors": "E Volokh, MA Lemley, P Henderson",
+   "venue": "J. Free Speech L. 3, 651",
+   "year": "2023"
+  },
+  {
+   "title": "On Evaluating the Durability of Safeguards for Open-Weight LLMs",
+   "authors": "X Qi, B Wei, N Carlini, Y Huang, T Xie, L He, M Jagielski, M Nasr, P Mittal, ...",
+   "venue": "International Conference on Learning Representations",
+   "year": "2025"
+  },
+  {
+   "title": "Where Did My Optimum Go?: An Empirical Analysis of Gradient Descent Optimization in Policy Gradient Methods",
+   "authors": "P Henderson, J Romoff, J Pineau",
+   "venue": "The 14th European Workshop on Reinforcement Learning (EWRL 2018)",
+   "year": "2018"
+  },
+  {
+   "title": "Evaluating Copyright Takedown Methods for Language Models",
+   "authors": "B Wei, W Shi, Y Huang, NA Smith, C Zhang, L Zettlemoyer, K Li, ...",
+   "venue": "NeurIPS Datasets & Benchmarks",
+   "year": "2024"
+  },
+  {
+   "title": "Promises and pitfalls of artificial intelligence for legal applications",
+   "authors": "S Kapoor, P Henderson, A Narayanan",
+   "venue": "arXiv preprint arXiv:2402.01656",
+   "year": "2024"
+  },
+  {
+   "title": "Benchmark Environments for Multitask Learning in Continuous Domains",
+   "authors": "P Henderson, WD Chang, F Shkurti, J Hansen, D Meger, G Dudek",
+   "venue": "Lifelong Learning: A Reinforcement Learning Approach Workshop (ICML)",
+   "year": "2017"
+  },
+  {
+   "title": "Reward Estimation for Variance Reduction in Deep Reinforcement Learning",
+   "authors": "J Romoff*, P Henderson*, A Piche, V Francois-Lavet, J Pineau",
+   "venue": "2nd Conference on Robot Learning (CoRL)",
+   "year": "2018"
+  },
+  {
+   "title": "General scales unlock ai evaluation with explanatory and predictive power",
+   "authors": "L Zhou, L Pacchiardi, F Martínez-Plumed, KM Collins, Y Moros-Daval, ...",
+   "venue": "Nature 652 (8108), 58-67",
+   "year": "2026"
+  },
+  {
+   "title": "Fantastic Copyrighted Beasts and How (Not) to Generate Them",
+   "authors": "L He, Y Huang, W Shi, T Xie, H Liu, Y Wang, L Zettlemoyer, C Zhang, ...",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2025"
+  },
+  {
+   "title": "An Information-Theoretic Perspective on Credit Assignment in Reinforcement Learning",
+   "authors": "D Arumugam, P Henderson, PL Bacon",
+   "venue": "arXiv preprint arXiv:2103.06224",
+   "year": "2021"
+  },
+  {
+   "title": "Position: In-House Evaluation Is Not Enough. Towards Robust Third-Party Evaluation and Flaw Disclosure for General-Purpose AI",
+   "authors": "S Longpre, K Klyman, RE Appel, S Kapoor, R Bommasani, M Sahar, ...",
+   "venue": "Forty-second International Conference on Machine Learning Position Paper Track",
+   "year": "2025"
+  },
+  {
+   "title": "Separating value functions across time-scales",
+   "authors": "J Romoff*, P Henderson*, A Touati, E Brunskill, J Pineau, Y Ollivier",
+   "venue": "International Conference on Machine Learning, 5468-5477",
+   "year": "2019"
+  },
+  {
+   "title": "Vulnerabilities in Discovery Tech",
+   "authors": "N Guha*, P Henderson*, D Zambrano*",
+   "venue": "Harvard Journal of Law & Technology",
+   "year": "2022"
+  },
+  {
+   "title": "LawInstruct: A Resource for Studying Language Model Adaptation to the Legal Domain",
+   "authors": "J Niklaus, L Zheng, AD McCarthy, C Hahn, BM Rosen, P Henderson, ...",
+   "venue": "NAACL (Findings)",
+   "year": "2025"
+  },
+  {
+   "title": "AI Risk Management Should Incorporate Both Safety and Security",
+   "authors": "X Qi, Y Huang, Y Zeng, E Debenedetti, J Geiping, L He, K Huang, ...",
+   "venue": "arXiv preprint arXiv:2405.19524",
+   "year": "2024"
+  },
+  {
+   "title": "The Mirage of Artificial Intelligence Terms of Use Restrictions",
+   "authors": "P Henderson, MA Lemley",
+   "venue": "Indiana Law Journal",
+   "year": "2025"
+  },
+  {
+   "title": "Learning Robust Dialog Policies in Noisy Environments",
+   "authors": "M Fazel-Zarandi, SW Li, J Cao, J Casale, P Henderson, D Whitney, ...",
+   "venue": "Conversational AI Workshop (NeurIPS)",
+   "year": "2017"
+  },
+  {
+   "title": "Open Technical Problems in Open-Weight AI Model Risk Management",
+   "authors": "S Casper, K O’Brien, S Longpre, E Seger, K Klyman, R Bommasani, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources",
+   "authors": "S Longpre, S Biderman, A Albalak, H Schoelkopf, D McDuff, S Kapoor, ...",
+   "venue": "TMLR",
+   "year": "2024"
+  },
+  {
+   "title": "Integrating reward maximization and population estimation: Sequential decision-making for Internal Revenue Service audit selection",
+   "authors": "P Henderson, B Chugg, B Anderson, K Altenburger, A Turk, J Guyton, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (4), 5087-5095",
+   "year": "2023"
+  },
+  {
+   "title": "Orıon: Asynchronous Distributed Hyperparameter Optimization",
+   "authors": "X Bouthillier, C Tsirigotis, F Corneau-Tremblay, P Delaunay, R Askari, ...",
+   "venue": "Zenodo",
+   "year": "2019"
+  },
+  {
+   "title": "Legal Alignment for Safe and Ethical AI",
+   "authors": "N Kolt, N Caputo, J Boeglin, C O'Keefe, R Bommasani, S Casper, ...",
+   "venue": "arXiv preprint arXiv:2601.04175",
+   "year": "2026"
+  },
+  {
+   "title": "Bayesian Policy Gradients via Alpha Divergence Dropout Inference",
+   "authors": "P Henderson*, T Doan*, R Islam, D Meger",
+   "venue": "Bayesian Deep Learning Workshop (NeurIPS)",
+   "year": "2017"
+  },
+  {
+   "title": "Frontiercs: Evolving challenges for evolving intelligence",
+   "authors": "Q Mang, W Chai, Z Li, H Mao, S Zhou, A Du, H Li, S Liu, E Chen, Y Wang, ...",
+   "venue": "Forty-third International Conference on Machine Learning",
+   "year": "2025"
+  },
+  {
+   "title": "Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing",
+   "authors": "I Cheong, A Guo, M Lee, Z Liao, K Kadoma, D Go, JC Chang, ...",
+   "venue": "arXiv preprint arXiv:2507.01418",
+   "year": "2025"
+  },
+  {
+   "title": "Cheaply estimating inference efficiency metrics for autoregressive transformer models",
+   "authors": "D Narayanan, K Santhanam, P Henderson, R Bommasani, T Lee, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 66518-66538",
+   "year": "2023"
+  },
+  {
+   "title": "Algorithmic rulemaking vs. Algorithmic guidance",
+   "authors": "P Henderson, M Krass",
+   "venue": "Harv. JL & Tech. 37, 105",
+   "year": "2023"
+  },
+  {
+   "title": "Beyond Ads: Sequential Decision-Making Algorithms in Law and Public Policy",
+   "authors": "P Henderson*, B Chugg*, B Anderson, DE Ho",
+   "venue": "arXiv preprint arXiv:2112.06833",
+   "year": "2021"
+  },
+  {
+   "title": "Beyond Open vs. Closed: Emerging Consensus and Key Questions for Foundation AI Model Governance",
+   "authors": "J Bateman, D Baer, SA Bell, GO Brown, MFT Cuéllar, D Ganguli, ...",
+   "venue": "Carnegie Endowment for International Peace",
+   "year": "2024"
+  },
+  {
+   "title": "How US law will evaluate artificial intelligence for covid-19",
+   "authors": "M Krass, P Henderson, MM Mello, DM Studdert, DE Ho",
+   "venue": "bmj 372",
+   "year": "2021"
+  },
+  {
+   "title": "Text Characterization Toolkit (TCT)",
+   "authors": "D Simig, T Wang, V Dankers, P Henderson, K Batsuren, D Hupkes, ...",
+   "venue": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "BLOOM: A 176B-parameter open-access multilingual language model. arXiv. 10.48550",
+   "authors": "T Le Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow, R Castagné, ...",
+   "venue": "arXiv preprint arXiv.2211.05100",
+   "year": "2022"
+  },
+  {
+   "title": "Statutory Construction and Interpretation for Artificial Intelligence",
+   "authors": "L He, N Nadeem, M Liao, H Chen, D Chen, MF Cuéllar, P Henderson",
+   "venue": "arXiv preprint arXiv:2509.01186",
+   "year": "2025"
+  },
+  {
+   "title": "Breaking Down Bias: On The Limits of Generalizable Pruning Strategies",
+   "authors": "S Ma, A Salinas, P Henderson, J Nyarko",
+   "venue": "ACM Conference on Fairness, Accountability, and Transparency",
+   "year": "2025"
+  },
+  {
+   "title": "AI for Scaling Legal Reform: Mapping and Redacting Racial Covenants in Santa Clara County",
+   "authors": "F Surani, M Suzgun, V Raman, CD Manning, P Henderson, DE Ho",
+   "venue": "Journal of Legal Analysis",
+   "year": "2025"
+  },
+  {
+   "title": "Rethinking machine learning benchmarks in the context of professional codes of conduct",
+   "authors": "P Henderson, J Hu, M Diab, J Pineau",
+   "venue": "Proceedings of the 2024 Symposium on Computer Science and Law, 109-120",
+   "year": "2024"
+  },
+  {
+   "title": "Safety Risks from Customizing Foundation Models via Fine-Tuning",
+   "authors": "P Henderson, X Qi, Y Zeng, T Xie, PY Chen, R Jia, P Mittal",
+   "venue": "Policy Brief. Stanford Human-Centered Artificial Intelligence",
+   "year": "2024"
+  },
+  {
+   "title": "Corpus Enigmas and Contradictory Linguistics: Tensions between Empirical Semantic Meaning and Judicial Interpretation",
+   "authors": "P Henderson, DE Ho, A Vallebueno, C Handan-Nader",
+   "venue": "Minn. JL Sci. & Tech. 25, 127",
+   "year": "2023"
+  },
+  {
+   "title": "JIGMARK: A Black-Box Approach for Enhancing Image Watermarks against Diffusion Model Edits",
+   "authors": "M Pan, Y Zeng, X Lin, N Yu, CJ Hsieh, P Henderson, R Jia",
+   "venue": "arXiv preprint arXiv:2406.03720",
+   "year": "2024"
+  },
+  {
+   "title": "TDprop: Does Adaptive Optimization With Jacobi Preconditioning Help Temporal Difference Learning?",
+   "authors": "J Romoff, P Henderson, D Kanaa, E Bengio, A Touati, PL Bacon, J Pineau",
+   "venue": "Proceedings of the 20th International Conference on Autonomous Agents and …",
+   "year": "2021"
+  },
+  {
+   "title": "Reproducibility and Reusability in Deep Reinforcement Learning",
+   "authors": "P Henderson",
+   "venue": "McGill University",
+   "year": "2018"
+  },
+  {
+   "title": "Dynamic Risk Assessments for Offensive Cybersecurity Agents",
+   "authors": "B Wei, B Stroebl, J Xu, J Zhang, Z Li, P Henderson",
+   "venue": "NeurIPS Datasets & Benchmarks",
+   "year": "2025"
+  },
+  {
+   "title": "Autocode: Llms as problem setters for competitive programming",
+   "authors": "S Zhou, Z Zheng, K Liu, Z Shen, Z Cheng, Z Chen, H He, J Yao, H Mao, ...",
+   "venue": "International Conference on Learning Representations 2026, 16506-16540",
+   "year": "2026"
+  },
+  {
+   "title": "Distilling Information from a Flood: A Possibility for the Use of Meta-Analysis and Systematic Review in Machine Learning Research",
+   "authors": "P Henderson, E Brunskill",
+   "venue": "Critiquing and Correcting Trends in Machine Learning Workshop (NeurIPS)",
+   "year": "2018"
+  },
+  {
+   "title": "Cost Adaptation for Robust Decentralized Swarm Behaviour",
+   "authors": "P Henderson, M Vertescher, D Meger, M Coates",
+   "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "year": "2018"
+  },
+  {
+   "title": "The Deployment of End-to-End Audio Language Models Should Take into Account the Principle of Least Privilege",
+   "authors": "L He, X Qi, M Liao, I Cheong, P Mittal, D Chen, P Henderson",
+   "venue": "AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)",
+   "year": "2025"
+  },
+  {
+   "title": "Entropy Regularization for Population Estimation",
+   "authors": "B Chugg, P Henderson, J Goldin, DE Ho",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (10), 12198 …",
+   "year": "2023"
+  },
+  {
+   "title": "An Analysis of Parallelized Motion Masking Using Dual-Mode Single Gaussian Models",
+   "authors": "P Henderson, M Vertescher",
+   "venue": "arXiv preprint arXiv:1702.05156",
+   "year": "2017"
+  },
+  {
+   "title": "Legal Retrieval for Public Defenders",
+   "authors": "D Stammbach, K Zhang, P Liu, N Nadeem, I Cheong, L Zheng, ...",
+   "venue": "arXiv preprint arXiv:2601.14348",
+   "year": "2026"
+  },
+  {
+   "title": "Best Practices for Biorisk Evaluations on Open-Weight Bio-Foundation Models",
+   "authors": "B Wei, Z Che, N Li, UM Sehwag, J GÃķtting, S Nedungadi, J Michael, ...",
+   "venue": "arXiv preprint arXiv:2510.27629",
+   "year": "2025"
+  },
+  {
+   "title": "Foundation Models and Copyright Questions",
+   "authors": "P Henderson, X Li, D Jurafsky, T Hashimoto, MA Lemley, P Liang",
+   "venue": "Stanford University Human-Centered Artificial Intelligence, November",
+   "year": "2023"
+  },
+  {
+   "title": "Gamesmanship in Modern Discovery Tech",
+   "authors": "N Guha, P Henderson, D Zambrano",
+   "venue": "Legal Tech and the Future of Civil Justice",
+   "year": "2023"
+  },
+  {
+   "title": "Ideas for Improving the Field of Machine Learning: Summarizing Discussion from the NeurIPS 2019 Retrospectives Workshop",
+   "authors": "S Sodhani, MS Jaiswal, L Baker, K Sinha, C Shneider, P Henderson, ...",
+   "venue": "arXiv preprint arXiv:2007.10546",
+   "year": "2020"
+  },
+  {
+   "title": "Implanted intracortical electrodes as chronic neural interfaces to the central nervous system",
+   "authors": "P Henderson",
+   "venue": "PeerJ PrePrints 3 (2167-9843), e1536",
+   "year": "2015"
+  },
+  {
+   "title": "How Can AI Augment Access to Justice? Public Defenders' Perspectives on Responsible AI Adoption",
+   "authors": "I Cheong, P Liu, D Stammbach, P Henderson",
+   "venue": "The 2026 ACM Conference on Fairness, Accountability, and Transparency, 1513-1535",
+   "year": "2026"
+  },
+  {
+   "title": "A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection",
+   "authors": "G Morio, H Rowlands, D Stammbach, CD Manning, P Henderson",
+   "venue": "Advances in Neural Information Processing Systems 38",
+   "year": "2026"
+  },
+  {
+   "title": "Temporally Extended Mixture-of-Experts Models",
+   "authors": "Z Shen, P Henderson",
+   "venue": "arXiv preprint arXiv:2604.20156",
+   "year": "2026"
+  },
+  {
+   "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+   "authors": "H Orgad, B Wei, K Zheng, M Wattenberg, P Henderson, ...",
+   "venue": "Mechanistic Interpretability Workshop at ICML 2026",
+   "year": "2026"
+  },
+  {
+   "title": "AI-Assisted Moot Courts: Simulating Justice-Specific Questioning in Oral Arguments",
+   "authors": "K Zhang, N Nadeem, L Zheng, D Stammbach, P Henderson",
+   "venue": "Proceedings of the Symposium on Computer Science and Law, 136-172",
+   "year": "2026"
+  },
+  {
+   "title": "In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI. arXiv",
+   "authors": "S Longpre, K Klyman, RE Appel, S Kapoor, R Bommasani, M Sahar, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Should the United States or the European Union Follow China’s Lead and Require Watermarks for Generative AI?",
+   "authors": "P Henderson",
+   "venue": "Georgetown Journal of International Affairs (Online)",
+   "year": "2023"
+  },
+  {
+   "title": "An Adversarial Perspective on Machine Unlearning for AI Safety, May 2025",
+   "authors": "J Łucki, B Wei, Y Huang, P Henderson, F Tramèr, J Rando",
+   "venue": "URL http://arxiv. org/abs/2409 18025",
+   "year": null
+  },
+  {
+   "title": "Prioritizing Public Health Resources for COVID-19 Investigations: How Administrative Data Can Protect Vulnerable Populations",
+   "authors": "M Krass, P Henderson, DE Ho",
+   "venue": "Health Affairs Blog",
+   "year": "2020"
+  },
+  {
+   "title": "The RLLChatbot: a solution to the ConvAI challenge",
+   "authors": "N Gontier, K Sinha, P Henderson, I Serban, M Noseworthy, ...",
+   "venue": "arXiv preprint arXiv:1811.02714",
+   "year": "2018"
+  },
+  {
+   "title": "Adversarial Gain",
+   "authors": "P Henderson, K Sinha, RN Ke, J Pineau",
+   "venue": "arXiv preprint arXiv:1811.01302",
+   "year": "2018"
+  },
+  {
+   "title": "Chaotic Memory Randomization for Securing Embedded Systems",
+   "authors": "P Henderson, M Maheswaran",
+   "venue": "arXiv preprint arXiv:1611.00742",
+   "year": "2016"
+  },
+  {
+   "title": "Large Language Models Generate Harmful Content Using a Unified Mechanism",
+   "authors": "H Orgad, B Wei, K Zheng, M Wattenberg, P Henderson, ...",
+   "venue": "ICLR 2026 Workshop on Logical Reasoning of Large Language Models",
+   "year": null
+  },
+  {
+   "title": "Challenges for Foundation Model Liability and Regulatory Regimes",
+   "authors": "P Henderson",
+   "venue": "The Cambridge Handbook of Generative AI and the Law, 122-133",
+   "year": "2025"
+  },
+  {
+   "title": "Liability for AI-Generated Speech",
+   "authors": "P Henderson, T Hashimoto, M Lemley",
+   "venue": "The Oxford Handbook of the Foundations and Regulation of Generative AI",
+   "year": "2025"
+  },
+  {
+   "title": "Bureaucratic Backchannel: How r/PatentExaminer Navigates AI Governance",
+   "authors": "D Bateyko, J Gosciak, T Lloyd, P Henderson",
+   "venue": "STAIG@CHI 2025 Workshop",
+   "year": "2025"
+  },
+  {
+   "title": "Legalbench: Evaluating legal reasoning in large language models",
+   "authors": "N Guha, W Chen, S Lin, RJ Krishna, P Henderson, X Zhang, C Finn, ...",
+   "venue": "arXiv preprint arXiv:2308.11462",
+   "year": "2023"
+  },
+  {
+   "title": "Aligning Law, Policy, and Machine Learning for Responsible Real-World Deployments",
+   "authors": "P Henderson",
+   "venue": "Stanford University",
+   "year": "2023"
+  },
+  {
+   "title": "OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning",
+   "authors": "P Henderson, WD Chang, PL Bacon, D Meger, J Pineau, D Precup",
+   "venue": "AAAI Conference on Artificial Intelligence (AAAI)",
+   "year": "2018"
+  }
+ ]
+}

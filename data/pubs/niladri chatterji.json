@@ -1,0 +1,251 @@
+{
+ "user": "oWcFfZcAAAAJ",
+ "pubs": [
+  {
+   "title": "The llama 3 herd of models",
+   "authors": "A Dubey, A Jauhri, A Pandey, A Kadian, A Al-Dahle, A Letman, A Mathur, ...",
+   "venue": "arXiv e-prints, arXiv: 2407.21783",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Underdamped Langevin MCMC: A non-asymptotic analysis",
+   "authors": "X Cheng, NS Chatterji, PL Bartlett, MI Jordan",
+   "venue": "Conference on Learning Theory 75, 300--323",
+   "year": "2018"
+  },
+  {
+   "title": "Proving test set contamination in black-box language models",
+   "authors": "Y Oren, N Meister, N Chatterji, F Ladhak, T Hashimoto",
+   "venue": "International Conference on Learning Representations 2024, 16354-16372",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Is there an analog of Nesterov acceleration for gradient-based MCMC?",
+   "authors": "YA Ma, NS Chatterji, X Cheng, N Flammarion, PL Bartlett, MI Jordan",
+   "venue": "Bernoulli 27 (3), 1942--1992",
+   "year": "2021"
+  },
+  {
+   "title": "Convergence rates for Langevin Monte Carlo in the nonconvex setting",
+   "authors": "X Cheng, NS Chatterji, Y Abbasi-Yadkori, PL Bartlett, MI Jordan",
+   "venue": "arXiv preprint arXiv:1805.01648",
+   "year": "2018"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (arXiv: 2108.07258). arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Finite-sample analysis of interpolating linear classifiers in the overparameterized regime",
+   "authors": "NS Chatterji, PM Long",
+   "venue": "Journal of Machine Learning Reseach 22 (129), 1--30",
+   "year": "2021"
+  },
+  {
+   "title": "Benign overfitting without linearity: Neural network classifiers trained by gradient descent for noisy linear data",
+   "authors": "S Frei, NS Chatterji, PL Bartlett",
+   "venue": "Conference on Learning Theory 178, 2668--2703",
+   "year": "2022"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "On the theory of variance reduction for stochastic gradient Monte Carlo",
+   "authors": "NS Chatterji, N Flammarion, YA Ma, PL Bartlett, MI Jordan",
+   "venue": "International Conference on Machine Learning 80, 764--773",
+   "year": "2018"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "The intriguing role of module criticality in the generalization of deep networks",
+   "authors": "NS Chatterji, B Neyshabur, H Sedghi",
+   "venue": "International Conference on Learning Representations",
+   "year": "2020"
+  },
+  {
+   "title": "Langevin Monte Carlo without smoothness",
+   "authors": "NS Chatterji, J Diakonikolas, MI Jordan, PL Bartlett",
+   "venue": "International Conference on Artificial Intelligence and Statistics 108, 1716 …",
+   "year": "2020"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "On the theory of reinforcement learning with once-per-episode feedback",
+   "authors": "NS Chatterji, A Pacchiano, PL Bartlett, MI Jordan",
+   "venue": "Advances in Neural Information Processing Systems 34, 3401--3412",
+   "year": "2021"
+  },
+  {
+   "title": "Alternating minimization for dictionary learning with random initialization",
+   "authors": "NS Chatterji, PL Bartlett",
+   "venue": "Advances in Neural Information Processing Systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "Random feature amplification: Feature learning and generalization in neural networks",
+   "authors": "S Frei, NS Chatterji, PL Bartlett",
+   "venue": "arXiv preprint arXiv:2202.07626",
+   "year": "2022"
+  },
+  {
+   "title": "OSOM: A simultaneously optimal algorithm for multi-armed and linear contextual bandits",
+   "authors": "NS Chatterji, V Muthukumar, PL Bartlett",
+   "venue": "International Conference on Artificial Intelligence and Statistics 108, 1844 …",
+   "year": "2020"
+  },
+  {
+   "title": "Foolish crowds support benign overfitting",
+   "authors": "NS Chatterji, PM Long",
+   "venue": "Journal of Machine Learning Research 23 (125), 1--12",
+   "year": "2022"
+  },
+  {
+   "title": "The interplay between implicit bias and benign overfitting in two-layer linear networks",
+   "authors": "NS Chatterji, PM Long, PL Bartlett",
+   "venue": "Journal of Machine Learning Research 23 (263), 1--48",
+   "year": "2021"
+  },
+  {
+   "title": "Enhancement of spin-transfer torque switching via resonant tunneling",
+   "authors": "NS Chatterji, AA Tulapurkar, B Muralidharan",
+   "venue": "Applied Physics Letters 105 (23), 232410",
+   "year": "2014"
+  },
+  {
+   "title": "Is importance weighting incompatible with interpolating classifiers?",
+   "authors": "KA Wang, NS Chatterji, S Haque, T Hashimoto",
+   "venue": "International Conference on Learning Representations",
+   "year": "2022"
+  },
+  {
+   "title": "The llama 4 herd: Architecture, training, evaluation, and deployment notes",
+   "authors": "A Adcock, A Srivastava, A Dubey, A Jauhri, A Pande, A Pandey, ...",
+   "venue": "arXiv preprint arXiv:2601.11659",
+   "year": "2026"
+  },
+  {
+   "title": "Online learning with kernel losses",
+   "authors": "NS Chatterji, A Pacchiano, PL Bartlett",
+   "venue": "International Conference on Machine Learning 97, 971--980",
+   "year": "2019"
+  },
+  {
+   "title": "When does gradient descent with logistic loss find interpolating two-layer networks?",
+   "authors": "NS Chatterji, PM Long, PL Bartlett",
+   "venue": "Journal of Machine Learning Research 22, 1--48",
+   "year": "2021"
+  },
+  {
+   "title": "Deep linear networks can benignly overfit when shallow ones do",
+   "authors": "NS Chatterji, PM Long",
+   "venue": "Journal of Machine Learning Research 24 (117), 1-39",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. CoRR abs/2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Oracle lower bounds for stochastic gradient sampling algorithms",
+   "authors": "NS Chatterji, PL Bartlett, PM Long",
+   "venue": "Bernoulli 28 (2), 1074 -- 1092",
+   "year": "2022"
+  },
+  {
+   "title": "Compute optimal scaling of skills: Knowledge vs reasoning",
+   "authors": "N Roberts, NS Chatterji, S Narang, M Lewis, D Hupkes",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 13295-13316",
+   "year": "2025"
+  },
+  {
+   "title": "When does gradient descent with logistic loss interpolate using deep networks with smoothed ReLU activations?",
+   "authors": "NS Chatterji, PM Long, PL Bartlett",
+   "venue": "Conference on Learning Theory 134, 927--1027",
+   "year": "2021"
+  },
+  {
+   "title": "Undersampling is a minimax optimal robustness intervention in nonparametric classification",
+   "authors": "NS Chatterji, S Haque, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2205.13094",
+   "year": "2022"
+  },
+  {
+   "title": "Correlating and Predicting Human Evaluations of Language Models from Natural Language Processing Benchmarks",
+   "authors": "R Schaeffer, PS Koura, B Tang, R Subramanian, AK Singh, T Mihaylov, ...",
+   "venue": "arXiv preprint arXiv:2502.18339",
+   "year": "2025"
+  },
+  {
+   "title": "An Empirical Study on Noisy Data and LLM Pretraining Loss Divergence",
+   "authors": "Q Zhang, A Garg, J Foerster, N Chatterji, K Malik, M Lewis",
+   "venue": "arXiv preprint arXiv:2602.02400",
+   "year": "2026"
+  },
+  {
+   "title": "Oracle lower bounds for sampling algorithms",
+   "authors": "N Chatterji, P Bartlett, P Long",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Why do gradient methods work in optimization and sampling?",
+   "authors": "NS Chatterji",
+   "venue": "UC Berkeley",
+   "year": "2021"
+  },
+  {
+   "title": "Proposal for a spin-transfer torque device based on resonant tunneling",
+   "authors": "NS Chatterji, A Tulapurkar, B Muralidharan",
+   "venue": "APS March Meeting Abstracts 2015, D28. 008",
+   "year": "2015"
+  },
+  {
+   "title": "Generalization and optimization of interpolating models",
+   "authors": "NS Chatterji, PM Long, PL Bartlett",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

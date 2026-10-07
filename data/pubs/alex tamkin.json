@@ -1,0 +1,341 @@
+{
+ "user": "7W8ustwAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning",
+   "authors": "T Bricken, A Templeton, J Batson, B Chen, A Jermyn, T Conerly, ...",
+   "venue": "https://transformer-circuits.pub/2023/monosemantic-features/index.html",
+   "year": "2023"
+  },
+  {
+   "title": "Scaling monosemanticity: Extracting interpretable features from claude 3 sonnet",
+   "authors": "A Templeton, T Conerly, J Marcus, J Lindsey, T Bricken, B Chen, ...",
+   "venue": "Transformer Circuits Thread",
+   "year": "2024"
+  },
+  {
+   "title": "Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models",
+   "authors": "A Tamkin, M Brundage, J Clark, D Ganguli",
+   "venue": "arXiv preprint arXiv:2102.02503, https://arxiv.org/abs/2102.02503",
+   "year": "2021"
+  },
+  {
+   "title": "Towards measuring the representation of subjective global opinions in language models",
+   "authors": "E Durmus, K Nguyen, TI Liao, N Schiefer, A Askell, A Bakhtin, C Chen, ...",
+   "venue": "arXiv preprint arXiv:2306.16388",
+   "year": "2023"
+  },
+  {
+   "title": "Many-shot jailbreaking",
+   "authors": "C Anil, E Durmus, N Panickssery, M Sharma, J Benton, S Kundu, J Batson, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 129696-129742",
+   "year": "2024"
+  },
+  {
+   "title": "Studying large language model generalization with influence functions",
+   "authors": "R Grosse, J Bae, C Anil, N Elhage, A Tamkin, A Tajdini, B Steiner, D Li, ...",
+   "venue": "arXiv preprint arXiv:2308.03296",
+   "year": "2023"
+  },
+  {
+   "title": "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations",
+   "authors": "K Handa*, A Tamkin*, M McCain, S Huang, E Durmus, S Heck, J Mueller, ...",
+   "venue": "arXiv preprint arXiv:2503.04761",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Sycophancy to subterfuge: Investigating reward-tampering in large language models",
+   "authors": "C Denison, M MacDiarmid, F Barez, D Duvenaud, S Kravec, S Marks, ...",
+   "venue": "arXiv preprint arXiv:2406.10162",
+   "year": "2024"
+  },
+  {
+   "title": "Collective constitutional ai: Aligning a language model with public input",
+   "authors": "S Huang, D Siddarth, L Lovitt, TI Liao, E Durmus, A Tamkin, D Ganguli",
+   "venue": "Proceedings of the 2024 ACM Conference on Fairness, Accountability, and …",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating and mitigating discrimination in language model decisions",
+   "authors": "A Tamkin, A Askell, L Lovitt, E Durmus, N Joseph, S Kravec, K Nguyen, ...",
+   "venue": "arXiv preprint arXiv:2312.03689",
+   "year": "2023"
+  },
+  {
+   "title": "Eliciting human preferences with language models",
+   "authors": "B Li, A Tamkin, N Goodman, J Andreas",
+   "venue": "International Conference on Learning Representations 2025, 80984-81013",
+   "year": "2025"
+  },
+  {
+   "title": "Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy",
+   "authors": "R Keramati, C Dann, A Tamkin, E Brunskill",
+   "venue": "Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20)",
+   "year": "2020"
+  },
+  {
+   "title": "How AI impacts skill formation",
+   "authors": "JH Shen, A Tamkin",
+   "venue": "arXiv preprint arXiv:2601.20245",
+   "year": "2026"
+  },
+  {
+   "title": "Clio: Privacy-preserving insights into real-world ai use",
+   "authors": "A Tamkin, M McCain, K Handa, E Durmus, L Lovitt, A Rathi, S Huang, ...",
+   "venue": "arXiv preprint arXiv:2412.13678",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Measuring the persuasiveness of language models",
+   "authors": "E Durmus, L Lovitt, A Tamkin, S Ritchie, J Clark, D Ganguli",
+   "venue": "Anthropic Blog",
+   "year": "2024"
+  },
+  {
+   "title": "Viewmaker Networks: Learning Views for Unsupervised Representation Learning",
+   "authors": "A Tamkin, M Wu, N Goodman",
+   "venue": "ICLR 2021",
+   "year": "2020"
+  },
+  {
+   "title": "Values in the wild: Discovering and analyzing values in real-world language model interactions",
+   "authors": "S Huang, E Durmus, M McCain, K Handa, A Tamkin, J Hong, M Stern, ...",
+   "venue": "arXiv preprint arXiv:2504.15236",
+   "year": "2025"
+  },
+  {
+   "title": "Simple probes can catch sleeper agents",
+   "authors": "M MacDiarmid, T Maxwell, N Schiefer, J Mu, J Kaplan, D Duvenaud, ...",
+   "venue": "Anthropic Research Updates",
+   "year": "2024"
+  },
+  {
+   "title": "Drone.io: A Gestural and Visual Interface for Human-Drone Interaction",
+   "authors": "JR Cauchard, A Tamkin, CY Wang, L Vink, M Park, T Fang, JA Landay",
+   "venue": "2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI …",
+   "year": "2019"
+  },
+  {
+   "title": "Language Through a Prism: A Spectral Approach for Multiscale Language Representations",
+   "authors": "A Tamkin, D Jurafsky, N Goodman",
+   "venue": "NeurIPS 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Anthropic education report: How university students use Claude",
+   "authors": "K Handa, D Bent, A Tamkin, M McCain, E Durmus, M Stern, M Schiraldi, ...",
+   "venue": "Anthropic",
+   "year": "2025"
+  },
+  {
+   "title": "Investigating transferability in pretrained language models",
+   "authors": "A Tamkin, T Singh, D Giovanardi, N Goodman",
+   "venue": "Findings of EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Active Learning Helps Pretrained Models Learn the Intended Task",
+   "authors": "A Tamkin, D Nguyen, S Deshpande, J Mu, N Goodman",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Turbulence in focus: Benchmarking scaling behavior of 3D volumetric super-resolution with BLASTNet 2.0 data",
+   "authors": "WT Chung, B Akoush, P Sharma, A Tamkin, KS Jung, J Chen, J Guo, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 77430-77484",
+   "year": "2023"
+  },
+  {
+   "title": "Anthropic economic index report: Uneven geographic and enterprise ai adoption",
+   "authors": "R Appel*, P McCrory*, A Tamkin*, M McCain, T Neylon, M Stern",
+   "venue": "arXiv preprint arXiv:2511.15080",
+   "year": "2025"
+  },
+  {
+   "title": "Distributionally-Aware Exploration for CVaR Bandits",
+   "authors": "A Tamkin, R Keramati, C Dann, E Brunskill",
+   "venue": "NeurIPS 2019 Workshop on Safety and Robustness in Decision Making",
+   "year": "2019"
+  },
+  {
+   "title": "Studying large language model generalization with influence functions, 2023",
+   "authors": "R Grosse, J Bae, C Anil, N Elhage, A Tamkin, A Tajdini, B Steiner, D Li, ...",
+   "venue": "URL https://arxiv. org/abs/2308.03296",
+   "year": null
+  },
+  {
+   "title": "Codebook features: Sparse and discrete interpretability for neural networks",
+   "authors": "A Tamkin, M Taufeeque, ND Goodman",
+   "venue": "arXiv preprint arXiv:2310.17230",
+   "year": "2023"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Towards monosemanticity: Decomposing language models with dictionary learning, 2023",
+   "authors": "T Bricken, A Templeton, J Batson, B Chen, A Jermyn, T Conerly, N Turner, ...",
+   "venue": "URL https://transformer-circuits. pub/2023/monosemantic-features/index. html, 9",
+   "year": "2025"
+  },
+  {
+   "title": "Evaluating feature steering: A case study in mitigating social biases",
+   "authors": "E Durmus, A Tamkin, J Clark, J Wei, J Marcus, J Batson, K Handa, L Lovitt, ...",
+   "venue": "Anthropic Research",
+   "year": "2024"
+  },
+  {
+   "title": "Task Ambiguity in Humans and Language Models",
+   "authors": "A Tamkin, K Handa, A Shrestha, N Goodman",
+   "venue": "ICLR 2023",
+   "year": "2023"
+  },
+  {
+   "title": "DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning",
+   "authors": "A Tamkin, V Liu, R Lu, D Fein, C Schultz, N Goodman",
+   "venue": "NeurIPS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "C5t5: Controllable generation of organic molecules with transformers",
+   "authors": "D Rothchild, A Tamkin, J Yu, U Misra, J Gonzalez",
+   "venue": "arXiv preprint arXiv:2108.10307",
+   "year": "2021"
+  },
+  {
+   "title": "Sycophancy to subterfuge: Investigating reward-tampering in large language models, 2024",
+   "authors": "C Denison, M MacDiarmid, F Barez, D Duvenaud, S Kravec, S Marks, ...",
+   "venue": "URL https://arxiv. org/abs/2406.10162 2",
+   "year": null
+  },
+  {
+   "title": "Bayesian preference elicitation with language models",
+   "authors": "K Handa, Y Gal, E Pavlick, N Goodman, J Andreas, A Tamkin, BZ Li",
+   "venue": "arXiv preprint arXiv:2403.05534",
+   "year": "2024"
+  },
+  {
+   "title": "Recursive Routing Networks: Learning to Compose Modules for Language Understanding",
+   "authors": "I Cases, C Rosenbaum, M Riemer, A Geiger, T Klinger, A Tamkin, O Li, ...",
+   "venue": "NAACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Benchmd: A benchmark for modality-agnostic learning on medical images and sensors",
+   "authors": "K Wantlin, C Wu, SC Huang, O Banerjee, F Dadabhoy, VV Mehta, ...",
+   "venue": "arXiv preprint arXiv:2304.08486",
+   "year": "2023"
+  },
+  {
+   "title": "Oolong: Investigating what makes transfer learning hard with controlled studies",
+   "authors": "Z Wu, A Tamkin, I Papadimitriou",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Social contract ai: Aligning ai assistants with implicit group norms",
+   "authors": "JP Fränken, S Kwok, P Ye, K Gandhi, D Arumugam, J Moore, A Tamkin, ...",
+   "venue": "arXiv preprint arXiv:2310.17769",
+   "year": "2023"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2022. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 5",
+   "year": null
+  },
+  {
+   "title": "Operationalising the definition of general-purpose AI: assessing four approaches",
+   "authors": "R Uuk, CI Gutierrez, A Tamkin",
+   "venue": "Law, Innovation and Technology 17 (1), 84-102",
+   "year": "2025"
+  },
+  {
+   "title": "Feature dropout: Revisiting the role of augmentations in contrastive learning",
+   "authors": "A Tamkin, M Glasgow, X He, N Goodman",
+   "venue": "Advances in Neural Information Processing Systems 36, 61806-61835",
+   "year": "2023"
+  },
+  {
+   "title": "DABS 2.0: Improved Datasets and Algorithms for Universal Self-Supervision",
+   "authors": "A Tamkin, G Banerjee, M Owda, V Liu, S Rammoorthy, N Goodman",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Tradeoffs Between Contrastive and Supervised Learning: An Empirical Study",
+   "authors": "A Karthik, M Wu, N Goodman, A Tamkin",
+   "venue": "NeurIPS 2021 Workshop on Self-Supervised Learning - Theory and Practice",
+   "year": "2021"
+  },
+  {
+   "title": "Estimating AI productivity gains from Claude conversations",
+   "authors": "A Tamkin, P McCrory",
+   "venue": "URl: https://www. anthropic. com/research/estimating-productivitygains",
+   "year": "2025"
+  },
+  {
+   "title": "BLASTNet simulation dataset",
+   "authors": "WT Chung, M Ihme, KS Jung, JH Chen, J Guo, D Brouzet, M Talei, ...",
+   "venue": "Zenodo",
+   "year": "2024"
+  },
+  {
+   "title": "Deep CNNs for diabetic retinopathy detection",
+   "authors": "A Tamkin, I Usiri, C Fufa",
+   "venue": "Stanford University, Stanford",
+   "year": "2016"
+  },
+  {
+   "title": "Multispectral contrastive learning with viewmaker networks",
+   "authors": "J Bayrooti, N Goodman, A Tamkin",
+   "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …",
+   "year": "2023"
+  },
+  {
+   "title": "Identifying Exoplanets with Deep Learning: Towards Improved Planet Occurrence Rates with Kepler, K2, and TESS",
+   "authors": "A Vanderburg, C Shallue, A Dattilo, L Yu, A Tamkin",
+   "venue": "American Astronomical Society Meeting Abstracts# 233 233, 327.03",
+   "year": "2019"
+  },
+  {
+   "title": "How AI Impacts Skill Formation",
+   "authors": "J Hanwen Shen, A Tamkin",
+   "venue": "arXiv e-prints, arXiv: 2601.20245",
+   "year": "2026"
+  },
+  {
+   "title": "AI 如何影响技能形成",
+   "authors": "JH Shen, A Tamkin",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "The Dark Side of Invariance: Revisiting the Role of Augmentations in Contrastive Learning",
+   "authors": "A Tamkin, M Glasgow, X He, N Goodman",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

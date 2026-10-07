@@ -1,0 +1,179 @@
+{
+ "user": "ucA5EPEAAAAJ",
+ "pubs": [
+  {
+   "title": "Gemini: a family of highly capable multimodal models",
+   "authors": "G Team, R Anil, S Borgeaud, JB Alayrac, J Yu, R Soricut, J Schalkwyk, ...",
+   "venue": "arXiv preprint arXiv:2312.11805",
+   "year": "2023"
+  },
+  {
+   "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+   "authors": "G Team, P Georgiev, VI Lei, R Burnell, L Bai, A Gulati, G Tanzer, ...",
+   "venue": "arXiv preprint arXiv:2403.05530",
+   "year": "2024"
+  },
+  {
+   "title": "Incorporating nesterov momentum into adam",
+   "authors": "T Dozat",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Deep biaffine attention for neural dependency parsing",
+   "authors": "T Dozat, CD Manning",
+   "venue": "arXiv preprint arXiv:1611.01734",
+   "year": "2016"
+  },
+  {
+   "title": "Universal Stanford dependencies: A cross-linguistic typology",
+   "authors": "MC De Marneffe, T Dozat, N Silveira, K Haverinen, F Ginter, J Nivre, ...",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "A gold standard dependency corpus for English",
+   "authors": "N Silveira, T Dozat, MC De Marneffe, S Bowman, M Connor, J Bauer, ...",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "Universal dependency parsing from scratch",
+   "authors": "P Qi, T Dozat, Y Zhang, CD Manning",
+   "venue": "Proceedings of the CoNLL 2018 Shared Task: Multilingual parsing from raw …",
+   "year": "2018"
+  },
+  {
+   "title": "Stanford’s graph-based neural dependency parser at the CoNLL 2017 shared task",
+   "authors": "T Dozat, P Qi, CD Manning",
+   "venue": "Proceedings of the CoNLL 2017 shared task: Multilingual parsing from raw …",
+   "year": "2017"
+  },
+  {
+   "title": "Universal Dependencies 2.2",
+   "authors": "J Nivre, M Abrams, Ž Agić, L Ahrenberg, L Antonsen, MJ Aranzabe, ...",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Simpler but more accurate semantic dependency parsing",
+   "authors": "T Dozat, CD Manning",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Formnet: Structural encoding beyond sequential modeling in form document information extraction",
+   "authors": "CY Lee, CL Li, T Dozat, V Perot, G Su, N Hua, J Ainslie, R Wang, Y Fujii, ...",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Universal dependencies 2.8. 1",
+   "authors": "D Zeman, J Nivre, M Abrams, E Ackermann, N Aepli, H Aghaei, Ž Agić, ...",
+   "venue": "LINDAT/CLARIAHCZ digital library at the Institute of Formal and Applied …",
+   "year": "2021"
+  },
+  {
+   "title": "More constructions, more genres: Extending Stanford dependencies",
+   "authors": "MC De Marneffe, M Connor, N Silveira, SR Bowman, T Dozat, ...",
+   "venue": "Proceedings of the second international conference on dependency linguistics …",
+   "year": "2013"
+  },
+  {
+   "title": "Incorporating nesterov momentum into adam",
+   "authors": "D Timothy",
+   "venue": "Natural Hazards 3 (2), 437-453",
+   "year": "2016"
+  },
+  {
+   "title": "Dialect-robust evaluation of generated text",
+   "authors": "J Sun, T Sellam, E Clark, T Vu, T Dozat, D Garrette, A Siddhant, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "FRMT: A benchmark for few-shot region-aware machine translation",
+   "authors": "P Riley, T Dozat, JA Botha, X Garcia, D Garrette, J Riesa, O Firat, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 671-685",
+   "year": "2023"
+  },
+  {
+   "title": "Formnetv2: Multimodal graph contrastive learning for form document information extraction",
+   "authors": "CY Lee, CL Li, H Zhang, T Dozat, V Perot, G Su, X Zhang, K Sohn, ...",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Universal dependencies 2.3",
+   "authors": "N Joakim, A Mitchell, A Lars, A Lene, A Katya, AM Jesus, A Gashaw, ...",
+   "venue": "LINDAT/CLARIN digital library at the Institute of Formal and Applied …",
+   "year": "2018"
+  },
+  {
+   "title": "Sentence stress in presidential speeches",
+   "authors": "A Anttila, T Dozat, D Galbraith, N Shapiro",
+   "venue": "Prosody in syntactic encoding, 17-50",
+   "year": "2020"
+  },
+  {
+   "title": "Frmt: A benchmark for few-shot region-aware machine translation",
+   "authors": "P Riley, T Dozat, JA Botha, X Garcia, D Garrette, J Riesa, O Firat, ...",
+   "venue": "arXiv preprint arXiv:2210.00193",
+   "year": "2022"
+  },
+  {
+   "title": "Universal Dependencies 2.6",
+   "authors": "Z Daniel, N Joakim, A Mitchell, A Elia, A Noëmi, A Hamid, A Željko, A Amir, ...",
+   "venue": "LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied …",
+   "year": "2020"
+  },
+  {
+   "title": "ABrief REPORT ON VOICE MISMATCH EFFECTS IN VERB PHRASE ELLIPSIS AND SLUICING",
+   "authors": "JT RUNNER, TA DOZAT",
+   "venue": "WORKING PAPERS IN THE LANGUAGE SCIENCES 6, 58",
+   "year": "2011"
+  },
+  {
+   "title": "Arc-factored biaffine dependency parsing",
+   "authors": "T Dozat",
+   "venue": "Stanford University",
+   "year": "2019"
+  },
+  {
+   "title": "Structural encoding and attention paradigms for sequence modeling",
+   "authors": "CY Lee, CL Li, T Dozat, V Perot, G Su, N Hua, J Ainslie, R Wang, Y Fujii, ...",
+   "venue": "US Patent App. 18/684,557",
+   "year": "2024"
+  },
+  {
+   "title": "Universal Dependencies: A cross-linguistic typology",
+   "authors": "MC de Marneffe, T Dozat, N Silveira, K Haverinen, F Ginter, J Nivre, ...",
+   "venue": "Proc. LREC, 1659-1666",
+   "year": "2016"
+  },
+  {
+   "title": "Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models",
+   "authors": "L Zheng, V Bashlovkina, T Dozat, D Garrette, L Rimell, J Maynez",
+   "venue": "arXiv preprint arXiv:2605.09630",
+   "year": "2026"
+  },
+  {
+   "title": "[TACL] FRMT: A Benchmark for Few-Shot Region-Aware Machine Translation",
+   "authors": "P Riley, T Dozat, J Botha, X Garcia, D Garrette, J Riesa, O Firat, ...",
+   "venue": "The 61st Annual Meeting Of The Association For Computational Linguistics",
+   "year": "2023"
+  },
+  {
+   "title": "FormNetV2: Inductive Multimodal Graph Contrastive Learning for Form Document Information Extraction",
+   "authors": "CY Lee, CL Li, H Zhang, T Dozat, V Perot, G Su, X Zhang, K Sohn, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Universal Dependencies Treebanks 1.2 (see http://universaldependencies. org/)",
+   "authors": "J Nivre, Ž Agić, MJ Aranzabe, M Asahara, A Atutxa, M Ballesteros, J Bauer, ...",
+   "venue": "",
+   "year": "2015"
+  }
+ ]
+}

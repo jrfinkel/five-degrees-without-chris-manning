@@ -1,0 +1,245 @@
+{
+ "user": "jnuyehEAAAAJ",
+ "pubs": [
+  {
+   "title": "Linguistic models for analyzing and detecting biased language",
+   "authors": "M Recasens, C Danescu-Niculescu-Mizil, D Jurafsky",
+   "venue": "Proceedings of the 51st annual meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Ancora: Multilevel annotated corpora for Catalan and Spanish.",
+   "authors": "M Taulé, MA Martí, M Recasens",
+   "venue": "Lrec 2008, 96-101",
+   "year": "2008"
+  },
+  {
+   "title": "Mind the GAP: A balanced corpus of gendered ambiguous pronouns",
+   "authors": "K Webster, M Recasens, V Axelrod, J Baldridge",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 605-617",
+   "year": "2018"
+  },
+  {
+   "title": "Blanc: Implementing the rand index for coreference evaluation",
+   "authors": "M Recasens, E Hovy",
+   "venue": "Natural language engineering 17 (4), 485-510",
+   "year": "2011"
+  },
+  {
+   "title": "Joint entity and event coreference resolution across documents",
+   "authors": "H Lee, M Recasens, A Chang, M Surdeanu, D Jurafsky",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Scoring coreference partitions of predicted mentions: A reference implementation",
+   "authors": "S Pradhan, X Luo, M Recasens, E Hovy, V Ng, M Strube",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "The life and death of discourse entities: Identifying singleton mentions",
+   "authors": "M Recasens, MC De Marneffe, C Potts",
+   "venue": "Proceedings of the 2013 conference of the North American chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Semeval-2010 task 1: Coreference resolution in multiple languages",
+   "authors": "M Recasens, L Màrquez, E Sapena, MA Martí, M Taulé, V Hoste, ...",
+   "venue": "Proceedings of the 5th international workshop on semantic evaluation, 1-8",
+   "year": "2010"
+  },
+  {
+   "title": "AnCora-CO: Coreferentially annotated corpora for Spanish and Catalan",
+   "authors": "M Recasens, MA Martí",
+   "venue": "Language resources and evaluation 44 (4), 315-345",
+   "year": "2010"
+  },
+  {
+   "title": "Identity, non-identity, and near-identity: Addressing the complexity of coreference",
+   "authors": "M Recasens, E Hovy, MA Martí",
+   "venue": "Lingua 121 (6), 1138-1152",
+   "year": "2011"
+  },
+  {
+   "title": "“The moustache sits down first”: On the acquisition of metonymy",
+   "authors": "IL Falkum, M Recasens, EV Clark",
+   "venue": "Journal of Child Language 44 (1), 87-119",
+   "year": "2017"
+  },
+  {
+   "title": "A Typology of Near-Identity Relations for Coreference (NIDENT).",
+   "authors": "M Recasens, EH Hovy, MA Martí",
+   "venue": "LREC",
+   "year": "2010"
+  },
+  {
+   "title": "A deeper look into features for coreference resolution",
+   "authors": "M Recasens, E Hovy",
+   "venue": "Discourse Anaphora and Anaphor Resolution Colloquium, 29-42",
+   "year": "2009"
+  },
+  {
+   "title": "Lluıs Marquez, Emili Sapena, M. Antonia Martı, Mariona Taulé, Véronique Hoste, Massimo Poesio, and Yannick Versley. 2010. Semeval-2010 task 1: Coreference resolution in …",
+   "authors": "M Recasens",
+   "venue": "Proceedings of the 5th International Workshop on Semantic Evaluation, 1-8",
+   "year": "2010"
+  },
+  {
+   "title": "An extension of BLANC to system mentions",
+   "authors": "X Luo, S Pradhan, M Recasens, E Hovy",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Coreference: Theory, Annotation, Resolution and Evaluation.",
+   "authors": "M Recasens",
+   "venue": "Universitat de Barcelona",
+   "year": "2010"
+  },
+  {
+   "title": "Annotating Near-Identity from Coreference Disagreements.",
+   "authors": "M Recasens, MA Marti, C Orasan",
+   "venue": "LREC, 165-172",
+   "year": "2012"
+  },
+  {
+   "title": "Coreference resolution across corpora: Languages, coding schemes, and preprocessing information",
+   "authors": "M Recasens, E Hovy",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "AnCoraPipe: A tool for multilevel annotation",
+   "authors": "M Bertran, O Borrega, M Recasens, B Soriano",
+   "venue": "Procesamiento del lenguaje Natural, 291-292",
+   "year": "2008"
+  },
+  {
+   "title": "On paraphrase and coreference",
+   "authors": "M Recasens, M Vila",
+   "venue": "Computational Linguistics 36 (4), 639-647",
+   "year": "2010"
+  },
+  {
+   "title": "Modeling the lifespan of discourse entities with application to coreference resolution",
+   "authors": "MC De Marneffe, M Recasens, C Potts",
+   "venue": "Journal of Artificial Intelligence Research 52, 445-475",
+   "year": "2015"
+  },
+  {
+   "title": "Coreference resolution: an empirical study based on SemEval-2010 shared Task 1",
+   "authors": "L Marquez, M Recasens, E Sapena",
+   "venue": "Language resources and evaluation 47 (3), 661-694",
+   "year": "2013"
+  },
+  {
+   "title": "Annotated corpora and annotation tools",
+   "authors": "M Poesio, S Pradhan, M Recasens, K Rodriguez, Y Versley",
+   "venue": "Anaphora resolution: algorithms, resources, and applications, 97-140",
+   "year": "2016"
+  },
+  {
+   "title": "Same referent, different words: Unsupervised mining of opaque coreferent mentions",
+   "authors": "M Recasens, M Can, D Jurafsky",
+   "venue": "Proceedings of the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Discourse deixis and coreference: Evidence from AnCora",
+   "authors": "M Recasens",
+   "venue": "Proceedings of the Second Workshop on Anaphora Resolution (WAR II) 73, 82",
+   "year": "2008"
+  },
+  {
+   "title": "Text as scene: Discourse deixis and bridging relations",
+   "authors": "M Potau, M Taulé",
+   "venue": "Procesamiento del lenguaje natural",
+   "year": "2007"
+  },
+  {
+   "title": "Where anaphora and coreference meet. Annotation in the Spanish CESS-ECE corpus",
+   "authors": "M Recasens, MA Martí, M Taulé",
+   "venue": "Proceedings of RANLP-07, 504-509",
+   "year": "2007"
+  },
+  {
+   "title": "First mention definites: More than exceptional cases",
+   "authors": "M Recasens, MA Martí, M Taulé",
+   "venue": "The Fruits of Empirical Linguistics: Products2 217",
+   "year": "2009"
+  },
+  {
+   "title": "Stanford’s system for parsing the English web",
+   "authors": "D McClosky, W Che, M Recasens, M Wang, R Socher, C Manning",
+   "venue": "Workshop on the Syntactic Analysis of Non-Canonical Language (SANCL 2012 …",
+   "year": "2012"
+  },
+  {
+   "title": "Evaluation campaigns",
+   "authors": "M Recasens, S Pradhan",
+   "venue": "Anaphora Resolution: Algorithms, Resources, and Applications, 165-208",
+   "year": "2016"
+  },
+  {
+   "title": "Resolving discourse-deictic pronouns: A two-stage approach to do it",
+   "authors": "SK Jauhar, R Guerra, EG Pellicer, M Recasens",
+   "venue": "Proceedings of the Fourth Joint Conference on Lexical and Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Sense anaphoric pronouns: Am i one?",
+   "authors": "M Recasens, Z Hu, O Rhinehart",
+   "venue": "Proceedings of the Workshop on Coreference Resolution Beyond OntoNotes …",
+   "year": "2016"
+  },
+  {
+   "title": "Towards coreference resolution for Catalan and Spanish",
+   "authors": "M Recasens",
+   "venue": "Trabajo presentado como requisito parcial para la obtención del DEA",
+   "year": "2008"
+  },
+  {
+   "title": "Biosensor for detecting biological fluid",
+   "authors": "FJ ANDRADE, JF ALBIOL, PREW BLANKING, TAG PAVÓN, ...",
+   "venue": "US Patent App. 16/482,654",
+   "year": "2020"
+  },
+  {
+   "title": "Coreference is not always either/or: Psycholinguistic evidence for near-identity",
+   "authors": "M Recasens, L Tolchinsky, MA Martí",
+   "venue": "Language, Cognition and Neuroscience 29 (7), 844-855",
+   "year": "2014"
+  },
+  {
+   "title": "A chain-starting classifier of definite NPs in Spanish",
+   "authors": "M Recasens",
+   "venue": "Proceedings of the Student Research Workshop at EACL 2009, 46-53",
+   "year": "2009"
+  },
+  {
+   "title": "Los avances tecnológicos y la ciencia del lenguaje",
+   "authors": "M Martí, RG Alhama, M Recasens",
+   "venue": "Cum corde et in nova grammatica. Estudios ofrecidos a Guillermo Rojo, 543-553",
+   "year": "2012"
+  },
+  {
+   "title": "Where Anaphora and Coreference Meet. Annotation in the CESS-ECE Corpus",
+   "authors": "M Recasens, MA Martí, M Taulé",
+   "venue": "Recent Advances in Natural language Processing (RANLP-2007)",
+   "year": "2007"
+  },
+  {
+   "title": "Modeling the Lifespan of Discourse Entities: Nature or Nurture?",
+   "authors": "MC de Marneffe, M Recasens, C Potts",
+   "venue": "2nd Conference of the American Pragmatics Association",
+   "year": "2014"
+  },
+  {
+   "title": "Anaphoric Annotation and Information Structure: Solved Problems, Open Challenges",
+   "authors": "M Poesio, A Riester, KK Cook, D Haug, Y Hou, K Markert, D Meurers, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

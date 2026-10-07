@@ -1,0 +1,761 @@
+{
+ "user": "sVR8ktkAAAAJ",
+ "pubs": [
+  {
+   "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+   "authors": "Y Liu*, M Ott*, N Goyal*, J Du*, M Joshi, D Chen, O Levy, M Lewis, ...",
+   "venue": "arXiv preprint arXiv:1907.11692",
+   "year": "2019"
+  },
+  {
+   "title": "Dense Passage Retrieval for Open-Domain Question Answering",
+   "authors": "V Karpukhin*, B Oğuz*, S Min, L Wu, S Edunov, D Chen, W Yih",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "SimCSE: Simple Contrastive Learning of Sentence Embeddings",
+   "authors": "T Gao, X Yao, D Chen",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "TMLR 2023",
+   "year": "2022"
+  },
+  {
+   "title": "SpanBERT: Improving Pre-training by Representing and Predicting Spans",
+   "authors": "M Joshi*, D Chen*, Y Liu, DS Weld, L Zettlemoyer, O Levy",
+   "venue": "Transactions of the Association for Computational Linguistics 8, 64-77",
+   "year": "2020"
+  },
+  {
+   "title": "Reading Wikipedia to Answer Open-Domain Questions",
+   "authors": "D Chen, A Fisch, J Weston, A Bordes",
+   "venue": "ACL 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Making Pre-trained Language Models Better Few-shot Learners",
+   "authors": "T Gao, A Fisch, D Chen",
+   "venue": "ACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Reasoning With Neural Tensor Networks for Knowledge Base Completion",
+   "authors": "R Socher*, D Chen*, CD Manning, A Ng",
+   "venue": "NIPS, 926-934",
+   "year": "2013"
+  },
+  {
+   "title": "A Fast and Accurate Dependency Parser using Neural Networks",
+   "authors": "D Chen, CD Manning",
+   "venue": "EMNLP 2014, 740-750",
+   "year": "2014"
+  },
+  {
+   "title": "CoQA: A Conversational Question Answering Challenge",
+   "authors": "S Reddy*, D Chen*, CD Manning",
+   "venue": "Transactions of the Association for Computational Linguistics 7, 249-266",
+   "year": "2019"
+  },
+  {
+   "title": "Observed Versus Latent Features for Knowledge Base and Text Inference",
+   "authors": "K Toutanova, D Chen",
+   "venue": "Proceedings of the 3rd Workshop on Continuous Vector Space Models and their …",
+   "year": "2015"
+  },
+  {
+   "title": "SimPO: Simple Preference Optimization with a Reference-Free Reward",
+   "authors": "Y Meng, M Xia, D Chen",
+   "venue": "NeurIPS 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Position-aware Attention and Supervised Data Improve Slot Filling",
+   "authors": "Y Zhang, V Zhong, D Chen, G Angeli, CD Manning",
+   "venue": "EMNLP 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Representing Text for Joint Embedding of Text and Knowledge Bases",
+   "authors": "K Toutanova, D Chen, P Pantel, H Poon, P Choudhury, M Gamon",
+   "venue": "EMNLP 2015, 1499-1509",
+   "year": "2015"
+  },
+  {
+   "title": "Enabling Large Language Models to Generate Text with Citations",
+   "authors": "T Gao, H Yen, J Yu, D Chen",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "A Frustratingly Easy Approach for Entity and Relation Extraction",
+   "authors": "Z Zhong, D Chen",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Detecting Pretraining Data from Large Language Models",
+   "authors": "W Shi, A Ajith, M Xia, Y Huang, D Liu, T Blevins, D Chen, L Zettlemoyer",
+   "venue": "ICLR 2024",
+   "year": "2024"
+  },
+  {
+   "title": "A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task",
+   "authors": "D Chen, J Bolton, CD Manning",
+   "venue": "ACL 2016 (arXiv preprint arXiv:1606.02858)",
+   "year": "2016"
+  },
+  {
+   "title": "LESS: Selecting Influential Data for Targeted Instruction Tuning",
+   "authors": "M Xia, S Malladi, S Gururangan, S Arora, D Chen",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Catastrophic Jailbreak of Open-Source LLMs via Exploiting Generation",
+   "authors": "Y Huang, S Gupta, M Xia, K Li, D Chen",
+   "venue": "ICLR 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Fine-Tuning Language Models with Just Forward Passes",
+   "authors": "S Malladi, T Gao, E Nichani, A Damian, JD Lee, D Chen, S Arora",
+   "venue": "NeurIPS 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning",
+   "authors": "M Xia, T Gao, Z Zeng, D Chen",
+   "venue": "ICLR 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Factual Probing Is [MASK]: Learning vs. Learning to Recall",
+   "authors": "Z Zhong, D Friedman, D Chen",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Adapting Language Models to Compress Contexts",
+   "authors": "A Chevalier, A Wettig, A Ajith, D Chen",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Foundational Challenges in Assuring Alignment and Safety of Large Language Models",
+   "authors": "U Anwar, A Saparov, J Rando, D Paleka, M Turpin, P Hase, ES Lubana, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2024"
+  },
+  {
+   "title": "MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions",
+   "authors": "Z Zhong, Z Wu, CD Manning, C Potts, D Chen",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Structured Pruning Learns Compact and Accurate Models",
+   "authors": "M Xia, Z Zhong, D Chen",
+   "venue": "ACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating Large Language Models at Evaluating Instruction Following",
+   "authors": "Z Zeng, J Yu, T Gao, Y Meng, T Goyal, D Chen",
+   "venue": "ICLR 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Charxiv: Charting gaps in realistic chart understanding in multimodal llms",
+   "authors": "Z Wang, M Xia, L He, H Chen, Y Liu, R Zhu, K Liang, X Wu, H Liu, ...",
+   "venue": "NeurIPS 2024 (Datasets and Benchmarks)",
+   "year": "2024"
+  },
+  {
+   "title": "MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension",
+   "authors": "A Fisch, A Talmor, R Jia, M Seo, E Choi, D Chen",
+   "venue": "arXiv preprint arXiv:1910.09753",
+   "year": "2019"
+  },
+  {
+   "title": "Sorry-bench: Systematically evaluating large language model safety refusal behaviors",
+   "authors": "T Xie, X Qi, Y Zeng, Y Huang, UM Sehwag, K Huang, L He, B Wei, D Li, ...",
+   "venue": "ICLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Should You Mask 15% in Masked Language Modeling?",
+   "authors": "A Wettig, T Gao, Z Zhong, D Chen",
+   "venue": "EACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Retrieval-based Language Models and Applications",
+   "authors": "A Asai, S Min, Z Zhong, D Chen",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "BRIGHT: A realistic and challenging benchmark for reasoning-intensive retrieval",
+   "authors": "H Su, H Yen, M Xia, W Shi, N Muennighoff, H Wang, H Liu, Q Shi, ...",
+   "venue": "ICLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Poisoning Retrieval Corpora by Injecting Adversarial Passages",
+   "authors": "Z Zhong, Z Huang, A Wettig, D Chen",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Simple Entity-Centric Questions Challenge Dense Retrievers",
+   "authors": "C Sciavolino, Z Zhong, J Lee, D Chen",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "QuRating: Selecting High-Quality Data for Training Language Models",
+   "authors": "A Wettig, A Gupta, S Malik, D Chen",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "What In-Context Learning \"Learns\" In-Context: Disentangling Task Recognition and Task Learning",
+   "authors": "J Pan, T Gao, H Chen, D Chen",
+   "venue": "Findings of ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly",
+   "authors": "H Yen, T Gao, M Hou, K Ding, D Fleischer, P Izsak, M Wasserblat, D Chen",
+   "venue": "ICLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "A Discrete Hard EM Approach for Weakly Supervised Question Answering",
+   "authors": "S Min, D Chen, H Hajishirzi, L Zettlemoyer",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Certifiably robust rag against retrieval corruption",
+   "authors": "C Xiang, T Wu, Z Zhong, D Wagner, D Chen, P Mittal",
+   "venue": "2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 392-410",
+   "year": "2026"
+  },
+  {
+   "title": "Goedel-prover: A frontier model for open-source automated theorem proving",
+   "authors": "Y Lin, S Tang, B Lyu, J Wu, H Lin, K Yang, J Li, M Xia, D Chen, S Arora, ...",
+   "venue": "arXiv preprint arXiv:2502.07640",
+   "year": "2025"
+  },
+  {
+   "title": "Training Language Models with Memory Augmentation",
+   "authors": "Z Zhong, T Lei, D Chen",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "A Kernel-Based View of Language Model Fine-tuning",
+   "authors": "S Malladi, A Wettig, D Yu, D Chen, S Arora",
+   "venue": "ICML 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Recovering Private Text in Federated Learning of Language Models",
+   "authors": "S Gupta, Y Huang, Z Zhong, T Gao, K Li, D Chen",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "How to train long-context language models (effectively)",
+   "authors": "T Gao, A Wettig, H Yen, D Chen",
+   "venue": "ACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Learning Dense Representations of Phrases at Scale",
+   "authors": "J Lee, M Sung, J Kang, D Chen",
+   "venue": "ACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning",
+   "authors": "X Zhu, M Xia, Z Wei, WL Chen, D Chen, Y Meng",
+   "venue": "NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Neural Reading Comprehension and Beyond",
+   "authors": "D Chen",
+   "venue": "Stanford University",
+   "year": "2018"
+  },
+  {
+   "title": "Knowledge Guided Text Retrieval and Reading for Open Domain Question Answering",
+   "authors": "S Min, D Chen, L Zettlemoyer, H Hajishirzi",
+   "venue": "arXiv preprint arXiv:1911.03868",
+   "year": "2019"
+  },
+  {
+   "title": "Open-domain Question Answering",
+   "authors": "D Chen, W Yih",
+   "venue": "ACL 2020: Tutorial Abstracts, 34-37",
+   "year": "2020"
+  },
+  {
+   "title": "Goedel-prover-v2: Scaling formal theorem proving with scaffolded data synthesis and self-correction",
+   "authors": "Y Lin, S Tang, B Lyu, Z Yang, JH Chung, H Zhao, L Jiang, Y Geng, J Ge, ...",
+   "venue": "ICLR 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Learning Transformer Programs",
+   "authors": "D Friedman, A Wettig, D Chen",
+   "venue": "NeurIPS 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Litsearch: A retrieval benchmark for scientific literature search",
+   "authors": "A Ajith, M Xia, A Chevalier, T Goyal, D Chen, T Gao",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Reliable, Adaptable, and Attributable Language Models with Retrieval",
+   "authors": "A Asai, Z Zhong, D Chen, PW Koh, L Zettlemoyer, H Hajishirzi, W Yih",
+   "venue": "arXiv preprint arXiv:2403.03187",
+   "year": "2024"
+  },
+  {
+   "title": "Long-Context Language Modeling with Parallel Context Encoding",
+   "authors": "H Yen, T Gao, D Chen",
+   "venue": "ACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Generating Natural Language Proofs with Verifier-Guided Search",
+   "authors": "K Yang, J Deng, D Chen",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "NeurIPS 2020 EfficientQA competition: Systems, Analyses and Lessons Learned",
+   "authors": "S Min, J Boyd-Graber, C Alberti, D Chen, E Choi, M Collins, K Guu, ...",
+   "venue": "arXiv preprint arXiv:2101.00133",
+   "year": "2021"
+  },
+  {
+   "title": "Learning New Facts From Knowledge Bases With Neural Tensor Networks and Semantic Word Vectors",
+   "authors": "D Chen, R Socher, CD Manning, AY Ng",
+   "venue": "arXiv preprint arXiv:1301.3618",
+   "year": "2013"
+  },
+  {
+   "title": "Beyond Ten Blue Links: Enabling User Click Modeling in Federated Web Search",
+   "authors": "D Chen, W Chen, H Wang, Z Chen, Q Yang",
+   "venue": "Proceedings of the fifth ACM international conference on Web search and data …",
+   "year": "2012"
+  },
+  {
+   "title": "Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization",
+   "authors": "N Razin, S Malladi, A Bhaskar, D Chen, S Arora, B Hanin",
+   "venue": "ICLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Privacy Implications of Retrieval-Based Language Models",
+   "authors": "Y Huang, S Gupta, Z Zhong, K Li, D Chen",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Finding transformer circuits with edge pruning",
+   "authors": "A Bhaskar, A Wettig, D Friedman, D Chen",
+   "venue": "NeurIPS 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Organize the Web: Constructing Domains Enhances Pre-Training Data Curation",
+   "authors": "A Wettig, K Lo, S Min, H Hajishirzi, D Chen, L Soldaini",
+   "venue": "ICML 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Texthide: Tackling Data Privacy in Language Understanding Tasks",
+   "authors": "Y Huang, Z Song, D Chen, K Li, S Arora",
+   "venue": "EMNLP-Findings 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Can Rationalization Improve Robustness?",
+   "authors": "H Chen, J He, K Narasimhan, D Chen",
+   "venue": "NAACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Retaining by doing: The role of on-policy data in mitigating forgetting",
+   "authors": "H Chen, N Razin, K Narasimhan, D Chen",
+   "venue": "ICML 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations",
+   "authors": "C Si, D Friedman, N Joshi, S Feng, D Chen, H He",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Training Trajectories of Language Models Across Scales",
+   "authors": "M Xia, M Artetxe, C Zhou, XV Lin, R Pasunuru, D Chen, L Zettlemoyer, ...",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Phrase Retrieval Learns Passage Retrieval, Too",
+   "authors": "J Lee, A Wettig, D Chen",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Language Models as Science Tutors",
+   "authors": "A Chevalier, J Geng, A Wettig, H Chen, S Mizera, T Annala, MJ Aragon, ...",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "MABEL: Attenuating Gender Bias using Textual Entailment Data",
+   "authors": "J He, M Xia, C Fellbaum, D Chen",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training",
+   "authors": "Z Zhong, M Xia, D Chen, M Lewis",
+   "venue": "COLM 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Self-distillation zero: Self-revision turns binary rewards into dense supervision",
+   "authors": "Y He, S Kaur, A Bhaskar, Y Yang, J Liu, N Ri, L Fowl, A Panigrahi, D Chen, ...",
+   "venue": "arXiv preprint arXiv:2604.12002",
+   "year": "2026"
+  },
+  {
+   "title": "C-STS: Conditional Semantic Textual Similarity",
+   "authors": "A Deshpande, CE Jimenez, H Chen, V Murahari, V Graf, T Rajpurohit, ...",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Bootstrapped Self Training for Knowledge Base Population",
+   "authors": "G Angeli, V Zhong, D Chen, A Chaganty, J Bolton, MJ Premkumar, ...",
+   "venue": "TAC 2015",
+   "year": "2015"
+  },
+  {
+   "title": "Fantastic copyrighted beasts and how (not) to generate them",
+   "authors": "L He, Y Huang, W Shi, T Xie, H Liu, Y Wang, L Zettlemoyer, C Zhang, ...",
+   "venue": "ICLR 2025",
+   "year": "2025"
+  },
+  {
+   "title": "LongProc: Benchmarking long-context language models on long procedural generation",
+   "authors": "X Ye, F Yin, Y He, J Zhang, H Yen, T Gao, G Durrett, D Chen",
+   "venue": "COLM 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Interpretability Illusions in the Generalization of Simplified Models",
+   "authors": "D Friedman, AK Lampinen, L Dixon, D Chen, A Ghandeharioun",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking",
+   "authors": "W Zhang, F Yin, H Yen, D Chen, X Ye",
+   "venue": "EMNLP 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Ai risk management should incorporate both safety and security",
+   "authors": "X Qi, Y Huang, Y Zeng, E Debenedetti, J Geiping, L He, K Huang, ...",
+   "venue": "arXiv preprint arXiv:2405.19524",
+   "year": "2024"
+  },
+  {
+   "title": "Single-dataset Experts for Multi-dataset Question Answering",
+   "authors": "D Friedman, B Dodge, D Chen",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Metadata Conditioning Accelerates Language Model Pre-training",
+   "authors": "T Gao, A Wettig, L He, Y Dong, S Malladi, D Chen",
+   "venue": "ICML 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Ditch the Gold Standard: Re-evaluating Conversational Question Answering",
+   "authors": "H Li, T Gao, M Goenka, D Chen",
+   "venue": "ACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Non-Parametric Few-Shot Learning for Word Sense Disambiguation",
+   "authors": "H Chen, M Xia, D Chen",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Language models that think, chat better",
+   "authors": "A Bhaskar, X Ye, D Chen",
+   "venue": "COLM 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Stanford at TAC KBP 2016: Sealing pipeline leaks and understanding Chinese",
+   "authors": "Y Zhang, AT Chaganty, A Paranjape, D Chen, J Bolton, P Qi, CD Manning",
+   "venue": "TAC 2016",
+   "year": "2016"
+  },
+  {
+   "title": "Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models",
+   "authors": "M van de Kar, M Xia, D Chen, M Artetxe",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Prompting ELECTRA: Few-Shot Learning with Discriminative Pre-Trained Models",
+   "authors": "M Xia, M Artetxe, J Du, D Chen, V Stoyanov",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Finding Dataset Shortcuts with Grammar Induction",
+   "authors": "D Friedman, A Wettig, D Chen",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models",
+   "authors": "A Bhaskar, D Friedman, D Chen",
+   "venue": "ACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Roberta: A robustly optimized bert pretraining approach. arXiv preprint arXiv",
+   "authors": "Y Liu, M Ott, N Goyal, J Du, M Joshi, D Chen, O Levy, M Lewis, ...",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Statutory construction and interpretation for artificial intelligence",
+   "authors": "L He, N Nadeem, M Liao, H Chen, D Chen, MF Cuéllar, P Henderson",
+   "venue": "Proceedings of the National Academy of Sciences (PNAS)",
+   "year": "2026"
+  },
+  {
+   "title": "Optimizing Test-Time Query Representations for Dense Retrieval",
+   "authors": "M Sung, J Park, J Kang, D Chen, J Lee",
+   "venue": "Findings of ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?",
+   "authors": "A Bhaskar, A Wettig, T Gao, Y Dong, D Chen",
+   "venue": "arXiv preprint arXiv:2506.17121",
+   "year": "2025"
+  },
+  {
+   "title": "Continual memorization of factoids in large language models",
+   "authors": "H Chen, J Geng, A Bhaskar, D Friedman, D Chen",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Controllable text generation with language constraints",
+   "authors": "H Chen, H Li, D Chen, K Narasimhan",
+   "venue": "arXiv preprint arXiv:2212.10466",
+   "year": "2022"
+  },
+  {
+   "title": "Vero: An open RL recipe for general visual reasoning",
+   "authors": "G Sarch, L Cai, Q Wang, H Wu, D Chen, Z Liu",
+   "venue": "ECCV 2026",
+   "year": "2026"
+  },
+  {
+   "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach. ArXiv./abs/1907.11692",
+   "authors": "Y Liu, M Ott, N Goyal, J Du, M Joshi, D Chen, O Levy, M Lewis, ...",
+   "venue": "",
+   "year": "1907"
+  },
+  {
+   "title": "Agentic aggregation for parallel scaling of long-horizon agentic tasks",
+   "authors": "Y Lee, H Yen, X Ye, D Chen",
+   "venue": "COLM 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Lost in the maze: Overcoming context limitations in long-horizon agentic search",
+   "authors": "H Yen, Y Lee, A Paranjape, M Xia, T Venkatesh, J Hessel, D Chen, ...",
+   "venue": "COLM 2026",
+   "year": "2026"
+  },
+  {
+   "title": "SIGIR 2023 Workshop on Retrieval Enhanced Machine Learning (REML@ SIGIR 2023)",
+   "authors": "M Bendersky, D Chen, F Diaz, H Zamani",
+   "venue": "Proceedings of the 46th International ACM SIGIR Conference on Research and …",
+   "year": "2023"
+  },
+  {
+   "title": "Enabling large language models to generate text with citations. arXiv",
+   "authors": "T Gao, H Yen, J Yu, D Chen",
+   "venue": "Preprint posted online May 24",
+   "year": "2023"
+  },
+  {
+   "title": "Comparing representational and functional similarity in small transformer language models",
+   "authors": "D Friedman, AK Lampinen, L Dixon, D Chen, A Ghandeharioun",
+   "venue": "UniReps: the First Workshop on Unifying Representations in Neural Models",
+   "year": "2023"
+  },
+  {
+   "title": "Mquake: Assessing knowledge editing in language models via multi-hop questions, 2024",
+   "authors": "Z Zhong, Z Wu, CD Manning, C Potts, D Chen",
+   "venue": "URL https://arxiv. org/abs/2305.14795",
+   "year": null
+  },
+  {
+   "title": "Certifiably robust rag against retrieval corruption, 2024",
+   "authors": "C Xiang, T Wu, Z Zhong, D Wagner, D Chen, P Mittal",
+   "venue": "URL https://arxiv. org/abs/2405 15556",
+   "year": null
+  },
+  {
+   "title": "Representing rule-based chatbots with transformers",
+   "authors": "D Friedman, A Panigrahi, D Chen",
+   "venue": "NAACL 2025",
+   "year": "2024"
+  },
+  {
+   "title": "De-anonymizing social networks",
+   "authors": "D Chen, B Hu, S Xie",
+   "venue": "CS224W Course Project Writup",
+   "year": "2012"
+  },
+  {
+   "title": "Precise Information Control in Long-Form Text Generation",
+   "authors": "J He, H Yen, M Li, SS Li, Z Zeng, W Shi, Y Tsvetkov, D Chen, PW Koh, ...",
+   "venue": "NeurIPS 2025",
+   "year": "2025"
+  },
+  {
+   "title": "A robustly optimized bert pretraining approach. Roberta",
+   "authors": "Y Liu, M Ott, N Goyal, J Du, M Joshi, D Chen, O Levy, M Lewis, ...",
+   "venue": "arXiv preprint arXiv:1907.11692",
+   "year": "2019"
+  },
+  {
+   "title": "Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks, 2026",
+   "authors": "Y Lee, H Yen, X Ye, D Chen",
+   "venue": "URL https://arxiv. org/abs/2604.11753",
+   "year": null
+  },
+  {
+   "title": "Roberta: A robustly optimized pretraining approach",
+   "authors": "Y Liu, M Ott, N Goyal, J Du, M Joshi, D Chen, O Levy, M Lewis, ...",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "RoBERTa: ARobustly optimized BERT pretraining approach",
+   "authors": "D Chen, O Levy, M Lewis, L Zettlemoyer, V Stoyanov",
+   "venue": "Computer Science Computation and Language, arXiv",
+   "year": "1907"
+  },
+  {
+   "title": "DySCO: Dynamic Attention-Scaling Decoding for Long-Context Language Models",
+   "authors": "X Ye, W Zhang, F Yin, H Yen, D Chen",
+   "venue": "arXiv preprint arXiv:2602.22175",
+   "year": "2026"
+  },
+  {
+   "title": "Extracting rule-based descriptions of attention features in transformers",
+   "authors": "D Friedman, A Bhaskar, A Wettig, D Chen",
+   "venue": "arXiv preprint arXiv:2510.18148",
+   "year": "2025"
+  },
+  {
+   "title": "The model hears you: Audio language model deployments should consider the principle of least privilege",
+   "authors": "L He, X Qi, M Liao, I Cheong, P Mittal, D Chen, P Henderson",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 8 (2 …",
+   "year": "2025"
+  },
+  {
+   "title": "System and method for secure and robust distributed deep learning",
+   "authors": "S Arora, K Li, Y HUANG, Z SONG, D Chen",
+   "venue": "US Patent 12,400,031",
+   "year": "2025"
+  },
+  {
+   "title": "MoQA: Benchmarking multi-type open-domain question answering",
+   "authors": "H Yen, T Gao, J Lee, D Chen",
+   "venue": "Proceedings of the Third DialDoc Workshop on Document-grounded Dialogue and …",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Machine Reading for Question Answering",
+   "authors": "A Fisch, A Talmor, R Jia, M Seo, E Choi, D Chen",
+   "venue": "Proceedings of the 2nd Workshop on Machine Reading for Question Answering",
+   "year": "2019"
+  },
+  {
+   "title": "Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning",
+   "authors": "C Shi, W Li, X Liang, Y Lu, W Yang, R Feng, S Karten, Z Yang, Z Ding, ...",
+   "venue": "COLM 2026",
+   "year": "2026"
+  },
+  {
+   "title": "The deployment of end-to-end audio language models should take into account the principle of least privilege",
+   "authors": "L He, X Qi, M Liao, I Cheong, P Mittal, D Chen, P Henderson",
+   "venue": "arXiv e-prints, arXiv: 2503.16833",
+   "year": "2025"
+  },
+  {
+   "title": "Characterizing Inverse Time Dependency in Multi-class Learning",
+   "authors": "D Chen, W Chen, Q Yang",
+   "venue": "Data Mining (ICDM), 2011 IEEE 11th International Conference on, 1020-1025",
+   "year": "2011"
+  },
+  {
+   "title": "Hubs or Fringes: Pretraining Data Selection via Web Graph Centrality",
+   "authors": "V Badoni, D Chen, X Wang",
+   "venue": "arXiv preprint arXiv:2606.11499",
+   "year": "2026"
+  },
+  {
+   "title": "Cascaded to End-to-End: New Safety, Security, and Evaluation Questions for Audio Language Models",
+   "authors": "L He, X Qi, I Cheong, P Mittal, D Chen, P Henderson",
+   "venue": "38th Conference on Neural Information Processing Systems (NeurIPS 2024 …",
+   "year": "2024"
+  },
+  {
+   "title": "Reasoning-Focused Evaluation of Efficient Long-Context Inference Techniques",
+   "authors": "J Zhang, Q Wei, H Yen, X Ye, D Chen",
+   "venue": "NeurIPS 2025 Workshop on Efficient Reasoning",
+   "year": null
+  },
+  {
+   "title": "Scaling Laws for Strategic Interactions",
+   "authors": "J Zhang, D Chen, P Henderson, L Hammond",
+   "venue": "New Frontiers in Game-Theoretic Learning-NExT-Game",
+   "year": null
+  }
+ ]
+}

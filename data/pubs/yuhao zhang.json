@@ -1,0 +1,233 @@
+{
+ "user": "2d-0ybAAAAAJ",
+ "pubs": [
+  {
+   "title": "Stanza: A Python Natural Language Processing Toolkit for Many Human Languages",
+   "authors": "P Qi, Y Zhang, Y Zhang, J Bolton, CD Manning",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Contrastive Learning of Medical Visual Representations from Paired Images and Text",
+   "authors": "Y Zhang, H Jiang, Y Miura, CD Manning, CP Langlotz",
+   "venue": "Proceedings of the 7th Machine Learning for Healthcare Conference 182, 2-25",
+   "year": "2022"
+  },
+  {
+   "title": "Position-aware attention and supervised data improve slot filling",
+   "authors": "Y Zhang, V Zhong, D Chen, G Angeli, CD Manning",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Graph convolution over pruned dependency trees improves relation extraction",
+   "authors": "Y Zhang, P Qi, CD Manning",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Radgraph: Extracting clinical entities and relations from radiology reports",
+   "authors": "S Jain, A Agrawal, A Saporta, SQH Truong, DN Duong, T Bui, P Chambon, ...",
+   "venue": "NeurIPS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Universal dependency parsing from scratch",
+   "authors": "P Qi, T Dozat, Y Zhang, CD Manning",
+   "venue": "Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw …",
+   "year": "2018"
+  },
+  {
+   "title": "Cross-type biomedical named entity recognition with deep multi-task learning",
+   "authors": "X Wang, Y Zhang, X Ren, Y Zhang, M Zitnik, J Shang, C Langlotz, J Han",
+   "venue": "Bioinformatics 35 (10), 1745-1752",
+   "year": "2019"
+  },
+  {
+   "title": "Improving factual completeness and consistency of image-to-text radiology report generation",
+   "authors": "Y Miura, Y Zhang, EB Tsai, CP Langlotz, D Jurafsky",
+   "venue": "Proceedings of the 2021 Annual Conference of the North American Chapter of …",
+   "year": "2021"
+  },
+  {
+   "title": "Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports",
+   "authors": "Y Zhang, D Merck, EB Tsai, CD Manning, CP Langlotz",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Biomedical and Clinical English Model Packages in the Stanza Python NLP Library",
+   "authors": "Y Zhang, Y Zhang, P Qi, CD Manning, CP Langlotz",
+   "venue": "Journal of the American Medical Informatics Association 28 (9), Pages 1892–1899",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to summarize radiology findings",
+   "authors": "Y Zhang, DY Ding, T Qian, CD Manning, CP Langlotz",
+   "venue": "EMNLP 2018 Workshop on Health Text Mining and Information Analysis.",
+   "year": "2018"
+  },
+  {
+   "title": "Overview of the MEDIQA 2021 shared task on summarization in the medical domain",
+   "authors": "AB Abacha, Y M’rabet, Y Zhang, C Shivade, C Langlotz, ...",
+   "venue": "Proceedings of the 20th Workshop on Biomedical Language Processing, 74-85",
+   "year": "2021"
+  },
+  {
+   "title": "Do Syntax Trees Help Pre-trained Transformers Extract Information?",
+   "authors": "DS Sachan, Y Zhang, P Qi, W Hamilton",
+   "venue": "16th Conference of the European Chapter of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Promptriever: Instruction-trained retrievers can be prompted like language models",
+   "authors": "O Weller, B Van Durme, D Lawrie, A Paranjape, Y Zhang, J Hessel",
+   "venue": "ICLR 2025",
+   "year": "2024"
+  },
+  {
+   "title": "RAG-QA Arena: Evaluating domain robustness for long-form retrieval augmented question answering",
+   "authors": "R Han, Y Zhang, P Qi, Y Xu, J Wang, L Liu, WY Wang, B Min, V Castelli",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Stay hungry, stay focused: Generating informative and specific questions in information-seeking conversations",
+   "authors": "P Qi, Y Zhang, CD Manning",
+   "venue": "Findings of EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Multi-perspective relevance matching with hierarchical convnets for social media search",
+   "authors": "J Rao, W Yang, Y Zhang, F Ture, J Lin",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 232-240",
+   "year": "2019"
+  },
+  {
+   "title": "Deep convolutional network for handwritten Chinese character recognition",
+   "authors": "Y Zhang",
+   "venue": "Computer Science Department, Stanford University",
+   "year": "2015"
+  },
+  {
+   "title": "Generate then select: Open-ended visual question answering guided by world knowledge",
+   "authors": "X Fu, S Zhang, G Kwon, P Perera, H Zhu, Y Zhang, AH Li, WY Wang, ...",
+   "venue": "Findings of ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Expanding a radiology lexicon using contextual patterns in radiology reports",
+   "authors": "B Percha, Y Zhang, S Bozkurt, D Rubin, RB Altman, CP Langlotz",
+   "venue": "Journal of the American Medical Informatics Association 25 (6), 679-685",
+   "year": "2018"
+  },
+  {
+   "title": "RobustQA: Benchmarking the robustness of domain adaptation for open-domain question answering",
+   "authors": "R Han, P Qi, Y Zhang, L Liu, J Burger, WY Wang, Z Huang, B Xiang, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 4294-4311",
+   "year": "2023"
+  },
+  {
+   "title": "Stanford at TAC KBP 2016: Sealing Pipeline Leaks and Understanding Chinese.",
+   "authors": "Y Zhang, AT Chaganty, A Paranjape, D Chen, J Bolton, P Qi, CD Manning",
+   "venue": "Text Analysis Conference (TAC) Proceedings",
+   "year": "2016"
+  },
+  {
+   "title": "Tokenization consistency matters for generative models on extractive NLP tasks",
+   "authors": "K Sun, P Qi, Y Zhang, L Liu, WY Wang, Z Huang",
+   "venue": "Findings of EMNLP 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Segmental convolutional neural networks for detection of cardiac abnormality with noisy heart sound recordings",
+   "authors": "Y Zhang, S Ayyar, LH Chen, EJ Li",
+   "venue": "arXiv preprint arXiv:1612.01943",
+   "year": "2016"
+  },
+  {
+   "title": "Lost in the maze: Overcoming context limitations in long-horizon agentic search",
+   "authors": "H Yen, Y Lee, A Paranjape, M Xia, T Venkatesh, J Hessel, D Chen, ...",
+   "venue": "arXiv preprint arXiv:2510.18939",
+   "year": "2025"
+  },
+  {
+   "title": "Stanford at TAC KBP 2017: Building a Trilingual Relational Knowledge Graph.",
+   "authors": "AT Chaganty, A Paranjape, J Bolton, M Lamm, J Lei, A See, K Clark, ...",
+   "venue": "Text Analysis Conference (TAC) Proceedings",
+   "year": "2017"
+  },
+  {
+   "title": "Helping users bootstrap ontologies: an empirical investigation",
+   "authors": "Y Zhang, T Tudorache, M Horridge, MA Musen",
+   "venue": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing …",
+   "year": "2015"
+  },
+  {
+   "title": "Consumer demand for online dizziness information: if you build it, they may come",
+   "authors": "KA Kerber, LE Skolarus, BC Callaghan, K Zheng, Y Zhang, LC An, ...",
+   "venue": "Frontiers in Neurology 5, 50",
+   "year": "2014"
+  },
+  {
+   "title": "Improving cross-task generalization of unified table-to-text models with compositional task configurations",
+   "authors": "J Chen, Y Zhang, L Liu, R Dong, X Chen, P Ng, WY Wang, Z Huang",
+   "venue": "Findings of ACL 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Contrastive learning of medical visual representations from paired images and text",
+   "authors": "Z Yuhao, J Hang, M Yasuhide, DM Christopher, PL Curtis",
+   "venue": "arXiv preprint",
+   "year": "2020"
+  },
+  {
+   "title": "Manning Christopher D., and Langlotz Curtis P",
+   "authors": "Z Yuhao, M Derek, E Tsai",
+   "venue": "Optimizing the factual correctness of a summary: A study of summarizing …",
+   "year": "2020"
+  },
+  {
+   "title": "Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models",
+   "authors": "Z Wu, Y Zhang, P Qi, Y Xu, R Han, Y Zhang, J Chen, B Min, Z Huang",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Template-based tuning of a generative machine learning model for performing natural language tasks",
+   "authors": "PQ Zhiheng HUANG, Yue Yang, Lan Liu, Yuhao Zhang",
+   "venue": "US Patent US20250111267A1",
+   "year": "2025"
+  },
+  {
+   "title": "OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction",
+   "authors": "S Hallinan, T Venkatesh, X Ren, SP Karimireddy, A Paranjape, Y Zhang, ...",
+   "venue": "Proceedings of the ACM Conference on AI and Agentic Systems, 620-638",
+   "year": "2026"
+  },
+  {
+   "title": "FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents",
+   "authors": "Y Zhang, OO Koyluoglu, T Venkatesh, RD Martinez, V Bhatia, A Alidoust, ...",
+   "venue": "arXiv preprint arXiv:2608.11683",
+   "year": "2026"
+  },
+  {
+   "title": "Distinguish hard instances of an NP-hard problem using machine learning",
+   "authors": "Z Wang, T Zhang, Y Zhang",
+   "venue": "Order 14 (16), 18",
+   "year": "2013"
+  },
+  {
+   "title": "Deep Understanding and Generation of Medical Text and Beyond",
+   "authors": "Y Zhang",
+   "venue": "Stanford University",
+   "year": "2021"
+  },
+  {
+   "title": "Neural Network Joint Language Model: An Investigation and An Extension With Global Source Context",
+   "authors": "Y Zhang, CR Qi",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

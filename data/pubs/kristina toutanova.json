@@ -1,0 +1,995 @@
+{
+ "user": "9qY7NPEAAAAJ",
+ "pubs": [
+  {
+   "title": "Bert: Pre-training of deep bidirectional transformers for language understanding/arXiv preprint",
+   "authors": "J Devlin",
+   "venue": "arXiv preprint arXiv:1810.04805",
+   "year": "2018"
+  },
+  {
+   "title": "Natural questions: a benchmark for question answering research",
+   "authors": "T Kwiatkowski, J Palomaki, O Redfield, M Collins, A Parikh, C Alberti, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 7, 453-466",
+   "year": "2019"
+  },
+  {
+   "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
+   "authors": "G Comanici, E Bieber, M Schaekermann, I Pasupat, N Sachdeva, I Dhillon, ...",
+   "venue": "arXiv preprint arXiv:2507.06261",
+   "year": "2025"
+  },
+  {
+   "title": "Feature-rich part-of-speech tagging with a cyclic dependency network",
+   "authors": "K Toutanova, D Klein, CD Manning, Y Singer",
+   "venue": "Proceedings of the 2003 human language technology conference of the north …",
+   "year": "2003"
+  },
+  {
+   "title": "Boolq: Exploring the surprising difficulty of natural yes/no questions",
+   "authors": "C Clark, K Lee, MW Chang, T Kwiatkowski, M Collins, K Toutanova",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Observed versus latent features for knowledge base and text inference",
+   "authors": "K Toutanova, D Chen",
+   "venue": "Proceedings of the 3rd workshop on continuous vector space models and their …",
+   "year": "2015"
+  },
+  {
+   "title": "Enriching the knowledge sources used in a maximum entropy part-of-speech tagger",
+   "authors": "K Toutanova, CD Manning",
+   "venue": "2000 Joint SIGDAT conference on Empirical methods in natural language …",
+   "year": "2000"
+  },
+  {
+   "title": "Latent retrieval for weakly supervised open domain question answering",
+   "authors": "K Lee, MW Chang, K Toutanova",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Representing Text for Joint Embedding of Text and Knowledge Bases",
+   "authors": "K Toutanova, D Chen, P Pantel, H Poon, P Choudhury, M Gamon",
+   "venue": "EMNLP",
+   "year": "2015"
+  },
+  {
+   "title": "Well-Read Students Learn Better: On the Importance of Pre-training Compact Models",
+   "authors": "I Turc, MW Chang, K Lee, K Toutanova",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Cross-sentence n-ary relation extraction with graph lstms",
+   "authors": "N Peng, H Poon, C Quirk, K Toutanova, W Yih",
+   "venue": "Transactions of the Association for Computational Linguistics 5, 101-115",
+   "year": "2017"
+  },
+  {
+   "title": "Pix2struct: Screenshot parsing as pretraining for visual language understanding",
+   "authors": "K Lee, M Joshi, IR Turc, H Hu, F Liu, JM Eisenschlos, U Khandelwal, ...",
+   "venue": "International Conference on Machine Learning, 18893-18912",
+   "year": "2023"
+  },
+  {
+   "title": "Sparse, dense, and attentional representations for text retrieval",
+   "authors": "Y Luan, J Eisenstein, K Toutanova, M Collins",
+   "venue": "Transactions of the Association for Computational Linguistics 9, 329-345",
+   "year": "2021"
+  },
+  {
+   "title": "BERT: pre-training of deep Bidirectional transformers for language understanding. 2018. doi: 10.48550",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "arxiv 2 (2)",
+   "year": "1810"
+  },
+  {
+   "title": "Zero-shot entity linking by reading entity descriptions",
+   "authors": "L Logeswaran, MW Chang, K Lee, K Toutanova, J Devlin, H Lee",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Learning discriminative projections for text similarity measures",
+   "authors": "W Yih, K Toutanova, JC Platt, C Meek",
+   "venue": "Proceedings of the fifteenth conference on computational natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "BERT: Pre-training of deep bidirectional transformers for language understanding (arXiv: 1810.04805). arXiv",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "",
+   "year": "1810"
+  },
+  {
+   "title": "Pronunciation modeling for improved spelling correction",
+   "authors": "K Toutanova, RC Moore",
+   "venue": "Proceedings of the 40th Annual Meeting of the Association for Computational …",
+   "year": "2002"
+  },
+  {
+   "title": "Extracting parallel sentences from comparable corpora using document level alignment",
+   "authors": "J Smith, C Quirk, K Toutanova",
+   "venue": "Human language technologies: The 2010 annual conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "LinGO Redwoods: A Rich and Dynamic Treebank for HPSG",
+   "authors": "S Oepen, D Flickinger, K Toutanova, CD Manning",
+   "venue": "Research on Language and Computation 2 (4), 575-596",
+   "year": "2004"
+  },
+  {
+   "title": "Semi-supervised part-of-speech tagging",
+   "authors": "KN Toutanova, ME Johnson",
+   "venue": "US Patent App. 11/954,212",
+   "year": "2009"
+  },
+  {
+   "title": "Joint learning improves semantic role labeling",
+   "authors": "K Toutanova, A Haghighi, CD Manning",
+   "venue": "Proceedings of the 43rd Annual Meeting of the Association for Computational …",
+   "year": "2005"
+  },
+  {
+   "title": "Compositional generalization and natural language variation: Can a semantic parsing approach handle both?",
+   "authors": "P Shaw, MW Chang, P Pasupat, K Toutanova",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "The LinGO Redwoods treebank: Motivation and preliminary applications",
+   "authors": "S Oepen, K Toutanova, SM Shieber, CD Manning, D Flickinger, T Brants",
+   "venue": "COLING 2002: The 17th International Conference on Computational Linguistics …",
+   "year": "2002"
+  },
+  {
+   "title": "A global joint model for semantic role labeling",
+   "authors": "K Toutanova, A Haghighi, CD Manning",
+   "venue": "Computational Linguistics 34 (2), 161-191",
+   "year": "2008"
+  },
+  {
+   "title": "Unsupervised morphological segmentation with log-linear models",
+   "authors": "H Poon, C Cherry, K Toutanova",
+   "venue": "Proceedings of Human Language Technologies: The 2009 Annual Conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Compositional Learning of Embeddings for Relation Paths in Knowledge Bases and Text",
+   "authors": "K Toutanova, XV Lin, S Wen-tau Yih, H Poon, C Quirk",
+   "venue": "ACL",
+   "year": "2016"
+  },
+  {
+   "title": "Open-domain visual entity recognition: Towards recognizing millions of wikipedia entities",
+   "authors": "H Hu, Y Luan, Y Chen, U Khandelwal, M Joshi, K Lee, K Toutanova, ...",
+   "venue": "2023 IEEE/CVF International Conference on Computer Vision (ICCV), 12031-12041",
+   "year": "2023"
+  },
+  {
+   "title": "Applying morphology generation models to machine translation",
+   "authors": "K Toutanova, H Suzuki, A Ruopp",
+   "venue": "Proceedings of ACL-08: HLT, 514-522",
+   "year": "2008"
+  },
+  {
+   "title": "A Bayesian LDA-based model for semi-supervised part-of-speech tagging",
+   "authors": "K Toutanova, M Johnson",
+   "venue": "Advances in neural information processing systems 20",
+   "year": "2007"
+  },
+  {
+   "title": "BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv. org",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "URL: https://arxiv. org/abs/1810.04805 (date of access: 15.05. 2024)",
+   "year": "1810"
+  },
+  {
+   "title": "A nested attention neural hybrid model for grammatical error correction",
+   "authors": "J Ji, Q Wang, K Toutanova, Y Gong, S Truong, J Gao",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "From pixels to ui actions: Learning to follow instructions via graphical user interfaces",
+   "authors": "P Shaw, M Joshi, J Cohan, J Berant, P Pasupat, H Hu, U Khandelwal, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 34354-34370",
+   "year": "2023"
+  },
+  {
+   "title": "Generating complex morphology for machine translation",
+   "authors": "E Minkov, K Toutanova, H Suzuki",
+   "venue": "Proceedings of the 45th annual meeting of the association of computational …",
+   "year": "2007"
+  },
+  {
+   "title": "Translingual document representations from discriminative projections",
+   "authors": "JC Platt, K Toutanova, W Yih",
+   "venue": "Proceedings of the 2010 Conference on Empirical Methods in Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Text classification in a hierarchical mixture model for small training sets",
+   "authors": "K Toutanova, F Chen, K Popat, T Hofmann",
+   "venue": "Proceedings of the tenth international conference on Information and …",
+   "year": "2001"
+  },
+  {
+   "title": "Extensions to HMM-based statistical word alignment models",
+   "authors": "K Toutanova, HT Ilhan, CD Manning",
+   "venue": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language …",
+   "year": "2002"
+  },
+  {
+   "title": "Stochastic HPSG parse disambiguation using the Redwoods corpus",
+   "authors": "K Toutanova, CD Manning, D Flickinger, S Oepen",
+   "venue": "Research on Language and Computation 3 (1), 83-105",
+   "year": "2005"
+  },
+  {
+   "title": "Learning random walk models for inducing word dependency distributions",
+   "authors": "K Toutanova, CD Manning, AY Ng",
+   "venue": "Proceedings of the twenty-first international conference on Machine learning …",
+   "year": "2004"
+  },
+  {
+   "title": "The pythy summarization system: Microsoft research at duc 2007",
+   "authors": "K Toutanova, C Brockett, M Gamon, J Jagarlamudi, H Suzuki, ...",
+   "venue": "Proc. of DUC 2007",
+   "year": "2007"
+  },
+  {
+   "title": "Multilingual named entity recognition using parallel data and metadata from wikipedia",
+   "authors": "S Kim, K Toutanova, H Yu",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Improving compositional generalization with latent structure and data augmentation",
+   "authors": "L Qiu, P Shaw, P Pasupat, P Nowak, T Linzen, F Sha, K Toutanova",
+   "venue": "Proceedings of the 2022 conference of the north american chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Facet recommendations from sentiment-bearing content",
+   "authors": "B Dolan, M Mitchell, J Banerjee, P Choudhury, S Hendrich, R Mason, ...",
+   "venue": "US Patent 9,978,362",
+   "year": "2018"
+  },
+  {
+   "title": "Bayesian semi-supervised chinese word segmentation for statistical machine translation",
+   "authors": "J Xu, J Gao, K Toutanova, H Ney",
+   "venue": "Proceedings of the 22nd International Conference on Computational …",
+   "year": "2008"
+  },
+  {
+   "title": "Combining heterogeneous classifiers for word sense disambiguation",
+   "authors": "D Klein, K Toutanova, HT Ilhan, SD Kamvar, CD Manning",
+   "venue": "Proceedings of the ACL-02 workshop on Word sense disambiguation: recent …",
+   "year": "2002"
+  },
+  {
+   "title": "Clickthrough-based latent semantic models for web search",
+   "authors": "J Gao, K Toutanova, W Yih",
+   "venue": "Proceedings of the 34th international ACM SIGIR conference on Research and …",
+   "year": "2011"
+  },
+  {
+   "title": "A joint model for semantic role labeling",
+   "authors": "A Haghighi, K Toutanova, CD Manning",
+   "venue": "Proceedings of the Ninth Conference on Computational Natural Language …",
+   "year": "2005"
+  },
+  {
+   "title": "Pre-training of deep bidirectional transformers for language understanding in: Proceedings of the 2019 conference of the north american chapter of the association for …",
+   "authors": "J Devlin, M Chang, K Lee, K Toutanova",
+   "venue": "Minneapolis, MN: Association for Computational Linguistics 1, 4171-4186",
+   "year": "2019"
+  },
+  {
+   "title": "North american chapter of the association for computational linguistics",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+   "year": "2019"
+  },
+  {
+   "title": "Parse disambiguation for a rich HPSG grammar",
+   "authors": "K Toutanova, C Manning, A Goodridge, D Flickinger, S Oepen",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "A comparative study of parameter estimation methods for statistical natural language processing",
+   "authors": "J Gao, G Andrew, M Johnson, K Toutanova",
+   "venue": "Proceedings of the 45th Annual Meeting of the Association of Computational …",
+   "year": "2007"
+  },
+  {
+   "title": "Evaluating the impact of model scale for compositional generalization in semantic parsing",
+   "authors": "L Qiu, P Shaw, P Pasupat, T Shi, J Herzig, E Pitler, F Sha, K Toutanova",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [Электронный ресурс]",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "Режим доступа: https://doi. org/10.48550/arXiv",
+   "year": "1810"
+  },
+  {
+   "title": "Revisiting the primacy of english in zero-shot cross-lingual transfer",
+   "authors": "I Turc, K Lee, J Eisenstein, MW Chang, K Toutanova",
+   "venue": "arXiv preprint arXiv:2106.16171",
+   "year": "2021"
+  },
+  {
+   "title": "A dataset and evaluation metrics for abstractive compression of sentences and short paragraphs",
+   "authors": "K Toutanova, C Brockett, KM Tran, S Amershi",
+   "venue": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language …",
+   "year": "2016"
+  },
+  {
+   "title": "Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv; 2018;[DOI: https://dx. doi. org/10.48550/arXiv",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "arXiv preprint arXiv:1810.04805",
+   "year": "1810"
+  },
+  {
+   "title": "Mitigating catastrophic forgetting in language transfer via model merging",
+   "authors": "A Alexandrov, V Raychev, MN Müller, C Zhang, M Vechev, K Toutanova",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 17167 …",
+   "year": "2024"
+  },
+  {
+   "title": "BERT: pre-training of deep bidirectional transformers for language understanding (2019). arXiv",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "arXiv preprint arXiv:1810.04805",
+   "year": "2018"
+  },
+  {
+   "title": "Weighted linear model",
+   "authors": "R Moore, W Yih, G Andrew, K Toutanova",
+   "venue": "US Patent App. 11/485,015",
+   "year": "2007"
+  },
+  {
+   "title": "Joint passage ranking for diverse multi-answer retrieval",
+   "authors": "S Min, K Lee, MW Chang, K Toutanova, H Hajishirzi",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Distant supervision for cancer pathway extraction from text",
+   "authors": "H Poon, K Toutanova, C Quirk",
+   "venue": "Pacific Symposium on Biocomputing Co-Chairs, 120-131",
+   "year": "2014"
+  },
+  {
+   "title": "Boolq: Exploring the surprising difficulty of natural yes/no questions, 2019",
+   "authors": "C Clark, K Lee, MW Chang, T Kwiatkowski, M Collins, K Toutanova",
+   "venue": "URL https://arxiv. org/abs",
+   "year": "1905"
+  },
+  {
+   "title": "BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv May 24, 2019",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "URL: https://arxiv. org/abs/1810.04805 [accessed 2022-12-12]",
+   "year": "1810"
+  },
+  {
+   "title": "A global model for joint lemmatization and part-of-speech prediction",
+   "authors": "K Toutanova, C Cherry",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "Robust textual inference using diverse knowledge sources",
+   "authors": "R Raina, A Haghighi, C Cox, J Finkel, J Michels, K Toutanova, ...",
+   "venue": "Proceedings of the First PASCAL Challenges Workshop",
+   "year": "2005"
+  },
+  {
+   "title": "Quest: A retrieval dataset of entity-seeking queries with implicit set operations",
+   "authors": "C Malaviya, P Shaw, MW Chang, K Lee, K Toutanova",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "The leaf path projection view of parse trees: Exploring string kernels for HPSG parse selection",
+   "authors": "K Toutanova, P Markova, CD Manning",
+   "venue": "Proceedings of the 2004 conference on Empirical Methods in Natural Language …",
+   "year": "2004"
+  },
+  {
+   "title": "Representations for question answering from documents with tables and text",
+   "authors": "V Zayats, K Toutanova, M Ostendorf",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to predict case markers in japanese",
+   "authors": "H Suzuki, K Toutanova",
+   "venue": "Proceedings of the 21st International Conference on Computational …",
+   "year": "2006"
+  },
+  {
+   "title": "MSR SPLAT, a language analysis toolkit",
+   "authors": "C Quirk, P Choudhury, J Gao, H Suzuki, K Toutanova, M Gamon, W Yih, ...",
+   "venue": "Proceedings of the Demonstration Session at the Conference of the North …",
+   "year": "2012"
+  },
+  {
+   "title": "Joint optimization for machine translation system combination",
+   "authors": "X He, K Toutanova",
+   "venue": "Proceedings of the 2009 Conference on Empirical Methods in Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "A discriminative syntactic word order model for machine translation",
+   "authors": "PC Chang, K Toutanova",
+   "venue": "Proceedings of the 45th Annual Meeting of the Association of Computational …",
+   "year": "2007"
+  },
+  {
+   "title": "Survey of data-selection methods in statistical machine translation",
+   "authors": "S Eetemadi, W Lewis, K Toutanova, H Radha",
+   "venue": "Machine Translation 29 (3), 189-223",
+   "year": "2015"
+  },
+  {
+   "title": "Graph-based semi-supervised learning of translation models from monolingual data",
+   "authors": "A Saluja, HH Awadalla, K Toutanova, C Quirk",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "BERT: Pre-training of deep bidirectional transformers for language understanding Proceedings of the 2019 conference of the north American chapter of the association for …",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "Association for Computational Linguistics",
+   "year": "2019"
+  },
+  {
+   "title": "Feature selection for a rich HPSG grammar using decision trees",
+   "authors": "K Toutanova, CD Manning",
+   "venue": "COLING-02: The 6th Conference on Natural Language Learning 2002 (CoNLL-2002)",
+   "year": "2002"
+  },
+  {
+   "title": "Grounded Semantic Parsing for Complex Knowledge Extraction",
+   "authors": "AP Parikh, H Poon, K Toutanova",
+   "venue": "NAACL HLT",
+   "year": "2015"
+  },
+  {
+   "title": "Unsupervised bilingual morpheme segmentation and alignment with context-rich hidden semi-Markov models",
+   "authors": "J Naradowsky, K Toutanova",
+   "venue": "Proceedings of the 49th Annual Meeting of the Association for Computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Contextualized representations using textual encyclopedic knowledge",
+   "authors": "M Joshi, K Lee, Y Luan, K Toutanova",
+   "venue": "arXiv preprint arXiv:2004.12006",
+   "year": "2020"
+  },
+  {
+   "title": "Generating case markers in machine translation",
+   "authors": "K Toutanova, H Suzuki",
+   "venue": "Human Language Technologies 2007: The Conference of the North American …",
+   "year": "2007"
+  },
+  {
+   "title": "A discriminative lexicon model for complex morphology",
+   "authors": "M Jeong, K Toutanova, H Suzuki, C Quirk",
+   "venue": "Proceedings of the 9th Conference of the Association for Machine Translation …",
+   "year": "2010"
+  },
+  {
+   "title": "Clickthrough-based latent semantic model",
+   "authors": "J Gao, K Toutanova, W Yih",
+   "venue": "US Patent 9,009,148",
+   "year": "2015"
+  },
+  {
+   "title": "Beyond left-to-right: Multiple decomposition structures for SMT",
+   "authors": "H Zhang, K Toutanova, C Quirk, J Gao",
+   "venue": "Proceedings of NAACL-HLT, 12-21",
+   "year": "2013"
+  },
+  {
+   "title": "Language model pre-training for hierarchical document representations",
+   "authors": "MW Chang, K Toutanova, K Lee, J Devlin",
+   "venue": "arXiv preprint arXiv:1901.09128",
+   "year": "2019"
+  },
+  {
+   "title": "Probabilistic assumptions matter: Improved models for distantly-supervised document-level question answering",
+   "authors": "H Cheng, MW Chang, K Lee, K Toutanova",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Grammatical element generation in machine translation",
+   "authors": "H Suzuki, K Toutanova",
+   "venue": "US Patent 8,209,163",
+   "year": "2012"
+  },
+  {
+   "title": "Semantic parsing for complex knowledge extraction",
+   "authors": "H Poon, K Toutanova, AP Parikh",
+   "venue": "US Patent 10,133,728",
+   "year": "2018"
+  },
+  {
+   "title": "arXiv preprint",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "arXiv preprint",
+   "year": "2018"
+  },
+  {
+   "title": "Locating parallel word sequences in electronic documents",
+   "authors": "CB Quirk, KN Toutanova, JR Smith",
+   "venue": "US Patent 8,560,297",
+   "year": "2013"
+  },
+  {
+   "title": "Proceedings of the 2021 conference of the north american chapter of the association for computational linguistics: Human language technologies",
+   "authors": "K Toutanova, A Rumshisky, L Zettlemoyer, D Hakkani-Tur, I Beltagy, ...",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Discriminative syntactic word order model for machine translation",
+   "authors": "KN Toutanova, PC Chang",
+   "venue": "US Patent 8,452,585",
+   "year": "2013"
+  },
+  {
+   "title": "Parse ranking for a rich HPSG grammar",
+   "authors": "K Toutanova, CD Manning, SM Shieber, D Flickinger, S Oepen",
+   "venue": "Proceedings of the First Workshop on Treebanks and Linguistic Theories …",
+   "year": "2002"
+  },
+  {
+   "title": "ProtEx: a retrieval-augmented approach for protein function prediction",
+   "authors": "P Shaw, B Gurram, D Belanger, A Gane, ML Bileschi, LJ Colwell, ...",
+   "venue": "bioRxiv, 2024.05. 30.596539",
+   "year": "2024"
+  },
+  {
+   "title": "Asymmetric Features of Human Generated Translation",
+   "authors": "S Eetemadi, K Toutanova",
+   "venue": "EMNLP",
+   "year": "2014"
+  },
+  {
+   "title": "Why initialization matters for IBM model 1: multiple optima and non-strict convexity",
+   "authors": "K Toutanova, M Galley",
+   "venue": "Proceedings of the 49th Annual Meeting of the Association for Computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Multilingual bert readme",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Unsupervised chinese word segmentation for statistical machine translation",
+   "authors": "J Gao, KN Toutanova, J Xu",
+   "venue": "US Patent App. 12/163,119",
+   "year": "2009"
+  },
+  {
+   "title": "CGWorld-a web based workbench for conceptual graphs management and applications",
+   "authors": "P Dobrev, K Toutanova, A STRUPCHANSKA",
+   "venue": "Working with Conceptual Structures, Contributions to ICCS, 243-256",
+   "year": "2000"
+  },
+  {
+   "title": "Alta: Compiler-based analysis of transformers",
+   "authors": "P Shaw, J Cohan, J Eisenstein, K Lee, J Berant, K Toutanova",
+   "venue": "arXiv preprint arXiv:2410.18077",
+   "year": "2024"
+  },
+  {
+   "title": "Generating grammatical elements in natural language sentences",
+   "authors": "H Suzuki, K Toutanova",
+   "venue": "US Patent 7,865,352",
+   "year": "2011"
+  },
+  {
+   "title": "Efficient end-to-end visual document understanding with rationale distillation",
+   "authors": "W Zhu, A Agarwal, M Joshi, R Jia, J Thomason, K Toutanova",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Microsummarization of online reviews: An experimental study",
+   "authors": "R Mason, B Gaska, B Van Durme, P Choudhury, T Hart, B Dolan, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 30 (1)",
+   "year": "2016"
+  },
+  {
+   "title": "Ranker selection for statistical natural language processing",
+   "authors": "J Gao, G Andrew, M Johnson, K Toutanova",
+   "venue": "US Patent 7,844,555",
+   "year": "2010"
+  },
+  {
+   "title": "Microsoft research treelet translation system: Naacl 2006 europarl evaluation",
+   "authors": "A Menezes, K Toutanova, C Quirk",
+   "venue": "Proceedings on the Workshop on Statistical Machine Translation, 158-161",
+   "year": "2006"
+  },
+  {
+   "title": "Automatic semantic role labeling",
+   "authors": "W Yih, K Toutanova",
+   "venue": "Proceedings of the Human Language Technology Conference of the NAACL …",
+   "year": "2006"
+  },
+  {
+   "title": "CGWorld-2001-New Features and New Directions",
+   "authors": "P Dobrev, A Strupchanska, K Toutanova",
+   "venue": "CGTools Workshop at ICCS, 89-101",
+   "year": "2001"
+  },
+  {
+   "title": "BgGPT 1.0: Extending English-centric LLMs to other languages",
+   "authors": "A Alexandrov, V Raychev, DI Dimitrov, C Zhang, M Vechev, K Toutanova",
+   "venue": "arXiv preprint arXiv:2412.10893",
+   "year": "2024"
+  },
+  {
+   "title": "Unsupervised learning using global features, including for log-linear model word segmentation",
+   "authors": "KN Toutanova, CA Cherry, H Poon",
+   "venue": "US Patent 8,909,514",
+   "year": "2014"
+  },
+  {
+   "title": "Regularized minimum error rate training",
+   "authors": "M Galley, C Quirk, C Cherry, K Toutanova",
+   "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Competitive generative models with structure learning for NLP classification tasks",
+   "authors": "K Toutanova",
+   "venue": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language …",
+   "year": "2006"
+  },
+  {
+   "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Association for Computational Linguistics, Minneapolis, Minnesota, 4171--4186",
+   "authors": "J Devlin, MW Chang, K Lee, K Toutanova",
+   "venue": "doi. org/10.18653/v1, 1423",
+   "year": "2019"
+  },
+  {
+   "title": "Effective statistical models for syntactic and semantic disambiguation",
+   "authors": "KN Toutanova",
+   "venue": "stanford university",
+   "year": "2005"
+  },
+  {
+   "title": "Bridging kolmogorov complexity and deep learning: Asymptotically optimal description length objectives for transformers",
+   "authors": "P Shaw, J Cohan, J Eisenstein, K Toutanova",
+   "venue": "International Conference on Learning Representations 2026, 137284-137333",
+   "year": "2026"
+  },
+  {
+   "title": "BERT: Pre-training of deep directional transformers for language understanding. arXiv",
+   "authors": "J Devlin, MW Chang, L Lee, K Toutanova",
+   "venue": "arXiv preprint arXiv:1810.04805",
+   "year": "2019"
+  },
+  {
+   "title": "Testing of Medicinal Drugs and Drug Combinations",
+   "authors": "CB Quirk, W Yih, H Poon, K Toutanova, SW Mayhew, S Wang",
+   "venue": "US Patent App. 14/985,023",
+   "year": "2017"
+  },
+  {
+   "title": "The stanford natural language processing group",
+   "authors": "C Manning, D Jurafsky, P Liang",
+   "venue": "The Stanford Parser: A statistical parser, http://nlp. stanford. edu …",
+   "year": "2008"
+  },
+  {
+   "title": "CGWorld-architecture and features",
+   "authors": "P Dobrev, K Toutanova",
+   "venue": "International Conference on Conceptual Structures, 261-270",
+   "year": "2002"
+  },
+  {
+   "title": "Understanding Museum Exhibits using Vision-Language Reasoning",
+   "authors": "AA Balauca, S Garai, S Balauca, RU Shetty, N Agrawal, DS Shah, Y Fu, ...",
+   "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV), 2227-2238",
+   "year": "2025"
+  },
+  {
+   "title": "Taming clip for fine-grained and structured visual understanding of museum exhibits",
+   "authors": "AA Balauca, DP Paudel, K Toutanova, L Van Gool",
+   "venue": "European Conference on Computer Vision, 377-394",
+   "year": "2024"
+  },
+  {
+   "title": "Optimizing local probability models for statistical parsing",
+   "authors": "K Toutanova, M Mitchell, CD Manning",
+   "venue": "European Conference on Machine Learning, 409-420",
+   "year": "2003"
+  },
+  {
+   "title": "Optimizing Pre-Training Data Mixtures with Mixtures of Data Expert Models",
+   "authors": "L Belenki, A Agarwal, T Shi, K Toutanova",
+   "venue": "https://www.arxiv.org/abs/2502.15950",
+   "year": "2025"
+  },
+  {
+   "title": "Sentiment-based recommendations as a function of grounding factors associated with a user",
+   "authors": "B Dolan, M Mitchell, J Banerjee, P Choudhury, S Hendrich, R Mason, ...",
+   "venue": "US Patent 10,650,804",
+   "year": "2020"
+  },
+  {
+   "title": "Learning non-linear features for machine translation using gradient boosting machines",
+   "authors": "K Toutanova, BG Ahn",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Menu-based interfaces to conceptual graphs: The CGLex approach",
+   "authors": "G Angelova, S Damyanova, K Toutanova, K Bontcheva",
+   "venue": "International Conference on Conceptual Structures, 603-606",
+   "year": "1997"
+  },
+  {
+   "title": "Detecting translation direction: A cross-domain study",
+   "authors": "S Eetemadi, K Toutanova",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Machine translation from text",
+   "authors": "N Habash, J Olive, C Christianson, J McCary, N Habash, A de Gispert, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Machine-Learned User Interface Command Generator Using Pretrained Image Processing Model",
+   "authors": "PT Shaw, M Joshi, KN Toutanova, JF Cohan, JH Berant, KCT Lee, ...",
+   "venue": "US Patent App. 19/002,441",
+   "year": "2025"
+  },
+  {
+   "title": "Providing rewards and metrics for completion of microtasks",
+   "authors": "JB Teevan, S Amershi, ST Iqbal, DJ Liebling, SEK Eden, KN Toutanova, ...",
+   "venue": "US Patent 10,755,296",
+   "year": "2020"
+  },
+  {
+   "title": "Document understanding conference duc 2007",
+   "authors": "HT Dang, L Vanderwende, C Blake, J Kampov, A Orphanides, D West, ...",
+   "venue": "Document Understanding Conference",
+   "year": "2007"
+  },
+  {
+   "title": "Anchor prediction: Automatic refinement of internet links",
+   "authors": "NF Liu, K Lee, K Toutanova",
+   "venue": "arXiv preprint arXiv:2305.14337",
+   "year": "2023"
+  },
+  {
+   "title": "Generating recommendations for entity-oriented exploratory search.",
+   "authors": "D Wadden, N Gupta, K Lee, K Toutanova",
+   "venue": "CoRR",
+   "year": "2022"
+  },
+  {
+   "title": "Identifying and assigning microtasks",
+   "authors": "J Teevan, ST Iqbal, C von Veh, D Liebling, SEK Eden, ...",
+   "venue": "US Patent App. 14/880,305",
+   "year": "2017"
+  },
+  {
+   "title": "Model selection for type-supervised learning with application to pos tagging",
+   "authors": "K Toutanova, W Ammar, P Choudhury, H Poon",
+   "venue": "Proceedings of the Nineteenth Conference on Computational Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Proceedings of the 52nd annual meeting of the association for computational linguistics (volume 1: Long papers)",
+   "authors": "K Toutanova, H Wu",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "機械学習による日本語格助詞の予測",
+   "authors": "鈴木久美， K Toutanova",
+   "venue": "言語処理学会第 13 回年次大会",
+   "year": "2006"
+  },
+  {
+   "title": "Parse selection on the Redwoods corpus: 3rd growth results",
+   "authors": "K Toutanova, CD Manning, S Oepen, D Flickinger",
+   "venue": "CS Technical Report, Stanford University",
+   "year": "2003"
+  },
+  {
+   "title": "Using conceptual graphs to solve a resource allocation task",
+   "authors": "S Damianova, K Toutanova",
+   "venue": "International Conference on Conceptual Structures, 297-314",
+   "year": "1999"
+  },
+  {
+   "title": "Transactions of the Association for Computational Linguistics, Volume 6",
+   "authors": "L Lee, M Johnson, K Toutanova, B Roark, L Frermann, SB Cohen, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 6",
+   "year": "2018"
+  },
+  {
+   "title": "NLP for precision medicine",
+   "authors": "H Poon, C Quirk, K Toutanova, W Yih",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Proceedings of the Twelfth Conference on Computational Natural Language Learning: 16-17 August 2008, Manchester, UK",
+   "authors": "A Clark, K Toutanova",
+   "venue": "Association for Computing Machinery",
+   "year": "2008"
+  },
+  {
+   "title": "CGWorld–from Conceptual Graph Theory to the Implementation",
+   "authors": "P Dobrev, A Strupchanska, K Toutanova",
+   "venue": "Applications with Conceptual Structures Workshop at ICCS-2002, Borovets …",
+   "year": "2002"
+  },
+  {
+   "title": "Predicting labels for biological sequences using neural networks conditioned on positive and negative examples",
+   "authors": "PT Shaw, BS Gurram, DB Belanger, GA Gane, M Bileschi, L Colwell, ...",
+   "venue": "US Patent App. 19/209,989",
+   "year": "2025"
+  },
+  {
+   "title": "Providing rewards and metrics for completion of microtasks",
+   "authors": "JB Teevan, S Amershi, ST Iqbal, DJ Liebling, SEK Eden, KN Toutanova, ...",
+   "venue": "US Patent App. 16/933,827",
+   "year": "2020"
+  },
+  {
+   "title": "Supervised machine learning for the detection of troll profiles in twitter social network: Application to a real case of cyberbullying",
+   "authors": "C Llewellyn, L Cram, A Favero, RL Hill, A Grover, J Leskovec, J Devlin, ...",
+   "venue": "Logic Journal of the IGPL 26, 187-205",
+   "year": "2019"
+  },
+  {
+   "title": "Improving Span-based Question Answering Systems with Coarsely Labeled Data",
+   "authors": "H Cheng, MW Chang, K Lee, A Parikh, M Collins, K Toutanova",
+   "venue": "arXiv preprint arXiv:1811.02076",
+   "year": "2018"
+  },
+  {
+   "title": "E-TIPSY: Search Query Corpus Annotated with Entities, Term Importance, POS Tags, and Syntactic Parses",
+   "authors": "Y Marton, K Toutanova",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+   "authors": "K Toutanova, H Wu",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "CoNLL 2008: Proceedings of the Twelfth Conference on Computational Natural Language Learning",
+   "authors": "A Clark, K Toutanova",
+   "venue": "CoNLL 2008: Proceedings of the Twelfth Conference on Computational Natural …",
+   "year": "2008"
+  },
+  {
+   "title": "The MSR-MSRA MT System for NIST Open Machine Translation 2008 Evaluation",
+   "authors": "X He, J Gao, C Quirk, P Nguyen, A Menezes, R Moore, K Toutanova, ...",
+   "venue": "The 2008 NIST Open Machine Translation Evaluation Workshop",
+   "year": "2008"
+  },
+  {
+   "title": "Open-domain Visual Entity Linking",
+   "authors": "H Hu, Y Luan, U Khandelwal, M Joshi, K Lee, K Toutanova, MW Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "機械学習による日本語格助詞の予測",
+   "authors": "H Suzuki, K Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Understanding Museum Exhibits using Vision-Language Reasoning Supplementary Material",
+   "authors": "AA Balauca, S Garai, S Balauca, RU Shetty, N Agrawal, DS Shah, Y Fu, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Character based Chinese-English statistical machine translation",
+   "authors": "J Xu, J Gao, K Toutanova, H Ney",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities",
+   "authors": "H Hu, Y Luan, Y Chen, U Khandelwal, M Joshi, K Lee, K Toutanova, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning to Predict Case Markers in Japanese",
+   "authors": "HSK Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Combining Heterogeneous Classiﬁers for Word-Sense Disambiguation",
+   "authors": "D Klein, CD Manning, K Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "a new approach",
+   "authors": "TOO HEW",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Feature Selection for a Rich HPSG Grammar Using Decision Trees",
+   "authors": "CD Manning, K Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning Random Walk Models for Inducing Word Dependency Distributions",
+   "authors": "CD Manning, K Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Robust Textual Inference using Diverse Knowledge Sources",
+   "authors": "C Cox, CD Manning, K Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "LinGO Redwoods",
+   "authors": "E Callahan, CD Manning, K Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Parse Selection on the Redwoods Corpus: 3rd Growth Results",
+   "authors": "CD Manning, K Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Optimizing Local Probability Models for Statistical Parsing",
+   "authors": "M Mitchell, CD Manning, K Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Twelfth Conference on Computational Natural Language Learning",
+   "authors": "A Clark, K Toutanova",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Central Issues",
+   "authors": "G Angelova, K Toutanova, S Damyanova, N Boynov",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

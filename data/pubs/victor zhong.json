@@ -1,0 +1,317 @@
+{
+ "user": "lT3YoNkAAAAJ",
+ "pubs": [
+  {
+   "title": "Seq2SQL: Generating structured queries from natural language using reinforcement learning",
+   "authors": "V Zhong, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1709.00103",
+   "year": "2017"
+  },
+  {
+   "title": "When not to trust language models: Investigating effectiveness of parametric and non-parametric memories",
+   "authors": "A Mallen, A Asai, V Zhong, R Das, D Khashabi, H Hajishirzi",
+   "venue": "Annual Meeting of the Association for Computational Linguistics",
+   "year": "2023"
+  },
+  {
+   "title": "Ask me anything: Dynamic memory networks for natural language processing",
+   "authors": "A Kumar, O Irsoy, J Su, J Bradbury, R English, B Pierce, P Ondruska, ...",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2016"
+  },
+  {
+   "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+   "authors": "T Xie, D Zhang, J Chen, X Li, S Zhao, R Cao, TJ Hua, Z Cheng, D Shin, ...",
+   "venue": "Neural Information Processing Systems",
+   "year": "2024"
+  },
+  {
+   "title": "Position-aware Attention and Supervised Data Improve Slot Filling",
+   "authors": "Y Zhang, V Zhong, D Chen, G Angeli, CD Manning",
+   "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2017"
+  },
+  {
+   "title": "Dynamic Coattention Networks For Question Answering",
+   "authors": "C Xiong, V Zhong, R Socher",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2017"
+  },
+  {
+   "title": "Unifiedskg: Unifying and multi-tasking structured knowledge grounding with text-to-text language models",
+   "authors": "T Xie, CH Wu, P Shi, R Zhong, T Scholak, M Yasunaga, CS Wu, M Zhong, ...",
+   "venue": "Conference on Empirical Methods in Natural Language Processing",
+   "year": "2022"
+  },
+  {
+   "title": "Spider 2.0: Evaluating language models on real-world enterprise text-to-sql workflows",
+   "authors": "F Lei, J Chen, Y Ye, R Cao, D Shin, H Su, Z Suo, H Gao, W Hu, P Yin, ...",
+   "venue": "International Conference on Learning Representations",
+   "year": "2025"
+  },
+  {
+   "title": "Text2reward: Automated dense reward function generation for reinforcement learning",
+   "authors": "T Xie, S Zhao, CH Wu, Y Liu, Q Luo, V Zhong, Y Yang, T Yu",
+   "venue": "International Conference on Learning Representations",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-hop Reading Comprehension through Question Decomposition and Rescoring",
+   "authors": "S Min, V Zhong, L Zettlemoyer, H Hajishirzi",
+   "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+   "year": "2019"
+  },
+  {
+   "title": "Global-Locally Self-Attentive Encoder for Dialogue State Tracking",
+   "authors": "V Zhong, C Xiong, R Socher",
+   "venue": "Annual Meeting of the Association for Computational Linguistics (ACL) 1 …",
+   "year": "2018"
+  },
+  {
+   "title": "Efficient and Robust Question Answering from Minimal Context over Documents",
+   "authors": "S Min, V Zhong, R Socher, C Xiong",
+   "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+   "year": "2018"
+  },
+  {
+   "title": "DCN+: Mixed Objective and Deep Residual Coattention for Question Answering",
+   "authors": "C Xiong, V Zhong, R Socher",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2018"
+  },
+  {
+   "title": "Neural network based translation of natural language queries to database queries",
+   "authors": "V ZHONG, C Xiong, R Socher",
+   "venue": "US Patent 10,747,761",
+   "year": "2020"
+  },
+  {
+   "title": "Generating dual sequence inferences using a neural network model",
+   "authors": "V ZHONG, C Xiong, R Socher",
+   "venue": "US Patent 11,170,287",
+   "year": "2021"
+  },
+  {
+   "title": "Dynamic coattention network for question answering",
+   "authors": "C Xiong, V ZHONG, R Socher",
+   "venue": "US Patent App. 15/421,193",
+   "year": "2018"
+  },
+  {
+   "title": "Grounded Adaptation for Zero-shot Executable Semantic Parsing",
+   "authors": "V Zhong, M Lewis, SI Wang, L Zettlemoyer",
+   "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+   "year": "2020"
+  },
+  {
+   "title": "OpenCUA: Open foundations for computer-use agents",
+   "authors": "X Wang, B Wang, D Lu, J Yang, T Xie, J Wang, J Deng, X Guo, Y Xu, ...",
+   "venue": "International Conference on Learning Representations",
+   "year": "2026"
+  },
+  {
+   "title": "RTFM: Generalising to Novel Environment Dynamics via Reading",
+   "authors": "V Zhong, T Rocktäschel, E Grefenstette",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2020"
+  },
+  {
+   "title": "Question answering from minimal context over documents",
+   "authors": "MIN Sewon, V ZHONG, C Xiong, R Socher",
+   "venue": "US Patent 11,227,218",
+   "year": "2022"
+  },
+  {
+   "title": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
+   "authors": "R Cao, F Lei, H Wu, J Chen, Y Fu, H Gao, X Xiong, H Zhang, Y Mao, W Hu, ...",
+   "venue": "Neural Information Processing Systems",
+   "year": "2024"
+  },
+  {
+   "title": "Dialogue state tracking using a global-local encoder",
+   "authors": "V ZHONG, C Xiong",
+   "venue": "US Patent 10,929,607",
+   "year": "2021"
+  },
+  {
+   "title": "Improving intrinsic exploration with language abstractions",
+   "authors": "J Mu, V Zhong, R Raileanu, M Jiang, N Goodman, T Rocktäschel, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 33947-33960",
+   "year": "2022"
+  },
+  {
+   "title": "LEWIS: Levenshtein editing for unsupervised text style transfer",
+   "authors": "M Reid, V Zhong",
+   "venue": "Findings of the Annual Meeting of the Association for Computational Linguistics",
+   "year": "2021"
+  },
+  {
+   "title": "Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering",
+   "authors": "V Zhong, C Xiong, N Keskar, R Socher",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2019"
+  },
+  {
+   "title": "Grounding Language to Entities and Dynamics for Generalization in Reinforcement Learning",
+   "authors": "AW Hanjie, V Zhong, K Narasimhan",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2021"
+  },
+  {
+   "title": "Bootstrapped self training for knowledge base population",
+   "authors": "G Angeli, V Zhong, D Chen, A Chaganty, J Bolton, MJ Premkumar, ...",
+   "venue": "Text Analysis Conference (TAC)",
+   "year": "2015"
+  },
+  {
+   "title": "SILG: The Multi-environment Symbolic Interactive Language Grounding Benchmark",
+   "authors": "V Zhong, AW Hanjie, SI Wang, K Narasimhan, L Zettlemoyer",
+   "venue": "NeurIPS 2021",
+   "year": "2021"
+  },
+  {
+   "title": "E3: Entailment-driven Extracting and Editing for Conversational Machine Reading",
+   "authors": "V Zhong, L Zettlemoyer",
+   "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+   "year": "2019"
+  },
+  {
+   "title": "M2D2: A Massively Multi-Domain Language Modeling Dataset",
+   "authors": "M Reid, V Zhong, S Gururangan, L Zettlemoyer",
+   "venue": "Conference on Empirical Methods in Natural Language Processing",
+   "year": "2022"
+  },
+  {
+   "title": "Test-Time Adaptation for LLM Agents via Environment Interaction",
+   "authors": "A Chen, Z Liu, J Zhang, A Prabhakar, Z Liu, S Heinecke, S Savarese, ...",
+   "venue": "International Conference on Learning Representations",
+   "year": "2026"
+  },
+  {
+   "title": "RoMQA: A benchmark for robust, multi-evidence, multi-answer question answering",
+   "authors": "V Zhong, W Shi, W Yih, L Zettlemoyer",
+   "venue": "Findings of the Conference on Empirical Methods in Natural Language Processing",
+   "year": "2023"
+  },
+  {
+   "title": "Improving policy learning via language dynamics distillation",
+   "authors": "V Zhong, J Mu, L Zettlemoyer, E Grefenstette, T Rocktäschel",
+   "venue": "Advances in Neural Information Processing Systems 35, 12504-12515",
+   "year": "2022"
+  },
+  {
+   "title": "Policy improvement using language feedback models",
+   "authors": "V Zhong, D Misra, X Yuan, MA Côté",
+   "venue": "Neural Information Processing Systems",
+   "year": "2024"
+  },
+  {
+   "title": "Agentir: Reasoning-aware retrieval for deep research agents",
+   "authors": "Z Chen, X Ma, S Zhuang, J Lin, A Asai, V Zhong",
+   "venue": "Conference on Language Modeling",
+   "year": "2026"
+  },
+  {
+   "title": "From atomic to composite: Reinforcement learning enables generalization in complementary reasoning",
+   "authors": "S Cheng, X Yin, R Zhou, Y Li, X Wang, L Pan, WY Wang, V Zhong",
+   "venue": "Preprint",
+   "year": "2025"
+  },
+  {
+   "title": "Simplifying bioinformatics data analysis through conversation",
+   "authors": "Z Dong, H Zhou, Y Jiang, V Zhong, YY Lu",
+   "venue": "bioRxiv, 2023.10. 29.564479",
+   "year": "2023"
+  },
+  {
+   "title": "Denoising convolutional autoencoders for noisy speech recognition",
+   "authors": "M Kayser, V Zhong",
+   "venue": "CS231 Standford Reports",
+   "year": "2015"
+  },
+  {
+   "title": "Computer agent arena: Toward human-centric evaluation and analysis of computer-use agents",
+   "authors": "B Wang, X Wang, J Deng, T Xie, R Li, Y Zhang, J Wang, D Lu, Z Gong, ...",
+   "venue": "International Conference on Learning Representations 2026, 58008-58068",
+   "year": "2026"
+  },
+  {
+   "title": "DSCode Comparator: An Interactive Interface for Comparing Models and Evaluating Code for Data Science Tasks",
+   "authors": "X Yu, V Zhong, A Crisan",
+   "venue": "Proceedings of the 31st International Conference on Intelligent User …",
+   "year": "2026"
+  },
+  {
+   "title": "SynQuE: Estimating Synthetic Dataset Quality Without Annotations",
+   "authors": "A Chen, V Zhong",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2026"
+  },
+  {
+   "title": "How well can LLMs provide planning feedback in grounded environments?",
+   "authors": "Y Li, V Zhong",
+   "venue": "arXiv preprint arXiv:2509.09790",
+   "year": "2025"
+  },
+  {
+   "title": "SPIDER 2.0: EVALUATING LANGUAGE MODELS ON REAL-WORLD ENTERPRISE TEXT-TO-SQL WORK",
+   "authors": "F Lei, J Chen, Y Ye, R Cao, D Shin, H Su, Z Suo, H Gao, W Hu, P Yin, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "ASH: Agents that Self-Hone via Embodied Learning",
+   "authors": "B Schneider, X Schneider, V Zhong, S Sun",
+   "venue": "arXiv preprint arXiv:2605.14211",
+   "year": "2026"
+  },
+  {
+   "title": "ModelTables: A Corpus of Tables about Models",
+   "authors": "Z Dong, V Zhong, RJ Miller",
+   "venue": "arXiv preprint arXiv:2512.16106",
+   "year": "2025"
+  },
+  {
+   "title": "Atomic Skills are the Prerequisite: When Reinforcement Learning Synthesizes Compositional Reasoning, and When It Only Amplifies",
+   "authors": "S Cheng, X Yin, R Zhou, Y Li, X Wang, L Pan, WY Wang, V Zhong",
+   "venue": "arXiv preprint arXiv:2512.01970",
+   "year": "2025"
+  },
+  {
+   "title": "X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalization",
+   "authors": "S Cheng, X Yin, Z Sun, Y Li, R Zhou, X Jian, V Zhong",
+   "venue": "arXiv preprint arXiv:2609.32993",
+   "year": "2026"
+  },
+  {
+   "title": "Behaviorally Grounded User Profiles from the Wild for Personalized Alignment and Multi-Perspective Reasoning",
+   "authors": "Y Li, V Zhong, E Kamalloo",
+   "venue": "arXiv preprint arXiv:2609.00014",
+   "year": "2026"
+  },
+  {
+   "title": "LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes",
+   "authors": "M Solodko, S Gong, G Yu, SK Gorti, JC Cresswell, V Zhong",
+   "venue": "Third Conference on Language Modeling",
+   "year": "2026"
+  },
+  {
+   "title": "Reading to Learn",
+   "authors": "VY Zhong",
+   "venue": "University of Washington",
+   "year": "2023"
+  },
+  {
+   "title": "Dialogue state tracking using a global-local encoder",
+   "authors": "V ZHONG, C Xiong",
+   "venue": "US Patent App. 17/179,933",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Interactive and Executable Semantic Parsing",
+   "authors": "B Bogin, S Iyer, XV Lin, D Radev, A Suhr, C Xiong, P Yin, T Yu, R Zhang, ...",
+   "venue": "Proceedings of the First Workshop on Interactive and Executable Semantic Parsing",
+   "year": "2020"
+  }
+ ]
+}

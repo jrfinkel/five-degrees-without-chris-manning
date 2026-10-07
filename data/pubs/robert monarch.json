@@ -1,0 +1,551 @@
+{
+ "user": "nhv5QwUAAAAJ",
+ "pubs": [
+  {
+   "title": "Human-in-the-Loop Machine Learning: active learning and annotation for human-centered AI",
+   "authors": "RM Monarch",
+   "venue": "Manning Publications",
+   "year": "2021"
+  },
+  {
+   "title": "Methods for generating natural language processing systems",
+   "authors": "RJ Munro, SD Erle, C Walker, SK Luger, J Brenier, GC King, PA Tepper, ...",
+   "venue": "US Patent App. 14/964,517",
+   "year": "2016"
+  },
+  {
+   "title": "Crowdsourcing and language studies: the new generation of linguistic data",
+   "authors": "R Munro, S Bethard, V Kuperman, VT Lai, R Melnick, C Potts, ...",
+   "venue": "Proceedings of the NAACL HLT 2010 workshop on creating speech and language …",
+   "year": "2010"
+  },
+  {
+   "title": "Crowdsourcing and the crisis-affected community: Lessons learned and looking forward from Mission 4636",
+   "authors": "R Munro",
+   "venue": "Information retrieval 16 (2), 210-266",
+   "year": "2013"
+  },
+  {
+   "title": "Crowdsourced translation for emergency response in Haiti: the global collaboration of local knowledge",
+   "authors": "R Munro",
+   "venue": "Proceedings of the Workshop on Collaborative Translation: technology …",
+   "year": "2010"
+  },
+  {
+   "title": "Crisis MT: Developing a cookbook for MT in crisis situations",
+   "authors": "WD Lewis, R Munro, S Vogel",
+   "venue": "Proceedings of the Sixth Workshop on Statistical Machine Translation, 501-511",
+   "year": "2011"
+  },
+  {
+   "title": "Subword and spatiotemporal models for identifying actionable information in Haitian Kreyol",
+   "authors": "R Munro",
+   "venue": "Proceedings of the fifteenth conference on computational natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Complex spatial relationships",
+   "authors": "R Munro, S Chawla, P Sun",
+   "venue": "Third IEEE International Conference on Data Mining, 227-234",
+   "year": "2003"
+  },
+  {
+   "title": "Reported Speech in Matses: Perspective Persistence and Evidential Narratives",
+   "authors": "R Munro, R Ludwig, U Sauerland, DW Fleck",
+   "venue": "International Journal of American Linguistics 78 (1), 41-75",
+   "year": "2012"
+  },
+  {
+   "title": "Graphical systems and methods for human-in-the-loop machine intelligence",
+   "authors": "RJ Munro, C Walker, SK Luger, J Brenier, PA Tepper, R Mechanic, ...",
+   "venue": "US Patent App. 14/964,522",
+   "year": "2016"
+  },
+  {
+   "title": "Short message communications: users, topics, and in-language processing",
+   "authors": "R Munro, CD Manning",
+   "venue": "Proceedings of the 2nd ACM Symposium on Computing for Development, 1-10",
+   "year": "2012"
+  },
+  {
+   "title": "Slinerc: The sydney language-independent named entity recogniser and classifier",
+   "authors": "J Patrick, C Whitelaw, R Munro",
+   "venue": "COLING-02: The 6th Conference on Natural Language Learning 2002 (CoNLL-2002)",
+   "year": "2002"
+  },
+  {
+   "title": "Subword variation in text message classification",
+   "authors": "R Munro, CD Manning",
+   "venue": "Human language technologies: The 2010 annual conference of the north …",
+   "year": "2010"
+  },
+  {
+   "title": "Meta-learning orthographic and contextual models for language independent named entity recognition",
+   "authors": "R Munro, D Ler, J Patrick",
+   "venue": "Proceedings of the Seventh Conference on Natural Language Learning at HLT …",
+   "year": "2003"
+  },
+  {
+   "title": "LEXIS vs. WESTLAW: an analysis of automated education",
+   "authors": "RJ Munro, JA Bolanos, J May",
+   "venue": "Law Libr. J. 71, 471",
+   "year": "1978"
+  },
+  {
+   "title": "Accurate unsupervised joint named-entity extraction from unaligned parallel text",
+   "authors": "R Munro, CD Manning",
+   "venue": "Proceedings of the 4th Named Entity Workshop (NEWS) 2012, 21-29",
+   "year": "2012"
+  },
+  {
+   "title": "Reported speech in Matses: Obligatory perspective shift with syntactic transparency",
+   "authors": "RA Ludwig, R Munro, DW Fleck, U Sauerland",
+   "venue": "Proceedings of SULA 5, 33-47",
+   "year": "2010"
+  },
+  {
+   "title": "Tracking Epidemics with Natural Language Processing and Crowdsourcing.",
+   "authors": "R Munro, L Gunasekara, S Nevins, L Polepeddi, E Rosen",
+   "venue": "AAAI Spring Symposium: Wisdom of the Crowd 12, 06",
+   "year": "2012"
+  },
+  {
+   "title": "Intelligent system that dynamically improves its knowledge and code-base for natural language understanding",
+   "authors": "RJ Munro, R Voigt, SD Erle, BD Callahan, GC King, JD Long, J Brenier, ...",
+   "venue": "US Patent 9,965,458",
+   "year": "2018"
+  },
+  {
+   "title": "Quality analysis after action report for the crowdsourced aerial imagery assessment following hurricane sandy.",
+   "authors": "R Munro, T Schnoebelen, S Erle",
+   "venue": "ISCRAM",
+   "year": "2013"
+  },
+  {
+   "title": "Techniques for combining human and machine learning in natural language processing",
+   "authors": "RJ Munro, C Walker, SK Luger, BD Callahan, GC King, PA Tepper, ...",
+   "venue": "US Patent App. 14/964,528",
+   "year": "2016"
+  },
+  {
+   "title": "Graphical systems and methods for human-in-the-loop machine intelligence",
+   "authors": "RJ Munro, C Walker, SK Luger, J Brenier, R Mechanic, A Gilchrist-Scott, ...",
+   "venue": "US Patent App. 16/221,254",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop on NLP for COVID-19 at ACL 2020",
+   "authors": "K Verspoor, KB Cohen, M Dredze, E Ferrara, J May, R Munro, C Paris, ...",
+   "venue": "Proceedings of the 1st Workshop on NLP for COVID-19 at ACL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Methods and systems for improving machine learning performance",
+   "authors": "SD Erle, RJ Munro, BD Callahan, J Brenier, PA Tepper, JD Long, ...",
+   "venue": "US Patent App. 14/964,510",
+   "year": "2016"
+  },
+  {
+   "title": "Mining complex relationships in the sdss skyserver spatial database",
+   "authors": "B Arunasalam, S Chawla, P Sun, R Munro",
+   "venue": "Proceedings of the 28th Annual International Computer Software and …",
+   "year": "2004"
+  },
+  {
+   "title": "Methods and systems for modeling complex taxonomies with natural language understanding",
+   "authors": "RJ Munro, SD Erle, TJ Schnoebelen, J Brenier, JD Long, BD Callahan, ...",
+   "venue": "US Patent App. 16/811,737",
+   "year": "2021"
+  },
+  {
+   "title": "Text Summarization of Product Titles.",
+   "authors": "J Xiao, R Munro",
+   "venue": "eCOM@ SIGIR",
+   "year": "2019"
+  },
+  {
+   "title": "Methods and systems for modeling complex taxonomies with natural language understanding",
+   "authors": "RJ Munro, SD Erle, TJ Schnoebelen, J Brenier, JD Long, BD Callahan, ...",
+   "venue": "US Patent 9,495,345",
+   "year": "2016"
+  },
+  {
+   "title": "Detecting independent pronoun bias with partially-synthetic data generation",
+   "authors": "R Munro, AC Morrison",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Methods and systems for language-agnostic machine learning in natural language processing using feature extraction",
+   "authors": "RJ Munro, SD Erle, TJ Schnoebelen, BD Callahan, JD Long, GC King, ...",
+   "venue": "US Patent App. 14/964,525",
+   "year": "2016"
+  },
+  {
+   "title": "Processing short message communications in low-resource languages",
+   "authors": "R Munro",
+   "venue": "Stanford University",
+   "year": "2012"
+  },
+  {
+   "title": "A queueing-theory model of word frequency distributions",
+   "authors": "R Munro",
+   "venue": "Proceedings of the Australasian Language Technology Workshop 2003, 70-77",
+   "year": "2003"
+  },
+  {
+   "title": "Haiti Emergency Response: the power of crowdsourcing and SMS",
+   "authors": "R Munro",
+   "venue": "Haiti Crisis Relief 2",
+   "year": "2010"
+  },
+  {
+   "title": "Language and music in the songs of Minto, Alaska",
+   "authors": "SG Tuttle",
+   "venue": "Language Documentation and Description 10",
+   "year": "2011"
+  },
+  {
+   "title": "The start of the art: An introduction to crowdsourcing technologies for language and cognition studies",
+   "authors": "R Munro, H Tily",
+   "venue": "Workshop on Crowdsourcing Technologies for Language and Cognition Studies",
+   "year": "2011"
+  },
+  {
+   "title": "An integrated approach to mining data streams",
+   "authors": "R Munro, S Chawla",
+   "venue": "School of Information Technologies, University of Sydney",
+   "year": "2004"
+  },
+  {
+   "title": "Methods and systems for modeling complex taxonomies with natural language understanding",
+   "authors": "RJ Munro, SD Erle, TJ Schnoebelen, J Brenier, JD Long, BD Callahan, ...",
+   "venue": "US Patent App. 15/294,156",
+   "year": "2017"
+  },
+  {
+   "title": "Optimization techniques for artificial intelligence",
+   "authors": "RJ Munro, SD Erle, J Brenier, PA Tepper, T Saxena, GC King, JD Long, ...",
+   "venue": "US Patent 11,288,444",
+   "year": "2022"
+  },
+  {
+   "title": "Pakreport: Crowdsourcing for multipurpose and multicategory climaterelated disaster reporting",
+   "authors": "F Chohan, V Hester, R Munro",
+   "venue": "CTs, Climate Change and DisasterManagementCase Study 3",
+   "year": "2012"
+  },
+  {
+   "title": "Towards the computational inference and application of a functional grammar",
+   "authors": "R Munro",
+   "venue": "Doctoral dissertation, University of Sydney",
+   "year": "2004"
+  },
+  {
+   "title": "The digital skills of language documentation",
+   "authors": "R Munro",
+   "venue": "Language Documentation and Description 3",
+   "year": "2005"
+  },
+  {
+   "title": "Lexis v. Westlaw: An analysis of computerized research",
+   "authors": "RJ Munro, JA Bolanos, J May",
+   "venue": "American Bar Association Journal 65 (2), 269-273",
+   "year": "1979"
+  },
+  {
+   "title": "to appear. Reported speech in Matses: Obligatory perspective shift with syntactic transparency",
+   "authors": "RA Ludwig, R Munro, DW Fleck, U Sauerland",
+   "venue": "Proceedings of SULA 5",
+   "year": null
+  },
+  {
+   "title": "Architectures for natural language processing",
+   "authors": "RJ Munro, SD Erle, C Walker, SK Luger, J Brenier, GC King, PA Tepper, ...",
+   "venue": "US Patent App. 16/289,481",
+   "year": "2020"
+  },
+  {
+   "title": "Techniques for combining human and machine learning in natural language processing",
+   "authors": "RJ Munro, C Walker, SK Luger, BD Callahan, GC King, PA Tepper, ...",
+   "venue": "US Patent App. 16/185,843",
+   "year": "2019"
+  },
+  {
+   "title": "Seneschal: classification and analysis in supervised mixture-modelling",
+   "authors": "R Munro",
+   "venue": "Design and application of hybrid intelligent systems, 389-398",
+   "year": "2003"
+  },
+  {
+   "title": "Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI. 2021",
+   "authors": "RM Monarch, CD Manning",
+   "venue": "Shelter Island, NY: Manning Publications",
+   "year": null
+  },
+  {
+   "title": "Introduction to the 1st Workshop on Natural Language Processing for COVID-19 at ACL 2020",
+   "authors": "K Verspoor, KB Cohen, M Dredze, E Ferrara, J May, R Munro, C Paris, ...",
+   "venue": "Proceedings of the Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Methods for generating natural language processing systems",
+   "authors": "RJ Munro, SD Erle, C Walker, SK Luger, J Brenier, GC King, PA Tepper, ...",
+   "venue": "US Patent App. 16/181,102",
+   "year": "2019"
+  },
+  {
+   "title": "Methods and systems for providing universal portability in machine learning",
+   "authors": "SD Erle, RJ Munro, BD Callahan, GC King, J Brenier, JB Robinson",
+   "venue": "US Patent 9,836,450",
+   "year": "2017"
+  },
+  {
+   "title": "Optimization techniques for artificial intelligence",
+   "authors": "RJ Munro, SD Erle, J Brenier, PA Tepper, T Saxena, GC King, JD Long, ...",
+   "venue": "US Patent App. 14/964,520",
+   "year": "2016"
+  },
+  {
+   "title": "Introducing the ELAR information system architecture",
+   "authors": "R Munro, D Nathan",
+   "venue": "The Third meeting of the Digital Endangered Languages and Music Archive …",
+   "year": "2005"
+  },
+  {
+   "title": "Towards portability and interoperability for linguistic annotation and language-specific ontologies",
+   "authors": "R Munro, D Nathan",
+   "venue": "Proceedings of EMELD",
+   "year": "2005"
+  },
+  {
+   "title": "A Probabilistic Representation of Systemic Functional Grammar",
+   "authors": "R Munro",
+   "venue": "The 31st International Systemic Functional Congress (ISFC31). Kyoto …",
+   "year": "2004"
+  },
+  {
+   "title": "Classification and analysis in supervised mixture-modelling",
+   "authors": "R Munro",
+   "venue": "School of Information Technologies, University of Sydney",
+   "year": "2003"
+  },
+  {
+   "title": "Architectures for natural language processing",
+   "authors": "RJ Munro, SD Erie, C Walker, SK Luger, J Brenier, GC King, PA Tepper, ...",
+   "venue": "US Patent App. 17/166,493",
+   "year": "2021"
+  },
+  {
+   "title": "The Rapid Growth of Human-in-the-Loop Machine Learning.",
+   "authors": "R Munro",
+   "venue": "IAL@ PKDD/ECML, 2",
+   "year": "2020"
+  },
+  {
+   "title": "Intelligent system that dynamically improves its knowledge and code-base for natural language understanding",
+   "authors": "RJ Munro, R Voigt, SD Erle, BD Callahan, GC King, JD Long, J Brenier, ...",
+   "venue": "US Patent App. 16/056,263",
+   "year": "2019"
+  },
+  {
+   "title": "Knowledge quadrant for machine learning",
+   "authors": "R Monarch",
+   "venue": "Medium",
+   "year": "2019"
+  },
+  {
+   "title": "Identifying Controversial Pairs in Item-to-Item Recommendations",
+   "authors": "J Shen, D VR Oliveira, J Cao, B Knott, G Gu, S Vijaya Raghavan, Y Jin, ...",
+   "venue": "Proceedings of the 17th ACM Conference on Recommender Systems, 671-674",
+   "year": "2023"
+  },
+  {
+   "title": "Intelligent system that dynamically improves its knowledge and code-base for natural language understanding",
+   "authors": "RJ Munro, R Voigt, SD Erle, BD Callahan, GC King, JD Long, J Brenier, ...",
+   "venue": "US Patent App. 16/832,632",
+   "year": "2021"
+  },
+  {
+   "title": "Methods for generating natural language processing systems",
+   "authors": "RJ Munro, SD Erle, C Walker, SK Luger, J Brenier, GC King, PA Tepper, ...",
+   "venue": "US Patent App. 16/796,812",
+   "year": "2021"
+  },
+  {
+   "title": "Optimization techniques for artificial intelligence",
+   "authors": "RJ Munro, SD Erle, J Brenier, PA Tepper, T Saxena, GC King, JD Long, ...",
+   "venue": "US Patent App. 16/198,453",
+   "year": "2020"
+  },
+  {
+   "title": "Techniques for combining human and machine learning in natural language processing",
+   "authors": "RJ Munro, C Walker, SK Luger, BD Callahan, GC King, PA Tepper, ...",
+   "venue": "US Patent App. 16/749,689",
+   "year": "2020"
+  },
+  {
+   "title": "Methods and systems for language-agnostic machine learning in natural language processing using feature extraction",
+   "authors": "RJ Munro, SD Erle, TJ Schnoebelen, BD Callahan, JD Long, GC King, ...",
+   "venue": "US Patent App. 16/238,352",
+   "year": "2019"
+  },
+  {
+   "title": "Methods and systems for language-agnostic machine learning in natural language processing using feature extraction",
+   "authors": "RJ Munro, SD Erle, TJ Schnoebelen, BD Callahan, JD Long, GC King, ...",
+   "venue": "US Patent App. 15/814,349",
+   "year": "2018"
+  },
+  {
+   "title": "Intelligent system that dynamically improves its knowledge and code-base for natural language understanding",
+   "authors": "R Munro, R Voigt, SD Erle, BD Callahan, GC King, JD Long, J Brenier, ...",
+   "venue": "US Patent App. 15/596,855",
+   "year": "2018"
+  },
+  {
+   "title": "Classification Models for New Language Communities: Building Domain-Specific Message Categorization.",
+   "authors": "J Long, R Munro, N Gaylord, KF Asfaw, E Wheeler",
+   "venue": "ACM DEV, 115",
+   "year": "2015"
+  },
+  {
+   "title": "Bringing data science to the speakers of every language.",
+   "authors": "R Munro",
+   "venue": "KDD, 1523",
+   "year": "2014"
+  },
+  {
+   "title": "The Certainty of chance: Review of Bod, R., Hay, J. and Jannedy, S.(2003) Probabiltic Linguistics",
+   "authors": "R Munro",
+   "venue": "Linguistics and the Human Sciences 1 (2), 347-351",
+   "year": "2007"
+  },
+  {
+   "title": "Methods and systems for language-agnostic machine learning in natural language processing using feature extraction",
+   "authors": "RJ Munro, SD Erle, TJ Schnoebelen, BD Callahan, JD Long, GC King, ...",
+   "venue": "US Patent App. 18/500,784",
+   "year": "2024"
+  },
+  {
+   "title": "Automatic Creative Selection with Cross-Modal Matching",
+   "authors": "A Kim, J Huang, R Monarch, J Kwac, A Kamath, P Khurd, K Thiyagarajan, ...",
+   "venue": "arXiv preprint arXiv:2405.00029",
+   "year": "2024"
+  },
+  {
+   "title": "Methods and systems for improving machine learning performance",
+   "authors": "SD Erle, RJ Munro, BD Callahan, J Brenier, PA Tepper, JD Long, ...",
+   "venue": "US Patent App. 17/131,486",
+   "year": "2021"
+  },
+  {
+   "title": "Graphical systems and methods for human-in-the-loop machine intelligence",
+   "authors": "RJ Munro, C Walker, SK Luger, J Brenier, PA Tepper, R Mechanic, ...",
+   "venue": "US Patent App. 17/182,178",
+   "year": "2021"
+  },
+  {
+   "title": "Methods and systems for providing universal portability in machine learning",
+   "authors": "SD Erle, RJ Munro, BD Callahan, GC King, J Brenier, JB Robinson",
+   "venue": "US Patent App. 16/883,797",
+   "year": "2021"
+  },
+  {
+   "title": "Methods and systems for language-agnostic machine learning in natural language processing using feature extraction",
+   "authors": "RJ Munro, SD Erle, TJ Schnoebelen, BD Callahan, JD Long, GC King, ...",
+   "venue": "US Patent App. 16/862,518",
+   "year": "2021"
+  },
+  {
+   "title": "Methods and systems for providing universal portability in machine learning",
+   "authors": "SD Erle, RJ Munro, BD Callahan, GC King, J Brenier, JB Robinson",
+   "venue": "US Patent App. 16/246,402",
+   "year": "2019"
+  },
+  {
+   "title": "Methods and systems for modeling complex taxonomies with natural language understanding",
+   "authors": "RJ Munro, SD Erie, TJ Schnoebelen, J Brenier, JD Long, BD Callahan, ...",
+   "venue": "US Patent App. 16/197,190",
+   "year": "2019"
+  },
+  {
+   "title": "Methods and systems for improving machine learning performance",
+   "authors": "SD Erle, RJ Munro, BD Callahan, J Brenier, PA Tepper, JD Long, ...",
+   "venue": "US Patent App. 16/125,343",
+   "year": "2019"
+  },
+  {
+   "title": "Should You Open-Source Your Model? Ethical questions for open-sourcing Machine Learning models",
+   "authors": "R Munro",
+   "venue": "25th ACM Conference on Knowledge Discovery and Data Mining (KDD 2019)",
+   "year": "2019"
+  },
+  {
+   "title": "Methods and systems for providing universal portability in machine learning",
+   "authors": "SD Erle, RJ Munro, BD Callahan, GC King, J Brenier, JB Robinson",
+   "venue": "US Patent App. 15/818,549",
+   "year": "2018"
+  },
+  {
+   "title": "Understanding Speakers of 7,000 Languages",
+   "authors": "R Munro",
+   "venue": "2016 AAAS Annual Meeting (February 11-15, 2016)",
+   "year": "2016"
+  },
+  {
+   "title": "Memorial: Grace\" Betty\" Woodall Taylor (1926-2013)",
+   "authors": "K Price, R Donnelly, L Chanin, A Adkins, R Matasar, R Munro",
+   "venue": "LAW LIBRARY JOURNAL 105 (4), 2013-32",
+   "year": "2013"
+  },
+  {
+   "title": "REPORTED SPEECH IN MATSES: PERSPECTIVE PERSISTENCE AND EVIDENTIAL NARRATIVES ROBERT MUNRO, RAINER LUDWIG, ULI SAUERLAND, AND DAVID W. FLECK",
+   "authors": "R MUNRO",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "1. Documentary Linguistics and Language Documentation",
+   "authors": "AJ Grinevald, S Manus, R Munro, D Nathan",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "School of Information Technologies University of Sydney NSW 2006",
+   "authors": "P Sun, S Chawla",
+   "venue": "",
+   "year": "2004"
+  },
+  {
+   "title": "MR JUSTICE BLACK AND HIS BOOKS-MEADOR, DJ",
+   "authors": "RJ MUNRO",
+   "venue": "LAW LIBRARY JOURNAL 68 (3), 335-335",
+   "year": "1975"
+  },
+  {
+   "title": "Inductive Inference of Structure for Automated conversion of RTF data to XML",
+   "authors": "JD Patrick, D Palko, R Munro",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "State-of-the-Art Multilingual NER Using Loosely Aligned Text Whitepaper Stanford University, 2012",
+   "authors": "R Munro, C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Classification and analysis in supervised mixture-modelling (technical report no 536)",
+   "authors": "R Munro",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Reported Speech and Perspective Rigidity in Matses",
+   "authors": "R Munro",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

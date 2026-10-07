@@ -1,0 +1,347 @@
+{
+ "user": "CLZ9dLoAAAAJ",
+ "pubs": [
+  {
+   "title": "Make-a-video: Text-to-video generation without text-video data",
+   "authors": "U Singer, A Polyak, T Hayes, X Yin, J An, S Zhang, Q Hu, H Yang, ...",
+   "venue": "arXiv preprint arXiv:2209.14792",
+   "year": "2022"
+  },
+  {
+   "title": "Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning",
+   "authors": "A Aghajanyan, L Zettlemoyer, S Gupta",
+   "venue": "arXiv preprint arXiv:2012.13255",
+   "year": "2020"
+  },
+  {
+   "title": "Cross-lingual Transfer Learning for Multilingual Task Oriented Dialog",
+   "authors": "S Schuster, S Gupta, R Shah, M Lewis",
+   "venue": "arXiv preprint arXiv:1810.13327",
+   "year": "2018"
+  },
+  {
+   "title": "Muppet: Massive Multi-task Representations with Pre-Finetuning",
+   "authors": "A Aghajanyan, A Gupta, A Shrivastava, X Chen, L Zettlemoyer, S Gupta",
+   "venue": "arXiv preprint arXiv:2101.11038",
+   "year": "2021"
+  },
+  {
+   "title": "Spatext: Spatio-textual representation for controllable image generation",
+   "authors": "O Avrahami, T Hayes, O Gafni, S Gupta, Y Taigman, D Parikh, ...",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2023"
+  },
+  {
+   "title": "Better Fine-Tuning by Reducing Representational Collapse",
+   "authors": "A Aghajanyan, A Shrivastava, A Gupta, N Goyal, L Zettlemoyer, S Gupta",
+   "venue": "arXiv preprint arXiv:2008.03156",
+   "year": "2020"
+  },
+  {
+   "title": "Semantic Parsing for Task Oriented Dialog using Hierarchical Representations",
+   "authors": "S Gupta, R Shah, M Mohit, A Kumar, M Lewis",
+   "venue": "arXiv preprint arXiv:1810.07942",
+   "year": "2018"
+  },
+  {
+   "title": "MTOP: A comprehensive multilingual task-oriented semantic parsing benchmark",
+   "authors": "H Li, A Arora, S Chen, A Gupta, S Gupta, Y Mehdad",
+   "venue": "arXiv preprint arXiv:2008.09335",
+   "year": "2020"
+  },
+  {
+   "title": "Topic model diagnostics: Assessing domain relevance via topical alignment",
+   "authors": "J Chuang, S Gupta, C Manning, J Heer",
+   "venue": "International Conference on Machine Learning, 612-620",
+   "year": "2013"
+  },
+  {
+   "title": "Analyzing the dynamics of research by extracting key aspects of scientific papers",
+   "authors": "S Gupta, C Manning",
+   "venue": "Proceedings of 5th international joint conference on natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Unik-qa: Unified representations of structured and unstructured knowledge for open-domain question answering",
+   "authors": "B Oguz, X Chen, V Karpukhin, S Peshterliev, D Okhonko, M Schlichtkrull, ...",
+   "venue": "arXiv preprint arXiv:2012.14610",
+   "year": "2020"
+  },
+  {
+   "title": "Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation",
+   "authors": "J An, S Zhang, H Yang, S Gupta, JB Huang, J Luo, X Yin",
+   "venue": "arXiv preprint arXiv:2304.08477",
+   "year": "2023"
+  },
+  {
+   "title": "Improved pattern learning for bootstrapped entity extraction",
+   "authors": "S Gupta, C Manning",
+   "venue": "Proceedings of the Eighteenth Conference on Computational Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "Forum77: An Analysis of an Online Health Forum Dedicated to Addiction Recovery",
+   "authors": "D MacLean, S Gupta, A Lembke, C Manning, J Heer",
+   "venue": "Proceedings of the 18th ACM Conference on Computer Supported Cooperative …",
+   "year": "2015"
+  },
+  {
+   "title": "Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing",
+   "authors": "X Chen, A Ghoshal, Y Mehdad, L Zettlemoyer, S Gupta",
+   "venue": "arXiv preprint arXiv:2010.03546",
+   "year": "2020"
+  },
+  {
+   "title": "Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation",
+   "authors": "S Azadi, A Shah, T Hayes, D Parikh, S Gupta",
+   "venue": "arXiv preprint arXiv:2305.09662",
+   "year": "2023"
+  },
+  {
+   "title": "Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?",
+   "authors": "X Chen, K Lakhotia, B Oğuz, A Gupta, P Lewis, S Peshterliev, Y Mehdad, ...",
+   "venue": "arXiv preprint arXiv:2110.06918",
+   "year": "2021"
+  },
+  {
+   "title": "NeurIPS 2020 EfficientQA competition: Systems, analyses and lessons learned",
+   "authors": "S Min, J Boyd-Graber, C Alberti, D Chen, E Choi, M Collins, K Guu, ...",
+   "venue": "NeurIPS 2020 Competition and Demonstration Track, 86-111",
+   "year": "2021"
+  },
+  {
+   "title": "Watch, listen & learn: Co-training on captioned images and videos",
+   "authors": "S Gupta, J Kim, K Grauman, R Mooney",
+   "venue": "Machine Learning and Knowledge Discovery in Databases: European Conference …",
+   "year": "2008"
+  },
+  {
+   "title": "Domain-matched pre-training tasks for dense retrieval",
+   "authors": "B Oğuz, K Lakhotia, A Gupta, P Lewis, V Karpukhin, A Piktus, X Chen, ...",
+   "venue": "arXiv preprint arXiv:2107.13602",
+   "year": "2021"
+  },
+  {
+   "title": "Induced lexico-syntactic patterns improve information extraction from online medical forums",
+   "authors": "S Gupta, DL MacLean, J Heer, CD Manning",
+   "venue": "Journal of the American Medical Informatics Association 21 (5), 902-909",
+   "year": "2014"
+  },
+  {
+   "title": "Likelihood Ratios and Generative Classifiers for Unsupervised Out-of-Domain Detection in Task Oriented Dialog",
+   "authors": "V Gangal, A Arora, A Einolghozati, G Sonal",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (05), 7764-7771",
+   "year": "2020"
+  },
+  {
+   "title": "Conversational semantic parsing",
+   "authors": "A Aghajanyan, J Maillard, A Shrivastava, K Diedrick, M Haeger, H Li, ...",
+   "venue": "arXiv preprint arXiv:2009.13655",
+   "year": "2020"
+  },
+  {
+   "title": "Bootstrapped Self Training for Knowledge Base Population.",
+   "authors": "G Angeli, V Zhong, D Chen, AT Chaganty, J Bolton, MJJ Premkumar, ...",
+   "venue": "TAC",
+   "year": "2015"
+  },
+  {
+   "title": "SPIED: Stanford Pattern-based Information Extraction and Diagnostics",
+   "authors": "S Gupta, CD Manning",
+   "venue": "Proceedings of the ACL 2014 Workshop on Interactive Language Learning …",
+   "year": "2014"
+  },
+  {
+   "title": "Stanford's distantly-supervised slot-filling system",
+   "authors": "M Surdeanu, S Gupta, J Bauer, D McClosky, AX Chang, VI Spitkovsky, ...",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "EASE: Extractive-Abstractive Summarization End-to-End using the Information Bottleneck Principle",
+   "authors": "H Li, A Einolghozati, S Iyer, B Paranjape, Y Mehdad, S Gupta, ...",
+   "venue": "Proceedings of the Third Workshop on New Frontiers in Summarization, 85-95",
+   "year": "2021"
+  },
+  {
+   "title": "Stanford’s 2014 slot filling systems",
+   "authors": "G Angeli, S Gupta, M Jose, CD Manning, C Ré, J Tibshirani, JY Wu, S Wu, ...",
+   "venue": "TAC KBP 695",
+   "year": "2014"
+  },
+  {
+   "title": "Improving text-to-text pre-trained models for the graph-to-text task",
+   "authors": "Z Yang, A Einolghozati, H Inan, K Diedrick, A Fan, P Donmez, S Gupta",
+   "venue": "Proceedings of the 3rd International Workshop on Natural Language Generation …",
+   "year": "2020"
+  },
+  {
+   "title": "Distributed representations of words to guide bootstrapped entity classifiers",
+   "authors": "S Gupta, CD Manning",
+   "venue": "Proceedings of the 2015 Conference of the North American Chapter of the …",
+   "year": "2015"
+  },
+  {
+   "title": "Unified open-domain question answering with structured and unstructured knowledge",
+   "authors": "B Oguz, X Chen, V Karpukhin, S Peshterliev, D Okhonko, M Schlichtkrull, ...",
+   "venue": "arXiv preprint arXiv:2012.14610",
+   "year": "2020"
+  },
+  {
+   "title": "Improving Semantic Parsing for Task Oriented Dialog",
+   "authors": "A Einolghozati, P Pasupat, S Gupta, R Shah, M Mohit, M Lewis, ...",
+   "venue": "arXiv preprint arXiv:1902.06000",
+   "year": "2019"
+  },
+  {
+   "title": "Using Closed Captions as Supervision for Video Activity Recognition.",
+   "authors": "S Gupta, RJ Mooney",
+   "venue": "AAAI",
+   "year": "2010"
+  },
+  {
+   "title": "Span-based Hierarchical Semantic Parsing for Task-Oriented Dialog",
+   "authors": "P Pasupat, S Gupta, K Mandyam, R Shah, M Lewis, L Zettlemoyer",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Learning better structured representations using low-rank adaptive label smoothing",
+   "authors": "A Ghoshal, X Chen, S Gupta, L Zettlemoyer, Y Mehdad",
+   "venue": "International Conference on Learning Representations",
+   "year": "2020"
+  },
+  {
+   "title": "Using closed captions to train activity recognizers that improve video retrieval",
+   "authors": "S Gupta, RJ Mooney",
+   "venue": "2009 IEEE Computer Society Conference on Computer Vision and Pattern …",
+   "year": "2009"
+  },
+  {
+   "title": "Improving Robustness of Task Oriented Dialog Systems",
+   "authors": "A Einolghozati, S Gupta, M Mohit, R Shah",
+   "venue": "arXiv preprint arXiv:1911.05153",
+   "year": "2019"
+  },
+  {
+   "title": "Getting to production with few-shot natural language generation models",
+   "authors": "P Heidari, A Einolghozati, S Jain, S Batra, L Callender, A Arun, S Mei, ...",
+   "venue": "Proceedings of the 22nd Annual Meeting of the Special Interest Group on …",
+   "year": "2021"
+  },
+  {
+   "title": "Stanford’s distantly supervised slot filling systems for KBP 2014",
+   "authors": "G Angeli, S Gupta, MJ Premkumar, CD Manning, C Ré, J Tibshirani, ...",
+   "venue": "Text Analysis Conference (TAC) Proceedings",
+   "year": "2014"
+  },
+  {
+   "title": "Catching the drift: learning broad matches from clickthrough data",
+   "authors": "S Gupta, M Bilenko, M Richardson",
+   "venue": "Proceedings of the 15th ACM SIGKDD international conference on Knowledge …",
+   "year": "2009"
+  },
+  {
+   "title": "PyText: A Seamless Path from NLP research to production",
+   "authors": "A Aly, K Lakhotia, S Zhao, M Mohit, B Oguz, A Arora, S Gupta, C Dewan, ...",
+   "venue": "arXiv preprint arXiv:1812.08729",
+   "year": "2018"
+  },
+  {
+   "title": "CCQA: A New Web-Scale Question Answering Dataset for Model Pre-Training",
+   "authors": "P Huber, A Aghajanyan, B Oğuz, D Okhonko, W Yih, S Gupta, X Chen",
+   "venue": "arXiv preprint arXiv:2110.07731",
+   "year": "2021"
+  },
+  {
+   "title": "MAI-Thinking-1: Building a Hill-Climbing Machine",
+   "authors": "TMAI team",
+   "venue": "https://microsoft.ai/pdf/mai-thinking-1.",
+   "year": "2026"
+  },
+  {
+   "title": "Systems and Methods for Implementing Smart Assistant Systems",
+   "authors": "P Zheng, L Sun, RK Hariharan, H Wang, JS McMullen, LI Mengxi, LY Cai, ...",
+   "venue": "US Patent App. 17/745,671",
+   "year": "2022"
+  },
+  {
+   "title": "El Volumen Louder Por Favor: Code-switching in Task-oriented SemanticParsing",
+   "authors": "A Einolghozati, A Arora, LSM Lecanda, A Kumar, S Gupta",
+   "venue": "arXiv preprint arXiv:2101.10524",
+   "year": "2021"
+  },
+  {
+   "title": "Sound Natural: Content Rephrasing in Dialog Systems",
+   "authors": "A Einolghozati, A Gupta, K Diedrick, S Gupta",
+   "venue": "arXiv preprint arXiv:2011.01993",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluating related phrases",
+   "authors": "M Bilenko, M Richardson, S Gupta",
+   "venue": "US Patent App. 12/371,541",
+   "year": "2010"
+  },
+  {
+   "title": "Semantic representations using structural ontology for assistant systems",
+   "authors": "A Aghajanyan, S Gupta, B Moran, TF Levin, CANSH Nakatsu, D Difranco, ...",
+   "venue": "US Patent 11,651,449",
+   "year": "2023"
+  },
+  {
+   "title": "Finding bias in political news and blog websites",
+   "authors": "S Gupta",
+   "venue": "ed",
+   "year": "2009"
+  },
+  {
+   "title": "DISTANTLY SUPERVISED INFORMATION EXTRACTION USING BOOTSTRAPPED PATTERNS",
+   "authors": "S Gupta",
+   "venue": "STANFORD UNIVERSITY",
+   "year": "2015"
+  },
+  {
+   "title": "Text-Conditional Contextualized Avatars For Zero-Shot Personalization",
+   "authors": "S Azadi, T Hayes, A Shah, G Pang, D Parikh, S Gupta",
+   "venue": "arXiv preprint arXiv:2304.07410",
+   "year": "2023"
+  },
+  {
+   "title": "Identifying focus, techniques and domain of scientific papers",
+   "authors": "S Gupta, CD Manning",
+   "venue": "Proceedings of the Nips-10 Workshop on Computational Social Science and the …",
+   "year": "2010"
+  },
+  {
+   "title": "Activity retrieval in closed captioned videos",
+   "authors": "S Gupta",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "EASE: Extractive-Abstractive Summarization with Explanations",
+   "authors": "H Li, A Einolghozati, S Iyer, B Paranjape, Y Mehdad, S Gupta, ...",
+   "venue": "arXiv preprint arXiv:2105.06982",
+   "year": "2021"
+  },
+  {
+   "title": "MTOP: A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark",
+   "authors": "HLAAS Chen, A Gupta, SGY Mehdad",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "• Image Recognition & Human Activity Recognition in Videos",
+   "authors": "S Gupta, J Kim, K Grauman, R Mooney",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment (Supplementary Materials)",
+   "authors": "J Chuang, S Gupta, CD Manning, J Heer",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

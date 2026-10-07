@@ -1,0 +1,143 @@
+{
+ "user": "mIgILbQAAAAJ",
+ "pubs": [
+  {
+   "title": "Generating typed dependency parses from phrase structure parses",
+   "authors": "MC De Marneffe, B MacCartney, CD Manning",
+   "venue": "Proceedings of LREC 6, 449-454",
+   "year": "2006"
+  },
+  {
+   "title": "Natural language inference",
+   "authors": "B MacCartney",
+   "venue": "Stanford University",
+   "year": "2009"
+  },
+  {
+   "title": "An extended model of natural logic",
+   "authors": "B MacCartney, CD Manning",
+   "venue": "Proceedings of the eight international conference on computational semantics …",
+   "year": "2009"
+  },
+  {
+   "title": "Modeling semantic containment and exclusion in natural language inference",
+   "authors": "B MacCartney, CD Manning",
+   "venue": "Proceedings of the 22nd International Conference on Computational …",
+   "year": "2008"
+  },
+  {
+   "title": "Natural logic for textual inference",
+   "authors": "B MacCartney, CD Manning",
+   "venue": "Proceedings of the ACL-PASCAL workshop on textual entailment and …",
+   "year": "2007"
+  },
+  {
+   "title": "On the Importance of Text Analysis for Stock Price Prediction",
+   "authors": "H Lee, M Surdeanu, B MacCartney, D Jurafsky",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Learning to recognize features of valid textual entailments",
+   "authors": "B MacCartney, T Grenager, MC De Marneffe, D Cer, CD Manning",
+   "venue": "Proceedings of the Human Language Technology Conference of the NAACL, Main …",
+   "year": "2006"
+  },
+  {
+   "title": "A phrase-based alignment model for natural language inference",
+   "authors": "B MacCartney, M Galley, CD Manning",
+   "venue": "Proceedings of the 2008 Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Learning alignments and leveraging natural logic",
+   "authors": "N Chambers, D Cer, T Grenager, D Hall, C Kiddon, B MacCartney, ...",
+   "venue": "Proceedings of the ACL-PASCAL workshop on textual entailment and …",
+   "year": "2007"
+  },
+  {
+   "title": "Practical partition-based theorem proving for large knowledge bases",
+   "authors": "B MacCartney, S McIlraith, E Amir, T Uribe",
+   "venue": "Proc. of the International Joint Conference on Artificial Intelligence (IJCAI)",
+   "year": "2003"
+  },
+  {
+   "title": "Learning to distinguish valid textual entailments",
+   "authors": "MC De Marneffe, B MacCartney, T Grenager, D Cer, A Rafferty, ...",
+   "venue": "Proceedings of the Second PASCAL Challenges Workshop",
+   "year": "2006"
+  },
+  {
+   "title": "Solving logic puzzles: From robust processing to precise semantics",
+   "authors": "I Lev, B MacCartney, CD Manning, R Levy",
+   "venue": "Proceedings of the 2nd Workshop on Text Meaning and Interpretation, 9-16",
+   "year": "2004"
+  },
+  {
+   "title": "Robust textual inference using diverse knowledge sources",
+   "authors": "R Raina, A Haghighi, C Cox, J Finkel, J Michels, K Toutanova, ...",
+   "venue": "Proceedings of the First PASCAL Challenges Workshop",
+   "year": "2005"
+  },
+  {
+   "title": "Natural logic and natural language inference",
+   "authors": "B MacCartney, CD Manning",
+   "venue": "Computing Meaning: Volume 4, 129-147",
+   "year": "2014"
+  },
+  {
+   "title": "Aligning semantic graphs for textual inference and machine reading",
+   "authors": "MC De Marneffe, T Grenager, B MacCartney, D Cer, D Ramage, C Kiddon, ...",
+   "venue": "Association for the Advancement of Artificial Intelligence (AAAI) Spring …",
+   "year": "2007"
+  },
+  {
+   "title": "Deciding entailment and contradiction with stochastic and edit distance-based alignment",
+   "authors": "S Padó, MC de Marneffe, B MacCartney, AN Rafferty, E Yeh, CD Manning",
+   "venue": "Proceedings of the first text analysis conference, TAC 8",
+   "year": "2008"
+  },
+  {
+   "title": "Statistical resolution of scope ambiguity in natural language",
+   "authors": "G Andrew, B MacCartney",
+   "venue": "Unpublished manuscript",
+   "year": "2004"
+  },
+  {
+   "title": "NLP lunch tutorial: Smoothing",
+   "authors": "B MacCartney",
+   "venue": "URL http://nlp. stanford. edu/~ wcmac/papers/20050421-smoothing-tutorial. pdf",
+   "year": "2005"
+  },
+  {
+   "title": "Natural Language Understanding",
+   "authors": "B McCartney, C Potts",
+   "venue": "Supervised Sentiment Analysis, 1-82",
+   "year": "2020"
+  },
+  {
+   "title": "An extended model of natural logic",
+   "authors": "CD Manning, B MacCartney",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "Robust Graph Alignment Methods for Textual Inference and Machine Reading.",
+   "authors": "MC De Marneffe, T Grenager, B MacCartney, DM Cer, D Ramage, ...",
+   "venue": "AAAI Spring Symposium: Machine Reading, 36-42",
+   "year": "2007"
+  },
+  {
+   "title": "Learning to recognize features of valid textual entailments",
+   "authors": "T Grenager, MC de Marneffe, B MacCartney, CD Manning",
+   "venue": "Proceedings of the main conference on Human Language Technology Conference …",
+   "year": "2006"
+  },
+  {
+   "title": "Solving logic puzzles",
+   "authors": "B MacCartney, CD Manning, R Lévy",
+   "venue": "Proceedings of the 2nd Workshop on Text Meaning and Interpretation-TextMean'04",
+   "year": "2004"
+  }
+ ]
+}

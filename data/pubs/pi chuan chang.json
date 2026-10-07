@@ -1,0 +1,509 @@
+{
+ "user": "8_8omVoAAAAJ",
+ "pubs": [
+  {
+   "title": "Accurate circular consensus long-read sequencing improves variant detection and assembly of a human genome",
+   "authors": "AM Wenger, P Peluso, WJ Rowell, PC Chang, RJ Hall, GT Concepcion, ...",
+   "venue": "Nature biotechnology 37 (10), 1155-1162",
+   "year": "2019"
+  },
+  {
+   "title": "A universal SNP and small-indel variant caller using deep neural networks",
+   "authors": "R Poplin, PC Chang, D Alexander, S Schwartz, T Colthurst, A Ku, ...",
+   "venue": "Nature biotechnology 36 (10), 983-987",
+   "year": "2018"
+  },
+  {
+   "title": "A draft human pangenome reference",
+   "authors": "WW Liao, M Asri, J Ebler, D Doerr, M Haukness, G Hickey, S Lu, JK Lucas, ...",
+   "venue": "Nature 617 (7960), 312-324",
+   "year": "2023"
+  },
+  {
+   "title": "Towards generalist biomedical AI",
+   "authors": "T Tu, S Azizi, D Driess, M Schaekermann, M Amin, PC Chang, A Carroll, ...",
+   "venue": "Nejm Ai 1 (3), AIoa2300138",
+   "year": "2024"
+  },
+  {
+   "title": "A conditional random field word segmenter for sighan bakeoff 2005",
+   "authors": "H Tseng, PC Chang, G Andrew, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the fourth SIGHAN workshop on Chinese language Processing",
+   "year": "2005"
+  },
+  {
+   "title": "Pangenomics enables genotyping of known structural variants in 5202 diverse genomes",
+   "authors": "J Sirén, J Monlong, X Chang, AM Novak, JM Eizenga, C Markello, ...",
+   "venue": "Science 374 (6574), abg8871",
+   "year": "2021"
+  },
+  {
+   "title": "Optimizing Chinese word segmentation for machine translation performance",
+   "authors": "PC Chang, M Galley, CD Manning",
+   "venue": "Proceedings of the third workshop on statistical machine translation, 224-232",
+   "year": "2008"
+  },
+  {
+   "title": "Haplotype-aware variant calling with PEPPER-Margin-DeepVariant enables high accuracy in nanopore long-reads",
+   "authors": "K Shafin, T Pesout, PC Chang, M Nattestad, A Kolesnikov, S Goel, G Baid, ...",
+   "venue": "Nature methods 18 (11), 1322-1332",
+   "year": "2021"
+  },
+  {
+   "title": "Accurate, scalable cohort variant calls using DeepVariant and GLnexus",
+   "authors": "T Yun, H Li, PC Chang, MF Lin, A Carroll, CY McLean",
+   "venue": "Bioinformatics 36 (24), 5582-5589",
+   "year": "2020"
+  },
+  {
+   "title": "Ultrarapid nanopore genome sequencing in a critical care setting",
+   "authors": "JE Gorzynski, SD Goenka, K Shafin, TD Jensen, DG Fisk, ME Grove, ...",
+   "venue": "New England Journal of Medicine 386 (7), 700-702",
+   "year": "2022"
+  },
+  {
+   "title": "PrecisionFDA Truth Challenge V2: Calling variants from short and long reads in difficult-to-map regions",
+   "authors": "ND Olson, J Wagner, J McDaniel, SH Stephens, ST Westreich, ...",
+   "venue": "Cell genomics 2 (5)",
+   "year": "2022"
+  },
+  {
+   "title": "DeepConsensus improves the accuracy of sequences with a gap-aware sequence transformer",
+   "authors": "G Baid, DE Cook, K Shafin, T Yun, F Llinares-López, Q Berthet, ...",
+   "venue": "Nature biotechnology 41 (2), 232-238",
+   "year": "2023"
+  },
+  {
+   "title": "Discriminative reordering with Chinese grammatical relations features",
+   "authors": "PC Chang, H Tseng, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Third Workshop on Syntax and Structure in Statistical …",
+   "year": "2009"
+  },
+  {
+   "title": "The complete sequence and comparative analysis of ape sex chromosomes",
+   "authors": "KD Makova, BD Pickett, RS Harris, GA Hartley, M Cechova, K Pal, S Nurk, ...",
+   "venue": "Nature 630 (8016), 401-411",
+   "year": "2024"
+  },
+  {
+   "title": "Accelerated identification of disease-causing variants with ultra-rapid nanopore genome sequencing",
+   "authors": "SD Goenka, JE Gorzynski, K Shafin, DG Fisk, T Pesout, TD Jensen, ...",
+   "venue": "Nature Biotechnology 40 (7), 1035-1041",
+   "year": "2022"
+  },
+  {
+   "title": "Uptraining for accurate deterministic question parsing",
+   "authors": "S Petrov, PC Chang, M Ringgaard, H Alshawi",
+   "venue": "Proceedings of the 2010 Conference on Empirical Methods in Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Deep learning of genomic variation and regulatory network data",
+   "authors": "A Telenti, C Lippert, PC Chang, M DePristo",
+   "venue": "Human molecular genetics 27 (Supplement_R1), R63-R71",
+   "year": "2018"
+  },
+  {
+   "title": "A deep learning approach to pattern recognition for short DNA sequences",
+   "authors": "A Busia, GE Dahl, C Fannjiang, DH Alexander, E Dorfman, R Poplin, ...",
+   "venue": "BioRxiv, 353474",
+   "year": "2018"
+  },
+  {
+   "title": "Comparison of GATK and DeepVariant by trio sequencing",
+   "authors": "YL Lin, PC Chang, C Hsu, MZ Hung, YH Chien, WL Hwu, FP Lai, NC Lee",
+   "venue": "Scientific Reports 12 (1), 1809",
+   "year": "2022"
+  },
+  {
+   "title": "Severus detects somatic structural variation and complex rearrangements in cancer genomes using long-read sequencing",
+   "authors": "AG Keskus, A Bryant, T Ahmad, B Yoo, S Aganezov, A Goretsky, ...",
+   "venue": "Nature biotechnology 44 (2), 247-257",
+   "year": "2026"
+  },
+  {
+   "title": "Personalized pangenome references",
+   "authors": "J Sirén, P Eskandar, MT Ungaro, G Hickey, JM Eizenga, AM Novak, ...",
+   "venue": "Nature Methods 21 (11), 2017-2023",
+   "year": "2024"
+  },
+  {
+   "title": "Gaps and complex structurally variant loci in phased genome assemblies",
+   "authors": "D Porubsky, MR Vollger, WT Harvey, AN Rozanski, P Ebert, G Hickey, ...",
+   "venue": "Genome research 33 (4), 496-510",
+   "year": "2023"
+  },
+  {
+   "title": "A population-specific reference panel for improved genotype imputation in African Americans",
+   "authors": "J O’Connell, T Yun, M Moreno, H Li, N Litterman, A Kolesnikov, E Noblin, ...",
+   "venue": "Communications biology 4 (1), 1269",
+   "year": "2021"
+  },
+  {
+   "title": "A discriminative syntactic word order model for machine translation",
+   "authors": "PC Chang, K Toutanova",
+   "venue": "Proceedings of the 45th Annual Meeting of the Association of Computational …",
+   "year": "2007"
+  },
+  {
+   "title": "Accurate somatic small variant discovery for multiple sequencing technologies with DeepSomatic",
+   "authors": "J Park, DE Cook, PC Chang, A Kolesnikov, L Brambrink, JC Mier, ...",
+   "venue": "Nature Biotechnology, 1-10",
+   "year": "2025"
+  },
+  {
+   "title": "DeepTrio: variant calling in families using deep learning",
+   "authors": "L Brambrink, A Kolesnikov, S Goel, M Nattestad, T Yun, G Baid, H Yang, ...",
+   "venue": "BioRxiv, 2021.04. 05.438434",
+   "year": "2021"
+  },
+  {
+   "title": "Disambiguating “DE” for Chinese-English machine translation",
+   "authors": "PC Chang, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Fourth Workshop on Statistical Machine Translation, 215-223",
+   "year": "2009"
+  },
+  {
+   "title": "The Platinum Pedigree: a long-read benchmark for genetic variants",
+   "authors": "Z Kronenberg, C Nolan, D Porubsky, T Mokveld, WJ Rowell, S Lee, ...",
+   "venue": "Nature Methods 22 (8), 1669-1676",
+   "year": "2025"
+  },
+  {
+   "title": "An extensive sequence dataset of gold-standard samples for benchmarking and development",
+   "authors": "G Baid, M Nattestad, A Kolesnikov, S Goel, H Yang, PC Chang, A Carroll",
+   "venue": "BioRxiv, 2020.12. 11.422022",
+   "year": "2020"
+  },
+  {
+   "title": "Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks",
+   "authors": "K Shafin, T Pesout, PC Chang, M Nattestad, A Kolesnikov, S Goel, G Baid, ...",
+   "venue": "BioRxiv, 2021.03. 04.433952",
+   "year": "2021"
+  },
+  {
+   "title": "Improving variant calling using population data and deep learning",
+   "authors": "NC Chen, A Kolesnikov, S Goel, T Yun, PC Chang, A Carroll",
+   "venue": "BMC bioinformatics 24 (1), 197",
+   "year": "2023"
+  },
+  {
+   "title": "Local read haplotagging enables accurate long-read small variant calling",
+   "authors": "A Kolesnikov, D Cook, M Nattestad, L Brambrink, B McNulty, J Gorzynski, ...",
+   "venue": "Nature Communications 15 (1), 5907",
+   "year": "2024"
+  },
+  {
+   "title": "Genotyping common, large structural variations in 5,202 genomes using pangenomes, the Giraffe mapper, and the vg toolkit",
+   "authors": "J Sirén, J Monlong, X Chang, AM Novak, JM Eizenga, C Markello, ...",
+   "venue": "BioRxiv, 2020.12. 04.412486",
+   "year": "2020"
+  },
+  {
+   "title": "Automatically detecting action items in audio meeting recordings",
+   "authors": "W Morgan, PC Chang, S Gupta, J Brenier",
+   "venue": "Proceedings of the 7th SIGdial Workshop on Discourse and Dialogue, 96-103",
+   "year": "2006"
+  },
+  {
+   "title": "Severus: accurate detection and characterization of somatic structural variation in tumor genomes using long reads",
+   "authors": "A Keskus, A Bryant, T Ahmad, B Yoo, S Aganezov, A Goretsky, A Donmez, ...",
+   "venue": "MedRxiv",
+   "year": "2024"
+  },
+  {
+   "title": "Highly accurate assembly polishing with DeepPolisher",
+   "authors": "M Mastoras, M Asri, L Brambrink, P Hebbar, A Kolesnikov, DE Cook, ...",
+   "venue": "Genome research 35 (7), 1595-1608",
+   "year": "2025"
+  },
+  {
+   "title": "Accurate human genome analysis with element avidity sequencing",
+   "authors": "A Carroll, A Kolesnikov, DE Cook, L Brambrink, KN Wiseman, SM Billings, ...",
+   "venue": "BMC bioinformatics 26 (1), 194",
+   "year": "2025"
+  },
+  {
+   "title": "DeepSomatic: Accurate somatic small variant discovery for multiple sequencing technologies",
+   "authors": "J Park, DE Cook, PC Chang, A Kolesnikov, L Brambrink, JC Mier, ...",
+   "venue": "BioRxiv",
+   "year": "2024"
+  },
+  {
+   "title": "Discriminative syntactic word order model for machine translation",
+   "authors": "KN Toutanova, PC Chang",
+   "venue": "US Patent 8,452,585",
+   "year": "2013"
+  },
+  {
+   "title": "A deep-learning-based RNA-seq germline variant caller",
+   "authors": "DE Cook, A Venkat, D Yelizarov, Y Pouliot, PC Chang, A Carroll, ...",
+   "venue": "Bioinformatics advances 3 (1), vbad062",
+   "year": "2023"
+  },
+  {
+   "title": "Deterministic statistical mapping of sentences to underspecified semantics",
+   "authors": "H Alshawi, PC Chang, M Ringgaard",
+   "venue": "Proceedings of the Ninth International Conference on Computational Semantics …",
+   "year": "2011"
+  },
+  {
+   "title": "Deepconsensus: Gap-aware sequence transformers for sequence correction",
+   "authors": "G Baid, DE Cook, K Shafin, T Yun, F Llinares-Lopez, Q Berthet, ...",
+   "venue": "BioRxiv, 2021.08. 31.458403",
+   "year": "2021"
+  },
+  {
+   "title": "Systematic cell-type resolved transcriptomes of 8 tissues in 8 lab and wild-derived mouse strains capture global and local expression variation",
+   "authors": "E Rebboah, R Weber, E Abdollahzadeh, N Swarna, DK Sullivan, D Trout, ...",
+   "venue": "Cell Genomics 6 (4)",
+   "year": "2026"
+  },
+  {
+   "title": "Improved Chinese broadcast news transcription by language modeling with temporally consistent training corpora and iterative phrase extraction",
+   "authors": "PC Chang, SP Liao, LS Lee",
+   "venue": "Proc. Eurospeech 2003, 421-424",
+   "year": "2003"
+  },
+  {
+   "title": "A robust benchmark for detecting low-frequency variants in the HG002 Genome In A Bottle NIST reference material",
+   "authors": "CA Daniels, A Abdulkadir, MH Cleveland, JH McDaniel, D Jáspez, ...",
+   "venue": "bioRxiv",
+   "year": "2024"
+  },
+  {
+   "title": "Pangenome-aware deepvariant",
+   "authors": "M Asri, PC Chang, JC Mier, J Sirén, P Eskandar, A Kolesnikov, DE Cook, ...",
+   "venue": "bioRxiv",
+   "year": "2025"
+  },
+  {
+   "title": "Rapid, accurate long-and short-read mapping to large pangenome graphs with vg Giraffe",
+   "authors": "X Chang, AM Novak, JM Eizenga, J Sirén, J Monlong, S Negi, F Andreace, ...",
+   "venue": "bioRxiv",
+   "year": "2025"
+  },
+  {
+   "title": "Pan-conserved segment tags identify ultra-conserved sequences across assemblies in the human pangenome",
+   "authors": "HJ Lee, SU Greer, DS Pavlichin, B Zhou, AE Urban, T Weissman, ...",
+   "venue": "Cell reports methods 3 (8)",
+   "year": "2023"
+  },
+  {
+   "title": "Learning from data-rich problems: a case study on genetic variant calling",
+   "authors": "R Yi, PC Chang, G Baid, A Carroll",
+   "venue": "arXiv preprint arXiv:1911.05151",
+   "year": "2019"
+  },
+  {
+   "title": "Characterization of subclonal variants in HG002 Genome in a Bottle reference material as a resource for benchmarking variant callers",
+   "authors": "CA Daniels, AA Abdulkadir, MH Cleveland, JH McDaniel, D Jáspez, ...",
+   "venue": "Cell Genomics 6 (4)",
+   "year": "2026"
+  },
+  {
+   "title": "A complete pedigree-based graph workflow for rare candidate variant analysis",
+   "authors": "C Markello, C Huang, A Rodriguez, A Carroll, PC Chang, J Eizenga, ...",
+   "venue": "Genome Research 32 (5), 893-903",
+   "year": "2022"
+  },
+  {
+   "title": "Comprehensive variant detection in a human genome with highly accurate long reads",
+   "authors": "WJ Rowell, A Wenger, A Kolesnikov, P Chang, A Carroll, R Hall",
+   "venue": "EUROPEAN JOURNAL OF HUMAN GENETICS 27, 1723-1723",
+   "year": "2019"
+  },
+  {
+   "title": "Improved language model adaptation using existing and derived external resources",
+   "authors": "PC Chang, LS Lee",
+   "venue": "2003 IEEE Workshop on Automatic Speech Recognition and Understanding (IEEE …",
+   "year": "2003"
+  },
+  {
+   "title": "Ultra-rapid nanopore whole genome genetic diagnosis of dilated cardiomyopathy in an adolescent with cardiogenic shock",
+   "authors": "JE Gorzynski, SD Goenka, K Shafin, TD Jensen, DG Fisk, ME Grove, ...",
+   "venue": "Circulation: Genomic and Precision Medicine 15 (2), e003591",
+   "year": "2022"
+  },
+  {
+   "title": "Improved non-human variant calling using species-specific DeepVariant models",
+   "authors": "T Yun, C McLean, PC Chang, A Carroll",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "HPRC2: A human pangenome reference with near-complete coverage of common genetic variation",
+   "authors": "JK Lucas, P Hebbar, WW Liao, JF Macias-Velasco, AM Novak, M Asri, ...",
+   "venue": "bioRxiv, 2026.07. 21.739710",
+   "year": "2026"
+  },
+  {
+   "title": "A complete human pancreatic cancer genome.",
+   "authors": "J Wagner, AG Keskus, KK Oshima, TR Ranallo-Benavidez, J McDaniel, ...",
+   "venue": "Biorxiv: the Preprint Server for Biology",
+   "year": "2026"
+  },
+  {
+   "title": "Machine translation from text",
+   "authors": "N Habash, J Olive, C Christianson, J McCary, N Habash, A de Gispert, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Best: A tool for characterizing sequencing errors",
+   "authors": "D Liu, A Belyaeva, K Shafin, PC Chang, A Carroll, DE Cook",
+   "venue": "bioRxiv, 2022.12. 22.521488",
+   "year": "2022"
+  },
+  {
+   "title": "Best: A Tool for Characterizing Sequencing Errors",
+   "authors": "A Belyaeva, A Carroll, D Cook, D Liu, K Shafin, PC Chang",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Stanford University’s Arabic-to-English Statistical Machine Translation System for the 2009 NIST MT Open Evaluation",
+   "authors": "M Galley, DC Spence Green, PC Chang, CD Manning",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Improving Chinese-English machine translation through better source-side linguistic processing",
+   "authors": "PC Chang",
+   "venue": "Stanford University",
+   "year": "2009"
+  },
+  {
+   "title": "Knowledge distillation for fast and accurate dna sequence correction",
+   "authors": "A Belyaeva, J Shor, DE Cook, K Shafin, D Liu, A Töpfer, AM Wenger, ...",
+   "venue": "arXiv preprint arXiv:2211.09862",
+   "year": "2022"
+  },
+  {
+   "title": "Using Nucleus and TensorFlow for DNA sequencing error correction",
+   "authors": "G Baid, H Li, PC Chang",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "NIST open machine translation 2008 evaluation: Stanford university’s system description",
+   "authors": "M Galley, P Chang, D Cer, JR Finkel, CD Manning",
+   "venue": "Unpublished working notes of the 2008 NIST Open Machine Translation …",
+   "year": "2008"
+  },
+  {
+   "title": "PanVariants: Best practice for pangenome-based variant calling pipeline and framework",
+   "authors": "H Yi, L Wang, X Chen, Y Ding, A Carroll, PC Chang, K Shafin, L Xu, ...",
+   "venue": "bioRxiv, 2026.04. 22.720142",
+   "year": "2026"
+  },
+  {
+   "title": "Highly accurate snp and indel calling on pacbio ccs with deepvariant",
+   "authors": "A Kolesnikov, A Carroll, CS Chin, PC Chang",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Stanford University’s Chinese-to-English statistical machine translation system for the 2008 NIST evaluation",
+   "authors": "M Galley, PC Chang, D Cer, JR Finkel, CD Manning",
+   "venue": "Proceedings of the 2008 NIST Open Machine Translation Evaluation Workshop …",
+   "year": "2008"
+  },
+  {
+   "title": "Software and Products for\" Pangenomics enables genotyping known structural variants in 5,202 diverse genomes\"",
+   "authors": "J Sirén, J Monlong, X Chang, AM Novak, JM Eizenga, C Markello, ...",
+   "venue": "Zenodo",
+   "year": "2021"
+  },
+  {
+   "title": "The Genome In A Bottle HG002 assembly-based variant benchmark set enables comprehensive benchmarking of small and structural variants.",
+   "authors": "ND Olson, N Dwarshuis, NF Hansen, S Koren, A Rhie, JH McDaniel, ...",
+   "venue": "bioRxiv, 2026.09. 23.752440",
+   "year": "2026"
+  },
+  {
+   "title": "Rapid, accurate long-and short-read mapping to large pangenome graphs with vg Giraffe",
+   "authors": "B Paten, X Chang, A Novak, J Eizenga, J Sirén, J Monlong, S Negi, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Sequence error correction using neural networks",
+   "authors": "AW Carroll, G Baid, PC Chang, DE Cook, M Nattestad, T Yun, ...",
+   "venue": "US Patent App. 18/687,059",
+   "year": "2025"
+  },
+  {
+   "title": "Severus: A tool for detecting and characterizing complex structural variants in cancer using long-read sequencing",
+   "authors": "A Keskus, A Bryant, T Ahmad, A Goretsky, B Yoo, S Aganezov, A Donmez, ...",
+   "venue": "Cancer Research 85 (8_Supplement_1), 2848-2848",
+   "year": "2025"
+  },
+  {
+   "title": "DeepSomatic: A SNV and small-indel somatic caller using deep neural networks",
+   "authors": "DE Cook, J Park, PC Chang, A Kolesnikov, L Brambrink, JC Mier, ...",
+   "venue": "Cancer Research 85 (8_Supplement_1), 7436-7436",
+   "year": "2025"
+  },
+  {
+   "title": "A deep-learning-based RNA-seq germline variant caller",
+   "authors": "A Venkat, A Carroll, D Cook, D Yelizarov, F De La Vega, PC Chang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "PrecisionFDA Truth Challenge V2: Calling variants from short and long reads in difficult-to-map regions",
+   "authors": "A Kolesnikov, A Carroll, G Baid, H Yang, M Nattestad, PC Chang, S Goel",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "DeepVariant over the years",
+   "authors": "A Kolesnikov, A Carroll, D Cook, G Baid, H Yang, M Nattestad, PC Chang",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Accurate, comprehensive variant calling in difficult-to-map genes using HiFi reads.",
+   "authors": "A Wenger, A Carroll, G Baid, M Nattestad, PC Chang, WJ Rowell",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Creating a universal SNP and small indel variant caller with deep neural networks",
+   "authors": "MADP Ryan Poplin, Pi-Chuan Chang, David Alexander, Scott Schwartz, Thomas ...",
+   "venue": "https://doi.org/10.1101/092890",
+   "year": "2018"
+  },
+  {
+   "title": "DeepVariant Accuracy Improvements for Genetic Datatypes",
+   "authors": "PC Chang, L Dorfman",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Creating a universal SNP and small indel variant caller with deep neural networks",
+   "authors": "DH Alexander, DP Ma, S Schwartz, NG Nguyễn, PC Chang, ...",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "performance in variant detection across classifications, chemistries and sample types",
+   "authors": "I Salas-González, V Amin, S Balam, PC Chang, A Carroll, V Weigman",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Better Data for Better Health",
+   "authors": "SD Goenka, JE Gorzynski, K Shafin, DG Fisk, T Pesout, TD Jensen, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "CS229 Project Report: NER adaptation",
+   "authors": "PC Chang, S Gupta, YH Sung",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

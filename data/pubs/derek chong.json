@@ -1,0 +1,35 @@
+{
+ "user": "UcBYyaMAAAAJ",
+ "pubs": [
+  {
+   "title": "Verbalized sampling: How to mitigate mode collapse and unlock llm diversity",
+   "authors": "J Zhang, S Yu, D Chong, A Sicilia, MR Tomz, CD Manning, W Shi",
+   "venue": "arXiv preprint arXiv:2510.01171",
+   "year": "2025"
+  },
+  {
+   "title": "Detecting label errors by using pre-trained language models",
+   "authors": "D Chong, J Hong, CD Manning",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Learning from limited labels for long legal dialogue",
+   "authors": "J Hong, D Chong, CD Manning",
+   "venue": "Proceedings of the Natural Legal Language Processing Workshop 2021, 190-204",
+   "year": "2021"
+  },
+  {
+   "title": "Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces",
+   "authors": "S Yu, D Chong, A Nandi, D Soylu, J Sun, CD Manning, W Shi",
+   "venue": "arXiv preprint arXiv:2605.10913",
+   "year": "2026"
+  },
+  {
+   "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+   "authors": "S Yu, N Tomlin, M Abdulhai, X Lu, D Chong, A Hou, D Soylu, S Levine, ...",
+   "venue": "arXiv preprint arXiv:2608.12253",
+   "year": "2026"
+  }
+ ]
+}

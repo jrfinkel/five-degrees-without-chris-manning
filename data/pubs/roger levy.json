@@ -1,0 +1,2147 @@
+{
+ "user": "i86O0SAAAAAJ",
+ "pubs": [
+  {
+   "title": "Random effects structure for confirmatory hypothesis testing: Keep it maximal",
+   "authors": "DJ Barr, R Levy, C Scheepers, HJ Tily",
+   "venue": "Journal of memory and language 68 (3), 255-278",
+   "year": "2013"
+  },
+  {
+   "title": "Expectation-based syntactic comprehension",
+   "authors": "R Levy",
+   "venue": "Cognition 106 (3), 1126-1177",
+   "year": "2008"
+  },
+  {
+   "title": "A new approach to cross-modal multimedia retrieval",
+   "authors": "N Rasiwasia, J Costa Pereira, E Coviello, G Doyle, GRG Lanckriet, ...",
+   "venue": "Proceedings of the 18th ACM international conference on Multimedia, 251-260",
+   "year": "2010"
+  },
+  {
+   "title": "The effect of word predictability on reading time is logarithmic",
+   "authors": "NJ Smith, R Levy",
+   "venue": "Cognition 128 (3), 302-319",
+   "year": "2013"
+  },
+  {
+   "title": "Speakers optimize information density through syntactic reduction",
+   "authors": "RP Levy, TF Jaeger",
+   "venue": "Advances in neural information processing systems, 849-856",
+   "year": "2007"
+  },
+  {
+   "title": "How efficiency shapes human language",
+   "authors": "E Gibson, R Futrell, SP Piantadosi, I Dautriche, K Mahowald, L Bergen, ...",
+   "venue": "Trends in cognitive sciences 23 (5), 389-407",
+   "year": "2019"
+  },
+  {
+   "title": "Tregex and Tsurgeon: Tools for querying and manipulating tree data structures.",
+   "authors": "R Levy, G Andrew",
+   "venue": "LREC, 2231-2234",
+   "year": "2006"
+  },
+  {
+   "title": "On the role of correlation and abstraction in cross-modal multimedia retrieval",
+   "authors": "JC Pereira, E Coviello, G Doyle, N Rasiwasia, GRG Lanckriet, R Levy, ...",
+   "venue": "IEEE transactions on pattern analysis and machine intelligence 36 (3), 521-535",
+   "year": "2013"
+  },
+  {
+   "title": "LINC: A neurosymbolic approach for logical reasoning by combining language models with first-order logic provers",
+   "authors": "T Olausson, A Gu, B Lipkin, C Zhang, A Solar-Lezama, J Tenenbaum, ...",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Eye movement evidence that readers maintain and act on uncertainty about past linguistic input",
+   "authors": "R Levy, K Bicknell, T Slattery, K Rayner",
+   "venue": "Proceedings of the national academy of sciences 106 (50), 21086-21090",
+   "year": "2009"
+  },
+  {
+   "title": "A systematic assessment of syntactic generalization in neural language models",
+   "authors": "J Hu, J Gauthier, P Qian, E Wilcox, R Levy",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Is it harder to parse Chinese, or the Chinese Treebank?",
+   "authors": "R Levy, CD Manning",
+   "venue": "proceedings of the 41st Annual Meeting of the Association for Computational …",
+   "year": "2003"
+  },
+  {
+   "title": "A noisy-channel model of human sentence comprehension under uncertain input",
+   "authors": "R Levy",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "Neural language models as psycholinguistic subjects: Representations of syntactic state",
+   "authors": "R Futrell, E Wilcox, T Morita, P Qian, M Ballesteros, R Levy",
+   "venue": "Proceedings of the 2019 conference of the North American chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "The chicken or the egg? A probabilistic analysis of English binomials",
+   "authors": "S Benor, R Levy",
+   "venue": "Language 82 (2), 233-278",
+   "year": "2006"
+  },
+  {
+   "title": "On the predictive power of neural language models for human real-time comprehension behavior",
+   "authors": "EG Wilcox, J Gauthier, J Hu, P Qian, R Levy",
+   "venue": "arXiv preprint arXiv:2006.01912",
+   "year": "2020"
+  },
+  {
+   "title": "Lossy‐context surprisal: An information‐theoretic model of memory effects in sentence processing",
+   "authors": "R Futrell, E Gibson, RP Levy",
+   "venue": "Cognitive science 44 (3), e12814",
+   "year": "2020"
+  },
+  {
+   "title": "What do RNN language models learn about filler–gap dependencies?",
+   "authors": "E Wilcox, R Levy, T Morita, R Futrell",
+   "venue": "Proceedings of the 2018 EMNLP workshop BlackboxNLP: Analyzing and …",
+   "year": "2018"
+  },
+  {
+   "title": "Large-scale evidence for logarithmic effects of word predictability on reading time",
+   "authors": "C Shain, C Meister, T Pimentel, R Cotterell, R Levy",
+   "venue": "Proceedings of the National Academy of Sciences 121 (10), e2307876121",
+   "year": "2024"
+  },
+  {
+   "title": "Pragmatic reasoning through semantic inference",
+   "authors": "L Bergen, R Levy, N Goodman",
+   "venue": "Semantics and Pragmatics 9, 20: 1-91",
+   "year": "2016"
+  },
+  {
+   "title": "Testing the predictions of surprisal theory in 11 languages",
+   "authors": "EG Wilcox, T Pimentel, C Meister, R Cotterell, RP Levy",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 1451-1470",
+   "year": "2023"
+  },
+  {
+   "title": "Prompting is not a substitute for probability measurements in large language models",
+   "authors": "J Hu, R Levy",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Expectation and locality effects in German verb-final structures",
+   "authors": "RP Levy, F Keller",
+   "venue": "Journal of memory and language 68 (2), 199-222",
+   "year": "2013"
+  },
+  {
+   "title": "The syntactic complexity of Russian relative clauses",
+   "authors": "R Levy, E Fedorenko, E Gibson",
+   "venue": "Journal of memory and language 69 (4), 461-495",
+   "year": "2013"
+  },
+  {
+   "title": "Anticipating explanations in relative clause processing",
+   "authors": "H Rohde, R Levy, A Kehler",
+   "venue": "Cognition 118 (3), 339-358",
+   "year": "2011"
+  },
+  {
+   "title": "Dependency locality as an explanatory principle for word order",
+   "authors": "R Futrell, RP Levy, E Gibson",
+   "venue": "Language 96 (2), 371-412",
+   "year": "2020"
+  },
+  {
+   "title": "SyntaxGym: An online platform for targeted evaluation of language models",
+   "authors": "J Gauthier, J Hu, E Wilcox, P Qian, R Levy",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Using computational models to test syntactic learnability",
+   "authors": "EG Wilcox, R Futrell, R Levy",
+   "venue": "Linguistic Inquiry 55 (4), 805-848",
+   "year": "2024"
+  },
+  {
+   "title": "Revisiting the uniform information density hypothesis",
+   "authors": "C Meister, T Pimentel, P Haller, LA Jäger, R Cotterell, R Levy",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "Task effects reveal cognitive flexibility responding to frequency and predictability: Evidence from eye movements in reading and proofreading",
+   "authors": "ER Schotter, K Bicknell, I Howard, R Levy, K Rayner",
+   "venue": "Cognition 131 (1), 1-27",
+   "year": "2014"
+  },
+  {
+   "title": "Maze made easy: Better and easier measurement of incremental processing difficulty",
+   "authors": "V Boyce, R Futrell, RP Levy",
+   "venue": "Journal of Memory and Language 111, 104082",
+   "year": "2020"
+  },
+  {
+   "title": "Cloze but no cigar: The complex relationship between cloze, corpus, and subjective probabilities in language processing",
+   "authors": "N Smith, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "Integrating surprisal and uncertain-input models in online sentence comprehension: formal techniques and empirical results",
+   "authors": "R Levy",
+   "venue": "Proceedings of the 49th annual meeting of the Association for Computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Modeling the effects of memory on human online sentence processing with particle filters",
+   "authors": "R Levy, F Reali, T Griffiths",
+   "venue": "Advances in neural information processing systems 21",
+   "year": "2008"
+  },
+  {
+   "title": "A resource-rational model of human processing of recursive linguistic structure",
+   "authors": "M Hahn, R Futrell, R Levy, E Gibson",
+   "venue": "Proceedings of the National Academy of Sciences 119 (43), e2122602119",
+   "year": "2022"
+  },
+  {
+   "title": "Optimal processing times in reading: A formal model and empirical investigation",
+   "authors": "NJ Smith, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 30 (30)",
+   "year": "2008"
+  },
+  {
+   "title": "A rational model of eye movement control in reading",
+   "authors": "K Bicknell, R Levy",
+   "venue": "Proceedings of the 48th annual meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Memory and surprisal in human sentence comprehension",
+   "authors": "R Levy",
+   "venue": "Sentence processing 78, 142-195",
+   "year": "2013"
+  },
+  {
+   "title": "A generative model for semantic role labeling",
+   "authors": "CA Thompson, R Levy, CD Manning",
+   "venue": "European conference on machine learning, 397-408",
+   "year": "2003"
+  },
+  {
+   "title": "Noisy-context surprisal as a human sentence processing cost model",
+   "authors": "R Futrell, R Levy",
+   "venue": "Proceedings of the 15th conference of the european chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "The processing of extraposed structures in English",
+   "authors": "R Levy, E Fedorenko, M Breen, E Gibson",
+   "venue": "Cognition 122 (1), 12-36",
+   "year": "2012"
+  },
+  {
+   "title": "Embedded implicatures as pragmatic inferences under compositional lexical uncertainty",
+   "authors": "C Potts, D Lassiter, R Levy, MC Frank",
+   "venue": "Journal of Semantics 33 (4), 755-802",
+   "year": "2015"
+  },
+  {
+   "title": "Code-switching and predictability of meaning in discourse",
+   "authors": "M Myslín, R Levy",
+   "venue": "Language 91 (4), 871-905",
+   "year": "2015"
+  },
+  {
+   "title": "Language models align with human judgments on key grammatical constructions",
+   "authors": "J Hu, K Mahowald, G Lupyan, A Ivanova, R Levy",
+   "venue": "Proceedings of the National Academy of Sciences 121 (36), e2400917121",
+   "year": "2024"
+  },
+  {
+   "title": "Abstract knowledge versus direct experience in processing of binomial expressions",
+   "authors": "E Morgan, R Levy",
+   "venue": "Cognition 157, 384-402",
+   "year": "2016"
+  },
+  {
+   "title": "Comprehension priming as rational expectation for repetition: Evidence from syntactic processing",
+   "authors": "M Myslín, R Levy",
+   "venue": "Cognition 147, 29-56",
+   "year": "2016"
+  },
+  {
+   "title": "Probabilistic models of word order and syntactic discontinuity",
+   "authors": "RP Levy",
+   "venue": "Stanford University",
+   "year": "2005"
+  },
+  {
+   "title": "A computational model of linguistic humor in puns",
+   "authors": "JT Kao, R Levy, ND Goodman",
+   "venue": "Cognitive science 40 (5), 1270-1285",
+   "year": "2016"
+  },
+  {
+   "title": "Sequential vs. hierarchical syntactic models of human incremental sentence processing",
+   "authors": "V Fossum, R Levy",
+   "venue": "Proceedings of the 3rd workshop on cognitive modeling and computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Linking artificial and human neural representations of language",
+   "authors": "J Gauthier, R Levy",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "That's what she (could have) said: How alternative utterances affect language use",
+   "authors": "L Bergen, N Goodman, R Levy",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "Incremental language comprehension difficulty predicts activity in the language network but not the multiple demand network",
+   "authors": "L Wehbe, IA Blank, C Shain, R Futrell, R Levy, T von der Malsburg, ...",
+   "venue": "Cerebral Cortex 31 (9), 4006-4023",
+   "year": "2021"
+  },
+  {
+   "title": "RNNs as psycholinguistic subjects: Syntactic state and grammatical dependency",
+   "authors": "R Futrell, E Wilcox, T Morita, R Levy",
+   "venue": "arXiv preprint arXiv:1809.01329",
+   "year": "2018"
+  },
+  {
+   "title": "Structural supervision improves learning of non-local grammatical dependencies",
+   "authors": "E Wilcox, P Qian, R Futrell, M Ballesteros, R Levy",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Using R formulae to test for main effects in the presence of higher-order interactions",
+   "authors": "R Levy",
+   "venue": "arXiv preprint arXiv:1405.2094",
+   "year": "2014"
+  },
+  {
+   "title": "Random effects structure in mixed-effects models: Keep it maximal",
+   "authors": "DJ Barr, R Levy, C Scheepers, HJ Tily",
+   "venue": "Journal of Memory and Language 68 (3), 255-278",
+   "year": "2013"
+  },
+  {
+   "title": "Deep dependencies from context-free statistical parsers: correcting the surface dependency approximation",
+   "authors": "R Levy, CD Manning",
+   "venue": "Proceedings of the 42nd Annual Meeting of the Association for Computational …",
+   "year": "2004"
+  },
+  {
+   "title": "Do domain-general executive resources play a role in linguistic prediction? Re-evaluation of the evidence and a path forward",
+   "authors": "R Ryskin, RP Levy, E Fedorenko",
+   "venue": "Neuropsychologia 136, 107258",
+   "year": "2020"
+  },
+  {
+   "title": "Assessing language proficiency from eye movements in reading",
+   "authors": "Y Berzak, B Katz, R Levy",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "The role of abstraction in non-native speech perception",
+   "authors": "B Pajak, R Levy",
+   "venue": "Journal of phonetics 46, 147-160",
+   "year": "2014"
+  },
+  {
+   "title": "A targeted assessment of incremental processing in neural language models and humans",
+   "authors": "E Wilcox, P Vani, R Levy",
+   "venue": "Proceedings of the 59th annual meeting of the association for computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Automated whole sentence grammar correction using a noisy channel model",
+   "authors": "YA Park, R Levy",
+   "venue": "Proceedings of the 49th Annual Meeting of the Association for Computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Lexical-semantic content, not syntactic structure, is the main contributor to ANN-brain similarity of fMRI responses in the language network",
+   "authors": "C Kauf, G Tuckute, R Levy, J Andreas, E Fedorenko",
+   "venue": "Neurobiology of Language 5 (1), 7-42",
+   "year": "2024"
+  },
+  {
+   "title": "On the effect of anticipation on reading times",
+   "authors": "T Pimentel, C Meister, EG Wilcox, RP Levy, R Cotterell",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 1624-1642",
+   "year": "2023"
+  },
+  {
+   "title": "CELER: A 365-participant corpus of eye movements in L1 and L2 English reading",
+   "authors": "Y Berzak, C Nakamura, A Smith, E Weng, B Katz, S Flynn, R Levy",
+   "venue": "Open Mind 6, 41-50",
+   "year": "2022"
+  },
+  {
+   "title": "Hierarchical representation in neural language models: Suppression and recovery of expectations",
+   "authors": "E Wilcox, R Levy, R Futrell",
+   "venue": "Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting …",
+   "year": "2019"
+  },
+  {
+   "title": "A rate-distortion view of human pragmatic reasoning",
+   "authors": "N Zaslavsky, J Hu, RP Levy",
+   "venue": "arXiv preprint arXiv:2005.06641",
+   "year": "2020"
+  },
+  {
+   "title": "Why readers regress to previous words: A statistical analysis",
+   "authors": "K Bicknell, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "Structural guidance for transformer language models",
+   "authors": "P Qian, T Naseem, R Levy, RF Astudillo",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Solving logic puzzles: From robust processing to precise semantics",
+   "authors": "I Lev, B MacCartney, CD Manning, R Levy",
+   "venue": "Proceedings of the 2nd Workshop on Text Meaning and Interpretation, 9-16",
+   "year": "2004"
+  },
+  {
+   "title": "The emergence of an abstract grammatical category in children’s early speech",
+   "authors": "SC Meylan, MC Frank, BC Roy, R Levy",
+   "venue": "Psychological science 28 (2), 181-192",
+   "year": "2017"
+  },
+  {
+   "title": "Coordination and neutralization in HPSG",
+   "authors": "R Levy, C Pollard",
+   "venue": "Proceedings of the International Conference on Head-Driven Phrase Structure …",
+   "year": "2002"
+  },
+  {
+   "title": "Trading off utility, informativeness, and complexity in emergent communication",
+   "authors": "M Tucker, R Levy, JA Shah, N Zaslavsky",
+   "venue": "Advances in neural information processing systems 35, 22214-22228",
+   "year": "2022"
+  },
+  {
+   "title": "Bridging information-seeking human gaze and machine reading comprehension",
+   "authors": "J Malmaud, R Levy, Y Berzak",
+   "venue": "Proceedings of the 24th conference on computational natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Implicit gender bias in linguistic descriptions for expected events: The cases of the 2016 United States and 2017 United Kingdom elections",
+   "authors": "T von der Malsburg, T Poppels, RP Levy",
+   "venue": "Psychological science 31 (2), 115-128",
+   "year": "2020"
+  },
+  {
+   "title": "Probabilistic models in the study of language",
+   "authors": "R Levy",
+   "venue": "Online Draft, Nov",
+   "year": "2012"
+  },
+  {
+   "title": "Mastery of the logic of natural numbers is not the result of mastery of counting: Evidence from late counters",
+   "authors": "J Jara‐Ettinger, S Piantadosi, ES Spelke, R Levy, E Gibson",
+   "venue": "Developmental science 20 (6), e12459",
+   "year": "2017"
+  },
+  {
+   "title": "Difficulty in learning similar-sounding words: A developmental stage or a general property of learning?",
+   "authors": "B Pajak, SC Creel, R Levy",
+   "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition 42 (9), 1377",
+   "year": "2016"
+  },
+  {
+   "title": "Surprisal, the PDC, and the primary locus of processing difficulty in relative clauses",
+   "authors": "R Levy, E Gibson",
+   "venue": "Frontiers in Psychology 4, 229",
+   "year": "2013"
+  },
+  {
+   "title": "What if this modified that? syntactic interventions with counterfactual embeddings",
+   "authors": "M Tucker, P Qian, R Levy",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Structure-sensitive noise inference: Comprehenders expect exchange errors",
+   "authors": "T Poppels, RP Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "STARC: Structured annotations for reading comprehension",
+   "authors": "Y Berzak, J Malmaud, R Levy",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Finding non-arbitrary form-meaning systematicity using string-metric learning for kernel regression",
+   "authors": "ED Gutiérrez, R Levy, B Bergen",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "A-maze of Natural Stories: Comprehension and surprisal in the Maze task",
+   "authors": "V Boyce, R Levy",
+   "venue": "Glossa Psycholinguistics 2 (1)",
+   "year": "2023"
+  },
+  {
+   "title": "Do RNNs learn human-like abstract word order preferences?",
+   "authors": "R Futrell, R Levy",
+   "venue": "Proceedings of the Society for Computation in Linguistics (SCiL) 2019, 50-59",
+   "year": "2019"
+  },
+  {
+   "title": "Probing self-supervised speech models for phonetic and phonemic information: a case study in aspiration",
+   "authors": "K Martin, J Gauthier, C Breiss, R Levy",
+   "venue": "arXiv preprint arXiv:2306.06232",
+   "year": "2023"
+  },
+  {
+   "title": "If you want a quick kiss, make it count: How choice of syntactic construction affects event construal",
+   "authors": "E Wittenberg, R Levy",
+   "venue": "Journal of memory and language 94, 254-271",
+   "year": "2017"
+  },
+  {
+   "title": "Minimal-length linearizations for mildly context-sensitive dependency trees",
+   "authors": "YA Park, R Levy",
+   "venue": "Proceedings of human language technologies: The 2009 annual conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Eye movement traces of linguistic knowledge in native and non-native reading",
+   "authors": "Y Berzak, R Levy",
+   "venue": "Open Mind 7, 179-196",
+   "year": "2023"
+  },
+  {
+   "title": "A cross-linguistic pressure for uniform information density in word order",
+   "authors": "TH Clark, C Meister, T Pimentel, M Hahn, R Cotterell, R Futrell, R Levy",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 1048-1065",
+   "year": "2023"
+  },
+  {
+   "title": "Cloze distillation: Improving neural language models with human next-word prediction",
+   "authors": "T Eisape, N Zaslavsky, R Levy",
+   "venue": "Proceedings of the 24th conference on computational natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Expectations over unspoken alternatives predict pragmatic inferences",
+   "authors": "J Hu, R Levy, J Degen, S Schuster",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 885-901",
+   "year": "2023"
+  },
+  {
+   "title": "The funny thing about incongruity: A computational model of humor in puns",
+   "authors": "JT Kao, R Levy, ND Goodman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 35 (35)",
+   "year": "2013"
+  },
+  {
+   "title": "What syntactic structures block dependencies in RNN language models?",
+   "authors": "E Wilcox, R Levy, R Futrell",
+   "venue": "arXiv preprint arXiv:1905.10431",
+   "year": "2019"
+  },
+  {
+   "title": "Comparing theories of speaker choice using a model of classifier production in Mandarin Chinese",
+   "authors": "M Zhan, R Levy",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Language model acceptability judgements are not always robust to context",
+   "authors": "K Sinha, J Gauthier, A Mueller, K Misra, K Fuentes, R Levy, A Williams",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Communicative Efficiency, Uniform Information Density, and the Rational Speech Act Theory.",
+   "authors": "R Levy",
+   "venue": "CogSci 40",
+   "year": "2018"
+  },
+  {
+   "title": "Probing for incremental parse states in autoregressive language models",
+   "authors": "T Eisape, V Gangireddy, R Levy, Y Kim",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 2801-2813",
+   "year": "2022"
+  },
+  {
+   "title": "Elements of World Knowledge (EWoK): A Cognition-Inspired Framework for Evaluating Basic World Knowledge in Language Models",
+   "authors": "AA Ivanova, A Sathe, B Lipkin, UU Kumar, S Radkani, TH Clark, C Kauf, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 13, 1245-1270",
+   "year": "2025"
+  },
+  {
+   "title": "Modeling idiosyncratic preferences: How generative knowledge and expression frequency jointly determine language structure",
+   "authors": "E Morgan, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 37",
+   "year": "2015"
+  },
+  {
+   "title": "Investigating novel verb learning in BERT: Selectional preference classes and alternation-based syntactic generalization",
+   "authors": "T Thrush, E Wilcox, R Levy",
+   "venue": "Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting …",
+   "year": "2020"
+  },
+  {
+   "title": "Pronoun interpretation in Mandarin Chinese follows principles of Bayesian inference",
+   "authors": "M Zhan, R Levy, A Kehler",
+   "venue": "PloS one 15 (8), e0237012",
+   "year": "2020"
+  },
+  {
+   "title": "Parsing arabic dialects",
+   "authors": "OC Rambow, D Chiang, MT Diab, NY Habash, S Shareef",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "Analyzing wrap-up effects through an information-theoretic lens",
+   "authors": "C Meister, T Pimentel, T Clark, R Cotterell, R Levy",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "A closer look at the performance of neural language models on reflexive anaphor licensing",
+   "authors": "J Hu, SY Chen, R Levy",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2020, 323-333",
+   "year": "2020"
+  },
+  {
+   "title": "Simple dynamic word embeddings for mapping perceptions in the public sphere",
+   "authors": "N Gillani, R Levy",
+   "venue": "Proceedings of the Third Workshop on Natural Language Processing and …",
+   "year": "2019"
+  },
+  {
+   "title": "Word predictability and frequency effects in a rational model of reading",
+   "authors": "K Bicknell, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "Phonological generalization from distributional evidence",
+   "authors": "B Pajak, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "OneStop: A 360-participant English eye tracking dataset with different reading regimes",
+   "authors": "Y Berzak, J Malmaud, O Shubi, Y Meiri, E Lion, R Levy",
+   "venue": "Scientific Data 12 (1), 1995",
+   "year": "2025"
+  },
+  {
+   "title": "Predicting scalar diversity with context-driven uncertainty over alternatives",
+   "authors": "J Hu, R Levy, S Schuster",
+   "venue": "Proceedings of the workshop on cognitive modeling and computational …",
+   "year": "2022"
+  },
+  {
+   "title": "A model of local coherence effects in human sentence processing as consequences of updates from bottom-up prior to posterior beliefs",
+   "authors": "K Bicknell, R Levy",
+   "venue": "Proceedings of human language technologies: The 2009 annual conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Structural supervision improves few-shot learning and syntactic generalization in neural language models",
+   "authors": "E Wilcox, P Qian, R Futrell, R Kohita, R Levy, M Ballesteros",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Ongoing cognitive processing influences precise eye-movement targets in reading",
+   "authors": "K Bicknell, R Levy, K Rayner",
+   "venue": "Psychological science 31 (4), 351-362",
+   "year": "2020"
+  },
+  {
+   "title": "Representation of constituents in neural language models: Coordination phrase as a case study",
+   "authors": "A An, P Qian, E Wilcox, R Levy",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Grammar-based grounded lexicon learning",
+   "authors": "J Mao, F Shi, J Wu, R Levy, J Tenenbaum",
+   "venue": "Advances in Neural Information Processing Systems 34, 7865-7878",
+   "year": "2021"
+  },
+  {
+   "title": "Do resource constraints affect lexical processing? Evidence from eye movements",
+   "authors": "M Leinenger, M Myslín, K Rayner, R Levy",
+   "venue": "Journal of Memory and Language 93, 82-103",
+   "year": "2017"
+  },
+  {
+   "title": "Using the interpolated maze task to assess incremental processing in English relative clauses",
+   "authors": "P Vani, EG Wilcox, R Levy",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 43 (43)",
+   "year": "2021"
+  },
+  {
+   "title": "Processing, Prosody, and Optional to",
+   "authors": "T Wasow, R Levy, R Melnick, H Zhu, T Juzek",
+   "venue": "Explicit and Implicit Prosody in Sentence Processing: Studies in Honor of …",
+   "year": "2015"
+  },
+  {
+   "title": "Verb omission errors: Evidence of rational processing of noisy language inputs",
+   "authors": "L Bergen, R Levy, E Gibson",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "Cognitive computational neuroscience of language: Using computational models to investigate language processing in the brain",
+   "authors": "A Lopopolo, E Fedorenko, R Levy, M Rabovsky",
+   "venue": "Neurobiology of Language 5 (1), 1-6",
+   "year": "2024"
+  },
+  {
+   "title": "Towards human-agent communication via the information bottleneck principle",
+   "authors": "M Tucker, J Shah, R Levy, N Zaslavsky",
+   "venue": "arXiv preprint arXiv:2207.00088",
+   "year": "2022"
+  },
+  {
+   "title": "A model of generalization in distributional learning of phonetic categories",
+   "authors": "B Pajak, K Bicknell, R Levy",
+   "venue": "Proceedings of the fourth annual workshop on cognitive modeling and …",
+   "year": "2013"
+  },
+  {
+   "title": "Modeling OCP-Place in Amharic with the Maximum Entropy phonotactic learner",
+   "authors": "RS Colavin, R Levy, S Rose",
+   "venue": "Chicago Linguistic Society 46 (2), 27",
+   "year": "2010"
+  },
+  {
+   "title": "Rational eye movements in reading combining uncertainty about previous words with contextual probability",
+   "authors": "K Bicknell, R Levy",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "Correcting the incorrect: Local coherence effects modeled with prior belief update",
+   "authors": "K Bicknell, R Levy, V Demberg",
+   "venue": "Annual Meeting of the Berkeley Linguistics Society, 13-24",
+   "year": "2009"
+  },
+  {
+   "title": "Distributional learning of L2 phonological categories by listeners with different language backgrounds",
+   "authors": "B Pajak, R Levy",
+   "venue": "Proceedings of the 36th Boston University conference on language development …",
+   "year": "2012"
+  },
+  {
+   "title": "How adults understand what young children say",
+   "authors": "SC Meylan, R Foushee, NH Wong, E Bergelson, RP Levy",
+   "venue": "Nature human behaviour 7 (12), 2111-2125",
+   "year": "2023"
+  },
+  {
+   "title": "Frequency-dependent regularization in iterated learning",
+   "authors": "E Morgan, R Levy",
+   "venue": "The evolution of language: Proceedings of the 11th International Conference …",
+   "year": "2016"
+  },
+  {
+   "title": "Negotiating lexical uncertainty and speaker expertise with disjunction",
+   "authors": "C Potts, R Levy",
+   "venue": "Proceedings of the annual meeting of the berkeley linguistics society 41 (41)",
+   "year": "2015"
+  },
+  {
+   "title": "Probabilistic linguistic expectations, uncertain input, and implications for eye movements in reading",
+   "authors": "R Levy",
+   "venue": "Studies of Psychology and Behavior 9 (1), 53",
+   "year": "2011"
+  },
+  {
+   "title": "What can string probability tell us about grammaticality?",
+   "authors": "J Hu, EG Wilcox, S Song, K Mahowald, RP Levy",
+   "venue": "Transactions of the Association for Computational Linguistics 14, 124-146",
+   "year": "2026"
+  },
+  {
+   "title": "Comparing models of associative meaning: An empirical investigation of reference in simple language games",
+   "authors": "JH Shen, M Hofer, B Felbo, R Levy",
+   "venue": "Proceedings of the 22nd conference on computational natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Word learning and the acquisition of syntactic--semantic overhypotheses",
+   "authors": "J Gauthier, R Levy, JB Tenenbaum",
+   "venue": "arXiv preprint arXiv:1805.04988",
+   "year": "2018"
+  },
+  {
+   "title": "Controlled evaluation of syntactic knowledge in multilingual language models",
+   "authors": "D Kryvosheieva, R Levy",
+   "venue": "Proceedings of the First Workshop on Language Models for Low-Resource …",
+   "year": "2025"
+  },
+  {
+   "title": "When does syntax mediate neural language model performance? evidence from dropout probes",
+   "authors": "M Tucker, T Eisape, P Qian, R Levy, J Shah",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Language model behavioral phases are consistent across architecture, training data, and scale",
+   "authors": "J Michaelov, R Levy, B Bergen",
+   "venue": "Advances in Neural Information Processing Systems 38, 102407-102447",
+   "year": "2026"
+  },
+  {
+   "title": "Generalization and translatability in emergent communication via informational constraints",
+   "authors": "M Tucker, RP Levy, J Shah, N Zaslavsky",
+   "venue": "NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognitive Systems",
+   "year": "2022"
+  },
+  {
+   "title": "Nonparametric learning of phonological constraints in optimality theory",
+   "authors": "G Doyle, K Bicknell, R Levy",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Combining multiple information types in Bayesian word segmentation",
+   "authors": "G Doyle, R Levy",
+   "venue": "Proceedings of the 2013 Conference of the North American Chapter of the …",
+   "year": "2013"
+  },
+  {
+   "title": "Fixation durations in first-pass reading reflect uncertainty about word identity",
+   "authors": "N Smith, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "Learning syntactic structures from string input",
+   "authors": "EG Wilcox, J Gauthier, J Hu, P Qian, R Levy",
+   "venue": "Algebraic Structures in Natural Language, 113-138",
+   "year": "2022"
+  },
+  {
+   "title": "Bilingual random walk models for automated grammar correction of esl author-produced text",
+   "authors": "R West, YA Park, R Levy",
+   "venue": "Proceedings of the Sixth Workshop on Innovative Use of NLP for Building …",
+   "year": "2011"
+  },
+  {
+   "title": "The origins of the shape bias: Evidence from the Tsimane’.",
+   "authors": "J Jara-Ettinger, R Levy, J Sakel, T Huanca, E Gibson",
+   "venue": "Journal of Experimental Psychology: General 151 (10), 2437",
+   "year": "2022"
+  },
+  {
+   "title": "On factors influencing typing time: Insights from a viral online typing game",
+   "authors": "R Chen, R Levy, T Eisape",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 43 (43)",
+   "year": "2021"
+  },
+  {
+   "title": "Cloze distillation improves psychometric predictive power",
+   "authors": "T Eisape, N Zaslavsky, R Levy",
+   "venue": "Proceedings of the 24th conference on computational natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Informational goals, sentence structure, and comparison class inference",
+   "authors": "MH Tessler, P Tsvilodub, J Snedeker, RP Levy",
+   "venue": "Proceedings of the annual meeting of the Cognitive Science Society 42",
+   "year": "2020"
+  },
+  {
+   "title": "Iconicity and structure in the emergence of combinatoriality",
+   "authors": "M Hofer, R Levy",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 41",
+   "year": "2019"
+  },
+  {
+   "title": "The utility of modelling word identification from visual input within models of eye movements in reading",
+   "authors": "K Bicknell, R Levy",
+   "venue": "Visual Cognition 20 (4-5), 422-456",
+   "year": "2012"
+  },
+  {
+   "title": "Towards human-like emergent communication via utility, informativeness, and complexity",
+   "authors": "M Tucker, J Shah, R Levy, N Zaslavsky",
+   "venue": "Open Mind 9, 418-451",
+   "year": "2025"
+  },
+  {
+   "title": "Generalizing dependency distance: Comment on “Dependency distance: A new perspective on syntactic patterns in natural languages” by Haitao Liu et al.",
+   "authors": "R Futrell, R Levy, E Gibson",
+   "venue": "Physics of life reviews 21, 197-199",
+   "year": "2017"
+  },
+  {
+   "title": "Bridging semantics and pragmatics in information-theoretic emergent communication",
+   "authors": "E Gualdoni, M Tucker, R Levy, N Zaslavsky",
+   "venue": "Advances in Neural Information Processing Systems 37, 21059-21078",
+   "year": "2024"
+  },
+  {
+   "title": "Toward human-like object naming in artificial neural systems",
+   "authors": "T Eisape, R Levy, JB Tenenbaum, N Zaslavsky",
+   "venue": "Proceedings of iclr 2020 workshop on bridging ai and cognitive science",
+   "year": "2020"
+  },
+  {
+   "title": "The use of a computer display exaggerates the connection between education and approximate number ability in remote populations",
+   "authors": "E Gibson, J Jara-Ettinger, R Levy, S Piantadosi",
+   "venue": "Open Mind 2 (1), 37-46",
+   "year": "2017"
+  },
+  {
+   "title": "Computational methods are invaluable for typology, but the models must match the questions: Commentary on Dunn et al.(2011)",
+   "authors": "R Levy, H Daumé III",
+   "venue": "Linguist Typol 15 (2), 393-399",
+   "year": "2011"
+  },
+  {
+   "title": "Unsupervised discontinuous constituency parsing with mildly context-sensitive grammars",
+   "authors": "S Yang, R Levy, Y Kim",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Availability-based production predicts speakers' real-time choices of Mandarin classifiers",
+   "authors": "M Zhan, R Levy",
+   "venue": "arXiv preprint arXiv:1905.07321",
+   "year": "2019"
+  },
+  {
+   "title": "The Absence of\" that\" is Predictable if a Relative Clause is Predictable",
+   "authors": "TF Jaeger, R Levy, T Wasow, DM Orr",
+   "venue": "AMLaP-2005, 22",
+   "year": "2005"
+  },
+  {
+   "title": "Productive knowledge and item-specific knowledge trade off as a function of frequency in multiword expression processing",
+   "authors": "E Morgan, R Levy",
+   "venue": "Language 100 (4), e195-e224",
+   "year": "2024"
+  },
+  {
+   "title": "Finding structure in logographic writing with library learning",
+   "authors": "G Jiang, M Hofer, J Mao, L Wong, JB Tenenbaum, RP Levy",
+   "venue": "arXiv preprint arXiv:2405.06906",
+   "year": "2024"
+  },
+  {
+   "title": "Rational sentence interpretation in Mandarin Chinese",
+   "authors": "M Zhan, S Chen, R Levy, J Lu, E Gibson",
+   "venue": "Cognitive Science 47 (12), e13383",
+   "year": "2023"
+  },
+  {
+   "title": "Teasing apart models of pragmatics using optimal reference game design",
+   "authors": "I Zhou, J Hu, R Levy, N Zaslavsky",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Eye Movement Traces of Linguistic Knowledge.",
+   "authors": "Y Berzak, R Levy",
+   "venue": "CogSci",
+   "year": "2021"
+  },
+  {
+   "title": "Evidence for cognitively controlled saccade targeting in reading",
+   "authors": "K Bicknell, E Higgins, R Levy, K Rayner",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 35 (35)",
+   "year": "2013"
+  },
+  {
+   "title": "Why long words take longer to read: the role of uncertainty about word length",
+   "authors": "K Bicknell, R Levy",
+   "venue": "Proceedings of the 3rd workshop on cognitive modeling and computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Implicit causality biases influence relative clause attachment",
+   "authors": "H Rohde, R Levy, A Kehler",
+   "venue": "Poster presented at 21st CUNY Conference on Human Sentence Processing …",
+   "year": "2008"
+  },
+  {
+   "title": "Local coherences in the wild: An eye-tracking corpus study",
+   "authors": "K Bicknell, V Demberg, R Levy",
+   "venue": "Language 54, 363-388",
+   "year": "2008"
+  },
+  {
+   "title": "On the same wavelength? evaluating pragmatic reasoning in language models across broad concepts",
+   "authors": "L Qiu, CE Zhang, JB Tenenbaum, Y Kim, R Levy",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Comparative illusions are evidence of rational inference in language comprehension.",
+   "authors": "Y Zhang, C Kauf, RP Levy, E Gibson",
+   "venue": "Journal of Experimental Psychology: General 154 (10), 2752",
+   "year": "2025"
+  },
+  {
+   "title": "The science of language in the era of generative ai",
+   "authors": "R Levy, Y Kim, D Fox",
+   "venue": "MIT",
+   "year": "2025"
+  },
+  {
+   "title": "Flexible generation from fragmentary linguistic input",
+   "authors": "P Qian, R Levy",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Evidence for availability effects on speaker choice in the Russian comparative alternation",
+   "authors": "T Clark, EG Wilcox, E Gibson, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Learning evolved combinatorial symbols with a neuro-symbolic generative model",
+   "authors": "M Hofer, TA Le, R Levy, J Tenenbaum",
+   "venue": "arXiv preprint arXiv:2104.08274",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling the development of determiner productivity in children's early speech",
+   "authors": "S Meylan, M Frank, R Levy",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 35 (35)",
+   "year": "2013"
+  },
+  {
+   "title": "Parsing Arabic Dialects. Final Report",
+   "authors": "O Rambow, D Chiang, M Diab, N Habash, R Hwa, K Sima’an, V Lacey, ...",
+   "venue": "2005 JHU Summer Workshop",
+   "year": "2005"
+  },
+  {
+   "title": "Comprehenders’ error correction mechanisms are finely calibrated to language production statistics",
+   "authors": "P Qian, R Levy",
+   "venue": "OSF",
+   "year": "2023"
+  },
+  {
+   "title": "Scalable pragmatic communication via self-supervision",
+   "authors": "J Hu, R Levy, N Zaslavsky",
+   "venue": "arXiv preprint arXiv:2108.05799",
+   "year": "2021"
+  },
+  {
+   "title": "What if this modified that? syntactic interventions via counterfactual embeddings",
+   "authors": "M Tucker, P Qian, R Levy",
+   "venue": "arXiv preprint arXiv:2105.14002",
+   "year": "2021"
+  },
+  {
+   "title": "A Model of Approximate and Incremental Noisy-Channel Language Processing",
+   "authors": "T Clark, JH Vigly, E Gibson, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "Assessing group-level gender bias in professional evaluations: The case of medical student end-of-shift feedback",
+   "authors": "E Liu, MH Tessler, N Dubosh, K Hiller, R Levy",
+   "venue": "Proceedings of the 4th Workshop on Gender Bias in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Eye tracking as a language proficiency test",
+   "authors": "Y Berzak, B Katz, R Levy",
+   "venue": "US Patent 10,997,367",
+   "year": "2021"
+  },
+  {
+   "title": "Child-directed listening: how caregiver inference enables children's early verbal communication",
+   "authors": "SC Meylan, R Foushee, E Bergelson, RP Levy",
+   "venue": "arXiv preprint arXiv:2102.03462",
+   "year": "2021"
+  },
+  {
+   "title": "Toward A database of intracranial electrophysiology during natural language presentation",
+   "authors": "E Kaestner, AM Morgan, J Snider, M Zhan, X Jiang, R Levy, VS Ferreira, ...",
+   "venue": "Language, cognition and neuroscience 35 (6), 729-738",
+   "year": "2020"
+  },
+  {
+   "title": "Neural language models as psycholinguistic subjects: representations of syntactic state",
+   "authors": "P Qian, RP Levy",
+   "venue": "Association for Computational Linguistics",
+   "year": "2019"
+  },
+  {
+   "title": "Environment prototypicality in syntactic alternation",
+   "authors": "G Doyle, R Levy",
+   "venue": "Annual Meeting of the Berkeley Linguistics Society, 85-96",
+   "year": "2008"
+  },
+  {
+   "title": "Non-transitive information flow in Japanese noun-classifier matching",
+   "authors": "R Levy, DY Oshima",
+   "venue": "Proceedings of the International Conference on Head-Driven Phrase Structure …",
+   "year": "2003"
+  },
+  {
+   "title": "Controlled evaluation of grammatical knowledge in Mandarin Chinese language models",
+   "authors": "Y Wang, J Hu, R Levy, P Qian",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Implicit gender bias in linguistic descriptions for expected events: The cases of the 2016 US and 2017 UK election",
+   "authors": "T von der Malsburg, T Poppels, RP Levy",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Implicit gender biases in the production and comprehension of pronominal references",
+   "authors": "V Boyce, T von der Malsburg, T Poppels, R Levy",
+   "venue": "Methods 41 (1), 163-171",
+   "year": "2018"
+  },
+  {
+   "title": "An attempted replication of Hackl, Koster-Hale, Varvoutis (2012)",
+   "authors": "E Gibson, R Levy",
+   "venue": "arXiv preprint arXiv:1605.00178",
+   "year": "2016"
+  },
+  {
+   "title": "The statistical properties of coordinate noun phrases",
+   "authors": "R Levy",
+   "venue": "Unpublished manuscript.< http://idiom. ucsd. edu/~ rlevy/papers/coordination …",
+   "year": "2004"
+  },
+  {
+   "title": "N-gram-like Language Models Predict Reading Time Best",
+   "authors": "JA Michaelov, RP Levy",
+   "venue": "arXiv preprint arXiv:2603.09872",
+   "year": "2026"
+  },
+  {
+   "title": "Resource-Rational Noisy-Channel Language Processing: Testing the Effect of Algorithmic Constraints on Inferences",
+   "authors": "TH Clark, JH Vigly, E Gibson, R Levy",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Efficient compression in locomotion verbs across languages",
+   "authors": "TA Langlois, R Levy, N Seethapathi, N Zaslavsky",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "The neural dynamics of word recognition and integration",
+   "authors": "J Gauthier, R Levy",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Granularity in the semantics of comparison",
+   "authors": "H Aparicio, C Chen, R Levy, E Coppock",
+   "venue": "Semantics and Linguistic Theory, 550-569",
+   "year": "2021"
+  },
+  {
+   "title": "Female gender is consistently under-expressed in pronoun production and under-inferred in comprehension",
+   "authors": "V Boyce, T von der Malsburg, T Poppels, R Levy, R Pancheva, K Iskarous",
+   "venue": "93th Annual Meeting of the Linguistics Society of America. New York, NY …",
+   "year": "2019"
+  },
+  {
+   "title": "Query-guided visual search",
+   "authors": "J Chu, J Gauthier, R Levy, J Tenenbaum, L Schulz",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "A rational model of syntactic bootstrapping",
+   "authors": "J Gauthier, RP Levy, JB Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "A statistical comparison of some theories of NP word order",
+   "authors": "R Futrell, R Levy, M Dryer",
+   "venue": "arXiv preprint arXiv:1709.02783",
+   "year": "2017"
+  },
+  {
+   "title": "Post Hoc Analysis Decisions Drive the Reported Reading Time Effects in Hackl, Koster-Hale & Varvoutis (2012)",
+   "authors": "E Gibson, ST Piantadosi, R Levy",
+   "venue": "Journal of Semantics 34 (3), 539-546",
+   "year": "2017"
+  },
+  {
+   "title": "Modeling sources of uncertainty in spoken word learning",
+   "authors": "M Hofer, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 39",
+   "year": "2017"
+  },
+  {
+   "title": "Bayesian pronoun interpretation in Mandarin Chinese",
+   "authors": "M Zhan, RP Levy, A Kehler",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+   "year": "2016"
+  },
+  {
+   "title": "Roses and flowers: An informativeness implicature in probabilistic pragmatics",
+   "authors": "R Levy, L Bergen, N Goodman",
+   "venue": "Slides from Semantics and Linguistic Theory 24",
+   "year": "2014"
+  },
+  {
+   "title": "In submission",
+   "authors": "E Gibson, K Mahowald, R Levy, ST Piantadosi",
+   "venue": "Erroneous analyses drive the reported reading time effects in Hackl, Koster …",
+   "year": "2012"
+  },
+  {
+   "title": "How abstract are phonological representations? Evidence from distributional perceptual learning",
+   "authors": "B Pajak, R Levy",
+   "venue": "Proceedings of the 47th Annual Meeting of the Chicago Linguistic Society …",
+   "year": "2011"
+  },
+  {
+   "title": "Hidden Markov Model inference with the Viterbi algorithm: a mini-example",
+   "authors": "CAB End",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "Rational process models",
+   "authors": "E Vul, T Griffiths, R Levy, M Steyvers, CR McKenzie",
+   "venue": "Proc. 31st Annual Meeting of the Cognitive Science Society, 45-46",
+   "year": "2009"
+  },
+  {
+   "title": "Tregex and Tsurgeon",
+   "authors": "R Levy, A Galen",
+   "venue": "5th International Conference on Language Resources and Evaluation (LREC)",
+   "year": "2006"
+  },
+  {
+   "title": "Children’s expressive and receptive knowledge of the English regular plural.",
+   "authors": "SC Meylan, RP Levy, E Bergelson",
+   "venue": "Developmental psychology 62 (5), 986",
+   "year": "2026"
+  },
+  {
+   "title": "Multimodal Input Aids a Bayesian Model of Phonetic Learning",
+   "authors": "S Zhi, RP Levy, SC Meylan",
+   "venue": "arXiv preprint arXiv:2407.15992",
+   "year": "2024"
+  },
+  {
+   "title": "Simplicity and informativeness in the evolution of combinatorial structure",
+   "authors": "M Hofer, S Kirby, R Levy",
+   "venue": "Proceedings of the annual meeting of the cognitive science society 45 (45)",
+   "year": "2023"
+  },
+  {
+   "title": "Children’s Expressive and Receptive Knowledge of the English Regular Plural",
+   "authors": "SC Meylan, RP Levy, E Bergelson",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 42",
+   "year": "2020"
+  },
+  {
+   "title": "Maze made easy: Better and easier measures of incremental processing difficulty",
+   "authors": "V Boyce, R Futrell, R Levy",
+   "venue": "OSF",
+   "year": "2019"
+  },
+  {
+   "title": "Incremental understanding of conjunctive generic sentences",
+   "authors": "MH Tessler, K Gu, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "Data-driven learning of symbolic constraints for a log-linear model in a phonological setting",
+   "authors": "G Doyle, R Levy",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "Negotiating lexical uncertainty and expertise with disjunction",
+   "authors": "R Levy, C Potts",
+   "venue": "Poster presented at the 89th Annual Meeting of the Linguistic Society of …",
+   "year": "2015"
+  },
+  {
+   "title": "Optional to and Prosody",
+   "authors": "T Wasow, R Greene, R Levy",
+   "venue": "Poster at the 25th annual CUNY Conference on Human Sentence Processing. New York",
+   "year": "2012"
+  },
+  {
+   "title": "Can native-language perceptual bias facilitate learning words in a new language?",
+   "authors": "B Pajak, S Creel, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "Is perceptual acuity asymmetric in isolated word recognition? Evidence from an ideal-observer reverse-engineering approach",
+   "authors": "N Smith, WH Chan, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32)",
+   "year": "2010"
+  },
+  {
+   "title": "Readers maintain and act on uncertainty about past linguistic input: Evidence from eye movements",
+   "authors": "R Levy, K Bicknell, TJ Slattery, K Rayner",
+   "venue": "PNAS 106 (50), 21086-21090",
+   "year": "2009"
+  },
+  {
+   "title": "Expectation-based processing of extraposed structures in English",
+   "authors": "R Levy, E Gibson, E Fedorenko",
+   "venue": "Poster presented at the 21st CUNY conference on sentence processing …",
+   "year": "2008"
+  },
+  {
+   "title": "Probabilistic prediction and the continuity of language comprehension",
+   "authors": "NJ Smith, R Levy",
+   "venue": "9th Conference on Conceptual Structure, Discourse, and Language (CSDL9)",
+   "year": "2008"
+  },
+  {
+   "title": "Parsing Arabic Dialects",
+   "authors": "NY Habash, OC Rambow, D Chiang, MT Diab, R Hwa, K Sima'an, ...",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "The structural basis of probabilistic syntactic production",
+   "authors": "T Jaeger, R Levy",
+   "venue": "In Proceedings of Architectures and Mechanisms of Language Processing, AMLaP …",
+   "year": "2006"
+  },
+  {
+   "title": "Probabilistic Models of Syntactic Discontinuity",
+   "authors": "R Levy",
+   "venue": "PhD thesis, Stanford University. In progress",
+   "year": "2004"
+  },
+  {
+   "title": "Readers make targeted regressions to plausible errors in reanalysis of “noisy-channel garden-path” sentences",
+   "authors": "TH Clark, R Levy, E Gibson",
+   "venue": "Proceedings of the 30th Conference on Computational Natural Language …",
+   "year": "2026"
+  },
+  {
+   "title": "Implicit Representations of Grammaticality in Language Models",
+   "authors": "YS Wang, L Qiu, Z Wu, R Levy, Y Kim",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Learning User Simulators with Turing Rewards",
+   "authors": "YS Wang, CE Zhang, L Qiu, Z He, P Li, A Pentland, RP Levy, Y Kim",
+   "venue": "arXiv preprint arXiv:2606.19336",
+   "year": "2026"
+  },
+  {
+   "title": "How Open Must Language Models be to Enable Reliable Scientific Inference?",
+   "authors": "JA Michaelov, C Arnett, TA Chang, PD Rivière, SM Taylor, CR Jones, ...",
+   "venue": "arXiv preprint arXiv:2603.26539",
+   "year": "2026"
+  },
+  {
+   "title": "Algorithmic Consequences of Particle Filters for Sentence Processing: Amplified Garden-Paths and Digging-In Effects",
+   "authors": "A Maina-Kilaas, R Levy",
+   "venue": "arXiv preprint arXiv:2603.11412",
+   "year": "2026"
+  },
+  {
+   "title": "BabAR: from phoneme recognition to developmental measures of young children's speech production",
+   "authors": "M Lavechin, E Bergelson, R Levy",
+   "venue": "arXiv preprint arXiv:2603.05213",
+   "year": "2026"
+  },
+  {
+   "title": "Surprisal and developmental sentence processing: Exploring the role of language exposure through neural language models",
+   "authors": "KJ Huang, R Levy, YT Huang",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "Finding structure in logographic writing with library learning II: Grapheme, sound, and meaning systematicity.",
+   "authors": "G Jiang, M Hofer, J Mao, L Wong, JB Tenenbaum, R Levy",
+   "venue": "CogSci",
+   "year": "2025"
+  },
+  {
+   "title": "Discrete and systematic communication in a continuous signal-meaning space",
+   "authors": "AM Chen, M Hofer, M Poliak, R Levy, N Zaslavsky",
+   "venue": "Journal of Language Evolution 10 (1), lzaf003",
+   "year": "2025"
+  },
+  {
+   "title": "Image-conditioned human language comprehension and psychometric benchmarking of visual language models",
+   "authors": "SN Pushpita, R Levy",
+   "venue": "Proceedings of the 28th Conference on Computational Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating the delivery of Problem Management Plus in primary care settings in rural Rwanda: a study protocol using a pragmatic randomised hybrid type 1 effectiveness …",
+   "authors": "SL Smith, B Nyirandagijimana, J Hakizimana, RP Levy, R Bienvenu, ...",
+   "venue": "BMJ open 11 (12), e054630",
+   "year": "2021"
+  },
+  {
+   "title": "Empirical Support for a Rate-Distortion Account of Pragmatic Reasoning",
+   "authors": "I Zhou, J Hu, R Levy, N Zaslavsky",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 43 (43)",
+   "year": "2021"
+  },
+  {
+   "title": "Inferring structured visual concepts from minimal data",
+   "authors": "P Qian, L Hewitt, JB Tenenbaum, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "Resolving Quantity-and Informativeness-Implicature in Indefinite Reference",
+   "authors": "T Poppels, R Levy",
+   "venue": "Proceedings of the Amsterdam Colloquium, 313-322",
+   "year": "2015"
+  },
+  {
+   "title": "Grammatical knowledge is fundamentally probabilistic",
+   "authors": "R Levy",
+   "venue": "Paper pre-sented at the annual meeting of the Linguistic Society of America …",
+   "year": "2015"
+  },
+  {
+   "title": "Perceptual warping of phonetic space applies beyond known phonetic categories: evidence from the perceptual magnet effect",
+   "authors": "B Pajak, P Piccinini, R Levy",
+   "venue": "The Journal of the Acoustical Society of America 136 (4_Supplement), 2107-2107",
+   "year": "2014"
+  },
+  {
+   "title": "Word-order uncertainty induces alternative, non-veridical structures in online comprehension",
+   "authors": "G Doyle, R Levy",
+   "venue": "Poster presented at the 25th annual conference on human sentence processing …",
+   "year": "2012"
+  },
+  {
+   "title": "Explaining the Relative Clause Asymmetry",
+   "authors": "V Demberg, F Keller, R Levy",
+   "venue": "Poster presented at the 24th annual meeting of the CUNY conference on human …",
+   "year": "2011"
+  },
+  {
+   "title": "Eye movement evidence that readers maintain and act on uncertainty about past linguistic input (vol 106, pg 21086, 2009)",
+   "authors": "R Levy, K Bicknell, T Slattery, K Rayner",
+   "venue": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF …",
+   "year": "2010"
+  },
+  {
+   "title": "On hallucinated garden paths",
+   "authors": "R Levy",
+   "venue": "Reading time (ms) 450 (500), 550",
+   "year": "2010"
+  },
+  {
+   "title": "Rational Process Models",
+   "authors": "T Griffiths, R Levy, CRM McKenzie, M Steyvers, J Tenenbaum, E Vul",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 31 (31)",
+   "year": "2009"
+  },
+  {
+   "title": "Statistical NLP",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Linguistics 251 lecture notes, Fall 2007",
+   "authors": "R Levy",
+   "venue": "Lecture",
+   "year": "2007"
+  },
+  {
+   "title": "Target-Language Generation in Multilingual Models: Activation Steering and Optimal Control",
+   "authors": "JA Michaelov, CA Alonso, TA Chang, RP Levy",
+   "venue": "arXiv preprint arXiv:2609.16967",
+   "year": "2026"
+  },
+  {
+   "title": "We Hebben Een Serieus Translatie: Modeling Intercomprehension as Probabilistic Inference",
+   "authors": "TH Clark, RP Levy, E Gibson",
+   "venue": "Third Conference on Language Modeling",
+   "year": "2026"
+  },
+  {
+   "title": "We Hebben Een Serieus Translatie: Modeling Intercomprehension as Probabilistic Inference",
+   "authors": "T Hikaru Clark, E Gibson, R Levy",
+   "venue": "arXiv e-prints, arXiv: 2607.12169",
+   "year": "2026"
+  },
+  {
+   "title": "Readers make targeted regressions to plausible errors in reanalysis of\" noisy-channel garden-path\" sentences",
+   "authors": "T Hikaru Clark, R Levy, E Gibson",
+   "venue": "arXiv e-prints, arXiv: 2605.18563",
+   "year": "2026"
+  },
+  {
+   "title": "Revisiting Real-Time Digging-In Effects: No Evidence from NP/Z Garden-Paths",
+   "authors": "A Maina-Kilaas, R Levy",
+   "venue": "arXiv preprint arXiv:2603.23624",
+   "year": "2026"
+  },
+  {
+   "title": "Behavioral and brain responses to language reflect different levels of linguistic representation",
+   "authors": "AG de Varda, Y Berzak, E Fedorenko, R Levy",
+   "venue": "bioRxiv, 2026.08. 21.746238",
+   "year": "2026"
+  },
+  {
+   "title": "N-gram-like Language Models Predict Naturalistic Reading Time Best",
+   "authors": "JA Michaelov, RP Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 48",
+   "year": "2026"
+  },
+  {
+   "title": "Beware of referential garden paths! The dangerous allure of semantic parses that succeed locally but globally fail",
+   "authors": "H Aparicio, R Levy, E Coppock",
+   "venue": "Glossa Psycholinguistics 4 (1)",
+   "year": "2025"
+  },
+  {
+   "title": "Learning Phonotactics from Linguistic Informants",
+   "authors": "C Breiss, A Ross, A Maina-Kilaas, R Levy, J Andreas",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2024, 20-31",
+   "year": "2024"
+  },
+  {
+   "title": "Conference: New horizons in language science: large language models, language structure, and the neural basis of language",
+   "authors": "RP Levy",
+   "venue": "NSF Award Number 2418125. Directorate for Computer and Information Science …",
+   "year": "2024"
+  },
+  {
+   "title": "A Bayesian Model of Multimodal Phonemic Category Learning",
+   "authors": "S Zhi, R Levy, S Meylan",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Inferring errors and intended meanings with a generative model of language production in aphasia",
+   "authors": "T Clark, E Gibson, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 46",
+   "year": "2024"
+  },
+  {
+   "title": "A Bayesian account of the perceptual magnet effect",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "[TACL] Expectations over unspoken alternatives predict pragmatic inferences",
+   "authors": "J Hu, R Levy, J Degen, S Schuster",
+   "venue": "The 61st Annual Meeting Of The Association For Computational Linguistics",
+   "year": "2023"
+  },
+  {
+   "title": "Testing the Predictions of Surprisal Theory in 11 Languages",
+   "authors": "E Gotlieb Wilcox, T Pimentel, C Meister, R Cotterell, RP Levy",
+   "venue": "arXiv e-prints, arXiv: 2307.03667",
+   "year": "2023"
+  },
+  {
+   "title": "A Cross-Linguistic Pressure for Uniform Information Density in Word Order",
+   "authors": "T Hikaru Clark, C Meister, T Pimentel, M Hahn, R Cotterell, R Futrell, ...",
+   "venue": "arXiv e-prints, arXiv: 2306.03734",
+   "year": "2023"
+  },
+  {
+   "title": "Rational Inference from Number Agreement Mismatch",
+   "authors": "P Qian, E Gibson, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "The emergence of discrete and systematic communication in a continuous signal–meaning space",
+   "authors": "AM Chen, M Hofer, M Poliak, R Levy, N Zaslavsky",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 44 (44)",
+   "year": "2022"
+  },
+  {
+   "title": "Transformer language models, targeted syntactic evaluation, and learnability",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Bringing together grammar and deep learning: models and targeted evaluation",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Logistic regression, the binomial construction, and a hierarchical regression model",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Psycholinguistic methods, prediction in human language processing, and surprisal theory",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "CompCog: Noisy-channel processing in human language understanding",
+   "authors": "RP Levy",
+   "venue": "NSF Award 21 (2121074), 21074",
+   "year": "2021"
+  },
+  {
+   "title": "Doctoral Dissertation Research: Developing a scalable theory of alternatives in pragmatics",
+   "authors": "RP Levy",
+   "venue": "NSF Award 21 (2116918), 16918",
+   "year": "2021"
+  },
+  {
+   "title": "A Targeted Assessment of Incremental Processing in Neural LanguageModels and Humans",
+   "authors": "E Gotlieb Wilcox, P Vani, RP Levy",
+   "venue": "arXiv e-prints, arXiv: 2106.03232",
+   "year": "2021"
+  },
+  {
+   "title": "\" Lossy‐context surprisal: An information‐theoretic model of memory effects in sentence processing\": Erratum.",
+   "authors": "R Futrell, E Gibson, RP Levy",
+   "venue": "Wiley-Blackwell Publishing Ltd.",
+   "year": "2021"
+  },
+  {
+   "title": "Using the Interpolated Maze Task to Assess Incremental Processing in English Relative",
+   "authors": "P Vani, EG Wilcox, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 43 (43)",
+   "year": "2021"
+  },
+  {
+   "title": "Competition from novel features drives scalar inferences in reference games",
+   "authors": "J Hu, N Zaslavsky, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 43 (43)",
+   "year": "2021"
+  },
+  {
+   "title": "On the Predictive Power of Neural Language Models for Human Real-Time Comprehension Behavior",
+   "authors": "E Gotlieb Wilcox, J Gauthier, J Hu, P Qian, R Levy",
+   "venue": "arXiv e-prints, arXiv: 2006.01912",
+   "year": "2020"
+  },
+  {
+   "title": "Ongoing language processing influences precise eye movement targets in reading (SOM-R)",
+   "authors": "K Bicknell, R Levy, K Rayner",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Jointly learning motion verbs and frame semantics from natural language andgrounded scenes",
+   "authors": "J Gauthier, J Mao, T Shu, R Levy, J Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 42",
+   "year": "2020"
+  },
+  {
+   "title": "Integrating semantics into developmental models of morphology learning",
+   "authors": "AL Tenenbaum, M Braginsky, RP Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 42",
+   "year": "2020"
+  },
+  {
+   "title": "Hierarchical Inferences Support Systematicity in the Lexicon",
+   "authors": "M Hofer, T Verhoef, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 42",
+   "year": "2020"
+  },
+  {
+   "title": "Frequency-(in) dependent regularization in language production and cultural transmission",
+   "authors": "E Morgan, R Levy",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2020, 248-249",
+   "year": "2020"
+  },
+  {
+   "title": "Difficulty in learning similar-sounding words: a developmental stage or a general property of learning?",
+   "authors": "R Levy, S Creel, B Pająk",
+   "venue": "OSF",
+   "year": "2019"
+  },
+  {
+   "title": "The emergence of an abstract grammatical category in children’s early speech",
+   "authors": "R Levy, S Meylan, M Frank, B Roy",
+   "venue": "OSF",
+   "year": "2019"
+  },
+  {
+   "title": "Language Learning and Processing in People and Machines",
+   "authors": "A Nematzadeh, R Futrell, R Levy",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Doctoral Dissertation Research: Extending and testing theories of language production by investigating speaker choice in a classifier language",
+   "authors": "RP Levy",
+   "venue": "NSF Award 18 (1844723), 44723",
+   "year": "2019"
+  },
+  {
+   "title": "Cognitive Science Honors the Memory of Jeffrey Elman",
+   "authors": "RN Aslin, RP Levy",
+   "venue": "Open Mind 3, 23-30",
+   "year": "2019"
+  },
+  {
+   "title": "Incorporating Semantic Constraints into Algorithms for Unsupervised Learningof Morphology",
+   "authors": "A Tenenbaum, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "Comparing Models of Associative Meaning: An Empirical Investigation of Reference in Simple Language Games",
+   "authors": "J Hanwen Shen, M Hofer, B Felbo, R Levy",
+   "venue": "arXiv e-prints, arXiv: 1810.03717",
+   "year": "2018"
+  },
+  {
+   "title": "BE, VISVESVARAYA TECHNOLOGICAL UNIVERSITY (2013)",
+   "authors": "R Levy, S Osterweil",
+   "venue": "Signature",
+   "year": "2018"
+  },
+  {
+   "title": "RI: Small: Computational analysis of eye movements in reading: reader characteristics, cognitive state, and natural language processing",
+   "authors": "RP Levy",
+   "venue": "NSF Award Number 1815529. Directorate for Computer and Information Science …",
+   "year": "2018"
+  },
+  {
+   "title": "What do RNN Language Models Learn about Filler–Gap Dependencies?",
+   "authors": "R Futrell, E Wilcox, T Morita, R Levy",
+   "venue": "Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and …",
+   "year": "2018"
+  },
+  {
+   "title": "Investigate Uncertainties in Quantifying the Aerosol-Cloud Interaction for Shallow Warm Clouds",
+   "authors": "L Gao, EM Wilcox, R Levy, Y Shan",
+   "venue": "American Meteorological Society Meeting Abstracts 98, 1183",
+   "year": "2018"
+  },
+  {
+   "title": "Comparing Theories of Speaker Choice Using Classifier Production in Mandarin Chinese",
+   "authors": "M Zhan, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Inductive Biases in the Evolution of Combinatorial Structure in Language",
+   "authors": "M Hofer, J Tenenbaum, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Pragmatic Inference of Intended Referents from Binomial Word Order",
+   "authors": "AA Ivanova, RP Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 40",
+   "year": "2018"
+  },
+  {
+   "title": "Collaborative Research: CompCog: Broad-coverage probabilistic models of communication in context",
+   "authors": "RP Levy",
+   "venue": "NSF Award 18 (1829350), 29350",
+   "year": "2017"
+  },
+  {
+   "title": "Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017)",
+   "authors": "R Levy, L Specia",
+   "venue": "Proceedings of the 21st Conference on Computational Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Post Hoc Analysis Decisions Drive the Reported Reading Time Effects in Hackl, Koster-Hale & Varvoutis",
+   "authors": "E Gibson, ST Piantadosi, R Levy",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "CompCog: The edge of the lexicon: Productive knowledge and direct experience in the acquisition and processing of multiword expressions",
+   "authors": "RP Levy",
+   "venue": "NSF Award 15 (1551866), 51866",
+   "year": "2016"
+  },
+  {
+   "title": "Collaborative Research: CompCog: Broad-coverage probabilistic models of communication in context",
+   "authors": "RP Levy",
+   "venue": "NSF Award 14 (1456081), 56081",
+   "year": "2015"
+  },
+  {
+   "title": "Modeling idiosyncratic preferences: How generative knowledge and expression",
+   "authors": "E Morgan, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 37 (0)",
+   "year": "2015"
+  },
+  {
+   "title": "Task effects reveal cognitive flexibility responding to frequency and predictability: Evidence from eye movements in reading and proofreading",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Why Grammar is Probabilistic",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Proceedings of the Fourth Annual Workshop on Cognitive Modeling and Computational Linguistics (CMCL)",
+   "authors": "V Demberg, R Levy",
+   "venue": "Proceedings of the Fourth Annual Workshop on Cognitive Modeling and …",
+   "year": "2013"
+  },
+  {
+   "title": "Proceedings of the 3rd Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2012)",
+   "authors": "D Reitter, R Levy",
+   "venue": "Proceedings of the 3rd Workshop on Cognitive Modeling and Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Proceedings of the NAACL HLT 2012 Student Research Workshop",
+   "authors": "R Levitan, M Ott, R Levy, A Nenkova",
+   "venue": "Proceedings of the NAACL HLT 2012 Student Research Workshop",
+   "year": "2012"
+  },
+  {
+   "title": "Cloze but no cigar: The complex relationship between cloze, corpus, and subjective",
+   "authors": "N Smith, R Levy",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society, 33 (33)",
+   "year": "2011"
+  },
+  {
+   "title": "Computational psycholinguistics",
+   "authors": "R Levy, K Bicknell, N Smith",
+   "venue": "NAACL HLT 2010 Tutorial Abstracts, 19-20",
+   "year": "2010"
+  },
+  {
+   "title": "CAREER: Rational Language Processing with Uncertain and Noisy Input",
+   "authors": "RP Levy",
+   "venue": "NSF Award Number 0953870. Directorate for Computer and Information Science …",
+   "year": "2010"
+  },
+  {
+   "title": "\" Eye movement evidence that readers maintain and act on uncertainty about past linguistic input\": Correction.",
+   "authors": "R Levy, K Roger, T Slattery, K Rayner",
+   "venue": "National Academy of Sciences",
+   "year": "2010"
+  },
+  {
+   "title": "Comprehension difficulty reflects an understanding of likely production errors",
+   "authors": "H Tily, MC de Marneffe, R Levy",
+   "venue": "22nd CUNY Conference on Human Sentence Processing",
+   "year": "2009"
+  },
+  {
+   "title": "Implicit causality biases influence relative clause attachment",
+   "authors": "R Levy",
+   "venue": "21st Annual CUNY Conference on…",
+   "year": "2008"
+  },
+  {
+   "title": "Coherence-Driven Effects in Relative Clause Processing",
+   "authors": "H Rohde, R Levy, A Kehler",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Probabilistic Sentence Processing 1 Core ideas and algorithms",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Eye-tracking Evidence for Frequency and Integration Cost Effects in Corpus Data",
+   "authors": "V Demberg, F Keller, R Levy",
+   "venue": "",
+   "year": "2007"
+  },
+  {
+   "title": "Parsing arabic dialects",
+   "authors": "R Levy",
+   "venue": "Final Report, JHU…",
+   "year": "2005"
+  },
+  {
+   "title": "Solving logic puzzles",
+   "authors": "B MacCartney, CD Manning, R Lévy",
+   "venue": "Proceedings of the 2nd Workshop on Text Meaning and Interpretation-TextMean'04",
+   "year": "2004"
+  },
+  {
+   "title": "Probabilistic approaches to syntactic discontinuity",
+   "authors": "R Levy",
+   "venue": "",
+   "year": "2003"
+  },
+  {
+   "title": "Relationships Strong Enough to Solve Problems (FNL May/June 2026)",
+   "authors": "R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Special Issue of Neuropsychologia titled “VSI: Linguistic Prediction”",
+   "authors": "R Ryskin, RP Levy, E Fedorenko",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "bioRxiv preprint doi: https://doi. org/10.1101/2020.04. 15.043844; this version posted April 17, 2020. The copyright holder for this preprint (which was not certified by peer …",
+   "authors": "L Wehbe, IA Blank, C Shain, R Futrell, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The emergence of an abstract grammatical category 1 The emergence of an abstract grammatical category in children’s early speech Stephan C. Meylan Department of Psychology …",
+   "authors": "MC Frank, BC Roy, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Communications from the Chair RELATIONSHIPS STRONG ENOUGH TO SOLVE PROBLEMS (FNL MAY/JUNE 2026)",
+   "authors": "R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On Being a Head of House",
+   "authors": "M Gubar, MC Fuller, JE Fernández, MM Lampietti, R Levy, Y Sheffi, O Hen, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Relationships Strong Enough to Solve Problems",
+   "authors": "C McDowell, A Carleton, R Levy, KLJ Prather, B Forget, Y Fink, A Jasanoff, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "4.3 Goals of Linguistic Theory",
+   "authors": "R Frank, K Demuth, JL Gastaldi, M Johnson, N Kim, R Levy, S Reddy, ...",
+   "venue": "Linguistics and Language Models: What Can They Learn from Each Other?, 202",
+   "year": null
+  },
+  {
+   "title": "4.5 The (Im) possible Languages Group",
+   "authors": "C Potts, MC de Marneffe, K Demuth, R Frank, J Luis, HB Gastaldi, C Haley, ...",
+   "venue": "Linguistics and Language Models: What Can They Learn from Each Other?, 206",
+   "year": null
+  },
+  {
+   "title": "Input uncertainty & cue redundancy in syntactic comprehension & adaptation",
+   "authors": "R Levy, E Fedorenko, M Breen, E Gibson",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Gradience in the grammar of agreement: the case of French coordination",
+   "authors": "A An, A Abeillé, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Discreteness and systematicity emerge to facilitate communication in a continuous signal-meaning space",
+   "authors": "AM Chen, M Hofer, M Poliak, R Levy, N Zaslavsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Probing large language models for implicit learning of aphasia types",
+   "authors": "TH Clark, E Gibson, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Stanford University and UC San Diego",
+   "authors": "C Potts, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Information-Theoretic Underpinnings of Generalization and Translation in Emergent Communication",
+   "authors": "M Tucker, J Shah, RP Levy, N Zaslavsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Referential garden path effects in modified Haddock descriptions",
+   "authors": "H Aparicio, R Levy, E Coppock",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for Grammar-Based Grounded Lexicon Learning",
+   "authors": "J Mao, H Shi, J Wu, RP Levy, JB Tenenbaum",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "HOLISTIC AND COMPOSITIONAL REPRESENTATIONS IN MULTIWORD EXPRESSIONS",
+   "authors": "W Bushong, E Morgan, M Yen, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The Effect of Context on Typing Time: Evidence from 100,000 TypeRacers",
+   "authors": "R Chen, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Information: Implicit gender bias in linguistic descriptions for expected events: The cases of the 2016 US and 2017 UK election",
+   "authors": "T von der Malsburg, T Poppels, RP Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "EMERGENCE OF PRAGMATIC REASONING FROM LEAST-EFFORT OPTIMIZATION",
+   "authors": "N ZASLAVSKY, J HU, R LEVY",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "How presentation modality influences reading comprehension",
+   "authors": "T von der Malsburg, S Vasithth, P Metzner, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The use of a computer display exaggerates the connection between exact and approximate number ability in remote populations",
+   "authors": "E Gibson, J Jara-Ettinger, R Levy, ST Piantadosi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Codeswitching and predictability of meaning in discourse Mark Myslın Department of Linguistics UC San Diego 9500 Gilman Drive# 0108",
+   "authors": "R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Verb omission errors: Evidence of rational noisy-channel language processing",
+   "authors": "L Bergen, R Levy, E Gibson",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Predicate-argument structure from broad-coverage parse trees: Improving on the context-free approximation",
+   "authors": "R Levy, C Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Between-word regressions as part of rational reading",
+   "authors": "K Bicknell, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Sentence position and time-course in expectation-based processing of final verbs",
+   "authors": "R Levy, F Keller",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Eye movements in reading as optimal responses to the contextualized structure of language",
+   "authors": "K Bicknell, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "The effects of task on frequency and predictability effects",
+   "authors": "ER Schotter, K Bicknell, R Levy, K Rayner",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Levy, Fedorenko, & Gibson–The syntactic complexity of Russian relative clauses",
+   "authors": "R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Information structure and word order in Russian sentence comprehension",
+   "authors": "R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Expectation and Memory in Processing of German Verb-final Clauses: Relativization Matters",
+   "authors": "R Levy, F Keller",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "2015 LSA Summer Institute: Advanced Probabilistic Modeling in R",
+   "authors": "R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Comparing cloze versus corpus probabilities in self-paced reading",
+   "authors": "N Smith, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "CogSci 2010 Poster Session 2",
+   "authors": "VR Brown, BK Tuller, R Weast, N Neiman, N Smith, WH Chan, R Levy, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "2015 LSA Summer Institute: Computational Psycholinguistics",
+   "authors": "K Bicknell, R Levy",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Effects of frequency, predictability, & length in a rational model of eye movements in reading",
+   "authors": "K Bicknell, R Levy",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

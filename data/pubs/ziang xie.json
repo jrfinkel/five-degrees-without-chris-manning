@@ -1,0 +1,71 @@
+{
+ "user": "mT-seW0AAAAJ",
+ "pubs": [
+  {
+   "title": "Data noising as smoothing in neural network language models",
+   "authors": "Z Xie, SI Wang, J Li, D Lévy, A Nie, D Jurafsky, AY Ng",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2017"
+  },
+  {
+   "title": "Lexicon-Free Conversational Speech Recognition with Neural Networks",
+   "authors": "AL Maas, Z Xie, D Jurafsky, AY Ng",
+   "venue": "North American Chapter of the Association for Computational Linguistics (NAACL)",
+   "year": "2015"
+  },
+  {
+   "title": "Building DNN Acoustic Models for Large Vocabulary Speech Recognition",
+   "authors": "AL Maas, P Qi, Z Xie, AY Hannun, CT Lengerich, D Jurafsky, AY Ng",
+   "venue": "arXiv preprint arXiv:1406.7806",
+   "year": "2014"
+  },
+  {
+   "title": "Neural language correction with character-based attention",
+   "authors": "Z Xie, A Avati, N Arivazhagan, D Jurafsky, AY Ng",
+   "venue": "arXiv preprint arXiv:1603.09727",
+   "year": "2016"
+  },
+  {
+   "title": "Noising and denoising natural language: Diverse backtranslation for grammar correction",
+   "authors": "Z Xie, G Genthial, S Xie, AY Ng, D Jurafsky",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Multimodal blending for high-accuracy instance recognition",
+   "authors": "Z Xie, A Singh, J Uang, KS Narayan, P Abbeel",
+   "venue": "2013 IEEE/RSJ international conference on intelligent robots and systems …",
+   "year": "2013"
+  },
+  {
+   "title": "Neural text generation: A practical guide",
+   "authors": "Z Xie",
+   "venue": "arXiv preprint arXiv:1711.09534",
+   "year": "2017"
+  },
+  {
+   "title": "A constraint-aware motion planning algorithm for robotic folding of clothes",
+   "authors": "K Lakshmanan, A Sachdev, Z Xie, D Berenson, K Goldberg, P Abbeel",
+   "venue": "International Symposium on Experimental Robotics (ISER), 547-562",
+   "year": "2013"
+  },
+  {
+   "title": "Neural text style transfer via denoising and reranking",
+   "authors": "J Lee, Z Xie, C Wang, M Drach, D Jurafsky, AY Ng",
+   "venue": "Proceedings of the Workshop on Methods for Optimizing and Evaluating Neural …",
+   "year": "2019"
+  },
+  {
+   "title": "Dense Feature Models for Object Detection using RGBD Data",
+   "authors": "Z Xie, J Uang, A Singh, P Abbeel",
+   "venue": "IEEE Int. Conf. on Robotics and Automation",
+   "year": "2013"
+  },
+  {
+   "title": "Noising and Denoising Natural Language",
+   "authors": "Z Xie",
+   "venue": "Stanford University",
+   "year": "2018"
+  }
+ ]
+}

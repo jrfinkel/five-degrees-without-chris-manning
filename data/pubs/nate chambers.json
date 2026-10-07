@@ -1,0 +1,461 @@
+{
+ "user": "9ZRcemUAAAAJ",
+ "pubs": [
+  {
+   "title": "A corpus and cloze evaluation for deeper understanding of commonsense stories",
+   "authors": "N Mostafazadeh, N Chambers, X He, D Parikh, D Batra, L Vanderwende, ...",
+   "venue": "Proceedings of the 2016 Conference of the North American Chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Unsupervised learning of narrative event chains",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of ACL-08: HLT, 789-797",
+   "year": "2008"
+  },
+  {
+   "title": "Stanford’s multi-pass sieve coreference resolution system at the conll-2011 shared task",
+   "authors": "H Lee, Y Peirsman, A Chang, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Proceedings of the fifteenth conference on computational natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Deterministic coreference resolution based on entity-centric, precision-ranked rules",
+   "authors": "H Lee, A Chang, Y Peirsman, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Computational linguistics 39 (4), 885-916",
+   "year": "2013"
+  },
+  {
+   "title": "Unsupervised learning of narrative schemas and their participants",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "A multi-pass sieve for coreference resolution",
+   "authors": "K Raghunathan, H Lee, S Rangarajan, N Chambers, M Surdeanu, ...",
+   "venue": "Proceedings of the 2010 conference on empirical methods in natural language …",
+   "year": "2010"
+  },
+  {
+   "title": "Interactive complex task teaching system that allows for natural language input, recognizes a user's intent, and automatically performs tasks in document object model (DOM) nodes",
+   "authors": "JF Allen, N Chambers, L Galescu, H Jung, W Taysom",
+   "venue": "US Patent 7,983,997",
+   "year": "2011"
+  },
+  {
+   "title": "Template-based information extraction without the templates",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of the 49th annual meeting of the association for computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Plow: A collaborative task learning agent",
+   "authors": "J Allen, N Chambers, G Ferguson, L Galescu, H Jung, M Swift, W Taysom",
+   "venue": "AAAI 7, 1514-1519",
+   "year": "2007"
+  },
+  {
+   "title": "Dense event ordering with a multi-pass architecture",
+   "authors": "N Chambers, T Cassidy, B McDowell, S Bethard",
+   "venue": "Transactions of the Association for Computational Linguistics 2, 273-284",
+   "year": "2014"
+  },
+  {
+   "title": "Lsdsem 2017 shared task: The story cloze test",
+   "authors": "N Mostafazadeh, M Roth, A Louis, N Chambers, J Allen",
+   "venue": "Proceedings of the 2nd workshop on linking models of lexical, sentential and …",
+   "year": "2017"
+  },
+  {
+   "title": "Classifying temporal relations between events",
+   "authors": "N Chambers, S Wang, D Jurafsky",
+   "venue": "Proceedings of the 45th annual meeting of the association for computational …",
+   "year": "2007"
+  },
+  {
+   "title": "An annotation framework for dense event ordering",
+   "authors": "T Cassidy, B McDowell, N Chambers, S Bethard",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "CaTeRS: Causal and temporal relation scheme for semantic annotation of event structures",
+   "authors": "N Mostafazadeh, A Grealish, N Chambers, J Allen, L Vanderwende",
+   "venue": "Proceedings of the fourth workshop on events, 51-61",
+   "year": "2016"
+  },
+  {
+   "title": "Jointly combining implicit constraints improves temporal ordering",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of the 2008 Conference on Empirical Methods in Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Event schema induction with a probabilistic entity-driven model",
+   "authors": "N Chambers",
+   "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Learning alignments and leveraging natural logic",
+   "authors": "N Chambers, D Cer, T Grenager, D Hall, C Kiddon, B MacCartney, ...",
+   "venue": "Proceedings of the ACL-PASCAL workshop on textual entailment and …",
+   "year": "2007"
+  },
+  {
+   "title": "Learning for microblogs with distant supervision: Political forecasting with twitter",
+   "authors": "M Marchetti-Bowick, N Chambers",
+   "venue": "Proceedings of the 13th Conference of the European Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "Connecting the dots: Event graph schema induction with path language modeling",
+   "authors": "M Li, Q Zeng, Y Lin, K Cho, H Ji, J May, N Chambers, C Voss",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Navytime: Event and time ordering from raw text",
+   "authors": "N Chambers",
+   "venue": "Second Joint Conference on Lexical and Computational Semantics (* SEM …",
+   "year": "2013"
+  },
+  {
+   "title": "Event representations with tensor-based compositions",
+   "authors": "N Weber, N Balasubramanian, N Chambers",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 32 (1)",
+   "year": "2018"
+  },
+  {
+   "title": "Semeval-2015 task 5: Qa tempeval-evaluating temporal information understanding with question answering",
+   "authors": "H Llorens, N Chambers, N UzZaman, N Mostafazadeh, J Allen, ...",
+   "venue": "proceedings of the 9th International Workshop on Semantic Evaluation …",
+   "year": "2015"
+  },
+  {
+   "title": "Chester: towards a personal medication advisor",
+   "authors": "J Allen, G Ferguson, N Blaylock, D Byron, N Chambers, M Dzikovska, ...",
+   "venue": "Journal of biomedical informatics 39 (5), 500-513",
+   "year": "2006"
+  },
+  {
+   "title": "TellMeWhy: A dataset for answering why-questions in narratives",
+   "authors": "YK Lal, N Chambers, R Mooney, N Balasubramanian",
+   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "Teamwork-centered autonomy for extended human-agent interaction in space applications",
+   "authors": "JM Bradshaw, A Acquisti, J Allen, MR Breedy, L Bunch, N Chambers, ...",
+   "venue": "AAAI 2004 Spring Symposium, 22-24",
+   "year": "2004"
+  },
+  {
+   "title": "Labeling documents with timestamps: Learning from their time expressions",
+   "authors": "N Chambers",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Identifying political sentiment between nation states with social media",
+   "authors": "N Chambers, V Bowen, E Genco, X Tian, E Young, G Harihara, E Yang",
+   "venue": "Proceedings of the 2015 conference on empirical methods in natural language …",
+   "year": "2015"
+  },
+  {
+   "title": "A Database of Narrative Schemas.",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "LREC",
+   "year": "2010"
+  },
+  {
+   "title": "Detecting denial-of-service attacks from social media text: Applying nlp to computer security",
+   "authors": "N Chambers, B Fry, J McMasters",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Using query patterns to learn the duration of events",
+   "authors": "A Gusev, N Chambers, DR Khilnani, P Khaitan, S Bethard, D Jurafsky",
+   "venue": "Proceedings of the Ninth International Conference on Computational Semantics …",
+   "year": "2011"
+  },
+  {
+   "title": "Toward trustworthy adjustable autonomy in KAoS",
+   "authors": "JM Bradshaw, H Jung, S Kulkarni, M Johnson, P Feltovich, J Allen, ...",
+   "venue": "International Workshop on Trust in Agent Societies, 18-42",
+   "year": "2003"
+  },
+  {
+   "title": "Learning typed entailment graphs with global soft constraints",
+   "authors": "MJ Hosseini, N Chambers, S Reddy, XR Holt, SB Cohen, M Johnson, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 6, 703-717",
+   "year": "2018"
+  },
+  {
+   "title": "The medication advisor project: Preliminary report",
+   "authors": "G Ferguson, J Allen, N Blaylock, D Byron, N Chambers, M Dzikovska, ...",
+   "venue": "",
+   "year": "2002"
+  },
+  {
+   "title": "Hierarchical quantized representations for script generation",
+   "authors": "N Weber, L Shekhar, N Balasubramanian, N Chambers",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Kaa: policy-based explorations of a richer model for adjustable autonomy",
+   "authors": "JM Bradshaw, H Jung, S Kulkarni, M Johnson, P Feltovich, J Allen, ...",
+   "venue": "Proceedings of the fourth international joint conference on Autonomous …",
+   "year": "2005"
+  },
+  {
+   "title": "Improving the use of pseudo-words for evaluating selectional preferences",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Modeling label semantics for predicting emotional reactions",
+   "authors": "R Gaonkar, H Kwon, M Bastan, N Balasubramanian, N Chambers",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Conditional generation of temporally-ordered event sequences",
+   "authors": "ST Lin, N Chambers, G Durrett",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Stochastic language generation in a dialogue system: Toward a domain independent generator",
+   "authors": "N Chambers, J Allen",
+   "venue": "Proceedings of the 5th SIGdial Workshop on Discourse and Dialogue at HLT …",
+   "year": "2004"
+  },
+  {
+   "title": "Behind the scenes of an evolving event cloze test",
+   "authors": "N Chambers",
+   "venue": "Proceedings of the 2nd Workshop on Linking Models of Lexical, Sentential and …",
+   "year": "2017"
+  },
+  {
+   "title": "Inducing event schemas and their participants from unlabeled text",
+   "authors": "NW Chambers",
+   "venue": "Stanford University",
+   "year": "2011"
+  },
+  {
+   "title": "Policy-based coordination in joint human-agent activity",
+   "authors": "JM Bradshaw, P Feltovich, H Jung, S Kulkarni, J Allen, L Bunch, ...",
+   "venue": "2004 IEEE International Conference on Systems, Man and Cybernetics (IEEE Cat …",
+   "year": "2004"
+  },
+  {
+   "title": "Event ordering with a generalized model for sieve prediction ranking",
+   "authors": "B McDowell, N Chambers, A Ororbia II, D Reitter",
+   "venue": "Proceedings of the Eighth International Joint Conference on Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "CaT-bench: Benchmarking language model understanding of causal and temporal dependencies in plans",
+   "authors": "YK Lal, V Cohen, N Chambers, N Balasubramanian, R Mooney",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Using commonsense knowledge to answer why-questions",
+   "authors": "YK Lal, N Tandon, T Aggarwal, H Liu, N Chambers, R Mooney, ...",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling preconditions in text with a crowd-sourced dataset",
+   "authors": "H Kwon, M Koupaee, P Singh, G Sawhney, A Shukla, KK Kallur, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 3818-3828",
+   "year": "2020"
+  },
+  {
+   "title": "Utilizing natural language for one-shot task learning",
+   "authors": "H Jung, J Allen, L Galescu, N Chambers, M Swift, W Taysom",
+   "venue": "Journal of Logic and Computation 18 (3), 475-493",
+   "year": "2008"
+  },
+  {
+   "title": "Using semantics to identify web objects",
+   "authors": "N Chambers, J Allen, L Galescu, H Jung, W Taysom",
+   "venue": "AAAI 6, 1259-1264",
+   "year": "2006"
+  },
+  {
+   "title": "One-Shot Procedure Learning from Instruction and Observation.",
+   "authors": "H Jung, JF Allen, N Chambers, L Galescu, MD Swift, W Taysom",
+   "venue": "FLAIRS, 676-681",
+   "year": "2006"
+  },
+  {
+   "title": "A dialogue-based approach to multi-robot team control",
+   "authors": "N Chambers, J Allen, L Galescu, H Jung",
+   "venue": "Multi-Robot Systems. From Swarms to Intelligent Automata Volume III …",
+   "year": "2005"
+  },
+  {
+   "title": "Character-based models for adversarial phone extraction: Preventing human sex trafficking",
+   "authors": "N Chambers, T Forman, C Griswold, K Lu, Y Khastgir, S Steckler",
+   "venue": "Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019), 48-56",
+   "year": "2019"
+  },
+  {
+   "title": "Real-time stochastic language generation for dialogue systems",
+   "authors": "N Chambers",
+   "venue": "Proceedings of the Tenth European Workshop on Natural Language Generation …",
+   "year": "2005"
+  },
+  {
+   "title": "Approaches for automatically tagging affect",
+   "authors": "N Chambers, J Tetreault, J Allen",
+   "venue": "Proceedings of the AAAI Spring Symposium on Exploring Attitude and Affect in …",
+   "year": "2004"
+  },
+  {
+   "title": "PASTA: A Dataset for Modeling PArticipant STAtes in Narratives",
+   "authors": "S Ghosh, M Koupaee, I Chen, F Ferraro, N Chambers, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 11, 1283-1300",
+   "year": "2023"
+  },
+  {
+   "title": "Causal graph based event reasoning using semantic relation experts",
+   "authors": "M Koupaee, X Bai, M Chen, G Durrett, N Chambers, N Balasubramanian",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Generating narrative text in a switching dynamical system",
+   "authors": "N Weber, L Shekhar, H Kwon, N Balasubramanian, N Chambers",
+   "venue": "Proceedings of the 24th Conference on Computational Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Sageviz: Schema generation and visualization",
+   "authors": "S Devare, M Koupaee, G Gunapati, S Ghosh, SP Vallurupalli, YK Lal, ...",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Two diverse systems built using generic components for spoken dialogue (Recent Progress on TRIPS)",
+   "authors": "J Allen, G Ferguson, A Stent, SC Stoness, M Swift, L Galescu, ...",
+   "venue": "Proceedings of the ACL Interactive Poster and Demonstration Sessions, 85-88",
+   "year": "2005"
+  },
+  {
+   "title": "Don’t let discourse confine your model: Sequence perturbations for improved event language models",
+   "authors": "M Koupaee, G Durrett, N Chambers, N Balasubramanian",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Aligning entity names with online aliases on Twitter",
+   "authors": "K McKelvey, P Goutzounis, S da Cruz, N Chambers",
+   "venue": "Proceedings of the fifth international workshop on natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "Toward diverse precondition generation",
+   "authors": "H Kwon, N Chambers, N Balasubramanian",
+   "venue": "Proceedings of* SEM 2021: The Tenth Joint Conference on Lexical and …",
+   "year": "2021"
+  },
+  {
+   "title": "Analyzing the contribution of commonsense knowledge sources for why-question answering",
+   "authors": "YK Lal, H Liu, N Tandon, N Chambers, R Mooney, N Balasubramanian",
+   "venue": "ACL 2022 Workshop on Commonsense Representation and Reasoning",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling label semantics for predicting emotional reactions",
+   "authors": "RS Gaonkar",
+   "venue": "State University of New York at Stony Brook",
+   "year": "2019"
+  },
+  {
+   "title": "Learning the Central Events and Participants in Unlabeled Text.",
+   "authors": "N Chambers, D Jurafsky",
+   "venue": "ICML",
+   "year": "2012"
+  },
+  {
+   "title": "Demonstration of PLOW: A dialogue system for one-shot task learning",
+   "authors": "J Allen, N Chambers, G Ferguson, L Galescu, H Jung, M Swift, W Taysom",
+   "venue": "Proceedings of Human Language Technologies: The Annual Conference of the …",
+   "year": "2007"
+  },
+  {
+   "title": "Approaches for Automatically Tagging Affect: Steps Toward an Effective and Efficient Tool",
+   "authors": "N Chambers, J Tetreault, J Allen",
+   "venue": "Computing Attitude and Affect in Text: Theory and Applications, 143-158",
+   "year": "2006"
+  },
+  {
+   "title": "Modeling complex event scenarios via simple entity-focused questions",
+   "authors": "M Koupaee, G Durrett, N Chambers, N Balasubramanian",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "USNA: A dual-classifier approach to contextual sentiment analysis",
+   "authors": "G Harihara, E Yang, N Chambers",
+   "venue": "Second Joint Conference on Lexical and Computational Semantics (* SEM …",
+   "year": "2013"
+  },
+  {
+   "title": "Proceedings of the 2nd Workshop on Linking Models of Lexical, Sentential and Discourse-level Semantics",
+   "authors": "M Roth, N Mostafazadeh, N Chambers, A Louis",
+   "venue": "Proceedings of the 2nd Workshop on Linking Models of Lexical, Sentential and …",
+   "year": "2017"
+  },
+  {
+   "title": "III: Small: Collaborative Research: RUI: Scalable Schema-Based Event Extraction",
+   "authors": "N Chambers",
+   "venue": "NSF Award Number 1617952. Directorate for Computer and Information Science …",
+   "year": "2016"
+  },
+  {
+   "title": "Evaluating Automatic Learning of Structure for Event Extraction",
+   "authors": "J Schlachter, D Van Brackle, LA Reynoso, J Starz, N Chambers",
+   "venue": "Advances in Cross-Cultural Decision Making: Proceedings of the AHFE 2016 …",
+   "year": "2016"
+  },
+  {
+   "title": "Curcin, Vasa, 440",
+   "authors": "LM Currie, I Abbas, RE Abdel-Aal, S Abdel-Aal, MRE Abdel-Halim, ...",
+   "venue": "Journal of Biomedical Informatics 39, 737-738",
+   "year": "2006"
+  },
+  {
+   "title": "Extracting Phone Numbers from Adversarial & Visually Corrupted Text",
+   "authors": "T Forman, N Chambers",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Corpus and Evaluation Framework for Deeper Understanding of Commonsense Stories Not camera-ready version!",
+   "authors": "N Mostafazadeh, N Chambers, X He, D Parikh, D Batra, L Vanderwende, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "QA TempEval: Evaluating Temporal Information Understanding with QA",
+   "authors": "H Llorens, N Chambers, N Mostafazadeh, J Allen, J Pustejovsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Dialog Systems for Health Communications Guest Editor: Timothy Bickmore",
+   "authors": "J Allen, G Ferguson, N Blaylock, D Byron, N Chambers, M Dzikovska, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

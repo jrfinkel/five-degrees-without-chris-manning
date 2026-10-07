@@ -1,0 +1,179 @@
+{
+ "user": "ubAcojQAAAAJ",
+ "pubs": [
+  {
+   "title": "Systematic generalization: what is required and can it be learned?",
+   "authors": "D Bahdanau*, S Murty*, M Noukhovitch, TH Nguyen, H de Vries, ...",
+   "venue": "The Seventh International Conference on Learning Representations (ICLR 2019)",
+   "year": "2018"
+  },
+  {
+   "title": "Probabilistic embedding of knowledge graphs with box lattice measures",
+   "authors": "L Vilnis, X Li, S Murty, A McCallum",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Closure: Assessing systematic generalization of clevr models",
+   "authors": "D Bahdanau, H de Vries, TJ O'Donnell, S Murty, P Beaudoin, Y Bengio, ...",
+   "venue": "arXiv preprint arXiv:1912.05783",
+   "year": "2019"
+  },
+  {
+   "title": "Hierarchical losses and new resources for fine-grained entity typing and linking",
+   "authors": "S Murty*, P Verga*, L Vilnis, I Radovanovic, A McCallum",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Grokking of hierarchical structure in vanilla transformers",
+   "authors": "S Murty, P Sharma, J Andreas, CD Manning",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "NNetNav: Unsupervised Learning of Browser Agents Through Environment Interaction in the Wild",
+   "authors": "S Murty, H Zhu, D Bahdanau, CD Manning",
+   "venue": "arXiv preprint arXiv:2410.02907",
+   "year": "2025"
+  },
+  {
+   "title": "Characterizing intrinsic compositionality in transformers with Tree Projections",
+   "authors": "S Murty, P Sharma, J Andreas, CD Manning",
+   "venue": "The Eleventh International Conference on Learning Representations (ICLR 2023)",
+   "year": "2023"
+  },
+  {
+   "title": "Iterative search for weakly supervised semantic parsing",
+   "authors": "P Dasigi, M Gardner, S Murty, L Zettlemoyer, E Hovy",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+   "authors": "S Murty, C Manning, P Shaw, M Joshi, K Lee",
+   "venue": "International Conference on Machine Learning 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Fixing model bugs with natural language patches",
+   "authors": "S Murty, CD Manning, S Lundberg, MT Ribeiro",
+   "venue": "Empirical Methods in Natural Language Processing: EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Expbert: Representation engineering with natural language explanations",
+   "authors": "S Murty, PW Koh, P Liang",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Dreca: A general task augmentation strategy for few-shot natural language inference",
+   "authors": "S Murty, TB Hashimoto, CD Manning",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Finer grained entity typing with typenet",
+   "authors": "S Murty, P Verga, L Vilnis, A McCallum",
+   "venue": "arXiv preprint arXiv:1711.05795",
+   "year": "2017"
+  },
+  {
+   "title": "Mrt5: Dynamic token merging for efficient byte-level language models",
+   "authors": "J Kallini, S Murty, C Manning, C Potts, R Csordás",
+   "venue": "International Conference on Learning Representations 2025, 56646-56669",
+   "year": "2025"
+  },
+  {
+   "title": "Pushdown layers: Encoding recursive structure in transformer language models",
+   "authors": "S Murty, P Sharma, J Andreas, CD Manning",
+   "venue": "Empirical Methods in Natural Language Processing: EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Mitigating the effect of out-of-vocabulary entity pairs in matrix factorization for KB inference",
+   "authors": "P Jain*, S Murty*, M Mausam, S Chakrabarti",
+   "venue": "Proceedings of the 27th International Joint Conference on Artificial …",
+   "year": "2018"
+  },
+  {
+   "title": "Embedded-state latent conditional random fields for sequence labeling",
+   "authors": "D Thai, SH Ramesh, S Murty, L Vilnis, A McCallum",
+   "venue": "Proceedings of the 22nd Conference on Computational Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Mechanisms vs. outcomes: Probing for syntax fails to explain performance on targeted syntactic evaluations",
+   "authors": "A Agarwal, J Jian, CD Manning, S Murty",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "On measuring the intrinsic few-shot hardness of datasets",
+   "authors": "X Zhao, S Murty, CD Manning",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Sneaking syntax into transformer language models with tree regularization",
+   "authors": "A Nandi, CD Manning, S Murty",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Pseudointelligence: A unifying lens on language model evaluation",
+   "authors": "S Murty, O Paradise, P Sharma",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 7284-7290",
+   "year": "2023"
+  },
+  {
+   "title": "Webds: An end-to-end benchmark for web-based data science",
+   "authors": "E Hsu, HM Yam, I Bouissou, A John, R Thota, J Koe, V Putta, G Dharesan, ...",
+   "venue": "International Conference on Learning Representations 2026, 31777-31795",
+   "year": "2026"
+  },
+  {
+   "title": "Mrt5: Dynamic token merging for efficient byte-level language models, 2025",
+   "authors": "J Kallini, S Murty, CD Manning, C Potts, R Csordás",
+   "venue": "URL https://arxiv. org/abs/2410.20771",
+   "year": null
+  },
+  {
+   "title": "Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space",
+   "authors": "H Liu, S Murty, CD Manning, R Csordás",
+   "venue": "arXiv preprint arXiv:2510.00219",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025)",
+   "authors": "E Kamalloo, N Gontier, XH Lu, N Dziri, S Murty, A Lacoste",
+   "venue": "Proceedings of the 1st Workshop for Research on Agent Language Models (REALM …",
+   "year": "2025"
+  },
+  {
+   "title": "Building the Learning-From-Interaction Pipeline for Large Language Models",
+   "authors": "S Murty",
+   "venue": "Stanford University",
+   "year": "2025"
+  },
+  {
+   "title": "Meta-Learning for Sample Reweighting using Sequence Models: A Natural Language Inference Case Study",
+   "authors": "S Karamcheti",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Low-Rank Hidden State Embeddings for Viterbi Sequence Labeling",
+   "authors": "D Thai, S Murty, T Bansal, L Vilnis, D Belanger, A McCallum",
+   "venue": "arXiv preprint arXiv:1708.00553",
+   "year": "2017"
+  },
+  {
+   "title": "TRANSFORMERS WITH TREE PROJECTIONS",
+   "authors": "S Murty, P Sharma, J Andreas, CD Manning",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

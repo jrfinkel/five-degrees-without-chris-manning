@@ -1,0 +1,497 @@
+{
+ "user": "VpRea28AAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "GoEmotions: A dataset of fine-grained emotions",
+   "authors": "D Demszky, D Movshovitz-Attias, J Ko, A Cowen, G Nemade, S Ravi",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Using large language models in psychology",
+   "authors": "D Demszky, D Yang, DS Yeager, CJ Bryan, M Clapper, S Chandhok, ...",
+   "venue": "Nature Reviews Psychology 2 (11), 688-701",
+   "year": "2023"
+  },
+  {
+   "title": "Analyzing polarization in social media: Method and application to tweets on 21 mass shootings",
+   "authors": "D Demszky, N Garg, R Voigt, J Zou, J Shapiro, M Gentzkow, D Jurafsky",
+   "venue": "Proceedings of the 2019 conference of the north american chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Can automated feedback improve teachers’ uptake of student ideas? Evidence from a randomized controlled trial in a large-scale online course",
+   "authors": "D Demszky, J Liu, HC Hill, D Jurafsky, C Piech",
+   "venue": "Educational Evaluation and Policy Analysis 46 (3), 483-505",
+   "year": "2024"
+  },
+  {
+   "title": "Content analysis of textbooks via natural language processing: Findings on gender, race, and ethnicity in Texas US history textbooks",
+   "authors": "L Lucy, D Demszky, P Bromley, D Jurafsky",
+   "venue": "AERA Open 6 (3), 2332858420940312",
+   "year": "2020"
+  },
+  {
+   "title": "Transforming question answering datasets into natural language inference datasets",
+   "authors": "D Demszky, K Guu, P Liang",
+   "venue": "arXiv preprint arXiv:1809.02922",
+   "year": "2018"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (arXiv: 2108.07258). arXiv",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Von Arx, ...",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Tutor copilot: A human-ai approach for scaling real-time expertise",
+   "authors": "RE Wang, AT Ribeiro, CD Robinson, S Loeb, D Demszky",
+   "venue": "arXiv preprint arXiv:2410.03017",
+   "year": "2024"
+  },
+  {
+   "title": "Is chatgpt a good teacher coach? measuring zero-shot performance for scoring and providing actionable insights on classroom instruction",
+   "authors": "R Wang, D Demszky",
+   "venue": "Proceedings of the 18th Workshop on Innovative Use of NLP for Building …",
+   "year": "2023"
+  },
+  {
+   "title": "Measuring conversational uptake: A case study on student-teacher interactions",
+   "authors": "D Demszky, J Liu, Z Mancenido, J Cohen, H Hill, D Jurafsky, ...",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Bridging the novice-expert gap via models of decision-making: A case study on remediating math mistakes",
+   "authors": "R Wang, Q Zhang, C Robinson, S Loeb, D Demszky",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "The NCTE transcripts: A dataset of elementary math classroom transcripts",
+   "authors": "D Demszky, H Hill",
+   "venue": "Proceedings of the 18th Workshop on Innovative Use of NLP for Building …",
+   "year": "2023"
+  },
+  {
+   "title": "Automated feedback improves teachers’ questioning quality in brick-and-mortar classrooms: Opportunities for further enhancement",
+   "authors": "D Demszky, J Liu, HC Hill, S Sanghi, A Chung",
+   "venue": "Computers & Education 227, 105183",
+   "year": "2025"
+  },
+  {
+   "title": "Kid-whisper: Towards bridging the performance gap in automatic speech recognition for children vs. adults",
+   "authors": "AA Attia, J Liu, W Ai, D Demszky, C Espy-Wilson",
+   "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7 (1), 74-80",
+   "year": "2024"
+  },
+  {
+   "title": "Learning to recognize dialect features",
+   "authors": "D Demszky, D Sharma, JH Clark, V Prabhakaran, J Eisenstein",
+   "venue": "Proceedings of the 2021 conference of the North American chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Computationally identifying funneling and focusing questions in classroom discourse",
+   "authors": "S Alic, D Demszky, Z Mancenido, J Liu, H Hill, D Jurafsky",
+   "venue": "Proceedings of the 17th Workshop on Innovative Use of NLP for Building …",
+   "year": "2022"
+  },
+  {
+   "title": "M-powering teachers: Natural language processing powered feedback improves 1: 1 instruction and student outcomes",
+   "authors": "D Demszky, J Liu",
+   "venue": "Proceedings of the Tenth ACM Conference on Learning@ Scale, 59-69",
+   "year": "2023"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Scaffolding middle school mathematics curricula with large language models",
+   "authors": "R Malik, D Abdi, R Wang, D Demszky",
+   "venue": "British Journal of Educational Technology 56 (3), 999-1027",
+   "year": "2025"
+  },
+  {
+   "title": "Towards the future of AI-augmented human tutoring in math learning",
+   "authors": "V Aleven, R Baraniuk, E Brunskill, S Crossley, D Demszky, S Fancsali, ...",
+   "venue": "International Conference on Artificial Intelligence in Education, 26-31",
+   "year": "2023"
+  },
+  {
+   "title": "Sight: A large annotated dataset on student insights gathered from higher education transcripts",
+   "authors": "R Wang, P Wirawarn, N Goodman, D Demszky",
+   "venue": "Proceedings of the 18th Workshop on Innovative Use of NLP for Building …",
+   "year": "2023"
+  },
+  {
+   "title": "“Mistakes Help Us Grow”: Facilitating and Evaluating Growth Mindset Supportive Language in Classrooms",
+   "authors": "K Handa, M Clapper, J Boyle, R Wang, D Yang, D Yeager, D Demszky",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Does feedback on talk time increase student engagement? Evidence from a randomized controlled trial on a math tutoring platform",
+   "authors": "D Demszky, R Wang, S Geraghty, C Yu",
+   "venue": "Proceedings of the 14th Learning Analytics and Knowledge Conference, 632-644",
+   "year": "2024"
+  },
+  {
+   "title": "Md3: The multi-dialect dataset of dialogues",
+   "authors": "J Eisenstein, V Prabhakaran, C Rivera, D Demszky, D Sharma",
+   "venue": "arXiv preprint arXiv:2305.11355",
+   "year": "2023"
+  },
+  {
+   "title": "Edu-convokit: An open-source library for education conversation data",
+   "authors": "RE Wang, D Demszky",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Cpt-boosted wav2vec2. 0: Towards noise robust speech recognition for classroom environments",
+   "authors": "AA Attia, D Demszky, T Ògúnremí, J Liu, C Espy-Wilson",
+   "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2025"
+  },
+  {
+   "title": "Using large language models in behavioral science interventions: Promise & risk",
+   "authors": "CA Hecht, DC Ong, M Clapper, M Jones, D Demszky, D Yang, ...",
+   "venue": "Behavioral Science & Policy 11 (1), 1-9",
+   "year": "2025"
+  },
+  {
+   "title": "Measuring five accountable talk moves to improve instruction at scale",
+   "authors": "A Kupor, C Morgan, D Demszky",
+   "venue": "arXiv preprint arXiv:2311.10749",
+   "year": "2023"
+  },
+  {
+   "title": "Teachlm: Post-training llms for education using authentic learning data",
+   "authors": "J Perczel, J Chow, D Demszky",
+   "venue": "arXiv preprint arXiv:2510.05087",
+   "year": "2025"
+  },
+  {
+   "title": "Scaling high-leverage curriculum scaffolding in middle-school mathematics",
+   "authors": "R Malik, D Abdi, R Wang, D Demszky",
+   "venue": "Proceedings of the eleventh ACM conference on learning@ scale, 476-480",
+   "year": "2024"
+  },
+  {
+   "title": "Data and social worlds: How data science education supports civic participation and social discourse",
+   "authors": "KM Miller, JL Polman, SA Yoon, J Shim, VY Leung, Y Nguyen, A Rubin, ...",
+   "venue": "Proceedings of the 18th International Conference of the Learning Sciences …",
+   "year": "2024"
+  },
+  {
+   "title": "Do As I Say: What Teachers’ Language Reveals About Classroom Management Practices",
+   "authors": "M Tan, D Demszky",
+   "venue": "Educational Researcher 55 (6), 349-361",
+   "year": "2026"
+  },
+  {
+   "title": "Using natural language processing to support student-centered education",
+   "authors": "D Demszky",
+   "venue": "Stanford University",
+   "year": "2022"
+  },
+  {
+   "title": "Educator Attention: How computational tools can systematically identify the distribution of a key resource for students",
+   "authors": "Q Zhang, RE Wang, AT Ribeiro, D Demszky, S Loeb",
+   "venue": "arXiv preprint arXiv:2502.20135",
+   "year": "2025"
+  },
+  {
+   "title": "From sentence-corrections to deeper dialogue: Qualitative insights from llm and teacher feedback on student writing",
+   "authors": "C Mah, M Tan, L Phalen, A Sparks, D Demszky",
+   "venue": "Available at SSRN 5213040",
+   "year": "2025"
+  },
+  {
+   "title": "Racial and Ethnic Representation in Literature Taught in US High Schools",
+   "authors": "L Lucy, C Griffiths, C Ying, JJ Kim-Ebio, S Baur, S Levine, JL Eberhardt, ...",
+   "venue": "Journal of Cultural Analytics 10 (1)",
+   "year": "2025"
+  },
+  {
+   "title": "Enhancing tutoring effectiveness through automated feedback: Preliminary findings from a pilot randomized controlled trial on SAT tutoring",
+   "authors": "J Yun, Y Hicke, M Olson, D Demszky",
+   "venue": "Proceedings of the Eleventh ACM Conference on Learning@ Scale, 422-426",
+   "year": "2024"
+  },
+  {
+   "title": "Continued pretraining for domain adaptation of wav2vec2. 0 in automatic speech recognition for elementary math classroom settings",
+   "authors": "AA Attia, D Demszky, T Ogunremi, J Liu, C Espy-Wilson",
+   "venue": "arXiv preprint arXiv:2405.13018",
+   "year": "2024"
+  },
+  {
+   "title": "A Quantitative Study of Mathematical Vocabulary Use in Upper Elementary Classrooms",
+   "authors": "Z Himmelsbach, HC Hill, J Liu, D Demszky",
+   "venue": "Educational Researcher 55 (4), 255-265",
+   "year": "2026"
+  },
+  {
+   "title": "Marked pedagogies: Examining linguistic biases in personalized automated writing feedback",
+   "authors": "M Tan, L Phalen, D Demszky",
+   "venue": "Proceedings of the LAK26: 16th International Learning Analytics and …",
+   "year": "2026"
+  },
+  {
+   "title": "Diagramir: An automatic pipeline for educational math diagram evaluation",
+   "authors": "V Kumar, S Mishra, R Hao, R Malik, D Broman, D Demszky",
+   "venue": "arXiv preprint arXiv:2511.08283",
+   "year": "2025"
+  },
+  {
+   "title": "Mathematikz: A dataset and benchmark for mathematical diagram generation",
+   "authors": "R Malik, RL Hao, R Kacholia, D Demszky",
+   "venue": "Proceedings of the Twelfth ACM Conference on Learning@ Scale, 95-104",
+   "year": "2025"
+  },
+  {
+   "title": "Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations",
+   "authors": "RE Wang, P Wirawarn, K Lam, O Khattab, D Demszky",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 12654 …",
+   "year": "2024"
+  },
+  {
+   "title": "Methods for emotion classification in text",
+   "authors": "D Movshovitz-Attias, JP McGregor Jr, G Nemade, S Ravi, J Ko, ...",
+   "venue": "US Patent 12,112,134",
+   "year": "2024"
+  },
+  {
+   "title": "Pártélet: A Hungarian corpus of propaganda texts from the Hungarian socialist era",
+   "authors": "Z Kmetty, V Vincze, D Demszky, O Ring, B Nagy, MK Szabó",
+   "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference …",
+   "year": "2020"
+  },
+  {
+   "title": "Tell, don’t show: Leveraging language models’ abstractive retellings to model literary themes",
+   "authors": "L Lucy, C Griffiths, S Levine, JL Eberhardt, D Demszky, D Bamman",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 22585-22610",
+   "year": "2025"
+  },
+  {
+   "title": "Multi-stage speaker diarization for noisy classrooms",
+   "authors": "AS Khan, T Ogunremi, AA Attia, D Demszky",
+   "venue": "arXiv preprint arXiv:2505.10879",
+   "year": "2025"
+  },
+  {
+   "title": "Facilitating Evidence-Based Instructional Coaching With Automated Feedback on Teacher Discourse",
+   "authors": "J Malamut, D Demszky, C Bywater, M Reinhart, HC Hill",
+   "venue": "EdWorkingPapers",
+   "year": "2025"
+  },
+  {
+   "title": "Reframing Authority: A Computational Measure of Power-Affirming Feedback on Student Writing",
+   "authors": "M Tan, C Mah, D Demszky",
+   "venue": "Proceedings of the Eleventh ACM Conference on Learning@ Scale, 417-421",
+   "year": "2024"
+  },
+  {
+   "title": "Identifying Pedagogical Opportunities for Text Data Visualizations in English Language Arts through Co-Design",
+   "authors": "VR Lee, D Abdi, R Coelho, C Bywater, S Levine, D Demszky",
+   "venue": "International Society of the Learning Sciences",
+   "year": "2024"
+  },
+  {
+   "title": "Backtracing: Retrieving the cause of the query",
+   "authors": "R Wang, P Wirawarn, O Khattab, N Goodman, D Demszky",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2024, 722-735",
+   "year": "2024"
+  },
+  {
+   "title": "Middle School Students’ Engagement with Quantitative Data Representations of Fictional Texts",
+   "authors": "R Coelho, S Levine, D Abdi, L Phalen, L Harris, D Demszky, VR Lee",
+   "venue": "Proceedings of the 18th International Conference of the Learning Sciences …",
+   "year": "2024"
+  },
+  {
+   "title": "Does Increased Choice over Learning Topic Improve the Effectiveness of Automated Feedback for Educators?",
+   "authors": "D Demszky, HC Hill, E Taylor, A Kupor, D Varuvel Dennison, C Piech",
+   "venue": "Education Sciences 15 (9), 1162",
+   "year": "2025"
+  },
+  {
+   "title": "Advancing the science of teaching with tutoring data: a collaborative workshop with the national tutoring observatory",
+   "authors": "DR Thomas, D Demszky, KR Koedinger, J Marland, D Pietrzak, J Reich, ...",
+   "venue": "Proceedings of the Twelfth ACM Conference on Learning@ Scale, 404-406",
+   "year": "2025"
+  },
+  {
+   "title": "Exploring the benefit of customizing feedback interventions for educators and students with offline contextual multi-armed bandits",
+   "authors": "J Yun, A Nie, E Brunskill, D Demszky",
+   "venue": "Proceedings of the 15th International Learning Analytics and Knowledge …",
+   "year": "2025"
+  },
+  {
+   "title": "Analyzing the framing of 2020 presidential candidates in the news",
+   "authors": "A Acken, D Demszky",
+   "venue": "Proceedings of the Fourth Widening Natural Language Processing Workshop, 123-123",
+   "year": "2020"
+  },
+  {
+   "title": "Depicting Data Conversations for ELA Teachers through Routine Supports",
+   "authors": "VR Lee, E Finlayson_Harris, C Bywater, S Levine, D Demszky",
+   "venue": "Data Science Education",
+   "year": "2025"
+  },
+  {
+   "title": "The role of verb semantics in Hungarian verb-object order",
+   "authors": "D Demszky",
+   "venue": "Proceedings of the Linguistic Society of America 6 (1), 54-68",
+   "year": "2021"
+  },
+  {
+   "title": "Bottled vs. Tap Water: Impact Assessment",
+   "authors": "D DEMSZKY, R ZEMPLÉNI, L CONLAN, S HILTNER",
+   "venue": "Sustainability at Princeton: Drink Local",
+   "year": "2014"
+  },
+  {
+   "title": "From Scoring to Explanations: Evaluating SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment",
+   "authors": "ISB Júnior, B Bühler, P Stark, T Fütterer, U Trautwein, D Demszky, H Hill, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 7590-7606",
+   "year": "2026"
+  },
+  {
+   "title": "EduCoder: An Open-Source Annotation System for Education Transcript Data",
+   "authors": "S Ashraf, J Malamut, V Kumar, G Pan, H Nam, M Tan, L Langlois, ...",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Mitigating LLM biases toward spurious social contexts using direct preference optimization",
+   "authors": "H Nam, D Demszky",
+   "venue": "arXiv preprint arXiv:2604.02585",
+   "year": "2026"
+  },
+  {
+   "title": "Can Large Language Models Match Human Diversity in Educational Content Generation?",
+   "authors": "M Tan, HJ Nam, D Demszky",
+   "venue": "Third Conference on Language Modeling",
+   "year": "2026"
+  },
+  {
+   "title": "From Weak Labels to Strong Results: Utilizing 5,000 Hours of Noisy Classroom Transcripts with Minimal Accurate Data",
+   "authors": "AA Attia, D Demszky, J Liu, C Espy-Wilson",
+   "venue": "arXiv preprint arXiv:2505.17088",
+   "year": "2025"
+  },
+  {
+   "title": "Computational Language Analysis Reveals That Process-Oriented Thinking about Belonging Aids the College Transition. EdWorkingPaper No. 24-1033.",
+   "authors": "D Demszky, CL Williams, ST Brady, S Subrahmanya, E Gaudiello, ...",
+   "venue": "Annenberg Institute for School Reform at Brown University",
+   "year": "2024"
+  },
+  {
+   "title": "Fine-tuning llama-2 towards power-affirming automated feedback on student writing",
+   "authors": "M Tan, C Mah, D Demszky",
+   "venue": "Writing and Literacy Instruction Workshop (WLIEDM), 30",
+   "year": "2024"
+  },
+  {
+   "title": "When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk",
+   "authors": "L Santos-Deonizio, J Malamut, RA Martínez, D Demszky",
+   "venue": "arXiv preprint arXiv:2608.23780",
+   "year": "2026"
+  },
+  {
+   "title": "Language markers of student beliefs signal college success",
+   "authors": "D Demszky, CL Williams, ST Brady, S Subrahmanya, E Gaudiello, ...",
+   "venue": "Communications Psychology",
+   "year": "2026"
+  },
+  {
+   "title": "Pigeonholing: Bad prompts hurt models to collapse and make mistakes",
+   "authors": "H Nam, K Chidambaram, D Demszky, N Jaques",
+   "venue": "arXiv preprint arXiv:2606.24267",
+   "year": "2026"
+  },
+  {
+   "title": "Mapping the Methodological Space of Classroom Interaction Research: Scale, Duration, and Modality in an Age of AI",
+   "authors": "D Demszky, E Bouton, A Twiner, S Hennessy, R Correnti",
+   "venue": "arXiv preprint arXiv:2604.28098",
+   "year": "2026"
+  },
+  {
+   "title": "Practitioner Voices Summit: How Teachers Evaluate AI Tools through Deliberative Sensemaking",
+   "authors": "D Demszky, C Mah, H Higgins",
+   "venue": "arXiv preprint arXiv:2603.22588",
+   "year": "2026"
+  },
+  {
+   "title": "IDEAlign: Comparing Ideas of Large Language Models to Domain Experts",
+   "authors": "H Nam, L Langlois, J Malamut, M Tan, D Demszky",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Protecting and Promoting Human Agency in Education in the Age of Artificial Intelligence",
+   "authors": "O Viberg, M Cukurova, RF Kizilcec, SB Shum, D Demszky, D Gašević, ...",
+   "venue": "arXiv preprint arXiv:2602.20014",
+   "year": "2026"
+  },
+  {
+   "title": "Middle School Students’ Attitude and Self-efficacy Changes Towards Data and English Language Arts Following Instructional Integration",
+   "authors": "VR Lee, R Chen, S Levine, D Demszky",
+   "venue": "Data Science Education",
+   "year": "2025"
+  },
+  {
+   "title": "RAPID: DRL AI: Scaffolding Automated Feedback for Teachers",
+   "authors": "D Demszky",
+   "venue": "NSF Award Number 2337772. Directorate for STEM Education 23 (2337772), 37772",
+   "year": "2023"
+  },
+  {
+   "title": "Using Large Language Models in Psychology",
+   "authors": "C Hecht, DC Ong, M Clapper, JW Pennebaker, CS Dweck, J Jamieson, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Proceedings of the Second Workshop on NLP for Positive Impact (NLP4PI)",
+   "authors": "L Biester, D Demszky, Z Jin, M Sachan, J Tetreault, S Wilson, L Xiao, ...",
+   "venue": "Proceedings of the Second Workshop on NLP for Positive Impact (NLP4PI)",
+   "year": "2022"
+  },
+  {
+   "title": "Unpacking High-Quality Teaching: Measuring Teachers’ Uptake of Student Ideas Using Computational Linguistic Analysis",
+   "authors": "D Demszky, J Liu, HC Hill",
+   "venue": "2020 APPAM Fall Research Conference",
+   "year": "2020"
+  },
+  {
+   "title": "Can LLMs Match Human Diversity in Educational Content Generation?",
+   "authors": "M Tan, HA Nam, D Demszky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Data and Social Worlds: How Data Science Education Supports Civic Participation and Social Discourse",
+   "authors": "JL Polman, SA Yoon, J Shim, VY Leung, Y Nguyen, A Rubin, T Higgins, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Evaluating LLMs’ Generation of Growth-Mindset Supportive Teacher Language",
+   "authors": "MV Clapper, C Hecht, M Jones, N JonesMitchell, M Johnson, D Dennison, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

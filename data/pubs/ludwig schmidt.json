@@ -1,0 +1,911 @@
+{
+ "user": "SWMKy70AAAAJ",
+ "pubs": [
+  {
+   "title": "Towards deep learning models resistant to adversarial attacks",
+   "authors": "A Madry, A Makelov, L Schmidt, D Tsipras, A Vladu",
+   "venue": "arXiv preprint arXiv:1706.06083",
+   "year": "2017"
+  },
+  {
+   "title": "Laion-5b: An open large-scale dataset for training next generation image-text models",
+   "authors": "C Schuhmann, R Beaumont, R Vencu, C Gordon, R Wightman, M Cherti, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 25278-25294",
+   "year": "2022"
+  },
+  {
+   "title": "Do ImageNet Classifiers Generalize to ImageNet?",
+   "authors": "B Recht, R Roelofs, L Schmidt, V Shankar",
+   "venue": "arXiv preprint arXiv:1902.10811",
+   "year": "2019"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time",
+   "authors": "M Wortsman, G Ilharco, SY Gadre, R Roelofs, R Gontijo-Lopes, ...",
+   "venue": "International Conference on Machine Learning, 23965-23998",
+   "year": "2022"
+  },
+  {
+   "title": "Objaverse: A universe of annotated 3d objects",
+   "authors": "M Deitke, D Schwenk, J Salvador, L Weihs, O Michel, E VanderBilt, ...",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2023"
+  },
+  {
+   "title": "Reproducible scaling laws for contrastive language-image learning",
+   "authors": "M Cherti, R Beaumont, R Wightman, M Wortsman, G Ilharco, C Gordon, ...",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2023"
+  },
+  {
+   "title": "Editing Models with Task Arithmetic",
+   "authors": "G Ilharco, MT Ribeiro, M Wortsman, S Gururangan, L Schmidt, ...",
+   "venue": "arXiv preprint arXiv:2212.04089",
+   "year": "2022"
+  },
+  {
+   "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+   "authors": "O Press, M Zhang, S Min, L Schmidt, NA Smith, M Lewis",
+   "venue": "arXiv preprint arXiv:2210.03350",
+   "year": "2022"
+  },
+  {
+   "title": "Openclip (2021)",
+   "authors": "G Ilharco, M Wortsman, R Wightman, C Gordon, N Carlini, R Taori, ...",
+   "venue": "DOI: https://doi. org/10.5281/zenodo 5143773",
+   "year": null
+  },
+  {
+   "title": "Robust fine-tuning of zero-shot models",
+   "authors": "M Wortsman, G Ilharco, JW Kim, M Li, S Kornblith, R Roelofs, RG Lopes, ...",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2022"
+  },
+  {
+   "title": "Adversarially robust generalization requires more data",
+   "authors": "L Schmidt, S Santurkar, D Tsipras, K Talwar, A Madry",
+   "venue": "Advances in Neural Information Processing Systems 31, 5014-5026",
+   "year": "2018"
+  },
+  {
+   "title": "Exploring the Landscape of Spatial Robustness",
+   "authors": "L Engstrom, B Tran, D Tsipras, L Schmidt, A Madry",
+   "venue": "International Conference on Machine Learning, 1802-1811",
+   "year": "2019"
+  },
+  {
+   "title": "Openflamingo: An open-source framework for training large autoregressive vision-language models",
+   "authors": "A Awadalla, I Gao, J Gardner, J Hessel, Y Hanafy, W Zhu, K Marathe, ...",
+   "venue": "arXiv preprint arXiv:2308.01390",
+   "year": "2023"
+  },
+  {
+   "title": "GenEval: An object-focused framework for evaluating text-to-image alignment",
+   "authors": "D Ghosh, H Hajishirzi, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "Unlabeled data improves adversarial robustness",
+   "authors": "Y Carmon, A Raghunathan, L Schmidt, JC Duchi, PS Liang",
+   "venue": "Advances in Neural Information Processing Systems, 11192-11203",
+   "year": "2019"
+  },
+  {
+   "title": "Objaverse-xl: A universe of 10m+ 3d objects",
+   "authors": "M Deitke, R Liu, M Wallingford, H Ngo, O Michel, A Kusupati, A Fan, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 35799-35813",
+   "year": "2023"
+  },
+  {
+   "title": "Measuring robustness to natural distribution shifts in image classification",
+   "authors": "R Taori, A Dave, V Shankar, N Carlini, B Recht, L Schmidt",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Datacomp: In search of the next generation of multimodal datasets",
+   "authors": "SY Gadre, G Ilharco, A Fang, J Hayase, G Smyrnis, T Nguyen, R Marten, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 27092-27112",
+   "year": "2023"
+  },
+  {
+   "title": "Retiring Adult: New Datasets for Fair Machine Learning",
+   "authors": "F Ding, M Hardt, J Miller, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 34",
+   "year": "2021"
+  },
+  {
+   "title": "Practical and optimal LSH for angular distance",
+   "authors": "A Andoni, P Indyk, T Laarhoven, I Razenshteyn, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems, 1225-1233",
+   "year": "2015"
+  },
+  {
+   "title": "Are aligned neural networks adversarially aligned?",
+   "authors": "N Carlini, M Nasr, CA Choquette-Choo, M Jagielski, I Gao, PWW Koh, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 61478-61500",
+   "year": "2023"
+  },
+  {
+   "title": "Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization",
+   "authors": "JP Miller, R Taori, A Raghunathan, S Sagawa, PW Koh, V Shankar, ...",
+   "venue": "International Conference on Machine Learning, 7721-7735",
+   "year": "2021"
+  },
+  {
+   "title": "Datacomp-lm: In search of the next generation of training sets for language models",
+   "authors": "J Li, A Fang, G Smyrnis, M Ivgi, M Jordan, S Gadre, H Bansal, E Guha, ...",
+   "venue": "arXiv preprint arXiv:2406.11794",
+   "year": "2024"
+  },
+  {
+   "title": "Data Filtering Networks",
+   "authors": "A Fang, AM Jose, A Jain, L Schmidt, A Toshev, V Shankar",
+   "venue": "arXiv preprint arXiv:2309.17425",
+   "year": "2023"
+  },
+  {
+   "title": "Cows on pasture: Baselines and benchmarks for language-driven zero-shot object navigation",
+   "authors": "SY Gadre, M Wortsman, G Ilharco, L Schmidt, S Song",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2023"
+  },
+  {
+   "title": "Terminal-bench: Benchmarking agents on hard, realistic tasks in command line interfaces",
+   "authors": "MA Merrill, AG Shaw, N Carlini, B Li, H Raj, I Bercovich, L Shi, JY Shin, ...",
+   "venue": "arXiv preprint arXiv:2601.11868",
+   "year": "2026"
+  },
+  {
+   "title": "A meta-analysis of overfitting in machine learning",
+   "authors": "R Roelofs, S Fridovich-Keil, J Miller, V Shankar, M Hardt, B Recht, ...",
+   "venue": "Proceedings of the 33rd International Conference on Neural Information …",
+   "year": "2019"
+  },
+  {
+   "title": "SWE-smith: Scaling Data for Software Engineering Agents",
+   "authors": "J Yang, K Leret, CE Jimenez, A Wettig, K Khandpur, Y Zhang, B Hui, ...",
+   "venue": "arXiv preprint arXiv:2504.21798",
+   "year": "2025"
+  },
+  {
+   "title": "Multimodal c4: An open, billion-scale corpus of images interleaved with text",
+   "authors": "W Zhu, J Hessel, A Awadalla, SY Gadre, J Dodge, A Fang, Y Yu, ...",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "Model reconstruction from model explanations",
+   "authors": "S Milli, L Schmidt, AD Dragan, M Hardt",
+   "venue": "Proceedings of the Conference on Fairness, Accountability, and Transparency, 1-9",
+   "year": "2019"
+  },
+  {
+   "title": "Patching open-vocabulary models by interpolating weights",
+   "authors": "G Ilharco, M Wortsman, SY Gadre, S Song, H Hajishirzi, S Kornblith, ...",
+   "venue": "Advances in Neural Information Processing Systems 35, 29262-29277",
+   "year": "2022"
+  },
+  {
+   "title": "xGen-MM (BLIP-3): A Family of Open Large Multimodal Models",
+   "authors": "L Xue, M Shu, A Awadalla, J Wang, A Yan, S Purushwalkam, H Zhou, ...",
+   "venue": "arXiv preprint arXiv:2408.08872",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating Machine Accuracy on ImageNet",
+   "authors": "V Shankar, R Roelofs, H Mania, A Fang, B Recht, L Schmidt",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2020"
+  },
+  {
+   "title": "Data determines distributional robustness in contrastive language image pre-training (clip)",
+   "authors": "A Fang, G Ilharco, M Wortsman, Y Wan, V Shankar, A Dave, L Schmidt",
+   "venue": "International Conference on Machine Learning, 6216-6234",
+   "year": "2022"
+  },
+  {
+   "title": "Predicting with confidence on unseen distributions",
+   "authors": "D Guillory, V Shankar, S Ebrahimi, T Darrell, L Schmidt",
+   "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision …",
+   "year": "2021"
+  },
+  {
+   "title": "Are We Learning Yet? A Meta Review of Evaluation Failures Across Machine Learning",
+   "authors": "T Liao, R Taori, ID Raji, L Schmidt",
+   "venue": "Thirty-fifth Conference on Neural Information Processing Systems Datasets …",
+   "year": "2021"
+  },
+  {
+   "title": "Recent developments in the sparse Fourier transform: A compressed Fourier transform for big data",
+   "authors": "AC Gilbert, P Indyk, M Iwen, L Schmidt",
+   "venue": "IEEE Signal Processing Magazine 31 (5), 91-100",
+   "year": "2014"
+  },
+  {
+   "title": "The effect of natural distribution shift on question answering models",
+   "authors": "J Miller, K Krauth, B Recht, L Schmidt",
+   "venue": "International Conference on Machine Learning, 6905-6916",
+   "year": "2020"
+  },
+  {
+   "title": "OpenThoughts: Data Recipes for Reasoning Models",
+   "authors": "E Guha, R Marten, S Keh, N Raoof, G Smyrnis, H Bansal, M Nezhurina, ...",
+   "venue": "arXiv preprint arXiv:2506.04178",
+   "year": "2025"
+  },
+  {
+   "title": "Improving multimodal datasets with image captioning",
+   "authors": "T Nguyen, SY Gadre, G Ilharco, S Oh, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "Benchmarking distribution shift in tabular data with tableshift",
+   "authors": "J Gardner, Z Popovic, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "Why are Visually-Grounded Language Models Bad at Image Classification?",
+   "authors": "Y Zhang, A Unell, X Wang, D Ghosh, Y Su, L Schmidt, S Yeung-Levy",
+   "venue": "arXiv preprint arXiv:2405.18415",
+   "year": "2024"
+  },
+  {
+   "title": "Quality not quantity: On the interaction between dataset design and robustness of clip",
+   "authors": "T Nguyen, G Ilharco, M Wortsman, S Oh, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 35, 21455-21469",
+   "year": "2022"
+  },
+  {
+   "title": "Stable and low-precision training for large-scale vision-language models",
+   "authors": "M Wortsman, T Dettmers, L Zettlemoyer, A Morcos, A Farhadi, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 36, 10271-10298",
+   "year": "2023"
+  },
+  {
+   "title": "Language models scale reliably with over-training and on downstream tasks",
+   "authors": "SY Gadre, G Smyrnis, V Shankar, S Gururangan, M Wortsman, R Shao, ...",
+   "venue": "arXiv preprint arXiv:2403.08540",
+   "year": "2024"
+  },
+  {
+   "title": "On the limitations of first order approximation in GAN dynamics",
+   "authors": "J Li, A Madry, J Peebles, L Schmidt",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Breaking common sense: Whoops! a vision-and-language benchmark of synthetic and compositional images",
+   "authors": "N Bitton-Guetta, Y Bitton, J Hessel, L Schmidt, Y Elovici, G Stanovsky, ...",
+   "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision …",
+   "year": "2023"
+  },
+  {
+   "title": "A nearly-linear time framework for graph-structured sparsity",
+   "authors": "C Hegde, P Indyk, L Schmidt",
+   "venue": "International Conference on Machine Learning, 928-937",
+   "year": "2015"
+  },
+  {
+   "title": "Clip on wheels: Zero-shot object navigation as object localization and exploration",
+   "authors": "SY Gadre, M Wortsman, G Ilharco, L Schmidt, S Song",
+   "venue": "arXiv preprint arXiv:2203.10421 3 (4), 7",
+   "year": "2022"
+  },
+  {
+   "title": "Do image classifiers generalize across time?",
+   "authors": "V Shankar, A Dave, R Roelofs, D Ramanan, B Recht, L Schmidt",
+   "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision …",
+   "year": "2021"
+  },
+  {
+   "title": "Visit-bench: A benchmark for vision-language instruction following inspired by real-world use",
+   "authors": "Y Bitton, H Bansal, J Hessel, R Shao, W Zhu, A Awadalla, J Gardner, ...",
+   "venue": "arXiv preprint arXiv:2308.06595",
+   "year": "2023"
+  },
+  {
+   "title": "Laion-5b: An open large-scale dataset for training next generation image-text models, 2022",
+   "authors": "C Schuhmann, R Beaumont, R Vencu, C Gordon, R Wightman, M Cherti, ...",
+   "venue": "URL https://arxiv. org/abs/2210.08402",
+   "year": "2022"
+  },
+  {
+   "title": "Approximation algorithms for model-based compressive sensing",
+   "authors": "C Hegde, P Indyk, L Schmidt",
+   "venue": "IEEE Transactions on Information Theory 61 (9), 5129-5147",
+   "year": "2015"
+  },
+  {
+   "title": "Neural kernels without tangents",
+   "authors": "V Shankar, A Fang, W Guo, S Fridovich-Keil, J Ragan-Kelley, L Schmidt, ...",
+   "venue": "International Conference on Machine Learning, 8614-8623",
+   "year": "2020"
+  },
+  {
+   "title": "Large Scale Transfer Learning for Tabular Data via Language Modeling",
+   "authors": "J Gardner, JC Perdomo, L Schmidt",
+   "venue": "arXiv preprint arXiv:2406.12031",
+   "year": "2024"
+  },
+  {
+   "title": "Sample-optimal density estimation in nearly-linear time",
+   "authors": "J Acharya, I Diakonikolas, J Li, L Schmidt",
+   "venue": "Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …",
+   "year": "2017"
+  },
+  {
+   "title": "A classification-based study of covariate shift in gan distributions",
+   "authors": "S Santurkar, L Schmidt, A Madry",
+   "venue": "International Conference on Machine Learning, 4480-4489",
+   "year": "2018"
+  },
+  {
+   "title": "Resolving discrepancies in compute-optimal scaling of language models",
+   "authors": "T Porian, M Wortsman, J Jitsev, L Schmidt, Y Carmon",
+   "venue": "Advances in Neural Information Processing Systems 37, 100535-100570",
+   "year": "2025"
+  },
+  {
+   "title": "Trends in circumventing web-malware detection",
+   "authors": "M Rajab, L Ballard, N Jagpal, P Mavrommatis, D Nojiri, N Provos, ...",
+   "venue": "Google, Google Technical Report 168",
+   "year": "2011"
+  },
+  {
+   "title": "Differentially private learning of structured discrete distributions",
+   "authors": "I Diakonikolas, M Hardt, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 28, 2566-2574",
+   "year": "2015"
+  },
+  {
+   "title": "Fast and near-optimal algorithms for approximating distributions by histograms",
+   "authors": "J Acharya, I Diakonikolas, C Hegde, JZ Li, L Schmidt",
+   "venue": "Proceedings of the 34th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …",
+   "year": "2015"
+  },
+  {
+   "title": "Large-scale speaker identification",
+   "authors": "L Schmidt, M Sharifi, IL Moreno",
+   "venue": "2014 IEEE International conference on acoustics, speech and signal …",
+   "year": "2014"
+  },
+  {
+   "title": "Model similarity mitigates test set overuse",
+   "authors": "H Mania, J Miller, L Schmidt, M Hardt, B Recht",
+   "venue": "Advances in Neural Information Processing Systems, 9993-10002",
+   "year": "2019"
+  },
+  {
+   "title": "Harder or different? a closer look at distribution shift in dataset reproduction",
+   "authors": "S Lu, B Nott, A Olson, A Todeschini, H Vahabi, Y Carmon, L Schmidt",
+   "venue": "ICML Workshop on Uncertainty and Robustness in Deep Learning",
+   "year": "2020"
+  },
+  {
+   "title": "Contrasting Contrastive Self-Supervised Representation Learning Pipelines",
+   "authors": "K Kotar, G Ilharco, L Schmidt, K Ehsani, R Mottaghi",
+   "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision …",
+   "year": "2021"
+  },
+  {
+   "title": "Robust and proper learning for mixtures of gaussians via systems of polynomial inequalities",
+   "authors": "J Li, L Schmidt",
+   "venue": "Conference on Learning Theory, 1302-1382",
+   "year": "2017"
+  },
+  {
+   "title": "Does progress on ImageNet transfer to real-world datasets?",
+   "authors": "A Fang, S Kornblith, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "Mint-1t: Scaling open-source multimodal data by 10x: A multimodal dataset with one trillion tokens",
+   "authors": "A Awadalla, L Xue, O Lo, M Shu, H Lee, EK Guha, S Shen, M Awadalla, ...",
+   "venue": "The Thirty-eight Conference on Neural Information Processing Systems …",
+   "year": "2024"
+  },
+  {
+   "title": "On the fine-grained complexity of empirical risk minimization: Kernel methods and neural networks",
+   "authors": "A Backurs, P Indyk, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 30, 4308-4318",
+   "year": "2017"
+  },
+  {
+   "title": "On the connection between pre-training data diversity and fine-tuning robustness",
+   "authors": "V Ramanujan, T Nguyen, S Oh, A Farhadi, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "A Sober Look at the Robustness of CLIPs to Spurious Features",
+   "authors": "Q Wang, Y Lin, Y Chen, L Schmidt, B Han, T Zhang",
+   "venue": "The Thirty-eighth Annual Conference on Neural Information Processing Systems",
+   "year": null
+  },
+  {
+   "title": "Communication-efficient distributed learning of discrete distributions",
+   "authors": "I Diakonikolas, E Grigorescu, J Li, A Natarajan, K Onak, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 30, 6391-6401",
+   "year": "2017"
+  },
+  {
+   "title": "Better approximations for tree sparsity in nearly-linear time",
+   "authors": "A Backurs, P Indyk, L Schmidt",
+   "venue": "Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …",
+   "year": "2017"
+  },
+  {
+   "title": "A fast approximation algorithm for tree-sparse recovery",
+   "authors": "C Hegde, P Indyk, L Schmidt",
+   "venue": "2014 IEEE International Symposium on Information Theory, 1842-1846",
+   "year": "2014"
+  },
+  {
+   "title": "Recycling the Web: A Method to Enhance Pre-training Data Quality and Quantity for Language Models",
+   "authors": "T Nguyen, Y Li, O Golovneva, L Zettlemoyer, S Oh, L Schmidt, X Li",
+   "venue": "arXiv preprint arXiv:2506.04689",
+   "year": "2025"
+  },
+  {
+   "title": "Fast algorithms for segmented regression",
+   "authors": "J Acharya, I Diakonikolas, J Li, L Schmidt",
+   "venue": "International Conference on Machine Learning, 2878-2886",
+   "year": "2016"
+  },
+  {
+   "title": "Getting it right: Improving spatial consistency in text-to-image models",
+   "authors": "A Chatterjee, GBM Stan, E Aflalo, S Paul, D Ghosh, T Gokhale, L Schmidt, ...",
+   "venue": "European Conference on Computer Vision, 204-222",
+   "year": "2025"
+  },
+  {
+   "title": "Subgroup robustness grows on trees: An empirical baseline investigation",
+   "authors": "J Gardner, Z Popovic, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 35, 9939-9954",
+   "year": "2022"
+  },
+  {
+   "title": "Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation",
+   "authors": "Y Zhang, Y Su, Y Liu, X Wang, J Burgess, E Sui, C Wang, J Aklilu, ...",
+   "venue": "arXiv preprint arXiv:2501.03225",
+   "year": "2025"
+  },
+  {
+   "title": "The Role of Pre-training Data in Transfer Learning",
+   "authors": "R Entezari, M Wortsman, O Saukh, MM Shariatnia, H Sedghi, L Schmidt",
+   "venue": "arXiv preprint arXiv:2302.13602",
+   "year": "2023"
+  },
+  {
+   "title": "Multilingual diversity improves vision-language representations",
+   "authors": "T Nguyen, M Wallingford, S Santy, WC Ma, S Oh, L Schmidt, PWW Koh, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 91430-91459",
+   "year": "2025"
+  },
+  {
+   "title": "A fast, adaptive variant of the Goemans-Williamson scheme for the prize-collecting Steiner tree problem",
+   "authors": "C Hegde, P Indyk, L Schmidt",
+   "venue": "Workshop of the 11th DIMACS Implementation Challenge. Providence, Rhode …",
+   "year": "2014"
+  },
+  {
+   "title": "Characterizing generalization under out-of-distribution shifts in deep metric learning",
+   "authors": "T Milbich, K Roth, S Sinha, L Schmidt, M Ghassemi, B Ommer",
+   "venue": "Advances in Neural Information Processing Systems 34",
+   "year": "2021"
+  },
+  {
+   "title": "The constrained earth mover distance model, with applications to compressive sensing",
+   "authors": "L Schmidt, C Hegde, P Indyk",
+   "venue": "10th Intl. Conf. on Sampling Theory and Appl.(SAMPTA)",
+   "year": "2013"
+  },
+  {
+   "title": "Effective robustness against natural distribution shifts for models with different training data",
+   "authors": "Z Shi, N Carlini, A Balashankar, L Schmidt, CJ Hsieh, A Beutel, Y Qin",
+   "venue": "Advances in Neural Information Processing Systems 36, 73543-73558",
+   "year": "2023"
+  },
+  {
+   "title": "Fast and sample near-optimal algorithms for learning multidimensional histograms",
+   "authors": "I Diakonikolas, J Li, L Schmidt",
+   "venue": "Conference On Learning Theory, 819-842",
+   "year": "2018"
+  },
+  {
+   "title": "Nearly linear-time model-based compressive sensing",
+   "authors": "C Hegde, P Indyk, L Schmidt",
+   "venue": "International Colloquium on Automata, Languages, and Programming, 588-599",
+   "year": "2014"
+  },
+  {
+   "title": "Fast recovery from a union of subspaces",
+   "authors": "C Hegde, P Indyk, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 29",
+   "year": "2016"
+  },
+  {
+   "title": "Neural priming for sample-efficient adaptation",
+   "authors": "M Wallingford, V Ramanujan, A Fang, A Kusupati, R Mottaghi, ...",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "Visit-bench: A dynamic benchmark for evaluating instruction-following vision-and-language models",
+   "authors": "Y Bitton, H Bansal, J Hessel, R Shao, W Zhu, A Awadalla, J Gardner, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 26898-26922",
+   "year": "2023"
+  },
+  {
+   "title": "Fast algorithms for structured sparsity",
+   "authors": "C Hegde, P Indyk, L Schmidt",
+   "venue": "Bulletin of EATCS 3 (117)",
+   "year": "2015"
+  },
+  {
+   "title": "Seismic feature extraction using Steiner tree methods",
+   "authors": "L Schmidt, C Hegde, P Indyk, L Lu, X Chi, D Hohl",
+   "venue": "2015 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2015"
+  },
+  {
+   "title": "Detecting clinical medication errors with AI enabled wearable cameras",
+   "authors": "J Chan, S Nsumba, M Wortsman, A Dave, L Schmidt, S Gollakota, ...",
+   "venue": "NPJ Digital Medicine 7 (1), 287",
+   "year": "2024"
+  },
+  {
+   "title": "NitroGen: An Open Foundation Model for Generalist Gaming Agents",
+   "authors": "L Magne, A Awadalla, G Wang, Y Xu, J Belofsky, F Hu, J Kim, L Schmidt, ...",
+   "venue": "arXiv preprint arXiv:2601.02427",
+   "year": "2026"
+  },
+  {
+   "title": "Data or Language Supervision: What Makes CLIP Better than DINO?",
+   "authors": "Y Liu, Y Zhang, D Ghosh, L Schmidt, S Yeung-Levy",
+   "venue": "arXiv preprint arXiv:2510.11835",
+   "year": "2025"
+  },
+  {
+   "title": "Blip-3: A family of open large multimodal models",
+   "authors": "L Xue, M Shu, A Awadalla, J Wang, A Yan, S Purushwalkam, H Zhou, ...",
+   "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision …",
+   "year": "2025"
+  },
+  {
+   "title": "BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions",
+   "authors": "A Awadalla, L Xue, M Shu, A Yan, J Wang, S Purushwalkam, S Shen, ...",
+   "venue": "arXiv preprint arXiv:2411.07461",
+   "year": "2024"
+  },
+  {
+   "title": "Better Alignment with Instruction Back-and-Forth Translation",
+   "authors": "T Nguyen, J Li, S Oh, L Schmidt, J Weston, L Zettlemoyer, X Li",
+   "venue": "arXiv preprint arXiv:2408.04614",
+   "year": "2024"
+  },
+  {
+   "title": "Adversarial scrutiny of evidentiary statistical software",
+   "authors": "R Abebe, M Hardt, A Jin, J Miller, L Schmidt, R Wexler",
+   "venue": "Proceedings of the 2022 ACM Conference on Fairness, Accountability, and …",
+   "year": "2022"
+  },
+  {
+   "title": "Characterizing the Impacts of Semi-supervised Learning for Weak Supervision",
+   "authors": "J Li, J Zhang, L Schmidt, AJ Ratner",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "Exploring The Landscape of Distributional Robustness for Question Answering Models",
+   "authors": "A Awadalla, M Wortsman, G Ilharco, S Min, I Magnusson, H Hajishirzi, ...",
+   "venue": "arXiv preprint arXiv:2210.12517",
+   "year": "2022"
+  },
+  {
+   "title": "Automatic fault localization using the generalized Earth Mover's distance",
+   "authors": "L Schmidt, C Hegde, P Indyk, J Kane, L Lu, D Hohl",
+   "venue": "2014 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2014"
+  },
+  {
+   "title": "Closing the Modality Gap for Mixed Modality Search",
+   "authors": "B Li, Y Zhang, X Wang, W Liang, L Schmidt, S Yeung-Levy",
+   "venue": "arXiv preprint arXiv:2507.19054",
+   "year": "2025"
+  },
+  {
+   "title": "Homekit2020: A benchmark for time series classification on a large mobile sensing dataset with laboratory tested ground truth of influenza infections",
+   "authors": "MA Merrill, E Safranchik, A Kolbeinsson, P Gade, E Ramirez, L Schmidt, ...",
+   "venue": "Conference on Health, Inference, and Learning, 207-228",
+   "year": "2023"
+  },
+  {
+   "title": "Do CLIPs Always Generalize Better than ImageNet Models?",
+   "authors": "Q Wang, Y Lin, Y Chen, L Schmidt, B Han, T Zhang",
+   "venue": "arXiv preprint arXiv:2403.11497",
+   "year": "2024"
+  },
+  {
+   "title": "CodeClash: Benchmarking Goal-Oriented Software Engineering",
+   "authors": "J Yang, K Lieret, J Yang, CE Jimenez, O Press, L Schmidt, D Yang",
+   "venue": "arXiv preprint arXiv:2511.00839",
+   "year": "2025"
+  },
+  {
+   "title": "OLMoASR: Open Models and Data for Training Robust Speech Recognition Models",
+   "authors": "H Ngo, M Deitke, M Bartelds, S Pratt, J Gardner, M Jordan, L Schmidt",
+   "venue": "arXiv preprint arXiv:2508.20869",
+   "year": "2025"
+  },
+  {
+   "title": "Datasets, Documents, and Repetitions: The Practicalities of Unequal Data Quality",
+   "authors": "A Fang, H Pouransari, M Jordan, A Toshev, V Shankar, L Schmidt, ...",
+   "venue": "arXiv preprint arXiv:2503.07879",
+   "year": "2025"
+  },
+  {
+   "title": "Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining",
+   "authors": "J Li, J Gardner, D Kang, F Shi, K Singh, CL Li, H Shandilya, D Hall, ...",
+   "venue": "arXiv preprint arXiv:2602.19548",
+   "year": "2026"
+  },
+  {
+   "title": "Helioviewer. org: browsing very large image archives online using JPEG 2000",
+   "authors": "VK Hughitt, J Ireland, D Mueller, G Dimitoglou, J Garcia Ortiz, L Schmidt, ...",
+   "venue": "AGU Fall Meeting Abstracts",
+   "year": "2009"
+  },
+  {
+   "title": "lo-fi: distributed fine-tuning without communication",
+   "authors": "M Wortsman, S Gururangan, S Li, A Farhadi, L Schmidt, M Rabbat, ...",
+   "venue": "arXiv preprint arXiv:2210.11948",
+   "year": "2022"
+  },
+  {
+   "title": "Position: Humans are Missing from AI Coding Agent Research",
+   "authors": "ZZ Wang, J Yang, K Lieret, A Tartaglini, V Chen, Y Wei, ZWL Zhang, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Concept-Aware Batch Sampling Improves Language-Image Pretraining",
+   "authors": "A Ghosh, V Udandarao, T Nguyen, M Farina, M Cherti, J Jitsev, S Oh, ...",
+   "venue": "arXiv preprint arXiv:2511.20643",
+   "year": "2025"
+  },
+  {
+   "title": "How well do contrastively trained models transfer?",
+   "authors": "MM Shariatnia, R Entezari, M Wortsman, O Saukh, L Schmidt",
+   "venue": "First Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward at …",
+   "year": "2022"
+  },
+  {
+   "title": "Algorithms above the noise floor.",
+   "authors": "L Schmidt",
+   "venue": "Massachusetts Institute of Technology, Cambridge, USA",
+   "year": "2018"
+  },
+  {
+   "title": "Greedy Strategies for Data-adaptive Shot Selection",
+   "authors": "M Araya-Polo, C Hegde, P Indyk, L Schmidt",
+   "venue": "77th EAGE Conference and Exhibition 2015",
+   "year": "2015"
+  },
+  {
+   "title": "Why External Validity Matters for Machine Learning Evaluation: Motivation and Open Problems",
+   "authors": "TI Liao, R Taori, L Schmidt",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Graph-Sparse Logistic Regression",
+   "authors": "A LeNail, L Schmidt, J Li, T Ehrenberger, K Sachs, S Jegelka, E Fraenkel",
+   "venue": "arXiv preprint arXiv:1712.05510",
+   "year": "2017"
+  },
+  {
+   "title": "Understanding the Fine-Grained Knowledge Capabilities of Vision-Language Models",
+   "authors": "D Ghosh, Y Zhang, L Schmidt",
+   "venue": "arXiv preprint arXiv:2602.17871",
+   "year": "2026"
+  },
+  {
+   "title": "Reusing Pre-Training Data at Test Time is a Compute Multiplier",
+   "authors": "A Fang, T Voice, R Pang, L Schmidt, T Gunter",
+   "venue": "arXiv preprint arXiv:2511.04234",
+   "year": "2025"
+  },
+  {
+   "title": "PRISM-Physics: Causal DAG-Based Process Evaluation for Physics Reasoning",
+   "authors": "W Zhao, Q Ma, J Shi, S Wu, J Han, Y Xiao, SY Chen, X Luo, L Schmidt, ...",
+   "venue": "arXiv preprint arXiv:2510.03185",
+   "year": "2025"
+  },
+  {
+   "title": "Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs",
+   "authors": "C Schuhmann, G Rabby, A Prabhu, T Ahmed, A Hochlehnert, H Nguyen, ...",
+   "venue": "arXiv preprint arXiv:2502.19413",
+   "year": "2025"
+  },
+  {
+   "title": "CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation",
+   "authors": "S Yitzhak Gadre, M Wortsman, G Ilharco, L Schmidt, S Song",
+   "venue": "arXiv e-prints, arXiv: 2203.10421",
+   "year": "2022"
+  },
+  {
+   "title": "In a forward direction: Analyzing distribution shifts in machine translation test sets over time",
+   "authors": "T Liao, B Recht, L Schmidt",
+   "venue": "ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning",
+   "year": "2020"
+  },
+  {
+   "title": "A fast algorithm for separated sparsity via perturbed lagrangians",
+   "authors": "A Madry, S Mitrovic, L Schmidt",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 20-28",
+   "year": "2018"
+  },
+  {
+   "title": "Shot encoding with random projections",
+   "authors": "L Schmidt, P Indyk, C Chen, A St-Cyr, D Hohl",
+   "venue": "2013 SEG Annual Meeting",
+   "year": "2013"
+  },
+  {
+   "title": "The Helioviewer Project: Browsing, Visualizing and Accessing Petabytes of Solar Data",
+   "authors": "D Mueller, VK Hughitt, M Langenberg, J Ireland, S Pagel, L Schmidt, ...",
+   "venue": "American Astronomical Society Meeting Abstracts# 216 216, 402.23",
+   "year": "2010"
+  },
+  {
+   "title": "Anchored Self-Play for Code Repair",
+   "authors": "C Choi, ZN Kaya, S Wu, T Ma, T Hashimoto, L Schmidt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Two mathematical models of knowledge distillation",
+   "authors": "A Xie, L Schmidt, J Duchi",
+   "venue": "The 29th International Conference on Artificial Intelligence and Statistics",
+   "year": null
+  },
+  {
+   "title": "DSL-Monkeys: Self-Generated In-Context Examples for Low-Resource GPU DSL Kernels",
+   "authors": "N Paek, S Guo, V Sarukkai, W Chan, W Hu, E Boneh, S Arora, L Schmidt, ...",
+   "venue": "Third Workshop on Test-Time Updates (Main Track)",
+   "year": null
+  },
+  {
+   "title": "Should VLMs be Pre-trained with Image Data?",
+   "authors": "S Keh, J Mercat, SY Gadre, K Arora, I Vasiljevic, B Burchfiel, S Song, ...",
+   "venue": "The Thirteenth International Conference on Learning Representations",
+   "year": null
+  },
+  {
+   "title": "Data Curation for Large Scale Detection Pretraining",
+   "authors": "V Ramanujan, H Zhang, Y Yang, A Farhadi, AT Toshev, L Schmidt, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the Connection between Pre-training Data Diversity and Robustness",
+   "authors": "V Ramanujan, T Nguyen, L Schmidt, A Farhadi",
+   "venue": "First Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward at …",
+   "year": null
+  },
+  {
+   "title": "The Helioviewer Project",
+   "authors": "DAN Müller, VK Hughitt, M Langenberg, J Ireland, S Pagel, L Schmidt, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Language models scale reliably with over-training and on downstream tasks",
+   "authors": "S Yitzhak Gadre, G Smyrnis, V Shankar, S Gururangan, M Wortsman, ...",
+   "venue": "arXiv e-prints, arXiv: 2403.08540",
+   "year": "2024"
+  },
+  {
+   "title": "Characterizing the impacts of semi-supervised learning for programmatic weak supervision",
+   "authors": "J Li, J Zhang, L Schmidt, A Ratner",
+   "venue": "Proceedings of the 37th International Conference on Neural Information …",
+   "year": "2023"
+  },
+  {
+   "title": "Learning Representations for Faster Similarity Search",
+   "authors": "L Schmidt, K Talwar",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "JHelioviewer: Open-Source Software for Discovery and Image Access in the Petabyte Age",
+   "authors": "D Mueller, G Dimitoglou, J Garcia Ortiz, M Langenberg, M Nuhn, A Dau, ...",
+   "venue": "AGU Fall Meeting Abstracts 2011, ED53B-0789",
+   "year": "2011"
+  },
+  {
+   "title": "JHelioviewer: Open-Source Software for Discovery and Image Access in the Petabyte Age",
+   "authors": "D Mueller, G Dimitoglou, M Langenberg, S Pagel, A Dau, M Nuhn, ...",
+   "venue": "AGU Fall Meeting Abstracts",
+   "year": "2010"
+  },
+  {
+   "title": "Solar Mashups: Interacting With, Extending, And Embedding Helioviewer. org And Jhelioviewer",
+   "authors": "VK Hughitt, J Ireland, D Müller, M Langenberg, S Pagel, L Schmidt, ...",
+   "venue": "Bulletin of the American Astronomical Society 41, 877",
+   "year": "2010"
+  },
+  {
+   "title": "JHelioviewer: Taming The Torrent Of SDO Data",
+   "authors": "D Mueller, M Langenberg, S Pagel, L Schmidt, JP Garcia Ortiz, ...",
+   "venue": "American Astronomical Society Meeting Abstracts# 216 216, 402.24",
+   "year": "2010"
+  },
+  {
+   "title": "JHelioviewer: Exploring Petabytes of Solar Images",
+   "authors": "D Mueller, B Fleck, G Dimitoglou, JP Garcia Ortiz, L Schmidt, K Hughitt, ...",
+   "venue": "38th COSPAR Scientific Assembly 38, 8",
+   "year": "2010"
+  },
+  {
+   "title": "A Novel Approach to Discovery and Image Access in the Petabyte Age",
+   "authors": "D Mueller, G Dimitoglou, A Alexanderian, J Garcia Ortiz, L Schmidt, ...",
+   "venue": "AGU Fall Meeting Abstracts",
+   "year": "2009"
+  },
+  {
+   "title": "[Short] DSL-Monkeys: Self-Generated In-Context Examples for Low-Resource GPU DSL Kernels",
+   "authors": "N Paek, S Guo, V Sarukkai, W Chan, W Hu, E Boneh, S Arora, L Schmidt, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "JHelioviewer",
+   "authors": "DAN Müller, M Langenberg, S Pagel, L Schmidt, JPG Ortiz, G Dimitoglou, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Data Subset Selection via Machine Teaching",
+   "authors": "S Mussmann, A Fang, L Schmidt, K Jamieson",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Homekit2020: A Time Series Classification Benchmark for Influenza Prediction Using Wearable Devices",
+   "authors": "MA Merrill, A Kolbeinsson, P Gade, E Ramirez, L Schmidt, L Foschini, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Neural Kernels Without Tangents Download PDF",
+   "authors": "V Shankar, A Fang, W Guo, S Fridovich-Keil, L Schmidt, J Ragan-Kelley, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Fast Algorithms for Structured Sparsity (ICALP 2015 Invited Tutorial)",
+   "authors": "C Hegde, P Indyk, L Schmidt",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Efficiently Optimizing over (Non-Convex) Cones via Approximate Projections",
+   "authors": "MB Cohen, C Hegde, S Jegelka, L Schmidt",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

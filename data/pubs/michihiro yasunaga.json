@@ -1,0 +1,395 @@
+{
+ "user": "SieJYoEAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2022"
+  },
+  {
+   "title": "Spider: A large-scale human-labeled dataset for complex and cross-domain semantic parsing and text-to-sql task",
+   "authors": "T Yu, R Zhang, K Yang, M Yasunaga, D Wang, Z Li, J Ma, I Li, Q Yao, ...",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Wilds: A benchmark of in-the-wild distribution shifts",
+   "authors": "PW Koh, S Sagawa, H Marklund, SM Xie, M Zhang, A Balsubramani, ...",
+   "venue": "International conference on machine learning, 5637-5664",
+   "year": "2021"
+  },
+  {
+   "title": "Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments",
+   "authors": "T Xie, D Zhang, J Chen, X Li, S Zhao, R Cao, TJ Hua, Z Cheng, D Shin, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 52040-52094",
+   "year": "2024"
+  },
+  {
+   "title": "Replug: Retrieval-augmented black-box language models",
+   "authors": "W Shi, S Min, M Yasunaga, M Seo, R James, M Lewis, L Zettlemoyer, ...",
+   "venue": "Proceedings of the 2024 conference of the north american chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering",
+   "authors": "M Yasunaga, H Ren, A Bosselut, P Liang, J Leskovec",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+   "authors": "C Qin, A Zhang, Z Zhang, J Chen, M Yasunaga, D Yang",
+   "venue": "arXiv preprint arXiv:2302.06476",
+   "year": "2023"
+  },
+  {
+   "title": "Chameleon: Mixed-modal early-fusion foundation models",
+   "authors": "C Team",
+   "venue": "arXiv preprint arXiv:2405.09818",
+   "year": "2024"
+  },
+  {
+   "title": "Hipporag: Neurobiologically inspired long-term memory for large language models",
+   "authors": "BJ Gutiérrez, Y Shu, Y Gu, M Yasunaga, Y Su",
+   "venue": "Advances in neural information processing systems 37, 59532-59569",
+   "year": "2024"
+  },
+  {
+   "title": "Med-flamingo: a multimodal medical few-shot learner",
+   "authors": "M Moor, Q Huang, S Wu, M Yasunaga, Y Dalmia, J Leskovec, C Zakka, ...",
+   "venue": "Machine learning for health (ML4H), 353-367",
+   "year": "2023"
+  },
+  {
+   "title": "LinkBERT: Pretraining Language Models with Document Links",
+   "authors": "M Yasunaga, J Leskovec, P Liang",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Transfusion: Predict the next token and diffuse images with one multi-modal model",
+   "authors": "C Zhou, L Yu, A Babu, K Tirumala, M Yasunaga, L Shamis, J Kahn, X Ma, ...",
+   "venue": "International Conference on Learning Representations 2025, 6446-6469",
+   "year": "2025"
+  },
+  {
+   "title": "GreaseLM: Graph REASoning Enhanced Language Models for Question Answering",
+   "authors": "X Zhang, A Bosselut, M Yasunaga, H Ren, P Liang, CD Manning, ...",
+   "venue": "International Conference on Learning Representations",
+   "year": "2022"
+  },
+  {
+   "title": "Unifiedskg: Unifying and multi-tasking structured knowledge grounding with text-to-text language models",
+   "authors": "T Xie, CH Wu, P Shi, R Zhong, T Scholak, M Yasunaga, CS Wu, M Zhong, ...",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Deep Bidirectional Language-Knowledge Graph Pretraining",
+   "authors": "M Yasunaga, A Bosselut, H Ren, X Zhang, CD Manning, P Liang, ...",
+   "venue": "Advances in Neural Information Processing Systems",
+   "year": "2022"
+  },
+  {
+   "title": "Biomedlm: A 2.7 b parameter language model trained on biomedical text",
+   "authors": "E Bolton, A Venigalla, M Yasunaga, D Hall, B Xiong, T Lee, R Daneshjou, ...",
+   "venue": "arXiv preprint arXiv:2403.18421",
+   "year": "2024"
+  },
+  {
+   "title": "Graph-based Neural Multi-Document Summarization",
+   "authors": "M Yasunaga, R Zhang, K Meelu, A Pareek, K Srinivasan, D Radev",
+   "venue": "Proceedings of the 21st Conference on Computational Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "SParC: Cross-Domain Semantic Parsing in Context",
+   "authors": "T Yu, R Zhang, M Yasunaga, YC Tan, XV Lin, S Li, H Er, I Li, B Pang, ...",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Retrieval-Augmented Multimodal Language Modeling",
+   "authors": "M Yasunaga, A Aghajanyan, W Shi, R James, J Leskovec, P Liang, ...",
+   "venue": "Proceedings of the 40th International Conference on Machine Learning",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic evaluation of text-to-image models",
+   "authors": "T Lee*, M Yasunaga*, C Meng*, Y Mai, JS Park, A Gupta, Y Zhang, ...",
+   "venue": "Advances in Neural Information Processing Systems 36",
+   "year": "2024"
+  },
+  {
+   "title": "SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task",
+   "authors": "T Yu, M Yasunaga, K Yang, R Zhang, D Wang, Z Li, D Radev",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks",
+   "authors": "M Yasunaga, J Kasai, R Zhang, AR Fabbri, I Li, D Friedman, DR Radev",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 7386 …",
+   "year": "2019"
+  },
+  {
+   "title": "Graph-based, Self-Supervised Program Repair from Diagnostic Feedback",
+   "authors": "M Yasunaga, P Liang",
+   "venue": "Proceedings of the 37th International Conference on Machine Learning",
+   "year": "2020"
+  },
+  {
+   "title": "Large language models as analogical reasoners",
+   "authors": "M Yasunaga, X Chen, Y Li, P Pasupat, J Leskovec, P Liang, EH Chi, ...",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2024"
+  },
+  {
+   "title": "CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases",
+   "authors": "T Yu, R Zhang, HY Er, S Li, E Xue, B Pang, XV Lin, YC Tan, T Shi, Z Li, ...",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL)",
+   "authors": "MK Chandrasekaran, P Mayr, M Yasunaga, D Freitag, D Radev, MY Kan",
+   "venue": "Proceedings of the 42nd International ACM SIGIR Conference on Research and …",
+   "year": "2019"
+  },
+  {
+   "title": "Robust Multilingual Part-of-Speech Tagging via Adversarial Training",
+   "authors": "M Yasunaga, J Kasai, D Radev",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Extending the wilds benchmark for unsupervised adaptation",
+   "authors": "S Sagawa, PW Koh, T Lee, I Gao, SM Xie, K Shen, A Kumar, W Hu, ...",
+   "venue": "International Conference on Learning Representations",
+   "year": "2021"
+  },
+  {
+   "title": "Break-It-Fix-It: Unsupervised Learning for Program Repair",
+   "authors": "M Yasunaga, P Liang",
+   "venue": "Proceedings of the 38th International Conference on Machine Learning",
+   "year": "2021"
+  },
+  {
+   "title": "VQA-GNN: Reasoning with Multimodal Knowledge via Graph Neural Networks for Visual Question Answering",
+   "authors": "Y Wang, M Yasunaga, H Ren, S Wada, J Leskovec",
+   "venue": "arXiv preprint arXiv:2205.11501",
+   "year": "2022"
+  },
+  {
+   "title": "Avatar: Optimizing llm agents for tool usage via contrastive reasoning",
+   "authors": "S Wu, S Zhao, Q Huang, K Huang, M Yasunaga, K Cao, VN Ioannidis, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 25981-26010",
+   "year": "2024"
+  },
+  {
+   "title": "Lego: Latent execution-guided reasoning for multi-hop question answering on knowledge graphs",
+   "authors": "H Ren, H Dai, B Dai, X Chen, M Yasunaga, H Sun, D Schuurmans, ...",
+   "venue": "International conference on machine learning, 8959-8970",
+   "year": "2021"
+  },
+  {
+   "title": "Stark: Benchmarking llm retrieval on textual and relational knowledge bases",
+   "authors": "S Wu, S Zhao, M Yasunaga, K Huang, K Cao, Q Huang, VN Ioannidis, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 127129-127153",
+   "year": "2024"
+  },
+  {
+   "title": "Vhelm: A holistic evaluation of vision language models",
+   "authors": "T Lee, H Tu, CH Wong, W Zheng, Y Zhou, Y Mai, JS Roberts, M Yasunaga, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 140632-140666",
+   "year": "2024"
+  },
+  {
+   "title": "Nl-augmenter: A framework for task-sensitive natural language augmentation",
+   "authors": "K Dhole, V Gangal, S Gehrmann, A Gupta, Z Li, S Mahamood, ...",
+   "venue": "Northern European Journal of Language Technology 9",
+   "year": "2023"
+  },
+  {
+   "title": "Neural Coreference Resolution with Deep Biaffine Attention by Joint Mention Detection and Mention Clustering",
+   "authors": "R Zhang, CN dos Santos, M Yasunaga, B Xiang, D Radev",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "The CL-SciSumm Shared Task 2018: Results and Key Insights",
+   "authors": "K Jaidka, M Yasunaga, MK Chandrasekaran, D Radev, MY Kan",
+   "venue": "Proceedings of the 3rd Joint Workshop on Bibliometric-enhanced Information …",
+   "year": "2018"
+  },
+  {
+   "title": "LM-Critic: Language Models for Unsupervised Grammatical Error Correction",
+   "authors": "M Yasunaga, J Leskovec, P Liang",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Multimodal rewardbench: Holistic evaluation of reward models for vision language models",
+   "authors": "M Yasunaga, L Zettlemoyer, M Ghazvininejad",
+   "venue": "arXiv preprint arXiv:2502.14191",
+   "year": "2025"
+  },
+  {
+   "title": "Overview and Results: CL-SciSumm Shared Task 2019",
+   "authors": "MK Chandrasekaran, M Yasunaga, D Radev, D Freitag, MY Kan",
+   "venue": "Proceedings of the 4th Joint Workshop on Bibliometric-enhanced Information …",
+   "year": "2019"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "Insights from CL-SciSumm 2018: the faceted scientific document summarization Shared Task",
+   "authors": "K Jaidka, M Yasunaga, MK Chandrasekaran, D Radev, MY Kan",
+   "venue": "International Journal on Digital Libraries",
+   "year": "2018"
+  },
+  {
+   "title": "TopicEq: A Joint Topic and Mathematical Equation Model for Scientific Texts",
+   "authors": "M Yasunaga, JD Lafferty",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 7394-7401",
+   "year": "2019"
+  },
+  {
+   "title": "Med-easi: Finely annotated dataset and models for controllable simplification of medical texts",
+   "authors": "C Basu, R Vasu, M Yasunaga, Q Yang",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "year": "2023"
+  },
+  {
+   "title": "A Neural Topic-Attention Model for Medical Term Abbreviation Disambiguation",
+   "authors": "I Li, M Yasunaga, MY Nuzumlalı, C Caraballo, S Mahajan, H Krumholz, ...",
+   "venue": "Machine Learning for Health",
+   "year": "2019"
+  },
+  {
+   "title": "Image2struct: Benchmarking structure extraction for vision-language models",
+   "authors": "JS Roberts, T Lee, CH Wong, M Yasunaga, Y Mai, P Liang",
+   "venue": "Advances in Neural Information Processing Systems 37, 115058-115097",
+   "year": "2024"
+  },
+  {
+   "title": "Zero-shot causal learning",
+   "authors": "H Nilforoshan, M Moor, Y Roohani, Y Chen, A Šurina, M Yasunaga, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 6862-6901",
+   "year": "2023"
+  },
+  {
+   "title": "Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models",
+   "authors": "Y Zhang, M Yasunaga, Z Zhou, JZ HaoChen, J Zou, P Liang, S Yeung",
+   "venue": "arXiv preprint arXiv:2305.17311",
+   "year": "2023"
+  },
+  {
+   "title": "Cat: Content-adaptive image tokenization",
+   "authors": "J Shen, K Tirumala, M Yasunaga, I Misra, L Zettlemoyer, L Yu, C Zhou",
+   "venue": "Advances in Neural Information Processing Systems 38, 712-742",
+   "year": "2026"
+  },
+  {
+   "title": "rewordbench: Benchmarking and improving the robustness of reward models with transformed inputs",
+   "authors": "Z Wu, M Yasunaga, A Cohen, Y Kim, A Celikyilmaz, M Ghazvininejad",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Alma: Alignment with minimal annotation",
+   "authors": "M Yasunaga, L Shamis, C Zhou, A Cohen, J Weston, L Zettlemoyer, ...",
+   "venue": "arXiv preprint arXiv:2412.04305",
+   "year": "2024"
+  },
+  {
+   "title": "Complex Reasoning in Natural Language",
+   "authors": "W Zhao, M Geva, BY Lin, M Yasunaga, A Madaan, T Yu",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Predicting drug outcome of population via clinical knowledge graph",
+   "authors": "M Brbić, M Yasunaga, P Agarwal, J Leskovec",
+   "venue": "medRxiv",
+   "year": "2024"
+  },
+  {
+   "title": "Language models are graph learners",
+   "authors": "Z Xu, K Hassani, S Zhang, H Zeng, M Yasunaga, L Wang, D Fu, N Yao, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Automatic Medical Text Simplification: Challenges of Data Quality and Curation",
+   "authors": "C Basu, R Vasu, M Yasunaga, S Kim, Q Yang",
+   "venue": "AAAI-HUMAN.AI 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Dense Retrieval of Knowledge Graphs for Question Answering",
+   "authors": "SR Nangi, M Yasunaga, H Ren, Q Huang, P Liang, J Leskovec",
+   "venue": "Second Workshop on Knowledge Augmented Methods for Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Multimodal Foundation Models for Healthcare",
+   "authors": "M Yasunaga, P Liang",
+   "venue": "Artificial Intelligence in Neurosurgery, 4-13",
+   "year": "2027"
+  },
+  {
+   "title": "HealMed: Multilingual Evaluation of Large Language Models in Medicine",
+   "authors": "Y Chen, F Gao, ST Tong, H Zhang, A Feng, KW Jin, X Wu, J Lu, A Samad, ...",
+   "venue": "arXiv preprint arXiv:2608.19981",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the 3rd Workshop on Knowledge Augmented Methods for NLP",
+   "authors": "W Yu, W Shi, M Yasunaga, M Jiang, C Zhu, H Hajishirzi, L Zettlemoyer, ...",
+   "venue": "Proceedings of the 3rd Workshop on Knowledge Augmented Methods for NLP",
+   "year": "2024"
+  },
+  {
+   "title": "Fusing Multimodal Knowledge in Language Models",
+   "authors": "M Yasunaga",
+   "venue": "Stanford University",
+   "year": "2024"
+  },
+  {
+   "title": "Proceedings of the Workshop on Structured and Unstructured Knowledge Integration (SUKI)",
+   "authors": "W Chen, X Chen, Z Chen, Z Yao, M Yasunaga, T Yu, R Zhang",
+   "venue": "Proceedings of the Workshop on Structured and Unstructured Knowledge …",
+   "year": "2022"
+  },
+  {
+   "title": "How to Make LMs Strong Node Classifiers?",
+   "authors": "K Hassani, S Zhang, H Zeng, M Yasunaga, L Wang, D Fu, N Yao, B Long, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "EnsembleSync: Reliable Distributed SGD with Less Communication",
+   "authors": "M Xie, M Yasunaga",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

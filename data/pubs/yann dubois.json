@@ -1,0 +1,161 @@
+{
+ "user": "bfM1kzAAAAAJ",
+ "pubs": [
+  {
+   "title": "Stanford alpaca: An instruction-following llama model",
+   "authors": "R Taori*, I Gulrajani*, T Zhang*, Y Dubois*, X Li*, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Openai o1 system card",
+   "authors": "A Jaech, A Kalai, A Lerer, A Richardson, A El-Kishky, A Low, A Helyar, ...",
+   "venue": "arXiv preprint arXiv:2412.16720",
+   "year": "2024"
+  },
+  {
+   "title": "Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators",
+   "authors": "Y Dubois, B Galambosi, P Liang, TB Hashimoto",
+   "venue": "COLM",
+   "year": "2024"
+  },
+  {
+   "title": "AlpacaEval: An automatic evaluator of instruction-following models",
+   "authors": "X Li*, T Zhang*, Y Dubois*, R Taori*, I Gulrajani, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Openai gpt-5 system card",
+   "authors": "A Singh, A Fry, A Perelman, A Tart, A Ganesh, A El-Kishky, A McLaughlin, ...",
+   "venue": "arXiv preprint arXiv:2601.03267",
+   "year": "2025"
+  },
+  {
+   "title": "AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback",
+   "authors": "Y Dubois*, X Li*, R Taori*, T Zhang*, I Gulrajani, J Ba, C Guestrin, P Liang, ...",
+   "venue": "NeurIPS",
+   "year": "2023"
+  },
+  {
+   "title": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox",
+   "authors": "Y Ruan, H Dong, A Wang, S Pitis, Y Zhou, J Ba, Y Dubois, CJ Maddison, ...",
+   "venue": "ICLR",
+   "year": "2023"
+  },
+  {
+   "title": "Learning to (Learn at Test Time): RNNs with Expressive Hidden States",
+   "authors": "Y Sun, X Li, K Dalal, J Xu, A Vikram, G Zhang, Y Dubois, X Chen, X Wang, ...",
+   "venue": "arXiv preprint arXiv:2407.04620",
+   "year": "2024"
+  },
+  {
+   "title": "Convolutional Conditional Neural Processes",
+   "authors": "J Gordon, WP Bruinsma, AYK Foong, J Requeima, Y Dubois, RE Turner",
+   "venue": "ICLR",
+   "year": "2020"
+  },
+  {
+   "title": "Optimal Representations for Covariate Shifts",
+   "authors": "Y Ruan*, Y Dubois*, CJ Maddison",
+   "venue": "ICLR",
+   "year": "2021"
+  },
+  {
+   "title": "Apollo: An exploration of video understanding in large multimodal models",
+   "authors": "O Zohar, X Wang, Y Dubois, N Mehta, T Xiao, P Hansen-Estruch, L Yu, ...",
+   "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2025"
+  },
+  {
+   "title": "Lossy Compression for Lossless Prediction",
+   "authors": "Y Dubois, B Bloem-Reddy, K Ullrich, CJ Maddison",
+   "venue": "NeurIPS",
+   "year": "2021"
+  },
+  {
+   "title": "Meta-Learning Stationary Stochastic Process Prediction with Convolutional Neural Processes",
+   "authors": "AYK Foong, WP Bruinsma, J Gordon, Y Dubois, J Requeima, RE Turner",
+   "venue": "NeurIPS",
+   "year": "2020"
+  },
+  {
+   "title": "Learning Optimal Representations with the Decodable Information Bottleneck",
+   "authors": "Y Dubois, D Kiela, DJ Schwab, R Vedantam",
+   "venue": "NeurIPS",
+   "year": "2020"
+  },
+  {
+   "title": "Is a Caption Worth a Thousand Images? A Controlled Study for Representation Learning",
+   "authors": "S Santurkar, Y Dubois, R Taori, P Liang, T Hashimoto",
+   "venue": "ICLR",
+   "year": "2022"
+  },
+  {
+   "title": "Location Attention for Extrapolation to Longer Sequences",
+   "authors": "Y Dubois, G Dagan, D Hupkes, E Bruni",
+   "venue": "ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Improving Self-Supervised Learning by Characterizing Idealized Representations",
+   "authors": "Y Dubois, T Hashimoto, S Ermon, P Liang",
+   "venue": "NeurIPS",
+   "year": "2022"
+  },
+  {
+   "title": "Learning Instance-Specific Augmentations by Capturing Local Invariances",
+   "authors": "N Miao, T Rainforth, E Mathieu, Y Dubois, YW Teh, A Foster, H Kim",
+   "venue": "ICML",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating Self-Supervised Learning via Risk Decomposition",
+   "authors": "Y Dubois, T Hashimoto, P Liang",
+   "venue": "ICML",
+   "year": "2023"
+  },
+  {
+   "title": "Disentangling vae",
+   "authors": "Y Dubois, A Kastanos, D Lines, B Melman",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Ai-assisted Evaluation of Large Language Models",
+   "authors": "Y Dubois",
+   "venue": "Stanford University",
+   "year": "2025"
+  },
+  {
+   "title": "Neural process family",
+   "authors": "Y Dubois, J Gordon, AY Foong",
+   "venue": "yanndubs.github.io/Neural-Process-Family",
+   "year": "2020"
+  },
+  {
+   "title": "Published as a conference paper at ICLR 2020 CONVOLUTIONAL CONDITIONAL NEURAL PROCESSES",
+   "authors": "J Gordon, WP Bruinsma, AYK Foong, J Requeima, Y Dubois, RE Turner",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Revisiting Associative Compression: I Can’t Believe It’s Not Better",
+   "authors": "W Xu, MJ Muckley, Y Dubois, K Ullrich",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Conditional Neural Processes for Semi-Supervised Learning",
+   "authors": "Y Dubois, RE Turner",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Understanding Disentangling in VAE",
+   "authors": "Y Dubois, A Kastanos, D Lines, B Melman",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

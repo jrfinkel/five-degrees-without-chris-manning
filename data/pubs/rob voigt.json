@@ -1,0 +1,335 @@
+{
+ "user": "8mypUVwAAAAJ",
+ "pubs": [
+  {
+   "title": "Language from police body camera footage shows racial disparities in officer respect",
+   "authors": "R Voigt, NP Camp, V Prabhakaran, WL Hamilton, RC Hetey, CM Griffiths, ...",
+   "venue": "Proceedings of the national Academy of sciences 114 (25), 6521-6526",
+   "year": "2017"
+  },
+  {
+   "title": "Analyzing polarization in social media: Method and application to tweets on 21 mass shootings",
+   "authors": "D Demszky, N Garg, R Voigt, J Zou, J Shapiro, M Gentzkow, D Jurafsky",
+   "venue": "Proceedings of the 2019 conference of the north american chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration",
+   "authors": "D Card, S Chang, C Becker, J Mendelsohn, R Voigt, L Boustan, ...",
+   "venue": "Proceedings of the National Academy of Sciences 119 (31), e2120510119",
+   "year": "2022"
+  },
+  {
+   "title": "Towards a literary machine translation: The role of referential cohesion",
+   "authors": "R Voigt, D Jurafsky",
+   "venue": "Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for …",
+   "year": "2012"
+  },
+  {
+   "title": "RtGender: A corpus for studying differential responses to gender",
+   "authors": "R Voigt, D Jurgens, V Prabhakaran, D Jurafsky, Y Tsvetkov",
+   "venue": "Proceedings of the Eleventh International Conference on Language Resources …",
+   "year": "2018"
+  },
+  {
+   "title": "The thin blue waveform: Racial disparities in officer prosody undermine institutional trust in the police.",
+   "authors": "NP Camp, R Voigt, D Jurafsky, JL Eberhardt",
+   "venue": "Journal of personality and social psychology 121 (6), 1157",
+   "year": "2021"
+  },
+  {
+   "title": "Speaker Movement Correlates with Prosodic Indicators of Engagement",
+   "authors": "R Voigt, RJ Podesva, D Jurafsky",
+   "venue": "Speech Prosody",
+   "year": "2014"
+  },
+  {
+   "title": "The Connection Between Smiling and GOAT Fronting: Embodied Affect in Sociophonetic Variation",
+   "authors": "RJ Podesva, P Callier, R Voigt, D Jurafsky",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "GreenPLM: cross-lingual transfer of monolingual pre-trained language models at almost no cost",
+   "authors": "Q Zeng, L Garay, P Zhou, D Chong, Y Hua, J Wu, Y Pan, H Zhou, R Voigt, ...",
+   "venue": "arXiv preprint arXiv:2211.06993",
+   "year": "2022"
+  },
+  {
+   "title": "Leveraging body-worn camera footage to assess the effects of training on officer communication during traffic stops",
+   "authors": "NP Camp, R Voigt, MYG Hamedani, D Jurafsky, JL Eberhardt",
+   "venue": "PNAS nexus 3 (9), pgae359",
+   "year": "2024"
+  },
+  {
+   "title": "Between-and within-speaker effects of bilingualism on F0 variation",
+   "authors": "R Voigt, D Jurafsky, M Sumner",
+   "venue": "Proc. Interspeech 2016, 1122-1126",
+   "year": "2016"
+  },
+  {
+   "title": "Two knives cut better than one: Chinese word segmentation with dual decomposition",
+   "authors": "M Wang, R Voigt, CD Manning",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Tradition and Modernity in 20th Century Chinese Poetry",
+   "authors": "R Voigt, D Jurafsky",
+   "venue": "NAACL Workshop on Computational Linguistics for Literature",
+   "year": "2013"
+  },
+  {
+   "title": "Body camera footage as data: Using natural language processing to monitor policing at scale & in depth",
+   "authors": "NP Camp, R Voigt",
+   "venue": "Behavioral Science & Policy 10 (2), 16-25",
+   "year": "2024"
+  },
+  {
+   "title": "Cans and cants: Computational potentials for multimodality with a case study in head position",
+   "authors": "R Voigt, P Eckert, D Jurafsky, RJ Podesva",
+   "venue": "Journal of Sociolinguistics 20 (5), 677-711",
+   "year": "2016"
+  },
+  {
+   "title": "Thinking Out Loud: Do Reasoning Models Know When They’re Right?",
+   "authors": "Q Zeng, W Xuan, L Cui, R Voigt",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Refugees without assistance: English-language attainment and economic outcomes in the early twentieth century",
+   "authors": "R Abramitzky, L Boustan, P Catron, D Connor, R Voigt",
+   "venue": "SocArXiv. December 14, 1832-1856",
+   "year": "2021"
+  },
+  {
+   "title": "The refugee advantage: English-language attainment in the early twentieth century",
+   "authors": "R Abramitzky, L Boustan, P Catron, D Connor, R Voigt",
+   "venue": "Sociological Science 10, 769-805",
+   "year": "2023"
+  },
+  {
+   "title": "Language of bargaining",
+   "authors": "M Heddaya, S Dworkin, C Tan, R Voigt, A Zentefis",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "The pragmatic mind of machines: Tracing the emergence of pragmatic competence in large language models",
+   "authors": "K Yu, Q Zeng, W Xuan, W Li, J Wu, R Voigt",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Large language models are partially primed in pronoun interpretation",
+   "authors": "SY Lam, Q Zeng, K Zhang, C You, R Voigt",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 9493-9506",
+   "year": "2023"
+  },
+  {
+   "title": "Causal micro-narratives",
+   "authors": "M Heddaya, Q Zeng, A Zentefis, R Voigt, C Tan",
+   "venue": "Proceedings of the 6th Workshop on Narrative Understanding, 67-84",
+   "year": "2024"
+  },
+  {
+   "title": "Feature-rich phrase-based translation: Stanford University’s submission to the WMT 2013 translation task",
+   "authors": "S Green, D Cer, K Reschke, R Voigt, J Bauer, SI Wang, N Silveira, ...",
+   "venue": "Proceedings of the eighth workshop on statistical machine translation, 148-153",
+   "year": "2013"
+  },
+  {
+   "title": "Socially responsible NLP",
+   "authors": "Y Tsvetkov, V Prabhakaran, R Voigt",
+   "venue": "Proceedings of the 2018 conference of the North American chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of the 2nd workshop on abusive language online (ALW2)",
+   "authors": "D Fišer, R Huang, V Prabhakaran, R Voigt, Z Talat, J Wernimont",
+   "venue": "Proceedings of the 2nd Workshop on Abusive Language Online (ALW2)",
+   "year": "2018"
+  },
+  {
+   "title": "The voice embodied: Bringing the quantitative analysis of embodiment into the study of phonation",
+   "authors": "RJ Podesva, P Callier, R Voigt, K Hilton",
+   "venue": "Poster presented at New Ways of Analyzing Variation 44, 22-25",
+   "year": "2015"
+  },
+  {
+   "title": "Pre-trained artificial intelligence language model represents pragmatic language variability central to autism and genetically related phenotypes",
+   "authors": "JCY Lau, E Landau, Q Zeng, R Zhang, S Crawford, R Voigt, M Losh",
+   "venue": "Autism 29 (5), 1346-1358",
+   "year": "2025"
+  },
+  {
+   "title": "Socially responsible natural language processing",
+   "authors": "Y Tsvetkov, V Prabhakaran, R Voigt",
+   "venue": "Companion Proceedings of The 2019 World Wide Web Conference, 1326-1326",
+   "year": "2019"
+  },
+  {
+   "title": "Sympathy over polarization: A computational discourse analysis of social media posts about the July 2024 trump assassination attempt",
+   "authors": "Q Zeng, G Liu, Z Xue, D Ford, R Voigt, L Hagen, L Li",
+   "venue": "Proceedings of the 14th International Joint Conference on Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Good Intentions Beyond ACL: Who Does NLP for Social Good, and Where?",
+   "authors": "G LeFevre, Q Zeng, A Leif, J Jewell, D Peskoff, R Voigt",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Do reasoning models show better verbalized calibration?",
+   "authors": "Q Zeng, W Xuan, L Cui, R Voigt",
+   "venue": "arXiv e-prints, arXiv: 2504.06564",
+   "year": "2025"
+  },
+  {
+   "title": "ADAPTIVE AXES: A Pipeline for In-domain Social Stereotype Analysis",
+   "authors": "Q Zeng, M Jin, R Voigt",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Language Choice in Nigerian Social Media Hate Speech",
+   "authors": "NC Udeze, R Voigt",
+   "venue": "Proceedings of the 7th Workshop on African Natural Language Processing …",
+   "year": "2026"
+  },
+  {
+   "title": "A century of inflation narratives",
+   "authors": "M Heddaya, C Tan, R Voigt, Q Zeng, A Zentefis",
+   "venue": "Available at SSRN 5259107",
+   "year": "2025"
+  },
+  {
+   "title": "Leveraging Human Production-Interpretation Asymmetries to Test LLM Cognitive Plausibility",
+   "authors": "SY Lam, Q Zeng, J Wu, R Voigt",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "A Computational Analysis and Exploration of Linguistic Borrowings in French Rap Lyrics",
+   "authors": "L Zurbuchen, R Voigt",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "The Users Who Say ‘Ni’: Audience Identification in Chinese-language Restaurant Reviews",
+   "authors": "R Voigt, D Jurafsky",
+   "venue": "Proceedings of the ACL",
+   "year": "2015"
+  },
+  {
+   "title": "Learning from Use: Test-Time Learning in Large Language Models and Agents",
+   "authors": "W Xuan, Q Zeng, J Liu, R Yang, Y Xiao, Y Li, Z Zhou, W Sun, H Qi, L Cui, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Large language models can supplement the assessment of clinical high risk for psychosis.",
+   "authors": "LM Alliende, R Voigt, M Hoffman, GP Strauss, LM Ellman, EF Walker, ...",
+   "venue": "Journal of psychopathology and clinical science",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the Society for Computation in Linguistics 2026",
+   "authors": "R Voigt, A Warstadt, N Feldman, T Linzen",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Social Construction of Urban Space: Using LLMs to Identify Neighborhood Boundaries From Craigslist Ads",
+   "authors": "A Visokay, R Bagley, C Hess, I Kennedy, K Crowder, R Voigt, D Peskoff",
+   "venue": "Proceedings of the Seventh Workshop on Natural Language Processing and …",
+   "year": "2026"
+  },
+  {
+   "title": "Schizophrenia Stigma in News Media: A Comprehensive Natural Language Processing Approach",
+   "authors": "LM Alliende Serra, R Voigt, V Pokorny, J Schiffman, VA Mittal",
+   "venue": "Schizophrenia Bulletin 52 (3), sbag015",
+   "year": "2026"
+  },
+  {
+   "title": "A multi-method phenotypic study of sex differences in pragmatic language in autism",
+   "authors": "E Landau, SE Brooks, J Guilfoyle, K Nayar, S Crawford, J Xing, JCY Lau, ...",
+   "venue": "Frontiers in Psychiatry 17, 1759436",
+   "year": "2026"
+  },
+  {
+   "title": "Quantifying racial disparities in media representations of gun violence at scale",
+   "authors": "R Bagley, S Burtner, AV Papachristos, R Voigt",
+   "venue": "Proceedings of the National Academy of Sciences 123 (3), e2505499123",
+   "year": "2026"
+  },
+  {
+   "title": "Journal of Psychopathology and Clinical Science",
+   "authors": "LM Alliende, R Voigt, M Hoffman, GP Strauss, LM Ellman, EF Walker, ...",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Self-Supervised Speech Representations in a Pre-train Speech Model Represent Key Rapid Automatized Naming Variability in Autism",
+   "authors": "S Ethridge, J Lau, BR Chernyak, R Voigt, M Goldrick, J Keshet, M Losh",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2025, 385-387",
+   "year": "2025"
+  },
+  {
+   "title": "Social Construction of Urban Space: Understanding Neighborhood Boundaries Using Rental Listings",
+   "authors": "A Visokay, R Bagley, I Kennedy, C Hess, K Crowder, R Voigt, D Peskoff",
+   "venue": "arXiv e-prints, arXiv: 2506.00634",
+   "year": "2025"
+  },
+  {
+   "title": "Pre-trained AI language model represents pragmatic language variability central to autism and genetically-related phenotypes",
+   "authors": "JCY Lau, E Landau, Q Zeng, R Zhang, S Crawford, R Voigt, M Losh",
+   "venue": "Autism: the international journal of research and practice 29 (5), 1346",
+   "year": "2024"
+  },
+  {
+   "title": "Causal Micro-Narratives",
+   "authors": "A Zentefis, C Tan, M Heddaya, R Voigt, Q Zeng",
+   "venue": "Available at SSRN 5099137",
+   "year": "2024"
+  },
+  {
+   "title": "Replicate and Compare with Humans: LLMs Represent Partial Semantic Knowledge in Pronoun Interpretation",
+   "authors": "S Lam, Q Zeng, K Zhang, C You, R Voigt",
+   "venue": "The 61st Annual Meeting Of The Association For Computational Linguistics",
+   "year": "2023"
+  },
+  {
+   "title": "Developing a Linguistically-Informed Procedural Justice Training and Quantifying its Impact",
+   "authors": "R Voigt",
+   "venue": "2020 conference of the American Association for Applied Linguistics (AAAL)",
+   "year": "2020"
+  },
+  {
+   "title": "Computational Linguistic Models of Police-community Interaction",
+   "authors": "R Voigt",
+   "venue": "Stanford University",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of the Student Research Workshop",
+   "authors": "V Shwartz, J Tabassum, R Voigt",
+   "venue": "The 56th Annual Meeting of the Association for Computational Linguistics",
+   "year": "2018"
+  },
+  {
+   "title": "Proceedings of ACL 2018, Student Research Workshop",
+   "authors": "V Shwartz, J Tabassum, R Voigt, W Che, MC de Marneffe, M Nissim",
+   "venue": "Proceedings of ACL 2018, Student Research Workshop",
+   "year": "2018"
+  },
+  {
+   "title": "Gaze Detection with CNNs for Linguistic Research",
+   "authors": "R Voigt",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

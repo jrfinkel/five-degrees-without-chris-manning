@@ -1,0 +1,1529 @@
+{
+ "user": "vKqag_AAAAAJ",
+ "pubs": [
+  {
+   "title": "Semeval-2010 task 8: Multi-way classification of semantic relations between pairs of nominals",
+   "authors": "I Hendrickx, SN Kim, Z Kozareva, P Nakov, DO Séaghdha, S Padó, ...",
+   "venue": "SemEval 2010",
+   "year": "2010"
+  },
+  {
+   "title": "Dependency-based construction of semantic space models",
+   "authors": "S Padó, M Lapata",
+   "venue": "Computational linguistics 33 (2), 161-199",
+   "year": "2007"
+  },
+  {
+   "title": "The CoNLL-2009 shared task: Syntactic and semantic dependencies in multiple languages",
+   "authors": "J Hajic, M Ciaramita, R Johansson, D Kawahara, MA Martí, L Màrquez, ...",
+   "venue": "Proceedings of the Thirteenth Conference on Computational Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "A structured vector space model for word meaning in context",
+   "authors": "K Erk, S Padó",
+   "venue": "Proceedings of the 2008 conference on empirical methods in natural language …",
+   "year": "2008"
+  },
+  {
+   "title": "The SALSA corpus: a German corpus resource for lexical semantics",
+   "authors": "A Frank",
+   "venue": "Proceedings of the…",
+   "year": "2006"
+  },
+  {
+   "title": "Cross-lingual annotation projection for semantic roles",
+   "authors": "S Padó, M Lapata",
+   "venue": "Journal of Artificial Intelligence Research 36, 307-340",
+   "year": "2009"
+  },
+  {
+   "title": "Shalmaneser-a flexible toolbox for semantic role assignment",
+   "authors": "K Erk, S Pado",
+   "venue": "Proceedings of LREC 6, 73",
+   "year": "2006"
+  },
+  {
+   "title": "Training and Evaluating a German Named Entity Recognizer with Semantic Generalization",
+   "authors": "M Faruqui, S Padó",
+   "venue": "Proceedings of KONVENS 2010",
+   "year": "2010"
+  },
+  {
+   "title": "Lodifier: Generating linked data from unstructured text",
+   "authors": "I Augenstein, S Padó, S Rudolph",
+   "venue": "Extended Semantic Web Conference, 210-224",
+   "year": "2012"
+  },
+  {
+   "title": "A flexible, corpus-driven model of regular and inverse selectional preferences",
+   "authors": "K Erk, S Padó, U Padó",
+   "venue": "Computational Linguistics 36 (4), 723-763",
+   "year": "2010"
+  },
+  {
+   "title": "FrameNet for the Semantic Analysis of German: Annotation, Representation and Automation",
+   "authors": "A Burchardt, K Erk, A Frank, A Kowalski, S Padó, M Pinkal",
+   "venue": "Multilingual FrameNets in Computational Lexicography: methods and …",
+   "year": "2009"
+  },
+  {
+   "title": "Annotation, modelling and analysis of fine-grained emotions on a stance and sentiment detection corpus",
+   "authors": "H Schuff, J Barnes, J Mohme, S Padó, R Klinger",
+   "venue": "WASSA",
+   "year": "2017"
+  },
+  {
+   "title": "Exemplar-based models for word meaning in context",
+   "authors": "K Erk, S Padó",
+   "venue": "Proceedings of the acl 2010 conference short papers, 92-97",
+   "year": "2010"
+  },
+  {
+   "title": "Towards a resource for lexical semantics: A large German corpus with extensive semantic annotation",
+   "authors": "K Erk, A Kowalski, S Padó, M Pinkal",
+   "venue": "Proceedings of the 41st Annual Meeting of the Association for Computational …",
+   "year": "2003"
+  },
+  {
+   "title": "SALTO-A Versatile Multi-Level Annotation Tool.",
+   "authors": "A Burchardt, K Erk, A Frank, A Kowalski, S Pado, M Pinkal",
+   "venue": "LREC, 517-520",
+   "year": "2006"
+  },
+  {
+   "title": "Robust machine translation evaluation with entailment features",
+   "authors": "S Padó, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL …",
+   "year": "2009"
+  },
+  {
+   "title": "What Substitutes Tell Us–Analysis of an “All-Words” Lexical Substitution Corpus",
+   "authors": "G Kremer, K Erk, S Padó, S Thater",
+   "venue": "Proceedings of EACL 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Cross-linguistic projection of role-semantic information",
+   "authors": "S Padó, M Lapata",
+   "venue": "Proceedings of Human Language Technology Conference and Conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "Distributional vectors encode referential attributes",
+   "authors": "A Gupta, G Boleda, M Baroni, S Padó",
+   "venue": "Proceedings of the Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Cross-lingual annotation projection models for role-semantic information",
+   "authors": "S Padó",
+   "venue": "Saarland University",
+   "year": "2007"
+  },
+  {
+   "title": "DErivBase: Inducing and evaluating a derivational morphology resource for German",
+   "authors": "B Zeller, J Šnajder, S Padó",
+   "venue": "Proceedings of the 51st annual meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Beyond prompt brittleness: Evaluating the reliability and consistency of political worldviews in LLMs",
+   "authors": "T Ceron, N Falk, A Barić, D Nikolaev, S Padó",
+   "venue": "Transactions of the Association for Computational Linguistics 12, 1378-1400",
+   "year": "2024"
+  },
+  {
+   "title": "Germeval 2014 named entity recognition shared task: companion paper",
+   "authors": "D Benikova, C Biemann, M Kisselew, S Pado",
+   "venue": "Proceedings of the KONVENS GermEval workshop, 104-112",
+   "year": "2014"
+  },
+  {
+   "title": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP …",
+   "authors": "S Padó, R Huang",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "The excitement open platform for textual inferences",
+   "authors": "B Magnini, R Zanoli, I Dagan, K Eichler, G Neumann, TG Noh, S Pado, ...",
+   "venue": "Proceedings of 52nd annual meeting of the association for computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Investigating the relationship between literary genres and emotional plot development",
+   "authors": "E Kim, S Padó, R Klinger",
+   "venue": "Proceedings of the joint SIGHUM workshop on computational linguistics for …",
+   "year": "2017"
+  },
+  {
+   "title": "Constructing semantic space models from parsed corpora",
+   "authors": "S Padó, M Lapata",
+   "venue": "Proceedings of the 41st annual meeting of the Association for Computational …",
+   "year": "2003"
+  },
+  {
+   "title": "Measuring machine translation quality as semantic equivalence: A metric based on entailment features",
+   "authors": "S Padó, D Cer, M Galley, D Jurafsky, CD Manning",
+   "venue": "Machine Translation 23 (2), 181-193",
+   "year": "2009"
+  },
+  {
+   "title": "Optimal constituent alignment with edge covers for semantic projection",
+   "authors": "S Padó, M Lapata",
+   "venue": "Proceedings of the 21st International Conference on Computational …",
+   "year": "2006"
+  },
+  {
+   "title": "Multi-task learning with sentiment, emotion, and target detection to recognize hate speech and offensive language",
+   "authors": "FM Plaza-del-Arco, S Halat, S Padó, R Klinger",
+   "venue": "FIRE 2021 working notes, 297--318",
+   "year": "2021"
+  },
+  {
+   "title": "A named entity recognition shootout for german",
+   "authors": "M Riedl, S Padó",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "PropBank, SALSA, and FrameNet: How design determines product",
+   "authors": "M Ellsworth, K Erk, P Kingsbury, S Padó",
+   "venue": "Proceedings of the LREC 2004 Workshop on Building Lexical Resources from …",
+   "year": "2004"
+  },
+  {
+   "title": "A Powerful and Versatile XML Format for Representing Role-semantic Annotation.",
+   "authors": "K Erk, S Pado",
+   "venue": "LREC",
+   "year": "2004"
+  },
+  {
+   "title": "Crowdsourcing and validating event-focused emotion corpora for German and English",
+   "authors": "E Troiano, S Padó, R Klinger",
+   "venue": "Proceedings of ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Flexible, corpus-based modelling of human plausibility judgements",
+   "authors": "S Padó, U Padó, K Erk",
+   "venue": "Proceedings of the 2007 Joint Conference on Empirical Methods in Natural …",
+   "year": "2007"
+  },
+  {
+   "title": "The atlas of digitised newspapers and metadata: Reports from Oceanic Exchanges",
+   "authors": "MH Beals, E Bell, R Cordell, P Fyfe, I Galina Russell, T Hauswedell, ...",
+   "venue": "Figshare",
+   "year": "2020"
+  },
+  {
+   "title": "Annotation précise du français en sémantique de rôles par projection cross-linguistique",
+   "authors": "S Pado, G Pitel",
+   "venue": "Actes de la 14ème conférence sur le Traitement Automatique des Langues …",
+   "year": "2007"
+  },
+  {
+   "title": "Lost in back-translation: Emotion preservation in neural machine translation",
+   "authors": "E Troiano, R Klinger, S Padó",
+   "venue": "COLING",
+   "year": "2020"
+  },
+  {
+   "title": "Machine Translation Evaluation and Optimization",
+   "authors": "A Lavie, A Agarwal, M Snover, N Madnani, B Dorr, R Schwartz, N Habash, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Design and realization of a modular architecture for textual entailment",
+   "authors": "S Padó, TG Noh, A Stern, R Wang, R Zanoli",
+   "venue": "Natural Language Engineering 21 (2), 167-200",
+   "year": "2015"
+  },
+  {
+   "title": "Paraphrase assessment in structured vector space: Exploring parameters and datasets",
+   "authors": "K Erk, S Padó",
+   "venue": "Proceedings of the Workshop on Geometrical Models of Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "Assessing the role of discourse references in entailment inference",
+   "authors": "S Mirkin, I Dagan, S Padó",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Textual entailment features for machine translation evaluation",
+   "authors": "S Padó, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proceedings of the Fourth Workshop on Statistical Machine Translation, 37-41",
+   "year": "2009"
+  },
+  {
+   "title": "Formalising multi-layer corpora in OWL DL-lexicon modelling, querying and consistency control",
+   "authors": "A Burchardt, S Padó, D Spohr, A Frank, U Heid",
+   "venue": "Proceedings of the Third International Joint Conference on Natural Language …",
+   "year": "2008"
+  },
+  {
+   "title": "Representation biases in sentence transformers",
+   "authors": "D Nikolaev, S Padó",
+   "venue": "Proceedings of EACL",
+   "year": "2023"
+  },
+  {
+   "title": "Regular polysemy: A distributional model",
+   "authors": "G Boleda, S Padó, J Utt",
+   "venue": "STARSEM",
+   "year": "2012"
+  },
+  {
+   "title": "Model architectures for quotation detection",
+   "authors": "C Scheible, R Klinger, S Padó",
+   "venue": "ACL",
+   "year": "2016"
+  },
+  {
+   "title": "Semantic role labelling with similarity-based generalization using EM-based clustering",
+   "authors": "U Baldewein, K Erk, S Padó, D Prescher",
+   "venue": "Proceedings of SENSEVAL-3, the Third International Workshop on the …",
+   "year": "2004"
+  },
+  {
+   "title": "Who sides with whom? Towards computational construction of discourse networks for political debates",
+   "authors": "S Padó, A Blessing, N Blokker, E Dayanık, S Haunss, J Kuhn",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Deciding entailment and contradiction with stochastic and edit distance-based alignment",
+   "authors": "S Padó, MC de Marneffe, B MacCartney, AN Rafferty, E Yeh, CD Manning",
+   "venue": "Proceedings of the Text Analysis Conference",
+   "year": "2008"
+  },
+  {
+   "title": "Ontology-based distinction between polysemy and homonymy",
+   "authors": "J Utt, S Padó",
+   "venue": "Proceedings of the Ninth International Conference on Computational Semantics …",
+   "year": "2011"
+  },
+  {
+   "title": "Cross-lingual induction of selectional preferences with bilingual vector spaces",
+   "authors": "Y Peirsman, S Padó",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Predicting the direction of derivation in English conversion",
+   "authors": "M Kisselew, L Rimell, A Palmer, S Padó",
+   "venue": "Proceedings of the 14th sigmorphon workshop on computational research in …",
+   "year": "2016"
+  },
+  {
+   "title": "Cross-lingual bootstrapping of semantic lexicons: The case of framenet",
+   "authors": "S Padó, M Lapata",
+   "venue": "Proceedings of the National Conference on Artificial Intelligence 20 (3), 1087",
+   "year": "2005"
+  },
+  {
+   "title": "Dissecting Span Identification Tasks with Performance Prediction",
+   "authors": "S Papay, R Klinger, S Padó",
+   "venue": "Proceedings of EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Disambiguation of newly derived nominalizations in context: A distributional semantics approach",
+   "authors": "G Lapesa, L Kawaletz, I Plag, M Andreou, M Kisselew, S Padó",
+   "venue": "Word Structure 11 (3), 277-312",
+   "year": "2018"
+  },
+  {
+   "title": "Semantic role assignment for event nominalisations by leveraging verbal data",
+   "authors": "S Padó, M Pennacchiotti, C Sporleder",
+   "venue": "Proceedings of the 22nd International Conference on Computational …",
+   "year": "2008"
+  },
+  {
+   "title": "Integrating manual and automatic annotation for the creation of discourse network data sets",
+   "authors": "S Haunss, J Kuhn, S Padó, A Blessing, N Blokker, E Dayanik, G Lapesa",
+   "venue": "Politics and Governance 8 (2), 326-339",
+   "year": "2020"
+  },
+  {
+   "title": "Predictability of distributional semantics in derivational word formation",
+   "authors": "S Padó, AGG Herbelot, M Kisselew, J Snajder",
+   "venue": "Proceedings of the 26th International Conference on Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "To cause or not to cause: Cross-lingual semantic matching for paraphrase modelling",
+   "authors": "S Padó, K Erk",
+   "venue": "Proceedings of the cross-language knowledge induction workshop",
+   "year": "2005"
+  },
+  {
+   "title": "Querying both time-aligned and hierarchical corpora with NXT Search",
+   "authors": "U Heid, H Voormann, JT Milde, U Gut, K Erk, S Padó",
+   "venue": "Conference on Language Resources and Evaluation",
+   "year": "2004"
+  },
+  {
+   "title": "Leveraging lexical substitutes for unsupervised word sense induction",
+   "authors": "D Alagić, J Šnajder, S Padó",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "year": "2018"
+  },
+  {
+   "title": "Grounding semantic transparency in context: A distributional semantic study on German event nominalizations",
+   "authors": "R Varvara, G Lapesa, S Padó",
+   "venue": "Morphology 31 (4), 409-446",
+   "year": "2021"
+  },
+  {
+   "title": "Emotion Ratings: How Intensity, Annotation Confidence and Agreements are Entangled",
+   "authors": "E Troiano, S Padó, R Klinger",
+   "venue": "Proceedings of the Eleventh Workshop on Computational Approaches to …",
+   "year": "2021"
+  },
+  {
+   "title": "RiQuA: A corpus of rich quotation annotation for English literary text",
+   "authors": "S Papay, S Padó",
+   "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference, 835-841",
+   "year": "2020"
+  },
+  {
+   "title": "Building and evaluating a distributional memory for Croatian",
+   "authors": "J Šnajder, S Padó, Ž Agić",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Masking actor information leads to fairer political claims detection",
+   "authors": "E Dayanık, S Padó",
+   "venue": "Proceedings of the 58th annual meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "On the importance of a rich embodiment in the grounding of concepts: Perspectives from embodied cognitive science and computational linguistics",
+   "authors": "S Thill, S Padó, T Ziemke",
+   "venue": "Topics in Cognitive Science 6 (3), 545-558",
+   "year": "2014"
+  },
+  {
+   "title": "Generalized Event Knowledge in Logical Metonymy Resolution",
+   "authors": "A Zarcone, S Padó",
+   "venue": "Proceedings of CogSci 2011",
+   "year": "2011"
+  },
+  {
+   "title": "Obtaining a better understanding of distributional models of german derivational morphology",
+   "authors": "M Kisselew, S Padó, A Palmer, J Šnajder",
+   "venue": "Proceedings of the 11th international conference on computational semantics …",
+   "year": "2015"
+  },
+  {
+   "title": "Towards semantic validation of a derivational lexicon",
+   "authors": "B Zeller, S Padó, J Šnajder",
+   "venue": "Proceedings of coling 2014, the 25th international conference on …",
+   "year": "2014"
+  },
+  {
+   "title": "Translational equivalence and cross-lingual parallelism: The case of FrameNet frames",
+   "authors": "S Padó",
+   "venue": "Proceedings of the NODALIDA workshop on building frame semantics resources …",
+   "year": "2007"
+  },
+  {
+   "title": "Semantic role labelling with chunk sequences",
+   "authors": "U Baldewein, K Erk, S Padó, D Prescher",
+   "venue": "Proceedings of the Eighth Conference on Computational Natural Language …",
+   "year": "2004"
+  },
+  {
+   "title": "The curious case of metonymic verbs: A distributional characterization",
+   "authors": "J Utt, A Lenci, S Padó, A Zarcone",
+   "venue": "Proceedings of the iwcs 2013 workshop towards a formal distributional …",
+   "year": "2013"
+  },
+  {
+   "title": "Modeling covert event retrieval in logical metonymy: probabilistic and distributional accounts",
+   "authors": "A Zarcone, J Utt, S Padó",
+   "venue": "Proceedings of the 3rd workshop on cognitive modeling and computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Perspectives for natural language processing between AI, linguistics and cognitive science",
+   "authors": "A Lenci, S Padó",
+   "venue": "Frontiers in artificial intelligence 5, 1059998",
+   "year": "2022"
+  },
+  {
+   "title": "Interpretable text embeddings and text similarity explanation: A survey",
+   "authors": "J Opitz, L Moeller, A Michail, S Padó, S Clematide",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Prototypical Emotion Developments in Literary Genres",
+   "authors": "E Kim, S Padó, R Klinger",
+   "venue": "Proceedings of Digital Humanities",
+   "year": "2017"
+  },
+  {
+   "title": "Logical Metonymy Resolution in a Words‐as‐Cues Framework: Evidence From Self‐Paced Reading and Probe Recognition",
+   "authors": "A Zarcone, S Padó, A Lenci",
+   "venue": "Cognitive Science 38 (5), 973-996",
+   "year": "2014"
+  },
+  {
+   "title": "Media bias detection across families of language models",
+   "authors": "I Maab, E Marrese-Taylor, S Padó, Y Matsuo",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Modeling paths for explainable knowledge base completion",
+   "authors": "J Stadelmaier, S Padó",
+   "venue": "Proceedings of the 2019 ACL workshop BlackboxNLP: analyzing and interpreting …",
+   "year": "2019"
+  },
+  {
+   "title": "Using embeddings to compare framenet frames across languages",
+   "authors": "J Sikos, S Padó",
+   "venue": "Proceedings of the First Workshop on Linguistic Resources for Natural …",
+   "year": "2018"
+  },
+  {
+   "title": "Instances and concepts in distributional space",
+   "authors": "G Boleda, A Gupta, S Padó",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "DEbateNet-mig15: Tracing the 2015 immigration debate in Germany over time",
+   "authors": "G Lapesa, A Blessing, N Blokker, E Dayanık, S Haunss, J Kuhn, S Padó",
+   "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference, 919-927",
+   "year": "2020"
+  },
+  {
+   "title": "Crowdsourcing annotation of non-local semantic roles",
+   "authors": "PS Feizabadi, S Padó",
+   "venue": "Proceedings of the 14th Conference of the European Chapter of the …",
+   "year": "2014"
+  },
+  {
+   "title": "Semantic relations in bilingual lexicons",
+   "authors": "Y Peirsman, S Padó",
+   "venue": "ACM Transactions on Speech and Language Processing (TSLP) 8 (2), 1-21",
+   "year": "2008"
+  },
+  {
+   "title": "The SALSA annotation tool",
+   "authors": "K Erk, A Kowalski, S Pado",
+   "venue": "Proceedings of the Workshop on Prospects and Advances in the Syntax …",
+   "year": "2003"
+  },
+  {
+   "title": "Investigating semantic subspaces of Transformer sentence embeddings through linear structural probing",
+   "authors": "D Nikolaev, S Padó",
+   "venue": "Proceedings of the BlackboxNLP workshop",
+   "year": "2023"
+  },
+  {
+   "title": "Quotation detection and classification with a corpus-agnostic model",
+   "authors": "S Papay, S Padó",
+   "venue": "Proceedings of the International Conference on Recent Advances in Natural …",
+   "year": "2019"
+  },
+  {
+   "title": "Combining seemingly incompatible corpora for implicit semantic role labeling",
+   "authors": "PS Feizabadi, S Padó",
+   "venue": "Proceedings of the Fourth Joint Conference on Lexical and Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Towards a model of formal and informal address in english",
+   "authors": "M Faruqui, S Pado",
+   "venue": "Proceedings of the 13th Conference of the European Chapter of the …",
+   "year": "2012"
+  },
+  {
+   "title": "Automatic Identification of Motion Verbs in WordNet and FrameNet",
+   "authors": "PS Feizabadi, S Padó",
+   "venue": "KONVENS",
+   "year": "2012"
+  },
+  {
+   "title": "Complement coercion: The joint effects of type and typicality",
+   "authors": "A Zarcone, K McRae, A Lenci, S Padó",
+   "venue": "Frontiers in psychology 8, 1987",
+   "year": "2017"
+  },
+  {
+   "title": "Multi-level alignments as an extensible representation basis for textual entailment algorithms",
+   "authors": "TG Noh, S Padó, V Shwartz, I Dagan, V Nastase, K Eichler, L Kotlerman, ...",
+   "venue": "Proceedings of the fourth joint conference on lexical and computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Fitting, Not Clashing! A Distributional Semantic Model of Logical Metonymy",
+   "authors": "A Zarcone, A Lenci, S Padó, J Utt",
+   "venue": "Proceedings of IWCS",
+   "year": "2013"
+  },
+  {
+   "title": "Multi-word expressions in textual inference: Much ado about nothing?",
+   "authors": "MC de Marneffe, S Padó, CD Manning",
+   "venue": "Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer), 1-9",
+   "year": "2009"
+  },
+  {
+   "title": "Optimizing text representations to capture (dis) similarity between political parties",
+   "authors": "T Ceron, N Blokker, S Padó",
+   "venue": "Proceedings of CoNLL",
+   "year": "2022"
+  },
+  {
+   "title": "Disentangling document topic and author gender in multiple languages: Lessons for adversarial debiasing",
+   "authors": "E Dayanık, S Padó",
+   "venue": "Proceedings of the Eleventh Workshop on Computational Approaches to …",
+   "year": "2021"
+  },
+  {
+   "title": "Frame identification as categorization: Exemplars vs prototypes in embeddingland",
+   "authors": "J Sikos, S Padó",
+   "venue": "Proceedings of the 13th International Conference on Computational Semantics …",
+   "year": "2019"
+  },
+  {
+   "title": "High-precision sentence alignment by bootstrapping from wood standard annotations",
+   "authors": "É Mújdricza-Maydt, H Körkel-Qu, S Riezler, S Padó",
+   "venue": "The Prague Bulletin of Mathematical Linguistics 99, 5",
+   "year": "2013"
+  },
+  {
+   "title": "Explaining neural news recommendation with attributions onto reading histories",
+   "authors": "L Möller, S Padó",
+   "venue": "ACM Transactions on Intelligent Systems and Technology 16 (1), 1-25",
+   "year": "2025"
+  },
+  {
+   "title": "Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean",
+   "authors": "D Park, S Padó",
+   "venue": "Proceedings of COLING-LREC 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Constraining linear-chain CRFs to regular languages",
+   "authors": "S Papay, R Klinger, S Padó",
+   "venue": "International Conference on Learning Representations",
+   "year": "2022"
+  },
+  {
+   "title": "Emotion analysis for literary studies",
+   "authors": "R Klinger, E Kim, S Padó",
+   "venue": "Reflektierte Algorithmische Textanalyse: Interdisziplinäre (s) Arbeiten in …",
+   "year": "2020"
+  },
+  {
+   "title": "Crosslingual and Multilingual Construction of Syntax-Based Vector Space Models",
+   "authors": "J Utt, S Padó",
+   "venue": "Transactions of the Association of Computational Linguistics 2, 245-258",
+   "year": "2014"
+  },
+  {
+   "title": "Derivational Smoothing for Syntactic Distributional Semantics",
+   "authors": "S Padó, J Šnajder, B Zeller",
+   "venue": "51st Annual Meeting of the Association for Computational Linguistics",
+   "year": "2013"
+  },
+  {
+   "title": "French and German Corpora for Audience-based Text Type Classification.",
+   "authors": "A Todirascu, S Padó, J Krisch, M Kisselew, U Heid",
+   "venue": "LREC 2012, 1591-1597",
+   "year": "2012"
+  },
+  {
+   "title": "Improving neural political statement classification with class hierarchical information",
+   "authors": "E Dayanık, A Blessing, N Blokker, S Haunss, J Kuhn, G Lapesa, S Pado",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 2367-2382",
+   "year": "2022"
+  },
+  {
+   "title": "DErivCELEX: Development and evaluation of a German derivational morphology lexicon based on CELEX",
+   "authors": "ES Bajestan, D Frassinelli, G Lapesa, S Padó",
+   "venue": "Proceedings of the Workshop on Resources and Tools for Derivational …",
+   "year": "2017"
+  },
+  {
+   "title": "Comparing and combining semantic verb classifications",
+   "authors": "O Čulo, K Erk, S Padó, S Schulte im Walde",
+   "venue": "Language Resources and Evaluation 42 (3), 265-291",
+   "year": "2008"
+  },
+  {
+   "title": "Analyzing models for semantic role assignment using confusability",
+   "authors": "K Erk, S Padó",
+   "venue": "Proceedings of Human Language Technology Conference and Conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "One persona, many cues, different results: How sociodemographic cues impact LLM personalization",
+   "authors": "F Weeber, V Neplenbroek, J Batzner, S Padó",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Between welcome culture and border fence. A dataset on the European refugee crisis in German newspaper reports",
+   "authors": "N Blokker, A Blessing, E Dayanik, J Kuhn, S Padó, G Lapesa",
+   "venue": "Language Resources and Evaluation 57, 121-153",
+   "year": "2023"
+  },
+  {
+   "title": "FrameNet’s Using relation as a source of concept-based paraphrases",
+   "authors": "J Sikos, S Padó",
+   "venue": "Constructions and Frames 10 (1), 38-60",
+   "year": "2018"
+  },
+  {
+   "title": "Swimming with the tide? positional claim detection across political text types",
+   "authors": "N Blokker, E Dayanık, G Lapesa, S Padó",
+   "venue": "Proceedings of the Fourth Workshop on Natural Language Processing and …",
+   "year": "2020"
+  },
+  {
+   "title": "Analysis of political debates through newspaper reports: methods and outcomes",
+   "authors": "G Lapesa, A Blessing, N Blokker, E Dayanik, S Haunss, J Kuhn, S Padó",
+   "venue": "Datenbank-Spektrum 20 (2), 143-153",
+   "year": "2020"
+  },
+  {
+   "title": "Are doggies really nicer than dogs? Emotional valence and concreteness in German derivational morphology",
+   "authors": "G Lapesa, S Pado, T Pross, A Rossdeutscher",
+   "venue": "IWCS 2017—12th International Conference on Computational Semantics—Short …",
+   "year": "2017"
+  },
+  {
+   "title": "The salsa annotation tool-demo description",
+   "authors": "K Erk, A Kowalski, S Pado",
+   "venue": "Proceedings of the 6th Lorraine–Saarland Workshop, 111-113",
+   "year": "2003"
+  },
+  {
+   "title": "Approximate Attributions for Off-the-Shelf Siamese Transformers",
+   "authors": "L Möller, D Nikolaev, S Padó",
+   "venue": "Proceedings of EACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Addressing low-resource scenarios with character-aware embeddings",
+   "authors": "S Papay, S Padó, NT Vu",
+   "venue": "Proceedings of the Second Workshop on Subword/Character LEvel Models, 32-37",
+   "year": "2018"
+  },
+  {
+   "title": "Quantifying regularity in morphological processes: An ongoing study on nominalization in German",
+   "authors": "R Varvara, G Lapesa, S Padó",
+   "venue": "ESSLLI DSALT Workshop: Distributional Semantics and Semantic Theory, Bolzano …",
+   "year": "2016"
+  },
+  {
+   "title": "Textual entailment",
+   "authors": "S Padó, I Dagan",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Inferring covert events in logical metonymies: a probe recognition experiment",
+   "authors": "A Zarcone, S Padó, A Lenci",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 34 (34)",
+   "year": "2012"
+  },
+  {
+   "title": "Multilingual estimation of political-party positioning: From label aggregation to long-input Transformers",
+   "authors": "D Nikolaev, T Ceron, S Padó",
+   "venue": "Proceedings of EMNLP",
+   "year": "2023"
+  },
+  {
+   "title": "An Attribution Method for Siamese Encoders",
+   "authors": "L Möller, D Nikolaev, S Padó",
+   "venue": "Proceedings of EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Additive manifesto decomposition: A policy domain aware method for understanding party positioning",
+   "authors": "T Ceron, D Nikolaev, S Padó",
+   "venue": "Findings of ACL",
+   "year": "2023"
+  },
+  {
+   "title": "Bias identification and attribution in NLP models with regression and effect sizes",
+   "authors": "E Dayanık, NT Vu, S Padó",
+   "venue": "Northern European Journal of Language Technology 8",
+   "year": "2022"
+  },
+  {
+   "title": "An environment for relational annotation of political debates",
+   "authors": "A Blessing, N Blokker, S Haunss, J Kuhn, G Lapesa, S Padó",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "DERE: A task and domain-independent slot filling framework for declarative relation extraction",
+   "authors": "H Adel, LAM Oberländer, S Papay, S Padó, R Klinger",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Prototypical Emotion Developments in Adventures, Romances, and Mystery Stories.",
+   "authors": "E Kim, S Padó, R Klinger",
+   "venue": "DH, 17-26",
+   "year": "2017"
+  },
+  {
+   "title": "Dissecting the practical lexical function model for compositional distributional semantics",
+   "authors": "A Gupta, J Utt, S Padó",
+   "venue": "Proceedings of the Fourth Joint Conference on Lexical and Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Measuring Semantic Content To Assess Asymmetry in Derivation",
+   "authors": "S Padó, A Palmer, M Kisselew, J Šnajder",
+   "venue": "IWCS",
+   "year": "2015"
+  },
+  {
+   "title": "A Search Task Dataset for German Textual Entailment",
+   "authors": "BD Zeller, S Padó",
+   "venue": "IWCS",
+   "year": "2013"
+  },
+  {
+   "title": "“I like work: I can sit and look at it for hours” Type clash vs. plausibility in covert event recovery",
+   "authors": "A Zarcone, S Padó",
+   "venue": "Proceedings of the VERB 2010 workshop. Pisa, Italy",
+   "year": "2010"
+  },
+  {
+   "title": "Clustering-based article identification in historical newspapers",
+   "authors": "M Riedl, D Betz, S Padó",
+   "venue": "Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics …",
+   "year": "2019"
+  },
+  {
+   "title": "Improving zero-shot-learning for German particle verbs by using training-space restrictions and local scaling",
+   "authors": "M Köper, SS im Walde, M Kisselew, S Padó",
+   "venue": "Proceedings of the Fifth Joint Conference on Lexical and Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "A distributional memory for German",
+   "authors": "S Padó",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Dependency-Based Answer Validation for German",
+   "authors": "S Babych, A Henn, J Pawellek, S Padó",
+   "venue": "CLEF 2011 Notebook Papers",
+   "year": "2011"
+  },
+  {
+   "title": "The universe of utterances according to BERT",
+   "authors": "D Nikolaev, S Padó",
+   "venue": "Proceedings of the 15th International Conference on Computational Semantics …",
+   "year": "2023"
+  },
+  {
+   "title": "Determinants of grader agreement: an analysis of multiple short answer corpora",
+   "authors": "U Padó, S Padó",
+   "venue": "Language Resources and Evaluation 56 (2), 387-416",
+   "year": "2022"
+  },
+  {
+   "title": "Word-order typology in Multilingual BERT: A case study in subordinate-clause detection",
+   "authors": "D Nikolaev, S Padó",
+   "venue": "Proceedings of the ACL SIGTYP workshop",
+   "year": "2022"
+  },
+  {
+   "title": "Instantiation",
+   "authors": "A Gupta, G Boleda, S Pado",
+   "venue": "arXiv preprint arXiv:1808.01662",
+   "year": "2018"
+  },
+  {
+   "title": "Distributed prediction of relations for entities: The easy, the difficult, and the impossible",
+   "authors": "A Gupta, G Boleda, S Padó",
+   "venue": "Proceedings of the 6th Joint Conference on Lexical and Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Oceanic exchanges",
+   "authors": "R Cordell, MH Beals, IG Russell, J Nyhan, E Priani, M Priewe, H Salmi, ...",
+   "venue": "Open Science Framework (OSF). DOI: https://doi. org/10.17605/OSF. IO/WA94S",
+   "year": "2017"
+  },
+  {
+   "title": "Acquiring entailment pairs across languages and domains: A data analysis",
+   "authors": "M Faruqui, S Padó",
+   "venue": "IWCS 9",
+   "year": "2011"
+  },
+  {
+   "title": "Constructing Integrated Corpus and Lexicon Models for Multi-Layer Annotation in OWL DL",
+   "authors": "A Burchardt, S Pado, D Spohr, A Frank, U Heid",
+   "venue": "Linguistic Issues in Language Technology 1",
+   "year": "2008"
+  },
+  {
+   "title": "Consistency and coverage: Challenges for exhaustive semantic annotation",
+   "authors": "A Burchardt, K Erk, A Frank, A Kowalski, S Padó, M Pinkal",
+   "venue": "Proceedings of DGfS 6",
+   "year": "2006"
+  },
+  {
+   "title": "Language learning, representation, and processing in humans and machines: Introduction to the special issue",
+   "authors": "M Apidianaki, A Fourtassi, S Padó",
+   "venue": "Computational Linguistics 50 (4), 1201-1210",
+   "year": "2024"
+  },
+  {
+   "title": "Automatic analysis of political debates and manifestos: Successes and challenges",
+   "authors": "T Ceron, A Barić, A Blessing, S Haunss, J Kuhn, G Lapesa, S Padó, ...",
+   "venue": "Conference on advances in robust argumentation machines, 71-88",
+   "year": "2024"
+  },
+  {
+   "title": "Actor Identification in Discourse: A Challenge for LLMs?",
+   "authors": "A Barić, S Papay, S Padó",
+   "venue": "Proceedings of the CODI workshop",
+   "year": "2024"
+  },
+  {
+   "title": "Political claim identification and categorization in a multilingual setting: First experiments",
+   "authors": "U Zaberer, S Padó, G Lapesa",
+   "venue": "Proceedings of KONVENS 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Distributional models of category concepts based on names of category members",
+   "authors": "M Westera, A Gupta, G Boleda, S Padó",
+   "venue": "Cognitive Science 45 (9), e13029",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling derivational morphology in Ukrainian",
+   "authors": "M Melymuka, G Lapesa, M Kisselew, S Padó",
+   "venue": "Proceedings of the 12th International Conference on Computational Semantics …",
+   "year": "2017"
+  },
+  {
+   "title": "Morphological priming in German: the word is not enough (or is it?).",
+   "authors": "S Padó, BD Zeller, J Snajder",
+   "venue": "NetWordS, 42-45",
+   "year": "2015"
+  },
+  {
+   "title": "Using UIMA to Structure An Open Platform for Textual Entailment.",
+   "authors": "TG Noh, S Padó",
+   "venue": "UIMA@ GSCL, 26-33",
+   "year": "2013"
+  },
+  {
+   "title": "Semantics in computational lexicons",
+   "authors": "A Frank, S Padó",
+   "venue": "Semantics: An International Handbook of Natural Language Meaning 3, 2887–2917",
+   "year": "2012"
+  },
+  {
+   "title": "“I Thou Thee, Thou Traitor”: Predicting Formal vs. Informal Address in English Literature",
+   "authors": "M Faruqui, S Padó",
+   "venue": "Proceedings of the 49th Annual Meeting of the Association for Computational …",
+   "year": "2011"
+  },
+  {
+   "title": "Soundex-based Translation Correction in Urdu–English Cross-Language Information Retrieval",
+   "authors": "M Faruqui, P Majumder, S Padó",
+   "venue": "CLIR 2011",
+   "year": "2011"
+  },
+  {
+   "title": "The influence of argument structure on semantic role assignment",
+   "authors": "S Padó, G Boleda",
+   "venue": "Proceedings of the 2004 Conference on Empirical Methods in Natural Language …",
+   "year": "2004"
+  },
+  {
+   "title": "Do political opinions transfer between western languages? an analysis of unaligned and aligned multilingual LLMs",
+   "authors": "F Weeber, T Ceron, S Padó",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Explaining Caption-Image Interactions in CLIP models with Second-Order Attributions",
+   "authors": "L Moeller, P Tilli, NT Vu, S Pado",
+   "venue": "Transactions on Machine Learning Research",
+   "year": "2025"
+  },
+  {
+   "title": "Computational Analysis of Gender Depiction in the Comedias of Calder\\'on de la Barca",
+   "authors": "A Keith, AR Castro, H Ehrlicher, K Jung, S Padó",
+   "venue": "arXiv preprint arXiv:2411.03895",
+   "year": "2024"
+  },
+  {
+   "title": "Adverbs, Surprisingly",
+   "authors": "D Nikolaev, CF Baker, MRL Petruck, S Padó",
+   "venue": "Proceedings of STARSEM",
+   "year": "2023"
+  },
+  {
+   "title": "Same same but different: Type and typicality in a distributional model of complement coercion",
+   "authors": "A Zarcone, S Padó, A Lenci",
+   "venue": "NetWordS 2015 Word Knowledge and Word Usage, 91-94",
+   "year": "2015"
+  },
+  {
+   "title": "Entailment graphs for text analytics in the excitement project",
+   "authors": "B Magnini, I Dagan, G Neumann, S Pado",
+   "venue": "International Conference on Text, Speech, and Dialogue, 11-18",
+   "year": "2014"
+  },
+  {
+   "title": "Inducing a computational lexicon from a corpus with syntactic and semantic annotation",
+   "authors": "D Spohr, A Burchardt, S Pado, A Frank, U Heid",
+   "venue": "Proceedings of IWCS 7",
+   "year": "2007"
+  },
+  {
+   "title": "Towards Better Understanding of Automatic Semantic Role Assignment",
+   "authors": "S Padó, GB Torrent",
+   "venue": "Proceedings of the Workshop on Prospects and Advances in the Syntax …",
+   "year": "2003"
+  },
+  {
+   "title": "Beyond Marginal Distributions: A Framework to Evaluate the Representativeness of Demographic-Aligned LLMs",
+   "authors": "T Williams, F Weeber, S Padó, A Akbik",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 4806-4826",
+   "year": "2026"
+  },
+  {
+   "title": "Generalizability of Media Frames: Corpus creation and analysis across countries",
+   "authors": "A Daffara, S Dattawad, S Padó, T Ceron",
+   "venue": "Proceedings of the 14th Joint Conference on Lexical and Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "On the Relationship between Predicate-Argument Structure and Emotionality in Text",
+   "authors": "E Troiano, R Klinger, S Padó",
+   "venue": "Northern European Journal of Language Technology 9 (1)",
+   "year": "2023"
+  },
+  {
+   "title": "Understanding the Relation of User and News Representations in Content-Based Neural News Recommendation",
+   "authors": "L Möller, S Padó",
+   "venue": "Proceedings of the SIGIR Workshop on News Recommendation and Analytics",
+   "year": "2022"
+  },
+  {
+   "title": "Clasificación de tragedias y comedias en las comedias nuevas de Calderón de la Barca",
+   "authors": "J Lehmann, S Padó",
+   "venue": "Revista de Humanidades Digitales 7, 80-103",
+   "year": "2022"
+  },
+  {
+   "title": "Measuring Historical Emotions and Their Evolution: An Interdisciplinary Endeavour to Investigate The ‘Emotions of Encounter’",
+   "authors": "H Ehrlicher, R Klinger, J Lehmann, S Pado",
+   "venue": "Liinc em Revista 15 (1)",
+   "year": "2019"
+  },
+  {
+   "title": "Lexical substitution for evaluating compositional distributional models",
+   "authors": "M Buljan, S Padó, J Šnajder",
+   "venue": "Proceedings of the 2018 Conference of the North American Chapter of the …",
+   "year": "2018"
+  },
+  {
+   "title": "Evaluating and Improving a Derivational Lexicon with Graph-theoretical Methods",
+   "authors": "S Papay, G Lapesa, S Padó",
+   "venue": "Workshop on Resources and Tools for Derivational Morphology (DeriMo)",
+   "year": "2017"
+  },
+  {
+   "title": "Statistical machine translation support improves human adjective translation",
+   "authors": "G Kremer, M Hartung, S Padó, S Riezler",
+   "venue": "Crossroads between Contrastive Linguistics, Translation Studies and Machine …",
+   "year": "2017"
+  },
+  {
+   "title": "Towards a computational model of gradience in word sense",
+   "authors": "K Erk, S Padó",
+   "venue": "Proceedings of IWCS-7, Tilburg, The Netherlands",
+   "year": "2007"
+  },
+  {
+   "title": "Efficient language modeling for low-resource settings with hybrid RNN-transformer architectures",
+   "authors": "G Lindenmaier, S Papay, S Padó",
+   "venue": "arXiv preprint arXiv:2502.00617",
+   "year": "2025"
+  },
+  {
+   "title": "Towards Understanding the Relationship between In-context Learning and Compositional Generalization",
+   "authors": "S Han, S Padó",
+   "venue": "Proceedings of COLING-LREC 2024",
+   "year": "2024"
+  },
+  {
+   "title": "The argument–adjunct distinction in BERT: A FrameNet-based investigation",
+   "authors": "D Nikolaev, S Padó",
+   "venue": "Proceedings of the 15th international conference on computational semantics …",
+   "year": "2023"
+  },
+  {
+   "title": "Learning trilingual dictionaries for Urdu–Roman Urdu–English",
+   "authors": "M Rauf, S Padó",
+   "venue": "Proceedings of the 2019 Workshop on Widening NLP, 38-42",
+   "year": "2019"
+  },
+  {
+   "title": "Integrating lexical-conceptual and distributional semantics: a case report.",
+   "authors": "T Pross, A Rossdeutscher, S Padó, G Lapesa, M Kisselew",
+   "venue": "Proceedings of the Amsterdam Colloquium, 75-84",
+   "year": "2017"
+  },
+  {
+   "title": "Living a discrete life in a continuous world: reference in cross-modal entity tracking",
+   "authors": "G Boleda, S Padó, M Baroni",
+   "venue": "Proceedings of the 12th International Conference on Computational Semantics …",
+   "year": "2017"
+  },
+  {
+   "title": "Mapping conceptual features to referential properties",
+   "authors": "A Gupta, G Boleda, M Baroni, S Padó",
+   "venue": "The 3rd International ESSENCE Workshop: Algorithms for Processing Meaning",
+   "year": "2015"
+  },
+  {
+   "title": "Polysemy index for nouns: an experiment on italian using the parole simple clips lexical database",
+   "authors": "F Frontini, V Quochi, S Padó, M Monachini, J Utt",
+   "venue": "Proceedings of the Ninth International Conference on Language Resources and …",
+   "year": "2014"
+  },
+  {
+   "title": "Corpus-based Acquisition of German Event-and Object-Denoting Nouns",
+   "authors": "S Gorzitze, S Padó",
+   "venue": "KONVENS",
+   "year": "2012"
+  },
+  {
+   "title": "Diverging transformer predictions for human sentence processing: A comprehensive analysis of agreement attraction effects",
+   "authors": "T von der Malsburg, S Padó",
+   "venue": "arXiv preprint arXiv:2603.16574",
+   "year": "2026"
+  },
+  {
+   "title": "Toeing the Party Line: Election Manifestos as a Key to Understand Political Discourse on Twitter",
+   "authors": "M Maurer, T Ceron, S Padó, G Lapesa",
+   "venue": "Findings of EMNLP",
+   "year": "2024"
+  },
+  {
+   "title": "Investigating topic bias in emotion classification",
+   "authors": "M Wegge, S Padó",
+   "venue": "Universität Stuttgart",
+   "year": "2023"
+  },
+  {
+   "title": "Classification of comedies and tragedies written in Calderón de la Barca's Comedias Nuevas",
+   "authors": "J Lehmann, S Padó",
+   "venue": "Zeitschrift für digitale Geisteswissenschaften 7",
+   "year": "2022"
+  },
+  {
+   "title": "Meta learning for code summarization",
+   "authors": "M Rauf, S Padó, M Pradel",
+   "venue": "arXiv preprint arXiv:2201.08310",
+   "year": "2022"
+  },
+  {
+   "title": "Why justifications of claims matter for understanding party positions",
+   "authors": "N Blokker, T Ceron, A Blessing, E Dayanik, S Haunss, J Kuhn, G Lapesa, ...",
+   "venue": "Proceedings of the 2nd workshop on computational linguistics for political …",
+   "year": "2022"
+  },
+  {
+   "title": "Using hierarchical class structure to improve fine-grained claim classification",
+   "authors": "E Dayanık, A Blessing, N Blokker, S Haunss, J Kuhn, G Lapesa, S Padó",
+   "venue": "Proceedings of the 5th Workshop on Structured Prediction for NLP (SPNLP 2021 …",
+   "year": "2021"
+  },
+  {
+   "title": "New domain, major effort? How much data is necessary to adapt a temporal tagger to the voice assistant domain",
+   "authors": "T Alam, A Zarcone, S Padó",
+   "venue": "Proceedings of the 14th International Conference on Computational Semantics …",
+   "year": "2021"
+  },
+  {
+   "title": "Digitale Modellierung von Figurenkomplexität am Beispiel des Parzival von Wolfram von Eschenbach.",
+   "authors": "M Braun, R Klinger, S Padó, G Viehhauser",
+   "venue": "DHd",
+   "year": "2018"
+  },
+  {
+   "title": "“Show me the cup”: Reference with Continuous Representations",
+   "authors": "M Baroni, G Boleda, S Padó",
+   "venue": "International Conference on Computational Linguistics and Intelligent Text …",
+   "year": "2017"
+  },
+  {
+   "title": "Are doggies cuter than dogs? Emotional valence and concreteness in German derivational morphology",
+   "authors": "G Lapesa, S Padó, T Pross, A Rossdeutscher",
+   "venue": "Proceedings of IWCS",
+   "year": "2017"
+  },
+  {
+   "title": "Generalization in Native Language Identification: Learners versus Scientists",
+   "authors": "S Stehwien, S Padó",
+   "venue": "CLiC it, 264",
+   "year": "2015"
+  },
+  {
+   "title": "Corpus-based acquisition of support verb constructions for portuguese",
+   "authors": "BD Zeller, S Padó",
+   "venue": "International Conference on Computational Processing of the Portuguese …",
+   "year": "2012"
+  },
+  {
+   "title": "Extracting semantic information from corpora using dependency relations",
+   "authors": "S Padó",
+   "venue": "MSc Thesis",
+   "year": "2002"
+  },
+  {
+   "title": "Effects of Answer Format Variation on Gender Bias in Large Language Models",
+   "authors": "K Merzlyakova, S Padó, F Weeber",
+   "venue": "arXiv preprint arXiv:2608.17516",
+   "year": "2026"
+  },
+  {
+   "title": "Structuring the Space of Perspectives",
+   "authors": "A Daffara, S Padó, T Ceron",
+   "venue": "arXiv preprint arXiv:2608.12113",
+   "year": "2026"
+  },
+  {
+   "title": "AmchiBias: Measuring Stereotypical Bias in Goan Identity Groups with a Minimal Pair Dataset in English and Konkani",
+   "authors": "M Barbosa, S Padó, F Weeber",
+   "venue": "Proceedings of the 1st Workshop on Stereotypes Across Cultures in Language …",
+   "year": "2026"
+  },
+  {
+   "title": "A Computation Analysis of Character Archetypes in the Works of Calderón de la Barca",
+   "authors": "A Keith, AR Castro, K Jung, H Ehrlicher, S Padó",
+   "venue": "Journal of Computational Literary Studies 5 (1)",
+   "year": "2026"
+  },
+  {
+   "title": "Similar, but why? A Toolkit for Explaining Text Similarity",
+   "authors": "J Opitz, A Michail, L Moeller, S Padó, S Clematide",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "Finding Sense in Nonsense with Generated Contexts: Perspectives from Humans and Language Models",
+   "authors": "K Olsen, S Padó",
+   "venue": "Proceedings of STARSEM",
+   "year": "2026"
+  },
+  {
+   "title": "Low-Resource Sign Language Glossing Profits From Data Augmentation",
+   "authors": "DVL Ortiz, S Padó",
+   "venue": "Proceedings of the Workshop on Sign Language Processing (WSLP), 14-19",
+   "year": "2025"
+  },
+  {
+   "title": "Regular-pattern-sensitive CRFs for Distant Label Interactions",
+   "authors": "S Papay, R Klinger, S Pado",
+   "venue": "ACL Workshop on Large Language Models and Structure Modeling",
+   "year": "2025"
+  },
+  {
+   "title": "Improving multilingual frame identification by estimating frame transferability",
+   "authors": "J Sikos, M Roth, S Padó",
+   "venue": "Linguistic Issues in Language Technology 19",
+   "year": "2022"
+  },
+  {
+   "title": "Distributional Analysis of Polysemous Function Words",
+   "authors": "S Padó, D Hole",
+   "venue": "International Tbilisi Symposium on Logic, Language, and Computation, 113-127",
+   "year": "2019"
+  },
+  {
+   "title": "Text-Based Joint Prediction of Numeric and Categorical Attributes of Entities in Knowledge Bases",
+   "authors": "V Thejas, A Gupta, S Padó",
+   "venue": "Proceedings of the International Conference on Recent Advances in Natural …",
+   "year": "2019"
+  },
+  {
+   "title": "Does free word order hurt? Assessing the Practical Lexical Function model for Croatian",
+   "authors": "Z Medić, J Šnajder, S Padó",
+   "venue": "Proceedings of the 6th Joint Conference on Lexical and Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "Smoothing syntax-based semantic spaces: Let the winner take it all",
+   "authors": "S Padó, J Šnajder, J Utt, BD Zeller",
+   "venue": "Bochumer Linguistische Arbeitsberichte, 186",
+   "year": "2016"
+  },
+  {
+   "title": "Native Language Identification Across Text Types: How Special Are Scientists?",
+   "authors": "S Stehwien, S Padó",
+   "venue": "IJCoL. Italian Journal of Computational Linguistics 2 (2-1)",
+   "year": "2016"
+  },
+  {
+   "title": "CRETA (Centrum für reflektierte Textanalyse)-Fachübergreifende Methodenentwicklung in den Digital Humanities.",
+   "authors": "J Kuhn, A Alexiadou, M Braun, T Ertl, S Holtz, C Kantner, C Misselhorn, ...",
+   "venue": "DHd",
+   "year": "2016"
+  },
+  {
+   "title": "Characterizing the pragmatic component of distributional vectors in terms of polarity: Experiments on German über verbs",
+   "authors": "G Lapesa, M Kisselew, S Padó, T Pross, A Roßdeutscher",
+   "venue": "ESSLLI DISSALT Workshop: Distributional Semantics and Semantic Theory …",
+   "year": "2016"
+  },
+  {
+   "title": "Logical metonymy: Disentangling object type and thematic fit",
+   "authors": "A Zarcone, S Padó",
+   "venue": "Poster presented at the 19th Conference on Architectures and Mechanisms for …",
+   "year": "2013"
+  },
+  {
+   "title": "A corpus study of clause combination",
+   "authors": "O Nikitina, S Padó",
+   "venue": "International Conference on Computational Semantics",
+   "year": "2011"
+  },
+  {
+   "title": "Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics",
+   "authors": "S Pado, Y Peirsman",
+   "venue": "Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural …",
+   "year": "2011"
+  },
+  {
+   "title": "Manual for DependencyVectors 2.5",
+   "authors": "S Padó",
+   "venue": "",
+   "year": "2003"
+  },
+  {
+   "title": "Gaze Behavior in Visual World Experiments Can be Modeled With Off-the-shelf Language-Vision Encoders",
+   "authors": "RM Shankar, T von der Malsburg, S Padó",
+   "venue": "arXiv preprint arXiv:2608.07282",
+   "year": "2026"
+  },
+  {
+   "title": "Comparing and Modeling Argumentation in German Political Communication across Arenas",
+   "authors": "N Vikhrova, J Kühling, S Haunss, S Padó",
+   "venue": "arXiv preprint arXiv:2608.00288",
+   "year": "2026"
+  },
+  {
+   "title": "Understanding the Impact of Linguistic Realization Choices on LLM Stance with Causal Tracing",
+   "authors": "L Huang, S Padó, F Weeber",
+   "venue": "arXiv preprint arXiv:2607.20115",
+   "year": "2026"
+  },
+  {
+   "title": "Comparing Architectures for Supervised Political Scaling",
+   "authors": "A Golub, S Padó",
+   "venue": "arXiv preprint arXiv:2607.01464",
+   "year": "2026"
+  },
+  {
+   "title": "Do Language Models Encode Knowledge of Linguistic Constraint Violations?",
+   "authors": "S Padó",
+   "venue": "arXiv preprint arXiv:2605.12055",
+   "year": "2026"
+  },
+  {
+   "title": "A Comparison of Methods to Bias Translation Toward Portuguese Variants",
+   "authors": "C Costa, S Padó",
+   "venue": "Proceedings of the 17th International Conference on Computational Processing …",
+   "year": "2026"
+  },
+  {
+   "title": "Investigating features of the gracioso of Pedro Calderón de la Barca",
+   "authors": "A Keith, A Rojas-Castro, H Ehrlicher, S Padó",
+   "venue": "Revista de Humanidades Digitales 11, 68-91",
+   "year": "2026"
+  },
+  {
+   "title": "Artwork Interpretation with Vision Language Models: A Case Study on Emotions and Emotion Symbols",
+   "authors": "S Padó, K Thomas",
+   "venue": "Proceedings of the 1st Workshop on Multimodal Models for Low-Resource …",
+   "year": "2025"
+  },
+  {
+   "title": "Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE",
+   "authors": "Hardy, S Padó, A Wührl, T Ceron",
+   "venue": "arXiv preprint arXiv:2508.13978",
+   "year": "2025"
+  },
+  {
+   "title": "Gender Bias in German Masked Language Models: Measurement, Mitigation, and the Role of Gender-inclusive Language",
+   "authors": "PV Skrebba, S Padó",
+   "venue": "Verlagsname nicht ermittelbar",
+   "year": "2025"
+  },
+  {
+   "title": "Assessing cross-lingual frame stability and identifiability with multilingual neural embeddings",
+   "authors": "D Nikolaev, M Roth, S Padó",
+   "venue": "Constructing constructicons, in preparation by Benjamins",
+   "year": "2024"
+  },
+  {
+   "title": "Analysis of political positioning from politician’s tweets",
+   "authors": "MM Maurer",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Grounding semantic transparency in context",
+   "authors": "S Padó",
+   "venue": "Morphology",
+   "year": "2021"
+  },
+  {
+   "title": "Distributional Analysis of Function Words",
+   "authors": "D Hole, S Padó",
+   "venue": "arXiv e-prints, arXiv: 1907.10449",
+   "year": "2019"
+  },
+  {
+   "title": "Instance-based disambiguation of English-ment derivatives",
+   "authors": "M Andreou, L Kawaletz, M Kisselew, G Lapesa, S Pado, I Plag",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "CRETA (Centrum für reflektierte Textanalyse) – Fachübergreifende Methodenentwicklung in den Digital Humanities",
+   "authors": "C Zittel, J Kuhn, A Artemis, M Braun, T Ertl, S Holtz, C Kantner, ...",
+   "venue": "MODELLIERUNG VERNETZUNG VISUALISIERUNG DIE DIGITAL HUMANITIES ALS …",
+   "year": "2016"
+  },
+  {
+   "title": "A Language Model Sensitive to Discourse Context",
+   "authors": "TG Noh, S Padó",
+   "venue": "Proceedings of KONVENS 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Type and Thematic Fit in Logical Metonymy.",
+   "authors": "A Zarcone, S Padó, A Lenci",
+   "venue": "CogSci",
+   "year": "2014"
+  },
+  {
+   "title": "Design and Realization of the EXCITEMENT Open Platform for Textual Entailment.",
+   "authors": "G Neumann, S Padó",
+   "venue": "JSSP, 11",
+   "year": "2013"
+  },
+  {
+   "title": "Bridges Across the Language Divide—EU-BRIDGE Excitement: Exploring Customer Interactions through Textual EntailMENT",
+   "authors": "I Dagan, B Magnini, G Neumann, S Padó",
+   "venue": "Proceedings of Machine Translation Summit XIV: European projects",
+   "year": "2013"
+  },
+  {
+   "title": "Introduction to the EXCITEMENT project: towards an open platform for EXploring Customer Interactions through Textual entailMENT",
+   "authors": "M Wasserblat, E Daya, E Hurvitz, M Gorodetsky, D Volsky, I Dagan, ...",
+   "venue": "Proc. AVIOS 2012, 24-27",
+   "year": "2012"
+  },
+  {
+   "title": "Proceedings of the TextInfer 2011 Workshop on Textual Entailment",
+   "authors": "S Padó, S Thater",
+   "venue": "Proceedings of the TextInfer 2011 Workshop on Textual Entailment",
+   "year": "2011"
+  },
+  {
+   "title": "Proceedings of the ACL 2011 Workshop on Relational Models of Semantics",
+   "authors": "SN Kim, Z Kozareva, P Nakov, DÓ Séaghdha, S Padó, S Szpakowicz",
+   "venue": "Proceedings of the ACL 2011 Workshop on Relational Models of Semantics",
+   "year": "2011"
+  },
+  {
+   "title": "The CoNLL-2009 shared task",
+   "authors": "S Padó, J Hajič, M Ciaramita, Y Zhang, D Kawahara, N Xue, MA Martí, ...",
+   "venue": "Proceedings of the Thirteenth Conference on Computational Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "Paraphrase assessment in structured vector space",
+   "authors": "S Padó, K Erk",
+   "venue": "Proceedings of the Workshop on Geometrical Models of Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "An empirical view on semantic roles within and across languages",
+   "authors": "K Erk, S Pado",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "Student Research Workshop",
+   "authors": "S Pado, JL Read, V Seretan",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "Proceedings of the Eleventh Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop",
+   "authors": "S Pado",
+   "venue": "Association for Computational Linguistics",
+   "year": "2006"
+  },
+  {
+   "title": "Frame Identification as Categorization: Exemplars vs Prototypes in Embeddingland",
+   "authors": "S Padó",
+   "venue": "Proceedings of the 13th International Conference on Computational Semantics …",
+   "year": null
+  },
+  {
+   "title": "Investigating the Relationship between Literary Genres and Emotional Plot Development",
+   "authors": "S Padó, E Kim",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Institut für Maschinelle Sprachverarbeitung Universität Stuttgart Pfaffenwaldring 5B D-70569 Stuttgart",
+   "authors": "E Caulfield, S Padó",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A corpus study of clause combination",
+   "authors": "S Padó",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Institut für Maschinelle Sprachverarbeitung Universität Stuttgart Pfaffenwaldring 5B D-70569 Stuttgart",
+   "authors": "J Hofmann, S Padó, C Sindermann",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Building and exploiting resources for derivational morphology: Datadriven and theorydriven approaches",
+   "authors": "S Padó",
+   "venue": "Resources and Tools for Derivational Morphology (DeriMo 2021), 20",
+   "year": null
+  }
+ ]
+}

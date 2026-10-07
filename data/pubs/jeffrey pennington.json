@@ -1,0 +1,473 @@
+{
+ "user": "cn_FoswAAAAJ",
+ "pubs": [
+  {
+   "title": "Glove: Global vectors for word representation",
+   "authors": "J Pennington, R Socher, CD Manning",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Semi-supervised recursive autoencoders for predicting sentiment distributions",
+   "authors": "R Socher, J Pennington, EH Huang, AY Ng, CD Manning",
+   "venue": "Proceedings of the 2011 conference on empirical methods in natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Deep neural networks as gaussian processes",
+   "authors": "J Lee, Y Bahri, R Novak, SS Schoenholz, J Pennington, J Sohl-Dickstein",
+   "venue": "arXiv preprint arXiv:1711.00165",
+   "year": "2017"
+  },
+  {
+   "title": "Wide neural networks of any depth evolve as linear models under gradient descent",
+   "authors": "J Lee, L Xiao, S Schoenholz, Y Bahri, R Novak, J Sohl-Dickstein, ...",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Dynamic pooling and unfolding recursive autoencoders for paraphrase detection",
+   "authors": "R Socher, EH Huang, J Pennington, CD Manning, AY Ng",
+   "venue": "Advances in Neural Information Processing Systems 2011, 801--809",
+   "year": "2011"
+  },
+  {
+   "title": "Sensitivity and generalization in neural networks: an empirical study",
+   "authors": "R Novak, Y Bahri, DA Abolafia, J Pennington, J Sohl-Dickstein",
+   "venue": "arXiv preprint arXiv:1802.08760",
+   "year": "2018"
+  },
+  {
+   "title": "Dynamical isometry and a mean field theory of cnns: How to train 10,000-layer vanilla convolutional neural networks",
+   "authors": "L Xiao, Y Bahri, J Sohl-Dickstein, S Schoenholz, J Pennington",
+   "venue": "International conference on machine learning, 5393-5402",
+   "year": "2018"
+  },
+  {
+   "title": "Bayesian deep convolutional networks with many channels are gaussian processes",
+   "authors": "R Novak, L Xiao, J Lee, Y Bahri, G Yang, J Hron, DA Abolafia, ...",
+   "venue": "arXiv preprint arXiv:1810.05148",
+   "year": "2018"
+  },
+  {
+   "title": "Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice",
+   "authors": "J Pennington, S Schoenholz, S Ganguli",
+   "venue": "Advances in neural information processing systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "Statistical mechanics of deep learning",
+   "authors": "Y Bahri, J Kadmon, J Pennington, SS Schoenholz, J Sohl-Dickstein, ...",
+   "venue": "Annual review of condensed matter physics 11 (1), 501-528",
+   "year": "2020"
+  },
+  {
+   "title": "Nonlinear random matrix theory for deep learning",
+   "authors": "J Pennington, P Worah",
+   "venue": "Advances in neural information processing systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)",
+   "authors": "J Pennington, R Socher, C Manning",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "Beyond human data: Scaling self-training for problem-solving with language models",
+   "authors": "A Singh, JD Co-Reyes, R Agarwal, A Anand, P Patil, X Garcia, PJ Liu, ...",
+   "venue": "arXiv preprint arXiv:2312.06585",
+   "year": "2023"
+  },
+  {
+   "title": "Finite versus infinite neural networks: an empirical study",
+   "authors": "J Lee, S Schoenholz, J Pennington, B Adlam, L Xiao, R Novak, ...",
+   "venue": "Advances in Neural Information Processing Systems 33, 15156-15172",
+   "year": "2020"
+  },
+  {
+   "title": "A mean field theory of batch normalization",
+   "authors": "G Yang, J Pennington, V Rao, J Sohl-Dickstein, SS Schoenholz",
+   "venue": "arXiv preprint arXiv:1902.08129",
+   "year": "2019"
+  },
+  {
+   "title": "The emergence of spectral universality in deep networks",
+   "authors": "J Pennington, S Schoenholz, S Ganguli",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 1924-1932",
+   "year": "2018"
+  },
+  {
+   "title": "Hexagon functions and the three-loop remainder function",
+   "authors": "LJ Dixon, JM Drummond, M von Hippel, J Pennington",
+   "venue": "Journal of High Energy Physics 2013 (12), 1-95",
+   "year": "2013"
+  },
+  {
+   "title": "Geometry of neural network loss surfaces via random matrix theory",
+   "authors": "J Pennington, Y Bahri",
+   "venue": "International conference on machine learning, 2798-2806",
+   "year": "2017"
+  },
+  {
+   "title": "Small-scale proxies for large-scale transformer training instabilities",
+   "authors": "M Wortsman, P Liu, L Xiao, K Everett, A Alemi, B Adlam, JD Co-Reyes, ...",
+   "venue": "International Conference on Learning Representations 2024, 49844-49869",
+   "year": "2024"
+  },
+  {
+   "title": "The neural tangent kernel in high dimensions: Triple descent and a multi-scale theory of generalization",
+   "authors": "B Adlam, J Pennington",
+   "venue": "International Conference on Machine Learning, 74-84",
+   "year": "2020"
+  },
+  {
+   "title": "The four-loop remainder function and multi-Regge behavior at NNLLA in planar  = 4 super-Yang-Mills theory",
+   "authors": "LJ Dixon, JM Drummond, C Duhr, J Pennington",
+   "venue": "Journal of High Energy Physics 2014 (6), 1-59",
+   "year": "2014"
+  },
+  {
+   "title": "Provable benefit of orthogonal initialization in optimizing deep linear networks",
+   "authors": "W Hu, L Xiao, J Pennington",
+   "venue": "arXiv preprint arXiv:2001.05992",
+   "year": "2020"
+  },
+  {
+   "title": "Single-valued harmonic polylogarithms and the multi-Regge limit",
+   "authors": "LJ Dixon, C Duhr, J Pennington",
+   "venue": "Journal of High Energy Physics 2012 (10), 1-68",
+   "year": "2012"
+  },
+  {
+   "title": "Understanding double descent requires a fine-grained bias-variance decomposition",
+   "authors": "B Adlam, J Pennington",
+   "venue": "Advances in neural information processing systems 33, 11022-11032",
+   "year": "2020"
+  },
+  {
+   "title": "Disentangling trainability and generalization in deep neural networks",
+   "authors": "L Xiao, J Pennington, S Schoenholz",
+   "venue": "International Conference on Machine Learning, 10462-10472",
+   "year": "2020"
+  },
+  {
+   "title": "Leading singularities and off-shell conformal integrals",
+   "authors": "J Drummond, C Duhr, B Eden, P Heslop, J Pennington, VA Smirnov",
+   "venue": "Journal of High Energy Physics 2013 (8), 1-58",
+   "year": "2013"
+  },
+  {
+   "title": "Dynamical isometry and a mean field theory of RNNs: Gating enables signal propagation in recurrent neural networks",
+   "authors": "M Chen, J Pennington, S Schoenholz",
+   "venue": "International Conference on Machine Learning, 873-882",
+   "year": "2018"
+  },
+  {
+   "title": "The spectrum of the fisher information matrix of a single-hidden-layer neural network",
+   "authors": "J Pennington, P Worah",
+   "venue": "Advances in neural information processing systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "4+ 3 phases of compute-optimal neural scaling laws",
+   "authors": "E Paquette, C Paquette, L Xiao, J Pennington",
+   "venue": "Advances in Neural Information Processing Systems 37, 16459-16537",
+   "year": "2024"
+  },
+  {
+   "title": "Scaling exponents across parameterizations and optimizers",
+   "authors": "K Everett, L Xiao, M Wortsman, AA Alemi, R Novak, PJ Liu, I Gur, ...",
+   "venue": "arXiv preprint arXiv:2407.05872",
+   "year": "2024"
+  },
+  {
+   "title": "The surprising simplicity of the early-time learning dynamics of neural networks",
+   "authors": "W Hu, L Xiao, B Adlam, J Pennington",
+   "venue": "Advances in Neural Information Processing Systems 33, 17116-17128",
+   "year": "2020"
+  },
+  {
+   "title": "Spherical random features for polynomial kernels",
+   "authors": "J Pennington, FXX Yu, S Kumar",
+   "venue": "Advances in neural information processing systems 28",
+   "year": "2015"
+  },
+  {
+   "title": "Overparameterization improves robustness to covariate shift in high dimensions",
+   "authors": "N Tripuraneni, B Adlam, J Pennington",
+   "venue": "Advances in Neural Information Processing Systems 34, 13883-13897",
+   "year": "2021"
+  },
+  {
+   "title": "Bootstrapping six-gluon scattering in planar  super-Yang-Mills theory",
+   "authors": "LJ Dixon, JM Drummond, C Duhr, M von Hippel, J Pennington",
+   "venue": "arXiv preprint arXiv:1407.4724",
+   "year": "2014"
+  },
+  {
+   "title": "Temperature check: theory and practice for training models with softmax-cross-entropy losses",
+   "authors": "A Agarwala, J Pennington, Y Dauphin, S Schoenholz",
+   "venue": "arXiv preprint arXiv:2010.07344",
+   "year": "2020"
+  },
+  {
+   "title": "Homogenization of SGD in high-dimensions: exact dynamics and generalization properties: C. Paquette et al.",
+   "authors": "C Paquette, E Paquette, B Adlam, J Pennington",
+   "venue": "Mathematical Programming 214 (1), 1-90",
+   "year": "2025"
+  },
+  {
+   "title": "The BFKL equation, Mueller-Navelet jets and single-valued harmonic polylogarithms",
+   "authors": "V Del Duca, LJ Dixon, C Duhr, J Pennington",
+   "venue": "Journal of High Energy Physics 2014 (2), 1-29",
+   "year": "2014"
+  },
+  {
+   "title": "Second-order regression models exhibit progressive sharpening to the edge of stability",
+   "authors": "A Agarwala, F Pedregosa, J Pennington",
+   "venue": "arXiv preprint arXiv:2210.04860",
+   "year": "2022"
+  },
+  {
+   "title": "Precise learning curves and higher-order scalings for dot-product kernel regression",
+   "authors": "L Xiao, H Hu, T Misiakiewicz, Y Lu, J Pennington",
+   "venue": "Advances in Neural Information Processing Systems 35, 4558-4570",
+   "year": "2022"
+  },
+  {
+   "title": "Estimating the spectral density of large implicit matrices",
+   "authors": "RP Adams, J Pennington, MJ Johnson, J Smith, Y Ovadia, B Patton, ...",
+   "venue": "arXiv preprint arXiv:1802.03451",
+   "year": "2018"
+  },
+  {
+   "title": "The six-point remainder function to all loop orders in the multi-Regge limit",
+   "authors": "J Pennington",
+   "venue": "Journal of High Energy Physics 2013 (1), 1-24",
+   "year": "2013"
+  },
+  {
+   "title": "Exact posterior distributions of wide Bayesian neural networks",
+   "authors": "J Hron, Y Bahri, R Novak, J Pennington, J Sohl-Dickstein",
+   "venue": "arXiv preprint arXiv:2006.10541",
+   "year": "2020"
+  },
+  {
+   "title": "Covariate shift in high-dimensional random feature regression",
+   "authors": "N Tripuraneni, B Adlam, J Pennington",
+   "venue": "arXiv preprint arXiv:2111.08234",
+   "year": "2021"
+  },
+  {
+   "title": "Dynamical isometry and a mean field theory of LSTMs and GRUs",
+   "authors": "D Gilboa, B Chang, M Chen, G Yang, SS Schoenholz, EH Chi, ...",
+   "venue": "arXiv preprint arXiv:1901.08987",
+   "year": "2019"
+  },
+  {
+   "title": "Precise learning curves and higher-order scaling limits for dot-product kernel regression",
+   "authors": "L Xiao, H Hu, T Misiakiewicz, YM Lu, J Pennington",
+   "venue": "Journal of Statistical Mechanics: Theory and Experiment 2023 (11), 114005",
+   "year": "2023"
+  },
+  {
+   "title": "Implicit regularization or implicit conditioning? exact risk trajectories of sgd in high dimensions",
+   "authors": "C Paquette, E Paquette, B Adlam, J Pennington",
+   "venue": "Advances in Neural Information Processing Systems 35, 35984-35999",
+   "year": "2022"
+  },
+  {
+   "title": "A random matrix perspective on mixtures of nonlinearities for deep learning",
+   "authors": "B Adlam, J Levinson, J Pennington",
+   "venue": "arXiv preprint arXiv:1912.00827",
+   "year": "2019"
+  },
+  {
+   "title": "A random matrix perspective on mixtures of nonlinearities in high dimensions",
+   "authors": "B Adlam, JA Levinson, J Pennington",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 3434-3457",
+   "year": "2022"
+  },
+  {
+   "title": "A correspondence between random neural networks and statistical field theory",
+   "authors": "SS Schoenholz, J Pennington, J Sohl-Dickstein",
+   "venue": "arXiv preprint arXiv:1710.06570",
+   "year": "2017"
+  },
+  {
+   "title": "Exploring the uncertainty properties of neural networks' implicit priors in the infinite-width limit",
+   "authors": "B Adlam, J Lee, L Xiao, J Pennington, J Snoek",
+   "venue": "arXiv preprint arXiv:2010.07355",
+   "year": "2020"
+  },
+  {
+   "title": "A strong gravitational lens is worth a thousand dark matter halos: Inference on small-scale structure using sequential methods",
+   "authors": "S Wagner-Carena, J Lee, J Pennington, J Aalbers, S Birrer, RH Wechsler",
+   "venue": "The Astrophysical Journal 975 (2), 297",
+   "year": "2024"
+  },
+  {
+   "title": "Anisotropic random feature regression in high dimensions",
+   "authors": "G Mel, J Pennington",
+   "venue": "International Conference on Learning Representations",
+   "year": "2021"
+  },
+  {
+   "title": "Training llms over neurally compressed text",
+   "authors": "B Lester, J Lee, A Alemi, J Pennington, A Roberts, J Sohl-Dickstein, ...",
+   "venue": "arXiv preprint arXiv:2404.03626",
+   "year": "2024"
+  },
+  {
+   "title": "D-branes and fluxes in supersymmetric quantum mechanics",
+   "authors": "JE Carlisle, CV Johnson, JS Pennington",
+   "venue": "Journal of Physics A: Mathematical and Theoretical 41 (8), 085401",
+   "year": "2008"
+  },
+  {
+   "title": "Scaling collapse reveals universal dynamics in compute-optimally trained neural networks",
+   "authors": "S Qiu, L Xiao, AG Wilson, J Pennington, A Agarwala",
+   "venue": "arXiv preprint arXiv:2507.02119",
+   "year": "2025"
+  },
+  {
+   "title": "Baecklund transformations, D-branes and fluxes in minimal type 0 strings",
+   "authors": "JE Carlisle, CV Johnson, JS Pennington",
+   "venue": "Journal of Physics A: Mathematical and Theoretical 40 (41), 12451-12462",
+   "year": "2007"
+  },
+  {
+   "title": "Wide Bayesian neural networks have a simple weight posterior: theory and accelerated sampling",
+   "authors": "J Hron, R Novak, J Pennington, J Sohl-Dickstein",
+   "venue": "International conference on machine learning, 8926-8945",
+   "year": "2022"
+  },
+  {
+   "title": "High dimensional analysis reveals conservative sharpening and a stochastic edge of stability",
+   "authors": "A Agarwala, J Pennington",
+   "venue": "arXiv preprint arXiv:2404.19261",
+   "year": "2024"
+  },
+  {
+   "title": "Synergy and symmetry in deep learning: Interactions between the data, model, and inference algorithm",
+   "authors": "L Xiao, J Pennington",
+   "venue": "arXiv preprint arXiv:2207.04612",
+   "year": "2022"
+  },
+  {
+   "title": "String theory and water waves",
+   "authors": "R Iyer, CV Johnson, JS Pennington",
+   "venue": "Journal of Physics A: Mathematical and Theoretical 44 (1), 015403",
+   "year": "2011"
+  },
+  {
+   "title": "Training language models on the knowledge graph: Insights on hallucinations and their detectability",
+   "authors": "J Hron, L Culp, G Elsayed, R Liu, B Adlam, M Bileschi, B Bohnet, ...",
+   "venue": "arXiv preprint arXiv:2408.07852",
+   "year": "2024"
+  },
+  {
+   "title": "Manning",
+   "authors": "S Pennington",
+   "venue": "GloVe: Global Vectors for Word Representation",
+   "year": null
+  },
+  {
+   "title": "Non-perturbative string theory from water waves",
+   "authors": "R Iyer, CV Johnson, JS Pennington",
+   "venue": "Journal of Physics A: Mathematical and Theoretical 44 (37), 375401",
+   "year": "2011"
+  },
+  {
+   "title": "KAMA-NNs: Low-dimensional rotation based neural networks",
+   "authors": "K Choromanski, A Pacchiano, J Pennington, Y Tang",
+   "venue": "The 22nd International Conference on Artificial Intelligence and Statistics …",
+   "year": "2019"
+  },
+  {
+   "title": "The Dynamics of Signal Propagation in Gated Recurrent Neural Networks",
+   "authors": "D Gilboa, B Chang, M Chen, G Yang, SS Schoenholz, EH Chi, ...",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Generalized polylogarithms in perturbative quantum field theory",
+   "authors": "JS Pennington",
+   "venue": "Stanford University",
+   "year": "2013"
+  },
+  {
+   "title": "Charge and current neutralization of an ion beam pulse by background plasma in the presence of applied magnetic field",
+   "authors": "JS Pennington, ID Kaganovich, AB Sefkow, EA Startsev, RC Davidson",
+   "venue": "2007 IEEE Particle Accelerator Conference (PAC), 3675-3677",
+   "year": "2007"
+  },
+  {
+   "title": "Frontier Language Models are not Robust to Adversarial Arithmetic, or\" What do I need to say so you agree 2+ 2= 5?",
+   "authors": "CD Freeman, L Culp, A Parisi, ML Bileschi, GF Elsayed, A Rizkowsky, ...",
+   "venue": "arXiv preprint arXiv:2311.07587",
+   "year": "2023"
+  },
+  {
+   "title": "Spherical random features for polynomial kernels",
+   "authors": "J Pennington, S Kumar",
+   "venue": "US Patent 11,636,384",
+   "year": "2023"
+  },
+  {
+   "title": "A second order regression model shows edge of stability behavior",
+   "authors": "A Agarwala, J Pennington, F Pedregosa",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "The Surprising Simplicity of the Early-Time Learning Dynamics of Neural Networks",
+   "authors": "B Adlam, J Pennington, L Xiao, W Hu",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Training ultra-deep CNNs with critical initialization",
+   "authors": "L Xiao, Y Bahri, S Schoenholz, J Pennington",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Analytical model for charge and current neutralization of an ion beam pulse propagating in a plasma in a solenoidal magnetic field",
+   "authors": "J Pennington, ID Kaganovich",
+   "venue": "APS Division of Plasma Physics Meeting Abstracts 48, JP1. 033",
+   "year": "2006"
+  },
+  {
+   "title": "What Breaks The Curse of Dimensionality in Deep Learning?",
+   "authors": "L Xiao, J Pennington",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "swagnercarena/paltax: v1. 0.0-arxiv: 2404.14487",
+   "authors": "S Wagner-Carena, J Lee, J Pennington, J Aalbers, S Birrer, R Wechsler",
+   "venue": "Zenodo",
+   "year": null
+  },
+  {
+   "title": "A Second-order Regression Model Shows Edge of Stability Behavior",
+   "authors": "F Pedregosa, A Agarwala, J Pennington",
+   "venue": "OPT 2022: Optimization for Machine Learning (NeurIPS 2022 Workshop)",
+   "year": null
+  },
+  {
+   "title": "Random Matrix Theory for Machine Learning",
+   "authors": "F Pedregosa, C Paquette, T Trogdon, J Pennington",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Gaussian Predictions from Gradient Descent Training of Wide Neural Networks",
+   "authors": "J Lee, L Xiao, J Sohl-Dickstein, J Pennington",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

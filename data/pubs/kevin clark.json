@@ -1,0 +1,173 @@
+{
+ "user": "Trk_R8wAAAAJ",
+ "pubs": [
+  {
+   "title": "Electra: Pre-training text encoders as discriminators rather than generators",
+   "authors": "K Clark, MT Luong, QV Le, CD Manning",
+   "venue": "arXiv preprint arXiv:2003.10555",
+   "year": "2020"
+  },
+  {
+   "title": "Toward expert-level medical question answering with large language models",
+   "authors": "K Singhal, T Tu, J Gottweis, R Sayres, E Wulczyn, M Amin, L Hou, K Clark, ...",
+   "venue": "Nature medicine 31 (3), 943-950",
+   "year": "2025"
+  },
+  {
+   "title": "What does BERT look at? an analysis of BERT’s attention",
+   "authors": "K Clark, U Khandelwal, O Levy, CD Manning",
+   "venue": "Proceedings of the 2019 ACL workshop BlackboxNLP: analyzing and interpreting …",
+   "year": "2019"
+  },
+  {
+   "title": "Emergent linguistic structure in artificial neural networks trained by self-supervision",
+   "authors": "CD Manning, K Clark, J Hewitt, U Khandelwal, O Levy",
+   "venue": "Proceedings of the National Academy of Sciences 117 (48), 30046-30054",
+   "year": "2020"
+  },
+  {
+   "title": "Deep reinforcement learning for mention-ranking coreference models",
+   "authors": "K Clark, CD Manning",
+   "venue": "Proceedings of the 2016 conference on empirical methods in natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "Inducing domain-specific sentiment lexicons from unlabeled corpora",
+   "authors": "WL Hamilton, K Clark, J Leskovec, D Jurafsky",
+   "venue": "Proceedings of the 2016 conference on empirical methods in natural language …",
+   "year": "2016"
+  },
+  {
+   "title": "Semi-Supervised Sequence Modeling with Cross-View Training",
+   "authors": "K Clark, MT Luong, CD Manning, QV Le",
+   "venue": "arXiv preprint arXiv:1809.08370",
+   "year": "2018"
+  },
+  {
+   "title": "Large-scale analysis of counseling conversations: An application of natural language processing to mental health",
+   "authors": "T Althoff, K Clark, J Leskovec",
+   "venue": "Transactions of the Association for Computational Linguistics 4, 463-476",
+   "year": "2016"
+  },
+  {
+   "title": "Improving coreference resolution by learning entity-level distributed representations",
+   "authors": "K Clark, CD Manning",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "Directly fine-tuning diffusion models on differentiable rewards",
+   "authors": "K Clark, P Vicol, K Swersky, D Fleet",
+   "venue": "International Conference on Learning Representations 2024, 4793-4822",
+   "year": "2024"
+  },
+  {
+   "title": "Entity-centric coreference resolution with model stacking",
+   "authors": "K Clark, CD Manning",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Bam! born-again multi-task networks for natural language understanding",
+   "authors": "K Clark, MT Luong, U Khandelwal, CD Manning, Q Le",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Text-to-image diffusion models are zero shot classifiers",
+   "authors": "K Clark, P Jaini",
+   "venue": "Advances in Neural Information Processing Systems 36, 58921-58937",
+   "year": "2023"
+  },
+  {
+   "title": "Sample efficient text summarization using a single pre-trained transformer",
+   "authors": "U Khandelwal, K Clark, D Jurafsky, L Kaiser",
+   "venue": "arXiv preprint arXiv:1905.08836",
+   "year": "2019"
+  },
+  {
+   "title": "Pre-training transformers as energy-based cloze models",
+   "authors": "K Clark, MT Luong, Q Le, CD Manning",
+   "venue": "Proceedings of the 2020 conference on empirical methods in natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Dev Dash, Jonathan H",
+   "authors": "K Singhal, T Tu, J Gottweis, R Sayres, E Wulczyn, M Amin, L Hou, K Clark, ...",
+   "venue": "Chen, Nigam H. Shah, Sami Lachgar, Philip Andrew Mansfield, and 16",
+   "year": "2025"
+  },
+  {
+   "title": "Intriguing properties of generative classifiers",
+   "authors": "P Jaini, K Clark, R Geirhos",
+   "venue": "International Conference on Learning Representations 2024, 13898-13923",
+   "year": "2024"
+  },
+  {
+   "title": "Revminer: An extractive interface for navigating reviews on a smartphone",
+   "authors": "J Huang, O Etzioni, L Zettlemoyer, K Clark, C Lee",
+   "venue": "Proceedings of the 25th annual ACM symposium on User interface software and …",
+   "year": "2012"
+  },
+  {
+   "title": "Meta-learning fast weight language models",
+   "authors": "K Clark, K Guu, MW Chang, P Pasupat, G Hinton, M Norouzi",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "Contrastive pre-training for language tasks",
+   "authors": "TM Luong, QV Le, KS Clark",
+   "venue": "US Patent 11,449,684",
+   "year": "2022"
+  },
+  {
+   "title": "Training machine learning models using teacher annealing",
+   "authors": "TM Luong, QV Le, KS Clark",
+   "venue": "US Patent 11,488,067",
+   "year": "2022"
+  },
+  {
+   "title": "Stanford at TAC KBP 2017: Building a Trilingual Relational Knowledge Graph.",
+   "authors": "AT Chaganty, A Paranjape, J Bolton, M Lamm, J Lei, A See, K Clark, ...",
+   "venue": "TAC",
+   "year": "2017"
+  },
+  {
+   "title": "Contrastive pre-training for language tasks",
+   "authors": "TM Luong, QV Le, KS Clark",
+   "venue": "US Patent 12,210,845",
+   "year": "2025"
+  },
+  {
+   "title": "Energy-Based Language Models",
+   "authors": "TM Luong, QV Le, KS Clark",
+   "venue": "US Patent App. 17/458,678",
+   "year": "2022"
+  },
+  {
+   "title": "Training machine learning models using teacher annealing",
+   "authors": "TM Luong, QV Le, KS Clark",
+   "venue": "US Patent 11,922,281",
+   "year": "2024"
+  },
+  {
+   "title": "Efficient and Scalable Transfer Learning for Natural Language Processing",
+   "authors": "KS Clark",
+   "venue": "Stanford University",
+   "year": "2021"
+  },
+  {
+   "title": "Learning to discriminate by learning to generate: zero-shot generative models increase human object recognition alignment",
+   "authors": "R Geirhos, K Clark, P Jaini",
+   "venue": "Journal of Vision 24 (10), 132-132",
+   "year": "2024"
+  },
+  {
+   "title": "Contrastive pre-training for language tasks",
+   "authors": "TM Luong, QV Le, KS Clark",
+   "venue": "US Patent 11,914,969",
+   "year": "2024"
+  }
+ ]
+}

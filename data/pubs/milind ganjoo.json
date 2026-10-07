@@ -1,0 +1,35 @@
+{
+ "user": "vzO01jEAAAAJ",
+ "pubs": [
+  {
+   "title": "Zero-shot learning through cross-modal transfer",
+   "authors": "R Socher, M Ganjoo, CD Manning, A Ng",
+   "venue": "Advances in neural information processing systems 26",
+   "year": "2013"
+  },
+  {
+   "title": "Speaker-independent detection of child-directed speech",
+   "authors": "S Schuster, S Pancoast, M Ganjoo, MC Frank, D Jurafsky",
+   "venue": "2014 IEEE Spoken Language Technology Workshop (SLT), 366-371",
+   "year": "2014"
+  },
+  {
+   "title": "Mosco: a privacy-aware middleware for mobile social computing",
+   "authors": "DTT Anh, M Ganjoo, S Braghin, A Datta",
+   "venue": "Journal of Systems and Software 92, 20-31",
+   "year": "2014"
+  },
+  {
+   "title": "What is karma? Quantifying online influence and credibility",
+   "authors": "T Dimson, M Ganjoo",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Hailstorm: Distributed Stream Processing with Exactly Once Semantics",
+   "authors": "T Dimson, M Ganjoo",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

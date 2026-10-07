@@ -1,0 +1,563 @@
+{
+ "user": "7EPsnxEAAAAJ",
+ "pubs": [
+  {
+   "title": "Simulating opinion dynamics with networks of LLM-based agents",
+   "authors": "YS Chuang, A Goyal, N Harlalka, S Suresh, RD Hawkins, S Yang, D Shah, ...",
+   "venue": "Findings of NAACL",
+   "year": "2024"
+  },
+  {
+   "title": "When redundancy is useful: A Bayesian approach to 'overinformative' referring expressions",
+   "authors": "J Degen, RD Hawkins, C Graf, E Kreiss, ND Goodman",
+   "venue": "Psychological Review 127 (4), 591–621",
+   "year": "2020"
+  },
+  {
+   "title": "The emergence of social norms and conventions",
+   "authors": "RD Hawkins, ND Goodman, RL Goldstone",
+   "venue": "Trends in Cognitive Sciences 23 (2), 158-169",
+   "year": "2019"
+  },
+  {
+   "title": "Shared functional specialization in transformer-based language models and the human brain",
+   "authors": "S Kumar*, TR Sumers*, T Yamakoshi, A Goldstein, U Hasson, KA Norman, ...",
+   "venue": "Nature Communications 15, 5523",
+   "year": "2024"
+  },
+  {
+   "title": "Colors in context: A pragmatic neural model for grounded language understanding",
+   "authors": "W Monroe, RD Hawkins, ND Goodman, C Potts",
+   "venue": "Transactions of the Association for Computational Linguistics 5, 325–338",
+   "year": "2017"
+  },
+  {
+   "title": "From partners to populations: A hierarchical Bayesian account of coordination and convention",
+   "authors": "RD Hawkins, M Franke, MC Frank, AE Goldberg, K Smith, TL Griffiths, ...",
+   "venue": "Psychological Review 130 (4), 977–1016",
+   "year": "2023"
+  },
+  {
+   "title": "Characterizing the dynamics of learning in repeated reference games",
+   "authors": "RD Hawkins, MC Frank, ND Goodman",
+   "venue": "Cognitive Science 44 (6), e12845",
+   "year": "2020"
+  },
+  {
+   "title": "ShapeGlot: Learning language for shape differentiation",
+   "authors": "P Achlioptas, JE Fan, RD Hawkins, ND Goodman, LJ Guibas",
+   "venue": "ICCV",
+   "year": "2019"
+  },
+  {
+   "title": "Path ensembles and a tradeoff between communication efficiency and resilience in the human connectome",
+   "authors": "A Avena-Koenigsberger, B Mišić, RD Hawkins, A Griffa, P Hagmann, ...",
+   "venue": "Brain Structure and Function 222 (1), 603-618",
+   "year": "2017"
+  },
+  {
+   "title": "The division of labor in communication: Speakers help listeners account for asymmetries in visual perspective",
+   "authors": "RD Hawkins, H Gweon, ND Goodman",
+   "venue": "Cognitive Science 45 (3), e12926",
+   "year": "2021"
+  },
+  {
+   "title": "Why do you ask? Good questions provoke informative answers.",
+   "authors": "RD Hawkins, A Stuhlmüller, J Degen, ND Goodman",
+   "venue": "Proceedings of the 37th Annual Meeting of the Cognitive Science Society",
+   "year": "2015"
+  },
+  {
+   "title": "Bootstrap methods for the empirical study of decision-making and information flows in social systems",
+   "authors": "S DeDeo, RD Hawkins, S Klingenstein, T Hitchcock",
+   "venue": "Entropy 15 (6), 2246-2276",
+   "year": "2013"
+  },
+  {
+   "title": "Learning rewards from linguistic feedback",
+   "authors": "TR Sumers, MK Ho, RD Hawkins, K Narasimhan, TL Griffiths",
+   "venue": "AAAI",
+   "year": "2021"
+  },
+  {
+   "title": "Abstract visual reasoning with tangram shapes",
+   "authors": "A Ji, N Kojima, N Rush, A Suhr, WK Vong, RD Hawkins, Y Artzi",
+   "venue": "EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "Pragmatic inference and visual abstraction enable contextual flexibility during visual communication",
+   "authors": "JE Fan, RD Hawkins, M Wu, ND Goodman",
+   "venue": "Computational Brain & Behavior 3 (1), 86–101",
+   "year": "2020"
+  },
+  {
+   "title": "Reconciling truthfulness and relevance as epistemic and decision-theoretic utility",
+   "authors": "TR Sumers, MK Ho, TL Griffiths, RD Hawkins",
+   "venue": "Psychological Review 131 (1), 194–230",
+   "year": "2024"
+  },
+  {
+   "title": "Using natural language and program abstractions to instill human inductive biases in machines",
+   "authors": "S Kumar, CG Correa, I Dasgupta, R Marjieh, MY Hu, RD Hawkins, ...",
+   "venue": "NeurIPS",
+   "year": "2022"
+  },
+  {
+   "title": "Convention-formation in iterated reference games",
+   "authors": "RD Hawkins, M Frank, ND Goodman",
+   "venue": "Proceedings of the 39th Annual Meeting of the Cognitive Science Society",
+   "year": "2017"
+  },
+  {
+   "title": "Features of response times: Identification of cognitive mechanisms through mathematical modeling",
+   "authors": "D Algom, A Eidels, RD Hawkins, B Jefferson, JT Townsend",
+   "venue": "The Oxford Handbook of Computational and Mathematical Psychology, 63-98",
+   "year": "2015"
+  },
+  {
+   "title": "Improving the replicability of psychological science through pedagogy",
+   "authors": "RD Hawkins*, EN Smith*, C Au, JM Arias, R Catapano, E Hermann, ...",
+   "venue": "Advances in Methods and Practices in Psychological Science 1 (1), 7–18",
+   "year": "2018"
+  },
+  {
+   "title": "Evaluating LLM agent group dynamics against human group dynamics: A case study on Wisdom of Partisan Crowds",
+   "authors": "YS Chuang, S Suresh, N Harlalka, A Goyal, RD Hawkins, S Yang, D Shah, ...",
+   "venue": "Proceedings of the 46th Annual Conference of the Cognitive Science Society.",
+   "year": "2024"
+  },
+  {
+   "title": "Visual resemblance and interaction history jointly constrain pictorial meaning",
+   "authors": "RD Hawkins, M Sano, ND Goodman, JE Fan",
+   "venue": "Nature Communications 14 (1), 2199",
+   "year": "2023"
+  },
+  {
+   "title": "The formation of social conventions in real-time environments",
+   "authors": "RD Hawkins, RL Goldstone",
+   "venue": "PLoS ONE 11 (3), 1-14",
+   "year": "2016"
+  },
+  {
+   "title": "Conducting real-time multiplayer experiments on the web",
+   "authors": "RD Hawkins",
+   "venue": "Behavior Research Methods 47 (4), 966-976",
+   "year": "2015"
+  },
+  {
+   "title": "Experimentology: An open science approach to experimental psychology methods",
+   "authors": "MC Frank, M Braginsky, J Cachia, N Coles, TE Hardwicke, RD Hawkins, ...",
+   "venue": "MIT Press",
+   "year": "2025"
+  },
+  {
+   "title": "Investigating representations of verb bias in neural language models",
+   "authors": "RD Hawkins*, T Yamakoshi*, TL Griffiths, AE Goldberg",
+   "venue": "EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "How to talk so AI will learn: Instructions, descriptions, and autonomy",
+   "authors": "TR Sumers, RD Hawkins, MK Ho, TL Griffiths, D Hadfield-Menell",
+   "venue": "NeurIPS",
+   "year": "2022"
+  },
+  {
+   "title": "Continual adaptation for efficient machine communication",
+   "authors": "RD Hawkins, M Kwon, D Sadigh, ND Goodman",
+   "venue": "CoNLL",
+   "year": "2020"
+  },
+  {
+   "title": "Gesturing toward abstraction: Multimodal convention formation in collaborative physical tasks",
+   "authors": "K Maeda, WP McCarthy, CY Tsai, J Mu, H Wang, RD Hawkins, JE Fan, ...",
+   "venue": "CHI",
+   "year": "2026"
+  },
+  {
+   "title": "Flexible social inference facilitates targeted social learning when rewards are not observable",
+   "authors": "RD Hawkins, AM Berdahl, A Pentland, JB Tenenbaum, ND Goodman, ...",
+   "venue": "Nature Human Behavior 7, 1767–1776",
+   "year": "2023"
+  },
+  {
+   "title": "Semantic relatedness retroactively boosts memory and promotes memory interdependence across episodes",
+   "authors": "J Antony, A Romero, A Vierra, R Luenser, RD Hawkins, K Bennion",
+   "venue": "eLife 11, e72519",
+   "year": "2022"
+  },
+  {
+   "title": "Core knowledge deficits in multi-modal language models",
+   "authors": "Y Li, Q Gao, T Zhao, B Wang, H Sun, H Lyu, RD Hawkins, N Vasconcelos, ...",
+   "venue": "ICML",
+   "year": "2025"
+  },
+  {
+   "title": "The emergence of specialized roles within groups",
+   "authors": "RL Goldstone, EJ Andrade‐Lotero, RD Hawkins, ME Roberts",
+   "venue": "Topics in Cognitive Science 16, 257–281",
+   "year": "2024"
+  },
+  {
+   "title": "Show or tell? Exploring when (and why) teaching with language outperforms demonstration",
+   "authors": "TR Sumers, MK Ho, RD Hawkins, TL Griffiths",
+   "venue": "Cognition 232, 105326",
+   "year": "2023"
+  },
+  {
+   "title": "Interaction structure constrains the emergence of conventions in group communication",
+   "authors": "V Boyce, RD Hawkins, ND Goodman, MC Frank",
+   "venue": "Proceedings of the National Academy of Sciences 121 (28), e2403888121",
+   "year": "2024"
+  },
+  {
+   "title": "Open-domain clarification question generation without question examples",
+   "authors": "J White, G Poesia, RD Hawkins, D Sadigh, N Goodman",
+   "venue": "EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "A hierarchical Bayesian model of adaptive teaching",
+   "authors": "AM Chen, A Palacci, N Vélez, RD Hawkins*, SJ Gershman*",
+   "venue": "Cognitive Science 48, e13477",
+   "year": "2024"
+  },
+  {
+   "title": "Relevant answers to polar questions",
+   "authors": "RD Hawkins, P Tsvilodub, CA Bergey, ND Goodman, M Franke",
+   "venue": "Philosophical Transactions of the Royal Society B: Biological Sciences 380 …",
+   "year": "2025"
+  },
+  {
+   "title": "Shades of confusion: Lexical uncertainty modulates ad hoc coordination in an interactive communication task",
+   "authors": "SK Murthy, TL Griffiths, RD Hawkins",
+   "venue": "Cognition 225, 105152",
+   "year": "2022"
+  },
+  {
+   "title": "Communicating semantic part information in drawings",
+   "authors": "K Mukherjee, RD Hawkins, JE Fan",
+   "venue": "Proceedings of the 41st Annual Meeting of the Cognitive Science Society",
+   "year": "2019"
+  },
+  {
+   "title": "Can two dots form a Gestalt? Measuring emergent features with the capacity coefficient",
+   "authors": "RD Hawkins, JW Houpt, A Eidels, JT Townsend",
+   "venue": "Vision Research 126, 19-33",
+   "year": "2016"
+  },
+  {
+   "title": "A pragmatic account of the weak evidence effect",
+   "authors": "SA Barnett, TL Griffiths, RD Hawkins",
+   "venue": "Open Mind 6, 169-182",
+   "year": "2022"
+  },
+  {
+   "title": "Identifying concept libraries from language about object structure",
+   "authors": "L Wong*, WP McCarthy*, G Grand*, Y Friedman, JB Tenenbaum, ...",
+   "venue": "Proceedings of the 44th Annual Meeting of the Cognitive Science Society",
+   "year": "2022"
+  },
+  {
+   "title": "Probing BERT's priors with serial reproduction chains",
+   "authors": "T Yamakoshi, TL Griffiths, RD Hawkins",
+   "venue": "Findings of ACL",
+   "year": "2022"
+  },
+  {
+   "title": "Group coordination catalyzes individual and cultural intelligence",
+   "authors": "CM Wu, R Dale, RD Hawkins",
+   "venue": "Open Mind 8, 1037–1057",
+   "year": "2024"
+  },
+  {
+   "title": "A tutorial on general recognition theory",
+   "authors": "NH Silbert, RD Hawkins",
+   "venue": "Journal of Mathematical Psychology 73, 94-109",
+   "year": "2016"
+  },
+  {
+   "title": "Causal interventions expose implicit situation models for commonsense language understanding",
+   "authors": "T Yamakoshi, JL McClelland, AE Goldberg, RD Hawkins",
+   "venue": "Findings of ACL",
+   "year": "2023"
+  },
+  {
+   "title": "Comparing human and LLM politeness strategies in free production",
+   "authors": "H Zhao, RD Hawkins",
+   "venue": "EMNLP",
+   "year": "2025"
+  },
+  {
+   "title": "Using LLMs to advance the cognitive science of collectives",
+   "authors": "I Sucholutsky, KM Collins, N Jacoby, BD Thompson, RD Hawkins",
+   "venue": "Nature Computational Science 5, 704–707",
+   "year": "2025"
+  },
+  {
+   "title": "DEBATE: A large-scale benchmark for role-playing LLM agents in multi-agent, long-form debates",
+   "authors": "YS Chuang, R Tu, C Dai, S Vasani, B Yao, MH Tessler, S Yang, DV Shah, ...",
+   "venue": "ArXiv preprint",
+   "year": "2025"
+  },
+  {
+   "title": "Parents spontaneously scaffold the formation of conversational pacts with their children",
+   "authors": "A Leung, D Yurovsky, RD Hawkins",
+   "venue": "Child Development 96 (2), 546-561",
+   "year": "2025"
+  },
+  {
+   "title": "Coarse-to-fine sequential monte carlo for probabilistic programs",
+   "authors": "A Stuhlmüller, RD Hawkins, N Siddharth, ND Goodman",
+   "venue": "arXiv preprint arXiv:1509.02962",
+   "year": "2015"
+  },
+  {
+   "title": "Accommodation and epistemic vigilance: A pragmatic account of why LLMs fail to challenge harmful beliefs",
+   "authors": "M Cheng, RD Hawkins, D Jurafsky",
+   "venue": "ACL",
+   "year": "2026"
+  },
+  {
+   "title": "Lexical search and social reasoning jointly explain communication in associative reference games",
+   "authors": "AA Kumar, RD Hawkins",
+   "venue": "Journal of Experimental Psychology: General 154 (9), 2361–2385",
+   "year": "2025"
+  },
+  {
+   "title": "Respect the code: Speakers expect novel conventions to generalize within but not across social group boundaries",
+   "authors": "RD Hawkins, I Liu, AE Goldberg, TL Griffiths",
+   "venue": "Proceedings of the 43rd Annual Meeting of the Cognitive Science Society",
+   "year": "2021"
+  },
+  {
+   "title": "CalBench: Evaluating coordination-privacy trade-offs in multi-agent LLMs",
+   "authors": "C Zou, Y Yao, S She, RD Hawkins",
+   "venue": "arXiv preprint arXiv:2605.09823",
+   "year": "2026"
+  },
+  {
+   "title": "Minding the politeness gap in cross-cultural communication",
+   "authors": "Y Machino, M Hofer, M Siegel, JB Tenenbaum, RD Hawkins",
+   "venue": "Proceedings of the 47th Annual Conference of the Cognitive Science Society",
+   "year": "2025"
+  },
+  {
+   "title": "Integrating neural and symbolic components in a model of pragmatic question-answering",
+   "authors": "P Tsvilodub, RD Hawkins, M Franke",
+   "venue": "SCiL",
+   "year": "2025"
+  },
+  {
+   "title": "Dynamics of topic exploration in conversation",
+   "authors": "H Schmidt, CA Bergey, C Zhou, C Helion, RD Hawkins",
+   "venue": "Proceedings of the 47th Annual Conference of the Cognitive Science Society",
+   "year": "2025"
+  },
+  {
+   "title": "A longitudinal analysis of children's communicative acts",
+   "authors": "CA Bergey, ME O'Keeffe, RD Hawkins",
+   "venue": "Proceedings of the 46th Annual Conference of the Cognitive Science Society",
+   "year": "2024"
+  },
+  {
+   "title": "Mixed-effects transformers for hierarchical adaptation",
+   "authors": "J White, N Goodman, RD Hawkins",
+   "venue": "EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks",
+   "authors": "S Yu, M Cheng, A Jabbar, I Sucholutsky, KM Collins, D Jurafsky, ...",
+   "venue": "arXiv preprint arXiv:2605.22687",
+   "year": "2026"
+  },
+  {
+   "title": "How do we get to know someone? Diagnostic questions for inferring personal traits",
+   "authors": "E Brockbank, T Gerstenberg, JE Fan, RD Hawkins",
+   "venue": "Proceedings of the 47th Annual Conference of the Cognitive Science Society",
+   "year": "2025"
+  },
+  {
+   "title": "When and why does shared reality generalize?",
+   "authors": "W Mahaphanit, CL Welker, H Schmidt, LJ Chang, RD Hawkins",
+   "venue": "Proceedings of the 46th Annual Conference of the Cognitive Science Society",
+   "year": "2024"
+  },
+  {
+   "title": "Natural language communication enables groups to overcome unrepresentative private evidence",
+   "authors": "Y Zubak, RD Hawkins",
+   "venue": "OSF",
+   "year": "2026"
+  },
+  {
+   "title": "Conceptual pacts generalize to undiscussed referents",
+   "authors": "A Ji, CA Bergey, R Eliav, Y Artzi, RD Hawkins",
+   "venue": "Science Advances",
+   "year": "2026"
+  },
+  {
+   "title": "Learning a hierarchical planner from humans in multiple generations",
+   "authors": "L Hernandez Cano, Y Pu, RD Hawkins, J Tenenbaum, A Solar-Lezama",
+   "venue": "arXiv e-prints, arXiv: 2310.11614",
+   "year": "2023"
+  },
+  {
+   "title": "CogGym: Towards large-scale comparative evaluation of human and machine cognition",
+   "authors": "L Ying, J Wu, YS Wang, S Aarya, LMS Buschoff, H Chen, KM Collins, ...",
+   "venue": "arXiv preprint arXiv:2609.21259",
+   "year": "2026"
+  },
+  {
+   "title": "Shall usage in legal texts is motivated by genre, not writing process",
+   "authors": "T Brooks, RD Hawkins",
+   "venue": "LSA",
+   "year": "2026"
+  },
+  {
+   "title": "Talk is cheap, communication is hard: Dynamic grounding failures and repair in multi-agent negotiation",
+   "authors": "Y Yao, C Zou, RD Hawkins",
+   "venue": "COLM",
+   "year": "2026"
+  },
+  {
+   "title": "Act or clarify? Modeling sensitivity to uncertainty and cost in communication",
+   "authors": "P Tsvilodub, K Mulligan, T Snider, RD Hawkins, M Franke",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "When more words say less: Decoupling length and specificity in image description evaluation",
+   "authors": "R Kapur, RD Hawkins, E Kreiss",
+   "venue": "ACL",
+   "year": "2026"
+  },
+  {
+   "title": "Pragmatic Explanation of Causal Inference from Correlational Statements",
+   "authors": "A Zur, E Goodwin, C Shain, R Hawkins",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "When precision pays: Costs, benefits, and constraints in good-enough production",
+   "authors": "J Mankewitz, M Zettersten, C Jacobs, RD Hawkins",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "Signaling social identity in referential communication",
+   "authors": "A Chen, RD Hawkins, R Saxe",
+   "venue": "Journal of Experimental Psychology: General",
+   "year": "2026"
+  },
+  {
+   "title": "The Tangrams Codeswitching Corpus",
+   "authors": "AL Beatty-Martínez, J Li, Y Shen, S Mulík, RD Hawkins, ...",
+   "venue": "Scientific Data",
+   "year": "2026"
+  },
+  {
+   "title": "Amplified does not mean predictive: Reasoning behaviors in thinking models",
+   "authors": "JD Nyandwi, L Mathur, Y Bisk, RD Hawkins, G Neubig",
+   "venue": "COLM",
+   "year": "2026"
+  },
+  {
+   "title": "Refbank: an open repository of iterated reference game data",
+   "authors": "V Boyce, A Tan, J Mankewitz, F Feng, B Fernandez, R Fried, M Frank, ...",
+   "venue": "PsyArXiv",
+   "year": "2026"
+  },
+  {
+   "title": "Cognitive-Science--Inspired Evaluation of Large Language Models",
+   "authors": "S Fu, C Beger, RC Yi, M Mitchell, MC Frank, R Millière, R Hawkins, ...",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "The socio-pragmatic function of linguistic complexity in the domain of law",
+   "authors": "T Brooks, R Hawkins",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "Selective Truths: How Speakers Mislead and Listeners Miss It?",
+   "authors": "K Fang, RH Guan, CM Wu, M Franke, R Hawkins",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "Inferring Joint Commitment from Observed Coordination",
+   "authors": "J Kuang, E Brockbank, C Bicchieri, R Hawkins",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "The Content of Common Ground Shapes Coordination",
+   "authors": "Y Machino, R Hawkins",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "A Utility-Based Account of the Choice of Constituent Question Polarity",
+   "authors": "S Lee, R Hawkins",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "Making room for new words",
+   "authors": "CA Bergey, AM Altenhof, CV Burnham, O Lee, R Hawkins",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "Balancing Competing Goals when Coordinating over Rule Construction",
+   "authors": "J Mankewitz, K Collins, J Tenenbaum, T Griffiths, RD Hawkins",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "From idiosyncratic narratives to social scripts: Mapping the semantic space of self-descriptions in children and adults",
+   "authors": "KE Perez, CA Bergey, RD Hawkins, H Gweon",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "Asking the right questions? What people learn about strangers in conversation",
+   "authors": "E Brockbank, N Dee, M O’Keeffe, W Mahaphanit, T Gerstenberg, J Fan, ...",
+   "venue": "Proceedings of the 48th Annual Meeting of the Cognitive Science Society",
+   "year": "2026"
+  },
+  {
+   "title": "Evaluating distillation methods for data-efficient syntax learning",
+   "authors": "T Yamakoshi, TL Griffiths, RT McCoy, RD Hawkins",
+   "venue": "Findings of EMNLP",
+   "year": "2025"
+  },
+  {
+   "title": "Measuring LLM Generation Spaces with EigenScore",
+   "authors": "S Yu, M Cheng, A Jabbar, RD Hawkins, D Jurafsky",
+   "venue": "First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models",
+   "year": "2025"
+  },
+  {
+   "title": "Two paths to variation in semantic judgments: How ambiguity and conceptual diversity drive individual differences in meaning",
+   "authors": "D Liu, R Marjieh, N Jacoby, R Hawkins",
+   "venue": "Proceedings of the 47th Annual Meeting of the Cognitive Science Society",
+   "year": "2025"
+  },
+  {
+   "title": "Function shapes form: Compositionality emerges from communicative needs, not environmental structure alone",
+   "authors": "J Mankewitz, RD Hawkins",
+   "venue": "Proceedings of the 47th Annual Meeting of the Cognitive Science Society",
+   "year": "2025"
+  },
+  {
+   "title": "Toddlers actively sample from reliable and unreliable speakers",
+   "authors": "J Mankewitz, RD Hawkins, J Saffran",
+   "venue": "Proceedings of the 46th Annual Conference of the Cognitive Science Society",
+   "year": "2024"
+  }
+ ]
+}

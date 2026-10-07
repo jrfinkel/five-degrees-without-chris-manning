@@ -1,0 +1,359 @@
+{
+ "user": "zUJ8Ao4AAAAJ",
+ "pubs": [
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts",
+   "authors": "Y Koreeda, CD Manning",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Towards better non-tree argument mining: Proposition-level biaffine parsing with task-specific parameterization",
+   "authors": "G Morio, H Ozaki, T Morishita, Y Koreeda, K Yanai",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "Hitachi at MRP 2020: Text-to-graph-notation transducer",
+   "authors": "H Ozaki, G Morio, Y Koreeda, T Morishita, T Miyoshi",
+   "venue": "Proceedings of the CoNLL 2020 Shared Task: Cross-Framework Meaning …",
+   "year": "2020"
+  },
+  {
+   "title": "Holistic evaluation of language models. CoRR, abs/2211.09110, 2022. doi: 10.48550",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint ARXIV.2211.09110 10",
+   "year": "2022"
+  },
+  {
+   "title": "Development and testing of an endoscopic pseudo-viewpoint alternating system",
+   "authors": "Y Koreeda, S Obata, Y Nishio, S Miura, Y Kobayashi, K Kawamura, ...",
+   "venue": "International journal of computer assisted radiology and surgery 10 (5), 619-628",
+   "year": "2015"
+  },
+  {
+   "title": "Neural attention model for classification of sentences that support promoting/suppressing relationship",
+   "authors": "Y Koreeda, T Yanase, K Yanai, M Sato, Y Niwa",
+   "venue": "Proceedings of the Third Workshop on Argument Mining (ArgMining2016), 76-81",
+   "year": "2016"
+  },
+  {
+   "title": "Larch: Large language model-based automatic readme creation with heuristics",
+   "authors": "Y Koreeda, T Morishita, O Imaichi, Y Sogawa",
+   "venue": "Proceedings of the 32nd ACM International Conference on Information and …",
+   "year": "2023"
+  },
+  {
+   "title": "bunji at SemEval-2017 task 3: Combination of neural similarity features and comment plausibility features",
+   "authors": "Y Koreeda, T Hashito, Y Niwa, M Sato, T Yanase, K Kurotsuchi, K Yanai",
+   "venue": "Proceedings of the 11th International Workshop on Semantic Evaluation …",
+   "year": "2017"
+  },
+  {
+   "title": "Capturing Logical Structure of Visually Structured Documents with Multimodal Transition Parser",
+   "authors": "Y Koreeda, CD Manning",
+   "venue": "Proceedings of the Natural Legal Language Processing Workshop 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Virtual shadow drawing system using augmented reality for laparoscopic surgery",
+   "authors": "S Miura, M Seki, Y Koreeda, Y Cao, K Kawamura, Y Kobayashi, MG Fujie, ...",
+   "venue": "Advanced Biomedical Engineering 11, 87-97",
+   "year": "2022"
+  },
+  {
+   "title": "Hitachi at SemEval-2020 Task 12: Offensive language identification with noisy labels using statistical sampling and post-processing",
+   "authors": "M Ravikiran, EM Amin, T Miyoshi, H Ozaki, Y Koreeda, S Masayuki",
+   "venue": "Proceedings of the Fourteenth Workshop on Semantic Evaluation, 1961-1967",
+   "year": "2020"
+  },
+  {
+   "title": "Virtually transparent surgical instruments in endoscopic surgery with augmentation of obscured regions",
+   "authors": "Y Koreeda, Y Kobayashi, S Ieiri, Y Nishio, K Kawamura, S Obata, ...",
+   "venue": "International journal of computer assisted radiology and surgery 11 (10 …",
+   "year": "2016"
+  },
+  {
+   "title": "Hitachi at MRP 2019: Unified encoder-to-biaffine network for cross-framework meaning representation parsing",
+   "authors": "Y Koreeda, G Morio, T Morishita, H Ozaki, K Yanai",
+   "venue": "Proceedings of the shared task on cross-framework meaning representation …",
+   "year": "2019"
+  },
+  {
+   "title": "StruAP: A Tool for Bundling Linguistic Trees through Structure-based Abstract Pattern",
+   "authors": "K Yanai, M Sato, T Yanase, K Kurotsuchi, Y Koreeda, Y Niwa",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "Hitachi at semeval-2023 task 3: Exploring cross-lingual multi-task strategies for genre and framing detection in online news",
+   "authors": "Y Koreeda, K Yokote, H Ozaki, A Yamaguchi, M Tsunokake, Y Sogawa",
+   "venue": "Proceedings of the 17th International Workshop on Semantic Evaluation …",
+   "year": "2023"
+  },
+  {
+   "title": "Split first and then rephrase: Hierarchical generation for sentence simplification",
+   "authors": "M Wang, H Ozaki, Y Koreeda, K Yanai",
+   "venue": "International Conference of the Pacific Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Hitachi at SemEval-2023 task 4: Exploring various task formulations reveals the importance of description texts on human values",
+   "authors": "M Tsunokake, A Yamaguchi, Y Koreeda, H Ozaki, Y Sogawa",
+   "venue": "Proceedings of the 17th International Workshop on Semantic Evaluation …",
+   "year": "2023"
+  },
+  {
+   "title": "国会会議録を用いたディベート人工知能による意見生成",
+   "authors": "佐藤美沙， 柳井孝介， 柳瀬利彦， 是枝祐太， 丹羽芳樹",
+   "venue": "人工知能学会全国大会論文集 第 31 回 (2017), 4Q19in2-4Q19in2",
+   "year": "2017"
+  },
+  {
+   "title": "Building domain-specific small language models via guided data generation",
+   "authors": "A Kumar, EM Amin, XY Lee, L Vidyaratne, AK Farahat, DD Ghosh, ...",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (47), 40287 …",
+   "year": "2026"
+  },
+  {
+   "title": "自動運転のインターフェース構築を目的とした視点と指先位置の測定による指示方向推定手法の構築",
+   "authors": "中山正之， 三浦智， 河野信哉， 是枝祐太， 山本晃裕， 福本亮太， 佐久間壮， ...",
+   "venue": "日本機械学会論文集 81 (832), 15-00088-15-00088",
+   "year": "2015"
+  },
+  {
+   "title": "Agent fine-tuning through distillation for domain-specific LLMs in microdomains",
+   "authors": "Y Xue, M Tsunokake, Y Koreeda, EM Amin, T Sumiyoshi, Y Sogawa",
+   "venue": "2025 Artificial Intelligence for Business (AIxB), 128-133",
+   "year": "2025"
+  },
+  {
+   "title": "Building Domain-Specific Small Language Models on a Shoestring via Guided Data Generation",
+   "authors": "A Kumar, EM Amin, XY Lee, L Vidyaratne, AK Farahat, Y Koreeda, ...",
+   "venue": "Large Language Models for Scientific and Societal Advances",
+   "year": "2025"
+  },
+  {
+   "title": "Acquiring bidirectionality via large and small language models",
+   "authors": "T Goto, H Nagao, Y Koreeda",
+   "venue": "Proceedings of the 31st International Conference on Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "CHICOT: a developer-assistance toolkit for code search with high-level contextual information",
+   "authors": "T Morishita, Y Koreeda, A Yamaguchi, G Morio, O Imaichi, Y Sogawa",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (21), 23817 …",
+   "year": "2024"
+  },
+  {
+   "title": "営業報告書内の時間情報表現を手掛かりとした受注時期の予測",
+   "authors": "角掛正弥， 是枝祐太， 本間健， 井上鉄平， 丹羽雄平",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 4Xin110-4Xin110",
+   "year": "2023"
+  },
+  {
+   "title": "意見文章自動生成のための組合せ構文特徴を用いたサポート性推定",
+   "authors": "佐藤美沙， 柳井孝介， 柳瀬利彦， 三好利昇， 是枝祐太， 丹羽芳樹",
+   "venue": "人工知能学会論文誌 31 (6), AI30-L_1-12",
+   "year": "2016"
+  },
+  {
+   "title": "Is Micro Domain-Adaptive Pre-Training Effective for Real-World Operations? Multi-Step Evaluation Reveals Potential and Bottlenecks",
+   "authors": "M Tsunokake, Y Koreeda, T Morishita, K Nagatsuka, H Tomonari, ...",
+   "venue": "Proceedings of the 19th Conference of the European Chapter of the …",
+   "year": "2026"
+  },
+  {
+   "title": "i-Parser: Interactive parser development kit for natural language processing",
+   "authors": "G Morio, H Ozaki, Y Koreeda, T Morishita, T Miyoshi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (18), 16091 …",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluation of virtual shadow’s direction in laparoscopic surgery",
+   "authors": "S Miura, M Seki, Y Koreeda, Y Cao, K Kawamura, Y Kobayashi, MG Fujie, ...",
+   "venue": "2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics and …",
+   "year": "2020"
+  },
+  {
+   "title": "A Joint Neural Model for Patent Classification and Rationale Identification",
+   "authors": "Y Koreeda, H Mase, K Yanai",
+   "venue": "Transactions of the Japanese Society for Artificial Intelligence 34",
+   "year": "2019"
+  },
+  {
+   "title": "Judgment support system and judgment support method",
+   "authors": "K Kurotsuchi, K Yanai, T Yanase, M SATO, Y Koreeda, Y Niwa, K Yano",
+   "venue": "US Patent App. 15/839,385",
+   "year": "2018"
+  },
+  {
+   "title": "The effect of forceps manipulation for expert pediatric surgeons using an endoscopic pseudo-viewpoint alternating system: the phenomenon of economical slow and fast performance …",
+   "authors": "S Ieiri, T Jimbo, Y Koreeda, S Obata, M Uemura, R Souzaki, Y Kobayashi, ...",
+   "venue": "Pediatric surgery international 31 (10), 971-976",
+   "year": "2015"
+  },
+  {
+   "title": "SParK-Eval: Evaluating Structure-Aware Knowledge Acquisition in LLMs for Domain Adaptation to Industrial Records",
+   "authors": "EM Amin, Y Koreeda, Y Sogawa",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 24403-24418",
+   "year": "2026"
+  },
+  {
+   "title": "Disentangling the Effects of Unlearning in Measuring Parametric Faithfulness of Chain-of-Thought",
+   "authors": "R Mitsuhashi, G Morio, A Niwa, M Kaneko, K Inui, T Morishita, Y Koreeda, ...",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Agent Fine–Tuning with Knowledge Distillation: Achieving Cost–Efficient and High–Fidelity LLMs in Microdomains",
+   "authors": "Y Xue, M Tsunokake, Y Koreeda, Y Sogawa",
+   "venue": "International Journal of Semantic Computing 20 (01), 31-44",
+   "year": "2026"
+  },
+  {
+   "title": "考え方の原則に基づくタスク特化型大規模推論モデルの構築 システム設計書レビューを題材とした初期検討",
+   "authors": "是枝祐太， 永塚光一， 西川和寿， 森靖英， 大井田駿， 福井大輔",
+   "venue": "人工知能学会全国大会論文集 第 40 回 (2026), 4YinB47-4YinB47",
+   "year": "2026"
+  },
+  {
+   "title": "用語辞書を用いた LLM による設計書の表記ゆれ自動修正手法",
+   "authors": "西川和寿， 是枝祐太， 森靖英， 大井田駿， 福井大輔",
+   "venue": "人工知能学会全国大会論文集 第 40 回 (2026), 3YinA44-3YinA44",
+   "year": "2026"
+  },
+  {
+   "title": "Question generation apparatus, question generation system, and question generation method",
+   "authors": "XUE Yawen, Y Koreeda, M TSUNOKAKE",
+   "venue": "US Patent App. 19/068,421",
+   "year": "2025"
+  },
+  {
+   "title": "GeoSciAI2025: 地球惑星科学× AI コンペティション",
+   "authors": "津本周作， 高橋幸弘， 福井健一， 是枝祐太， 長尾大道， 中野満寿男， ...",
+   "venue": "人工知能学会第二種研究会資料 2025 (GeoSciAI-002), 01",
+   "year": "2025"
+  },
+  {
+   "title": "Data conversion apparatus, data conversion method, and data conversion program",
+   "authors": "Y Koreeda, EM AMIN",
+   "venue": "US Patent App. 18/967,005",
+   "year": "2025"
+  },
+  {
+   "title": "Can Visual Encoder Learn to See Arrows?",
+   "authors": "N Terashita, Y Tozaki, H Omote, C Nguyen, R Nakamoto, Y Koreeda, ...",
+   "venue": "arXiv preprint arXiv:2505.19944",
+   "year": "2025"
+  },
+  {
+   "title": "グラフ情報の記述を使った CLIP の対照学習は画像エンコーダーのダイアグラム認識能力を向上させる",
+   "authors": "寺下直行， 戸崎友輔， 表英輝， 中本陵介， 是枝祐太， 尾崎太亮",
+   "venue": "人工知能学会全国大会論文集 第 39 回 (2025), 3Win534-3Win534",
+   "year": "2025"
+  },
+  {
+   "title": "Transforming Low-quality Technical Documents into Narrative Sentences for Adapting LLMs to Niche Technical Domains",
+   "authors": "EM AMIN, Y KOREEDA, Y SOGAWA",
+   "venue": "人工知能学会全国大会論文集 第 39 回 (2025), 3K6IS2c01-3K6IS2c01",
+   "year": "2025"
+  },
+  {
+   "title": "単方向・双方向事前学習済み言語モデルにおけるアーキテクチャ・事前学習方法の違いによる影響の分析",
+   "authors": "長尾浩良， 五藤巧， 是枝祐太",
+   "venue": "人工知能学会全国大会論文集 第 38 回 (2024), 4Xin237-4Xin237",
+   "year": "2024"
+  },
+  {
+   "title": "大小の言語モデルに基づく双方向な表現獲得",
+   "authors": "五藤巧， 長尾浩良， 是枝祐太",
+   "venue": "人工知能学会全国大会論文集 第 38 回 (2024), 3Xin226-3Xin226",
+   "year": "2024"
+  },
+  {
+   "title": "営業活動のテキストデータに基づく営業行動の検出と可視化",
+   "authors": "角掛正弥， 是枝祐太， 丹羽雄平， 浦野真穂， 十河泰弘",
+   "venue": "人工知能学会全国大会論文集 第 38 回 (2024), 4Xin282-4Xin282",
+   "year": "2024"
+  },
+  {
+   "title": "大規模言語モデルとヒューリスティクスに基づく readme 生成",
+   "authors": "是枝祐太， 森下皓文， 今一修， 十河泰弘",
+   "venue": "人工知能学会全国大会論文集 第 37 回 (2023), 4Xin108-4Xin108",
+   "year": "2023"
+  },
+  {
+   "title": "述語項構造解析と分散表現を用いた発話トピック推定方法と会議支援システム",
+   "authors": "尾崎太亮， 森下皓文， 是枝祐太， 森尾学， 柳井孝介",
+   "venue": "人工知能学会全国大会論文集 第 34 回 (2020), 4Rin138-4Rin138",
+   "year": "2020"
+  },
+  {
+   "title": "事例検索と調査テーマ推薦に基づくビジネス戦略支援 AI",
+   "authors": "森下皓文， 尾崎太亮， 佐藤美沙， 是枝祐太， 柳井孝介",
+   "venue": "人工知能学会全国大会論文集 第 33 回 (2019), 4Rin122-4Rin122",
+   "year": "2019"
+  },
+  {
+   "title": "経営情報キュレーションのための事前学習付き重要文ランク学習",
+   "authors": "是枝祐太， 黒土健三， 柳瀬利彦， 柳井孝介， 間瀬久雄， 佐藤美沙",
+   "venue": "人工知能学会全国大会論文集 第 32 回全国大会 (2018), 1J203-1J203",
+   "year": "2018"
+  },
+  {
+   "title": "ディベート型人工知能によるサポート性推定に基づく反論生成",
+   "authors": "佐藤美沙， 柳井孝介， 柳瀬利彦， 是枝祐太， 黒土健三",
+   "venue": "人工知能学会全国大会論文集 第 32 回 (2018), 3Pin116-3Pin116",
+   "year": "2018"
+  },
+  {
+   "title": "ディベート型人工知能のための言語的証拠性推論問題の定式化",
+   "authors": "柳井孝介， 佐藤美沙， 柳瀬利彦， 是枝祐太",
+   "venue": "人工知能学会全国大会論文集 第 32 回 (2018), 3G202-3G202",
+   "year": "2018"
+  },
+  {
+   "title": "ロボット支援手術において異なる方向からの視野を提示する画像処理技術の構築",
+   "authors": "是枝祐太",
+   "venue": "ライフサポート 27 (1), 15-15",
+   "year": "2015"
+  },
+  {
+   "title": "Evaluation of image processing based pseudo endoscopic viewpoint alternating system",
+   "authors": "Y Koreeda, S Obata, Y Nishio, S Miura, Y Kobayashi, K Kawamura, ...",
+   "venue": "18th Annual Conference of the International Society for Computer Aided …",
+   "year": "2014"
+  },
+  {
+   "title": "安全な内視鏡外科手術のための基本的技トレーニング安全な内視鏡外科手術のための基本的技トレーニング, 49-50, 2005",
+   "authors": "是枝祐太， 三浦智， 西尾祐也， 小林洋， 川村和也， 家入里志， 富川盛雅， ...",
+   "venue": "Journal of Japan Society of Computer Aided Surgery: J. JSCAS 15 (2), 126-127",
+   "year": "2013"
+  },
+  {
+   "title": "画像処理を用いた視点変更技術よる手術支援ロボットの hand-eye coordination の向上",
+   "authors": "是枝祐太， 三浦智， 西尾祐也， 小林洋， 川村和也， 家入里志， 富川盛雅， ...",
+   "venue": "第22回日本コンピュータ外科学会大会 15 (2), 126-127",
+   "year": "2013"
+  }
+ ]
+}

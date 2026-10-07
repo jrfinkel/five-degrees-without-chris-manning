@@ -1,0 +1,905 @@
+{
+ "user": "xCYHonIAAAAJ",
+ "pubs": [
+  {
+   "title": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge",
+   "authors": "A Talmor, J Herzig, N Lourie, J Berant",
+   "venue": "NAACL 2019",
+   "year": "2018"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Semantic parsing on freebase from question-answer pairs",
+   "authors": "J Berant, A Chou, R Frostig, P Liang",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Transformer feed-forward layers are key-value memories",
+   "authors": "M Geva, R Schuster, J Berant, O Levy",
+   "venue": "EMNLP 2021",
+   "year": null
+  },
+  {
+   "title": "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies",
+   "authors": "M Geva, D Khashabi, E Segal, T Khot, D Roth, J Berant",
+   "venue": "TACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Learning To Retrieve Prompts for In-Context Learning",
+   "authors": "O Rubin, J Herzig, J Berant",
+   "venue": "NAACL 2022",
+   "year": "2021"
+  },
+  {
+   "title": "The web as a knowledge-base for answering complex questions",
+   "authors": "A Talmor, J Berant",
+   "venue": "NAACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Semantic parsing via paraphrasing",
+   "authors": "J Berant, P Liang",
+   "venue": "Proceedings of the 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Evaluating models’ local decision boundaries via contrast sets",
+   "authors": "M Gardner, Y Artzi, V Basmov, J Berant, B Bogin, S Chen, P Dasigi, D Dua, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 1307-1323",
+   "year": "2020"
+  },
+  {
+   "title": "Diagonal State Spaces are as Effective as Structured State Spaces",
+   "authors": "A Gupta, A Gu, J Berant",
+   "venue": "Neurips 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Making retrieval-augmented language models robust to irrelevant context",
+   "authors": "O Yoran, T Wolfson, O Ram, J Berant",
+   "venue": "ICLR 2024",
+   "year": "2023"
+  },
+  {
+   "title": "Neural symbolic machines: Learning semantic parsers on freebase with weak supervision",
+   "authors": "C Liang, J Berant, Q Le, KD Forbus, N Lao",
+   "venue": "ACL",
+   "year": "2016"
+  },
+  {
+   "title": "Are we modeling the task or the annotator? an investigation of annotator bias in natural language understanding datasets",
+   "authors": "M Geva, Y Goldberg, J Berant",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Building a semantic parser overnight",
+   "authors": "Y Wang, J Berant, P Liang",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Rewarding progress: Scaling automated process verifiers for llm reasoning",
+   "authors": "A Setlur, C Nagpal, A Fisch, X Geng, J Eisenstein, R Agarwal, A Agarwal, ...",
+   "venue": "ICLR 2025",
+   "year": "2024"
+  },
+  {
+   "title": "MultiModalQA: Complex Question Answering over Text, Tables and Images",
+   "authors": "A Talmor, O Yoran, A Catav, D Lahav, Y Wang, A Asai, G Ilharco, ...",
+   "venue": "ICLR 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling biological processes for reading comprehension",
+   "authors": "J Berant, V Srikumar, PC Chen, A Vander Linden, B Harding, B Huang, ...",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Text segmentation as a supervised learning task",
+   "authors": "O Koshorek, A Cohen, N Mor, M Rotman, J Berant",
+   "venue": "NAACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing",
+   "authors": "B Bogin, M Gardner, J Berant",
+   "venue": "ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Injecting Numerical Reasoning Skills into Language Models",
+   "authors": "M Geva, A Gupta, J Berant",
+   "venue": "ACL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "oLMpics-on what language model pre-training captures",
+   "authors": "A Talmor, Y Elazar, Y Goldberg, J Berant",
+   "venue": "Transactions of the Association for Computational Linguistics 8, 743-758",
+   "year": "2020"
+  },
+  {
+   "title": "Analyzing transformers in embedding space",
+   "authors": "G Dar, M Geva, A Gupta, J Berant",
+   "venue": "ACL 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Break It Down: A Question Understanding Benchmark",
+   "authors": "T Wolfson, M Geva, A Gupta, M Gardner, Y Goldberg, D Deutch, J Berant",
+   "venue": "TACL",
+   "year": "2020"
+  },
+  {
+   "title": "Diverse demonstrations improve in-context compositional generalization",
+   "authors": "I Levy, B Bogin, J Berant",
+   "venue": "ACL 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Coarse-to-fine question answering for long documents",
+   "authors": "E Choi, D Hewlett, J Uszkoreit, I Polosukhin, A Lacoste, J Berant",
+   "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational …",
+   "year": "2017"
+  },
+  {
+   "title": "SmBoP: Semi-autoregressive Bottom-up Semantic Parsing",
+   "authors": "O Rubin, J Berant",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding",
+   "authors": "U Shaham, M Ivgi, A Efrat, J Berant, O Levy",
+   "venue": "Findings of EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Scrolls: Standardized comparison over long language sequences",
+   "authors": "U Shaham, E Segal, M Ivgi, A Efrat, O Yoran, A Haviv, A Gupta, W Xiong, ...",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension",
+   "authors": "A Talmor, J Berant",
+   "venue": "ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Helping or herding? reward model ensembles mitigate but do not eliminate reward hacking",
+   "authors": "J Eisenstein, C Nagpal, A Agarwal, A Beirami, A D'Amour, DJ Dvijotham, ...",
+   "venue": "COLM 2024",
+   "year": "2023"
+  },
+  {
+   "title": "Evaluating the evaluation of diversity in natural language generation",
+   "authors": "G Tevet, J Berant",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Memory augmented policy optimization for program synthesis and semantic parsing",
+   "authors": "C Liang, M Norouzi, J Berant, QV Le, N Lao",
+   "venue": "Advances in Neural Information Processing Systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "Learning recurrent span representations for extractive question answering",
+   "authors": "K Lee, S Salant, T Kwiatkowski, A Parikh, D Das, J Berant",
+   "venue": "arXiv preprint arXiv:1611.01436",
+   "year": "2016"
+  },
+  {
+   "title": "In-context learning with long-context models: An in-depth exploration",
+   "authors": "A Bertsch, M Ivgi, U Alon, J Berant, MR Gormley, G Neubig",
+   "venue": "NAACL 2025",
+   "year": "2024"
+  },
+  {
+   "title": "Global learning of typed entailment rules",
+   "authors": "J Berant, I Dagan, J Goldberger",
+   "venue": "Proceedings of the 49th Annual Meeting of the Association for Computational …",
+   "year": "2011"
+  },
+  {
+   "title": "CommonsenseQA 2.0: Exposing the Limits of AI through Gamification",
+   "authors": "A Talmor, O Yoran, R Le Bras, C Bhagavatula, Y Goldberg, Y Choi, ...",
+   "venue": "NeurIPS (datasets track)",
+   "year": "2021"
+  },
+  {
+   "title": "Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge",
+   "authors": "A Talmor, O Tafjord, P Clark, Y Goldberg, J Berant",
+   "venue": "NeurIPS",
+   "year": "2020"
+  },
+  {
+   "title": "Mapping images to scene graphs with permutation-invariant structured prediction",
+   "authors": "R Herzig, M Raboh, G Chechik, J Berant, A Globerson",
+   "venue": "Advances in Neural Information Processing Systems 31",
+   "year": "2018"
+  },
+  {
+   "title": "BERTese: Learning to Speak to BERT",
+   "authors": "A Haviv, J Berant, A Globerson",
+   "venue": "EACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Answering questions by meta-reasoning over multiple chains of thought",
+   "authors": "O Yoran, T Wolfson, B Bogin, U Katz, D Deutch, J Berant",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?",
+   "authors": "O Yoran, SJ Amouyal, C Malaviya, B Bogin, O Press, J Berant",
+   "venue": "EMNLP 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Language generation with recurrent generative adversarial networks without pre-training",
+   "authors": "O Press, A Bar, B Bogin, J Berant, L Wolf",
+   "venue": "arXiv preprint arXiv:1706.01399",
+   "year": "2017"
+  },
+  {
+   "title": "Global Reasoning over Database Structures for Text-to-SQL Parsing",
+   "authors": "B Bogin, M Gardner, J Berant",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces",
+   "authors": "P Shaw, M Joshi, J Cohan, J Berant, P Pasupat, H Hu, U Khandelwal, ...",
+   "venue": "NeurIPS 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Crawling the internal knowledge-base of language models",
+   "authors": "R Cohen, M Geva, J Berant, A Globerson",
+   "venue": "Findings of EACL",
+   "year": "2023"
+  },
+  {
+   "title": "[TACL] Efficient Long-Text Understanding with Short-Text Models",
+   "authors": "M Ivgi, U Shaham, J Berant",
+   "venue": "The 61st Annual Meeting Of The Association For Computational Linguistics",
+   "year": "2023"
+  },
+  {
+   "title": "Span-based semantic parsing for compositional generalization",
+   "authors": "J Herzig, J Berant",
+   "venue": "ACL",
+   "year": "2021"
+  },
+  {
+   "title": "Memory-efficient Transformers via Top- Attention",
+   "authors": "A Gupta, G Dar, S Goodman, D Ciprut, J Berant",
+   "venue": "SustainNLP workshop",
+   "year": "2021"
+  },
+  {
+   "title": "Few-Shot Question Answering by Pretraining Span Selection",
+   "authors": "O Ram, Y Kirstain, J Berant, A Globerson, O Levy",
+   "venue": "ACL",
+   "year": "2021"
+  },
+  {
+   "title": "Theoretical guarantees on the best-of-n alignment policy",
+   "authors": "J Berant, C Nagpal, A Suresh, A Beirami, A D'Amour, A Agarwal",
+   "venue": "ICML 2025",
+   "year": "2025"
+  },
+  {
+   "title": "QAMPARI: A benchmark for open-domain questions with many answers",
+   "authors": "S Amouyal, T Wolfson, O Rubin, O Yoran, J Herzig, J Berant",
+   "venue": "Proceedings of the third workshop on natural language generation, evaluation …",
+   "year": "2023"
+  },
+  {
+   "title": "A simple and effective model for answering multi-span questions",
+   "authors": "E Segal, A Efrat, M Shoham, A Globerson, J Berant",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Imitation learning of agenda-based semantic parsers",
+   "authors": "J Berant, P Liang",
+   "venue": "Transactions of the Association for Computational Linguistics 3, 545-558",
+   "year": "2015"
+  },
+  {
+   "title": "White-to-Black: Efficient Distillation of Black-Box Adversarial Attacks",
+   "authors": "Y Gil, Y Chai, O Gorodissky, J Berant",
+   "venue": "NAACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Learning to generalize to new compositions in image understanding",
+   "authors": "Y Atzmon, J Berant, V Kezami, A Globerson, G Chechik",
+   "venue": "arXiv preprint arXiv:1608.07639",
+   "year": "2016"
+  },
+  {
+   "title": "Robust preference optimization through reward model distillation",
+   "authors": "A Fisch, J Eisenstein, V Zayats, A Agarwal, A Beirami, C Nagpal, P Shaw, ...",
+   "venue": "TMLR",
+   "year": "2024"
+  },
+  {
+   "title": "Improving compositional generalization in semantic parsing",
+   "authors": "I Oren, J Herzig, N Gupta, M Gardner, J Berant",
+   "venue": "Findings of EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Weakly-supervised semantic parsing with abstract examples",
+   "authors": "O Goldman, V Latcinnik, U Naveh, A Globerson, J Berant",
+   "venue": "ACL 2018",
+   "year": "2017"
+  },
+  {
+   "title": "Grammar-based neural text-to-sql generation",
+   "authors": "K Lin, B Bogin, M Neumann, J Berant, M Gardner",
+   "venue": "arXiv preprint arXiv:1905.13326",
+   "year": "2019"
+  },
+  {
+   "title": "Neural semantic parsing over multiple knowledge-bases",
+   "authors": "J Herzig, J Berant",
+   "venue": "ACL 2017",
+   "year": "2017"
+  },
+  {
+   "title": "Learning to Retrieve Passages without Supervision",
+   "authors": "O Ram, G Shachaf, O Levy, J Berant, A Globerson",
+   "venue": "NAACL 2022",
+   "year": "2021"
+  },
+  {
+   "title": "Global learning of focused entailment graphs",
+   "authors": "J Berant, I Dagan, J Goldberger",
+   "venue": "Proceedings of the 48th Annual Meeting of the Association for Computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Gmat: Global memory augmentation for transformers",
+   "authors": "A Gupta, J Berant",
+   "venue": "arXiv preprint arXiv:2006.03274",
+   "year": "2020"
+  },
+  {
+   "title": "Freebase qa: Information extraction or semantic parsing?",
+   "authors": "X Yao, J Berant, B Van Durme",
+   "venue": "Proceedings of the ACL 2014 workshop on semantic parsing, 82-86",
+   "year": "2014"
+  },
+  {
+   "title": "Obtaining Faithful Interpretations from Compositional Neural Networks",
+   "authors": "S Subramanian, B Bogin, N Gupta, T Wolfson, S Singh, J Berant, ...",
+   "venue": "ACL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Never train from scratch: Fair comparison of long-sequence models requires data-driven priors",
+   "authors": "I Amos, J Berant, A Gupta",
+   "venue": "ICLR 2024",
+   "year": "2023"
+  },
+  {
+   "title": "Question answering is a format; when is it useful?",
+   "authors": "M Gardner, J Berant, H Hajishirzi, A Talmor, S Min",
+   "venue": "arXiv preprint arXiv:1909.11291",
+   "year": "2019"
+  },
+  {
+   "title": "DiscoFuse: A Large-Scale Dataset for Discourse-based Sentence Fusion",
+   "authors": "M Geva, E Malmi, I Szpektor, J Berant",
+   "venue": "NAACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Decoupling structure and lexicon for zero-shot semantic parsing",
+   "authors": "J Herzig, J Berant",
+   "venue": "EMNLP 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Turning tables: Generating examples from semi-structured tables for endowing language models with reasoning skills",
+   "authors": "O Yoran, A Talmor, J Berant",
+   "venue": "ACL 2022",
+   "year": "2021"
+  },
+  {
+   "title": "Explaining question answering models through text generation",
+   "authors": "V Latcinnik, J Berant",
+   "venue": "arXiv preprint arXiv:2004.05569",
+   "year": "2020"
+  },
+  {
+   "title": "Translating Akkadian to English with neural machine translation",
+   "authors": "G Gutherz, S Gordin, L Sáenz, O Levy, J Berant",
+   "venue": "PNAS nexus 2 (5), pgad096",
+   "year": "2023"
+  },
+  {
+   "title": "Learning entailment relations by global graph structure optimization",
+   "authors": "J Berant, I Dagan, J Goldberger",
+   "venue": "Computational Linguistics 38 (1), 73-111",
+   "year": "2011"
+  },
+  {
+   "title": "Crowdsourcing inference-rule evaluation",
+   "authors": "N Zeichner, J Berant, I Dagan",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Reading Akkadian cuneiform using natural language processing",
+   "authors": "S Gordin, G Gutherz, A Elazary, A Romach, E Jiménez, J Berant, Y Cohen",
+   "venue": "PloS one 15 (10), e0240511",
+   "year": "2020"
+  },
+  {
+   "title": "Emergence of communication in an interactive world with consistent speakers",
+   "authors": "B Bogin, M Geva, J Berant",
+   "venue": "arXiv preprint arXiv:1809.00549",
+   "year": "2018"
+  },
+  {
+   "title": "Efficient tree-based approximation for entailment graph learning",
+   "authors": "J Berant, I Dagan, M Adler, J Goldberger",
+   "venue": "Proceedings of the 50th Annual Meeting of the Association for Computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Contextualized word representations for reading comprehension",
+   "authors": "S Salant, J Berant",
+   "venue": "NAACL 2018",
+   "year": "2017"
+  },
+  {
+   "title": "Retrieval-pretrained transformer: Long-range language modeling with self-retrieval",
+   "authors": "O Rubin, J Berant",
+   "venue": "Transactions of the Association for Computational Linguistics 12, 1197-1213",
+   "year": "2024"
+  },
+  {
+   "title": "Evaluating Text GANs as Language Models",
+   "authors": "G Tevet, G Habib, V Shwartz, J Berant",
+   "venue": "NAACL 2019",
+   "year": "2018"
+  },
+  {
+   "title": "What are you token about? dense retrieval as distributions over the vocabulary",
+   "authors": "O Ram, L Bezalel, A Zicher, Y Belinkov, J Berant, A Globerson",
+   "venue": "ACL 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Achieving Model Robustness through Discrete Adversarial Training",
+   "authors": "M Ivgi, J Berant",
+   "venue": "EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "Don't paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing",
+   "authors": "J Herzig, J Berant",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Differentiable scene graphs",
+   "authors": "M Raboh, R Herzig, J Berant, G Chechik, A Globerson",
+   "venue": "2020 IEEE Winter Conference on Applications of Computer Vision (WACV), 1477-1486",
+   "year": "2020"
+  },
+  {
+   "title": "Efficient Semantic Deduction and Approximate Matching over Compact Parse Forests.",
+   "authors": "R Bar-Haim, I Dagan, S Mirkin, E Shnarch, I Szpektor, J Berant, I Greental",
+   "venue": "TAC",
+   "year": "2008"
+  },
+  {
+   "title": "Latent compositional representations improve systematic generalization in grounded question answering",
+   "authors": "B Bogin, S Subramanian, M Gardner, J Berant",
+   "venue": "Transactions of the Association for Computational Linguistics 9, 195-210",
+   "year": "2021"
+  },
+  {
+   "title": "Efficient global learning of entailment graphs",
+   "authors": "J Berant, N Alon, I Dagan, J Goldberger",
+   "venue": "Computational Linguistics 41 (2), 249-291",
+   "year": "2015"
+  },
+  {
+   "title": "Learning verb inference rules from linguistically-motivated evidence",
+   "authors": "H Weisman, J Berant, I Szpektor, I Dagan",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Transforming and combining rewards for aligning large language models",
+   "authors": "Z Wang, C Nagpal, J Berant, J Eisenstein, A D'Amour, S Koyejo, V Veitch",
+   "venue": "ICML 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Scaling laws under the microscope: Predicting transformer performance from small scale experiments",
+   "authors": "M Ivgi, Y Carmon, J Berant",
+   "venue": "Findings of EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Unobserved local structures make compositional generalization hard",
+   "authors": "B Bogin, S Gupta, J Berant",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "InfAlign: Inference-aware language model alignment",
+   "authors": "A Balashankar, Z Sun, J Berant, J Eisenstein, M Collins, A Hutter, J Lee, ...",
+   "venue": "ICML 2025",
+   "year": "2024"
+  },
+  {
+   "title": "COVR: A test-bed for Visually Grounded Compositional Generalization with real images",
+   "authors": "B Bogin, S Gupta, M Gardner, J Berant",
+   "venue": "EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Finding needles in a haystack: Sampling Structurally-diverse Training Sets from Synthetic Data for Compositional Generalization",
+   "authors": "I Oren, J Herzig, J Berant",
+   "venue": "EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "On making reading comprehension more comprehensive",
+   "authors": "M Gardner, J Berant, H Hajishirzi, A Talmor, S Min",
+   "venue": "Proceedings of the 2nd Workshop on Machine Reading for Question Answering …",
+   "year": "2019"
+  },
+  {
+   "title": "Weakly Supervised Mapping of Natural Language to SQL through Question Decomposition",
+   "authors": "T Wolfson, J Berant, D Deutch",
+   "venue": "Findings of NAACL 2022",
+   "year": "2021"
+  },
+  {
+   "title": "A compact forest for scalable inference over entailment and paraphrase rules",
+   "authors": "R Bar-Haim, J Berant, I Dagan",
+   "venue": "Proceedings of the 2009 Conference on Empirical Methods in Natural Language …",
+   "year": "2009"
+  },
+  {
+   "title": "A two level model for context sensitive inference rules",
+   "authors": "O Melamud, J Berant, I Dagan, J Goldberger, I Szpektor",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "Learning biological processes with global constraints",
+   "authors": "AT Scaria, J Berant, M Wang, P Clark, J Lewis, B Harding, CD Manning",
+   "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language …",
+   "year": "2013"
+  },
+  {
+   "title": "Scene graph to image generation with contextualized object layout refinement",
+   "authors": "M Ivgi, Y Benny, A Ben-David, J Berant, L Wolf",
+   "venue": "2021 IEEE International Conference on Image Processing (ICIP), 2428-2432",
+   "year": "2021"
+  },
+  {
+   "title": "Break, Perturb, Build: Automatic Perturbation of Reasoning Paths Through Question Decomposition",
+   "authors": "M Geva, T Wolfson, J Berant",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 111-126",
+   "year": "2022"
+  },
+  {
+   "title": "SEMQA: Semi-extractive multi-source question answering",
+   "authors": "T Schuster, A Lelkes, H Sun, J Gupta, J Berant, W Cohen, D Metzler",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Simplifying and understanding state space models with diagonal linear rnns",
+   "authors": "A Gupta, H Mehta, J Berant",
+   "venue": "arXiv preprint arXiv:2212.00768",
+   "year": "2022"
+  },
+  {
+   "title": "Inferring implicit relations with language models",
+   "authors": "U Katz, M Geva, J Berant",
+   "venue": "Findings of EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Learning object detection from captions via textual scene attributes",
+   "authors": "A Jerbi, R Herzig, J Berant, G Chechik, A Globerson",
+   "venue": "arXiv preprint arXiv:2009.14558",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluating semantic parsing against a simple web-based question answering model",
+   "authors": "A Talmor, M Geva, J Berant",
+   "venue": "*SEM 2018",
+   "year": "2017"
+  },
+  {
+   "title": "Learning to Search in Long Documents Using Document Structure",
+   "authors": "M Geva, J Berant",
+   "venue": "COLING 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Addressing Discourse and Document Structure in the RTE Search Task.",
+   "authors": "S Mirkin, R Bar-Haim, I Dagan, E Shnarch, A Stern, I Szpektor, J Berant",
+   "venue": "TAC",
+   "year": "2009"
+  },
+  {
+   "title": "Neural network gradient-based learning of black-box function interfaces",
+   "authors": "A Jacovi, G Hadash, E Kermany, B Carmeli, O Lavi, G Kour, J Berant",
+   "venue": "ICLR 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Repartitioning of the complexwebquestions dataset",
+   "authors": "A Talmor, J Berant",
+   "venue": "arXiv preprint arXiv:1807.09623",
+   "year": "2018"
+  },
+  {
+   "title": "Inducing regular grammars using recurrent neural networks",
+   "authors": "M Cohen, A Caciularu, I Rejwan, J Berant",
+   "venue": "arXiv preprint arXiv:1710.10453",
+   "year": "2017"
+  },
+  {
+   "title": "Entailment-based text exploration with application to the health-care domain",
+   "authors": "M Adler, J Berant, I Dagan",
+   "venue": "Proceedings of the ACL 2012 System Demonstrations, 79-84",
+   "year": "2012"
+  },
+  {
+   "title": "Cost-optimal active ai model evaluation",
+   "authors": "AN Angelopoulos, J Eisenstein, J Berant, A Agarwal, A Fisch",
+   "venue": "arXiv preprint arXiv:2506.07949",
+   "year": "2025"
+  },
+  {
+   "title": "Large language models for psycholinguistic plausibility pretesting",
+   "authors": "SJ Amouyal, A Meltzer-Asscher, J Berant",
+   "venue": "Findings of EACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Explaining Queries over Web Tables to Non-Experts",
+   "authors": "J Berant, D Deutch, A Globerson, T Milo, T Wolfson",
+   "venue": "ICDE 2019",
+   "year": "2018"
+  },
+  {
+   "title": "From loops to oops: Fallback behaviors of language models under uncertainty",
+   "authors": "M Ivgi, O Yoran, J Berant, M Geva",
+   "venue": "arXiv preprint arXiv:2407.06071",
+   "year": "2024"
+  },
+  {
+   "title": "Polyglot semantic parsing in APIs",
+   "authors": "K Richardson, J Berant, J Kuhn",
+   "venue": "NAACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Recognising entailment within discourse",
+   "authors": "S Mirkin, J Berant, I Dagan, E Shnarch",
+   "venue": "Proceedings of the 23rd international conference on computational …",
+   "year": "2010"
+  },
+  {
+   "title": "Dolomites: Domain-Specific Long-Form Methodical                     Tasks",
+   "authors": "C Malaviya, P Agrawal, K Ganchev, P Srinivasan, F Huot, J Berant, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 13, 1-29",
+   "year": "2025"
+  },
+  {
+   "title": "Selectively generating expanded responses that guide continuance of a human-to-computer dialog",
+   "authors": "M Fink, V Vuskovic, SO Salant, D Cohen, A Revach, D Kogan, A Callahan, ...",
+   "venue": "US Patent App. 16/621,376",
+   "year": "2021"
+  },
+  {
+   "title": "Boosting unsupervised grammar induction by splitting complex sentences on function words",
+   "authors": "J Berant, Y Gross, M Mussel, B Sandbank, E Ruppin, S Edelman",
+   "venue": "Proceedings of the 31st Boston University Conference on Language Development …",
+   "year": "2007"
+  },
+  {
+   "title": "ALTA: Compiler-Based Analysis of Transformers",
+   "authors": "P Shaw, J Cohan, J Eisenstein, K Lee, J Berant, K Toutanova",
+   "venue": "TMLR",
+   "year": "2024"
+  },
+  {
+   "title": "Don't lie to your friends: Learning what you know from collaborative self-play",
+   "authors": "J Eisenstein, R Aghajani, A Fisch, D Dua, F Huot, M Lapata, V Zayats, ...",
+   "venue": "arXiv preprint arXiv:2503.14481",
+   "year": "2025"
+  },
+  {
+   "title": "Question Decomposition with Dependency Graphs",
+   "authors": "M Hasson, J Berant",
+   "venue": "AKBC",
+   "year": "2021"
+  },
+  {
+   "title": "On the Limits of Learning to Actively Learn Semantic Representations",
+   "authors": "O Koshorek, G Stanovsky, Y Zhou, V Srikumar, J Berant",
+   "venue": "CoNLL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Global Learning of Textual Entailment Graphs",
+   "authors": "J Berant",
+   "venue": "Tel Aviv University",
+   "year": "2012"
+  },
+  {
+   "title": "When the LM misunderstood the human chuckled: Analyzing garden path effects in humans and language models",
+   "authors": "SJ Amouyal, A Meltzer-Asscher, J Berant",
+   "venue": "ACL 2025",
+   "year": "2025"
+  },
+  {
+   "title": "What's in your Head? Emergent Behaviour in Multi-Task Transformer Models",
+   "authors": "M Geva, U Katz, A Ben-Arie, J Berant",
+   "venue": "EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "Knowledge-based textual inference via parse-tree transformations",
+   "authors": "R Bar-Haim, I Dagan, J Berant",
+   "venue": "Journal of Artificial Intelligence Research 54, 1-57",
+   "year": "2015"
+  },
+  {
+   "title": "Value-aware Approximate Attention",
+   "authors": "A Gupta, J Berant",
+   "venue": "EMNLP",
+   "year": "2021"
+  },
+  {
+   "title": "Knowledge and Tree-Edits in Learnable Entailment Proofs.",
+   "authors": "A Stern, S Mirkin, E Shnarch, L Kotlerman, I Dagan, A Lotan, J Berant",
+   "venue": "TAC",
+   "year": "2011"
+  },
+  {
+   "title": "Rule Chaining and Approximate Match in textual inference.",
+   "authors": "A Stern, E Shnarch, S Mirkin, L Kotlerman, N Zeichner, I Dagan, A Lotan, ...",
+   "venue": "TAC",
+   "year": "2010"
+  },
+  {
+   "title": "Classification of depression tendency from gaze patterns during sentence reading",
+   "authors": "O Kobo, A Meltzer-Asscher, J Berant, T Schonberg",
+   "venue": "Biomedical Signal Processing and Control 93, 106015",
+   "year": "2024"
+  },
+  {
+   "title": "MT-PingEval: Evaluating multi-turn collaboration with private information games",
+   "authors": "J Eisenstein, F Huot, A Fisch, J Berant, M Lapata",
+   "venue": "arXiv preprint arXiv:2602.24188",
+   "year": "2026"
+  },
+  {
+   "title": "Learning steerable clarification policies with collaborative self-play",
+   "authors": "J Berant, M Chen, A Fisch, R Aghajani, F Huot, M Lapata, J Eisenstein",
+   "venue": "arXiv preprint arXiv:2512.04068",
+   "year": "2025"
+  },
+  {
+   "title": "Value-based Search in Execution Space for Mapping Instructions to Programs",
+   "authors": "D Muhlgay, J Herzig, J Berant",
+   "venue": "NAACL 2019",
+   "year": "2018"
+  },
+  {
+   "title": "Reward model underspecification in language model alignment",
+   "authors": "J Eisenstein, J Berant, C Nagpal, A Agarwal, A Beirami, AN D'Amour, ...",
+   "venue": "NeurIPS 2023 Workshop on Distribution Shifts: New Frontiers with Foundation …",
+   "year": "2023"
+  },
+  {
+   "title": "Machine-Learned User Interface Command Generator Using Pretrained Image Processing Model",
+   "authors": "PT Shaw, M Joshi, KN Toutanova, JF Cohan, JH Berant, KCT Lee, ...",
+   "venue": "US Patent App. 19/002,441",
+   "year": "2025"
+  },
+  {
+   "title": "Comparing human and language models sentence processing difficulties on complex structures",
+   "authors": "SJ Amouyal, A Meltzer-Asscher, J Berant",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Training vision-language models with less bimodal supervision",
+   "authors": "E Segal, B Bogin, J Berant",
+   "venue": "AKBC 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision (Short Version)",
+   "authors": "C Liang, J Berant, Q Le, KD Forbus, N Lao",
+   "venue": "arXiv preprint arXiv:1612.01197",
+   "year": "2016"
+  },
+  {
+   "title": "Bar-Ilan University’s submission to RTE5",
+   "authors": "S Mirkin, R Bar-Haim, J Berant, I Dagan, E Shnarch, A Stern, I Szpektor",
+   "venue": "Proceedings of the Second Text Analysis Conference (TAC 2009), Gaithersburg, MD",
+   "year": "2009"
+  },
+  {
+   "title": "Tracks in the mind: Differential entrenchment of common and rare liturgical and everyday multiword phrases in religious and secular Hebrew speakers",
+   "authors": "J Berant, C Caldwell-Harris, S Edelman",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 30 (30)",
+   "year": "2008"
+  },
+  {
+   "title": "CollabEval: Statistically Efficient Collaborative Model Evaluation via Matrix Completion",
+   "authors": "A Fisch, D Deutsch, J Maynez, A Agarwal, J Berant, W Cohen, ...",
+   "venue": "arXiv preprint arXiv:2607.05046",
+   "year": "2026"
+  },
+  {
+   "title": "Plantain: Plan-Answer Interleaved Reasoning",
+   "authors": "A Liang, J Berant, A Fisch, A Goyal, K Krishna, J Eisenstein",
+   "venue": "arXiv preprint arXiv:2512.03176",
+   "year": "2025"
+  },
+  {
+   "title": "Generating a composite response to natural language input using a trained generative model and based on responsive content from disparate content agents",
+   "authors": "M Fink, V Vuskovic, SO Salant, D Cohen, A Revach, D Kogan, A Callahan, ...",
+   "venue": "US Patent 12,142,277",
+   "year": "2024"
+  },
+  {
+   "title": "Selectively generating expanded responses that guide continuance of a human-to-computer dialog",
+   "authors": "M Fink, V Vuskovic, SO Salant, D Cohen, A Revach, D Kogan, A Callahan, ...",
+   "venue": "US Patent App. 18/406,752",
+   "year": "2024"
+  },
+  {
+   "title": "Latent Trees for Compositional Generalization",
+   "authors": "J Herzig, J Berant, B Bogin",
+   "venue": "Compendium of Neurosymbolic Artificial Intelligence, 631-664",
+   "year": "2023"
+  },
+  {
+   "title": "A Simple Global Neural Discourse Parser",
+   "authors": "Y Zhou, O Koshorek, V Srikumar, J Berant",
+   "venue": "arXiv preprint arXiv:2009.01312",
+   "year": "2020"
+  },
+  {
+   "title": "Measuring mental entrenchment of phrases with perceptual identification, familiarity ratings, and corpus frequency statistics",
+   "authors": "C Caldwell-Harris, J Berant, S Edelman",
+   "venue": "Frequency effects in language representation, 165-194",
+   "year": "2012"
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "user": "RcAhz9kAAAAJ",
+ "pubs": [
+  {
+   "title": "fMRI reveals language-specific predictive coding during naturalistic sentence comprehension",
+   "authors": "C Shain, IA Blank, M van Schijndel, W Schuler, E Fedorenko",
+   "venue": "Neuropsychologia 138, 107307",
+   "year": "2020"
+  },
+  {
+   "title": "Large-scale evidence for logarithmic effects of word predictability on reading time",
+   "authors": "C Shain, C Meister, T Pimentel, R Cotterell, R Levy",
+   "venue": "Proceedings of the National Academy of Sciences 121 (10), e2307876121",
+   "year": "2024"
+  },
+  {
+   "title": "What we mean when we say semantic: Toward a multidisciplinary semantic glossary",
+   "authors": "J Reilly, C Shain, V Borghesani, P Kuhnke, G Vigliocco, JE Peelle, ...",
+   "venue": "Psychonomic bulletin & review 32 (1), 243-280",
+   "year": "2025"
+  },
+  {
+   "title": "Robust effects of working memory demand during naturalistic language comprehension in language-selective cortex",
+   "authors": "C Shain, IA Blank, E Fedorenko, E Gibson, W Schuler",
+   "venue": "The Journal of Neuroscience 42 (39), 7412-7430",
+   "year": "2022"
+  },
+  {
+   "title": "Distributed sensitivity to syntax and semantics throughout the language network",
+   "authors": "C Shain, H Kean, C Casto, B Lipkin, J Affourtit, M Siegelman, F Mollica, ...",
+   "venue": "Journal of Cognitive Neuroscience 36 (7), 1427-1471",
+   "year": "2024"
+  },
+  {
+   "title": "Incremental language comprehension difficulty predicts activity in the language network but not the multiple demand network",
+   "authors": "L Wehbe, IA Blank, C Shain, R Futrell, R Levy, T von der Malsburg, ...",
+   "venue": "Cerebral Cortex 31 (9), 4006-4023",
+   "year": "2021"
+  },
+  {
+   "title": "No evidence of theory of mind reasoning in the human language network",
+   "authors": "C Shain, A Paunov, X Chen, B Lipkin, E Fedorenko",
+   "venue": "Cerebral cortex 33 (10), 6299-6319",
+   "year": "2023"
+  },
+  {
+   "title": "Memory access during incremental sentence processing causes reading time latency",
+   "authors": "C Shain, M Van Schijndel, R Futrell, E Gibson, W Schuler",
+   "venue": "Proceedings of the workshop on computational linguistics for linguistic …",
+   "year": "2016"
+  },
+  {
+   "title": "Similarity of computations across domains does not imply shared implementation: The case of language comprehension",
+   "authors": "E Fedorenko, C Shain",
+   "venue": "Current directions in psychological science 30 (6), 526-534",
+   "year": "2021"
+  },
+  {
+   "title": "A large-scale study of the effects of word frequency and predictability in naturalistic reading",
+   "authors": "C Shain",
+   "venue": "Proceedings of the 2019 conference of the north American chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "Word frequency and predictability dissociate in naturalistic reading",
+   "authors": "C Shain",
+   "venue": "Open Mind 8, 177-201",
+   "year": "2024"
+  },
+  {
+   "title": "The synchrony and diachrony of differential object marking in Paraguayan Guaraní",
+   "authors": "C Shain, J Tonhauser",
+   "venue": "Language Variation and Change 22 (3), 321-346",
+   "year": "2010"
+  },
+  {
+   "title": "Continuous-time deconvolutional regression for psycholinguistic modeling",
+   "authors": "C Shain, W Schuler",
+   "venue": "Cognition 215, 104735",
+   "year": "2021"
+  },
+  {
+   "title": "Breaking NLP: Using morphosyntax, semantics, pragmatics and world knowledge to fool sentiment analysis systems",
+   "authors": "T Mahler, W Cheung, M Elsner, D King, MC de Marneffe, C Shain, ...",
+   "venue": "Proceedings of the First Workshop on Building Linguistically Generalizable …",
+   "year": "2017"
+  },
+  {
+   "title": "Measuring the perceptual availability of phonological features during language acquisition using unsupervised binary stochastic autoencoders",
+   "authors": "C Shain, M Elsner",
+   "venue": "Proceedings of the 2019 Conference of the North American Chapter of the …",
+   "year": "2019"
+  },
+  {
+   "title": "A language network in the individualized functional connectomes of 1199 human brains doing arbitrary tasks",
+   "authors": "C Shain, E Fedorenko",
+   "venue": "Nature Communications 17 (1), 8180",
+   "year": "2026"
+  },
+  {
+   "title": "CDRNN: Discovering complex dynamics in human language processing",
+   "authors": "C Shain",
+   "venue": "Proceedings of the 59th annual meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Modeling morphological learning, typology, and change: What can the neural sequence-to-sequence framework contribute?",
+   "authors": "M Elsner, AD Sims, A Erdmann, A Hernandez, E Jaffe, L Jin, ...",
+   "venue": "Journal of Language Modelling 7 (1), 53-98",
+   "year": "2019"
+  },
+  {
+   "title": "Deconvolutional time series regression: A technique for modeling temporally diffuse effects",
+   "authors": "C Shain, W Schuler",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Acquiring language from speech by learning to remember and predict",
+   "authors": "C Shain, M Elsner",
+   "venue": "Proceedings of the 24th Conference on Computational Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Speech segmentation with a neural encoder model of working memory",
+   "authors": "M Elsner, C Shain",
+   "venue": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language …",
+   "year": "2017"
+  },
+  {
+   "title": "A deep learning approach to analyzing continuous-time cognitive processes",
+   "authors": "C Shain, W Schuler",
+   "venue": "Open Mind 8, 235-264",
+   "year": "2024"
+  },
+  {
+   "title": "The distribution of differential object marking in Paraguayan Guaraní",
+   "authors": "C Shain",
+   "venue": "Ohio State University",
+   "year": "2009"
+  },
+  {
+   "title": "Coreference and focus in reading times",
+   "authors": "E Jaffe, C Shain, W Schuler",
+   "venue": "Proceedings of the 8th Workshop on Cognitive Modeling and Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Constructions are revealed in word distributions",
+   "authors": "J Rozner, L Weissweiler, K Mahowald, C Shain",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Memory-bounded left-corner unsupervised grammar induction on child-directed input",
+   "authors": "C Shain, W Bryce, L Jin, V Krakovna, F Doshi-Velez, TA Miller, W Schuler, ...",
+   "venue": "Proceedings of COLING 2016, the 26th International Conference on …",
+   "year": "2016"
+  },
+  {
+   "title": "Coreference information guides human expectations during natural reading",
+   "authors": "E Jaffe, C Shain, W Schuler",
+   "venue": "Proceedings of the 28th International Conference on Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Differential object marking in Paraguayan Guaraní",
+   "authors": "CA Shain",
+   "venue": "The Ohio State University",
+   "year": "2009"
+  },
+  {
+   "title": "BabyLM’s First Constructions: Causal interventions provide a signal of learning",
+   "authors": "J Rozner, L Weissweiler, C Shain",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "SentSpace: Large-scale benchmarking and evaluation of text using cognitively motivated lexical, syntactic, and semantic features",
+   "authors": "G Tuckute, A Sathe, M Wang, H Yoder, C Shain, E Fedorenko",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Deep syntactic annotations for broad-coverage psycholinguistic modeling",
+   "authors": "C Shain, M van Schijndel, W Schuler",
+   "venue": "Linguistic and Neuro-Cognitive Resources (LiNCR), 33",
+   "year": "2018"
+  },
+  {
+   "title": "Exploring memory and processing through a gold standard annotation of Dundee",
+   "authors": "C Shain, M van Schijndel, E Gibson, W Schuler",
+   "venue": "Proceedings of CUNY",
+   "year": "2016"
+  },
+  {
+   "title": "Preserved topography, lateralization, selectivity, and functional connectivity of the language network in older brains",
+   "authors": "A Billot, N Jhingan, M Varkanitsa, A Wolna, C Shain, I Blank, R Ryskin, ...",
+   "venue": "Nature Communications 17 (1), 8573",
+   "year": "2026"
+  },
+  {
+   "title": "Predictability effects in natural reading are logarithmic, not linear: Evidence from an eye-movement replication of Brothers and Kuperberg (2021)",
+   "authors": "R Buggy, S Cho, C Shain, A Staub",
+   "venue": "OSF",
+   "year": "2026"
+  },
+  {
+   "title": "Functional identification of language-responsive channels in individual participants in MEG investigations",
+   "authors": "M Huybrechts, R Bruffaerts, A Pongos, C Shain, B Lipkin, M Siegelman, ...",
+   "venue": "bioRxiv, 2023.03. 23.533424",
+   "year": "2025"
+  },
+  {
+   "title": "Evidence of semantic processing difficulty in naturalistic reading",
+   "authors": "C Shain, R Futrell, M van Schijndel, E Gibson, W Schuler, E Fedorenko",
+   "venue": "CUNY 2018",
+   "year": "2018"
+  },
+  {
+   "title": "Predictability effects in natural reading are logarithmic: Evidence from an eye-movement replication of Brothers and Kuperberg (2021).",
+   "authors": "R Buggy, S Cho, C Shain, A Staub",
+   "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+   "year": "2026"
+  },
+  {
+   "title": "The text aphasia battery (TAB): A clinically-grounded benchmark for aphasia-like deficits in language models",
+   "authors": "N Roll, J Kries, F Jin, C Wang, AM Finley, M Sumner, C Shain, L Gwilliams",
+   "venue": "Proceedings of the 10th Workshop on Computational Linguistics and Clinical …",
+   "year": "2026"
+  },
+  {
+   "title": "Perturbation: A simple and efficient adversarial tracer for representation learning in language models",
+   "authors": "J Rozner, C Shain",
+   "venue": "arXiv preprint arXiv:2603.23821",
+   "year": "2026"
+  },
+  {
+   "title": "Pragmatic Explanation of Causal Inference from Correlational Statements",
+   "authors": "A Zur, E Goodwin, C Shain, R Hawkins",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 48",
+   "year": "2026"
+  },
+  {
+   "title": "Graded strength of comparative illusions is explained by Bayesian inference",
+   "authors": "Y Zhang, E Wang, C Shain",
+   "venue": "arXiv preprint arXiv:2511.14642",
+   "year": "2025"
+  },
+  {
+   "title": "Artificial Aphasias in Lesioned Language Models",
+   "authors": "N Roll, J Kries, L Gwilliams, C Shain",
+   "venue": "arXiv preprint arXiv:2605.16222",
+   "year": "2026"
+  },
+  {
+   "title": "Independent-Component-Based Encoding Models of Brain Activity During Story Comprehension",
+   "authors": "K Hari, T Binhuraib, J Li, C Shain, AA Ivanova",
+   "venue": "arXiv preprint arXiv:2604.24942",
+   "year": "2026"
+  },
+  {
+   "title": "Language, time, and the mind: Understanding human language processing using continuous-time deconvolutional regression",
+   "authors": "C Shain",
+   "venue": "The Ohio State University",
+   "year": "2021"
+  },
+  {
+   "title": "A sketch of the phonology and morphology of Iyasa",
+   "authors": "C Shain",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Differential Object Marking in Paraguayan Guaran? A Senior Honors Thesis",
+   "authors": "C Shain, P Culicover, J Tonhauser",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Preactivation and probabilistic inference coexist during sentence comprehension",
+   "authors": "S Cho, R Buggy, A Staub, C Shain",
+   "venue": "OSF",
+   "year": null
+  }
+ ]
+}

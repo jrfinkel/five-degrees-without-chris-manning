@@ -1,0 +1,227 @@
+{
+ "user": "IG2SJ24AAAAJ",
+ "pubs": [
+  {
+   "title": "The Stanford CoreNLP Natural Language Processing Toolkit",
+   "authors": "CD Manning, M Surdeanu, J Bauer, J Finkel, SJ Bethard, D McClosky",
+   "venue": "Proceedings of 52nd Annual Meeting of the Association for Computational …",
+   "year": "2014"
+  },
+  {
+   "title": "Effective self-training for parsing",
+   "authors": "D McClosky, E Charniak, M Johnson",
+   "venue": "Proceedings of the human language technology conference of the NAACL, main …",
+   "year": "2006"
+  },
+  {
+   "title": "Reranking and self-training for parser adaptation",
+   "authors": "D McClosky, E Charniak, M Johnson",
+   "venue": "Proceedings of the 21st International Conference on Computational …",
+   "year": "2006"
+  },
+  {
+   "title": "Event extraction as dependency parsing",
+   "authors": "D McClosky, M Surdeanu, C Manning",
+   "venue": "Proceedings of the Association for Computational Linguistics: Human Language …",
+   "year": "2011"
+  },
+  {
+   "title": "Improving statistical MT through morphological analysis",
+   "authors": "S Goldwater, D McClosky",
+   "venue": "Proceedings of Human Language Technology Conference and Conference on …",
+   "year": "2005"
+  },
+  {
+   "title": "Automatic domain adaptation for parsing",
+   "authors": "D McClosky, E Charniak, M Johnson",
+   "venue": "Human Language Technologies: The 2010 Annual Conference of the North …",
+   "year": "2010"
+  },
+  {
+   "title": "Self-training for biomedical parsing",
+   "authors": "D McClosky, E Charniak",
+   "venue": "Proceedings of ACL-08: HLT, Short Papers, 101-104",
+   "year": "2008"
+  },
+  {
+   "title": "The role of context types and dimensionality in learning word embeddings",
+   "authors": "O Melamud, D McClosky, S Patwardhan, M Bansal",
+   "venue": "Proceedings of the 2016 Conference of the North American Chapter of the …",
+   "year": "2016"
+  },
+  {
+   "title": "Improving unsupervised dependency parsing with richer contexts and smoothing",
+   "authors": "WP Headden III, M Johnson, D McClosky",
+   "venue": "Proceedings of human language technologies: the 2009 annual conference of …",
+   "year": "2009"
+  },
+  {
+   "title": "Any domain parsing: automatic domain adaptation for natural language parsing",
+   "authors": "D McClosky",
+   "venue": "Brown University",
+   "year": "2010"
+  },
+  {
+   "title": "Model combination for event extraction in BioNLP 2011",
+   "authors": "S Riedel, D McClosky, M Surdeanu, A McCallum, CD Manning",
+   "venue": "ACL HLT 2011, 51",
+   "year": "2011"
+  },
+  {
+   "title": "A Simple Distant Supervision Approach for the TAC-KBP Slot Filling Task.",
+   "authors": "M Surdeanu, D McClosky, J Tibshirani, J Bauer, AX Chang, VI Spitkovsky, ...",
+   "venue": "TAC",
+   "year": "2010"
+  },
+  {
+   "title": "When is self-training effective for parsing?",
+   "authors": "D McClosky, E Charniak, M Johnson",
+   "venue": "Proceedings of the 22nd International Conference on Computational …",
+   "year": "2008"
+  },
+  {
+   "title": "Event Extraction as Dependency Parsing in BioNLP 2011",
+   "authors": "D McClosky, M Surdeanu, CD Manning",
+   "venue": "Natural Language Processing in Biomedicine ACL 2011 Workshop, 41-5",
+   "year": "2011"
+  },
+  {
+   "title": "Combining joint models for biomedical event extraction",
+   "authors": "D McClosky, S Riedel, M Surdeanu, A McCallum, CD Manning",
+   "venue": "BMC bioinformatics 13 (Suppl 11), S9",
+   "year": "2012"
+  },
+  {
+   "title": "Stanford’s Distantly-Supervised Slot-Filling System",
+   "authors": "M Surdeanu, S Gupta, J Bauer, D McClosky, AX Chang, VI Spitkovsky, ...",
+   "venue": "Proceedings of the Text Analytics Conference",
+   "year": "2011"
+  },
+  {
+   "title": "Customizing an information extraction system to a new domain",
+   "authors": "M Surdeanu, D McClosky, M Smith, A Gusev, CD Manning",
+   "venue": "Proceedings of the ACL 2011 Workshop on Relational Models of Semantics, 2-10",
+   "year": "2011"
+  },
+  {
+   "title": "Evaluating unsupervised part-of-speech tagging for grammar induction",
+   "authors": "WP Headden III, D McClosky, E Charniak",
+   "venue": "Proceedings of the 22nd International Conference on Computational …",
+   "year": "2008"
+  },
+  {
+   "title": "Entailment knowledge base in natural language processing systems",
+   "authors": "BK Boguraev, J Chu-Carroll, AA Kalyanpur, DJ McClosky, JW Murdock IV, ...",
+   "venue": "US Patent 11,520,813",
+   "year": "2022"
+  },
+  {
+   "title": "A look at parsing and its applications",
+   "authors": "M Lease, E Charniak, M Johnson, D McClosky",
+   "venue": "PROCEEDINGS OF THE NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE 21 (2), 1642",
+   "year": "2006"
+  },
+  {
+   "title": "Learning constraints for consistent timeline extraction",
+   "authors": "D McClosky, CD Manning",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Syntactic Parse Fusion",
+   "authors": "DK Choe, D McClosky, E Charniak",
+   "venue": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language …",
+   "year": "2015"
+  },
+  {
+   "title": "Stanford's system for parsing the english web",
+   "authors": "D McClosky, W Che, M Recasens, M Wang, R Socher, C Manning",
+   "venue": "Workshop on the Syntactic Analysis of Non-Canonical Language (SANCL 2012 …",
+   "year": "2012"
+  },
+  {
+   "title": "Modeling valence effects in unsupervised grammar induction",
+   "authors": "D McClosky",
+   "venue": "Technical report, Brown University",
+   "year": "2008"
+  },
+  {
+   "title": "Relation of wind direction and coal terminal activity patterns with air pollution burden in a community bordering a coal export terminal, Curtis Bay, Maryland, USA",
+   "authors": "LN Deanes, BD Salmerón, MA Aubourg, LE Schmidt, K Spicer, C Wagar, ...",
+   "venue": "Air Quality, Atmosphere & Health 18 (9), 2805-2821",
+   "year": "2025"
+  },
+  {
+   "title": "Parsing Paraphrases with Joint Inference",
+   "authors": "DK Choe, D McClosky",
+   "venue": "ACL",
+   "year": "2015"
+  },
+  {
+   "title": "Source apportionment of air pollution burden using geometric non-negative matrix factorization and high-throughput multi-pollutant air sensor data in Curtis Bay, Baltimore, USA",
+   "authors": "B Jin, BD Salmerón, D McClosky, DH Hagan, RR Dickerson, NJ Spada, ...",
+   "venue": "arXiv preprint arXiv:2511.11833",
+   "year": "2025"
+  },
+  {
+   "title": "Proceedings of the 2010 Workshop on Domain Adaptation for Natural Language Processing",
+   "authors": "H Daumé III, T Deoskar, D McClosky, B Plank, J Tiedemann",
+   "venue": "Proceedings of the 2010 Workshop on Domain Adaptation for Natural Language …",
+   "year": "2010"
+  },
+  {
+   "title": "Bllip north american news text",
+   "authors": "D McClosky, E Charniak, M Johnson",
+   "venue": "",
+   "year": "2008"
+  },
+  {
+   "title": "Features of statistical parsers",
+   "authors": "M Johnson",
+   "venue": "Talk given at the Joint Microsoft Research",
+   "year": "2006"
+  },
+  {
+   "title": "Use of multi-pollutant air sensor data and geometric non-negative matrix factorization for source apportionment of air pollution burden in Curtis Bay, Baltimore, USA",
+   "authors": "B Jin, BD Salmerón, D McClosky, DH Hagan, RR Dickerson, NJ Spada, ...",
+   "venue": "arXiv e-prints, arXiv: 2511.11833",
+   "year": "2025"
+  },
+  {
+   "title": "Relation of Wind Direction and Coal Terminal Activity Patterns with Air Pollution Burden in a Community Bordering a Coal Export Terminal, Curtis Bay, Maryland, USA",
+   "authors": "BD Salmerón, MA Aubourg, LE Schmidt, K Spicer, C Wagar, GG Sawtell, ...",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Parsing Paraphrases with Joint Inference (extended version)",
+   "authors": "DK Choe, D McClosky",
+   "venue": "ACL",
+   "year": "2015"
+  },
+  {
+   "title": "Domain Adaptation for Relation Extraction",
+   "authors": "D Posch, S Chang, M Watson",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Restricted Programming Paradigms for Parallelism",
+   "authors": "D McClosky",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "Effective self-training for parsing",
+   "authors": "E Charniak, D McClosky",
+   "venue": "Proceedings of the main conference on Human Language Technology Conference …",
+   "year": "2006"
+  },
+  {
+   "title": "Leveraging Lexical Substitution for Parser Adaptation",
+   "authors": "S Caplan, N Fox, D McClosky, E Charniak",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

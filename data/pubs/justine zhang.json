@@ -1,0 +1,83 @@
+{
+ "user": "VGDnK7cAAAAJ",
+ "pubs": [
+  {
+   "title": "Conversations Gone Awry: Detecting Early Signs of Conversational Failure",
+   "authors": "J Zhang, JP Chang, C Danescu-Niculescu-Mizil, L Dixon, Y Hua, N Thain, ...",
+   "venue": "Proceedings of ACL",
+   "year": "2018"
+  },
+  {
+   "title": "Convokit: A toolkit for the analysis of conversations",
+   "authors": "JP Chang, C Chiam, L Fu, AZ Wang, J Zhang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of SIGDIAL",
+   "year": "2020"
+  },
+  {
+   "title": "Loyalty in online communities",
+   "authors": "WL Hamilton, J Zhang, C Danescu-Niculescu-Mizil, D Jurafsky, ...",
+   "venue": "Proceedings of ICWSM",
+   "year": "2017"
+  },
+  {
+   "title": "Community identity and user engagement in a multi-community landscape",
+   "authors": "J Zhang, WL Hamilton, C Danescu-Niculescu-Mizil, D Jurafsky, ...",
+   "venue": "Proceedings of ICWSM",
+   "year": "2017"
+  },
+  {
+   "title": "Conversational flow in Oxford-style debates",
+   "authors": "J Zhang, R Kumar, S Ravi, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of NAACL",
+   "year": "2016"
+  },
+  {
+   "title": "Quotus: The structure of political media coverage as revealed by quoting patterns",
+   "authors": "V Niculae, C Suen, J Zhang, C Danescu-Niculescu-Mizil, J Leskovec",
+   "venue": "Proceedings of WWW",
+   "year": "2015"
+  },
+  {
+   "title": "Characterizing Online Public Discussions through Patterns of Participant Interactions",
+   "authors": "J Zhang, C Danescu-Niculescu-Mizil, C Sauper, SJ Taylor",
+   "venue": "Proceedings of CSCW",
+   "year": "2018"
+  },
+  {
+   "title": "Balancing objectives in counseling conversations: Advancing forwards or looking backwards",
+   "authors": "J Zhang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of ACL",
+   "year": "2020"
+  },
+  {
+   "title": "Asking too much? The rhetorical role of questions in political discourse",
+   "authors": "J Zhang, A Spirling, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of EMNLP",
+   "year": "2017"
+  },
+  {
+   "title": "Quantifying the causal effects of conversational tendencies",
+   "authors": "J Zhang, S Mullainathan, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of CSCW",
+   "year": "2020"
+  },
+  {
+   "title": "Finding Your Voice: The Linguistic Development of Mental Health Counselors",
+   "authors": "J Zhang, R Filbin, C Morrison, J Weiser, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Configuring audiences: A case study of email communication",
+   "authors": "J Zhang, J Pennebaker, S Dumais, E Horvitz",
+   "venue": "Proceedings of CSCW",
+   "year": "2020"
+  },
+  {
+   "title": "Towards actionable understandings of conversations: A computational approach",
+   "authors": "J Zhang",
+   "venue": "Cornell University",
+   "year": "2021"
+  }
+ ]
+}

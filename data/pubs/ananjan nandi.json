@@ -1,0 +1,65 @@
+{
+ "user": "I3uNMUEAAAAJ",
+ "pubs": [
+  {
+   "title": "Roleplay-doh: Enabling domain-experts to create llm-simulated patients via eliciting and adhering to principles",
+   "authors": "R Louie, A Nandi, W Fang, C Chang, E Brunskill, D Yang",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "h4rm3l: A language for composable jailbreak attack synthesis",
+   "authors": "MKB Doumbouya, A Nandi, G Poesia, D Ghilardi, A Goldie, F Bianchi, ...",
+   "venue": "International Conference on Learning Representations 2025, 57253-57286",
+   "year": "2025"
+  },
+  {
+   "title": "Initial observations from field testing of a digital participatory tool to improve water security in rural India",
+   "authors": "SA Mehta, A Dutt, A Tannirkulam, AP Singh, A Verma, A Singha, ...",
+   "venue": "Proceedings of the 13th International Conference on Information …",
+   "year": "2024"
+  },
+  {
+   "title": "DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion",
+   "authors": "A Nandi, N Kaur, P Singla, Mausam",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces",
+   "authors": "S Yu, D Chong, A Nandi, D Soylu, J Sun, CD Manning, W Shi",
+   "venue": "arXiv preprint arXiv:2605.10913",
+   "year": "2026"
+  },
+  {
+   "title": "Sneaking syntax into transformer language models with tree regularization",
+   "authors": "A Nandi, CD Manning, S Murty",
+   "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of …",
+   "year": "2025"
+  },
+  {
+   "title": "Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion",
+   "authors": "A Nandi, N Kaur, P Singla, Mausam",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "CTC-DRO: Robust optimization for reducing language disparities in speech recognition",
+   "authors": "M Bartelds, A Nandi, MKB Doumbouya, D Jurafsky, T Hashimoto, ...",
+   "venue": "International Conference on Learning Representations 2026, 108297-108323",
+   "year": "2026"
+  },
+  {
+   "title": "RL-Guided Data Selection for Language Model Finetuning",
+   "authors": "A Jha, H Gupta, A Nandi",
+   "venue": "arXiv preprint arXiv:2509.25850",
+   "year": "2025"
+  },
+  {
+   "title": "Beyond Flat Classifiers: Practical Methodologies for Regionally Accurate and Relevant Land Use and Land Cover Classification Using Landsat and Sentinel Data",
+   "authors": "C Bansal, A Nandi, B Ramachandran, C Dsouza, D Mittal, E Bajaj, ...",
+   "venue": "ACM Journal on Computing and Sustainable Societies 4 (2), 1-36",
+   "year": "2026"
+  }
+ ]
+}

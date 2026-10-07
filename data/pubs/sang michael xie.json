@@ -1,0 +1,257 @@
+{
+ "user": "eiB0s-kAAAAJ",
+ "pubs": [
+  {
+   "title": "Emerging properties in self-supervised vision transformers",
+   "authors": "M Caron, H Touvron, I Misra, H Jégou, J Mairal, P Bojanowski, A Joulin",
+   "venue": "Proceedings of the International Conference on Computer Vision (ICCV)",
+   "year": "2021"
+  },
+  {
+   "title": "Unsupervised learning of visual features by contrasting cluster assignments",
+   "authors": "M Caron, I Misra, J Mairal, P Goyal, P Bojanowski, A Joulin",
+   "venue": "Proceedings of Advances in Neural Information Processing Systems (NeurIPS)",
+   "year": "2020"
+  },
+  {
+   "title": "Deep clustering for unsupervised learning of visual features",
+   "authors": "M Caron, P Bojanowski, A Joulin, M Douze",
+   "venue": "Proceedings of the European conference on computer vision (ECCV)",
+   "year": "2018"
+  },
+  {
+   "title": "Unsupervised dense information retrieval with contrastive learning",
+   "authors": "G Izacard, M Caron, L Hosseini, S Riedel, P Bojanowski, A Joulin, ...",
+   "venue": "arXiv preprint arXiv:2112.09118",
+   "year": "2021"
+  },
+  {
+   "title": "Resmlp: Feedforward networks for image classification with data-efficient training",
+   "authors": "H Touvron, P Bojanowski, M Caron, M Cord, A El-Nouby, E Grave, ...",
+   "venue": "Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+   "year": "2022"
+  },
+  {
+   "title": "Scaling vision transformers to 22 billion parameters",
+   "authors": "M Dehghani, J Djolonga, B Mustafa, P Padlewski, J Heek, J Gilmer, ...",
+   "venue": "International Conference on Machine Learning (ICML)",
+   "year": "2023"
+  },
+  {
+   "title": "Xcit: Cross-covariance image transformers",
+   "authors": "A Ali, H Touvron, M Caron, P Bojanowski, M Douze, A Joulin, I Laptev, ...",
+   "venue": "Proceedings of Advances in Neural Information Processing Systems (NeurIPS)",
+   "year": "2021"
+  },
+  {
+   "title": "Masked siamese networks for label-efficient learning",
+   "authors": "M Assran, M Caron, I Misra, P Bojanowski, F Bordes, P Vincent, A Joulin, ...",
+   "venue": "Proceedings of the European conference on computer vision (ECCV)",
+   "year": "2022"
+  },
+  {
+   "title": "Unsupervised Pre-Training of Image Features on Non-Curated Data",
+   "authors": "M Caron, P Bojanowski, J Mairal, A Joulin",
+   "venue": "Proceedings of the International Conference on Computer Vision (ICCV)",
+   "year": "2019"
+  },
+  {
+   "title": "Self-supervised pretraining of visual features in the wild",
+   "authors": "P Goyal, M Caron, B Lefaudeux, M Xu, P Wang, V Pai, M Singh, ...",
+   "venue": "arXiv preprint arXiv:2103.01988",
+   "year": "2021"
+  },
+  {
+   "title": "Patch n’pack: Navit, a vision transformer for any aspect ratio and resolution",
+   "authors": "M Dehghani, B Mustafa, J Djolonga, J Heek, M Minderer, M Caron, ...",
+   "venue": "Proceedings of Advances in Neural Information Processing Systems (NeurIPS)",
+   "year": "2024"
+  },
+  {
+   "title": "Xcit: Cross-covariance image transformers",
+   "authors": "A El-Nouby, H Touvron, M Caron, P Bojanowski, M Douze, A Joulin, ...",
+   "venue": "arXiv preprint arXiv:2106.09681",
+   "year": "2021"
+  },
+  {
+   "title": "Flexivit: One model for all patch sizes",
+   "authors": "L Beyer, P Izmailov, A Kolesnikov, M Caron, S Kornblith, X Zhai, ...",
+   "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "year": "2023"
+  },
+  {
+   "title": "Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples",
+   "authors": "M Assran, M Caron, I Misra, P Bojanowski, A Joulin, N Ballas, M Rabbat",
+   "venue": "Proceedings of the International Conference on Computer Vision (ICCV)",
+   "year": "2021"
+  },
+  {
+   "title": "Vision models are more robust and fair when pretrained on uncurated images without supervision",
+   "authors": "P Goyal, Q Duval, I Seessel, M Caron, I Misra, L Sagun, A Joulin, ...",
+   "venue": "arXiv preprint arXiv:2202.08360",
+   "year": "2022"
+  },
+  {
+   "title": "Verbs in Action: Improving verb understanding in video-language models",
+   "authors": "L Momeni, M Caron, A Nagrani, A Zisserman, C Schmid",
+   "venue": "Proceedings of the International Conference on Computer Vision (ICCV)",
+   "year": "2023"
+  },
+  {
+   "title": "Vissl",
+   "authors": "P Goyal, Q Duval, J Reizenstein, M Leavitt, M Xu, B Lefaudeux, M Singh, ...",
+   "venue": "https://github.com/facebookresearch/vissl",
+   "year": "2021"
+  },
+  {
+   "title": "Unsupervised learning of visual features by contrasting cluster assignments. arXiv 2020",
+   "authors": "M Caron, I Misra, J Mairal, P Goyal, P Bojanowski, A Joulin",
+   "venue": "arXiv preprint arXiv:2006.09882",
+   "year": "2006"
+  },
+  {
+   "title": "Unbiased single-cell morphology with self-supervised vision transformers",
+   "authors": "M Doron, T Moutakanni, ZS Chen, N Moshkov, M Caron, H Touvron, ...",
+   "venue": "bioRxiv",
+   "year": "2023"
+  },
+  {
+   "title": "Alaaeldin El-Nouby, Edouard Grave, Armand Joulin, Gabriel Synnaeve, Jakob Verbeek, and Hervé Jégou. Resmlp: Feedforward networks for image classification with data-efficient …",
+   "authors": "H Touvron, P Bojanowski, M Caron, M Cord",
+   "venue": "arXiv preprint arXiv:2105.03404 1 (3), 6",
+   "year": "2021"
+  },
+  {
+   "title": "Self-Supervised Learning for Endoscopic Video Analysis",
+   "authors": "R Hirsch, M Caron, R Cohen, A Livne, R Shapiro, T Golany, ...",
+   "venue": "MICCAI 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Retrieval-Enhanced Contrastive Vision-Text Models",
+   "authors": "A Iscen, M Caron, A Fathi, C Schmid",
+   "venue": "International Conference on Learning Representations (ICLR)",
+   "year": "2024"
+  },
+  {
+   "title": "Location-Aware Self-Supervised Transformers for Semantic Segmentation",
+   "authors": "M Caron, N Houlsby, C Schmid",
+   "venue": "Winter Conference on Applications of Computer Vision (WACV)",
+   "year": "2023"
+  },
+  {
+   "title": "Temporal chain of thought: Long-video understanding by thinking in frames",
+   "authors": "A Arnab, A Iscen, M Caron, A Fathi, C Schmid",
+   "venue": "Advances in Neural Information Processing Systems 38, 143018-143046",
+   "year": "2026"
+  },
+  {
+   "title": "Emerging properties in self-supervised vision transformers. IEEE",
+   "authors": "M Caron",
+   "venue": "CVF International Conference on Computer Vision (ICCV), 9630-9640",
+   "year": null
+  },
+  {
+   "title": "Pruning convolutional neural networks with self-supervision",
+   "authors": "M Caron, A Morcos, P Bojanowski, J Mairal, A Joulin",
+   "venue": "arXiv preprint arXiv:2001.03554",
+   "year": "2020"
+  },
+  {
+   "title": "A Generative Approach for Wikipedia-Scale Visual Entity Recognition",
+   "authors": "M Caron, A Iscen, A Fathi, C Schmid",
+   "venue": "Computer Vision and Pattern Recognition (CVPR), 17313-17322",
+   "year": "2024"
+  },
+  {
+   "title": "Cell-DINO: Self-supervised image-based embeddings for cell fluorescent microscopy",
+   "authors": "T Moutakanni, C Couprie, S Yi, M Doron, ZS Chen, N Moshkov, E Gardes, ...",
+   "venue": "PLOS Computational Biology 21 (12), e1013828",
+   "year": "2025"
+  },
+  {
+   "title": "A Memory Transformer Network for Incremental Learning",
+   "authors": "A Iscen, T Bird, M Caron, A Fathi, C Schmid",
+   "venue": "British Machine Vision Conference (BMVC)",
+   "year": "2022"
+  },
+  {
+   "title": "Guided diffusion from self-supervised diffusion features",
+   "authors": "VT Hu, Y Chen, M Caron, YM Asano, CGM Snoek, B Ommer",
+   "venue": "arXiv preprint arXiv:2312.08825",
+   "year": "2023"
+  },
+  {
+   "title": "Web-Scale Visual Entity Recognition: An LLM-Driven Data Approach",
+   "authors": "M Caron, A Fathi, C Schmid, A Iscen",
+   "venue": "Proceedings of Advances in Neural Information Processing Systems (NeurIPS)",
+   "year": "2024"
+  },
+  {
+   "title": "Self-masking networks for unsupervised adaptation",
+   "authors": "AT Warmerdam, M Caron, YM Asano",
+   "venue": "DAGM German Conference on Pattern Recognition, 86-102",
+   "year": "2024"
+  },
+  {
+   "title": "Weakly-supervised surgical phase recognition",
+   "authors": "R Hirsch, R Cohen, M Caron, T Golany, D Freedman, E Rivlin",
+   "venue": "arXiv preprint arXiv:2310.17209",
+   "year": "2023"
+  },
+  {
+   "title": "Self-supervised learning of deep visual representations",
+   "authors": "M Caron",
+   "venue": "Université Grenoble Alpes [2020-....]",
+   "year": "2021"
+  },
+  {
+   "title": "Unsupervised representation learning with clustering in deep convolutional networks",
+   "authors": "M Caron",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Pano3D: Unified 3D Reconstruction and Panoptic Segmentation",
+   "authors": "V Barberteguy, A Iscen, M Caron, A Fathi, G Varol, C Schmid",
+   "venue": "European Conference on Computer Vision, 92-110",
+   "year": "2026"
+  },
+  {
+   "title": "LOCI: A Locator-Critic with Refinement Loop",
+   "authors": "W Bousselham, M Caron, A Nagrani, C Schmid",
+   "venue": "arXiv preprint arXiv:2608.30959",
+   "year": "2026"
+  },
+  {
+   "title": "Machine-Learned Model to Correct an Entity Label for an Entity in an Image",
+   "authors": "A Iscen, MJM Caron, A Fathi, CL Schmid",
+   "venue": "US Patent App. 19/320,995",
+   "year": "2026"
+  },
+  {
+   "title": "Training large-scale vision transformer neural networks with variable patch sizes",
+   "authors": "LK Beyer, P Izmailov, S Kornblith, A Kolesnikov, M Caron, X Zhai, ...",
+   "venue": "US Patent App. 18/518,075",
+   "year": "2024"
+  },
+  {
+   "title": "4th Workshop on Self-Supervised Learning: Theory and Practice",
+   "authors": "T Han, I Misra, P Xie, M Caron, H Kuehne",
+   "venue": "Annual Conference on Neural Information Processing Systems",
+   "year": "2023"
+  },
+  {
+   "title": "Incrementally Adapting Generative Vision-Language Models with Task Codebook",
+   "authors": "J Zhou, A Iscen, M Caron, C Rupprecht, P Torr, C Schmid",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Finding Winning Tickets with Limited (or No) Supervision",
+   "authors": "M Caron, A Morcos, P Bojanowski, J Mairal, A Joulin",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

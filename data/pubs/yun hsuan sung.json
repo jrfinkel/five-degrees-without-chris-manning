@@ -1,0 +1,371 @@
+{
+ "user": "A-hHKBMAAAAJ",
+ "pubs": [
+  {
+   "title": "Scaling up visual and vision-language representation learning with noisy text supervision",
+   "authors": "C Jia, Y Yang, Y Xia, YT Chen, Z Parekh, H Pham, Q Le, YH Sung, Z Li, ...",
+   "venue": "International conference on machine learning, 4904-4916",
+   "year": "2021"
+  },
+  {
+   "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
+   "authors": "G Comanici, E Bieber, M Schaekermann, I Pasupat, N Sachdeva, I Dhillon, ...",
+   "venue": "arXiv preprint arXiv:2507.06261",
+   "year": "2025"
+  },
+  {
+   "title": "Universal sentence encoder",
+   "authors": "D Cer, Y Yang, S Kong, N Hua, N Limtiaco, RS John, N Constant, ...",
+   "venue": "arXiv preprint arXiv:1803.11175",
+   "year": "2018"
+  },
+  {
+   "title": "Multilingual universal sentence encoder for semantic retrieval",
+   "authors": "Y Yang, D Cer, A Ahmad, M Guo, J Law, N Constant, GH Abrego, S Yuan, ...",
+   "venue": "Proceedings of the 58th annual meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Efficient natural language response suggestion for smart reply",
+   "authors": "M Henderson, R Al-Rfou, B Strope, YH Sung, L Lukács, R Guo, S Kumar, ...",
+   "venue": "arXiv preprint arXiv:1705.00652",
+   "year": "2017"
+  },
+  {
+   "title": "Freshllms: Refreshing large language models with search engine augmentation",
+   "authors": "T Vu, M Iyyer, X Wang, N Constant, J Wei, J Wei, C Tar, YH Sung, D Zhou, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 13697-13720",
+   "year": "2024"
+  },
+  {
+   "title": "LongT5: Efficient text-to-text transformer for long sequences",
+   "authors": "M Guo, J Ainslie, DC Uthus, S Ontanon, J Ni, YH Sung, Y Yang",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2022, 724-736",
+   "year": "2022"
+  },
+  {
+   "title": "Learning semantic textual similarity from conversations",
+   "authors": "Y Yang, S Yuan, D Cer, S Kong, N Constant, P Pilar, H Ge, YH Sung, ...",
+   "venue": "Proceedings of the third workshop on representation learning for NLP, 164-174",
+   "year": "2018"
+  },
+  {
+   "title": "Learning cross-lingual sentence representations via a multi-task dual-encoder model",
+   "authors": "M Chidambaram, Y Yang, D Cer, S Yuan, Y Sung, B Strope, R Kurzweil",
+   "venue": "Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP …",
+   "year": "2019"
+  },
+  {
+   "title": "Improving multilingual sentence embedding using bi-directional dual encoder with additive margin softmax",
+   "authors": "Y Yang, GH Abrego, S Yuan, M Guo, Q Shen, D Cer, YH Sung, B Strope, ...",
+   "venue": "arXiv preprint arXiv:1902.08564",
+   "year": "2019"
+  },
+  {
+   "title": "Gemini embedding: Generalizable embeddings from gemini",
+   "authors": "J Lee, F Chen, S Dua, D Cer, M Shanbhogue, I Naim, GH Ábrego, Z Li, ...",
+   "venue": "arXiv preprint arXiv:2503.07891",
+   "year": "2025"
+  },
+  {
+   "title": "Effective parallel corpus mining using bilingual sentence embeddings",
+   "authors": "M Guo, Q Shen, Y Yang, H Ge, D Cer, GH Abrego, K Stevens, N Constant, ...",
+   "venue": "Proceedings of the Third Conference on Machine Translation: Research Papers …",
+   "year": "2018"
+  },
+  {
+   "title": "Conversational contextual cues: The case of personalization and history for response ranking",
+   "authors": "R Al-Rfou, M Pickett, J Snaider, YH Sung, B Strope, R Kurzweil",
+   "venue": "arXiv preprint arXiv:1606.00372",
+   "year": "2016"
+  },
+  {
+   "title": "Colt5: Faster long-range transformers with conditional computation",
+   "authors": "J Ainslie, T Lei, M de Jong, S Ontañón, S Brahma, Y Zemlyanskiy, ...",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Embeddinggemma: Powerful and lightweight text representations",
+   "authors": "HS Vera, S Dua, B Zhang, D Salz, R Mullins, SR Panyam, S Smoot, ...",
+   "venue": "arXiv preprint arXiv:2509.20354",
+   "year": "2025"
+  },
+  {
+   "title": "Foundational autoraters: Taming large language models for better automatic evaluation",
+   "authors": "T Vu, K Krishna, S Alzubi, C Tar, M Faruqui, YH Sung",
+   "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Universal sentence encoder. arXiv 2018",
+   "authors": "D Cer, Y Yang, SY Kong, N Hua, N Limtiaco, RS John, N Constant, ...",
+   "venue": "arXiv preprint arXiv:1803.11175",
+   "year": "2018"
+  },
+  {
+   "title": "Recognizing speech in multiple languages",
+   "authors": "Y Sung, F Beaufays, B Strope, H Lin, JT Huang",
+   "venue": "US Patent 9,129,591",
+   "year": "2015"
+  },
+  {
+   "title": "Hidden conditional random fields for phone recognition",
+   "authors": "YH Sung, D Jurafsky",
+   "venue": "2009 IEEE Workshop on Automatic Speech Recognition & Understanding, 107-112",
+   "year": "2009"
+  },
+  {
+   "title": "Findings of the Association for Computational Linguistics: NAACL 2022",
+   "authors": "M Guo, J Ainslie, D Uthus, S Ontanon, J Ni, YH Sung, Y Yang",
+   "venue": "Association for Computational Linguistics, 1535-1546",
+   "year": "2022"
+  },
+  {
+   "title": "Kl-divergence guided temperature sampling",
+   "authors": "CC Chang, D Reitter, R Aksitov, YH Sung",
+   "venue": "arXiv preprint arXiv:2306.01286",
+   "year": "2023"
+  },
+  {
+   "title": "Cooperatively training and/or using separate input and response neural network models for determining response (s) for electronic communications",
+   "authors": "B Strope, Y Sung, M Henderson, R Al-Rfou, R Kurzweil",
+   "venue": "US Patent 11,373,086",
+   "year": "2022"
+  },
+  {
+   "title": "Recognizing different versions of a language",
+   "authors": "F Beaufays, B Strope, Y Sung",
+   "venue": "US Patent 9,275,635",
+   "year": "2016"
+  },
+  {
+   "title": "Characterizing attribution and fluency tradeoffs for retrieval-augmented large language models",
+   "authors": "R Aksitov, CC Chang, D Reitter, S Shakeri, Y Sung",
+   "venue": "arXiv preprint arXiv:2302.05578",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic hyperlinking of documents",
+   "authors": "J van de Kerkhof, B MIKLOS, A Abdelfattah, T Kaufmann, L Lukacs, ...",
+   "venue": "US Patent 11,238,211",
+   "year": "2022"
+  },
+  {
+   "title": "Regularization, adaptation, and non-independent features improve hidden conditional random fields for phone classification",
+   "authors": "YH Sung, C Boulis, C Manning, D Jurafsky",
+   "venue": "2007 IEEE Workshop on Automatic Speech Recognition & Understanding (ASRU …",
+   "year": "2007"
+  },
+  {
+   "title": "Cooperatively training and/or using separate input and subsequent content neural networks for information retrieval",
+   "authors": "B Strope, Y Sung, M Henderson, R Al-Rfou, R Kurzweil",
+   "venue": "US Patent 11,188,824",
+   "year": "2021"
+  },
+  {
+   "title": "Written-domain language modeling with decomposition",
+   "authors": "H Sak, Y Sung, CGL Allauzen",
+   "venue": "US Patent 9,460,088",
+   "year": "2016"
+  },
+  {
+   "title": "Training encoder model and/or using trained encoder model to determine responsive action (s) for natural language input",
+   "authors": "B Strope, Y Sung, W Yuan",
+   "venue": "US Patent 10,783,456",
+   "year": "2020"
+  },
+  {
+   "title": "Hierarchical document encoder for parallel corpus mining",
+   "authors": "M Guo, Y Yang, K Stevens, D Cer, H Ge, Y Sung, B Strope, R Kurzweil",
+   "venue": "Proceedings of the Fourth Conference on Machine Translation (Volume 1 …",
+   "year": "2019"
+  },
+  {
+   "title": "Revisiting graphemes with increasing amounts of data",
+   "authors": "YH Sung, T Hughes, F Beaufays, B Strope",
+   "venue": "2009 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2009"
+  },
+  {
+   "title": "Applying name entity recognition to informal text",
+   "authors": "Y Chang, YH Sung",
+   "venue": "Recall 1 (1)",
+   "year": "2005"
+  },
+  {
+   "title": "Recognition of multilingual speech in mobile applications",
+   "authors": "H Lin, J Huang, F Beaufays, B Strope, Y Sung",
+   "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2012"
+  },
+  {
+   "title": "Maximum conditional likelihood linear regression and maximum a posteriori for hidden conditional random fields speaker adaptation.",
+   "authors": "YH Sung, C Boulis, D Jurafsky",
+   "venue": "ICASSP, 4293-4296",
+   "year": "2008"
+  },
+  {
+   "title": "Detection of word fragments in mandarin telephone conversation",
+   "authors": "CT Chu, YH Sung, Y Zhao, D Jurafsky",
+   "venue": "Proc. Interspeech 2006, paper 1730-Thu1CaP. 9",
+   "year": "2006"
+  },
+  {
+   "title": "Knowledge prompts: Injecting world knowledge into language models through soft prompts",
+   "authors": "CN Santos, Z Dong, D Cer, J Nham, S Shakeri, J Ni, Y Sung",
+   "venue": "arXiv preprint arXiv:2210.04726",
+   "year": "2022"
+  },
+  {
+   "title": "Transforming LLMs into cross-modal and cross-lingual retrieval systems",
+   "authors": "FP Gomez, R Sanabria, Y Sung, D Cer, S Dalmia, GH Abrego",
+   "venue": "Proceedings of the 21st International Conference on Spoken Language …",
+   "year": "2024"
+  },
+  {
+   "title": "Written-domain language modeling for automatic speech recognition",
+   "authors": "H Sak, Y Sung, F Beaufays, C Allauzen",
+   "venue": "Proc. Interspeech 2013, 675-679",
+   "year": "2013"
+  },
+  {
+   "title": "Recognizing english queries in mandarin voice search",
+   "authors": "HA Chang, YH Sung, B Strope, F Beaufays",
+   "venue": "2011 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2011"
+  },
+  {
+   "title": "Deploying google search by voice in cantonese",
+   "authors": "YH Sung, M Jansche, PJ Moreno",
+   "venue": "Proc. Interspeech 2011, 2865-2868",
+   "year": "2011"
+  },
+  {
+   "title": "Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini",
+   "authors": "M Shanbhogue, Z Li, S Zhang, GH Ábrego, SC Huang, A Jain, D Salz, ...",
+   "venue": "arXiv preprint arXiv:2605.27295",
+   "year": "2026"
+  },
+  {
+   "title": "Selective text prediction for electronic messaging",
+   "authors": "PR Lambert, TY Sohn, JA TSAY, G Bansal, CA Bevis, K Roy, KA Evans, ...",
+   "venue": "US Patent App. 15/852,916",
+   "year": "2019"
+  },
+  {
+   "title": "Soft knowledge prompts for language models",
+   "authors": "S Shakeri, CN dos Santos, DM Cer, Z Dong, J Ni, Y Sung, J Nham",
+   "venue": "US Patent 12,321,706",
+   "year": "2025"
+  },
+  {
+   "title": "Dr genre: Reinforcement learning from decoupled llm feedback for generic text rewriting",
+   "authors": "Y Li, J Nham, G Jawahar, L Shu, D Uthus, YH Sung, C Yang, I Rolnick, ...",
+   "venue": "arXiv preprint arXiv:2503.06781",
+   "year": "2025"
+  },
+  {
+   "title": "Mobile speech recognition with explicit tone features",
+   "authors": "Y Sung, M Wang, X Lei",
+   "venue": "US Patent 8,725,498",
+   "year": "2014"
+  },
+  {
+   "title": "Techniques for selecting languages for automatic speech recognition",
+   "authors": "M Jansche, K Nakajima, Y Sung",
+   "venue": "US Patent App. 13/912,255",
+   "year": "2014"
+  },
+  {
+   "title": "Hidden conditional random fields for speech recognition",
+   "authors": "YH Sung",
+   "venue": "Stanford University",
+   "year": "2010"
+  },
+  {
+   "title": "Machine-Learned Models for Multimodal Searching and Retrieval of Images",
+   "authors": "S Heiniger, B MIKLOS, Y Sung, Z Li, Y Yang, C Jia",
+   "venue": "US Patent App. 18/253,859",
+   "year": "2024"
+  },
+  {
+   "title": "Training encoder model and/or using trained encoder model to determine responsive action (s) for natural language input",
+   "authors": "B Strope, Y Sung, W Yuan",
+   "venue": "US Patent App. 16/995,149",
+   "year": "2020"
+  },
+  {
+   "title": "Training encoder model and/or using trained encoder model to determine responsive action (s) for natural language input",
+   "authors": "B Strope, Y Sung, W Yuan",
+   "venue": "US Patent 12,393,875",
+   "year": "2025"
+  },
+  {
+   "title": "Characterizing Tradeoffs in Language Model Decoding with Informational Interpretations",
+   "authors": "CC Chang, WW Cohen, YH Sung",
+   "venue": "arXiv preprint arXiv:2311.10083",
+   "year": "2023"
+  },
+  {
+   "title": "Knowledge prompts: Injecting world knowledge into language models through soft prompts",
+   "authors": "C Nogueira dos Santos, Z Dong, D Cer, J Nham, S Shakeri, J Ni, Y Sung",
+   "venue": "arXiv e-prints, arXiv: 2210.04726",
+   "year": "2022"
+  },
+  {
+   "title": "Machine Translation Aided Bilingual Data-to-Text Generation and Semantic Parsing",
+   "authors": "H Ge, MS Kale, O Agarwal, R Al-Rfou, S Shakeri, Y Sung",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Training encoder model and/or using trained encoder model to determine responsive action (s) for natural language input",
+   "authors": "B Strope, Y Sung, W Yuan",
+   "venue": "US Patent App. 19/302,930",
+   "year": "2025"
+  },
+  {
+   "title": "Soft knowledge prompts for language models",
+   "authors": "S Shakeri, CN dos Santos, DM Cer, Z Dong, J Ni, Y Sung, J Nham",
+   "venue": "US Patent App. 19/198,499",
+   "year": "2025"
+  },
+  {
+   "title": "Cooperatively training and/or using separate input and subsequent content neural networks for information retrieval",
+   "authors": "B Strope, Y Sung, M Henderson, R Al-Rfou, R Kurzweil",
+   "venue": "US Patent App. 18/828,690",
+   "year": "2025"
+  },
+  {
+   "title": "Cooperatively training and/or using separate input and subsequent content neural networks for information retrieval",
+   "authors": "B Strope, Y Sung, M Henderson, R Al-Rfou, R Kurzweil",
+   "venue": "US Patent 12,086,720",
+   "year": "2024"
+  },
+  {
+   "title": "Selective text prediction for electronic messaging",
+   "authors": "PR Lambert, TY Sohn, JA TSAY, G Bansal, CA Bevis, K Roy, KA Evans, ...",
+   "venue": "US Patent App. 18/447,186",
+   "year": "2023"
+  },
+  {
+   "title": "Self-Supervised Learning for Pairwise Data Refinement",
+   "authors": "GH Abrego, B Liang, W Wang, Z Parekh, Y Yang, Y Sung",
+   "venue": "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the …",
+   "year": "2020"
+  },
+  {
+   "title": "Hidden Conditional Random Fields for Speech Recognition: A Dissertation Submitted to the Department of Electrical Engineering and the Committee on Graduate Studies of Standford …",
+   "authors": "Y Sung",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Scalable Feature Extraction for Remotely Motion Estimation and Texture Compensation for video",
+   "authors": "YC Lin, YH Sung, SP Yeh",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

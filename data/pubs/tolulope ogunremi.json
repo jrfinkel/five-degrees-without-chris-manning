@@ -1,0 +1,95 @@
+{
+ "user": "2Li1dP0AAAAJ",
+ "pubs": [
+  {
+   "title": "Mini but mighty: Efficient multilingual pretraining with linguistically-informed data selection",
+   "authors": "T Ògúnrẹ̀mí, D Jurafsky, CD Manning",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 1251-1266",
+   "year": "2023"
+  },
+  {
+   "title": "Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching",
+   "authors": "T Ògúnrẹ̀mí, CD Manning, D Jurafsky",
+   "venue": "Proceedings of the 6th Workshop on Computational Approaches to Linguistic …",
+   "year": "2023"
+  },
+  {
+   "title": "Cpt-boosted wav2vec2. 0: Towards noise robust speech recognition for classroom environments",
+   "authors": "AA Attia, D Demszky, T Ògúnremí, J Liu, C Espy-Wilson",
+   "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …",
+   "year": "2025"
+  },
+  {
+   "title": "Ìròyìnspeech: A multi-purpose yorùbá speech corpus",
+   "authors": "T Ògúnrẹ̀mí, K Tubosun, A Aremu, I Orife, DI Adelani",
+   "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Afriwoz: Corpus for exploiting cross-lingual transfer for dialogue generation in low-resource, african languages",
+   "authors": "T Adewumi, M Adeyemi, A Anuoluwapo, B Peters, H Buzaaba, O Samuel, ...",
+   "venue": "2023 international joint conference on neural networks (ijcnn), 1-8",
+   "year": "2023"
+  },
+  {
+   "title": "Decolonizing nlp for “low-resource languages”: Applying abebe birhane’s relational ethics",
+   "authors": "T Ògúnrẹ̀mí, WO Nekoto, S Samuel",
+   "venue": "GRACE: Global review of AI community Ethics 1 (1)",
+   "year": "2023"
+  },
+  {
+   "title": "Automated speech tools for helping communities process restricted-access corpora for language revival efforts",
+   "authors": "N San, M Bartelds, T Ogunremi, A Mount, R Thompson, M Higgins, ...",
+   "venue": "Proceedings of the Fifth Workshop on the Use of Computational Methods in the …",
+   "year": "2022"
+  },
+  {
+   "title": "Continued pretraining for domain adaptation of wav2vec2. 0 in automatic speech recognition for elementary math classroom settings",
+   "authors": "AA Attia, D Demszky, T Ogunremi, J Liu, C Espy-Wilson",
+   "venue": "arXiv preprint arXiv:2405.13018",
+   "year": "2024"
+  },
+  {
+   "title": "Transcribe, translate, or transliterate: An investigation of intermediate representations in spoken language models",
+   "authors": "T Ògúnremí, CD Manning, D Jurafsky, K Livescu",
+   "venue": "2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 1-7",
+   "year": "2025"
+  },
+  {
+   "title": "Multi-stage speaker diarization for noisy classrooms",
+   "authors": "AS Khan, T Ogunremi, AA Attia, D Demszky",
+   "venue": "arXiv preprint arXiv:2505.10879",
+   "year": "2025"
+  },
+  {
+   "title": "Leveraging Bias in Pre-trained Word Embeddings for Unsupervised Microaggression Detection",
+   "authors": "T Ògúnrẹ̀mí, V Basile, T Caselli",
+   "venue": "IJCoL. Italian Journal of Computational Linguistics 8 (8-2)",
+   "year": "2022"
+  },
+  {
+   "title": "Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition",
+   "authors": "N Roll, P Bhalerao, M Bartelds, A Pawar, Y Tatsumi, T Ogunremi, C Shani, ...",
+   "venue": "arXiv preprint arXiv:2601.06972",
+   "year": "2026"
+  },
+  {
+   "title": "Turning Speech Language Models into Multilingual Listeners",
+   "authors": "T Ògúnrèmí, D Jurafsky, C Manning, A Üstün, M Bartelds",
+   "venue": "arXiv preprint arXiv:2609.33204",
+   "year": "2026"
+  },
+  {
+   "title": "CPT-Boosted Wav2vec2. 0: Towards Noise Robust Speech Recognition for Classroom Environments",
+   "authors": "A Adel Attia, D Demszky, T Ogunremi, J Liu, C Espy-Wilson",
+   "venue": "arXiv e-prints, arXiv: 2409.14494",
+   "year": "2024"
+  },
+  {
+   "title": "\\{I} r\\{o} y\\{i} nSpeech: A multi-purpose Yor\\{u} b\\'{a} Speech Corpus",
+   "authors": "T Ogunremi, K Tubosun, A Aremu, I Orife, DI Adelani",
+   "venue": "arXiv preprint arXiv:2307.16071",
+   "year": "2023"
+  }
+ ]
+}

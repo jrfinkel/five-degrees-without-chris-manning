@@ -1,0 +1,767 @@
+{
+ "user": "bnQMuzgAAAAJ",
+ "pubs": [
+  {
+   "title": "Going deeper with convolutions",
+   "authors": "C Szegedy, W Liu, Y Jia, P Sermanet, S Reed, D Anguelov, D Erhan, ...",
+   "venue": "Proceedings of the IEEE conference on computer vision and pattern …",
+   "year": "2015"
+  },
+  {
+   "title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+   "authors": "S Ioffe, C Szegedy",
+   "venue": "International conference on machine learning, 448-456",
+   "year": "2015"
+  },
+  {
+   "title": "Ssd: Single shot multibox detector",
+   "authors": "W Liu, D Anguelov, D Erhan, C Szegedy, S Reed, CY Fu, AC Berg",
+   "venue": "European conference on computer vision, 21-37",
+   "year": "2016"
+  },
+  {
+   "title": "Rethinking the inception architecture for computer vision",
+   "authors": "C Szegedy, V Vanhoucke, S Ioffe, J Shlens, Z Wojna",
+   "venue": "Proceedings of the IEEE conference on computer vision and pattern …",
+   "year": "2016"
+  },
+  {
+   "title": "Explaining and harnessing adversarial examples",
+   "authors": "IJ Goodfellow, J Shlens, C Szegedy",
+   "venue": "arXiv preprint arXiv:1412.6572",
+   "year": "2014"
+  },
+  {
+   "title": "Intriguing properties of neural networks",
+   "authors": "C Szegedy, W Zaremba, I Sutskever, J Bruna, D Erhan, I Goodfellow, ...",
+   "venue": "arXiv preprint arXiv:1312.6199",
+   "year": "2013"
+  },
+  {
+   "title": "Inception-v4, inception-resnet and the impact of residual connections on learning",
+   "authors": "C Szegedy, S Ioffe, V Vanhoucke, A Alemi",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 31 (1)",
+   "year": "2017"
+  },
+  {
+   "title": "Deeppose: Human pose estimation via deep neural networks",
+   "authors": "A Toshev, C Szegedy",
+   "venue": "Proceedings of the IEEE conference on computer vision and pattern …",
+   "year": "2014"
+  },
+  {
+   "title": "Deep neural networks for object detection",
+   "authors": "C Szegedy, A Toshev, D Erhan",
+   "venue": "Advances in neural information processing systems 26",
+   "year": "2013"
+  },
+  {
+   "title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift. arXiv 2015",
+   "authors": "S Ioffe, C Szegedy",
+   "venue": "arXiv preprint arXiv:1502.03167 10",
+   "year": "2015"
+  },
+  {
+   "title": "Leibe B, Matas J, Sebe N, Welling M, et al. SSD: single shot multibox detector",
+   "authors": "W Liu, D Anguelov, D Erhan, C Szegedy, S Reed, CY Fu, AC Berg",
+   "venue": "Computer Vision–ECCV 2016, 21-37",
+   "year": "2016"
+  },
+  {
+   "title": "Scalable object detection using deep neural networks",
+   "authors": "D Erhan, C Szegedy, A Toshev, D Anguelov",
+   "venue": "Proceedings of the IEEE conference on computer vision and pattern …",
+   "year": "2014"
+  },
+  {
+   "title": "Training deep neural networks on noisy labels with bootstrapping",
+   "authors": "S Reed, H Lee, D Anguelov, C Szegedy, D Erhan, A Rabinovich",
+   "venue": "arXiv preprint arXiv:1412.6596",
+   "year": "2014"
+  },
+  {
+   "title": "Memorizing transformers",
+   "authors": "Y Wu, MN Rabe, DL Hutchins, C Szegedy",
+   "venue": "arXiv preprint arXiv:2203.08913",
+   "year": "2022"
+  },
+  {
+   "title": "Scalable, high-quality object detection",
+   "authors": "C Szegedy, S Reed, D Erhan, D Anguelov, S Ioffe",
+   "venue": "arXiv preprint arXiv:1412.1441",
+   "year": "2014"
+  },
+  {
+   "title": "Autoformalization with large language models",
+   "authors": "Y Wu, AQ Jiang, W Li, M Rabe, C Staats, M Jamnik, C Szegedy",
+   "venue": "Advances in neural information processing systems 35, 32353-32368",
+   "year": "2022"
+  },
+  {
+   "title": "Deepmath-deep sequence models for premise selection",
+   "authors": "G Irving, C Szegedy, AA Alemi, N Eén, F Chollet, J Urban",
+   "venue": "Advances in neural information processing systems 29",
+   "year": "2016"
+  },
+  {
+   "title": "HOList: An environment for machine learning of higher order logic theorem proving",
+   "authors": "K Bansal, S Loos, M Rabe, C Szegedy, S Wilcox",
+   "venue": "International conference on machine learning, 454-463",
+   "year": "2019"
+  },
+  {
+   "title": "Deep network guided proof search",
+   "authors": "S Loos, G Irving, C Szegedy, C Kaliszyk",
+   "venue": "arXiv preprint arXiv:1701.06972",
+   "year": "2017"
+  },
+  {
+   "title": "Object detection using deep neural networks",
+   "authors": "C Szegedy, D Erhan, AT Toshev",
+   "venue": "US Patent 9,275,308",
+   "year": "2016"
+  },
+  {
+   "title": "Towards guaranteed safe AI: A framework for ensuring robust and reliable AI systems",
+   "authors": "D Dalrymple, J Skalse, Y Bengio, S Russell, M Tegmark, S Seshia, ...",
+   "venue": "arXiv preprint arXiv:2405.06624",
+   "year": "2024"
+  },
+  {
+   "title": "Graph representations for higher-order logic and theorem proving",
+   "authors": "A Paliwal, S Loos, M Rabe, K Bansal, C Szegedy",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (03), 2967-2974",
+   "year": "2020"
+  },
+  {
+   "title": "Hierarchical transformers are more efficient language models",
+   "authors": "P Nawrot, S Tworkowski, M Tyrolski, Ł Kaiser, Y Wu, C Szegedy, ...",
+   "venue": "Findings of the Association for Computational Linguistics: NAACL 2022, 1559-1571",
+   "year": "2022"
+  },
+  {
+   "title": "Holstep: A machine learning dataset for higher-order logic theorem proving",
+   "authors": "C Kaliszyk, F Chollet, C Szegedy",
+   "venue": "arXiv preprint arXiv:1703.00426",
+   "year": "2017"
+  },
+  {
+   "title": "A promising path towards autoformalization and general artificial intelligence",
+   "authors": "C Szegedy",
+   "venue": "International Conference on Intelligent Computer Mathematics, 3-20",
+   "year": "2020"
+  },
+  {
+   "title": "& Rabinovich, A.(2015)",
+   "authors": "C Szegedy, W Liu, Y Jia, P Sermanet, S Reed, D Anguelov, D Erhan, ...",
+   "venue": "Going deeper with convolutions 662, 1-9",
+   "year": "2015"
+  },
+  {
+   "title": "Processing images using deep neural networks",
+   "authors": "C Szegedy, VO Vanhoucke",
+   "venue": "US Patent 9,715,642",
+   "year": "2017"
+  },
+  {
+   "title": "Don't Trust: Verify--Grounding LLM Quantitative Reasoning with Autoformalization",
+   "authors": "J Zhou, C Staats, W Li, C Szegedy, K Weinberger, Y Wu",
+   "venue": "International Conference on Learning Representations 2024, 2544-2563",
+   "year": "2024"
+  },
+  {
+   "title": "554 Berg,\"",
+   "authors": "W Liu, DE Dragomir Anguelov, C Szegedy, S Reed, CY Fu, C Alexander",
+   "venue": "Ssd: Single shot multibox detector, 21-37",
+   "year": "2016"
+  },
+  {
+   "title": "Computer Vision–ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, 11–14 October 2016",
+   "authors": "W Liu, D Anguelov, D Erhan, C Szegedy, S Reed, CY Fu, AC Berg",
+   "venue": "Proceedings, Part I 14",
+   "year": "2016"
+  },
+  {
+   "title": "Training a neural network to detect objects in images",
+   "authors": "D Erhan, C Szegedy, D Anguelov",
+   "venue": "US Patent 9,373,057",
+   "year": "2016"
+  },
+  {
+   "title": "Modular code generation from synchronous block diagrams: modularity vs. code size",
+   "authors": "R Lublinerman, C Szegedy, S Tripakis",
+   "venue": "Proceedings of the 36th annual ACM SIGPLAN-SIGACT symposium on Principles of …",
+   "year": "2009"
+  },
+  {
+   "title": "Magnushammer: A transformer-based approach to premise selection",
+   "authors": "M Mikuła, S Tworkowski, S Antoniak, B Piotrowski, Q Jiang, J Zhou, ...",
+   "venue": "International Conference on Learning Representations 2024, 39326-39350",
+   "year": "2024"
+  },
+  {
+   "title": "Lime: Learning inductive bias for primitives of mathematical reasoning",
+   "authors": "Y Wu, MN Rabe, W Li, J Ba, RB Grosse, C Szegedy",
+   "venue": "International Conference on Machine Learning, 11251-11262",
+   "year": "2021"
+  },
+  {
+   "title": "January 4-9). Inception-v4, inception-resnet and the impact of residual connections on learning. Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence, San …",
+   "authors": "C Szegedy, S Ioffe, V Vanhoucke, AA Alemi",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "A definition of AGI",
+   "authors": "D Hendrycks, D Song, C Szegedy, H Lee, Y Gal, E Brynjolfsson, S Li, ...",
+   "venue": "arXiv preprint arXiv:2510.18212",
+   "year": "2025"
+  },
+  {
+   "title": "Mathematical reasoning via self-supervised skip-tree training",
+   "authors": "MN Rabe, D Lee, K Bansal, C Szegedy",
+   "venue": "arXiv preprint arXiv:2006.04757",
+   "year": "2020"
+  },
+  {
+   "title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift. 10.48550",
+   "authors": "S Ioffe, C Szegedy",
+   "venue": "arXiv preprint ARXIV.1502.03167",
+   "year": "2015"
+  },
+  {
+   "title": "Sergey Io e, Vincent Vanhoucke, and Alexander A Alemi.“Inceptionv4, inception-resnet and the impact of residual connections on learning”",
+   "authors": "C Szegedy",
+   "venue": "31st AAAI Conference on Artificial Intelligence, AAAI 2017",
+   "year": "2017"
+  },
+  {
+   "title": "(July, January 26). Rethinking the inception architecture for computer vision",
+   "authors": "C Szegedy, V Vanhoucke, S Ioffe, J Shlens, Z Wojna",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Computer vision and pattern recognition (CVPR)",
+   "authors": "C Szegedy, W Liu, Y Jia, P Sermanet, S Reed, D Anguelov, D Erhan, ...",
+   "venue": "arXiv preprint arXiv:1409.4842",
+   "year": "2015"
+  },
+  {
+   "title": "Going deeper with convolutions. ArXiv [Cs. CV]",
+   "authors": "C Szegedy, W Liu, Y Jia, P Sermanet, S Reed, D Anguelov, A Rabinovich",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "January 4-9). Inception-v4, inception-resnet and the impact of residual connections on learning. Proceedings of the AAAI Conference on Artificial Intelligence, San Francisco …",
+   "authors": "C Szegedy, S Ioffe, V Vanhoucke, A Alemi",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Batch normalization: accelerating deep network training by reducing internal covariate shift. arXiv. 2015 doi: 10.48550",
+   "authors": "S Ioffe, C Szegedy",
+   "venue": "arXiv preprint arXiv.1502.03167 1502",
+   "year": null
+  },
+  {
+   "title": "Learning to reason in large theories without imitation",
+   "authors": "K Bansal, C Szegedy, MN Rabe, SM Loos, V Toman",
+   "venue": "arXiv preprint arXiv:1905.10501",
+   "year": "2019"
+  },
+  {
+   "title": "Explaining and harnessing adversarial examples. arXiv preprint (2014)",
+   "authors": "IJ Goodfellow, J Shlens, C Szegedy",
+   "venue": "arXiv preprint arXiv:1412.6572",
+   "year": "2014"
+  },
+  {
+   "title": "Advances in neural information processing systems",
+   "authors": "C Szegedy, A Toshev, D Erhan, C Burges, L Bottou, M Welling, ...",
+   "venue": "Deep neural networks for object detection, 2553-2561",
+   "year": "2013"
+  },
+  {
+   "title": "Batch normalization: accelerating deep network training by reducing internal covariate shift. 2015. DOI: 10.48550",
+   "authors": "S Ioffe, C Szegedy",
+   "venue": "arXiv preprint ARXIV.1502.03167",
+   "year": null
+  },
+  {
+   "title": "Liu W. Jia Y",
+   "authors": "C Szegedy, V Vanhoucke, A Rabinovich",
+   "venue": "",
+   "year": "2015"
+  },
+  {
+   "title": "Explaining and harnessing adversarial examples. arXiv preprint arXiv: 1412",
+   "authors": "IJ Goodfellow, J Shlens, C Szegedy",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Mathematical reasoning in latent space",
+   "authors": "D Lee, C Szegedy, MN Rabe, SM Loos, K Bansal",
+   "venue": "arXiv preprint arXiv:1909.11851",
+   "year": "2019"
+  },
+  {
+   "title": "Training a neural network to detect objects in images",
+   "authors": "D Erhan, C Szegedy, D Anguelov",
+   "venue": "US Patent 9,514,389",
+   "year": "2016"
+  },
+  {
+   "title": "Systems and methods for identifying entities directly from imagery",
+   "authors": "Q Yu, L Yatziv, Y Li, C Szegedy, SC Arnoud, MC Stumpe",
+   "venue": "US Patent 10,007,867",
+   "year": "2018"
+  },
+  {
+   "title": "Intriguing properties of neural networks. CoRR abs/1312.6199 (2013)",
+   "authors": "C Szegedy, W Zaremba, I Sutskever, J Bruna, D Erhan, IJ Goodfellow, ...",
+   "venue": "arXiv preprint arXiv:1312.6199",
+   "year": "2013"
+  },
+  {
+   "title": "Holist: An environment for machine learning of higher-order theorem proving (extended version)",
+   "authors": "K Bansal, SM Loos, MN Rabe, C Szegedy, S Wilcox",
+   "venue": "arXiv preprint arXiv:1904.03241",
+   "year": "2019"
+  },
+  {
+   "title": "Timing optimization by restructuring long combinatorial paths",
+   "authors": "J Werber, D Rautenbach, C Szegedy",
+   "venue": "2007 IEEE/ACM International Conference on Computer-Aided Design, 536-543",
+   "year": "2007"
+  },
+  {
+   "title": "Business discovery from imagery",
+   "authors": "Q Yu, L Yatziv, MC Stumpe, VD Shet, C Szegedy, D Erhan, SC Arnoud",
+   "venue": "US Patent 9,594,984",
+   "year": "2017"
+  },
+  {
+   "title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift sergey",
+   "authors": "S Ioffe, C Szegedy",
+   "venue": "J. Mol. Struct 1134",
+   "year": "2017"
+  },
+  {
+   "title": "Symplectic spaces and ear-decomposition of matroids",
+   "authors": "B Szegedy, C Szegedy",
+   "venue": "Combinatorica 26 (3), 353-377",
+   "year": "2006"
+  },
+  {
+   "title": "Image classification neural networks",
+   "authors": "VO Vanhoucke, C Szegedy, S Ioffe",
+   "venue": "US Patent 10,460,211",
+   "year": "2019"
+  },
+  {
+   "title": "An overview of deep learning",
+   "authors": "C Szegedy",
+   "venue": "AITP 2016, 7",
+   "year": "2016"
+  },
+  {
+   "title": "Text embeddings for retrieval from a large knowledge base",
+   "authors": "T Cakaloglu, C Szegedy, X Xu",
+   "venue": "International Conference on Research Challenges in Information Science, 338-351",
+   "year": "2020"
+  },
+  {
+   "title": "Towards the Automatic Mathematician.",
+   "authors": "MN Rabe, C Szegedy",
+   "venue": "CADE, 25-37",
+   "year": "2021"
+  },
+  {
+   "title": "Adversarial training of neural networks",
+   "authors": "C Szegedy, I Goodfellow",
+   "venue": "US Patent 10,521,718",
+   "year": "2019"
+  },
+  {
+   "title": "Large scale business discovery from street level imagery",
+   "authors": "Q Yu, C Szegedy, MC Stumpe, L Yatziv, V Shet, J Ibarz, S Arnoud",
+   "venue": "arXiv preprint arXiv:1512.05430",
+   "year": "2015"
+  },
+  {
+   "title": "Method and system for approximate placement in electronic designs",
+   "authors": "P Chong, C Szegedy",
+   "venue": "US Patent 8,572,540",
+   "year": "2013"
+  },
+  {
+   "title": "Delay optimization of linear depth Boolean circuits with prescribed input arrival times",
+   "authors": "D Rautenbach, C Szegedy, J Werber",
+   "venue": "Journal of Discrete Algorithms 4 (4), 526-537",
+   "year": "2006"
+  },
+  {
+   "title": "SSD: Single shot multibox detector, European Conf",
+   "authors": "W Liu, D Anguelov, D Erhan, C Szegedy, S Reed, CY Fu, AC Berg",
+   "venue": "Computer Vision (Springer, Cham, 2016), 21-37",
+   "year": null
+  },
+  {
+   "title": "SSD: Single Shot MultiBox Detector Springer",
+   "authors": "W Liu, D Anguelov, D Erhan, C Szegedy, S Reed, CY Fu, AC Berg",
+   "venue": "Cham,–2016, 21-37",
+   "year": "2016"
+  },
+  {
+   "title": "Object detection using neural network systems",
+   "authors": "D Roblek, C Szegedy, JS Jurewicz",
+   "venue": "US Patent 10,467,493",
+   "year": "2019"
+  },
+  {
+   "title": "Robust and fast model fitting by adaptive sampling",
+   "authors": "C Szegedy",
+   "venue": "US Patent 8,756,175",
+   "year": "2014"
+  },
+  {
+   "title": "Method, system, and computer program product for implementing incremental placement in electronics design",
+   "authors": "P Chong, C Szegedy",
+   "venue": "US Patent 8,028,263",
+   "year": "2011"
+  },
+  {
+   "title": "Method and system for approximate placement in electronic designs",
+   "authors": "P Chong, C Szegedy",
+   "venue": "US Patent 7,966,595",
+   "year": "2011"
+  },
+  {
+   "title": "Some Applications of the weighted combinatorial Laplacian",
+   "authors": "C Szegedy",
+   "venue": "Universitäts-und Landesbibliothek Bonn",
+   "year": "2005"
+  },
+  {
+   "title": "Cloud computing-CLOUD 2020",
+   "authors": "Q Zhang, Y Wang, LJ Zhang",
+   "venue": "Cham: Springer International Publishing AG",
+   "year": "2020"
+  },
+  {
+   "title": "Springer; 2016. Ssd: Single Shot Multibox Detector, Computer Vision–ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11–14, 2016",
+   "authors": "W Liu, D Anguelov, D Erhan, C Szegedy, S Reed, C Fu, AC Berg",
+   "venue": "Proceedings, Part I 14, 21-37",
+   "year": "2016"
+  },
+  {
+   "title": "Methods, systems, and computer program products for grid-morphing techniques in placement, floorplanning, and legalization",
+   "authors": "P Chong, C Szegedy",
+   "venue": "US Patent 7,739,644",
+   "year": "2010"
+  },
+  {
+   "title": "A class of problems for which cyclic relaxation converges linearly",
+   "authors": "D Rautenbach, C Szegedy",
+   "venue": "Computational Optimization and Applications 41 (1), 53-60",
+   "year": "2008"
+  },
+  {
+   "title": "The delay of circuits whose inputs have specified arrival times",
+   "authors": "D Rautenbach, C Szegedy, J Werber",
+   "venue": "Discrete applied mathematics 155 (10), 1233-1243",
+   "year": "2007"
+  },
+  {
+   "title": "Weiszfeld’s algorithm revisited once again",
+   "authors": "D Rautenbach, M Struzyna, C Szegedy, J Vygen",
+   "venue": "Research Institute of Discrete Mathematics Report",
+   "year": "2004"
+  },
+  {
+   "title": "648 Ssd: Single shot multibox detector",
+   "authors": "W Liu, D Anguelov, D Erhan, C Szegedy, S Reed, CY Fu, A Berg",
+   "venue": "Proc. Eur. Conf. Comput. Vis 649, 21-37",
+   "year": null
+  },
+  {
+   "title": "Processing images using deep neural networks",
+   "authors": "C Szegedy, VO Vanhoucke",
+   "venue": "US Patent 10,650,289",
+   "year": "2020"
+  },
+  {
+   "title": "Processing images using deep neural networks",
+   "authors": "C Szegedy, VO Vanhoucke",
+   "venue": "US Patent 9,911,069",
+   "year": "2018"
+  },
+  {
+   "title": "Scene classification with inception-7",
+   "authors": "C Szegedy, J Ibarz",
+   "venue": "Large-scale scene understanding challenge workshop (lSUN), 5",
+   "year": "2015"
+  },
+  {
+   "title": "Asymptotically optimal Boolean circuits for functions of the form gn-1 (gn-2 (... g3 (g2 (g1 (x1, x2), x3), x4)..., xn-1), xn) given input arrival times",
+   "authors": "D Rautenbach, C Szegedy, J Werber",
+   "venue": "Forschungsinst. für Diskrete Mathematik",
+   "year": "2003"
+  },
+  {
+   "title": "Going deeper with convolutions in 2015 IEEE Conf",
+   "authors": "C Szegedy, W Liu, Y Jia, P Sermanet, S Reed, D Anguelov, D Erhan, ...",
+   "venue": "Comput. Vis. Pattern Recognit",
+   "year": null
+  },
+  {
+   "title": "Retrieval-augmented proof step synthesis",
+   "authors": "C Szegedy, M Rabe, H Michalewski",
+   "venue": "Conference on Artificial Intelligence and Theorem Proving (AITP) 4",
+   "year": "2021"
+  },
+  {
+   "title": "Ssd: Single shot multibox detector, Computer Vision–ECCV 2016: 14th European Conference, Amsterdam, The Netherlands",
+   "authors": "W Liu, D Anguelov, D Erhan, C Szegedy, S Reed, CY Fu, AC Berg",
+   "venue": "Proceedings, Part I, 21-37",
+   "year": null
+  },
+  {
+   "title": "A morphing approach to address placement stability",
+   "authors": "P Chong, C Szegedy",
+   "venue": "Proceedings of the 2007 international symposium on Physical design, 95-102",
+   "year": "2007"
+  },
+  {
+   "title": "A subgradient method using alternating projections",
+   "authors": "D Rautenbach, C Szegedy",
+   "venue": "Forschungsinst. für Diskrete Mathematik",
+   "year": "2004"
+  },
+  {
+   "title": "On the number of 3-edge colorings of cubic graphs",
+   "authors": "C Szegedy",
+   "venue": "European Journal of Combinatorics 23 (1), 113-120",
+   "year": "2002"
+  },
+  {
+   "title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift, arXiv (2015) preprint",
+   "authors": "S Ioffe, C Szegedy",
+   "venue": "arXiv preprint arXiv:1502.03167",
+   "year": null
+  },
+  {
+   "title": "Processing images using deep neural networks",
+   "authors": "C Szegedy, VO Vanhoucke",
+   "venue": "US Patent 10,977,529",
+   "year": "2021"
+  },
+  {
+   "title": "Inception—V 4, Inception-ResNet and the impact of residual connections on L earn",
+   "authors": "C Szegedy, S Ioffe, V Vanhoucke",
+   "venue": "Work. track—ICLR, 2015-2017",
+   "year": "2016"
+  },
+  {
+   "title": "On the cost of optimal alphabetic code trees with unequal letter costs",
+   "authors": "D Rautenbach, C Szegedy, J Werber",
+   "venue": "European Journal of Combinatorics 29 (2), 386-394",
+   "year": "2008"
+  },
+  {
+   "title": "Fast circuits for functions whose inputs have specified arrival times",
+   "authors": "D Rautenbach, C Szegedy, J Werber",
+   "venue": "Forschungsinst. für Diskrete Mathematik",
+   "year": "2003"
+  },
+  {
+   "title": "er al (2015) Going deeper with convolutions",
+   "authors": "C Szegedy, W Liu, YQ Jia, P Sermanet, S Reed, D Anguelov, D Erhan, ...",
+   "venue": "Proceedings of the IEEE conference on computer vision and pattern …",
+   "year": null
+  },
+  {
+   "title": "Adversarial training of neural networks",
+   "authors": "C Szegedy, I Goodfellow",
+   "venue": "US Patent 11,416,745",
+   "year": "2022"
+  },
+  {
+   "title": "Autoformalization with large language models",
+   "authors": "A Jiang, CE Staats, C Szegedy, M Rabe, M Jamnik, W Li, YT Wu",
+   "venue": "",
+   "year": "2022"
+  },
+  {
+   "title": "Robust and fast model fitting by adaptive sampling",
+   "authors": "C Szegedy",
+   "venue": "US Patent 9,129,228",
+   "year": "2015"
+  },
+  {
+   "title": "Batch normalization…",
+   "authors": "S Loffe, C Szegedy",
+   "venue": "arXiv preprint arXiv: 1502.03167",
+   "year": "2015"
+  },
+  {
+   "title": "Autoformalization for neural theorem proving",
+   "authors": "Y Wu, A Jiang, W Li, MN Rabe, C Staats, M Jamnik, C Szegedy",
+   "venue": "7th Conference on artificial intelligence and theorem proving. AITP …",
+   "year": "2022"
+  },
+  {
+   "title": "Language modeling for formal mathematics",
+   "authors": "MN Rabe, D Lee, K Bansal, C Szegedy",
+   "venue": "CoRR, abs/2006.04757",
+   "year": "2020"
+  },
+  {
+   "title": "Learning alignment between formal & informal mathematics",
+   "authors": "K Bansal, C Szegedy",
+   "venue": "5th Conference on Artificial Intelligence and Theorem Proving",
+   "year": "2020"
+  },
+  {
+   "title": "Modular code generation from synchronous block diagrams",
+   "authors": "R Lublinerman, C Szegedy, S Tripakis",
+   "venue": "ACM Symposium on Principles of Programming Languages",
+   "year": null
+  },
+  {
+   "title": "Sergey loffe",
+   "authors": "C Szegedy, S Reed, D Erhan, D Anguelov",
+   "venue": "Scalable High Quality Object Detection. In",
+   "year": null
+  },
+  {
+   "title": "Inception‐v4, inception‐resnet and the impact of residual connections on learning; 2016. arXiv preprint arXiv: 1602.07261",
+   "authors": "C Szegedy, S Ioffe, V Vanhoucke, AA Alemi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Linear Representation of the Ear Matroid",
+   "authors": "C Szegedy",
+   "venue": "Universität Bonn. Institut für Ökonometrie und Operations Research",
+   "year": "1999"
+  },
+  {
+   "title": "Using memory to augment self-attention in neural networks",
+   "authors": "C Szegedy, DLS Hutchins, MN Rabe, Y Wu",
+   "venue": "US Patent App. 18/697,211",
+   "year": "2024"
+  },
+  {
+   "title": "Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems",
+   "authors": "S Omohundro, C Szegedy, B Goldhaber, N Ammann, A Abate, J Halpern, ...",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Diagnostic System for Rail Fastenings on High-Speed Railways Based on a Deep Neural Network",
+   "authors": "C Szegedy, S Reed, C Fu, A Berg",
+   "venue": "ВЕСТНИК TRANSACTIONS, 591",
+   "year": "2024"
+  },
+  {
+   "title": "Processing images using deep neural networks",
+   "authors": "C Szegedy, VO Vanhoucke",
+   "venue": "US Patent 11,809,955",
+   "year": "2023"
+  },
+  {
+   "title": "Adversartail training of neural networks",
+   "authors": "C Szegedy, I Goodfellow",
+   "venue": "US Patent 11,651,218",
+   "year": "2023"
+  },
+  {
+   "title": "Processing images using deep neural networks",
+   "authors": "C Szegedy, VO Vanhoucke",
+   "venue": "US Patent 11,462,035",
+   "year": "2022"
+  },
+  {
+   "title": "Image classification neural networks",
+   "authors": "VO Vanhoucke, C Szegedy, S Ioffe",
+   "venue": "US Patent App. 17/372,090",
+   "year": "2021"
+  },
+  {
+   "title": "A Promising Path Towards",
+   "authors": "C Szegedy",
+   "venue": "Intelligent Computer Mathematics: 13th International Conference, CICM 2020 …",
+   "year": "2020"
+  },
+  {
+   "title": "Text Embeddings for Retrieval from",
+   "authors": "LK Base, T Cakaloglu, C Szegedy, X Xu",
+   "venue": "Research Challenges in Information Science: 14th International Conference …",
+   "year": "2020"
+  },
+  {
+   "title": "Mathematical Reasoning in Latent Space",
+   "authors": "C Szegedy, D Lee, K Bansal, M Rabe, S Loos",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Image classification neural networks",
+   "authors": "VO Vanhoucke, C Szegedy, S Ioffe",
+   "venue": "US Patent App. 16/550,731",
+   "year": "2019"
+  },
+  {
+   "title": "Deep Autoresolution Networks",
+   "authors": "G Pereyra, C Szegedy",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Timing Optimization by Restructuring Long Combinatorial Paths",
+   "authors": "C Szegedy, D Rautenbach, J Werber",
+   "venue": "Forschungsinstitut für Diskrete Mathematik, Rheinische Friedrich-Wilhelms …",
+   "year": "2006"
+  },
+  {
+   "title": "Cost Optimal Alphabetic Code Tree Unequal",
+   "authors": "D Rautenbach, C Szegedy, J Werber",
+   "venue": "Forschungsinstitut für Diskrete Mathematik, Rheinische Friedrich-Wilhelms …",
+   "year": "2004"
+  },
+  {
+   "title": "Asymptotically Optimal Boolean Circuits for Functions of the Form Gn-1 (gn-2 (... G3 (g2 (g1 (χ1, χ2), Χ3), Χ4)..., Χn-1), Χn) given Input Arrival Times",
+   "authors": "D Rautenbach, C Szegedy, J Werber",
+   "venue": "Forschungsinstitut für Diskrete Mathematik, Rheinische Friedrich-Wilhelms …",
+   "year": "2003"
+  },
+  {
+   "title": "Symplectic Spaces and Ear-Decompositions of Matroids",
+   "authors": "B azs Szegedy, C Szegedy",
+   "venue": "",
+   "year": "1999"
+  },
+  {
+   "title": "原文地址: http://arxiv. org/abs/1602.07261",
+   "authors": "C Szegedy, S Ioffe, V Vanhoucke, A Alemi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Neural Architectures for Tactic-Based Automated Theorem Proving",
+   "authors": "C Szegedy, SM Loos, A Paliwal, M Rabe, K Bansal",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Two (very) Deep Networks",
+   "authors": "K He, X Zhang, S Ren, J Sun, C Szegedy, V Vanhoucke, S Ioffe, J Shlens, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

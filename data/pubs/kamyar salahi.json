@@ -1,0 +1,89 @@
+{
+ "user": "UV0IzT4AAAAJ",
+ "pubs": [
+  {
+   "title": "Nerfstudio: A modular framework for neural radiance field development",
+   "authors": "M Tancik, E Weber, E Ng, R Li, B Yi, T Wang, A Kristoffersen, J Austin, ...",
+   "venue": "ACM SIGGRAPH 2023 conference proceedings, 1-12",
+   "year": "2023"
+  },
+  {
+   "title": "Openai gpt-5 system card",
+   "authors": "A Singh, A Fry, A Perelman, A Tart, A Ganesh, A El-Kishky, A McLaughlin, ...",
+   "venue": "arXiv preprint arXiv:2601.03267",
+   "year": "2025"
+  },
+  {
+   "title": "Efficientformer: Vision transformers at mobilenet speed",
+   "authors": "Y Li, G Yuan, Y Wen, J Hu, G Evangelidis, S Tulyakov, Y Wang, J Ren",
+   "venue": "Advances in neural information processing systems 35, 12934-12949",
+   "year": "2022"
+  },
+  {
+   "title": "Rethinking vision transformers for mobilenet size and speed",
+   "authors": "Y Li, J Hu, Y Wen, G Evangelidis, K Salahi, Y Wang, S Tulyakov, J Ren",
+   "venue": "2023 IEEE/CVF International Conference on Computer Vision (ICCV), 16843-16854",
+   "year": "2023"
+  },
+  {
+   "title": "A wearable freestanding electrochemical sensing system",
+   "authors": "Y Zhao, B Wang, H Hojaiji, Z Wang, S Lin, C Yeung, H Lin, P Nguyen, ...",
+   "venue": "Science advances 6 (12), eaaz0007",
+   "year": "2020"
+  },
+  {
+   "title": "A mediator‐free electroenzymatic sensing methodology to mitigate ionic and electroactive interferents' effects for reliable wearable metabolite and nutrient monitoring",
+   "authors": "X Cheng, B Wang, Y Zhao, H Hojaiji, S Lin, R Shih, H Lin, S Tamayosa, ...",
+   "venue": "Advanced Functional Materials 30 (10), 1908507",
+   "year": "2020"
+  },
+  {
+   "title": "A rapid and low-cost fabrication and integration scheme to render 3D microfluidic architectures for wearable biofluid sampling, manipulation, and sensing",
+   "authors": "H Lin, Y Zhao, S Lin, B Wang, C Yeung, X Cheng, Z Wang, T Cai, W Yu, ...",
+   "venue": "Lab on a Chip 19 (17), 2844-2853",
+   "year": "2019"
+  },
+  {
+   "title": "Minimax active learning",
+   "authors": "S Ebrahimi, W Gan, D Chen, G Biamby, K Salahi, M Laielli, S Zhu, ...",
+   "venue": "arXiv preprint arXiv:2012.10467",
+   "year": "2020"
+  },
+  {
+   "title": "Electroenzymatic Sensors: A Mediator‐Free Electroenzymatic Sensing Methodology to Mitigate Ionic and Electroactive Interferents' Effects for Reliable Wearable Metabolite and …",
+   "authors": "X Cheng, B Wang, Y Zhao, H Hojaiji, S Lin, R Shih, H Lin, S Tamayosa, ...",
+   "venue": "Advanced Functional Materials 30 (10), 1",
+   "year": "2020"
+  },
+  {
+   "title": "Nerfstudio: a modular framework for neural radiance field development. Arxiv",
+   "authors": "M Tancik, E Weber, E Ng, R Li, B Yi, J Kerr, T Wang, A Kristoffersen, ...",
+   "venue": "arXiv preprint arXiv:2302.04264",
+   "year": "2023"
+  },
+  {
+   "title": "A wearable freestanding electrochemical sensing system. Sci Adv 6 (12): eaaz0007",
+   "authors": "Y Zhao, B Wang, H Hojaiji, Z Wang, S Lin, C Yeung, H Lin, P Nguyen, ...",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Wearable chemical sensors",
+   "authors": "B Wang, A Wilhelm, A Wilhelm, S Pilehvar, S Moshfeghi, P Stout, K Salahi, ...",
+   "venue": "Wearable bioelectronics, 49-63",
+   "year": "2020"
+  },
+  {
+   "title": "Vision transformer for mobilenet size and speed",
+   "authors": "J Ren, Y Li, J Hu, Y Wen, G Evangelidis, S Tulyakov, K Salahi",
+   "venue": "US Patent App. 19/452,539",
+   "year": "2026"
+  },
+  {
+   "title": "Vision transformer for mobilenet size and speed",
+   "authors": "J Ren, Y Li, J Hu, Y Wen, G Evangelidis, S Tulyakov, K Salahi",
+   "venue": "US Patent App. 18/080,993",
+   "year": "2024"
+  }
+ ]
+}

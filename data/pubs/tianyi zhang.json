@@ -1,0 +1,173 @@
+{
+ "user": "OI0HSa0AAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Bertscore: Evaluating text generation with bert",
+   "authors": "T Zhang, V Kishore, F Wu, KQ Weinberger, Y Artzi",
+   "venue": "arXiv preprint arXiv:1904.09675",
+   "year": "2019"
+  },
+  {
+   "title": "Stanford alpaca: An instruction-following llama model",
+   "authors": "R Taori, I Gulrajani, T Zhang, Y Dubois, X Li, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Simplifying Graph Convolutional Networks",
+   "authors": "F Wu, T Zhang, AH Souza Jr, C Fifty, T Yu, KQ Weinberger",
+   "venue": "Proceedings of the 36th International Conference on Machine Learning",
+   "year": "2019"
+  },
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Alpacaeval: An automatic evaluator of instruction-following models",
+   "authors": "X Li, T Zhang, Y Dubois, R Taori, I Gulrajani, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Benchmarking large language models for news summarization",
+   "authors": "T Zhang, F Ladhak, E Durmus, P Liang, K McKeown, TB Hashimoto",
+   "venue": "Transactions of the Association for Computational Linguistics 12, 39-57",
+   "year": "2024"
+  },
+  {
+   "title": "Alpacafarm: A simulation framework for methods that learn from human feedback",
+   "authors": "Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 30039-30069",
+   "year": "2023"
+  },
+  {
+   "title": "DS-1000: A natural and reliable benchmark for data science code generation",
+   "authors": "Y Lai, C Li, Y Wang, T Zhang, R Zhong, L Zettlemoyer, W Yih, D Fried, ...",
+   "venue": "International Conference on Machine Learning, 18319-18345",
+   "year": "2023"
+  },
+  {
+   "title": "Revisiting few-sample BERT fine-tuning",
+   "authors": "T Zhang, F Wu, A Katiyar, KQ Weinberger, Y Artzi",
+   "venue": "arXiv preprint arXiv:2006.05987",
+   "year": "2020"
+  },
+  {
+   "title": "Evaluating verifiability in generative search engines",
+   "authors": "NF Liu, T Zhang, P Liang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 7001-7025",
+   "year": "2023"
+  },
+  {
+   "title": "Identifying mislabeled data using the area under the margin ranking",
+   "authors": "G Pleiss, T Zhang, E Elenberg, KQ Weinberger",
+   "venue": "Advances in Neural Information Processing Systems 33, 17044-17056",
+   "year": "2020"
+  },
+  {
+   "title": "Bertscore: Evaluating text generation with bert, 2020",
+   "authors": "T Zhang, V Kishore, F Wu, KQ Weinberger, Y Artzi",
+   "venue": "URL https://arxiv. org/abs",
+   "year": "1904"
+  },
+  {
+   "title": "Decentralized training of foundation models in heterogeneous environments",
+   "authors": "B Yuan, Y He, J Davis, T Zhang, T Dao, B Chen, PS Liang, C Re, C Zhang",
+   "venue": "Advances in Neural Information Processing Systems 35, 25464-25477",
+   "year": "2022"
+  },
+  {
+   "title": "SWALP: Stochastic Weight Averaging in Low-Precision Training",
+   "authors": "G Yang, T Zhang, P Kirichenko, J Bai, AG Wilson, C De Sa",
+   "venue": "Proceedings of the 36th International Conference on Machine Learning",
+   "year": "2019"
+  },
+  {
+   "title": "Coder reviewer reranking for code generation",
+   "authors": "T Zhang, T Yu, T Hashimoto, M Lewis, W Yih, D Fried, S Wang",
+   "venue": "International Conference on Machine Learning, 41832-41846",
+   "year": "2023"
+  },
+  {
+   "title": "Qpytorch: A low-precision arithmetic simulation framework",
+   "authors": "T Zhang, Z Lin, G Yang, C De Sa",
+   "venue": "2019 Fifth Workshop on Energy Efficient Machine Learning and Cognitive …",
+   "year": "2019"
+  },
+  {
+   "title": "When do pre-training biases propagate to downstream tasks? a case study in text summarization",
+   "authors": "F Ladhak, E Durmus, M Suzgun, T Zhang, D Jurafsky, K McKeown, ...",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "On the inductive bias of masked language modeling: From statistical to syntactic dependencies",
+   "authors": "T Zhang, TB Hashimoto",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Mistral–a journey towards reproducible language model training",
+   "authors": "S Karamcheti, L Orr, J Bolton, T Zhang, K Goel, A Narayan, R Bommasani, ...",
+   "venue": "URL: https://github. com/stanford-crfm/mistral",
+   "year": "2021"
+  },
+  {
+   "title": "LADIS: Language disentanglement for 3D shape editing",
+   "authors": "I Huang, P Achlioptas, T Zhang, S Tulyakov, M Sung, L Guibas",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2022, 5519-5532",
+   "year": "2022"
+  },
+  {
+   "title": "Statistical language models for simulating communication sessions",
+   "authors": "SA Altschul, R Ramakrishnan, HB Narangodage, KQ Weinberger, ...",
+   "venue": "US Patent 12,282,744",
+   "year": "2025"
+  },
+  {
+   "title": "CREATIVESUMM: Shared task on automatic summarization for creative writing",
+   "authors": "D Agarwal, AR Fabbri, S Han, W Kryściński, F Ladhak, B Li, K McKeown, ...",
+   "venue": "Proceedings of The Workshop on Automatic Summarization for Creative Writing …",
+   "year": "2022"
+  },
+  {
+   "title": "TempLM: Distilling language models into template-based generators",
+   "authors": "T Zhang, M Lee, XL Li, E Shen, TB Hashimoto",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2023, 1970-1994",
+   "year": "2023"
+  },
+  {
+   "title": "SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving",
+   "authors": "J Jia, J Li, Z Zhou, JH Heo, J Wang, T Dao, SL Song, B Athiwaratkun, ...",
+   "venue": "arXiv preprint arXiv:2604.19157",
+   "year": "2026"
+  },
+  {
+   "title": "Statistical language models for simulating communication sessions",
+   "authors": "SA Altschul, R Ramakrishnan, HB Narangodage, KQ Weinberger, ...",
+   "venue": "US Patent App. 19/085,566",
+   "year": "2025"
+  },
+  {
+   "title": "Trend detection via machine learning models",
+   "authors": "T Zhang, S ALTSCHUL, K Weinberger, M Griffiths, GM PLEISS",
+   "venue": "US Patent App. 16/715,118",
+   "year": "2021"
+  }
+ ]
+}

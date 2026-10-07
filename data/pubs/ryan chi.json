@@ -1,0 +1,77 @@
+{
+ "user": "mGmeiRYAAAAJ",
+ "pubs": [
+  {
+   "title": "Holistic evaluation of language models",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110",
+   "year": "2022"
+  },
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Premise Order Matters in Reasoning with Large Language Models",
+   "authors": "X Chen, RA Chi, X Wang, D Zhou",
+   "venue": "https://arxiv.org/abs/2402.08939",
+   "year": "2024"
+  },
+  {
+   "title": "Persona features control emergent misalignment",
+   "authors": "M Wang, T Dupre la Tour, O Watkins, A Makelov, R Chi, S Miserendino, ...",
+   "venue": "International Conference on Learning Representations 2026, 48836-48885",
+   "year": "2026"
+  },
+  {
+   "title": "Holistic evaluation of language models. arXiv 2022",
+   "authors": "P Liang, R Bommasani, T Lee, D Tsipras, D Soylu, M Yasunaga, Y Zhang, ...",
+   "venue": "arXiv preprint arXiv:2211.09110 10",
+   "year": null
+  },
+  {
+   "title": "LINGOLY: A benchmark of olympiad-level linguistic reasoning puzzles in low resource and extinct languages",
+   "authors": "A Bean, S Hellsten, H Mayne, J Magomere, R Chi, SA Hale, HR Kirk",
+   "venue": "Advances in Neural Information Processing Systems 37, 26224-26237",
+   "year": "2024"
+  },
+  {
+   "title": "ModeLing: A novel dataset for testing linguistic reasoning in language models",
+   "authors": "NA Chi, T Malchev, R Kong, RA Chi, L Huang, EA Chi, RT McCoy, ...",
+   "venue": "Proceedings of the Eighth Workshop on Technologies for Machine Translation …",
+   "year": "2025"
+  },
+  {
+   "title": "Dialogue distillery: Crafting interpolable, interpretable, and introspectable dialogue from llms",
+   "authors": "RA Chi, J Kim, S Hickmann, S Li, G Chi, T Atchariyachanvanit, K Yu, ...",
+   "venue": "Alexa Prize SocialBot Grand Challenge 5",
+   "year": "2023"
+  },
+  {
+   "title": "Stanford MLab at SemEval 2023 task 7: Neural methods for clinical trial report NLI",
+   "authors": "C Takehana, D Lim, E Kurtuluş, R Iyer, E Tanimura, P Aggarwal, ...",
+   "venue": "Proceedings of the 17th International Workshop on Semantic Evaluation …",
+   "year": "2023"
+  },
+  {
+   "title": "GLARE: Generative left-to-right AdversaRial examples",
+   "authors": "RA Chi, N Kim, P Liu, Z Lack, EA Chi",
+   "venue": "Proceedings of the 3rd Workshop on Evaluation and Comparison of NLP Systems …",
+   "year": "2022"
+  },
+  {
+   "title": "Redwoodnlp at semeval-2021 task 7: Ensembled pretrained and lightweight models for humor detection",
+   "authors": "NA Chi, R Chi",
+   "venue": "Proceedings of the 15th international workshop on semantic evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "Stanford MLab at SemEval 2022 Task 7: Tree-and Transformer-Based Methods for Clarification Plausibility",
+   "authors": "T Yim, J Lee, R Verma, S Hickmann, A Zhu, C Sallade, I Ng, R Chi, P Liu",
+   "venue": "Proceedings of the 16th International Workshop on Semantic Evaluation …",
+   "year": "2022"
+  }
+ ]
+}

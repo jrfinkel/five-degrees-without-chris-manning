@@ -1,0 +1,341 @@
+{
+ "user": "njczUPMAAAAJ",
+ "pubs": [
+  {
+   "title": "Anyone Can Become a Troll: Causes of Trolling Behavior in Online Discussions",
+   "authors": "J Cheng, M Bernstein, C Danescu-Niculescu-Mizil, J Leskovec",
+   "venue": "CSCW",
+   "year": "2017"
+  },
+  {
+   "title": "A computational approach to politeness with application to social factors",
+   "authors": "C Danescu-Niculescu-Mizil, M Sudhof, D Jurafsky, J Leskovec, C Potts",
+   "venue": "Proceedings of ACL 2013",
+   "year": "2013"
+  },
+  {
+   "title": "Chameleons in imagined conversations: A new approach to understanding coordination of linguistic style in dialogs",
+   "authors": "C Danescu-Niculescu-Mizil, L Lee",
+   "venue": "ACL workshop on Cognitive modeling in computational linguistics, 76-87",
+   "year": "2011"
+  },
+  {
+   "title": "No country for old members: User lifecycle and linguistic change in online communities",
+   "authors": "C Danescu-Niculescu-Mizil, R West, D Jurafsky, J Leskovec, C Potts",
+   "venue": "Proceedings of WWW",
+   "year": "2013"
+  },
+  {
+   "title": "Winning Arguments: Interaction Dynamics and Persuasion Strategies in Good-faith Online Discussions",
+   "authors": "C Tan, V Niculae, C Danescu-Niculescu-Mizil, L Lee",
+   "venue": "Proceedings of WWW",
+   "year": "2016"
+  },
+  {
+   "title": "Antisocial Behavior in Online Discussion Communities",
+   "authors": "J Cheng, C Danescu-Niculescu-Mizil, J Leskovec",
+   "venue": "Proceedings of ICWSM",
+   "year": "2015"
+  },
+  {
+   "title": "Linguistic Models for Analyzing and Detecting Biased Language",
+   "authors": "M Recasens, C Danescu-Niculescu-Mizil, D Jurafsky",
+   "venue": "Proceedings of ACL 2013",
+   "year": "2013"
+  },
+  {
+   "title": "Echoes of power:  Language effects and power differences in social interaction",
+   "authors": "C Danescu-Niculescu-Mizil, L Lee, B Pang, J Kleinberg",
+   "venue": "Proceedings of WWW 2012",
+   "year": "2012"
+  },
+  {
+   "title": "Mark my words! Linguistic style accommodation in social media",
+   "authors": "C Danescu-Niculescu-Mizil, M Gamon, S Dumais",
+   "venue": "Proceedings of WWW 2011, 745-754",
+   "year": "2011"
+  },
+  {
+   "title": "How opinions are received by online communities: A case study on Amazon.com helpfulness votes",
+   "authors": "C Danescu-Niculescu-Mizil, G Kossinets, J Kleinberg, L Lee",
+   "venue": "Proceedings of WWW 2009, 141-150",
+   "year": "2009"
+  },
+  {
+   "title": "Conversations Gone Awry: Detecting Early Signs of Conversational Failure",
+   "authors": "J Zhang, JP Chang, C Danescu-Niculescu-Mizil, L Dixon, Y Hua, N Thain, ...",
+   "venue": "Proceedings of ACL",
+   "year": "2018"
+  },
+  {
+   "title": "How Community Feedback Shapes User Behavior",
+   "authors": "J Cheng, C Danescu-Niculescu-Mizil, J Leskovec",
+   "venue": "Proceedings of ICWSM",
+   "year": "2014"
+  },
+  {
+   "title": "For the sake of simplicity: Unsupervised extraction of lexical simplifications from Wikipedia",
+   "authors": "M Yatskar, B Pang, C Danescu-Niculescu-Mizil, L Lee",
+   "venue": "Proceedings of NAACL 2010, 365-368",
+   "year": "2010"
+  },
+  {
+   "title": "ConvoKit: A Toolkit for the Analysis of Conversations",
+   "authors": "JP Chang, C Chiam, L Fu, AZ Wang, J Zhang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of SIGDIAL",
+   "year": "2020"
+  },
+  {
+   "title": "How to Ask for a Favor: A Case Study on the Success of Altruistic Requests",
+   "authors": "T Althoff, C Danescu-Niculescu-Mizil, D Jurafsky",
+   "venue": "Proceedings of ICWSM",
+   "year": "2014"
+  },
+  {
+   "title": "People on drugs: credibility of user statements in health communities",
+   "authors": "S Mukherjee, G Weikum, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of KDD, 65-74",
+   "year": "2014"
+  },
+  {
+   "title": "Loyalty in Online Communities",
+   "authors": "WL Hamilton, J Zhang, C Danescu-Niculescu-Mizil, D Jurafsky, ...",
+   "venue": "Proceedings of ICWSM",
+   "year": "2017"
+  },
+  {
+   "title": "Characterizing and curating conversation threads: expansion, focus, volume, re-entry",
+   "authors": "L Backstrom, J Kleinberg, L Lee, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of WSDM, 13-22",
+   "year": "2013"
+  },
+  {
+   "title": "Content Removal as a Moderation Strategy: Compliance and Other Outcomes in the ChangeMyView Community",
+   "authors": "K Srinivasan, C Danescu-Niculescu-Mizil, L Lee, C Tan",
+   "venue": "Proceedings of CSCW",
+   "year": "2019"
+  },
+  {
+   "title": "You had me at hello: How phrasing affects memorability",
+   "authors": "C Danescu-Niculescu-Mizil, J Cheng, J Kleinberg, L Lee",
+   "venue": "Proceedings of ACL 2012",
+   "year": "2012"
+  },
+  {
+   "title": "Community identity and user engagement in a multi-community landscape",
+   "authors": "J Zhang, WL Hamilton, C Danescu-Niculescu-Mizil, D Jurafsky, ...",
+   "venue": "Proceedings of ICWSM",
+   "year": "2017"
+  },
+  {
+   "title": "Conversational flow in Oxford-style debates",
+   "authors": "J Zhang, R Kumar, S Ravi, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of NAACL",
+   "year": "2016"
+  },
+  {
+   "title": "Trouble on the Horizon: Forecasting the Derailment of Online Conversations as they Develop",
+   "authors": "JP Chang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of EMNLP",
+   "year": "2019"
+  },
+  {
+   "title": "Linguistic Harbingers of Betrayal: A Case Study on an Online Strategy Game",
+   "authors": "V Niculae, S Kumar, J Boyd-Graber, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of ACL",
+   "year": "2015"
+  },
+  {
+   "title": "QUOTUS: The Structure of Political Media Coverage as Revealed by Quoting Patterns",
+   "authors": "V Niculae, C Suen, J Zhang, C Danescu-Niculescu-Mizil, J Leskovec",
+   "venue": "Proceedings of WWW",
+   "year": "2015"
+  },
+  {
+   "title": "Proactive Moderation of Online Discussions: Existing Practices and the Potential for Algorithmic Support",
+   "authors": "C Schluger, JP Chang, C Danescu-Niculescu-Mizil, K Levy",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-27",
+   "year": "2022"
+  },
+  {
+   "title": "Conversational markers of constructive discussions",
+   "authors": "V Niculae, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of NAACL",
+   "year": "2016"
+  },
+  {
+   "title": "It Takes Two to Lie: One to Lie, and One to Listen",
+   "authors": "D Peskov, B Cheng, A Elgohary, J Barrow, C Danescu-Niculescu-Mizil, ...",
+   "venue": "Proceedings of ACL",
+   "year": "2020"
+  },
+  {
+   "title": "Characterizing Online Public Discussions through Patterns of Participant Interactions",
+   "authors": "J Zhang, C Danescu-Niculescu-Mizil, C Sauper, S Taylor",
+   "venue": "Proceedings of CSCW",
+   "year": "2018"
+  },
+  {
+   "title": "Thread With Caution: Proactively Helping Users Assess and Deescalate Tension in Their Online Discussions",
+   "authors": "JP Chang, C Schluger, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-37",
+   "year": "2022"
+  },
+  {
+   "title": "Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards",
+   "authors": "J Zhang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of ACL",
+   "year": "2020"
+  },
+  {
+   "title": "Brighter than Gold: Figurative Language in User Generated Comparisons",
+   "authors": "V Niculae, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of EMNLP",
+   "year": "2014"
+  },
+  {
+   "title": "Competing for users' attention: On the interplay between organic and sponsored search results",
+   "authors": "C Danescu-Niculescu-Mizil, AZ Broder, E Gabrilovich, V Josifovski, ...",
+   "venue": "Proceedings of WWW 2010, 291-300",
+   "year": "2010"
+  },
+  {
+   "title": "WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community",
+   "authors": "Y Hua, C Danescu-Niculescu-Mizil, D Taraborelli, N Thain, J Sorensen, ...",
+   "venue": "Proceedings of EMNLP",
+   "year": "2018"
+  },
+  {
+   "title": "Trajectories of Blocked Community Members: Redemption, Recidivism and Departure",
+   "authors": "JP Chang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of WWW",
+   "year": "2019"
+  },
+  {
+   "title": "Don’t Let Me Be Misunderstood: Comparing Intentions and Perceptions in Online Discussions",
+   "authors": "JP Chang, J Cheng, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of WWW",
+   "year": "2020"
+  },
+  {
+   "title": "Asking too much? The rhetorical role of questions in political discourse",
+   "authors": "J Zhang, A Spirling, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of EMNLP",
+   "year": "2017"
+  },
+  {
+   "title": "Tie-breaker: Using language models to quantify gender bias in sports journalism",
+   "authors": "L Fu, C Danescu-Niculescu-Mizil, L Lee",
+   "venue": "Proceedings of the IJCAI workshop on NLP meets Journalism",
+   "year": "2016"
+  },
+  {
+   "title": "Without a 'doubt'? Unsupervised discovery of downward-entailing operators",
+   "authors": "C Danescu-Niculescu-Mizil, L Lee, R Ducott",
+   "venue": "Proceedings of NAACL 2009, 137-145",
+   "year": "2009"
+  },
+  {
+   "title": "Hedge detection as a lens on framing in the GMO debates: A position paper",
+   "authors": "E Choi, C Tan, L Lee, C Danescu-Niculescu-Mizil, J Spindel",
+   "venue": "Proceedings of the Workshop on Extra-Propositional Aspects of Meaning in …",
+   "year": "2012"
+  },
+  {
+   "title": "Quantifying the Causal Effects of Conversational Tendencies",
+   "authors": "J Zhang, S Mullainathan, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of CSCW",
+   "year": "2020"
+  },
+  {
+   "title": "Finding Your Voice: The Linguistic Development of Mental Health Counselors",
+   "authors": "J Zhang, R Filbin, C Morrison, J Weiser, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Message Impartiality in Social Media Discussions",
+   "authors": "MB Zafar, KP Gummadi, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of ICWSM",
+   "year": "2016"
+  },
+  {
+   "title": "Facilitating the Communication of Politeness through Fine-Grained Paraphrasing",
+   "authors": "L Fu, S Fussell, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "How Did We Get Here? Summarizing Conversation Dynamics",
+   "authors": "Y Hua, N Chernogor, Y Gu, SJ Jeong, M Luo, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of NAACL",
+   "year": "2024"
+  },
+  {
+   "title": "When confidence and competence collide: Effects on online decision-making discussions",
+   "authors": "L Fu, L Lee, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of the 26th International Conference on World Wide Web, 1381-1390",
+   "year": "2017"
+  },
+  {
+   "title": "A COMPUTATIONAL APPROACH TO LINGUISTIC COORDINATION",
+   "authors": "C Danescu-Niculescu-Mizil",
+   "venue": "Cornell University",
+   "year": "2012"
+  },
+  {
+   "title": "Competition and selection among conventions",
+   "authors": "R Rotabi, C Danescu-Niculescu-Mizil, J Kleinberg",
+   "venue": "Proceedings of the 26th International Conference on World Wide Web, 1361-1370",
+   "year": "2017"
+  },
+  {
+   "title": "Asking the Right Question: Inferring Advice-Seeking Intentions from Personal Narratives",
+   "authors": "L Fu, JP Chang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of NAACL",
+   "year": "2019"
+  },
+  {
+   "title": "Don't 'have a clue'? Unsupervised co-learning of downward-entailing operators",
+   "authors": "C Danescu-Niculescu-Mizil, L Lee",
+   "venue": "Proceedings of ACL 2010, 247-252",
+   "year": "2010"
+  },
+  {
+   "title": "Taking a turn for the better: Conversation redirection throughout the course of mental-health therapy",
+   "authors": "V Nguyen, SM Jung, L Lee, TD Hull, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of EMNLP (Findings)",
+   "year": "2024"
+  },
+  {
+   "title": "Tracing the Use of Practices through Networks of Collaboration",
+   "authors": "R Rotabi, C Danescu-Niculescu-Mizil, J Kleinberg",
+   "venue": "Proceedings of ICWSM",
+   "year": "2017"
+  },
+  {
+   "title": "Hanging in the Balance: Pivotal Moments in Crisis Counseling Conversations",
+   "authors": "V Nguyen, L Lee, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of ACL",
+   "year": "2025"
+  },
+  {
+   "title": "Time is On My Side: Dynamics of Talk-Time Sharing in Video-chat Conversations",
+   "authors": "K Zhang, J Zhang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of CSCW",
+   "year": "2025"
+  },
+  {
+   "title": "Confidence Boost in Dyadic Online Teamwork: An Individual-Focused Perspective",
+   "authors": "L Fu, AZ Wang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of ICWSM 14, 197-208",
+   "year": "2020"
+  },
+  {
+   "title": "A Similarity Measure for Comparing Conversational Dynamics",
+   "authors": "SM Jung, K Zhang, C Danescu-Niculescu-Mizil",
+   "venue": "Proceedings of EMNLP (Findings)",
+   "year": "2025"
+  }
+ ]
+}

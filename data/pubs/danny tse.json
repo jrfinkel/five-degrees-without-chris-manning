@@ -1,0 +1,29 @@
+{
+ "user": "3k068DUAAAAJ",
+ "pubs": [
+  {
+   "title": "People who share encounters with racism are silenced online by humans and machines, but a guideline-reframing intervention holds promise",
+   "authors": "C Lee, K Gligorić, PR Kalluri, M Harrington, E Durmus, KL Sanchez, ...",
+   "venue": "Proceedings of the National Academy of Sciences 121 (38), e2322764121",
+   "year": "2024"
+  },
+  {
+   "title": "CuClarabel: GPU acceleration for a conic optimization solver",
+   "authors": "Y Chen, D Tse, P Nobel, P Goulart, S Boyd",
+   "venue": "ACM Transactions on Mathematical Software 52 (3), 1-25",
+   "year": "2026"
+  },
+  {
+   "title": "Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration",
+   "authors": "E Zhang, N Sagan, D Tse, F Zhang, M Pilanci, J Blanchet",
+   "venue": "arXiv preprint arXiv:2601.21410",
+   "year": "2026"
+  },
+  {
+   "title": "Statsformer: Validated Ensemble Learning with LLM-Derived Semantic Priors",
+   "authors": "E Zhang, N Sagan, D Tse, F Zhang, M Pilanci, J Blanchet",
+   "venue": "arXiv e-prints, arXiv: 2601.21410",
+   "year": "2026"
+  }
+ ]
+}

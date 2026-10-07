@@ -1,0 +1,455 @@
+{
+ "user": "5D7Zdu4AAAAJ",
+ "pubs": [
+  {
+   "title": "Large-scale single-neuron speech sound encoding across the depth of human cortex",
+   "authors": "MK Leonard, L Gwilliams, KK Sellers, JE Chung, D Xu, G Mischler, ...",
+   "venue": "Nature 626 (7999), 593-602",
+   "year": "2024"
+  },
+  {
+   "title": "Neural dynamics of phoneme sequences reveal position-invariant code for content and order",
+   "authors": "L Gwilliams, JR King, A Marantz, D Poeppel",
+   "venue": "Nature communications 13 (1), 6606",
+   "year": "2022"
+  },
+  {
+   "title": "In spoken word recognition, the future predicts the past",
+   "authors": "L Gwilliams, T Linzen, D Poeppel, A Marantz",
+   "venue": "The Journal of Neuroscience 38 (35), 7585-7599",
+   "year": "2018"
+  },
+  {
+   "title": "Mne-python",
+   "authors": "E Larson, A Gramfort, DA Engemann, J Leppakangas, C Brodbeck, M Jas, ...",
+   "venue": "Zenodo",
+   "year": "2024"
+  },
+  {
+   "title": "High-density single-unit human cortical recordings using the Neuropixels probe",
+   "authors": "JE Chung, KK Sellers, MK Leonard, L Gwilliams, D Xu, ME Dougherty, ...",
+   "venue": "Neuron 110 (15), 2409-2421. e3",
+   "year": "2022"
+  },
+  {
+   "title": "What we mean when we say semantic: Toward a multidisciplinary semantic glossary",
+   "authors": "J Reilly, C Shain, V Borghesani, P Kuhnke, G Vigliocco, JE Peelle, ...",
+   "venue": "Psychonomic bulletin & review 32 (1), 243-280",
+   "year": "2025"
+  },
+  {
+   "title": "Ongoing neural oscillations influence behavior and sensory representations by suppressing neuronal excitability",
+   "authors": "L Iemi, L Gwilliams, J Samaha, R Auksztulewicz, YM Cycowicz, JR King, ...",
+   "venue": "NeuroImage 247, 118746",
+   "year": "2022"
+  },
+  {
+   "title": "Non-linear processing of a linear speech stream: The influence of morphological structure on the recognition of spoken Arabic words",
+   "authors": "L Gwilliams, A Marantz",
+   "venue": "Brain and language 147, 1-13",
+   "year": "2015"
+  },
+  {
+   "title": "Recurrent processes support a cascade of hierarchical decisions",
+   "authors": "L Gwilliams, JR King",
+   "venue": "Elife 9, e56603",
+   "year": "2020"
+  },
+  {
+   "title": "Hierarchical dynamic coding coordinates speech comprehension in the human brain",
+   "authors": "L Gwilliams, A Marantz, D Poeppel, JR King",
+   "venue": "Proceedings of the National Academy of Sciences 122 (42), e2422097122",
+   "year": "2025"
+  },
+  {
+   "title": "How the brain composes morphemes into meaning",
+   "authors": "L Gwilliams",
+   "venue": "Philosophical Transactions of the Royal Society B: Biological Sciences 375 …",
+   "year": "2020"
+  },
+  {
+   "title": "Functional characterisation of letter-specific responses in time, space and current polarity using magnetoencephalography",
+   "authors": "L Gwilliams, GA Lewis, A Marantz",
+   "venue": "Neuroimage 132, 320-333",
+   "year": "2016"
+  },
+  {
+   "title": "Introducing MEG-MASC a high-quality magneto-encephalography dataset for evaluating natural speech processing",
+   "authors": "L Gwilliams, G Flick, A Marantz, L Pylkkänen, D Poeppel, JR King",
+   "venue": "Scientific data 10 (1), 862",
+   "year": "2023"
+  },
+  {
+   "title": "Extracting language content from speech sounds: the information theoretic approach",
+   "authors": "L Gwilliams, MH Davis",
+   "venue": "Speech perception, 113-139",
+   "year": "2022"
+  },
+  {
+   "title": "Indeterminacy in process type classification",
+   "authors": "L Gwilliams, L Fontaine",
+   "venue": "Functional Linguistics 2 (1), 8",
+   "year": "2015"
+  },
+  {
+   "title": "Top-down information shapes lexical processing when listening to continuous speech",
+   "authors": "L Gwilliams, A Marantz, D Poeppel, JR King",
+   "venue": "Language, Cognition and Neuroscience 39 (8), 1045-1058",
+   "year": "2024"
+  },
+  {
+   "title": "Speech prosody enhances the neural processing of syntax",
+   "authors": "G Degano, PW Donhauser, L Gwilliams, P Merlo, N Golestani",
+   "venue": "Communications biology 7 (1), 748",
+   "year": "2024"
+  },
+  {
+   "title": "Involvement of prefrontal cortex in scalar implicatures: evidence from magnetoencephalography",
+   "authors": "S Politzer-Ahles, L Gwilliams",
+   "venue": "Language, Cognition and Neuroscience 30 (7), 853-866",
+   "year": "2015"
+  },
+  {
+   "title": "Prefix stripping re-re-revisited: MEG investigations of morphological decomposition and recomposition",
+   "authors": "L Stockall, C Manouilidou, L Gwilliams, K Neophytou, A Marantz",
+   "venue": "Frontiers in Psychology 10, 1964",
+   "year": "2019"
+  },
+  {
+   "title": "Morphological representations are extrapolated from morpho-syntactic rules",
+   "authors": "L Gwilliams, A Marantz",
+   "venue": "Neuropsychologia 114, 77-87",
+   "year": "2018"
+  },
+  {
+   "title": "Phonological (un) certainty weights lexical activation",
+   "authors": "L Gwilliams, D Poeppel, A Marantz, T Linzen",
+   "venue": "Proceedings of the 8th workshop on cognitive modeling and computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Negation mitigates rather than inverts the neural representations of adjectives",
+   "authors": "A Zuanazzi, P Ripollés, WM Lin, L Gwilliams, JR King, D Poeppel",
+   "venue": "PLoS biology 22 (5), e3002622",
+   "year": "2024"
+  },
+  {
+   "title": "Magnetoencephalography and language",
+   "authors": "S Dikker, MF Assaneo, L Gwilliams, L Wang, A Kösem",
+   "venue": "Neuroimaging Clinics 30 (2), 229-238",
+   "year": "2020"
+  },
+  {
+   "title": "Shared and language-specific phonological processing in the human temporal lobe",
+   "authors": "I Bhaya-Grossman, MK Leonard, Y Zhang, L Gwilliams, K Johnson, J Lu, ...",
+   "venue": "Nature 649 (8095), 140-151",
+   "year": "2026"
+  },
+  {
+   "title": "Language in context: MEG evidence for modality-general and-specific responses to reference resolution",
+   "authors": "C Brodbeck, L Gwilliams, L Pylkkänen",
+   "venue": "ENeuro 3 (6), ENEURO. 0145-16.2016",
+   "year": "2016"
+  },
+  {
+   "title": "Sensitivity to morphological composition in spoken word recognition: Evidence from grammatical and lexical identification tasks.",
+   "authors": "LE Gwilliams, PJ Monahan, AG Samuel",
+   "venue": "Journal of experimental psychology: Learning, memory, and cognition 41 (6), 1663",
+   "year": "2015"
+  },
+  {
+   "title": "Computational architecture of speech comprehension in the human brain",
+   "authors": "L Gwilliams, I Bhaya-Grossman, Y Zhang, T Scott, S Harper, D Levy",
+   "venue": "Annual Review of Linguistics 11 (1), 209-226",
+   "year": "2025"
+  },
+  {
+   "title": "Human cortical dynamics of auditory word form encoding",
+   "authors": "Y Zhang, MK Leonard, I Bhaya-Grossman, L Gwilliams, EF Chang",
+   "venue": "Neuron 114 (1), 167-180. e6",
+   "year": "2026"
+  },
+  {
+   "title": "Spontaneous neural oscillations influence behavior and sensory representations by suppressing neuronal excitability",
+   "authors": "L Iemi, L Gwilliams, J Samaha, R Auksztulewicz, YM Cycowicz, JR King, ...",
+   "venue": "BioRxiv, 2021.03. 01.433450",
+   "year": "2021"
+  },
+  {
+   "title": "Adaptation to mis-pronounced speech: evidence for a prefrontal-cortex repair mechanism",
+   "authors": "E Blanco-Elorrieta, L Gwilliams, A Marantz, L Pylkkänen",
+   "venue": "Scientific reports 11 (1), 97",
+   "year": "2021"
+  },
+  {
+   "title": "Hierarchical oscillators in speech comprehension: A commentary on Meyer, Sun, and Martin (2019)",
+   "authors": "L Gwilliams",
+   "venue": "Language, Cognition and Neuroscience 35 (9), 1114-1118",
+   "year": "2020"
+  },
+  {
+   "title": "EEG can track the time course of successful reference resolution in small visual worlds",
+   "authors": "C Brodbeck, L Gwilliams, L Pylkkänen",
+   "venue": "Frontiers in psychology 6, 1787",
+   "year": "2015"
+  },
+  {
+   "title": "Exploring age-related changes in inter-brain synchrony during verbal communication",
+   "authors": "S Dikker, EN Mech, L Gwilliams, T West, G Dumas, KD Federmeier",
+   "venue": "Psychology of Learning and Motivation 77, 29-68",
+   "year": "2022"
+  },
+  {
+   "title": "Dynamics of pitch perception in the auditory cortex",
+   "authors": "EB Abrams, A Marantz, I Krementsov, L Gwilliams",
+   "venue": "The Journal of Neuroscience 45 (12), e1111242025",
+   "year": "2025"
+  },
+  {
+   "title": "Neural dynamics of phoneme sequences: Position-invariant code for content and order",
+   "authors": "L Gwilliams, JR King, A Marantz, D Poeppel",
+   "venue": "BioRxiv",
+   "year": "2020"
+  },
+  {
+   "title": "Extracting language content from speech sounds: An information theoretic approach",
+   "authors": "L Gwilliams, MH Davis",
+   "venue": "The Auditory Cognitive Neuroscience of Speech Perception",
+   "year": "2020"
+  },
+  {
+   "title": "nipy/PySurfer: 0.11. 0",
+   "authors": "M Waskom, E Larson, C Brodbeck, A Gramfort, S Burns, M Luessi, ...",
+   "venue": "Zenodo",
+   "year": "2020"
+  },
+  {
+   "title": "Towards a mechanistic account of speech comprehension in the human brain",
+   "authors": "L Gwilliams",
+   "venue": "New York University",
+   "year": "2020"
+  },
+  {
+   "title": "Tracking the online construction of linguistic meaning through negation",
+   "authors": "A Zuanazzi, P Ripollés, WM Lin, L Gwilliams, JR King, D Poeppel",
+   "venue": "bioRxiv",
+   "year": "2022"
+  },
+  {
+   "title": "Recurrent processes emulate a cascade of hierarchical decisions: evidence from Spatio-Temporal decoding of human brain activity",
+   "authors": "L Gwilliams, JR King",
+   "venue": "BioRxiv, 840074",
+   "year": "2019"
+  },
+  {
+   "title": "The spatio-temporal dynamics of phoneme encoding in aging and aphasia",
+   "authors": "J Kries, M Vandermosten, L Gwilliams",
+   "venue": "The Journal of Neuroscience 46 (4), e1001252025",
+   "year": "2026"
+  },
+  {
+   "title": "Higher-Order Spectral Decomposition Applied to Spike Sorting",
+   "authors": "CK Kovach, JPC Moreira, JI Berger, MA Howard, L Gwilliams, A Fallah, ...",
+   "venue": "ResearchGate",
+   "year": "2023"
+  },
+  {
+   "title": "Immediate ambiguity resolution in speech perception based on prior acoustic experience",
+   "authors": "L Gwilliams, P Wallisch",
+   "venue": "OSF",
+   "year": "2020"
+  },
+  {
+   "title": "Performance-optimized hierarchical models only partially predict neural responses during perceptual decision making",
+   "authors": "L Gwilliams, JR King",
+   "venue": "bioRxiv, 221630",
+   "year": "2017"
+  },
+  {
+   "title": "The text aphasia battery (TAB): A clinically-grounded benchmark for aphasia-like deficits in language models",
+   "authors": "N Roll, J Kries, F Jin, C Wang, AM Finley, M Sumner, C Shain, L Gwilliams",
+   "venue": "Proceedings of the 10th Workshop on Computational Linguistics and Clinical …",
+   "year": "2026"
+  },
+  {
+   "title": "On the speed of conscious perception: how soon is now?",
+   "authors": "W Turner, H Hogendoorn, L Gwilliams",
+   "venue": "OSF",
+   "year": "2026"
+  },
+  {
+   "title": "Distinct yet neighboring neural populations encode past, future, and surrounding speech context in the human temporal lobe",
+   "authors": "M de Heer Kloots, A Kazemian, W Turner, J Parvizi, L Gwilliams",
+   "venue": "bioRxiv, 2026.05. 13.724774",
+   "year": "2026"
+  },
+  {
+   "title": "Measuring naturalistic speech comprehension in real time",
+   "authors": "I Ergin, J Kries, S Gupta, M Papworth Burrel, L Gwilliams",
+   "venue": "Behavior Research Methods 58 (4), 93",
+   "year": "2026"
+  },
+  {
+   "title": "Tracking the behavioral and neural dynamics of semantic representations through negation",
+   "authors": "A Zuanazzi, P Ripollés, WM Lin, L Gwilliams, JR King, D Poeppel",
+   "venue": "bioRxiv, 2022.10. 14.512299",
+   "year": "2022"
+  },
+  {
+   "title": "NyU-BU contextually controlled stories Corpus: NUBUC",
+   "authors": "G Lewis11, P van Rijn21, L Gwilliams, P Larrouy-Maestri, D Poeppel, ...",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "MEG and Language: Using Magnetoencephalography to Study the Neural Basis of Language",
+   "authors": "S Dikker, F Assaneo, L Gwilliams, L Wang, A Kösem",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Noise Optimization of Basic Signal Component Extraction for Cryogenic and On-Scalp Magnetoencephalography (MEG)",
+   "authors": "A McPherson, S Sanchirico, A Xu, E Larson, M Kaestner, W Turner, ...",
+   "venue": "bioRxiv, 2026.07. 21.739883",
+   "year": "2026"
+  },
+  {
+   "title": "Artificial Aphasias in Lesioned Language Models",
+   "authors": "N Roll, J Kries, L Gwilliams, C Shain",
+   "venue": "arXiv preprint arXiv:2605.16222",
+   "year": "2026"
+  },
+  {
+   "title": "Are Redundant Labels Helpful during Category Learning? Replication of Lupyan, Rakison, & McClelland (2007)",
+   "authors": "C Kaicher, E Markman, L Gwilliams",
+   "venue": "",
+   "year": "2026"
+  },
+  {
+   "title": "Neural Phoneme Processing in Children with and without Dyslexia",
+   "authors": "M Gillis, J Kries, J Wouters, L Gwilliams, M Vandermosten",
+   "venue": "bioRxiv, 2025.10. 13.682108",
+   "year": "2025"
+  },
+  {
+   "title": "Dynamics of auditory word form encoding in human speech cortex",
+   "authors": "Y Zhang, MK Leonard, L Gwilliams, I Bhaya-Grossman, EF Chang",
+   "venue": "bioRxiv, 2025.05. 05.651964",
+   "year": "2025"
+  },
+  {
+   "title": "JNeurosci Accepted Manuscript",
+   "authors": "J Kries, M Vandermosten, L Gwilliams",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "Decomposition of higher-order spectra applied to spike sorting",
+   "authors": "C Kovach, JP Carvalho Moreira, J Berger, M Howard, L Gwilliams, ...",
+   "venue": "JOURNAL OF COMPUTATIONAL NEUROSCIENCE 52, S91-S91",
+   "year": "2024"
+  },
+  {
+   "title": "Neural Processing of Morphological Structure in Speech Production, Listening, and Reading",
+   "authors": "L Gwilliams, A Marantz",
+   "venue": "Linguistic Morphology in the Mind and Brain, 137-151",
+   "year": "2023"
+  },
+  {
+   "title": "Neural adaptation to accented speech: prefrontal cortex aids attunement in auditory cortices",
+   "authors": "E Blanco-Elorrieta, L Gwilliams, A Marantz, L Pylkkänen",
+   "venue": "bioRxiv, 852616",
+   "year": "2019"
+  },
+  {
+   "title": "EEG can Track the Time Course of Successful Reference Resolution in Small Visual Worlds. Front. Psychol. 6: 1787. doi: 10.3389/fpsyg. 2015.01787 EEG can Track the Time Course …",
+   "authors": "C Brodbeck, L Gwilliams, L Pylkkänen",
+   "venue": "Models of Reference 1 (3), 95",
+   "year": "2017"
+  },
+  {
+   "title": "Encoding and Decoding Neuronal Dynamics: Methodological Framework to Uncover the Algorithms of Cognition",
+   "authors": "L Gwilliams",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Involvement of prefrontal cortex in scalar implicatures: evidence from magnetoencephalography (vol 30, pg 853, 2015)",
+   "authors": "S Politzer-Ahles, L Gwilliams",
+   "venue": "LANGUAGE COGNITION AND NEUROSCIENCE 31 (4), 575-575",
+   "year": "2016"
+  },
+  {
+   "title": "Time after time: neural codes of speech comprehension",
+   "authors": "L Gwilliams",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Lexical representations are sequenced through a micro-scale dynamic code in inferior frontal gyrus",
+   "authors": "I Ergin, A Kazemian, E Rojas, N Hahn, F Kamdar, CK Vo, SS Madugula, ...",
+   "venue": "9th Annual Conference on Cognitive Computational Neuroscience",
+   "year": null
+  },
+  {
+   "title": "The role of context in neural representational alignment to audio-and text-based language systems",
+   "authors": "M de Heer Kloots, J Parvizi, L Gwilliams",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Are Redundant Labels Helpful during Category Learning? Replication of Lupyan",
+   "authors": "C Kaicher, EM Markman, L Gwilliams",
+   "venue": "Royal Society Open Science 10 (11), 231240",
+   "year": null
+  },
+  {
+   "title": "The developmental trajectory and neuroanatomical correlates of speech comprehension",
+   "authors": "J Kries, B Ervin, J Buroker, G Hickok, R Arya, L Gwilliams",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Spatiotemporal tracking of phonetic content and probability in the human brain during continuous speech understanding",
+   "authors": "W Turner, J Parvizi, L Gwilliams",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Intracranial EEG reveals multiplexed encoding of auditory, speech, and language embeddings in the human temporal lobe",
+   "authors": "A Kazemian, J Parvizi, DK Yamins, L Gwilliams",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Understanding the neural architecture of speech comprehension",
+   "authors": "L Gwilliams",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Early and asymmetric sensitivity to phonological boundaries and within-category variation across hemispheres",
+   "authors": "L Gwilliams, T Linzen, K Neophytou, L Warnke, D Poeppel, A Marantz",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "TOWARDS A MECHANISTIC ACCOUNT OF SPEECH COMPREHENSION",
+   "authors": "L GWILLIAMS",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Measuring Naturalistic Speech Comprehension in Real",
+   "authors": "I Ergin, J Kries, S Gupta, MP Burrel, L Gwilliams",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Phoneme ambiguity is reflected very early in primary auditory cortex",
+   "authors": "L Gwilliams, T Linzen, K Neophytou, L Warnke, D Poeppel, A Marantz",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

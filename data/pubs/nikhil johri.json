@@ -1,0 +1,59 @@
+{
+ "user": "ZVj3aC8AAAAJ",
+ "pubs": [
+  {
+   "title": "Citation author topic model in expert search",
+   "authors": "Y Tu, N Johri, D Roth, J Hockenmaier",
+   "venue": "Coling 2010: Posters, 1265-1273",
+   "year": "2010"
+  },
+  {
+   "title": "Relation Alignment for Textual Entailment Recognition.",
+   "authors": "M Sammons, VGV Vydiswaran, T Vieira, N Johri, MW Chang, ...",
+   "venue": "TAC",
+   "year": "2009"
+  },
+  {
+   "title": "A study of academic collaborations in computational linguistics using a latent mixture of authors model",
+   "authors": "N Johri, D Ramage, D McFarland, D Jurafsky",
+   "venue": "Proceedings of the 5th ACL-HLT workshop on language technology for cultural …",
+   "year": "2011"
+  },
+  {
+   "title": "Experts’ retrieval with multiword-enhanced author topic model",
+   "authors": "N Johri, D Roth, Y Tu",
+   "venue": "Proceedings of the NAACL HLT 2010 workshop on semantic search, 10-18",
+   "year": "2010"
+  },
+  {
+   "title": "A Labeled LDA Approach to Understanding the Dynamics of Collaboration",
+   "authors": "N Johri",
+   "venue": "A Labeled LDA Approach to Understanding the Dynamics of Collaboration",
+   "year": "2011"
+  },
+  {
+   "title": "Collaborative filtering models for recommendations systems",
+   "authors": "N Johri, Z Malkani, Y Wang",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Automated knowledge extraction from wikipedia",
+   "authors": "B Hadidi, N Johri, D Pantley, A Pradhan, F Wang",
+   "venue": "Available upon request to authors",
+   "year": "2010"
+  },
+  {
+   "title": "An Unsupervised Approach to Email Label Suggestions",
+   "authors": "D Harwath, N Johri, E Yin",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Continue, Adapt, or Yield: In-Turn Adaptation to Overlapping Speech in Full-Duplex Agents",
+   "authors": "Y Lu, T Baumgartner, N Johri, B Tai, C Fan, L Debaupte, R Aguilar, ...",
+   "venue": "arXiv preprint arXiv:2609.13117",
+   "year": "2026"
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "user": "n7Z2vI4AAAAJ",
+ "pubs": [
+  {
+   "title": "Conditional generative adversarial nets for convolutional face generation",
+   "authors": "J Gauthier",
+   "venue": "Class project for Stanford CS231N: convolutional neural networks for visual …",
+   "year": "2014"
+  },
+  {
+   "title": "A fast unified model for parsing and sentence understanding",
+   "authors": "SR Bowman, J Gauthier, A Rastogi, R Gupta, CD Manning, C Potts",
+   "venue": "ACL 2016",
+   "year": "2016"
+  },
+  {
+   "title": "A systematic assessment of syntactic generalization in neural language models",
+   "authors": "J Hu, J Gauthier, P Qian, E Wilcox, R Levy",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "On the Predictive Power of Neural Language Models for Human Real-Time Comprehension Behavior",
+   "authors": "E Gotlieb Wilcox, J Gauthier, J Hu, P Qian, R Levy",
+   "venue": "arXiv e-prints, arXiv: 2006.01912",
+   "year": "2020"
+  },
+  {
+   "title": "SyntaxGym: An online platform for targeted evaluation of language models",
+   "authors": "J Gauthier, J Hu, E Wilcox, P Qian, R Levy",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Linking artificial and human neural representations of language",
+   "authors": "J Gauthier, R Levy",
+   "venue": "Empirical Methods for Natural Language Processing",
+   "year": "2019"
+  },
+  {
+   "title": "Are distributional representations ready for the real world? Evaluating word vectors for grounded perceptual meaning",
+   "authors": "L Lucy, J Gauthier",
+   "venue": "ACL 2017 Workshop on Language Grounding for Robotics",
+   "year": "2017"
+  },
+  {
+   "title": "Probing self-supervised speech models for phonetic and phonemic information: a case study in aspiration",
+   "authors": "K Martin, J Gauthier, C Breiss, R Levy",
+   "venue": "Proceedings of INTERSPEECH 2023, 251-255",
+   "year": "2023"
+  },
+  {
+   "title": "Does the brain represent words? An evaluation of brain decoding studies of language understanding",
+   "authors": "J Gauthier, A Ivanova",
+   "venue": "arXiv preprint arXiv:1806.00591",
+   "year": "2018"
+  },
+  {
+   "title": "A paradigm for situated and goal-driven language learning",
+   "authors": "J Gauthier, I Mordatch",
+   "venue": "NIPS 2016 Machine Intelligence Workshop",
+   "year": "2016"
+  },
+  {
+   "title": "Language model acceptability judgements are not always robust to context",
+   "authors": "K Sinha, J Gauthier, A Mueller, K Misra, K Fuentes, R Levy, A Williams",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Word learning and the acquisition of syntactic--semantic overhypotheses",
+   "authors": "J Gauthier, R Levy, JB Tenenbaum",
+   "venue": "arXiv preprint arXiv:1805.04988",
+   "year": "2018"
+  },
+  {
+   "title": "Learning syntactic structures from string input",
+   "authors": "EG Wilcox, J Gauthier, J Hu, P Qian, R Levy",
+   "venue": "Algebraic Structures in Natural Language, 113-138",
+   "year": "2022"
+  },
+  {
+   "title": "Emergent morpho-phonological representations in self-supervised speech models",
+   "authors": "J Gauthier, C Breiss, MK Leonard, EF Chang",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Does the brain represent words?",
+   "authors": "J Gauthier, A Ivanova",
+   "venue": "An evaluation of brain decoding studies of language understanding",
+   "year": "2018"
+  },
+  {
+   "title": "The neural dynamics of auditory word recognition and integration",
+   "authors": "J Gauthier, R Levy",
+   "venue": "Conference on Cognitive Computational Neuroscience",
+   "year": "2023"
+  },
+  {
+   "title": "Query-guided visual search",
+   "authors": "J Chu, J Gauthier, R Levy, J Tenenbaum, L Schulz",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "From mental representations to neural codes: A multilevel approach",
+   "authors": "J Gauthier, J Loula, E Pollock, TB Wilson, C Wong",
+   "venue": "Behavioral and Brain Sciences 42",
+   "year": "2019"
+  },
+  {
+   "title": "A rational model of syntactic bootstrapping",
+   "authors": "J Gauthier, RP Levy, JB Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 41",
+   "year": "2019"
+  },
+  {
+   "title": "Word recognition selects for morphologically structured representations: The case of English-er",
+   "authors": "J Gauthier, C Breiss",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 48",
+   "year": "2026"
+  },
+  {
+   "title": "Do speech models use phonological features?",
+   "authors": "C Breiss, J Gauthier",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 47",
+   "year": "2025"
+  },
+  {
+   "title": "The pSTG is associated with prolonged language impairment following neurosurgical resection",
+   "authors": "C Wang, D Levy, J Andrews, J Gauthier, E Chang",
+   "venue": "Society for the Neurobiology of Language",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-level models of language comprehension in the mind and brain",
+   "authors": "J Gauthier",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2023"
+  },
+  {
+   "title": "Jointly learning motion verbs and frame semantics from natural language andgrounded scenes",
+   "authors": "J Gauthier, J Mao, T Shu, R Levy, J Tenenbaum",
+   "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 42",
+   "year": "2020"
+  },
+  {
+   "title": "Neural Footprints: Variance-Based Methods Systematically Miss High-Level Representations",
+   "authors": "J Gauthier, T Brooke-Wilson",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "EXPLOITING LONG-DISTANCE CONTEXT IN TRANSITION-BASED DEPENDENCY PARSING WITH RECURRENT NEURAL NETWORKS",
+   "authors": "J Gauthier, D Chen, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Language identification and accent variation detection in spoken language recordings",
+   "authors": "S Buch, J Gauthier, A Tsang",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

@@ -1,0 +1,635 @@
+{
+ "user": "rs1M7CAAAAAJ",
+ "pubs": [
+  {
+   "title": "A diversity-promoting objective function for neural conversation models",
+   "authors": "J Li, M Galley, C Brockett, J Gao, B Dolan",
+   "venue": "Proc. of NAACL-HLT",
+   "year": "2016"
+  },
+  {
+   "title": "MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts",
+   "authors": "P Lu, H Bansal, T Xia, J Liu, C Li, H Hajishirzi, H Cheng, KW Chang, ...",
+   "venue": "Proc. of ICLR",
+   "year": "2024"
+  },
+  {
+   "title": "DialoGPT: Large-scale generative pre-training for conversational response generation",
+   "authors": "Y Zhang, S Sun, M Galley, YC Chen, C Brockett, X Gao, J Gao, J Liu, ...",
+   "venue": "Proc. of ACL, Demonstration Session",
+   "year": "2019"
+  },
+  {
+   "title": "Deep reinforcement learning for dialogue generation",
+   "authors": "J Li, W Monroe, A Ritter, M Galley, J Gao, D Jurafsky",
+   "venue": "Proc. of EMNLP",
+   "year": "2016"
+  },
+  {
+   "title": "Instruction tuning with GPT-4",
+   "authors": "B Peng, C Li, P He, M Galley, J Gao",
+   "venue": "arXiv preprint arXiv:2304.03277",
+   "year": "2023"
+  },
+  {
+   "title": "A persona-based neural conversation model",
+   "authors": "J Li, M Galley, C Brockett, GP Spithourakis, J Gao, B Dolan",
+   "venue": "Proc. of ACL",
+   "year": "2016"
+  },
+  {
+   "title": "A neural network approach to context-sensitive generation of conversational responses",
+   "authors": "A Sordoni, M Galley, M Auli, C Brockett, Y Ji, M Mitchell, JY Nie, J Gao, ...",
+   "venue": "Proc. of NAACL-HLT",
+   "year": "2015"
+  },
+  {
+   "title": "Neural approaches to conversational AI",
+   "authors": "J Gao, M Galley, L Li",
+   "venue": "Foundations and Trends in Information Retrieval",
+   "year": "2019"
+  },
+  {
+   "title": "Chameleon: Plug-and-play compositional reasoning with large language models",
+   "authors": "P Lu, B Peng, H Cheng, M Galley, KW Chang, YN Wu, SC Zhu, J Gao",
+   "venue": "Proc. of NeurIPS",
+   "year": "2023"
+  },
+  {
+   "title": "A knowledge-grounded neural conversation model",
+   "authors": "M Ghazvininejad, C Brockett, MW Chang, B Dolan, J Gao, W Yih, ...",
+   "venue": "Proc. of AAAI",
+   "year": "2018"
+  },
+  {
+   "title": "Check your facts and try again: Improving large language models with external knowledge and automated feedback",
+   "authors": "B Peng, M Galley, P He, H Cheng, Y Xie, Y Hu, Q Huang, L Liden, Z Yu, ...",
+   "venue": "arXiv preprint arXiv:2302.12813",
+   "year": "2023"
+  },
+  {
+   "title": "What's in a translation rule?",
+   "authors": "M Galley, M Hopkins, K Knight, D Marcu",
+   "venue": "Proc. of HLT-NAACL",
+   "year": "2004"
+  },
+  {
+   "title": "Visual storytelling",
+   "authors": "THK Huang, F Ferraro, N Mostafazadeh, I Misra, A Agrawal, J Devlin, ...",
+   "venue": "Proc. of NAACL-HLT, 1233-1239",
+   "year": "2016"
+  },
+  {
+   "title": "Scalable inference and training of context-rich syntactic translation models",
+   "authors": "M Galley, J Graehl, K Knight, D Marcu, S DeNeefe, W Wang, I Thayer",
+   "venue": "Proc. of ACL-COLING, 961-968",
+   "year": "2006"
+  },
+  {
+   "title": "Discourse segmentation of multi-party conversation",
+   "authors": "M Galley, K McKeown, E Fosler-Lussier, H Jing",
+   "venue": "Proc. of ACL, 562-569",
+   "year": "2003"
+  },
+  {
+   "title": "Understanding emotions in text using deep learning and big data",
+   "authors": "A Chatterjee, U Gupta, MK Chinnakotla, R Srikanth, M Galley, P Agrawal",
+   "venue": "Computers in Human Behavior 93, 309-317",
+   "year": "2019"
+  },
+  {
+   "title": "Optimizing Chinese word segmentation for machine translation performance",
+   "authors": "PC Chang, M Galley, CD Manning",
+   "venue": "Proc. of the workshop on statistical machine translation (WMT), 224-232",
+   "year": "2008"
+  },
+  {
+   "title": "A simple and effective hierarchical phrase reordering model",
+   "authors": "M Galley, CD Manning",
+   "venue": "Proc. of EMNLP",
+   "year": "2008"
+  },
+  {
+   "title": "Joint Language and Translation Modeling with Recurrent Neural Networks.",
+   "authors": "M Auli, M Galley, C Quirk, G Zweig",
+   "venue": "Proc. of EMNLP",
+   "year": "2013"
+  },
+  {
+   "title": "Rethinking interpretability in the era of large language models",
+   "authors": "C Singh, JP Inala, M Galley, R Caruana, J Gao",
+   "venue": "arXiv preprint arXiv:2402.01761",
+   "year": "2024"
+  },
+  {
+   "title": "Generating informative and diverse conversational responses via adversarial information maximization",
+   "authors": "Y Zhang, M Galley, J Gao, Z Gan, X Li, C Brockett, B Dolan",
+   "venue": "Proc. of NeurIPS, 1815-1825",
+   "year": "2018"
+  },
+  {
+   "title": "Improving word sense disambiguation in lexical chaining",
+   "authors": "M Galley, K McKeown",
+   "venue": "Proc. of IJCAI",
+   "year": "2003"
+  },
+  {
+   "title": "Identifying agreement and disagreement in conversational speech: Use of bayesian networks to model pragmatic dependencies",
+   "authors": "M Galley, K McKeown, J Hirschberg, E Shriberg",
+   "venue": "Proc. of ACL, 669",
+   "year": "2004"
+  },
+  {
+   "title": "Language to code: Learning semantic parsers for if-this-then-that recipes",
+   "authors": "C Quirk, R Mooney, M Galley",
+   "venue": "Proc. of ACL-IJCNLP",
+   "year": "2015"
+  },
+  {
+   "title": "Image-grounded conversations: Multimodal context for natural question and response generation",
+   "authors": "N Mostafazadeh, C Brockett, B Dolan, M Galley, J Gao, GP Spithourakis, ...",
+   "venue": "Proc. of IJCNLP",
+   "year": "2017"
+  },
+  {
+   "title": "A skip-chain conditional random field for ranking meeting utterances by importance",
+   "authors": "M Galley",
+   "venue": "Proc. of EMNLP, 364-372",
+   "year": "2006"
+  },
+  {
+   "title": "deltaBLEU: A discriminative metric for generation tasks with intrinsically diverse targets",
+   "authors": "M Galley, C Brockett, A Sordoni, Y Ji, M Auli, C Quirk, M Mitchell, J Gao, ...",
+   "venue": "Proc. of ACL-IJCNLP",
+   "year": "2015"
+  },
+  {
+   "title": "Guiding Large Language Models via Directional Stimulus Prompting",
+   "authors": "Z Li, B Peng, P He, M Galley, J Gao, X Yan",
+   "venue": "Proc. of NeurIPS",
+   "year": "2023"
+  },
+  {
+   "title": "A phrase-based alignment model for natural language inference",
+   "authors": "B MacCartney, M Galley, CD Manning",
+   "venue": "Proc. of EMNLP, 802-811",
+   "year": "2008"
+  },
+  {
+   "title": "Dialogue response ranking training with large-scale human feedback data",
+   "authors": "X Gao, Y Zhang, M Galley, C Brockett, B Dolan",
+   "venue": "Proc. of EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Lexicalized Markov grammars for sentence compression",
+   "authors": "M Galley, K McKeown",
+   "venue": "Proc. of NAACL-HLT, 180-187",
+   "year": "2007"
+  },
+  {
+   "title": "CollabLLM: From Passive Responders to Active Collaborators",
+   "authors": "S Wu, M Galley, B Peng, H Cheng, G Li, Y Dou, W Cai, J Zou, J Leskovec, ...",
+   "venue": "Proc. of ICML",
+   "year": "2025"
+  },
+  {
+   "title": "Self-checker: Plug-and-play modules for fact-checking with large language models",
+   "authors": "M Li, B Peng, M Galley, J Gao, Z Zhang",
+   "venue": "Findings of NAACL",
+   "year": "2024"
+  },
+  {
+   "title": "Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading",
+   "authors": "L Qin, M Galley, C Brockett, X Liu, X Gao, B Dolan, Y Choi, J Gao",
+   "venue": "Proc. of ACL",
+   "year": "2019"
+  },
+  {
+   "title": "Robust machine translation evaluation with entailment features",
+   "authors": "S Padó, M Galley, D Jurafsky, C Manning",
+   "venue": "Proc. of ACL-IJCNLP, 297-305",
+   "year": "2009"
+  },
+  {
+   "title": "Self-Verification Improves Few-Shot Clinical Information Extraction",
+   "authors": "Z Gero, C Singh, H Cheng, T Naumann, M Galley, J Gao, H Poon",
+   "venue": "Proc. of Interpretable Machine Learning in Healthcare workshop (ICML-23)",
+   "year": "2023"
+  },
+  {
+   "title": "Jointly Optimizing Diversity and Relevance in Neural Response Generation",
+   "authors": "X Gao, S Lee, Y Zhang, C Brockett, M Galley, J Gao, B Dolan",
+   "venue": "Proc. of NAACL",
+   "year": "2019"
+  },
+  {
+   "title": "Multi-task learning for speaker-role adaptation in neural conversation models",
+   "authors": "Y Luan, C Brockett, B Dolan, J Gao, M Galley",
+   "venue": "Proc. of IJCNLP",
+   "year": "2017"
+  },
+  {
+   "title": "A controllable model of grounded response generation",
+   "authors": "Z Wu, M Galley, C Brockett, Y Zhang, X Gao, C Quirk, R Koncel-Kedziorski, ...",
+   "venue": "Proc. of AAAI",
+   "year": "2021"
+  },
+  {
+   "title": "Emotional dialogue generation using image-grounded language models",
+   "authors": "B Huber, D McDuff, C Brockett, M Galley, B Dolan",
+   "venue": "Proc. of CHI, 277",
+   "year": "2018"
+  },
+  {
+   "title": "From text to speech summarization",
+   "authors": "K McKeown, J Hirschberg, M Galley, S Maskey",
+   "venue": "Proc. of ICASSP 5, v/997-v1000 Vol. 5",
+   "year": "2005"
+  },
+  {
+   "title": "A survey of current datasets for vision and language research",
+   "authors": "F Ferraro, N Mostafazadeh, L Vanderwende, J Devlin, M Galley, ...",
+   "venue": "Proc. of EMNLP",
+   "year": "2015"
+  },
+  {
+   "title": "GODEL: Large-scale pre-training for goal-directed dialog",
+   "authors": "B Peng, M Galley, P He, C Brockett, L Liden, E Nouri, Z Yu, B Dolan, ...",
+   "venue": "arXiv preprint arXiv:2206.11309",
+   "year": "2022"
+  },
+  {
+   "title": "Training for a text-to-text application which uses string to tree conversion for training and decoding",
+   "authors": "K Knight, M Galley, M Hopkins, D Marcu, I Thayer",
+   "venue": "US Patent 8,600,728",
+   "year": "2013"
+  },
+  {
+   "title": "Context-sensitive generation of conversational responses",
+   "authors": "M Galley, A SORDONI, CJ Brockett, J Gao, WB Dolan, Y Ji, M AULI, ...",
+   "venue": "US Patent 10,091,140",
+   "year": "2018"
+  },
+  {
+   "title": "The Eighth Dialog System Technology Challenge",
+   "authors": "S Kim, M Galley, C Gunasekara, S Lee, A Atkinson, B Peng, H Schulz, ...",
+   "venue": "NeurIPS 2019 3rd Conversational AI Workshop",
+   "year": "2019"
+  },
+  {
+   "title": "Grounded Response Generation Task at DSTC7",
+   "authors": "M Galley, C Brockett, X Gao, J Gao, B Dolan",
+   "venue": "AAAI Dialog System Technology Challenges (DSTC7) Workshop",
+   "year": "2019"
+  },
+  {
+   "title": "RetGen: A Joint framework for Retrieval and Grounded Text Generation Modeling",
+   "authors": "Y Zhang, S Sun, X Gao, Y Fang, C Brockett, M Galley, J Gao, B Dolan",
+   "venue": "Proc. of AAAI",
+   "year": "2022"
+  },
+  {
+   "title": "Phrasal: a toolkit for statistical machine translation with facilities for extraction and incorporation of arbitrary model features",
+   "authors": "D Cer, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proc. of NAACL-HLT, Demonstration Session, 9-12",
+   "year": "2010"
+  },
+  {
+   "title": "Accurate non-hierarchical phrase-based translation",
+   "authors": "M Galley, CD Manning",
+   "venue": "Proc. of NAACL-HLT, 966-974",
+   "year": "2010"
+  },
+  {
+   "title": "Measuring machine translation quality as semantic equivalence: A metric based on entailment features",
+   "authors": "S Padó, D Cer, M Galley, D Jurafsky, CD Manning",
+   "venue": "Machine Translation 23 (2), 181-193",
+   "year": "2009"
+  },
+  {
+   "title": "Ask what's missing and what's useful: Improving Clarification Question Generation using Global Knowledge",
+   "authors": "B Prasad Majumder, S Rao, M Galley, J McAuley",
+   "venue": "Proc. of NAACL",
+   "year": "2021"
+  },
+  {
+   "title": "Data Augmentation for Abstractive Query-Focused Multi-Document Summarization",
+   "authors": "R Pasunuru, A Celikyilmaz, M Galley, C Xiong, Y Zhang, M Bansal, J Gao",
+   "venue": "Proc. of AAAI",
+   "year": "2021"
+  },
+  {
+   "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+   "authors": "X Yu, B Peng, V Vajipey, H Cheng, M Galley, J Gao, Z Yu",
+   "venue": "Proc. of ICLR",
+   "year": "2025"
+  },
+  {
+   "title": "Structuring Latent Spaces for Stylized Response Generation",
+   "authors": "X Gao, Y Zhang, S Lee, M Galley, C Brockett, J Gao, B Dolan",
+   "venue": "Proc. of EMNLP",
+   "year": "2019"
+  },
+  {
+   "title": "See no evil, say no evil: Description generation from densely labeled images",
+   "authors": "M Yatskar, M Galley, L Vanderwende, L Zettlemoyer",
+   "venue": "Proc. of Conference on Lexical and Computational Semantics (*SEM)",
+   "year": "2014"
+  },
+  {
+   "title": "Quadratic-time dependency parsing for machine translation",
+   "authors": "M Galley, CD Manning",
+   "venue": "Proc. of ACL-IJCNLP, 773-781",
+   "year": "2009"
+  },
+  {
+   "title": "Towards Coherent and Cohesive Long-Form Text Generation",
+   "authors": "WS Cho, P Zhang, Y Zhang, X Li, M Galley, C Brockett, M Wang, J Gao",
+   "venue": "Proc. of NAACL Workshop on Narrative Understanding",
+   "year": "2019"
+  },
+  {
+   "title": "Dialog System Technology Challenge 7",
+   "authors": "K Yoshino, C Hori, J Perez, LF D'Haro, L Polymenakos, C Gunasekara, ...",
+   "venue": "Proc. of Conversational AI workshop (NeurIPS)",
+   "year": "2018"
+  },
+  {
+   "title": "Text editing by command",
+   "authors": "F Faltings, M Galley, G Hintz, C Brockett, C Quirk, J Gao, B Dolan",
+   "venue": "Proc. of NAACL",
+   "year": "2020"
+  },
+  {
+   "title": "Machine translation evaluation and optimization",
+   "authors": "B Dorr, J Olive, J McCary, C Christianson, B Dorr, M Snover, N Madnani, ...",
+   "venue": "Handbook of natural language processing and machine translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "Textual entailment features for machine translation evaluation",
+   "authors": "S Padó, M Galley, D Jurafsky, CD Manning",
+   "venue": "Proc. of the workshop on statistical machine translation (WMT), 37-41",
+   "year": "2009"
+  },
+  {
+   "title": "SimulatorArena: Are User Simulators Reliable Proxies for Multi-Turn Evaluation of AI Assistants?",
+   "authors": "Y Dou, M Galley, B Peng, C Kedzie, W Cai, A Ritter, C Quirk, W Xu, J Gao",
+   "venue": "Proc. of EMNLP",
+   "year": "2025"
+  },
+  {
+   "title": "Language capability assessment and training apparatus and techniques",
+   "authors": "M Galley, K Knight, D Marcu",
+   "venue": "US Patent 10,319,252",
+   "year": "2019"
+  },
+  {
+   "title": "Improved models of distortion cost for statistical machine translation",
+   "authors": "S Green, M Galley, CD Manning",
+   "venue": "Proc. of NAACL-HLT, 867-875",
+   "year": "2010"
+  },
+  {
+   "title": "Hybrid natural language generation for spoken dialogue systems",
+   "authors": "M Galley, E Fosler-Lussier, A Potamianos",
+   "venue": "Proc. of EUROSPEECH",
+   "year": "2001"
+  },
+  {
+   "title": "Consistent dialogue generation with self-supervised feature learning",
+   "authors": "Y Zhang, X Gao, S Lee, C Brockett, M Galley, J Gao, B Dolan",
+   "venue": "arXiv preprint arXiv:1903.05759",
+   "year": "2019"
+  },
+  {
+   "title": "Towards Content Transfer through Grounded Text Generation",
+   "authors": "S Prabhumoye, C Quirk, M Galley",
+   "venue": "Proc. of NAACL",
+   "year": "2019"
+  },
+  {
+   "title": "Overview of the seventh dialog system technology challenge: DSTC7",
+   "authors": "LF D’Haro, K Yoshino, C Hori, TK Marks, L Polymenakos, JK Kummerfeld, ...",
+   "venue": "Computer Speech & Language 62, 101068",
+   "year": "2020"
+  },
+  {
+   "title": "Teaching Language Models to Self-Improve through Interactive Demonstrations",
+   "authors": "X Yu, B Peng, M Galley, J Gao, Z Yu",
+   "venue": "Proc. of NAACL",
+   "year": "2024"
+  },
+  {
+   "title": "SkillGen: Verified inference-time agent skill synthesis",
+   "authors": "Y Ma, Y Huang, H Bao, H Zhuang, S Shukla, M Galley, X Zhang, ...",
+   "venue": "NeurIPS",
+   "year": "2026"
+  },
+  {
+   "title": "Autocaption: Automatic caption generation for personal photos",
+   "authors": "K Ramnath, S Baker, L Vanderwende, M El-Saban, SN Sinha, A Kannan, ...",
+   "venue": "Proc. of IEEE Winter Conference on Applications of Computer Vision (WACV …",
+   "year": "2014"
+  },
+  {
+   "title": "PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents",
+   "authors": "K Yang, Z Chen, X He, J Jiang, M Galley, C Wang, J Gao, J Han, CX Zhai",
+   "venue": "Proc. of ICML",
+   "year": "2026"
+  },
+  {
+   "title": "Optimal search for minimum error rate training",
+   "authors": "M Galley, C Quirk",
+   "venue": "Proc. of EMNLP, 38-49",
+   "year": "2011"
+  },
+  {
+   "title": "Overview of the eighth dialog system technology challenge: DSTC8",
+   "authors": "S Kim, M Galley, C Gunasekara, S Lee, A Atkinson, B Peng, H Schulz, ...",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 29, 2529-2540",
+   "year": "2021"
+  },
+  {
+   "title": "Large-scale expected BLEU training of phrase-based reordering models",
+   "authors": "M Auli, M Galley, J Gao",
+   "venue": "Proc. of EMNLP, 1250-1260",
+   "year": "2014"
+  },
+  {
+   "title": "Interactive text generation",
+   "authors": "F Faltings, M Galley, B Peng, K Brantley, W Cai, Y Zhang, J Gao, B Dolan",
+   "venue": "Proc. of EMNLP",
+   "year": "2023"
+  },
+  {
+   "title": "Why initialization matters for IBM model 1: multiple optima and non-strict convexity",
+   "authors": "K Toutanova, M Galley",
+   "venue": "Proc. of ACL, 461-466",
+   "year": "2011"
+  },
+  {
+   "title": "NeurIPS 2021 Competition IGLU: Interactive grounded language understanding in a collaborative environment",
+   "authors": "J Kiseleva, Z Li, M Aliannejadi, S Mohanty, M ter Hoeve, M Burtsev, ...",
+   "venue": "NeurIPS Competition Track",
+   "year": "2021"
+  },
+  {
+   "title": "Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities",
+   "authors": "CE Sun, X Liu, W Yang, TW Weng, H Cheng, A San, M Galley, J Gao",
+   "venue": "Proc. of NAACL",
+   "year": "2025"
+  },
+  {
+   "title": "Regularized minimum error rate training",
+   "authors": "M Galley, C Quirk, C Cherry, K Toutanova",
+   "venue": "Proc. of EMNLP",
+   "year": "2013"
+  },
+  {
+   "title": "DIONYSUS: A Pre-trained Model for Low-Resource Dialogue Summarization",
+   "authors": "Y Li, B Peng, P He, M Galley, Z Yu, J Gao",
+   "venue": "Proc. of ACL",
+   "year": "2023"
+  },
+  {
+   "title": "A discriminative model for semantics-to-string translation",
+   "authors": "A Tamchyna, C Quirk, M Galley",
+   "venue": "Proc. of Workshop on Semantics-Driven Statistical Machine Translation (S2MT …",
+   "year": "2015"
+  },
+  {
+   "title": "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents",
+   "authors": "X Yu, B Peng, R Xu, M Galley, H Cheng, S Nath, J Gao, Z Yu",
+   "venue": "Workshop on World Models at ICLR",
+   "year": "2026"
+  },
+  {
+   "title": "Probing Factually Grounded Content Transfer with Factual Ablation",
+   "authors": "P West, C Quirk, M Galley, Y Choi",
+   "venue": "Findings of ACL",
+   "year": "2022"
+  },
+  {
+   "title": "Automatic Document Sketching: Generating Drafts from Analogous Texts",
+   "authors": "Z Wu, M Galley, C Brockett, Y Zhang, B Dolan",
+   "venue": "Findings of ACL",
+   "year": "2021"
+  },
+  {
+   "title": "Stanford University's Arabic-to-English statistical machine translation system for the 2009 NIST evaluation",
+   "authors": "M Galley, S Green, D Cer, PC Chang, CD Manning",
+   "venue": "Proc. of the NIST Open Machine Translation Evaluation Workshop",
+   "year": "2009"
+  },
+  {
+   "title": "The MSR-NLP system at dialog system technology challenges 6",
+   "authors": "M Galley, C Brockett, B Dolan, J Gao",
+   "venue": "Dialog System Technology Challenges (DSTC6) Workshop",
+   "year": "2017"
+  },
+  {
+   "title": "Automatic summarization of conversational multi-party speech",
+   "authors": "M Galley",
+   "venue": "Proc. of AAAI-SIGART Doctoral Consortium",
+   "year": "2006"
+  },
+  {
+   "title": "Microsoft Icecaps: An Open-Source Toolkit for Conversation Modeling",
+   "authors": "VL Shiv, C Quirk, A Suri, X Gao, K Shahid, N Govindarajan, Y Zhang, ...",
+   "venue": "Proc. of ACL, Demonstration Session",
+   "year": "2019"
+  },
+  {
+   "title": "Direct error rate minimization for statistical machine translation",
+   "authors": "T Chung, M Galley",
+   "venue": "Proc. of the workshop on statistical machine translation (WMT), 468-479",
+   "year": "2012"
+  },
+  {
+   "title": "Grounded Keys-to-Text Generation: Towards Factual Open-Ended Generation",
+   "authors": "F Brahman, B Peng, M Galley, S Rao, B Dolan, S Chaturvedi, J Gao",
+   "venue": "Findings of EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "MixingBoard: a knowledgeable stylized integrated text generation platform",
+   "authors": "X Gao, M Galley, B Dolan",
+   "venue": "Proc. of ACL, Demonstration Session",
+   "year": "2020"
+  },
+  {
+   "title": "Dyna-Mind: Learning to Simulate from Experience for Better AI Agents",
+   "authors": "X Yu, B Peng, M Galley, H Cheng, Q Wu, J Kulkarni, S Nath, Z Yu, J Gao",
+   "venue": "Proc. of ICLR",
+   "year": "2026"
+  },
+  {
+   "title": "Machine translation from text",
+   "authors": "N Habash, J Olive, C Christianson, J McCary, N Habash, A de Gispert, ...",
+   "venue": "Handbook of Natural Language Processing and Machine Translation: DARPA …",
+   "year": "2011"
+  },
+  {
+   "title": "NIST open machine translation 2008 evaluation: Stanford university's system description",
+   "authors": "M Galley, P Chang, D Cer, JR Finkel, CD Manning",
+   "venue": "Proc. of the NIST Open Machine Translation Evaluation Workshop",
+   "year": "2008"
+  },
+  {
+   "title": "Enhancing task bot engagement with synthesized open-domain dialog",
+   "authors": "M Li, B Peng, M Galley, J Gao, Z Zhang",
+   "venue": "Proc. of SIGdial-INLG",
+   "year": "2023"
+  },
+  {
+   "title": "An adversarially-learned turing test for dialog generation models",
+   "authors": "X Gao, Y Zhang, M Galley, B Dolan",
+   "venue": "arXiv preprint arXiv:2104.08231",
+   "year": "2021"
+  },
+  {
+   "title": "Measuring and mitigating the distributional gap between real and simulated user behaviors",
+   "authors": "S Mehri, P Laban, S Shashidhar, M Abdulhai, S Levine, M Galley, ...",
+   "venue": "NeurIPS",
+   "year": "2026"
+  },
+  {
+   "title": "Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?",
+   "authors": "X Liu, R Zhang, AH Abdi, M Galley, Z Chen, S Xiong, X Wang, J Gao",
+   "venue": "arXiv preprint arXiv:2605.30152",
+   "year": "2026"
+  },
+  {
+   "title": "Test-Time Learning with an Evolving Library",
+   "authors": "W Xu, A Sordoni, C Singh, Z Gero, M Galley, X Yuan, J Gao",
+   "venue": "NeurIPS",
+   "year": "2026"
+  },
+  {
+   "title": "Agentic-imodels: Evolving agentic interpretability tools via autoresearch",
+   "authors": "C Singh, YS Tan, W Xu, Z Gero, W Yang, M Galley, J Gao",
+   "venue": "NeurIPS",
+   "year": "2026"
+  },
+  {
+   "title": "VGI-Bench: Probing Visual Intelligence in Video Generation Models",
+   "authors": "X He, C Wei, Y Cheng, L Ma, Y Zhang, Z Li, Y Wen, Z Liu, Y Hao, S Cai, ...",
+   "venue": "Proc. of EMNLP",
+   "year": "2026"
+  },
+  {
+   "title": "Reward Hacking Challenges Oversight of Autonomous Research Agents",
+   "authors": "Y Huang, Z Xu, Y Ma, W Wang, Z Liu, Z Xu, PY Chen, M Galley, Z Lin, ...",
+   "venue": "arXiv preprint arXiv:2609.28614",
+   "year": "2026"
+  },
+  {
+   "title": "StudentSim: Training LLM-based Student Simulators",
+   "authors": "K Yang, C Wang, M Galley, C Singh, JP Inala, CX Zhai, J Gao",
+   "venue": "arXiv preprint arXiv:2609.01591",
+   "year": "2026"
+  }
+ ]
+}

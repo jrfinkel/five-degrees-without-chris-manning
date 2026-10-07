@@ -1,0 +1,143 @@
+{
+ "user": "eA8GuO4AAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Quality at a glance: An audit of web-crawled multilingual datasets",
+   "authors": "J Kreutzer, I Caswell, L Wang, A Wahab, D Van Esch, N Ulzii-Orshikh, ...",
+   "venue": "Transactions of the Association for Computational Linguistics 10, 50-72",
+   "year": "2022"
+  },
+  {
+   "title": "Mission: Impossible language models",
+   "authors": "J Kallini, I Papadimitriou, R Futrell, K Mahowald, C Potts",
+   "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational …",
+   "year": "2024"
+  },
+  {
+   "title": "Learning music helps you read: Using transfer to study linguistic structure in language models",
+   "authors": "I Papadimitriou, D Jurafsky",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Archetypal sae: Adaptive and stable dictionary learning for concept extraction in large vision models",
+   "authors": "T Fel, ES Lubana, JS Prince, M Kowal, V Boutin, I Papadimitriou, B Wang, ...",
+   "venue": "arXiv preprint arXiv:2502.12892",
+   "year": "2025"
+  },
+  {
+   "title": "Deep subjecthood: Higher-order grammatical features in multilingual BERT",
+   "authors": "I Papadimitriou, EA Chi, R Futrell, K Mahowald",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "When classifying grammatical role, BERT doesn’t care about word order... except when it matters",
+   "authors": "I Papadimitriou, R Futrell, K Mahowald",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Injecting structural hints: Using language models to study inductive biases in language learning",
+   "authors": "I Papadimitriou, D Jurafsky",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 8402-8413",
+   "year": "2023"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Multilingual BERT has an accent: Evaluating English influences on fluency in multilingual models",
+   "authors": "I Papadimitriou, K Lopez, D Jurafsky",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2023, 1194-1200",
+   "year": "2023"
+  },
+  {
+   "title": "Interpreting the linear structure of vision-language model embedding spaces",
+   "authors": "I Papadimitriou, H Su, T Fel, S Kakade, S Gil",
+   "venue": "arXiv preprint arXiv:2504.11695",
+   "year": "2025"
+  },
+  {
+   "title": "Oolong: Investigating what makes transfer learning hard with controlled studies",
+   "authors": "Z Wu, A Tamkin, I Papadimitriou",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Investigating the interaction of linguistic and mathematical reasoning in language models using multilingual number puzzles",
+   "authors": "AR Bhattacharya, I Papadimitriou, K Davidson, D Alvarez-Melis",
+   "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language …",
+   "year": "2025"
+  },
+  {
+   "title": "Multilingual BERT, ergativity, and grammatical subjecthood",
+   "authors": "I Papadimitriou, EA Chi, R Futrell, K Mahowald",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2021, 425-426",
+   "year": "2021"
+  },
+  {
+   "title": "Structure Before Collapse: Transient semantic geometry in next-token prediction",
+   "authors": "Y Zhao, I Papadimitriou, C Thrampoulidis",
+   "venue": "arXiv preprint arXiv:2606.26749",
+   "year": "2026"
+  },
+  {
+   "title": "Separating the Wheat from the Chaff with BREAD: An open-source benchmark and metrics to detect redundancy in text",
+   "authors": "I Caswell, L Wang, I Papadimitriou",
+   "venue": "Proceedings of the Third Workshop on Natural Language Generation, Evaluation …",
+   "year": "2023"
+  },
+  {
+   "title": "Vocabulary embeddings organize linguistic structure early in language model training",
+   "authors": "I Papadimitriou, J Prince",
+   "venue": "arXiv preprint arXiv:2510.07613",
+   "year": "2025"
+  },
+  {
+   "title": "Using Shapley interactions to understand how models use structure",
+   "authors": "D Singhvi, D Misra, A Erkelens, R Jain, I Papadimitriou, N Saphra",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Accessibility-based constraints on morphosyntax in corpora of 54 languages",
+   "authors": "K Mahowald, I Papadimitriou, D Jurafsky, R Futrell",
+   "venue": "CUNY Sentence Processing Conference",
+   "year": "2021"
+  },
+  {
+   "title": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop)",
+   "authors": "YT Cao, I Papadimitriou, A Ovalle, M Zampieri, F Ferraro, S Swayamdipta",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Jointly Studying Linguistic Structure and Language Models: Methods for a Bilateral Science",
+   "authors": "IV Papadimitriou",
+   "venue": "Stanford University",
+   "year": "2024"
+  },
+  {
+   "title": "Beyond Co-occurence: A Study of Early-stage Semantic Geometry in Next-Token Prediction",
+   "authors": "Y Zhao, I Papadimitriou, C Thrampoulidis",
+   "venue": "ICLR 2026 Workshop on Geometry-grounded Representation Learning and …",
+   "year": null
+  },
+  {
+   "title": "Do large language models use grammar to solve natural language tasks?",
+   "authors": "I Shah, I Papadimitriou, R Futrell, K Mahowald",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

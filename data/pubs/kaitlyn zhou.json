@@ -1,0 +1,155 @@
+{
+ "user": "SQAK2mwAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models",
+   "authors": "K Zhou, D Jurafsky, T Hashimoto",
+   "venue": "Empirical Methods in Natural Language Processing (EMNLP) 2023",
+   "year": "2023"
+  },
+  {
+   "title": "The disagreement deconvolution: Bringing machine learning performance metrics in line with reality",
+   "authors": "ML Gordon, K Zhou, K Patel, T Hashimoto, MS Bernstein",
+   "venue": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2021"
+  },
+  {
+   "title": "Relying on the Unreliable: The Impact of Language Models' Reluctance to Express Uncertainty",
+   "authors": "K Zhou, JD Hwang, X Ren, M Sap",
+   "venue": "Association for Computational Linguistics - 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Problems with Cosine as a Measure of Embedding Similarity for High Frequency Words",
+   "authors": "K Zhou, K Ethayarajh, D Card, D Jurafsky",
+   "venue": "Association for Computational Linguistics - 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Could this be true? I think so! Expressed uncertainty in online rumoring",
+   "authors": "K Starbird, E Spiro, I Edwards, K Zhou, J Maddock, S Narasimhan",
+   "venue": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2016"
+  },
+  {
+   "title": "Assembling strategic narratives: Information operations as collaborative work within an online community",
+   "authors": "T Wilson, K Zhou, K Starbird",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 2 (CSCW), 1-26",
+   "year": "2018"
+  },
+  {
+   "title": "Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications",
+   "authors": "K Zhou, SL Blodgett, A Trischler, H Daumé III, K Suleman, A Olteanu",
+   "venue": "North American Chapter of the Association for Computational Linguistics 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Rel-AI: An Interaction-Centered Approach To Measuring Human-LM Reliance",
+   "authors": "K Zhou, JD Hwang, X Ren, N Dziri, D Jurafsky, M Sap",
+   "venue": "North American Chapter of the Association for Computational Linguistics 2025 …",
+   "year": "2024"
+  },
+  {
+   "title": "Centralized, parallel, and distributed information processing during collective sensemaking",
+   "authors": "P Krafft, K Zhou, I Edwards, K Starbird, ES Spiro",
+   "venue": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2017"
+  },
+  {
+   "title": "Frequency-based Distortions in Contextualized Word Embeddings",
+   "authors": "K Zhou, K Ethayarajh, D Jurafsky",
+   "venue": "Association for Computational Linguistics 2022",
+   "year": "2021"
+  },
+  {
+   "title": "Richer Countries and Richer Representations",
+   "authors": "K Zhou, K Ethayarajh, D Jurafsky",
+   "venue": "Association for Computational Linguistics 2022 - Findings",
+   "year": "2022"
+  },
+  {
+   "title": "Humans overrely on overconfident language models, across languages",
+   "authors": "N Rathi, D Jurafsky, K Zhou",
+   "venue": "COLM 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs",
+   "authors": "J Basoah, D Chechelnitsky, T Long, K Reinecke, C Zerva, K Zhou, M Díaz, ...",
+   "venue": "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and …",
+   "year": "2025"
+  },
+  {
+   "title": "Spotlight Tweets: A Lens for Exploring Attention Dynamics within Online Sensemaking During Crisis Events",
+   "authors": "K Zhou, T Wilson, K Starbird, ES Spiro",
+   "venue": "ACM Transactions on Social Computing 6 (1-2), 1-33",
+   "year": "2023"
+  },
+  {
+   "title": "ReasonIF: Large Reasoning Models Fail to Follow Instructions During Reasoning",
+   "authors": "Y Kwon, S Zhu, F Bianchi, K Zhou, J Zou",
+   "venue": "ACL Findings 2026",
+   "year": "2025"
+  },
+  {
+   "title": "ELI-Why: Evaluating the Pedagogical Utility of Language Model Explanations",
+   "authors": "B Joshi, K He, S Ramnath, S Sabouri, K Zhou, S Chattopadhyay, ...",
+   "venue": "Association for Computational Linguistics 2025 - Findings",
+   "year": "2025"
+  },
+  {
+   "title": "Rethinking Word Similarity: Semantic Similarity through Classification Confusion",
+   "authors": "K Zhou, H Gao, S Chen, D Edelstein, D Jurafsky, C Shani",
+   "venue": "North American Chapter of the Association for Computational Linguistics 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Attention to Non-Adopters",
+   "authors": "K Zhou, K Gligorić, M Cheng, MS Lam, V Raman, B Aminu, C Woo, ...",
+   "venue": "ACL 2026 Findings",
+   "year": "2025"
+  },
+  {
+   "title": "Greater accessibility can amplify discrimination in generative AI",
+   "authors": "C Holtermann, MD Bui, K Zhou, V Hofmann, K von der Wense, ...",
+   "venue": "arXiv preprint arXiv:2603.22260",
+   "year": "2026"
+  },
+  {
+   "title": "Voice ''Cloning'' is Style Transfer",
+   "authors": "K Zhou, F Bianchi, M Bartelds, A Pot, Y Kwon, J Zou",
+   "venue": "arXiv preprint arXiv:2605.16578",
+   "year": "2026"
+  },
+  {
+   "title": "\"Sorry, I Didn't Catch That\": How Speech Models Miss What Matters Most",
+   "authors": "K Zhou, M Bartelds, F Bianchi, J Zou",
+   "venue": "arXiv preprint arXiv:2602.12249",
+   "year": "2026"
+  },
+  {
+   "title": "Broadening AI Access Through Human-Centered Natural Language Interfaces",
+   "authors": "K Zhou",
+   "venue": "Stanford University",
+   "year": "2025"
+  },
+  {
+   "title": "Social Computing",
+   "authors": "A De Santo, A Moro, B Kocher, A Holzer, K Zhou, T Wilson, K Starbird, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "ELI-WHY: Evaluating the Pedagogical Utility of LLM Explanations",
+   "authors": "B Joshi, K He, S Ramnath, S Sabouri, K Zhou, S Chattopadhyay, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

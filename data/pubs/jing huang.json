@@ -1,0 +1,1451 @@
+{
+ "user": "ocPXoIkAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Image indexing using color correlograms",
+   "authors": "J Huang, SR Kumar, M Mitra, WJ Zhu, R Zabih",
+   "venue": "Proceedings of IEEE computer society conference on Computer Vision and …",
+   "year": "1997"
+  },
+  {
+   "title": "End-to-end structure-aware convolutional networks for knowledge base completion",
+   "authors": "C Shang, Y Tang, J Huang, J Bi, X He, B Zhou",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 33 (01), 3060-3067",
+   "year": "2019"
+  },
+  {
+   "title": "Interpretable convolutional neural networks with dual local and global attention for review rating prediction",
+   "authors": "S Seo, J Huang, H Yang, Y Liu",
+   "venue": "Proceedings of the eleventh ACM conference on recommender systems, 297-305",
+   "year": "2017"
+  },
+  {
+   "title": "Spatial color indexing and applications",
+   "authors": "J Huang, SR Kumar, M Mitra, WJ Zhu, R Zabih",
+   "venue": "International Journal of Computer Vision 35 (3), 245-268",
+   "year": "1999"
+  },
+  {
+   "title": "Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling",
+   "authors": "W Zhou, K Huang, T Ma, J Huang",
+   "venue": "AAAI 2021",
+   "year": "2020"
+  },
+  {
+   "title": "Multi-hop Attention Graph Neural Network",
+   "authors": "G Wang, R Ying, J Huang, J Leskovec",
+   "venue": "IJCAI 2021, https://www.ijcai.org/proceedings/2021/0",
+   "year": "2020"
+  },
+  {
+   "title": "Audio-visual deep learning for noise robust speech recognition",
+   "authors": "J Huang, B Kingsbury",
+   "venue": "2013 IEEE international conference on acoustics, speech and signal …",
+   "year": "2013"
+  },
+  {
+   "title": "Combining supervised learning with color correlograms for content-based image retrieval",
+   "authors": "J Huang, SR Kumar, M Mitra",
+   "venue": "Proceedings of the fifth ACM international conference on Multimedia, 325-334",
+   "year": "1997"
+  },
+  {
+   "title": "Acoustic fall detection using Gaussian mixture models and GMM supervectors",
+   "authors": "X Zhuang, J Huang, G Potamianos, M Hasegawa-Johnson",
+   "venue": "2009 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2009"
+  },
+  {
+   "title": "Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents",
+   "authors": "M Tu, K Huang, G Wang, J Huang, X He, B Zhou",
+   "venue": "AAAI 2020",
+   "year": "2019"
+  },
+  {
+   "title": "Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs",
+   "authors": "M Tu, G Wang, J Huang, Y Tang, X He, B Zhou",
+   "venue": "ACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Maximum entropy model for punctuation annotation from speech.",
+   "authors": "J Huang, G Zweig",
+   "venue": "ICSLP",
+   "year": "2002"
+  },
+  {
+   "title": "Universal humanoid motion representations for physics-based control",
+   "authors": "Z Luo, J Cao, J Merel, A Winkler, J Huang, K Kitani, W Xu",
+   "venue": "International Conference on Learning Representations 2024, 56766-56782",
+   "year": "2024"
+  },
+  {
+   "title": "Sparse maximum a posteriori (map) adaption",
+   "authors": "V Goel, PA Olsen, SJ Rennie, J Huang",
+   "venue": "US Patent App. 14/284,738",
+   "year": "2014"
+  },
+  {
+   "title": "An automatic hierarchical image classification scheme",
+   "authors": "J Huang, SR Kumar, R Zabih",
+   "venue": "Proceedings of the sixth ACM international conference on Multimedia, 219-228",
+   "year": "1998"
+  },
+  {
+   "title": "Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding",
+   "authors": "Y Tang, J Huang, G Wang, X He, B Zhou",
+   "venue": "ACL 2020",
+   "year": "2019"
+  },
+  {
+   "title": "Improving Graph Attention Networks with Large Margin-based Constraints",
+   "authors": "G Wang, R Ying, J Huang, J Leskovec",
+   "venue": "NeurIPS 2019, Graph Representation Learning workshop",
+   "year": "2019"
+  },
+  {
+   "title": "Color-spatial image indexing and applications",
+   "authors": "J Huang",
+   "venue": "Cornell University",
+   "year": "1998"
+  },
+  {
+   "title": "Improving Neural Language Generation with Spectrum Control",
+   "authors": "L Wang, J Huang, K Huang, Z Hu, G Wang, Q Gu",
+   "venue": "ICLR 2020, https://openreview.net/pdf?id=ByxY8CNtvr",
+   "year": "2019"
+  },
+  {
+   "title": "Multiple instance learning with graph neural networks",
+   "authors": "M Tu, J Huang, X He, B Zhou",
+   "venue": "arXiv preprint arXiv:1906.04881",
+   "year": "2019"
+  },
+  {
+   "title": "Deep Speaker Embedding Learning with Multi-Level Pooling for Text-Independent Speaker Verification",
+   "authors": "Y Tang, G Ding, J Huang, X He, B Zhou",
+   "venue": "ICASSP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Image subregion querying using color correlograms",
+   "authors": "J Huang, SR Kumar, M Mitra, WJ Zhu",
+   "venue": "US Patent 6,430,312",
+   "year": "2002"
+  },
+  {
+   "title": "Uxagent: An llm agent-based usability testing framework for web design",
+   "authors": "Y Lu, B Yao, H Gu, J Huang, ZJ Wang, Y Li, J Gesi, Q He, TJJ Li, D Wang",
+   "venue": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors …",
+   "year": "2025"
+  },
+  {
+   "title": "Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs",
+   "authors": "C Shang, G Wang, P Qi, J Huang",
+   "venue": "ACL 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Cross-lingual Text-independent Speaker Verification using Unsupervised Adversarial Discriminative Domain Adaptation",
+   "authors": "W Xia, J Huang, JHL Hansen",
+   "venue": "ICASSP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Speaker-invariant Affective Representation Learning via Adversarial Training",
+   "authors": "H Li, M Tu, J Huang, S Narayanan, P Georgiou",
+   "venue": "ICASSP'20; arXiv preprint arXiv:1911.01533",
+   "year": "2019"
+  },
+  {
+   "title": "Selective Attention Based Graph Convolutional Networks for Aspect-Level Sentiment Classification",
+   "authors": "X Hou, J Huang, G Wang, K Huang, X He, B Zhou",
+   "venue": "NAACL 2021, TextGraph",
+   "year": "2019"
+  },
+  {
+   "title": "Graph Ensemble Learning over Multiple Dependency Trees for Aspect-level Sentiment Classification",
+   "authors": "X Hou, P Qi, G Wang, R Ying, J Huang, X He, B Zhou",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Representation learning of users and items for review rating prediction using attention-based convolutional neural network",
+   "authors": "S Seo, J Huang, H Yang, Y Liu",
+   "venue": "International Workshop on Machine Learning Methods for Recommender Systems",
+   "year": "2017"
+  },
+  {
+   "title": "Audio-visual speech recognition using an infrared headset",
+   "authors": "J Huang, G Potamianos, J Connell, C Neti",
+   "venue": "Speech Communication 44 (1-4), 83-96",
+   "year": "2004"
+  },
+  {
+   "title": "Inductive Learning on Commonsense Knowledge Graph Completion",
+   "authors": "B Wang, G Wang, J Huang, J You, J Leskovec, CCJ Kuo",
+   "venue": "IJCNN 2021",
+   "year": "2020"
+  },
+  {
+   "title": "Stepwise perplexity-guided refinement for efficient chain-of-thought reasoning in large language models",
+   "authors": "Y Cui, P He, J Zeng, H Liu, X Tang, Z Dai, Y Han, C Luo, J Huang, Z Li, ...",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2025, 18581-18597",
+   "year": "2025"
+  },
+  {
+   "title": "Speaker diarization with lexical information",
+   "authors": "TJ Park, KJ Han, J Huang, X He, B Zhou, P Georgiou, S Narayanan",
+   "venue": "arXiv preprint arXiv:2004.06756",
+   "year": "2020"
+  },
+  {
+   "title": "Entity and evidence guided document-level relation extraction",
+   "authors": "K Huang, P Qi, G Wang, T Ma, J Huang",
+   "venue": "Proceedings of the 6th Workshop on Representation Learning for NLP (RepL4NLP …",
+   "year": "2021"
+  },
+  {
+   "title": "Towards automatic transcription of large spoken archives-English ASR for the MALACH project",
+   "authors": "B Ramabhadran, J Huang, M Picheny",
+   "venue": "2003 IEEE International Conference on Acoustics, Speech, and Signal …",
+   "year": "2003"
+  },
+  {
+   "title": "Multi-view and multi-objective semi-supervised learning for hmm-based automatic speech recognition",
+   "authors": "X Cui, J Huang, JT Chien",
+   "venue": "IEEE Transactions on Audio, Speech, and Language Processing 20 (7), 1923-1935",
+   "year": "2012"
+  },
+  {
+   "title": "Skipconvnet: Skip convolutional neural network for speech dereverberation using optimally smoothed spectral mapping",
+   "authors": "V Kothapally, W Xia, S Ghorbani, JHL Hansen, W Xue, J Huang",
+   "venue": "Interspeech",
+   "year": "2020"
+  },
+  {
+   "title": "Opera: A dataset of observation, persona, rationale, and action for evaluating llms on human online shopping behavior simulation",
+   "authors": "Z Wang, Y Lu, W Li, A Amini, B Sun, Y Bart, W Lyu, J Gesi, T Wang, ...",
+   "venue": "ACL 2026; arXiv preprint arXiv:2506.05606",
+   "year": "2025"
+  },
+  {
+   "title": "Acute effects on pulmonary function in young healthy adults exposed to traffic-related air pollution in semi-closed transport hub in Beijing",
+   "authors": "J Huang, F Deng, S Wu, Y Zhao, M Shima, B Guo, Q Liu, X Guo",
+   "venue": "Environmental Health and Preventive Medicine 21 (5), 312-320",
+   "year": "2016"
+  },
+  {
+   "title": "Multi-agent-as-judge: Aligning LLM-agent-based automated evaluation with multi-dimensional human evaluation",
+   "authors": "J Chen, Y Lu, X Wang, H Zeng, J Huang, J Gesi, Y Xu, B Yao, D Wang",
+   "venue": "ACL 2026; arXiv preprint arXiv:2507.21028",
+   "year": "2025"
+  },
+  {
+   "title": "The IBM RT07 evaluation systems for speaker diarization on lecture meetings",
+   "authors": "J Huang, E Marcheret, K Visweswariah, G Potamianos",
+   "venue": "International Evaluation Workshop on Rich Transcription, 497-508",
+   "year": "2007"
+  },
+  {
+   "title": "Zero-shot Text-to-SQL Learning with Auxiliary Task",
+   "authors": "S Chang, P Liu, Y Tang, J Huang, X He, B Zhou",
+   "venue": "AAAI 2020",
+   "year": "2019"
+  },
+  {
+   "title": "Unsupervised Melody-Guided Lyrics Generation",
+   "authors": "Y Tian, A Narayan-Chen, S Oraby, A Cervone, G Sigurdsson, C Tao, ...",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Context-situated pun generation",
+   "authors": "J Sun, A Narayan-Chen, S Oraby, S Gao, T Chung, J Huang, Y Liu, ...",
+   "venue": "EMNLP 2022; arXiv preprint arXiv:2210.13522",
+   "year": "2022"
+  },
+  {
+   "title": "ExPUNations: Augmenting Puns with Keywords and Explanations",
+   "authors": "J Sun, A Narayan-Chen, S Oraby, A Cervone, T Chung, J Huang, Y Liu, ...",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Information extraction from voicemail",
+   "authors": "J Huang, G Zweig, M Padmanabhan",
+   "venue": "Proceedings of the 39th Annual Meeting of the Association for Computational …",
+   "year": "2001"
+  },
+  {
+   "title": "Combining color and spatial information for content-based image retrieval",
+   "authors": "J Huang, R Zabih",
+   "venue": "Proceedings of ECDL 1998",
+   "year": "1998"
+  },
+  {
+   "title": "Automatic speech recognition performance on a voicemail transcription task",
+   "authors": "M Padmanabhan, G Saon, J Huang, B Kingsbury, L Mangu",
+   "venue": "IEEE Transactions on Speech and Audio Processing 10 (7), 433-442",
+   "year": "2002"
+  },
+  {
+   "title": "A multi-sensor approach for people fall detecion in the home environment",
+   "authors": "GP c. A Leone, G. Diraco, C. Distante, P. Siciliano, M. Grassi, A. Lombardi ...",
+   "venue": "ECCV",
+   "year": "2008"
+  },
+  {
+   "title": "Tight Mutual Information Estimation With Contrastive Fenchel-Legendre Optimization",
+   "authors": "CT Qing Guo, Junya Chen, Dong Wang, Yuewei Wang, Xinwei Deng, Lawrence Carin ...",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Uxagent: A system for simulating usability testing of web design with llm agents",
+   "authors": "Y Lu, B Yao, H Gu, J Huang, J Wang, Y Li, J Gesi, Q He, TJJ Li, D Wang",
+   "venue": "arXiv preprint arXiv:2504.09407",
+   "year": "2025"
+  },
+  {
+   "title": "Towards adversarial learning of speaker-invariant representation for speech emotion recognition",
+   "authors": "M Tu, Y Tang, J Huang, X He, B Zhou",
+   "venue": "arXiv preprint arXiv:1903.09606",
+   "year": "2019"
+  },
+  {
+   "title": "I4U submission to NIST SRE 2018: Leveraging from a decade of shared experiences",
+   "authors": "KA Lee, V Hautamaki, T Kinnunen, H Yamamoto, K Okabe, V Vestman, ...",
+   "venue": "arXiv preprint arXiv:1904.07386",
+   "year": "2019"
+  },
+  {
+   "title": "Rapid feature space speaker adaptation for multi-stream HMM-based audio-visual speech recognition",
+   "authors": "J Huang, E Marcheret, K Visweswariah",
+   "venue": "2005 IEEE International Conference on Multimedia and Expo, 338-341",
+   "year": "2005"
+  },
+  {
+   "title": "Towards practical deployment of audio-visual speech recognition",
+   "authors": "G Potamianos, C Neti, J Huang, JH Connell, S Chu, V Libal, E Marcheret, ...",
+   "venue": "2004 IEEE International Conference on Acoustics, Speech, and Signal …",
+   "year": "2004"
+  },
+  {
+   "title": "Large vocabulary conversational speech recognition with the extended maximum likelihood linear transformation (EMLLT) model",
+   "authors": "J Huang, V Goel, R Gopinath, B Kingsbury, P Olsen, K Visweswariah",
+   "venue": "Proc. ICSLP 2002, 2597-2600",
+   "year": "2002"
+  },
+  {
+   "title": "Customer-r1: Personalized simulation of human behaviors via rl-based llm agent in online shopping",
+   "authors": "Z Wang, Y Lu, Y Zhang, J Huang, D Wang",
+   "venue": "arXiv preprint arXiv:2510.07230",
+   "year": "2025"
+  },
+  {
+   "title": "Unlocking exocentric video-language data for egocentric video representation learning",
+   "authors": "ZY Dou, X Yang, T Nagarajan, H Wang, J Huang, N Peng, K Kitani, ...",
+   "venue": "arXiv preprint arXiv:2408.03567",
+   "year": "2024"
+  },
+  {
+   "title": "Method and system for aspect-level sentiment classification by graph diffusion transformer",
+   "authors": "X Hou, J Huang, G Wang, X He, B Zhou",
+   "venue": "US Patent App. 17/327,830",
+   "year": "2022"
+  },
+  {
+   "title": "Multi-Stride Self-Attention for Speech Recognition",
+   "authors": "KJ Han, J Huang, Y Tang, X He, B Zhou",
+   "venue": "Proc. Interspeech 2019, 2788-2792",
+   "year": "2019"
+  },
+  {
+   "title": "Recent improvements in voicemail transcription",
+   "authors": "M Padmanabhan, G Saon, S Basu, J Huang, G Zweig",
+   "venue": "Proc. Eurospeech 1999, 503-506",
+   "year": "1999"
+  },
+  {
+   "title": "LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants?",
+   "authors": "L Sun, S Fu, B Yao, Y Lu, W Li, H Gu, J Gesi, J Huang, C Luo, D Wang",
+   "venue": "arXiv preprint arXiv:2509.21501",
+   "year": "2025"
+  },
+  {
+   "title": "Entity and Evidence Guided Relation Extraction for DocRED",
+   "authors": "K Huang, G Wang, T Ma, J Huang",
+   "venue": "ACL 2021, Rep4NLP",
+   "year": "2020"
+  },
+  {
+   "title": "Methods and apparatus for fast adaptation of a band-quantized speech decoding system",
+   "authors": "J Huang, M Padmanabhan",
+   "venue": "US Patent 6,421,641",
+   "year": "2002"
+  },
+  {
+   "title": "Improving audio-visual speech recognition with an infrared headset.",
+   "authors": "J Huang, G Potamianos, C Neti",
+   "venue": "AVSP, 175-178",
+   "year": "2003"
+  },
+  {
+   "title": "Extracting caller information from voicemail",
+   "authors": "J Huang, G Zweig, M Padmanabhan",
+   "venue": "Workshop on Information Retrieval Techniques for Speech Applications, 67-77",
+   "year": "2001"
+  },
+  {
+   "title": "PragmatiCQA: A Dataset for Pragmatic Question Answering in Conversations",
+   "authors": "P Qi, N Du, CD Manning, J Huang",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "The IBM rich transcription 2007 speech-to-text systems for lecture meetings",
+   "authors": "J Huang, E Marcheret, K Visweswariah, V Libal, G Potamianos",
+   "venue": "International Evaluation Workshop on Rich Transcription, 429-441",
+   "year": "2007"
+  },
+  {
+   "title": "Impact of audio segmentation and segment clustering on automated transcription accuracy of large spoken archives",
+   "authors": "B Ramabhadran, J Huang, U Chaudhari, G Iyengar, HJ Nock",
+   "venue": "Proc. Eurospeech 2003, 2589-2592",
+   "year": "2003"
+  },
+  {
+   "title": "Trajectory2Task: Training Robust Tool-Calling Agents with Synthesized Yet Verifiable Data for Complex User Intents",
+   "authors": "Z Wang, Y Lu, Y Zhang, Z Dong, J Huang, J Gesi, X Tang, C Luo, Y Sang, ...",
+   "venue": "ACL 2026; arXiv preprint arXiv:2601.20144",
+   "year": "2026"
+  },
+  {
+   "title": "SPC: Soft prompt construction for cross domain generalization",
+   "authors": "W Zhao, A Gupta, T Chung, J Huang",
+   "venue": "Proceedings of the 8th Workshop on Representation Learning for NLP (RepL4NLP …",
+   "year": "2023"
+  },
+  {
+   "title": "Pollution characteristics and sources of ambient volatile organic compounds (VOCs) in Beijing",
+   "authors": "L Qichen, H Jing, G Xinbiao",
+   "venue": "Asian journal of ecotoxicology, 49-61",
+   "year": "2017"
+  },
+  {
+   "title": "Sparse maximum a posteriori (MAP) adaptation",
+   "authors": "V Goel, PA Olsen, SJ Rennie, J Huang",
+   "venue": "US Patent 8,738,376",
+   "year": "2014"
+  },
+  {
+   "title": "The IBM RT06s evaluation system for speech activity detection in CHIL seminars",
+   "authors": "E Marcheret, G Potamianos, K Visweswariah, J Huang",
+   "venue": "International Workshop on Machine Learning for Multimodal Interaction, 323-335",
+   "year": "2006"
+  },
+  {
+   "title": "The IBM Rich Transcription Spring 2006 speech-to-text system for lecture meetings",
+   "authors": "J Huang, M Westphal, S Chen, O Siohan, D Povey, V Libal, A Soneiro, ...",
+   "venue": "International Workshop on Machine Learning for Multimodal Interaction, 432-443",
+   "year": "2006"
+  },
+  {
+   "title": "Discriminatively trained features using fMPE for multi-stream audio-visual speech recognition.",
+   "authors": "J Huang, D Povey",
+   "venue": "INTERSPEECH, 777-780",
+   "year": "2005"
+  },
+  {
+   "title": "Variance-reduced first-order meta-learning for natural language processing tasks",
+   "authors": "LX Wang, K Huang, T Ma, Q Gu, J Huang",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "End-to-end structure-aware convolutional networks for knowledge base completion",
+   "authors": "C Shang, Y Tang, J Huang, X He, B Zhou",
+   "venue": "US Patent App. 16/542,403",
+   "year": "2020"
+  },
+  {
+   "title": "Multi-view and multi-objective semi-supervised learning for large vocabulary continuous speech recognition",
+   "authors": "X Cui, J Huang, JT Chien",
+   "venue": "2011 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2011"
+  },
+  {
+   "title": "Far-field multimodal speech processing and conversational interaction in smart spaces",
+   "authors": "G Potamianos, J Huang, E Marcheret, V Libal, R Balchandran, M Epstein, ...",
+   "venue": "2008 Hands-Free Speech Communication and Microphone Arrays, 119-123",
+   "year": "2008"
+  },
+  {
+   "title": "Automatic hierarchical color image classification",
+   "authors": "J Huang, SR Kumar, R Zabih",
+   "venue": "EURASIP Journal on Advances in Signal Processing 2003 (2), 453751",
+   "year": "2003"
+  },
+  {
+   "title": "Open Temporal Relation Extraction for Question Answering",
+   "authors": "C Shang, P Qi, G Wang, J Huang, Y Wu, B Zhou",
+   "venue": "3rd Conference on Automated Knowledge Base Construction (AKBC)",
+   "year": "2021"
+  },
+  {
+   "title": "Blackbox model provenance via palimpsestic membership inference",
+   "authors": "R Kuditipudi, J Huang, S Zhu, D Yang, C Potts, P Liang",
+   "venue": "Advances in Neural Information Processing Systems 38, 162337-162367",
+   "year": "2026"
+  },
+  {
+   "title": "System for entity and evidence-guided relation prediction and method of using the same",
+   "authors": "K Huang, J Huang, G Wang",
+   "venue": "US Patent App. 17/002,506",
+   "year": "2022"
+  },
+  {
+   "title": "Graph sequential network for reasoning over sequences",
+   "authors": "M Tu, J Huang, X He, B Zhou",
+   "venue": "ICML 2020, Graph Representation Learning workshop",
+   "year": "2020"
+  },
+  {
+   "title": "Relation module for non-answerable predictions on reading comprehension",
+   "authors": "K Huang, Y Tang, J Huang, X He, B Zhou",
+   "venue": "Proceedings of the 23rd conference on computational natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "others. 2025. Stepwise perplexity-guided refinement for efficient chain-ofthought reasoning in large language models",
+   "authors": "Y Cui, P He, J Zeng, H Liu, X Tang, Z Dai, Y Han, C Luo, J Huang, Z Li",
+   "venue": "arXiv preprint arXiv:2502.13260",
+   "year": "1"
+  },
+  {
+   "title": "Long-Time Span Acoustic Activity Analysis From Far-Field Sensors In Smart Homes",
+   "authors": "J Huang, X Zhuang, V Libal, G Potamianos",
+   "venue": "ICASSP",
+   "year": "2009"
+  },
+  {
+   "title": "See, think, act: Online shopper behavior simulation with vlm agents",
+   "authors": "Y Zhang, J Gesi, R Xue, T Wang, Z Wang, Y Lu, S Zhan, H Zeng, Q Cui, ...",
+   "venue": "arXiv preprint arXiv:2510.19245",
+   "year": "2025"
+  },
+  {
+   "title": "Code-Switched Text Synthesis in Unseen Language Pairs",
+   "authors": "I Hsu, A Ray, S Garg, N Peng, J Huang",
+   "venue": "ACL 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Sparse maximum a posteriori adaptation",
+   "authors": "PA Olsen, J Huang, V Goel, SJ Rennie",
+   "venue": "2011 IEEE Workshop on Automatic Speech Recognition & Understanding, 53-58",
+   "year": "2011"
+  },
+  {
+   "title": "A study of adaptation techniques on a voicemail transcription task",
+   "authors": "J Huang, M Padmanabhan",
+   "venue": "Proc. Eurospeech 1999, 13-16",
+   "year": "1999"
+  },
+  {
+   "title": "Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention",
+   "authors": "J Huang, D Wurgaft, R Bansal, L Ruis, N Saphra, D Alvarez-Melis, ...",
+   "venue": "arXiv preprint arXiv:2605.29548",
+   "year": "2026"
+  },
+  {
+   "title": "Conversational ai systems for social good: Opportunities and challenges",
+   "authors": "P Qi, J Huang, Y Wu, X He, B Zhou",
+   "venue": "arXiv preprint arXiv:2105.06457",
+   "year": "2021"
+  },
+  {
+   "title": "Improvements to the IBM Hub-5E system",
+   "authors": "J Huang, B Kingsbury, L Mangu, G Saon, R Sarikaya, G Zweig",
+   "venue": "NIST RT-02 Workshop",
+   "year": "2002"
+  },
+  {
+   "title": "Ravel: Evaluating interpretability methods on disentangling language model representations, 2024",
+   "authors": "J Huang, Z Wu, C Potts, M Geva, A Geiger",
+   "venue": "URL https://arxiv. org/abs/2402.17700 2402",
+   "year": null
+  },
+  {
+   "title": "TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning Tasks",
+   "authors": "V Kapoor, A Gupta, H Chen, A Beniwal, J Huang, A Kumar",
+   "venue": "ICLR 2026",
+   "year": "2026"
+  },
+  {
+   "title": "System and method for relation extraction with adaptive thresholding and localized context pooling",
+   "authors": "W Zhou, K Huang, J Huang",
+   "venue": "US Patent 11,593,560",
+   "year": "2023"
+  },
+  {
+   "title": "Method and system for relation learning by multi-hop attention graph neural network",
+   "authors": "G Wang, Z Ying, J Huang, J Leskovec",
+   "venue": "US Patent App. 17/327,867",
+   "year": "2022"
+  },
+  {
+   "title": "Cross-modal Contrastive Distillation for Instructional Activity Anticipation",
+   "authors": "Z Yang, J Liu, J Huang, X He, T Mei, C Xu, J Luo",
+   "venue": "ICPR 2022; arXiv preprint arXiv:2201.06734",
+   "year": "2022"
+  },
+  {
+   "title": "A multisensor system for high reliability people fall detection in home environment",
+   "authors": "M Grassi, A Lombardi, G Rescio, P Malcovati, A Leone, G Diraco, ...",
+   "venue": "Sensors and Microsystems: AISEM 2009 Proceedings, 391-394",
+   "year": "2009"
+  },
+  {
+   "title": "A system for audio-visual speech recognition",
+   "authors": "I Shdaifat, RR Grigat",
+   "venue": "Proc. Interspeech 2005, 1197-1200",
+   "year": "2005"
+  },
+  {
+   "title": "Voicemail Corpus Part II",
+   "authors": "M Padmanabhan, B Kingsbury, B Ramabhadran, J Huang, S Chen, ...",
+   "venue": "Linguistic Data Consortium (LDC), Philadelphia",
+   "year": "2002"
+  },
+  {
+   "title": "Er-suffixation in Southwestern Mandarin: An EMA and ultrasound study",
+   "authors": "J Huang, F Hsieh, Y Chang",
+   "venue": "Proc. Interspeech 2020, 661-665",
+   "year": "2020"
+  },
+  {
+   "title": "Combined index finger pollicization with an anterolateral thigh flap for thumb reconstruction",
+   "authors": "G Yu, H Xu, H Lei, S Guo, J Huang, D Li",
+   "venue": "Chinese Journal of Traumatology 17 (06), 354-357",
+   "year": "2014"
+  },
+  {
+   "title": "Stabilization/solidification of heavy metal contaminated sediment using cement, fly ash and DTCR",
+   "authors": "X Huaming, Z Guangming, L Wenlian, W Chuan, H Jing, X Haiyin, ...",
+   "venue": "Chinese Journal of Environmental Engineering 7 (3), 1121-1127",
+   "year": "2013"
+  },
+  {
+   "title": "Recent improvements in speech recognition performance on large vocabulary conversational speech (voicemail and switchboard).",
+   "authors": "J Huang, B Kingsbury, L Mangu, M Padmanabhan, G Saon, G Zweig",
+   "venue": "INTERSPEECH, 338-341",
+   "year": "2000"
+  },
+  {
+   "title": "A kind of neural network model displaying self-organized criticality",
+   "authors": "H Jing, C TianLun",
+   "venue": "Communications in Theoretical Physics 33 (3), 365-370",
+   "year": "2000"
+  },
+  {
+   "title": "Demystifying verbatim memorization in large language models, 2024",
+   "authors": "J Huang, D Yang, C Potts",
+   "venue": "URL https://arxiv. org/abs/2407.17817",
+   "year": null
+  },
+  {
+   "title": "Semantic Categorization of Social Knowledge for Commonsense Question Answering",
+   "authors": "G Wang, X Hou, D Yang, K McKeown, J Huang",
+   "venue": "EMNLP 2021, SustainNLP workshop",
+   "year": "2021"
+  },
+  {
+   "title": "A Cross-Dialectal Comparison of Apical Vowels in Beijing Mandarin, Northeastern Mandarin and Southwestern Mandarin: An EMA and Ultrasound Study.",
+   "authors": "J Huang, F Hsieh, YC Chang",
+   "venue": "Interspeech, 3989-3993",
+   "year": "2021"
+  },
+  {
+   "title": "Affine invariant sparse maximum a posteriori adaptation",
+   "authors": "PA Olsen, J Huang, SJ Rennie, V Goel",
+   "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2012"
+  },
+  {
+   "title": "Bayesian analysis of structural credit risk models with microstructure noises",
+   "authors": "SJ Huang, J Yu",
+   "venue": "SMU Economics and Statistics Working Paper Series, No. 17-2009",
+   "year": "2009"
+  },
+  {
+   "title": "Sediment characteristics and its relationship to hydrodynamic on nanhui subfluvial flat",
+   "authors": "H Guang, C Shenliang, HU Jing",
+   "venue": "Trans. Oceanol. Limnol 1, 32-38",
+   "year": "2008"
+  },
+  {
+   "title": "Detection, diarization, and transcription of far-field lecture speech",
+   "authors": "J Huang, E Marcheret, K Visweswariah, V Libal, G Potamianos",
+   "venue": "Proc. Interspeech 2007, 2161-2164",
+   "year": "2007"
+  },
+  {
+   "title": "Extracting caller information from voicemail",
+   "authors": "G Zweig, J Huang, M Padmanabhan",
+   "venue": "Proc. Eurospeech 2001, 291-294",
+   "year": "2001"
+  },
+  {
+   "title": "Performance improvement in voicemail transcription",
+   "authors": "J Huang, B Kingsbury, L Mangu, M Padmanabhan, G Saon, G Zweig",
+   "venue": "Proceedings of DARPA Speech Transcription Workshop",
+   "year": "2000"
+  },
+  {
+   "title": "Method and system for aspect-level sentiment classification by merging graphs",
+   "authors": "X Hou, P Qi, G Wang, Z Ying, J Huang, X He, B Zhou",
+   "venue": "US Patent 12,462,154",
+   "year": "2025"
+  },
+  {
+   "title": "WEBSERV: A Browser-Server Environment for Efficient Training of Reinforcement Learning-based Web Agents at Scale",
+   "authors": "Y Lu, J Huang, H Liu, J Gesi, Y Han, S Fu, T Zheng, D Wang",
+   "venue": "First Workshop on Multi-Turn Interactions in Large Language Models",
+   "year": "2025"
+  },
+  {
+   "title": "Prompting is not all you need! evaluating llm agent simulation methodologies with real-world online customer behavior data",
+   "authors": "Y Lu, J Huang, Y Han, B Yao, S Bei, J Gesi, Y Xie, Q He, D Wang",
+   "venue": "arXiv preprint arXiv:2503.20749",
+   "year": "2025"
+  },
+  {
+   "title": "Clipsynth: Learning text-to-audio synthesis from videos using clip and diffusion models",
+   "authors": "HW Dong, G Sigurdsson, C Tao, JY Kao, YH Lin, A Narayan-Chen, ...",
+   "venue": "CVPR Workshop on Sight and Sound",
+   "year": "2023"
+  },
+  {
+   "title": "Knowledge graph representation learning and graph neural networks for language understanding",
+   "authors": "J Huang",
+   "venue": "Proceedings of the 5th ACM SIGMOD Joint International Workshop on Graph Data …",
+   "year": "2022"
+  },
+  {
+   "title": "Joint system-wise optimization for pipeline goal-oriented dialog system",
+   "authors": "Z Lin, J Huang, B Zhou, X He, T Ma",
+   "venue": "arXiv preprint arXiv:2106.04835",
+   "year": "2021"
+  },
+  {
+   "title": "Cross-view transfer learning for automatic speech recognition",
+   "authors": "J Huang, X Cui, JT Chien",
+   "venue": "NIPS 2010 Workshop on Transfer Learning by Learning Rich Generative Models",
+   "year": "2010"
+  },
+  {
+   "title": "On Bloch waves for the Stokes equations",
+   "authors": "G Allaire, C Conca Rosende, L Friz, J Ortega Palma",
+   "venue": "AMER INST MATHEMATICAL SCIENCES",
+   "year": "2007"
+  },
+  {
+   "title": "Improving speaker diarization for CHIL lecture meetings",
+   "authors": "J Huang, E Marcheret, K Visweswariah",
+   "venue": "Proc. Interspeech 2007, 1865-1868",
+   "year": "2007"
+  },
+  {
+   "title": "Can LLM Agents Simulate Multi-Turn Human Behavior? Evidence from Real Online Customer Behavior Data",
+   "authors": "Y Lu, J Huang, Y Han, B Yao, S Bei, Y Xie, Y Sang, Q He, D Wang",
+   "venue": "ACL 2026",
+   "year": "2026"
+  },
+  {
+   "title": "Prompting Vision-Language Models For Aspect-Controlled Generation of Referring Expressions",
+   "authors": "D GUO, S Agarwal, A Gupta, JY Kao, E Barut, T Chung, J Huang, ...",
+   "venue": "NAACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Contextual data augmentation for task-oriented dialog systems",
+   "authors": "D Axman, A Ray, S Garg, J Huang",
+   "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in …",
+   "year": "2023"
+  },
+  {
+   "title": "Removal of Cu-EDTA from aqueous solution by electrocoagulation using Al and Fe electrodes",
+   "authors": "T Zhu, Y Zhaohui, X Haiyin, H Jing, L Xuan, S Peipei, Y Jian",
+   "venue": "Chinese Journal of Environmental Engineering 8 (8), 3167-3173",
+   "year": "2014"
+  },
+  {
+   "title": "Combined discriminative training for multi-stream HMM-based audio-visual speech recognition.",
+   "authors": "J Huang, K Visweswariah",
+   "venue": "INTERSPEECH, 1379-1382",
+   "year": "2009"
+  },
+  {
+   "title": "Improved decision trees for multi-stream HMM-based audio-visual continuous speech recognition",
+   "authors": "J Huang, K Visweswariah",
+   "venue": "2009 IEEE Workshop on Automatic Speech Recognition & Understanding, 228-231",
+   "year": "2009"
+  },
+  {
+   "title": "Cluster analysis of electrochemical noise for X70 steel in Ku'erle soil",
+   "authors": "HJQIUYGUO Xingpeng",
+   "venue": "Journal of Chinese Society for Corrosion and protection 29 (6), 453-458",
+   "year": "2009"
+  },
+  {
+   "title": "The advances in molecular identification for the water-bloom algae",
+   "authors": "GH WANG, JQ HUANG, DH LI, YD LIU, LY YIN",
+   "venue": "Acta Hydrobiologica Sinica 28 (2), 207-212",
+   "year": "2004"
+  },
+  {
+   "title": "The contribution of wetlands to stream nitrogen load in the Loch Vale watershed, Colorado, USA",
+   "authors": "H Jian-hui, J Baron, D Binkley",
+   "venue": "Chinese Journal of Plant Ecology 20 (4), 289",
+   "year": "1996"
+  },
+  {
+   "title": "The unlearning mirage: A dynamic framework for evaluating LLM unlearning",
+   "authors": "RS Shah, J Huang, K Murugesan, N Baracaldo, D Yang",
+   "venue": "arXiv preprint arXiv:2603.11266",
+   "year": "2026"
+  },
+  {
+   "title": "WEBSERV: A Full-Stack and RL-Ready Web Environment for Training Web Agents at Scale",
+   "authors": "Y Lu, Z Wang, J Huang, H Liu, J Gesi, Y Han, S Fu, T Zheng, X Tang, ...",
+   "venue": "arXiv preprint arXiv:2510.16252",
+   "year": "2025"
+  },
+  {
+   "title": "The 2nd workshop on large language models for e-commerce",
+   "authors": "H Han, F Wang, C Luo, H Liu, J Huang, Z Li, Z Dai, Q He, Y Sun, D Yin, ...",
+   "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and …",
+   "year": "2025"
+  },
+  {
+   "title": "PG-story: Taxonomy, dataset, and evaluation for ensuring child-safe content for story generation",
+   "authors": "AY Tsai, S Oraby, A Narayan-Chen, A Cervone, S Gella, A Verma, ...",
+   "venue": "Proceedings of the Third Workshop on NLP for Positive Impact, 78-97",
+   "year": "2024"
+  },
+  {
+   "title": "Relation Module for Non-answerable Prediction on Question Answering",
+   "authors": "K Huang, Y Tang, J Huang, X He, B Zhou",
+   "venue": "CoNLL",
+   "year": "2019"
+  },
+  {
+   "title": "Preparation of hydroxyl-iron-zirconium modified activated carbon fieber and its phosphate removal performance",
+   "authors": "T Jing, Y Zhaohui, Z Guangming, X Weiping, H Jing, X Haiyin, S Peipei",
+   "venue": "Chinese Journal of Environmental Engineering 10 (6), 2881-2888",
+   "year": "2016"
+  },
+  {
+   "title": "Research on practice teaching mode of computer aided design of IC layout course",
+   "authors": "S Min, Z Zhenjuan, H Jing, Z Youhua, Z Wei",
+   "venue": "China Modern Education Equipment 3, 43-44",
+   "year": "2014"
+  },
+  {
+   "title": "Optimization of cadmium removal using CCD design by microbial flocculants and investigation of flocculation mechanism",
+   "authors": "W Shumei, Y Zhaohui, Z Guangming, H Jing, Z Yuanyuan, W Like",
+   "venue": "Chinese Journal of Environmental Engineering 7 (9), 3270-3276",
+   "year": "2013"
+  },
+  {
+   "title": "Successful replantation of both lower legs in a 41-year-old man",
+   "authors": "Y Guang, L Hong-Yu, G Shuang, Y Hao, H Jian-Hua, L Sheng-Hai, ...",
+   "venue": "Chinese Journal of Traumatology 14 (4), 250-252",
+   "year": "2011"
+  },
+  {
+   "title": "Design and implementation of a small and high efficient underwater acoustic transmitter",
+   "authors": "Y Huang, J Huang, L Jing",
+   "venue": "Computer Measurement & Control 19 (6), 1438-1441",
+   "year": "2011"
+  },
+  {
+   "title": "Organic geochemistry of seal excrement sediment from Fildes Peninsula, Western Antarctica",
+   "authors": "H Jing, SUN Li-Guang, W Xin-Ming, W Yu-Hong",
+   "venue": "Chinese Journal of Polar research 23 (1), 35",
+   "year": "2011"
+  },
+  {
+   "title": "Screening and identifying for an efficent strain of ammonia-nitrogen degrading bacteria from sewage and its growing conditions",
+   "authors": "H Jing, W Ruojing, C Biao, W Xian",
+   "venue": "Chinese Journal of Environmental Engineering 5 (8), 1779-1784",
+   "year": "2011"
+  },
+  {
+   "title": "Large eddy simulation of transient turbulent flow in Francis turbine",
+   "authors": "J Huang, L Zhang, W Wang, J Yao",
+   "venue": "Journal of Drainage and Irrigation Machinery Engineering/ Paiguan Jixie …",
+   "year": "2010"
+  },
+  {
+   "title": "Micro-motion simulation and micro-Doppler extraction",
+   "authors": "N Chao, H Jing",
+   "venue": "PIERS Proceedings, 1039-1043",
+   "year": "2010"
+  },
+  {
+   "title": "Considerations about development of premium efficiency copper rotor three phase asynchronous motor series",
+   "authors": "ZQ Li, H Jian, Z Wei, LX Chen, WD Gu",
+   "venue": "Electric Machines &Control Application, 17-20",
+   "year": "2010"
+  },
+  {
+   "title": "Automatic speech recognition",
+   "authors": "G Potamianos, L Lamel, M Wölfel, J Huang, E Marcheret, C Barras, X Zhu, ...",
+   "venue": "Computers in the Human Interaction Loop, 43-59",
+   "year": "2009"
+  },
+  {
+   "title": "Realized daily variance of S&P 500 cash index",
+   "authors": "SJ Huang, Q Liu, J Yu",
+   "venue": "Singapore Management University, mimeographed",
+   "year": "2006"
+  },
+  {
+   "title": "Improving lip-reading with feature space transforms for multi-stream audio-visual speech recognition",
+   "authors": "J Huang, K Visweswariah",
+   "venue": "Proc. Interspeech 2005, 1221-1224",
+   "year": "2005"
+  },
+  {
+   "title": "Recent Improvements in voicemail transcription",
+   "authors": "G Zweig, G Saon, M Padmanabhan, J Huang, S Basu",
+   "venue": "Proceedings of the DARPA Broadcast news workshop (HUB-4), 143-147",
+   "year": "1999"
+  },
+  {
+   "title": "Structure of Barium Tetrafluorborate Ba~ 2 (BF~ 4)~ 4",
+   "authors": "QS Lin, WD Cheng, JT Chen, JS Huang",
+   "venue": "JOURNAL OF STRUCTURAL CHEMISTRY-CHINA- 17, 245-248",
+   "year": "1998"
+  },
+  {
+   "title": "Organic geochemical characterization on a seal excrement sediment core from Fildes Peninsula, Western Antarctica",
+   "authors": "H Jing, SUN LiGuang, W XinMing, W YuHong, H Tao",
+   "venue": "Chinese Journal of Polar Research 22 (2-English), 118",
+   "year": "1961"
+  },
+  {
+   "title": "Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization",
+   "authors": "C Blank, Z Ying, C Potts, P Hase, J Huang",
+   "venue": "arXiv preprint arXiv:2608.31079",
+   "year": "2026"
+  },
+  {
+   "title": "SENTINEL: Failure-Driven Reinforcement Learning for Training Tool-Using Language Model Agents",
+   "authors": "Z Wang, Y Lu, Y Zhang, Q Liu, C Luo, J Gesi, H Lu, Y Sang, M Li, J Huang, ...",
+   "venue": "arXiv preprint arXiv:2606.12908",
+   "year": "2026"
+  },
+  {
+   "title": "Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs",
+   "authors": "Y Lu, Z Wang, Y Lu, Y Sang, J Gesi, X Tang, Y Zhang, Z Dai, H Liu, H Lu, ...",
+   "venue": "arXiv preprint arXiv:2605.17558",
+   "year": "2026"
+  },
+  {
+   "title": "Video2StyleGAN: Encoding Video in Latent Space for Manipulation",
+   "authors": "J Yu, J Liu, J Huang, W Zhang, T Mei",
+   "venue": "arXiv preprint arXiv:2206.13078",
+   "year": "2022"
+  },
+  {
+   "title": "Influences Factors of Anaerobic Digestion of Livestock and Poultry Breeding Contaminants",
+   "authors": "J Huang, Y Xiao, Y Wei, X Lin, B Chen",
+   "venue": "Agricultural Engineering 6 (4), 38-40",
+   "year": "2016"
+  },
+  {
+   "title": "Effect of foaming pretreatment on drying behavior of sludge",
+   "authors": "W Huiling, Y Zhaohui, H Jing, Y Jingwu, W Like, S Peipei, Y Jian",
+   "venue": "Chinese Journal of Environmental Engineering 9 (2), 907-912",
+   "year": "2015"
+  },
+  {
+   "title": "Eliminating COD in biogas slurry by scavenging agent and optimizing application with response surface assess",
+   "authors": "H Jing, X Yanchun, C Biao",
+   "venue": "Chinese Journal of Environmental Engineering 9 (11), 5439-5446",
+   "year": "2015"
+  },
+  {
+   "title": "State of the art discriminative training of subspace constrained Gaussian mixture models in big training corpora",
+   "authors": "J Huang, PA Olsen, V Goel",
+   "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2013"
+  },
+  {
+   "title": "Removal of heavy metals from sediment by bioleaching",
+   "authors": "X Huaming, Y Zhaohui, X Haiyin, G Wanchao, H Jing, Z Guangming, ...",
+   "venue": "Chinese Journal of Environmental Engineering 6 (4), 1320-1326",
+   "year": "2012"
+  },
+  {
+   "title": "Front-end feature transforms with context filtering for speaker adaptation",
+   "authors": "J Huang, K Visweswariah, P Olsen, V Goel",
+   "venue": "2011 IEEE International Conference on Acoustics, Speech and Signal …",
+   "year": "2011"
+  },
+  {
+   "title": "Immunomodulation of Porphyridium cruentum and Its Exopolysaccharides in Mice.",
+   "authors": "LIN Li-Qin, LIU Li-Ping, H Jian, C Bi-Lian",
+   "venue": "Natural Product Research & Development 23 (2), 236",
+   "year": "2011"
+  },
+  {
+   "title": "Optimization of response surface and the mechanism study of microbial flocculants on capturing Cu (Ⅱ)",
+   "authors": "G Wanchao, Y Zhaohui, H Jing, D Jiuhua, X Haiyin, X Huaming",
+   "venue": "Chinese Journal of Environmental Engineering 5 (11), 2411-2416",
+   "year": "2011"
+  },
+  {
+   "title": "Super-resolution processing of coherent narrowband radar for modulation spectrum",
+   "authors": "H Jing, R Hongmei, X Zhihe",
+   "venue": "IET International Radar Conference 2009, 327",
+   "year": "2009"
+  },
+  {
+   "title": "Separation and Structural Features of a Neutral Heteropolysaccharide A-BTF from Alkaloid Extract of Tremella fuciform Berk Spores.",
+   "authors": "X Wen-qing, W Xue-jiao, H Jie, Z Ze-wei",
+   "venue": "Natural Product Research & Development 19 (6), 1055",
+   "year": "2007"
+  },
+  {
+   "title": "纳米羟基磷灰石对淋巴细胞性白血病荷瘤小鼠抗瘤作用的研究",
+   "authors": "李戈， 黄建鸣， 李妍， 张熔， 邓碧芳",
+   "venue": "中华儿科杂志 45 (9), 692-696",
+   "year": "2007"
+  },
+  {
+   "title": "Interface reactions in a chromium buffer layer deposited between stainless steel and a silicon substrate",
+   "authors": "JY Huang*, LC Zhang, S Chen, DZ Wang, SH Jo, WZ Li, ZF Ren*",
+   "venue": "Philosophical Magazine 85 (14), 1459-1471",
+   "year": "2005"
+  },
+  {
+   "title": "Notes on the genus Anoplophora hope (Coleoptera: Cerambycidae) of Guangxi, China",
+   "authors": "J Huang, S Zhou",
+   "venue": "JOURNAL-GUANGXI NORMAL UNIVERSITY NATURAL SCIENCE EDITION 23 (3), 78",
+   "year": "2005"
+  },
+  {
+   "title": "Determination of bilirubin in Niuhuang Xiyantong Capsules",
+   "authors": "J FANG, W WANG, P JANG, C SHI, H CAI",
+   "venue": "Chinese Journal of Pharmaceutical Analysis 22 (3), 198-199",
+   "year": "2002"
+  },
+  {
+   "title": "Chemical control of colossal magnetoresistance in manganites",
+   "authors": "CH Shen, RS Liu, R Gundakaram, SF Hu, JG Lin, CY Huang, CM Wang",
+   "venue": "Materials chemistry and physics 72 (2), 281-285",
+   "year": "2001"
+  },
+  {
+   "title": "Component based human animation architecture-design issues",
+   "authors": "H Jing, CK Fi, EC Prakash",
+   "venue": "2000 TENCON Proceedings. Intelligent Systems and Technologies for the New …",
+   "year": "2000"
+  },
+  {
+   "title": "Calculation and optimization of solid launch vehicle trajectory",
+   "authors": "S Zhang, J Huang, Z Huang",
+   "venue": "JOURNAL OF SOLID ROCKET TECHNOLOGY 20, 1-5",
+   "year": "1997"
+  },
+  {
+   "title": "Guess Who’s Speaking: Audio Segmentation for the Automated Transcription of Large Spoken Archives",
+   "authors": "B Ramabhadran, J Huang, U Chaudhari, G Iyengar, HJ Nock",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Do Language Models Consistently Encode the Current Year?",
+   "authors": "S van Adrichem, A Bhaskar, D Yang, C Potts, J Huang",
+   "venue": "arXiv preprint arXiv:2608.15507",
+   "year": "2026"
+  },
+  {
+   "title": "Retry, Switch, or Abstain? Learning Strategy-Aware Tool-Use Policies via Controlled Error Injection",
+   "authors": "C Chen, V Nguyen, Z Zhang, A Gullapalli, Z Wang, Y Lu, D Wang, ...",
+   "venue": "arXiv preprint arXiv:2608.11977",
+   "year": "2026"
+  },
+  {
+   "title": "Virtual assistant humor management",
+   "authors": "AY Narayan-Chen, J Sun, S Oraby, A Cervone, T Chung, J Huang, Y Liu, ...",
+   "venue": "US Patent 12,488,191",
+   "year": "2025"
+  },
+  {
+   "title": "Virtual assistant humor management",
+   "authors": "AY Narayan-Chen, J Sun, S Oraby, S Gao, T Chung, J Huang, Y Liu, ...",
+   "venue": "US Patent 12,400,645",
+   "year": "2025"
+  },
+  {
+   "title": "Large Language Model for E-Commerce Workshop",
+   "authors": "H Han, X Tang, J Huang, M Cheng, O Alonso, H Lu, Z Li, C Luo, D Yin, ...",
+   "venue": "Companion Proceedings of the ACM on Web Conference 2025, 2699-2700",
+   "year": "2025"
+  },
+  {
+   "title": "Sequenced data processing method and device, and text processing method and device",
+   "authors": "M Tu, J Huang, X He, B Zhou",
+   "venue": "US Patent App. 17/995,140",
+   "year": "2023"
+  },
+  {
+   "title": "SpanDrop: Simple and Effective Counterfactual Learning for Long Sequences",
+   "authors": "P Qi, G Wang, J Huang",
+   "venue": "arXiv preprint arXiv:2208.02169",
+   "year": "2022"
+  },
+  {
+   "title": "Context-Situated Pun Generation",
+   "authors": "NP Jiao Sun, Anjali Narayan-Chen, Shereen Oraby, Shuyang Gao, Tagyoung Chung ...",
+   "venue": "EMNLP 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Semantic Categorization of Social Knowledge for Commonsense Question Answering",
+   "authors": "JH Gengyu Wang, Xiaochen Hou, Diyi Yang, Kathleen McKeown",
+   "venue": "SustaiNLP, EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "I4U Submission to NIST SRE 2018: Leveraging from a Decade of Shared Experiences",
+   "authors": "K Aik Lee, V Hautamaki, T Kinnunen, H Yamamoto, K Okabe, V Vestman, ...",
+   "venue": "arXiv e-prints, arXiv: 1904.07386",
+   "year": "2019"
+  },
+  {
+   "title": "Investigation of Influencing Factors and Mechanism of Antimony and Arsenic Removal by Electrocoagulation Using Fe–Al Electrodes",
+   "authors": "S Peipei, Y Zhaohui, X Haiyin, H Jing, Y Xia, W Like",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Distributed Signal and Image Processing: Particle Filters, Context Grammars, and Dynamic Games",
+   "authors": "J Huang",
+   "venue": "University of Illinois Chicago",
+   "year": "2013"
+  },
+  {
+   "title": "The impact of noise on the short-term effects of traffic-related air pollution on heart rate variability in young healthy adults",
+   "authors": "J Huang, F Deng, S Wu, H Lu, Y Hao, X Guo",
+   "venue": "ISEE Conference Abstracts 25 2013 (1), 4244",
+   "year": "2013"
+  },
+  {
+   "title": "Ambient Particulate Air Pollution and Circulating Biomarkers in Healthy Adults: the Health Volunteer Natural Relocation Study",
+   "authors": "S Wu, F Deng, H Wei, J Huang, H Wang, M Shima, X Wang, Y Qin, ...",
+   "venue": "ISEE Conference Abstracts 25 2013 (1), 3320",
+   "year": "2013"
+  },
+  {
+   "title": "Risk degree evaluation on water and soil loss in central Hunan province of red soil hilly region, China",
+   "authors": "Y Zhang, Z Li, Z Chen, X Wang, X Peng, M Yuan, J Huang",
+   "venue": "PIAGENG 2013: Intelligent Information, Control, and Communication Technology …",
+   "year": "2013"
+  },
+  {
+   "title": "Technical Proofs: Option Bounds for Short Variance Swaps and the Variance Risk Premium-Adjusting for Skewness",
+   "authors": "SJ Jordan, SJ Huang",
+   "venue": "Available at SSRN 2195930",
+   "year": "2013"
+  },
+  {
+   "title": "Option Bounds for Short Variance Swaps and the Variance Risk Premium Adjusting for Skewness",
+   "authors": "SJ Jordan, SJ Huang",
+   "venue": "Available at SSRN 2188172",
+   "year": "2012"
+  },
+  {
+   "title": "Design of Band-Gap Voltage Reference Based on Low Voltage and High Precision Operational Amplifier",
+   "authors": "J Huang, L Tang, Q Chen, M Shi",
+   "venue": "Bandaoti Jishu(Semiconductor Technology) 37 (10), 760-763",
+   "year": "2012"
+  },
+  {
+   "title": "Two therapeutic approaches for acute iliofemoral venous thrombosis: a comparative study",
+   "authors": "Y Tianhua, H Jian, Z Hui, Z Suming, M Zhongjie",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Acute pulmonary embolism caused by PMMA: an experimental study in canines",
+   "authors": "Z Suming, D Ruiru, H Jian, Z Hui, W Xianhua",
+   "venue": "",
+   "year": "2012"
+  },
+  {
+   "title": "Bioactivation and dehydrogenation of naltrexone and oxycodone in human liver microsomes: Identification of the reactive quinone methide species",
+   "authors": "B Wen, J Huang, D Moore",
+   "venue": "DRUG METABOLISM REVIEWS 43, 145-145",
+   "year": "2011"
+  },
+  {
+   "title": "Research of A Dynamic Monitoring Model",
+   "authors": "J Huang, K Jin",
+   "venue": "Hunan Gongye Daxue Xuebao 25 (2), 55-58",
+   "year": "2011"
+  },
+  {
+   "title": "Preparation of microencapsulated Lactobacillus brevis and evaluation of their characterization.",
+   "authors": "LHM Liu HongMing, ZLZ Zhou LingZhi, JXM Jiang XiaoMing, ...",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "ORGANIC GEOCHEMISTRY OF PENGUIN ORNITHOGENIC SEDIMENT FROM VESTFOLD HILLS, EAST ANTARCTICA",
+   "authors": "H Jing, W Xin-Meng, SUN Li-An",
+   "venue": "Chinese Journal of Polar Research 21 (2), 141",
+   "year": "2009"
+  },
+  {
+   "title": "Deliverable 4.1 Baseline components of speech activity detection, acoustic/speech event classification and distant-talking ASR for the DICIT scenario",
+   "authors": "P Svaizer, M Matassoni, CZ FBK, J Huang, ME Epstein",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "Effect of Silane Flow Rate on Structure and Corrosion Resistance of Ti–Si—N Thin Films Deposited by a Hybrid Cathodic Arc and Chemical Vapour Process",
+   "authors": "Y Long-Cheng, L Sen, L Guo-Hua, W Xing-Quan, H Jun, J Hui, ...",
+   "venue": "Chinese Physics Letters 25 (11), 4072-4075",
+   "year": "2008"
+  },
+  {
+   "title": "Fluffy silver microspheres: Synthesis by chemical solution route and formation mechanism",
+   "authors": "Y Guo-Wei, H Jian-Hua",
+   "venue": "CHINESE JOURNAL OF INORGANIC CHEMISTRY 24 (3), 427-433",
+   "year": "2008"
+  },
+  {
+   "title": "Endothelial progenitor cell mediates transport of hepatitis B virus into myocardial tissue",
+   "authors": "J HUANG, LI Jun, L ZHANG",
+   "venue": "Chinese Medical Journal 121 (3), 248-256",
+   "year": "2008"
+  },
+  {
+   "title": "Sistema Hardware-Software per il Rilevamento Affidabile di Cadute di Persone Anziane in Ambiente Domestico",
+   "authors": "M Grassi, P Malcovati, G Rescio, C Distante, A Leone, G Diraco, ...",
+   "venue": "XXV Congresso Nazionale GMEE, 87-88",
+   "year": "2008"
+  },
+  {
+   "title": "Genetic analysis of resistance of the wheat cultivar ‘Zhongliang 22'to stripe rust",
+   "authors": "M Yulei, L Huisheng, J Qiuzhen",
+   "venue": "Journal of Gansu Agricultural University 43 (5)",
+   "year": "2008"
+  },
+  {
+   "title": "熱殺死乳酸桿菌促使老鼠脾臟細胞及經樹突細胞刺激之 T 細胞的免疫反應偏向 Th1",
+   "authors": "L CHUANG, KEHG WU, C PAI, PEIS HSIEH, J TSAI, JYHH YEN, MYN LIN",
+   "venue": "J. Agric. Food Chem 55, 11080-11086",
+   "year": "2007"
+  },
+  {
+   "title": "Characteristics for Sorption of Cadmium Ions on Sodium Dodecyl Sulfate in the Process of Micellar-Enhanced Ultrafiltration",
+   "authors": "J Huang, G Zeng, Z Zhang",
+   "venue": "ENVIRONMENTAL CHEMISTRY-BEIJING- 26 (4), 468",
+   "year": "2007"
+  },
+  {
+   "title": "Engagement of single T cell receptor upregulates its ligand binding in subsecond time scale",
+   "authors": "VI Zarnitsina, Y Zhang, N Jiang, C Zhu",
+   "venue": "Journal of Biomechanics 39, S243",
+   "year": "2006"
+  },
+  {
+   "title": "The clinical value of 18 F-FDG PET/CT on interventional therapy of primary hepatocellular carcinomas",
+   "authors": "ZB Tan, M Zhao, PH Wu, FJ Zhang, YK Gu, L Zhang, JH Huang, W Fan",
+   "venue": "Jieru Fangshexue Zazhi(Journal of Interventional Radiology) 14 (6), 588-591",
+   "year": "2005"
+  },
+  {
+   "title": "Establishment of Swine Model of Acute Myocardial Infarction by Coronary Occlusion",
+   "authors": "XZ Lu, LS Wang, J Huang, XW Zhang, SL Xu, Z Pin-Jun, ZJ Yang, GS Ma, ...",
+   "venue": "CHINESE JOURNAL OF ARTERIOSCLEROSIS 12 (2), 218-220",
+   "year": "2004"
+  },
+  {
+   "title": "Special issue on unstructured information management from multimedia data sources",
+   "authors": "J Huang, M Padmanabhan, S Srinivasan",
+   "venue": "EURASIP JOURNAL ON APPLIED SIGNAL PROCESSING 2003 (2), 91-92",
+   "year": "2003"
+  },
+  {
+   "title": "轿车型号中\" T\" 的含义",
+   "authors": "李曼丽",
+   "venue": "驾驶园, 41",
+   "year": "2002"
+  },
+  {
+   "title": "Rare Decays Test of the Standard Model",
+   "authors": "L Gongru, X Zhaohua, C Yigang, H Jinshu",
+   "venue": "Communications in Theoretical Physics 31 (2), 277-284",
+   "year": "1999"
+  },
+  {
+   "title": "A product-oriented supply chain model to encourage supplier involvement in new product development",
+   "authors": "GQ Huang, KL Mak",
+   "venue": "Proceedings of 15th National Conference on Manufacturing Research",
+   "year": "1999"
+  },
+  {
+   "title": "Analysis of species composition of urban forest in Guangzhou City, China",
+   "authors": "S Juan, S Bing",
+   "venue": "",
+   "year": "1998"
+  },
+  {
+   "title": "Research and Development on Coated Fuel Particle for HTGR",
+   "authors": "J Zhu, B Yang, B Zhang, J Huang, S Xu",
+   "venue": "NUCLEAR POWER ENGINEERING 18, 258-263",
+   "year": "1997"
+  },
+  {
+   "title": "A study of asbestos-induced aneuploidy in Drosophila melanogaster",
+   "authors": "HB Wang, JQ Huang, S Kagamimori",
+   "venue": "9th International Conference on Occupational Respiratory Diseases, 884-889",
+   "year": "1997"
+  },
+  {
+   "title": "Protoplast fusion and somatic hybrid production of barley (Hordeum vulgare)",
+   "authors": "Y Changjing, H Jianhua",
+   "venue": "Acta Agriculturae Shanghai (China) 12 (4)",
+   "year": "1996"
+  },
+  {
+   "title": "Factors influencing the production of albino and green plant from barley (Hordeum vulgare) anther culture",
+   "authors": "H Jianhua, Z Yuhua",
+   "venue": "Acta Agriculturae Shanghai (China) 8 (4)",
+   "year": "1992"
+  },
+  {
+   "title": "Study on the nutrient prescription for low-nitrate, top-quality and high-yield foliage vegetables",
+   "authors": "H Jimao, D Kunsheng",
+   "venue": "Soils (China) 22 (4)",
+   "year": "1990"
+  },
+  {
+   "title": "Studies on the control of pine caterpillars [Dendrolimus tabulaeformis, Dendrolimus spectabiliz] with spraying ring of deltamethrin and fenvalerate on the tree trunk",
+   "authors": "S Changyi, L Zhenyu, H Jiyong",
+   "venue": "Journal of Beijing Forestry University (China) 11 (1)",
+   "year": "1989"
+  },
+  {
+   "title": "Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation",
+   "authors": "J Chen, Y Lu, X Wang, H Zeng, J Huang, J Gesi, Y Xu, B Yao, D Wang",
+   "venue": "ACL 2026",
+   "year": null
+  },
+  {
+   "title": "Supplementary Materials for “Real-Time Simulated Avatar from Head-Mounted Sensors”",
+   "authors": "Z Luo, J Cao, R Khirodkar, A Winkler, J Huang, K Kitani, W Xu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Chengyu JIANG Changyun WEN Mingyi HE Wen Xiang XIE",
+   "authors": "FL LUO, JBZJ HUANG, CC LIM, Z MAN, M MANIC, W CAI, B WEI",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "WHAT DO LANGUAGE MODELS KNOW ABOUT TIME?",
+   "authors": "S van Adrichem, A Bhaskar, J Huang, C Potts, D Yang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "FUMA: Forensic Unlearning Membership Attacks",
+   "authors": "M Mou, A Deepak, J Huang, D Yang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "LLM Agents That Act Like Us: Accurate Human Behavior Simulation with Real-World Data",
+   "authors": "QH Yuxuan Lu, Jing Huang, Yan Han, Bennet Bei, Yaochen Xie, Dakuo Wang ...",
+   "venue": "arXiv",
+   "year": null
+  },
+  {
+   "title": "Self-Supervised Object Detection from Egocentric Videos Supplementary Material",
+   "authors": "P Akiva, J Huang, KJ Liang, R Kovvuri, X Chen, M Feiszli, K Dana, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Stressing articulation: Decoding word-level prominence in Southwestern Mandarin",
+   "authors": "F Hsieh, J Huang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Draft, comments welcome!",
+   "authors": "F Hsieh, J Huang, Y Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Context-Situated Pun Generation",
+   "authors": "NP Jiao Sun, Anjali Narayan-Chen, Shereen Oraby, Shuyang Gao, Tagyoung Chung ...",
+   "venue": "EMNLP 2022",
+   "year": null
+  },
+  {
+   "title": "ExPUNations: Augmenting Puns with Keywords and Explanations",
+   "authors": "NP Jiao Sun, Anjali Narayan-Chen, Shereen Oraby, Alessandra Cervone ...",
+   "venue": "EMNLP 2022",
+   "year": null
+  },
+  {
+   "title": "Semantic Categorization of Social Knowledge for Commonsense Question Answering",
+   "authors": "JH Gengyu Wang, Xiaochen Hou, Diyi Yang, Kathleen McKeown",
+   "venue": "SustaiNLP, EMNLP 2021",
+   "year": null
+  },
+  {
+   "title": "A. ACADEMIC QUALIFICATION",
+   "authors": "A BUJANG",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "COMPRESSED SENSING: A NOVEL POLYNOMIAL COMPLEXITY SOLUTION TO NASH EQUILIBRIA IN DYNAMICAL GAMES",
+   "authors": "J Huang, L Wang, D Schonfeld",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Also in this Issue",
+   "authors": "D Jiang, Y Wang, Z Lv, W Wang, H Wang, M Shen, H Liu, L Zhu, K Xu, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Automatic Speech Recognition in CHIL",
+   "authors": "G Potamianos, L Lamel, M Wölfel, J Huang, E Marcheret, C Barras, X Zhu, ...",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

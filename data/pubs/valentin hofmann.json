@@ -1,0 +1,221 @@
+{
+ "user": "bbHOPKwAAAAJ",
+ "pubs": [
+  {
+   "title": "AI Generates Covertly Racist Decisions about People Based on Their Dialect",
+   "authors": "V Hofmann, PR Kalluri, D Jurafsky, S King",
+   "venue": "Nature",
+   "year": "2024"
+  },
+  {
+   "title": "Dolma: An Open Corpus of Three Trillion Tokens for Language Model Pretraining Research",
+   "authors": "L Soldaini, R Kinney, A Bhagia, D Schwenk, D Atkinson, R Authur, ...",
+   "venue": "ACL - 🏆 Best Resource Paper Award",
+   "year": "2024"
+  },
+  {
+   "title": "Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models",
+   "authors": "P Röttger*, V Hofmann*, V Pyatkin, M Hinck, HR Kirk, H Schütze, D Hovy",
+   "venue": "ACL - 🏆 Outstanding Paper Award",
+   "year": "2024"
+  },
+  {
+   "title": "Measuring what Matters: Construct Validity in Large Language Model Benchmarks",
+   "authors": "AM Bean, RO Kearns, A Romanou, FS Hafner, H Mayne, J Batzner, ...",
+   "venue": "NeurIPS",
+   "year": "2025"
+  },
+  {
+   "title": "Superbizarre Is Not Superb: Derivational Morphology Improves BERT’s Interpretation of Complex Words",
+   "authors": "V Hofmann, JB Pierrehumbert, H Schütze",
+   "venue": "ACL",
+   "year": "2021"
+  },
+  {
+   "title": "Dynamic Contextualized Word Embeddings",
+   "authors": "V Hofmann, JB Pierrehumbert, H Schütze",
+   "venue": "ACL",
+   "year": "2021"
+  },
+  {
+   "title": "An Embarrassingly Simple Method to Mitigate Undesirable Properties of Pretrained Language Model Tokenizers",
+   "authors": "V Hofmann, H Schütze, J Pierrehumbert",
+   "venue": "ACL",
+   "year": "2022"
+  },
+  {
+   "title": "The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative",
+   "authors": "L Weissweiler, V Hofmann, A Köksal, H Schütze",
+   "venue": "EMNLP",
+   "year": "2022"
+  },
+  {
+   "title": "SuperBPE: Space Travel for Language Models",
+   "authors": "A Liu, J Hayase, V Hofmann, S Oh, NA Smith, Y Choi",
+   "venue": "COLM",
+   "year": "2025"
+  },
+  {
+   "title": "Paloma: A Benchmark for Evaluating Language Model Fit",
+   "authors": "I Magnusson, A Bhagia, V Hofmann, L Soldaini, AH Jha, O Tafjord, ...",
+   "venue": "NeurIPS",
+   "year": "2024"
+  },
+  {
+   "title": "Counting the Bugs in ChatGPT's Wugs: A Multilingual Investigation into the Morphological Capabilities of a Large Language Model",
+   "authors": "L Weissweiler*, V Hofmann*, A Kantharuban, A Cai, R Dutt, A Hengle, ...",
+   "venue": "EMNLP",
+   "year": "2023"
+  },
+  {
+   "title": "Graph-Enhanced Large Language Models in Asynchronous Plan Reasoning",
+   "authors": "F Lin, E La Malfa, V Hofmann, EM Yang, A Cohn, JB Pierrehumbert",
+   "venue": "ICML",
+   "year": "2024"
+  },
+  {
+   "title": "Assessing Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks",
+   "authors": "F Lin, S Mao, E La Malfa, V Hofmann, A de Wynter, X Wang, SQ Chen, ...",
+   "venue": "ACL",
+   "year": "2025"
+  },
+  {
+   "title": "MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization",
+   "authors": "O Ahia, S Kumar, H Gonen, V Hofmann, T Limisiewicz, Y Tsvetkov, ...",
+   "venue": "NeurIPS",
+   "year": "2024"
+  },
+  {
+   "title": "DagoBERT: Generating Derivational Morphology with a Pretrained Language Model",
+   "authors": "V Hofmann, JB Pierrehumbert, H Schütze",
+   "venue": "EMNLP",
+   "year": "2020"
+  },
+  {
+   "title": "Fluid Language Model Benchmarking",
+   "authors": "V Hofmann, D Heineman, I Magnusson, K Lo, J Dodge, M Sap, PW Koh, ...",
+   "venue": "COLM",
+   "year": "2025"
+  },
+  {
+   "title": "The Reddit Politosphere: A Large-Scale Text and Network Resource of Online Political Discourse",
+   "authors": "V Hofmann, H Schütze, JB Pierrehumbert",
+   "venue": "ICWSM",
+   "year": "2022"
+  },
+  {
+   "title": "Derivational Morphology Reveals Analogical Generalization in Large Language Models",
+   "authors": "V Hofmann, L Weissweiler, D Mortensen, H Schütze, J Pierrehumbert",
+   "venue": "PNAS",
+   "year": "2025"
+  },
+  {
+   "title": "Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity",
+   "authors": "V Hofmann, X Dong, J Pierrehumbert, H Schütze",
+   "venue": "NAACL Findings",
+   "year": "2022"
+  },
+  {
+   "title": "BLAB: Brutally Long Audio Bench",
+   "authors": "O Ahia, M Bartelds, K Ahuja, H Gonen, V Hofmann, S Arora, SS Li, ...",
+   "venue": "arXiv:2505.03054",
+   "year": "2025"
+  },
+  {
+   "title": "IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance",
+   "authors": "P Röttger, M Hinck, V Hofmann, K Hackenburg, V Pyatkin, F Brahman, ...",
+   "venue": "TACL",
+   "year": "2026"
+  },
+  {
+   "title": "Geographic Adaptation of Pretrained Language Models",
+   "authors": "V Hofmann, G Glavaš, N Ljubešić, JB Pierrehumbert, H Schütze",
+   "venue": "TACL",
+   "year": "2024"
+  },
+  {
+   "title": "Signal and Noise: A Framework for Reducing Uncertainty in Language Model Evaluation",
+   "authors": "D Heineman, V Hofmann, I Magnusson, Y Gu, NA Smith, H Hajishirzi, ...",
+   "venue": "NeurIPS",
+   "year": "2025"
+  },
+  {
+   "title": "Aligned but Blind: Alignment Increases Implicit Bias by Reducing Awareness of Race",
+   "authors": "L Sun, C Mao, V Hofmann, X Bai",
+   "venue": "ACL",
+   "year": "2025"
+  },
+  {
+   "title": "Large Language Models Discriminate Against Speakers of German Dialects",
+   "authors": "MD Bui, C Holtermann, V Hofmann, A Lauscher, K von der Wense",
+   "venue": "EMNLP",
+   "year": "2025"
+  },
+  {
+   "title": "A Graph Auto-Encoder Model of Derivational Morphology",
+   "authors": "V Hofmann, H Schütze, JB Pierrehumbert",
+   "venue": "ACL",
+   "year": "2020"
+  },
+  {
+   "title": "Predicting the Growth of Morphological Families from Social and Linguistic Factors",
+   "authors": "V Hofmann, JB Pierrehumbert, H Schütze",
+   "venue": "ACL",
+   "year": "2020"
+  },
+  {
+   "title": "Bolmo: Byteifying the Next Generation of Language Models",
+   "authors": "B Minixhofer, T Murray, T Limisiewicz, A Korhonen, L Zettlemoyer, ...",
+   "venue": "arXiv:2512.15586",
+   "year": "2025"
+  },
+  {
+   "title": "Explaining Pretrained Language Models' Understanding of Linguistic Structures Using Construction Grammar",
+   "authors": "L Weissweiler, V Hofmann, A Köksal, H Schütze",
+   "venue": "Frontiers in Artificial Intelligence",
+   "year": "2023"
+  },
+  {
+   "title": "Different Demographic Cues Yield Inconsistent Conclusions About LLM Personalization and Bias",
+   "authors": "M Tonneau, NKR Sehgal, N Malhotra, S Kazemi, V Orozco-Olvera, ...",
+   "venue": "EMNLP",
+   "year": "2026"
+  },
+  {
+   "title": "CaMEL: Case Marker Extraction without Labels",
+   "authors": "L Weissweiler, V Hofmann, MJ Sabet, H Schütze",
+   "venue": "ACL",
+   "year": "2022"
+  },
+  {
+   "title": "Can Large Language Models Generalize Procedures Across Representations?",
+   "authors": "F Lin, V Hofmann, X Wan, W Wang, Z Ding, AG Cohn, JB Pierrehumbert",
+   "venue": "ICML",
+   "year": "2026"
+  },
+  {
+   "title": "Greater Accessibility Can Amplify Discrimination in Generative AI",
+   "authors": "C Holtermann, MD Bui, K Zhou, V Hofmann, K von der Wense, ...",
+   "venue": "arXiv:2603.22260",
+   "year": "2026"
+  },
+  {
+   "title": "Unsupervised Detection of Contextualized Embedding Bias with Application to Ideology",
+   "authors": "V Hofmann, J Pierrehumbert, H Schütze",
+   "venue": "ICML",
+   "year": "2022"
+  },
+  {
+   "title": "Modeling Social Context in Natural Language Processing",
+   "authors": "V Hofmann",
+   "venue": "LMU Munich",
+   "year": "2026"
+  },
+  {
+   "title": "Computational Investigations of Derivational Morphology",
+   "authors": "V Hofmann",
+   "venue": "University of Oxford",
+   "year": "2023"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "user": "N0nX2VsAAAAJ",
+ "pubs": [
+  {
+   "title": "Bias runs deep: Implicit reasoning biases in persona-assigned llms",
+   "authors": "S Gupta, V Shrivastava, A Deshpande, A Kalyan, P Clark, A Sabharwal, ...",
+   "venue": "International Conference on Learning Representations 2024, 21849-21874",
+   "year": "2024"
+  },
+  {
+   "title": "Phi-4-reasoning Technical Report",
+   "authors": "M Abdin, S Agarwal, A Awadallah, V Balachandran, H Behl, L Chen, ...",
+   "venue": "arXiv preprint arXiv:2504.21318",
+   "year": "2025"
+  },
+  {
+   "title": "Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning",
+   "authors": "V Shrivastava, A Awadallah, V Balachandran, S Garg, H Behl, ...",
+   "venue": "International Conference on Learning Representations 2025",
+   "year": "2025"
+  },
+  {
+   "title": "Benchmarking and improving generator-validator consistency of language models",
+   "authors": "X LI, V Shrivastava, S Li, T Hashimoto, P Liang",
+   "venue": "International Conference on Learning Representations 2024, 44038-44055",
+   "year": "2024"
+  },
+  {
+   "title": "Llamas Know What GPTs Don't Show: Surrogate Models for Confidence Estimation",
+   "authors": "V Shrivastava, P Liang, A Kumar",
+   "venue": "arXiv preprint arXiv:2311.08877",
+   "year": "2023"
+  },
+  {
+   "title": "UserIdentifier: Implicit User Representations for Simple and Effective Personalized Sentiment Analysis",
+   "authors": "F Mireshghallah, V Shrivastava, M Shokouhi, T Berg-Kirkpatrick, R Sim, ...",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Wait, Wait, Wait... Why Do Reasoning Models Loop?",
+   "authors": "C Pipis, S Garg, V Kontonis, V Shrivastava, A Krishnamurthy, ...",
+   "venue": "International Conference on Machine Learning (ICML) 2026",
+   "year": "2025"
+  },
+  {
+   "title": "Language Models Prefer What They Know: Relative Confidence Estimation via Confidence Preferences",
+   "authors": "V Shrivastava, A Kumar, P Liang",
+   "venue": "arXiv preprint arXiv:2502.01126",
+   "year": "2025"
+  },
+  {
+   "title": "ECHO: Terminal Agents Learn World Models for Free",
+   "authors": "V Shrivastava, P Kauffmann, A Awadallah, D Papailiopoulos",
+   "venue": "arXiv preprint arXiv:2605.24517",
+   "year": "2026"
+  },
+  {
+   "title": "Personalized natural language processing system",
+   "authors": "DB Dimitriadis, V SHRIVASTAVA, M Shokouhi, RA Sim, F Mireshghallah",
+   "venue": "US Patent 12,182,511",
+   "year": "2024"
+  },
+  {
+   "title": "SuperThoughts: Reasoning Tokens in Superposition",
+   "authors": "Z Xiong, S Garg, M Yu, V Shrivastava, H Zhao, A Kyrillidis, ...",
+   "venue": "arXiv preprint arXiv:2606.13862",
+   "year": "2026"
+  },
+  {
+   "title": "Exploring Low-Cost Transformer Model Compression for Large-Scale Commercial Reply Suggestions",
+   "authors": "V Shrivastava, R Gaonkar, S Gupta, A Jha",
+   "venue": "arXiv preprint arXiv:2111.13999",
+   "year": "2021"
+  },
+  {
+   "title": "Enhancement of osteogenesis and stem cell differentiation by injectable nanocomposite and dynamic acoustic radiation force stimulation",
+   "authors": "V Shrivastava, S Patel, M Hu, S Pongkitwitoon, B Sitharaman, YX Qin",
+   "venue": "Journal of the Acoustical Society of America 137 (4_Supplement), 2314-2314",
+   "year": "2015"
+  },
+  {
+   "title": "Not All Thoughts Matter: Selective Attention for Efficient Reasoning",
+   "authors": "H Tang, G Zheng, K Gandhi, H Behl, V Shrivastava, M Javaheripi, K Ellis, ...",
+   "venue": "NeurIPS 2025 Workshop on Efficient Reasoning",
+   "year": null
+  }
+ ]
+}

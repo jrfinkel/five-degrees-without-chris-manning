@@ -1,0 +1,197 @@
+{
+ "user": "omV8LksAAAAJ",
+ "pubs": [
+  {
+   "title": "Towards scalable multi-domain conversational agents: The schema-guided dialogue dataset",
+   "authors": "A Rastogi, X Zang, S Sunkara, R Gupta, P Khaitan",
+   "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (05), 8689-8696",
+   "year": "2020"
+  },
+  {
+   "title": "A fast unified model for parsing and sentence understanding",
+   "authors": "SR Bowman, J Gauthier, A Rastogi, R Gupta, CD Manning, C Potts",
+   "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational …",
+   "year": "2016"
+  },
+  {
+   "title": "MultiWOZ 2.2: A dialogue dataset with additional annotation corrections and state tracking baselines",
+   "authors": "X Zang, A Rastogi, S Sunkara, R Gupta, J Zhang, J Chen",
+   "venue": "Proceedings of the 2nd workshop on natural language processing for …",
+   "year": "2020"
+  },
+  {
+   "title": "Robust zero-shot cross-domain slot filling with example values",
+   "authors": "D Shah, R Gupta, A Fayazi, D Hakkani-Tur",
+   "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Overview of the eighth dialog system technology challenge: DSTC8",
+   "authors": "S Kim, M Galley, C Gunasekara, S Lee, A Atkinson, B Peng, H Schulz, ...",
+   "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 29, 2529-2540",
+   "year": "2021"
+  },
+  {
+   "title": "Optimal cost almost-sure reachability in POMDPs",
+   "authors": "K Chatterjee, M Chmelik, R Gupta, A Kanodia",
+   "venue": "Artificial Intelligence 234, 26-48",
+   "year": "2016"
+  },
+  {
+   "title": "Extremely small BERT models from mixed-vocabulary training",
+   "authors": "S Zhao, R Gupta, Y Song, D Zhou",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Description-driven task-oriented dialog modeling",
+   "authors": "J Zhao, R Gupta, Y Cao, D Yu, M Wang, H Lee, A Rastogi, I Shafran, Y Wu",
+   "venue": "arXiv preprint arXiv:2201.08904",
+   "year": "2022"
+  },
+  {
+   "title": "Qualitative analysis of POMDPs with temporal logic specifications for robotics applications",
+   "authors": "K Chatterjee, M Chmelik, R Gupta, A Kanodia",
+   "venue": "2015 IEEE International Conference on Robotics and Automation (ICRA), 325-330",
+   "year": "2015"
+  },
+  {
+   "title": "Multi-task learning for joint language understanding and dialogue state tracking",
+   "authors": "A Rastogi, R Gupta, D Hakkani-Tur",
+   "venue": "Proceedings of the 19th Annual SIGdial Meeting on Discourse and Dialogue …",
+   "year": "2018"
+  },
+  {
+   "title": "Schema-guided dialogue state tracking task at DSTC8",
+   "authors": "A Rastogi, X Zang, S Sunkara, R Gupta, P Khaitan",
+   "venue": "arXiv preprint arXiv:2002.01359",
+   "year": "2020"
+  },
+  {
+   "title": "Conditional language policy: A general framework for steerable multi-objective finetuning",
+   "authors": "K Wang, R Kidambi, R Sullivan, A Agarwal, C Dann, A Michi, M Gelmi, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 2153-2186",
+   "year": "2024"
+  },
+  {
+   "title": "Sgd-x: A benchmark for robust generalization in schema-guided dialogue systems",
+   "authors": "H Lee, R Gupta, A Rastogi, Y Cao, B Zhang, Y Wu",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (10), 10938 …",
+   "year": "2022"
+  },
+  {
+   "title": "Show, don’t tell: Demonstrations outperform descriptions for schema-guided task-oriented dialogue",
+   "authors": "R Gupta, H Lee, J Zhao, Y Cao, A Rastogi, Y Wu",
+   "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Plead or pitch? The role of language in kickstarter project success",
+   "authors": "N Desai, R Gupta, K Truong",
+   "venue": "Stanford University. Retrieved October 13, 2016",
+   "year": "2015"
+  },
+  {
+   "title": "An efficient approach to encoding context for spoken language understanding",
+   "authors": "R Gupta, A Rastogi, D Hakkani-Tur",
+   "venue": "arXiv preprint arXiv:1807.00267",
+   "year": "2018"
+  },
+  {
+   "title": "Dialogue systems",
+   "authors": "D Hakkani-Tur, AK Rastogi, R Gupta",
+   "venue": "US Patent App. 17/273,555",
+   "year": "2021"
+  },
+  {
+   "title": "Robust multi-objective preference alignment with online DPO",
+   "authors": "R Gupta, R Sullivan, Y Li, S Phatale, A Rastogi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (26), 27321 …",
+   "year": "2025"
+  },
+  {
+   "title": "Anytod: A programmable task-oriented dialog system",
+   "authors": "J Zhao, Y Cao, R Gupta, H Lee, A Rastogi, M Wang, H Soltau, I Shafran, ...",
+   "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language …",
+   "year": "2023"
+  },
+  {
+   "title": "Schema-guided response generation",
+   "authors": "AK Rastogi, R Gupta, X Zang, SK Sunkara, P Khaitan",
+   "venue": "US Patent 11,551,159",
+   "year": "2023"
+  },
+  {
+   "title": "Extreme Language Model Compression with Optimal Sub-Words and Shared Projections",
+   "authors": "Y Song, R Gupta, D Zhou, S Zhao",
+   "venue": "US Patent App. 16/749,570",
+   "year": "2021"
+  },
+  {
+   "title": "Conversational recommendation as retrieval: A simple, strong baseline",
+   "authors": "R Gupta, R Aksitov, S Phatale, S Chaudhary, H Lee, A Rastogi",
+   "venue": "Proceedings of the 5th Workshop on NLP for Conversational AI (NLP4ConvAI …",
+   "year": "2023"
+  },
+  {
+   "title": "Biological auctions with multiple rewards",
+   "authors": "JG Reiter, A Kanodia, R Gupta, MA Nowak, K Chatterjee",
+   "venue": "Proceedings of the Royal Society B: Biological Sciences 282 (1812), 20151041",
+   "year": "2015"
+  },
+  {
+   "title": "Description-driven task-oriented dialogue modeling",
+   "authors": "R Gupta, Y Cao, AK Rastogi, HJ Lee, JL Zhao",
+   "venue": "US Patent 12,632,664",
+   "year": "2026"
+  },
+  {
+   "title": "driven Scalable Task-oriented Dialogue Modeling",
+   "authors": "R Gupta, Y Cao, AK Rastogi, HJ Lee, JL Zhao",
+   "venue": "US Patent App. 18/148,037",
+   "year": "2024"
+  },
+  {
+   "title": "Scalable Schema-Guided Dialogue State Tracking",
+   "authors": "A Rastogi, A Fayazi, R Gupta, U Rueckert, J Chen, DT Proposal",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Extensions to Tree-Recursive Neural Networks for Natural Language Inference",
+   "authors": "R Gupta, N Desai",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Extreme language model compression with optimal sub-words and shared projections",
+   "authors": "Y Song, R Gupta, D Zhou, S Zhao",
+   "venue": "US Patent 12,260,340",
+   "year": "2025"
+  },
+  {
+   "title": "Schema-guided natural language generation",
+   "authors": "S Oraby, V Perera, Y Du, M Shen, T Chung, A Narayan-Chen, ...",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Modeling and Detecting Shifts in International Community Structure",
+   "authors": "A Kanodia, R Gupta, P Agrawal",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "MIML Learning with CNNs: Yelp Restaurant Photo Classification",
+   "authors": "P Agrawal, R Gupta",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "PPS: User Manual",
+   "authors": "K Chatterjee, M Chmelik, R Gupta, A Kanodia",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

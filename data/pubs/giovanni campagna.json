@@ -1,0 +1,167 @@
+{
+ "user": "fOioY3wAAAAJ",
+ "pubs": [
+  {
+   "title": "Almond: The architecture of an open, crowdsourced, privacy-preserving, programmable virtual assistant",
+   "authors": "G Campagna, R Ramesh, S Xu, M Fischer, MS Lam",
+   "venue": "Proceedings of the 26th International Conference on World Wide Web, 341-350",
+   "year": "2017"
+  },
+  {
+   "title": "Zero-shot transfer learning with synthesized data for multi-domain dialogue state tracking",
+   "authors": "G Campagna, A Foryciarz, M Moradshahi, M Lam",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Genie: A generator of natural language semantic parsers for virtual assistant commands",
+   "authors": "G Campagna, S Xu, M Moradshahi, R Socher, MS Lam",
+   "venue": "Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Grounding open-domain instructions to automate web support tasks",
+   "authors": "N Xu, S Masling, M Du, G Campagna, L Heck, J Landay, M Lam",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "AutoQA: From databases to QA semantic parsers with only synthetic training data",
+   "authors": "S Xu, S Semnani, G Campagna, M Lam",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "DIY assistant: a multi-modal end-user programmable virtual assistant",
+   "authors": "MH Fischer, G Campagna, E Choi, MS Lam",
+   "venue": "Proceedings of the 42nd ACM SIGPLAN International Conference on Programming …",
+   "year": "2021"
+  },
+  {
+   "title": "Controlling fine-grain sharing in natural language with a virtual assistant",
+   "authors": "G Campagna, S Xu, R Ramesh, M Fischer, MS Lam",
+   "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …",
+   "year": "2018"
+  },
+  {
+   "title": "Wilbur: Adaptive in-context learning for robust and accurate web agents",
+   "authors": "M Lutz, A Bohra, M Saroyan, A Harutyunyan, G Campagna",
+   "venue": "arXiv preprint arXiv:2404.05902",
+   "year": "2024"
+  },
+  {
+   "title": "Schema2qa: High-quality and low-cost q&a agents for the structured web",
+   "authors": "S Xu, G Campagna, J Li, MS Lam",
+   "venue": "Proceedings of the 29th ACM International Conference on Information …",
+   "year": "2020"
+  },
+  {
+   "title": "Localizing open-ontology QA semantic parsers in a day using machine translation",
+   "authors": "M Moradshahi, G Campagna, S Semnani, S Xu, M Lam",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Efficient communication and collection with compact normal forms",
+   "authors": "EZ Yang, G Campagna, ÖS Ağacan, A El-Hassany, A Kulkarni, ...",
+   "venue": "Proceedings of the 20th ACM SIGPLAN International Conference on Functional …",
+   "year": "2015"
+  },
+  {
+   "title": "Brassau: Automatically generating graphical user interfaces for virtual assistants",
+   "authors": "M Fischer, G Campagna, S Xu, MS Lam",
+   "venue": "Proceedings of the 20th International Conference on Human-Computer …",
+   "year": "2018"
+  },
+  {
+   "title": "Neural generation meets real people: Building a social, informative open-domain dialogue agent",
+   "authors": "EA Chi, A Paranjape, A See, C Chiam, T Chang, K Kenealy, SK Lim, ...",
+   "venue": "Proceedings of the 23rd Annual Meeting of the Special Interest Group on …",
+   "year": "2022"
+  },
+  {
+   "title": "A few-shot semantic parser for Wizard-of-Oz dialogues with the precise ThingTalk representation",
+   "authors": "G Campagna, S Semnani, R Kearns, LJK Sato, S Xu, M Lam",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2022, 4021-4034",
+   "year": "2022"
+  },
+  {
+   "title": "Contextual semantic parsing for multilingual task-oriented dialogues",
+   "authors": "M Moradshahi, V Tsai, G Campagna, M Lam",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Thingtalk: An extensible, executable representation language for task-oriented dialogues",
+   "authors": "MS Lam, G Campagna, M Moradshahi, SJ Semnani, S Xu",
+   "venue": "arXiv preprint arXiv:2203.12751",
+   "year": "2022"
+  },
+  {
+   "title": "Soteria: A provably compliant user right manager using a novel two-layer blockchain technology",
+   "authors": "WK Fu, YS Lin, G Campagna, CT Liu, DY Tsai, CH Mei, EY Chang, ...",
+   "venue": "2020 IEEE Infrastructure Conference, 1-10",
+   "year": "2020"
+  },
+  {
+   "title": "Byoc: Personalized few-shot classification with co-authored class descriptions",
+   "authors": "A Bohra, G Verkes, A Harutyunyan, P Weinberger, G Campagna",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 13999 …",
+   "year": "2023"
+  },
+  {
+   "title": "Weblists: Extracting structured information from complex interactive websites using executable llm agents",
+   "authors": "A Bohra, M Saroyan, D Melkozerov, V Karufanyan, G Maher, ...",
+   "venue": "arXiv preprint arXiv:2504.12682",
+   "year": "2025"
+  },
+  {
+   "title": "Protecting privacy and open competition with Almond: An open-source virtual assistant",
+   "authors": "MS Lam, G Campagna, S Xu, M Fischer, M Moradshahi",
+   "venue": "XRDS: Crossroads, The ACM Magazine for Students 26 (1), 40-44",
+   "year": "2019"
+  },
+  {
+   "title": "A distributed open social platform for mobile devices",
+   "authors": "MS Lam, G Campagna, J Seo, M Fischer",
+   "venue": "Proceedings of the International Conference on Mobile Software Engineering …",
+   "year": "2016"
+  },
+  {
+   "title": "Genie: A Data-Efficient Platform for Programmable, Privacy-Preserving Virtual Assistants",
+   "authors": "G Campagna",
+   "venue": "Stanford University",
+   "year": "2021"
+  },
+  {
+   "title": "Deep Almond: A Deep Learning-based Virtual Assistant",
+   "authors": "GCR Ramesh",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Sabrina: A Decentralized, Trigger-Action Based System for the Internet of Things",
+   "authors": "G Campagna, A Chen, R Tuason",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Live Haskell: An Integrated Editing and Debugging Tool for Haskell",
+   "authors": "V Jain, N Dodhia, G Campagna",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Privacy-preserving, location-based queries using DHTs and R-Trees",
+   "authors": "G Campagna, K Santhanam",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Exploring review quality and social network influence in the Yelp Academic Dataset",
+   "authors": "T Dahlke, G Campagna, T Seidakhmetov",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

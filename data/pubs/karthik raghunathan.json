@@ -1,0 +1,131 @@
+{
+ "user": "cEIzj5kAAAAJ",
+ "pubs": [
+  {
+   "title": "A multi-pass sieve for coreference resolution",
+   "authors": "K Raghunathan, H Lee, S Rangarajan, N Chambers, M Surdeanu, ...",
+   "venue": "Proceedings of the 2010 conference on empirical methods in natural language …",
+   "year": "2010"
+  },
+  {
+   "title": "Mobile query reformulations",
+   "authors": "M Shokouhi, R Jones, U Ozertem, K Raghunathan, F Diaz",
+   "venue": "Proceedings of the 37th international ACM SIGIR conference on Research …",
+   "year": "2014"
+  },
+  {
+   "title": "Investigating SMS text normalization using statistical machine translation",
+   "authors": "K Raghunathan, S Krawczyk",
+   "venue": "Department of Computer Science, Stanford University",
+   "year": "2009"
+  },
+  {
+   "title": "Automatic speech recognition correction",
+   "authors": "K Raghunathan, A Raghuvanshi, VR Thimmaiyah, LS Carroll, VR Embar",
+   "venue": "US Patent 11,482,213",
+   "year": "2022"
+  },
+  {
+   "title": "Tagez: Flickr tag recommendation",
+   "authors": "A Anderson, K Ranghunathan, A Vogel",
+   "venue": "Association for the Advancement of Artificial Intelligence 3",
+   "year": "2008"
+  },
+  {
+   "title": "Entity resolution for noisy ASR transcripts",
+   "authors": "A Raghuvanshi, V Ramakrishnan, V Embar, L Carroll, K Raghunathan",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Interactive reformulation of speech queries",
+   "authors": "B Dumoulin, A Ahmadi, S Parthasarathy, N Craswell, U Ozertem, ...",
+   "venue": "US Patent 10,176,219",
+   "year": "2019"
+  },
+  {
+   "title": "Evaluating Pretrained Transformer Models for Entity Linking in Task-Oriented Dialog",
+   "authors": "S Muralidhar Jayanthi, V Embar, K Raghunathan",
+   "venue": "arXiv e-prints, arXiv: 2112.08327",
+   "year": "2021"
+  },
+  {
+   "title": "Automatic extraction of conversation highlights",
+   "authors": "VR Embar, K Raghunathan",
+   "venue": "US Patent App. 17/006,403",
+   "year": "2022"
+  },
+  {
+   "title": "Eye Spy: Improving Vision through Dialog.",
+   "authors": "A Vogel, K Raghunathan, D Jurafsky",
+   "venue": "AAAI Fall Symposium: Dialog with Robots",
+   "year": "2010"
+  },
+  {
+   "title": "Demystifying the American graduate admissions process",
+   "authors": "K Raghunathan",
+   "venue": "StudyMode. com",
+   "year": "2010"
+  },
+  {
+   "title": "Developing production-level conversational interfaces with shallow semantic parsing",
+   "authors": "A Raghuvanshi, L Carroll, K Raghunathan",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Transcription correction using multi-token structures",
+   "authors": "M Levit, U Ozertem, S Parthasarathy, P Varadharajan, K Raghunathan, ...",
+   "venue": "US Patent 9,384,188",
+   "year": "2016"
+  },
+  {
+   "title": "LLM-Based Insight Extraction for Contact Center Analytics and Cost-Efficient Deployment",
+   "authors": "V Embar, R Shrivastava, V Damodaran, T Mehlinger, YC Hsiao, ...",
+   "venue": "arXiv preprint arXiv:2503.19090",
+   "year": "2025"
+  },
+  {
+   "title": "Simple Coreference Resolution with Rich Syntactic and Semantic Features: Is it enough?",
+   "authors": "K Raghunathan",
+   "venue": "Stanford University Stanford",
+   "year": "2010"
+  },
+  {
+   "title": "A Situated, Embodied Spoken Language System for Household Robotics",
+   "authors": "A Vogel, K Raghunathan, S Krawczyk",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "Automatic extraction of conversation highlights",
+   "authors": "VR Embar, K Raghunathan",
+   "venue": "US Patent 12,555,580",
+   "year": "2026"
+  },
+  {
+   "title": "Dynamic user personalization using large language models",
+   "authors": "CR Liu, K Raghunathan",
+   "venue": "US Patent App. 18/795,353",
+   "year": "2026"
+  },
+  {
+   "title": "Automatic speech recognition correction",
+   "authors": "K Raghunathan, A Raghuvanshi, VR Thimmaiyah, LS Carroll, VR Embar",
+   "venue": "US Patent 12,300,225",
+   "year": "2025"
+  },
+  {
+   "title": "AUTOMATING UNSUPERVISED TOPIC TREND DETECTION IN CALL CENTERS",
+   "authors": "V Embar, R Shrivastava, K Raghunathan",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Transcription correction using multi-token structures",
+   "authors": "M Levit, U Ozertem, S Parthasarathy, P Varadharajan, K Raghunathan, ...",
+   "venue": "US Patent 9,460,081",
+   "year": "2016"
+  }
+ ]
+}

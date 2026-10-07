@@ -1,0 +1,137 @@
+{
+ "user": "juoUSMgAAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Stanford alpaca: An instruction-following llama model",
+   "authors": "R Taori, I Gulrajani, T Zhang, Y Dubois, X Li, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Openclip",
+   "authors": "G Ilharco, M Wortsman, N Carlini, R Taori, A Dave, V Shankar, ...",
+   "venue": "Zenodo",
+   "year": "2021"
+  },
+  {
+   "title": "Alpacaeval: An automatic evaluator of instruction-following models",
+   "authors": "X Li, T Zhang, Y Dubois, R Taori, I Gulrajani, C Guestrin, P Liang, ...",
+   "venue": "",
+   "year": "2023"
+  },
+  {
+   "title": "Alpacafarm: A simulation framework for methods that learn from human feedback",
+   "authors": "Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 30039-30069",
+   "year": "2023"
+  },
+  {
+   "title": "Measuring Robustness to Natural Distribution Shifts in Image Classification",
+   "authors": "R Taori, A Dave, V Shankar, N Carlini, B Recht, L Schmidt",
+   "venue": "Advances in Neural Information Processing Systems 33",
+   "year": "2020"
+  },
+  {
+   "title": "Accuracy on the line: on the strong correlation between out-of-distribution and in-distribution generalization",
+   "authors": "JP Miller, R Taori, A Raghunathan, S Sagawa, PW Koh, V Shankar, ...",
+   "venue": "International conference on machine learning, 7721-7735",
+   "year": "2021"
+  },
+  {
+   "title": "Agent ai: Surveying the horizons of multimodal interaction",
+   "authors": "Z Durante, Q Huang, N Wake, R Gong, JS Park, B Sarkar, R Taori, Y Noda, ...",
+   "venue": "arXiv preprint arXiv:2401.03568",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Targeted adversarial examples for black box audio systems",
+   "authors": "R Taori, A Kamsetty, B Chu, N Vemuri",
+   "venue": "2019 IEEE security and privacy workshops (SPW), 15-20",
+   "year": "2019"
+  },
+  {
+   "title": "Are we learning yet? a meta review of evaluation failures across machine learning",
+   "authors": "T Liao, R Taori, ID Raji, L Schmidt",
+   "venue": "Thirty-fifth Conference on Neural Information Processing Systems Datasets …",
+   "year": "2021"
+  },
+  {
+   "title": "Visit-bench: A benchmark for vision-language instruction following inspired by real-world use",
+   "authors": "Y Bitton, H Bansal, J Hessel, R Shao, W Zhu, A Awadalla, J Gardner, ...",
+   "venue": "arXiv preprint arXiv:2308.06595",
+   "year": "2023"
+  },
+  {
+   "title": "Data feedback loops: Model-driven amplification of dataset biases",
+   "authors": "R Taori, T Hashimoto",
+   "venue": "International conference on machine learning, 33883-33920",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Is a caption worth a thousand images? a controlled study for representation learning",
+   "authors": "S Santurkar, Y Dubois, R Taori, P Liang, T Hashimoto",
+   "venue": "arXiv preprint arXiv:2207.07635",
+   "year": "2022"
+  },
+  {
+   "title": "An interactive agent foundation model",
+   "authors": "Z Durante, R Gong, B Sarkar, N Wake, R Taori, P Tang, S Lakshmikanth, ...",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2025"
+  },
+  {
+   "title": "Position paper: Agent ai towards a holistic intelligence",
+   "authors": "Q Huang, N Wake, B Sarkar, Z Durante, R Gong, R Taori, Y Noda, ...",
+   "venue": "arXiv preprint arXiv:2403.00833",
+   "year": "2024"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Autoregressive models: What are they good for?",
+   "authors": "M Dalal, AC Li, R Taori",
+   "venue": "arXiv preprint arXiv:1910.07737",
+   "year": "2019"
+  },
+  {
+   "title": "Transposer: Universal texture synthesis using feature maps as transposed convolution filter",
+   "authors": "G Liu, R Taori, TC Wang, Z Yu, S Liu, FA Reda, K Sapra, A Tao, ...",
+   "venue": "arXiv preprint arXiv:2007.07243",
+   "year": "2020"
+  },
+  {
+   "title": "Ingredients for Accessible and Sustainable Language Models",
+   "authors": "RR Taori",
+   "venue": "Stanford University",
+   "year": "2024"
+  },
+  {
+   "title": "Benchmarking Multi-Domain Active Learning on Image Classification",
+   "authors": "J Li, R Taori, TB Hashimoto",
+   "venue": "arXiv preprint arXiv:2312.00364",
+   "year": "2023"
+  }
+ ]
+}

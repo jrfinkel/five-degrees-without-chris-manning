@@ -1,0 +1,383 @@
+{
+ "user": "xj666rUAAAAJ",
+ "pubs": [
+  {
+   "title": "How johnny can persuade llms to jailbreak them: Rethinking persuasion to challenge ai safety by humanizing llms",
+   "authors": "Y Zeng, H Lin, J Zhang, D Yang, R Jia, W Shi",
+   "venue": "🏆 ACL 2024 Best Social Impact Paper",
+   "year": "2024"
+  },
+  {
+   "title": "Human-level play in the game of Diplomacy by combining language models with strategic reasoning",
+   "authors": "Meta Fundamental AI Research Diplomacy Team (FAIR)†, A Bakhtin, ...",
+   "venue": "Science 378 (6624), 1067-1074",
+   "year": "2022"
+  },
+  {
+   "title": "Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good",
+   "authors": "X Wang*, W Shi*, R Kim, Y Oh, S Yang, J Zhang, Z Yu",
+   "venue": "🏆 ACL 2019 Best Paper Nomination",
+   "year": "2019"
+  },
+  {
+   "title": "Inspired: Toward sociable recommendation dialog systems",
+   "authors": "SA Hayati, D Kang, Q Zhu, W Shi, Z Yu",
+   "venue": "EMNLP 2020",
+   "year": "2020"
+  },
+  {
+   "title": "Privacylens: Evaluating privacy norm awareness of language models in action",
+   "authors": "Y Shao, T Li, W Shi, Y Liu, D Yang",
+   "venue": "Advances in Neural Information Processing Systems 37, 89373-89407",
+   "year": "2024"
+  },
+  {
+   "title": "The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation",
+   "authors": "R Xu, BS Lin, S Yang, T Zhang, W Shi, T Zhang, Z Fang, W Xu, H Qiu",
+   "venue": "🏆 ACL 2024 Outstanding Paper",
+   "year": "2023"
+  },
+  {
+   "title": "Effects of persuasive dialogues: testing bot identities and inquiry strategies",
+   "authors": "W Shi, X Wang, YJ Oh, J Zhang, S Sahay, Z Yu",
+   "venue": "Proceedings of the 2020 CHI conference on human factors in computing systems …",
+   "year": "2020"
+  },
+  {
+   "title": "Verbalized sampling: How to mitigate mode collapse and unlock llm diversity",
+   "authors": "J Zhang, S Yu, D Chong, A Sicilia, MR Tomz, CD Manning, W Shi",
+   "venue": "arXiv preprint arXiv:2510.01171",
+   "year": "2025"
+  },
+  {
+   "title": "Culturebank: An online community-driven knowledge base towards culturally aware language technologies",
+   "authors": "W Shi, R Li, Y Zhang, C Ziems, S Yu, R Horesh, RA De Paula, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 4996-5025",
+   "year": "2024"
+  },
+  {
+   "title": "Spiral: Self-play on zero-sum games incentivizes reasoning via multi-agent multi-turn reinforcement learning",
+   "authors": "B Liu, S Yu, Z Liu, L Guertler, P Qi, D Balcells, M Liu, C Tan, W Shi, M Lin, ...",
+   "venue": "International Conference on Learning Representations 2026, 35407-35434",
+   "year": "2026"
+  },
+  {
+   "title": "Just fine-tune twice: Selective differential privacy for large language models",
+   "authors": "W Shi, R Shea, S Chen, C Zhang, R Jia, Z Yu",
+   "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language …",
+   "year": "2022"
+  },
+  {
+   "title": "A safe harbor for ai evaluation and red teaming",
+   "authors": "S Longpre, S Kapoor, K Klyman, A Ramaswami, R Bommasani, ...",
+   "venue": "arXiv preprint arXiv:2403.04893",
+   "year": "2024"
+  },
+  {
+   "title": "Selective differential privacy for language modeling",
+   "authors": "W Shi, A Cui, E Li, R Jia, Z Yu",
+   "venue": "NAACL 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Proactive conversational agents with inner thoughts",
+   "authors": "XB Liu, S Fang, W Shi, CS Wu, T Igarashi, XA Chen",
+   "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems …",
+   "year": "2025"
+  },
+  {
+   "title": "Llms encode harmfulness and refusal separately",
+   "authors": "J Zhao, J Huang, Z Wu, D Bau, W Shi",
+   "venue": "Advances in Neural Information Processing Systems 38, 140283-140318",
+   "year": "2026"
+  },
+  {
+   "title": "Sentiment adaptive end-to-end dialog systems",
+   "authors": "W Shi, Z Yu",
+   "venue": "ACL 2018",
+   "year": "2018"
+  },
+  {
+   "title": "How to Build User Simulators to Train RL-based Dialog Systems",
+   "authors": "W Shi, K Qian, X Wang, Z Yu",
+   "venue": "EMNLP 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Dialoging resonance in human-chatbot conversation: How users perceive and reciprocate recommendation chatbot's self-disclosure strategy",
+   "authors": "KH Liang, W Shi, YJ Oh, HC Wang, J Zhang, Z Yu",
+   "venue": "Proceedings of the ACM on Human-Computer Interaction 8 (CSCW1), 1-28",
+   "year": "2024"
+  },
+  {
+   "title": "Controllable mixed-initiative dialogue generation through prompting",
+   "authors": "M Chen, X Yu, W Shi, U Awasthi, Z Yu",
+   "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …",
+   "year": "2023"
+  },
+  {
+   "title": "Unsupervised Dialog Structure Learning",
+   "authors": "W Shi, T Zhao, Z Yu",
+   "venue": "NAACL 2019",
+   "year": "2019"
+  },
+  {
+   "title": "Refine and imitate: Reducing repetition and inconsistency in persuasion dialogues via reinforcement learning and human demonstration",
+   "authors": "W Shi, Y Li, S Sahay, Z Yu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 3478-3492",
+   "year": "2021"
+  },
+  {
+   "title": "End-to-end trainable non-collaborative dialog system",
+   "authors": "Y Li, K Qian, W Shi, Z Yu",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (05), 8293-8302",
+   "year": "2020"
+  },
+  {
+   "title": "Distilling an end-to-end voice assistant without instruction training data",
+   "authors": "W Held, Y Zhang, M Li, W Shi, MJ Ryan, D Yang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Structured attention for unsupervised dialogue structure induction",
+   "authors": "L Qiu, Y Zhao, W Shi, Y Liang, F Shi, T Yuan, Z Yu, SC Zhu",
+   "venue": "Proceedings of the 2020 conference on empirical methods in natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Labeling messages as AI-generated does not reduce their persuasive effects",
+   "authors": "IO Gallegos, C Shani, W Shi, F Bianchi, I Gainsburg, D Jurafsky, R Willer",
+   "venue": "PNAS nexus 5 (2), pgag008",
+   "year": "2026"
+  },
+  {
+   "title": "Towards socially intelligent agents with mental state transition and human value",
+   "authors": "L Qiu, Y Zhao, Y Liang, P Lu, W Shi, Z Yu, SC Zhu",
+   "venue": "Proceedings of the 23rd Annual Meeting of the Special Interest Group on …",
+   "year": "2022"
+  },
+  {
+   "title": "Social influence dialogue systems: A survey of datasets and models for social influence tasks",
+   "authors": "K Chawla, W Shi, J Zhang, G Lucas, Z Yu, J Gratch",
+   "venue": "Proceedings of the 17th Conference of the European Chapter of the …",
+   "year": "2023"
+  },
+  {
+   "title": "Zero-shot persuasive chatbots with LLM-generated strategies and information retrieval",
+   "authors": "K Furumai, R Legaspi, JCV Romero, Y Yamazaki, Y Nishimura, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 11224 …",
+   "year": "2024"
+  },
+  {
+   "title": "Towards social ai: A survey on understanding social interactions",
+   "authors": "S Lee, M Li, B Lai, W Jia, F Ryan, X Cao, O Kara, B Boote, W Shi, D Yang, ...",
+   "venue": "arXiv preprint arXiv:2409.15316",
+   "year": "2024"
+  },
+  {
+   "title": "Polyskill: Learning generalizable skills through polymorphic abstraction for continual learning",
+   "authors": "S Yu, G Li, W Shi, P Qi",
+   "venue": "International Conference on Learning Representations 2026, 140298-140326",
+   "year": "2026"
+  },
+  {
+   "title": "GEM: A gym for generalist LLMs",
+   "authors": "Z Liu, A Sims, K Duan, C Chen, S Yu, X Zhou, H Xu, S Xiong, B Liu, C Tan, ...",
+   "venue": "The Fourteenth International Conference on Learning Representations",
+   "year": "2026"
+  },
+  {
+   "title": "The mirrored influence hypothesis: Efficient data influence estimation by harnessing forward passes",
+   "authors": "M Ko, F Kang, W Shi, M Jin, Z Yu, R Jia",
+   "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2024"
+  },
+  {
+   "title": "When life gives you lemons, make cherryade: Converting feedback from bad responses into good labels",
+   "authors": "W Shi, E Dinan, K Shuster, J Weston, J Xu",
+   "venue": "Proceedings of the 2024 Conference of the North American Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Unsafer in many turns: Benchmarking and defending multi-turn safety risks in tool-using agents",
+   "authors": "X Li, S Yu, M Pan, Y Sun, B Li, D Song, X Lin, W Shi",
+   "venue": "arXiv preprint arXiv:2602.13379",
+   "year": "2026"
+  },
+  {
+   "title": "Seamlessly integrating factual information and social content with persuasive dialogue",
+   "authors": "M Chen, W Shi, F Yan, R Hou, J Zhang, S Sahay, Z Yu",
+   "venue": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the …",
+   "year": "2022"
+  },
+  {
+   "title": "Agents' Last Exam",
+   "authors": "Y Sun, X Han, W Zhang, Y Pang, T Wang, Y Cao, Y Huang, C Duroiu, ...",
+   "venue": "arXiv preprint arXiv:2606.05405",
+   "year": "2026"
+  },
+  {
+   "title": "Social intelligence data infrastructure: Structuring the present and navigating the future",
+   "authors": "M Li, W Shi, C Ziems, D Yang",
+   "venue": "Findings of the Association for Computational Linguistics: ACL 2024, 2789-2805",
+   "year": "2024"
+  },
+  {
+   "title": "NewsInterview: a dataset and a playground to evaluate LLMs’ grounding gap via informational interviews",
+   "authors": "A Spangher, M Lu, S Kalyan, HJ Cho, T Huang, W Shi, J May",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "Understanding user resistance strategies in persuasive conversations",
+   "authors": "Y Tian, W Shi, C Li, Z Yu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 4794-4798",
+   "year": "2020"
+  },
+  {
+   "title": "Legoeval: An open-source toolkit for dialogue system evaluation via crowdsourcing",
+   "authors": "Y Li, J Arnold, F Yan, W Shi, Z Yu",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "Can aha moments be fake? identifying true and decorative thinking steps in chain-of-thought",
+   "authors": "J Zhao, Y Sun, W Shi, D Song",
+   "venue": "",
+   "year": "2025"
+  },
+  {
+   "title": "PRAL: A tailored pre-training model for task-oriented dialog generation",
+   "authors": "J Gu, Q Wu, C Wu, W Shi, Z Yu",
+   "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational …",
+   "year": "2021"
+  },
+  {
+   "title": "DEUX: an attribute-guided framework for sociable recommendation dialog systems",
+   "authors": "Y Li, SA Hayati, W Shi, Z Yu",
+   "venue": "arXiv preprint arXiv:2105.00825",
+   "year": "2021"
+  },
+  {
+   "title": "A tailored pre-training model for task-oriented dialog generation",
+   "authors": "J Gu, Q Wu, C Wu, W Shi, Z Yu",
+   "venue": "arXiv preprint arXiv:2004.13835",
+   "year": "2020"
+  },
+  {
+   "title": "Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces",
+   "authors": "S Yu, D Chong, A Nandi, D Soylu, J Sun, CD Manning, W Shi",
+   "venue": "arXiv preprint arXiv:2605.10913",
+   "year": "2026"
+  },
+  {
+   "title": "Assessing risks of large language models in mental health support: a framework for automated clinical AI red teaming",
+   "authors": "I Steenstra, P Pedrelli, W Shi, S Marsella, TW Bickmore",
+   "venue": "arXiv preprint arXiv:2602.19948",
+   "year": "2026"
+  },
+  {
+   "title": "SPADE: Self-play in adaptive synthetic executable environments",
+   "authors": "B Liu, S Yu, Y Jiang, A Qu, A Zhao, Z Liu, J Kim, Z Zhou, S Kim, T Ren, ...",
+   "venue": "arXiv preprint arXiv:2608.19197",
+   "year": "2026"
+  },
+  {
+   "title": "Coding with\" Enemy\": Can Human Developers Detect AI Agent Sabotage?",
+   "authors": "J Ye, H Zou, S Yu, W Shi",
+   "venue": "arXiv preprint arXiv:2606.05647, 🏆 Best Paper@ICML DL4C",
+   "year": "2026"
+  },
+  {
+   "title": "SocialFusion: Addressing Social Degradation in Pre-trained Vision-Language Models",
+   "authors": "H Tahboub, W Shi, G Hua, H Jiang",
+   "venue": "arXiv preprint arXiv:2512.01148",
+   "year": "2025"
+  },
+  {
+   "title": "Which Metrics Save the Most Human Annotation? Prediction-Powered Evaluation and Meta-Evaluation",
+   "authors": "M Gao, A Sicilia, W Shi",
+   "venue": "arXiv preprint arXiv:2608.26638",
+   "year": "2026"
+  },
+  {
+   "title": "The Piggyback Hypothesis of Generalization: Explaining and Mitigating Emergent Misalignment",
+   "authors": "J Zhao, Z Wu, A Arora, Y Sun, D Bau, W Shi",
+   "venue": "arXiv preprint arXiv:2606.06667",
+   "year": "2026"
+  },
+  {
+   "title": "Persuasion for Social Good: How to Build and Break AI",
+   "authors": "W Shi",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (27), 28726 …",
+   "year": "2025"
+  },
+  {
+   "title": "AutoReply: Detecting nonsense in dialogue with discriminative replies",
+   "authors": "W Shi, E Dinan, A Renduchintala, D Fried, A Jacob, Z Yu, M Lewis",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 294-309",
+   "year": "2023"
+  },
+  {
+   "title": "Dialogue Systems Specialized in Social Influence: Systems, Methods, and Ethics",
+   "authors": "W Shi",
+   "venue": "Columbia University",
+   "year": "2023"
+  },
+  {
+   "title": "Exploiting common characters in chinese and japanese to learn cross-lingual word embeddings via matrix factorization",
+   "authors": "J Wang, S Luo, W Shi, T Dai, ST Xia",
+   "venue": "Proceedings of the Third Workshop on Representation Learning for NLP, 113-121",
+   "year": "2018"
+  },
+  {
+   "title": "CommSketch: How Speaking while Sketching Steers Human--AI Design Ideation",
+   "authors": "W Shi, D Lim, G Quek, KTW Choo",
+   "venue": "arXiv preprint arXiv:2609.37813",
+   "year": "2026"
+  },
+  {
+   "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+   "authors": "S Yu, N Tomlin, M Abdulhai, X Lu, D Chong, A Hou, D Soylu, S Levine, ...",
+   "venue": "arXiv preprint arXiv:2608.12253",
+   "year": "2026"
+  },
+  {
+   "title": "Train Yourself as an LLM: Exploring Effects of AI Literacy on Persuasion via Role-playing LLM Training",
+   "authors": "Q Fan, M Ge, C Jia, W Shi",
+   "venue": "arXiv preprint arXiv:2604.02637",
+   "year": "2026"
+  },
+  {
+   "title": "Proceedings of the First Workshop on Social Influence in Conversations (SICon 2023)",
+   "authors": "K Chawla, W Shi",
+   "venue": "Proceedings of the First Workshop on Social Influence in Conversations …",
+   "year": "2023"
+  },
+  {
+   "title": "AUTOREPLY: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies",
+   "authors": "W Shi, E Dinan, A Renduchintala, D Fried, AP Jacob, Z Yu, M Lewis",
+   "venue": "arXiv preprint arXiv:2211.12615",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 4th Workshop on NLP for Conversational AI",
+   "authors": "B Liu, A Papangelis, S Ultes, A Rastogi, YN Chen, G Spithourakis, E Nouri, ...",
+   "venue": "Proceedings of the 4th Workshop on NLP for Conversational AI",
+   "year": "2022"
+  },
+  {
+   "title": "INSPIRED: Toward Sociable Recommendation Dialog Systems",
+   "authors": "S Anugrah Hayati, D Kang, Q Zhu, W Shi, Z Yu",
+   "venue": "arXiv e-prints, arXiv: 2009.14306",
+   "year": "2020"
+  },
+  {
+   "title": "Refine and Imitate: Reducing Repetition and Inconsistency in Dialogue Generation via Reinforcement Learning and Human Demonstration",
+   "authors": "W Shi, Y Li, S Sahay, Z Yu",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

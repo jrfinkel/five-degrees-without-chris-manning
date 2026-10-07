@@ -1,0 +1,251 @@
+{
+ "user": "bg8RrSkAAAAJ",
+ "pubs": [
+  {
+   "title": "G-eval: NLG evaluation using gpt-4 with better human alignment",
+   "authors": "Y Liu, D Iter, Y Xu, S Wang, R Xu, C Zhu",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic prompt optimization with “gradient descent” and beam search",
+   "authors": "R Pryzant, D Iter, J Li, Y Lee, C Zhu, M Zeng",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Generate rather than retrieve: Large language models are strong context generators",
+   "authors": "W Yu, D Iter, S Wang, Y Xu, M Ju, S Sanyal, C Zhu, M Zeng, M Jiang",
+   "venue": "arXiv preprint arXiv:2209.10063",
+   "year": "2022"
+  },
+  {
+   "title": "From laptop to lambda: Outsourcing everyday jobs to thousands of transient functional containers",
+   "authors": "S Fouladi, F Romero, D Iter, Q Li, S Chatterjee, C Kozyrakis, M Zaharia, ...",
+   "venue": "2019 USENIX annual technical conference (USENIX ATC 19), 475-488",
+   "year": "2019"
+  },
+  {
+   "title": "Identifying content for planned events across social media sites",
+   "authors": "H Becker, D Iter, M Naaman, L Gravano",
+   "venue": "Proceedings of the fifth ACM international conference on Web search and data …",
+   "year": "2012"
+  },
+  {
+   "title": "Automatic Detection of Incoherent Speech for Diagnosing Schizophrenia",
+   "authors": "D Iter, JH Yoon, D Jurafsky",
+   "venue": "Workshop on Computational Linguistics and Clinical Psychology, 136–146",
+   "year": "2018"
+  },
+  {
+   "title": "Pearl: Prompting large language models to plan and execute actions over long documents",
+   "authors": "S Sun, Y Liu, S Wang, D Iter, C Zhu, M Iyyer",
+   "venue": "Proceedings of the 18th Conference of the European Chapter of the …",
+   "year": "2024"
+  },
+  {
+   "title": "Pretraining with contrastive sentence objectives improves discourse performance of language models",
+   "authors": "D Iter, K Guu, L Lansing, D Jurafsky",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Omnivore: An optimizer for multi-device deep learning on cpus and gpus",
+   "authors": "S Hadjis, C Zhang, I Mitliagkas, D Iter, C Ré",
+   "venue": "arXiv preprint arXiv:1606.04487",
+   "year": "2016"
+  },
+  {
+   "title": "The shifted and the overlooked: A task-oriented investigation of user-GPT interactions",
+   "authors": "S Ouyang, S Wang, Y Liu, M Zhong, Y Jiao, D Iter, R Pryzant, C Zhu, H Ji, ...",
+   "venue": "Proceedings of the 2023 conference on empirical methods in natural language …",
+   "year": "2023"
+  },
+  {
+   "title": "Generating adversarial examples for speech recognition",
+   "authors": "D Iter, J Huang, M Jermann",
+   "venue": "Stanford Technical Report, 1-8",
+   "year": "2017"
+  },
+  {
+   "title": "Automatic Identification and Presentation of Twitter Content for Planned Events.",
+   "authors": "H Becker, F Chen, D Iter, M Naaman, L Gravano",
+   "venue": "ICWSM",
+   "year": "2011"
+  },
+  {
+   "title": "G-eval: NLG evaluation using gpt-4 with better human alignment. arXiv 2023",
+   "authors": "Y Liu, D Iter, Y Xu, S Wang, R Xu, C Zhu",
+   "venue": "arXiv preprint arXiv:2303.16634",
+   "year": null
+  },
+  {
+   "title": "The trade-offs of domain adaptation for neural language models",
+   "authors": "D Grangier, D Iter",
+   "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational …",
+   "year": "2022"
+  },
+  {
+   "title": "Focus on what matters: Applying discourse coherence theory to cross document coreference",
+   "authors": "W Held, D Iter, D Jurafsky",
+   "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language …",
+   "year": "2021"
+  },
+  {
+   "title": "Flipper: A systematic approach to debugging training sets",
+   "authors": "P Varma, D Iter, C De Sa, C Ré",
+   "venue": "Proceedings of the 2nd Workshop on Human-in-the-Loop Data Analytics, 1-5",
+   "year": "2017"
+  },
+  {
+   "title": "How does in-context learning help prompt tuning?",
+   "authors": "S Sun, Y Liu, D Iter, C Zhu, M Iyyer",
+   "venue": "Findings of the Association for Computational Linguistics: EACL 2024, 156-165",
+   "year": "2024"
+  },
+  {
+   "title": "Learnable structured clustering framework for deep metric learning",
+   "authors": "HO Song, S Jegelka, V Rathod, K Murphy",
+   "venue": "arXiv preprint arXiv:1612.01213 1 (2), 8",
+   "year": "2016"
+  },
+  {
+   "title": "Auto-instruct: Automatic instruction generation and ranking for black-box language models",
+   "authors": "Z Zhang, S Wang, W Yu, Y Xu, D Iter, Q Zeng, Y Liu, C Zhu, M Jiang",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 9850-9867",
+   "year": "2023"
+  },
+  {
+   "title": "In-context demonstration selection with cross entropy difference",
+   "authors": "D Iter, R Pryzant, R Xu, S Wang, Y Liu, Y Xu, C Zhu",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 1150-1162",
+   "year": "2023"
+  },
+  {
+   "title": "Socratic learning: Augmenting generative models to incorporate latent subsets in training data",
+   "authors": "P Varma, B He, D Iter, P Xu, R Yu, C De Sa, C Ré",
+   "venue": "arXiv preprint arXiv:1610.08123",
+   "year": "2016"
+  },
+  {
+   "title": "Proceedings of the fifth workshop on computational linguistics and clinical psychology: from keyboard to clinic",
+   "authors": "D Iter, J Yoon, D Jurafsky",
+   "venue": "Association for Computational Linguistics",
+   "year": "2018"
+  },
+  {
+   "title": "InheritSumm: A general, versatile and compact summarizer by distilling from GPT",
+   "authors": "Y Xu, R Xu, D Iter, Y Liu, S Wang, C Zhu, M Zeng",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 13879 …",
+   "year": "2023"
+  },
+  {
+   "title": "Target tracking with kalman filtering, knn and lstms",
+   "authors": "D Iter, J Kuck, P Zhuang, C Learning",
+   "venue": "CS229: Machine Learning, Stanford University",
+   "year": "2016"
+  },
+  {
+   "title": "On the complementarity of data selection and fine tuning for domain adaptation",
+   "authors": "D Iter, D Grangier",
+   "venue": "arXiv preprint arXiv:2109.07591",
+   "year": "2021"
+  },
+  {
+   "title": "Socratic learning: Correcting misspecified generative models using discriminative models",
+   "authors": "P Varma, B He, D Iter, P Xu, R Yu, C De Sa, C Ré",
+   "venue": "arXiv preprint arXiv:1610.08123",
+   "year": "2017"
+  },
+  {
+   "title": "LMGQS: A large-scale dataset for query-focused summarization",
+   "authors": "R Xu, S Wang, Y Liu, S Wang, Y Xu, D Iter, P He, C Zhu, M Zeng",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023, 14764 …",
+   "year": "2023"
+  },
+  {
+   "title": "Automatic language model (LM) input optimization using textual gradients",
+   "authors": "RA PRYZANT, JZ Li, D Iter, YT LEE, C Zhu, N Zeng, A Shirgaonkar",
+   "venue": "US Patent 12,632,651",
+   "year": "2026"
+  },
+  {
+   "title": "Identifying entity attribute relations",
+   "authors": "D Iter, X Yu, F Li",
+   "venue": "US Patent 11,263,400",
+   "year": "2022"
+  },
+  {
+   "title": "A thunk to remember: make-j1000 (and other jobs) on functions-as-a-service infrastructure",
+   "authors": "S Fouladi, D Iter, S Chatterjee, C Kozyrakis, M Zaharia, K Winstein",
+   "venue": "Preprint, https://web. stanford. edu/~ sadjad/gg-paper. pdf",
+   "year": "2017"
+  },
+  {
+   "title": "Image classification using transfer learning from siamese networks based on text metadata similarity",
+   "authors": "D Iter",
+   "venue": "Stanford University",
+   "year": "2016"
+  },
+  {
+   "title": "Entity attribute relation extraction with attribute-aware embeddings",
+   "authors": "D Iter, X Yu, F Li",
+   "venue": "Proceedings of Deep Learning Inside Out (DeeLIO): The First Workshop on …",
+   "year": "2020"
+  },
+  {
+   "title": "Outsourcing everyday jobs to thousands of cloud functions with gg",
+   "authors": "S Fouladi, F Romero, D Iter, Q Li, S Chatterjee, C Kozyrakis, M Zaharia, ...",
+   "venue": "Usenix Login",
+   "year": "2020"
+  },
+  {
+   "title": "Frameit: Ontology discovery for noisy user-generated text",
+   "authors": "D Iter, A Halevy, WC Tan",
+   "venue": "Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User …",
+   "year": "2018"
+  },
+  {
+   "title": "Socratic learning",
+   "authors": "P Varma, R Yu, D Iter, C De Sa, C Ré",
+   "venue": "Neural Information Processing Systems. Future of Interactive Learning …",
+   "year": "2016"
+  },
+  {
+   "title": "Quality assurance for digital technologies using large language models",
+   "authors": "RA PRYZANT, YT LEE, C Zhu, S Bubeck, R ELDAN, Y Fang, D Iter, Y XU, ...",
+   "venue": "US Patent App. 19/428,757",
+   "year": "2026"
+  },
+  {
+   "title": "Quality assurance for digital technologies using large language models",
+   "authors": "RA PRYZANT, YT LEE, C Zhu, S Bubeck, R ELDAN, Y Fang, D Iter, Y XU, ...",
+   "venue": "US Patent 12,554,626",
+   "year": "2026"
+  },
+  {
+   "title": "Natural language training and/or augmentation with large language models",
+   "authors": "Y Liu, XU Yichong, D Iter, C Zhu, N Zeng, W Shuohang, H SHARMA",
+   "venue": "US Patent 12,505,307",
+   "year": "2025"
+  },
+  {
+   "title": "Pre-Finetuning Methods for Domain and Task Adaptation, with Applications to Discourse and Translation",
+   "authors": "D Iter",
+   "venue": "Stanford University",
+   "year": "2022"
+  },
+  {
+   "title": "Outsourcing Everyday Jobs to Thousands of Transient Functional Containers",
+   "authors": "S Fouladi, F Romero, D Iter, Q Li, S Chatterjee, C Kozyrakis, M Zaharia, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Ensembling Insights for Baseline Text Models",
+   "authors": "H Ehrenberg, D Iter",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

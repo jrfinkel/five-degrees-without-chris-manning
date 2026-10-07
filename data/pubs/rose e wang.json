@@ -1,0 +1,341 @@
+{
+ "user": "V-dlwF4AAAAJ",
+ "pubs": [
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Openai gpt-5 system card",
+   "authors": "A Singh, A Fry, A Perelman, A Tart, A Ganesh, A El-Kishky, A McLaughlin, ...",
+   "venue": "arXiv preprint arXiv:2601.03267",
+   "year": "2025"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 10",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 3",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating human-language model interaction",
+   "authors": "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus, A Paranjape, ...",
+   "venue": "TMLR 2023",
+   "year": "2022"
+  },
+  {
+   "title": "Too Many Cooks: Bayesian Inference for Coordinating Multi‐Agent Collaboration",
+   "authors": "RE Wang, SA Wu, JA Evans, JB Tenenbaum, DC Parkes, ...",
+   "venue": "Topics in Cognitive Science 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Tutor CoPilot: A human-AI approach for scaling real-time expertise",
+   "authors": "RE Wang, AT Ribeiro, CD Robinson, S Loeb*, D Demszky*",
+   "venue": "",
+   "year": "2024"
+  },
+  {
+   "title": "Solving math word problems by combining language models with symbolic solvers",
+   "authors": "J He-Yueya, G Poesia, RE Wang, ND Goodman",
+   "venue": "MathAI 2023",
+   "year": "2023"
+  },
+  {
+   "title": "Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction",
+   "authors": "RE Wang, D Demszky",
+   "venue": "🏆 BEA 2023, Ambassador Paper",
+   "year": "2023"
+  },
+  {
+   "title": "R-maddpg for partially observable environments and limited communication",
+   "authors": "RE Wang, M Everett, JP How",
+   "venue": "ICML 2019 Reinforcement Learning for Real Life Workshop",
+   "year": "2019"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. Doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2022"
+  },
+  {
+   "title": "Bridging the Novice-Expert Gap via Models of Decision-Making: A Case Study on Remediating Math Mistakes",
+   "authors": "RE Wang, Q Zhang, C Robinson, S Loeb, D Demszky",
+   "venue": "NAACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "Too many cooks: Coordinating multi-agent collaboration through inverse planning.",
+   "authors": "RE Wang, SA Wu, JA Evans, J Tenenbaum, DC Parkes, ...",
+   "venue": "🏆 NeurIPS Cooperative AI Workshop, Best Paper",
+   "year": "2020"
+  },
+  {
+   "title": "& Liang, P.(2022). On the opportunities and risks of foundation models",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": null
+  },
+  {
+   "title": "Scaffolding middle school mathematics curricula with large language models",
+   "authors": "R Malik, D Abdi, R Wang, D Demszky",
+   "venue": "British Journal of Educational Technology 56 (3), 999-1027",
+   "year": "2025"
+  },
+  {
+   "title": "Language modeling via stochastic processes",
+   "authors": "RE Wang, E Durmus, N Goodman, T Hashimoto",
+   "venue": "ICLR 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Model-based Reinforcement Learning for Decentralized Multiagent Rendezvous",
+   "authors": "RE Wang, JC Kew, D Lee, TWE Lee, T Zhang, B Ichter, J Tan, A Faust",
+   "venue": "CoRL 2020",
+   "year": "2020"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "ELIGN: Expectation Alignment as a Multi-Agent Intrinsic Reward",
+   "authors": "Z Ma, R Wang, FF Li, M Bernstein, R Krishna",
+   "venue": "NeurIPS 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Step-by-Step Remediation of Students' Mathematical Mistakes",
+   "authors": "RE Wang, Q Zhang, C Robinson, S Loeb, D Demszky",
+   "venue": "NAACL 2024",
+   "year": "2023"
+  },
+  {
+   "title": "SIGHT: A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts",
+   "authors": "RE Wang*, P Wirawarn*, N Goodman, D Demszky",
+   "venue": "BEA 2023",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. CoRR abs/2108.07258 (2021)",
+   "authors": "R Bommasani, DA Hudson, E Adeli, RB Altman, S Arora, S von Arx, ...",
+   "venue": "URL: https://arxiv. org/abs/2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. 2021. 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 2108",
+   "year": "2025"
+  },
+  {
+   "title": "\"Mistakes Help Us Grow\": Facilitating and Evaluating Growth Mindset Supportive Language in Classrooms",
+   "authors": "K Handa, M Clapper, J Boyle, RE Wang, D Yang, DS Yeager, D Demszky",
+   "venue": "EMNLP 2023",
+   "year": "2023"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. arXiv. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258",
+   "year": "2022"
+  },
+  {
+   "title": "Does Feedback on Talk Time Increase Student Engagement? Evidence from a Randomized Controlled Trial on a Math Tutoring Platform",
+   "authors": "D Demszky, RE Wang, S Geraghty, C Yu",
+   "venue": "LAK 2024",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models [arXiv [cs. LG]]. 2021",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "On the opportunities and risks of foundation models. CoRR abs/2108.07258",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258",
+   "year": "2021"
+  },
+  {
+   "title": "Edu-ConvoKit: An Open-Source Library for Education Conversation Data",
+   "authors": "RE Wang, D Demszky",
+   "venue": "NAACL 2024",
+   "year": "2024"
+  },
+  {
+   "title": "On the Opportunities and Risks of Foundation Models. 2022. doi: 10.48550",
+   "authors": "R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S von Arx, ...",
+   "venue": "arXiv preprint arXiv.2108.07258 5",
+   "year": null
+  },
+  {
+   "title": "Mathfish: Evaluating language model math reasoning via grounding in educational curricula",
+   "authors": "L Lucy, T August, RE Wang, L Soldaini, C Allison, K Lo",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 5644-5673",
+   "year": "2024"
+  },
+  {
+   "title": "Calibrate your listeners! Robust communication-based training for pragmatic speakers",
+   "authors": "RE Wang, J White, J Mu, ND Goodman",
+   "venue": "Findings of EMNLP 2021",
+   "year": "2021"
+  },
+  {
+   "title": "Scaling high-leverage curriculum scaffolding in middle-school mathematics",
+   "authors": "R Malik, D Abdi, R Wang, D Demszky",
+   "venue": "Proceedings of the eleventh ACM conference on learning@ scale, 476-480",
+   "year": "2024"
+  },
+  {
+   "title": "On the opportunities and risks of foundation models",
+   "authors": "P Liang, R Bommasani, DA Hudson, E Adeli, R Altman, S Arora, S Arx, ...",
+   "venue": "arXiv preprint arXiv:2108.07258 1",
+   "year": "2022"
+  },
+  {
+   "title": "Educator Attention: How computational tools can systematically identify the distribution of a key resource for students",
+   "authors": "Q Zhang, RE Wang, AT Ribeiro, D Demszky, S Loeb",
+   "venue": "arXiv preprint arXiv:2502.20135",
+   "year": "2025"
+  },
+  {
+   "title": "Too many cooks: Bayesian inference for coordinating multi‐agent collaboration. Topics in Cognitive Science, 13 (2), 414–432",
+   "authors": "SA Wu, RE Wang, JA Evans, JB Tenenbaum, DC Parkes, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations",
+   "authors": "RE Wang, P Wirawarn, K Lam, O Khattab, D Demszky",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024, 12654 …",
+   "year": "2024"
+  },
+  {
+   "title": "Backtracing: Retrieving the Cause of the Query",
+   "authors": "RE Wang, P Wirawarn, O Khattab, N Goodman, D Demszky",
+   "venue": "EACL 2024, Long Paper Findings",
+   "year": "2024"
+  },
+  {
+   "title": "In the ZONE: Measuring difficulty and progression in curriculum generation",
+   "authors": "RE Wang, J Mu, D Arumugam, N Jaques, N Goodman",
+   "venue": "NeurIPS 2022 Deep Reinforcement Learning Workshop",
+   "year": "2022"
+  },
+  {
+   "title": "Attention Factors for Statistical Arbitrage",
+   "authors": "E Epstein, R Wang, J Choi, M Pelger",
+   "venue": "Proceedings of the 6th ACM International Conference on AI in Finance, 396-404",
+   "year": "2025"
+  },
+  {
+   "title": "Leveraging large language models for next-generation educational technologies",
+   "authors": "N Heffernan, R Wang, C MacLellan, A Hellas, C Li, C Walkington, ...",
+   "venue": "Proceedings of the 17th International Conference on Educational Data Mining …",
+   "year": "2024"
+  },
+  {
+   "title": "Educator Attention: How Computational Tools Can Systematically Identify the Distribution of a Key Resource for Students. EdWorkingPaper No. 25-1144.",
+   "authors": "Q Zhang, RE Wang, AT Ribeiro, D Demszky, S Loeb",
+   "venue": "Annenberg Institute for School Reform at Brown University",
+   "year": "2025"
+  },
+  {
+   "title": "Does Feedback on Talk Time Increase Student Engagement? Evidence from a Randomized Controlled Trial on a Math Tutoring Platform. EdWorkingPaper No. 23-891.",
+   "authors": "D Demszky, R Wang, S Geraghty, C Yu",
+   "venue": "Annenberg Institute for School Reform at Brown University",
+   "year": "2023"
+  },
+  {
+   "title": "CLaP: Conditional Latent Planners for Offline Reinforcement Learning",
+   "authors": "HD Shin, RE Wang",
+   "venue": "NeurIPS 2022 Foundation Models for Decision Making Workshop",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating language model math reasoning via grounding in educational curricula",
+   "authors": "L Lucy, T August, RE Wang, L Soldaini, C Allison, K Lo",
+   "venue": "Preprint",
+   "year": "2024"
+  },
+  {
+   "title": "Know Thy Student: Interactive Learning with Gaussian Processes",
+   "authors": "RE Wang, M Wu, N Goodman",
+   "venue": "ICLR 2022 Workshop on Collective Learning",
+   "year": "2022"
+  },
+  {
+   "title": "Discovering High-Quality Chess Puzzles Through One Billion Plays with Offline Reinforcement Learning",
+   "authors": "A Nie, A Badrinath, N Tomlin, T Dai, C Yip, RE Wang, E Brunskill, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Discovering High-Quality Chess Puzzles with Offline Reinforcement Learning",
+   "authors": "A Nie, A Badrinath, N Tomlin, T Dai, C Yip, RE Wang, E Brunskill, C Piech",
+   "venue": "arXiv preprint arXiv:2608.14851",
+   "year": "2026"
+  },
+  {
+   "title": "Stripping Discount Curves Across Currencies: Transfer Learning from US Treasuries",
+   "authors": "D Filipović, M Pelger, R Wang",
+   "venue": "Available at SSRN 7092381",
+   "year": "2026"
+  },
+  {
+   "title": "Reflections and New Directions for Human-Centered Large Language Models",
+   "authors": "C Ziems, D Zhao, RE Wang, M Jörke, A Rushdi, A Deepak, S Yu, ...",
+   "venue": "arXiv preprint arXiv:2605.06901",
+   "year": "2026"
+  },
+  {
+   "title": "Scaling Expertise Via Language Models: with Applications to Education",
+   "authors": "RE Wang",
+   "venue": "Stanford University",
+   "year": "2025"
+  },
+  {
+   "title": "Scaffolding Middle-School Mathematics Curricula with Large Language Models. EdWorkingPaper No. 24-1028.",
+   "authors": "R Malik, D Abdi, R Wang, D Demszky",
+   "venue": "Annenberg Institute for School Reform at Brown University",
+   "year": "2024"
+  },
+  {
+   "title": "An Open-Source Library for Education Conversation Data",
+   "authors": "RE Wang, D Demszky",
+   "venue": "NAACL 2024, 61",
+   "year": "2024"
+  },
+  {
+   "title": "HEXED 2024 and L3MNGET 2024 Workshops Joint Proceedings",
+   "authors": "JD Pinto, E Worden, A Botelho, L Cohausz, C Cohn, M Feng, N Heffernan, ...",
+   "venue": "2024 Human-Centric eXplainable AI in Education and the Leveraging Large …",
+   "year": "2024"
+  },
+  {
+   "title": "Too Many Cooks: Bayesian Inference for Coordinating Multi-agent Collaboration",
+   "authors": "SA Wu, RE Wang, JA Evans, JB Tenenbaum, DC Parkes, ...",
+   "venue": "Topics in Cognitive Science 2022",
+   "year": "2022"
+  },
+  {
+   "title": "Too many cooks: Bayesian inference for coordinating multi-agent collaboration",
+   "authors": "RE Wang, SA Wu, JA Evans, JB Tenenbaum, DC Parkes, ...",
+   "venue": "🏆 CogSci 2020, Best Paper",
+   "year": "2020"
+  }
+ ]
+}

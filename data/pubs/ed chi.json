@@ -1,0 +1,143 @@
+{
+ "user": "dRUwDFQAAAAJ",
+ "pubs": [
+  {
+   "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+   "authors": "A Srivastava, A Rastogi, A Rao, AAM Shoeb, A Abid, A Fisch, AR Brown, ...",
+   "venue": "arXiv preprint arXiv:2206.04615",
+   "year": "2022"
+  },
+  {
+   "title": "Finding Universal Grammatical Relations in Multilingual BERT",
+   "authors": "EA Chi, J Hewitt, CD Manning",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "A machine learning algorithm can optimize the day of trigger to improve in vitro fertilization outcomes",
+   "authors": "E Hariton, EA Chi, G Chi, JR Morris, J Braatz, P Rajpurkar, M Rosen",
+   "venue": "Fertility and Sterility 116 (5), 1227-1235",
+   "year": "2021"
+  },
+  {
+   "title": "Align-refine: Non-autoregressive speech recognition via iterative realignment",
+   "authors": "EA Chi, J Salazar, K Kirchhoff",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "Development and validation of an artificial intelligence system to optimize clinician review of patient records",
+   "authors": "EA Chi, G Chi, CT Tsui, Y Jiang, K Jarr, CV Kulkarni, M Zhang, J Long, ...",
+   "venue": "JAMA network open 4 (7), e2117391",
+   "year": "2021"
+  },
+  {
+   "title": "Deep subjecthood: Higher-order grammatical features in multilingual BERT",
+   "authors": "I Papadimitriou, EA Chi, R Futrell, K Mahowald",
+   "venue": "Proceedings of the 16th Conference of the European Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "LINGOLY: A benchmark of olympiad-level linguistic reasoning puzzles in low resource and extinct languages",
+   "authors": "A Bean, S Hellsten, H Mayne, J Magomere, R Chi, SA Hale, HR Kirk",
+   "venue": "Advances in Neural Information Processing Systems 37, 26224-26237",
+   "year": "2024"
+  },
+  {
+   "title": "Durable response to immune checkpoint blockade in a platinum-refractory patient with nonseminomatous germ cell tumor",
+   "authors": "EA Chi, MT Schweizer",
+   "venue": "Clinical genitourinary cancer 15 (5), e855-e857",
+   "year": "2017"
+  },
+  {
+   "title": "Changing stimulation protocol on repeat conventional ovarian stimulation cycles does not lead to improved laboratory outcomes",
+   "authors": "K Wald, E Hariton, JR Morris, EA Chi, EG Jaswa, MI Cedars, ...",
+   "venue": "Fertility and Sterility 116 (3), 757-765",
+   "year": "2021"
+  },
+  {
+   "title": "ModeLing: A novel dataset for testing linguistic reasoning in language models",
+   "authors": "NA Chi, T Malchev, R Kong, RA Chi, L Huang, EA Chi, RT McCoy, ...",
+   "venue": "Proceedings of the Eighth Workshop on Technologies for Machine Translation …",
+   "year": "2025"
+  },
+  {
+   "title": "Neural generation meets real people: Building a social, informative open-domain dialogue agent",
+   "authors": "EA Chi, A Paranjape, A See, C Chiam, T Chang, K Kenealy, SK Lim, ...",
+   "venue": "Proceedings of the 23rd Annual Meeting of the Special Interest Group on …",
+   "year": "2022"
+  },
+  {
+   "title": "Neural, neural everywhere: Controlled generation meets scaffolded, structured dialogue",
+   "authors": "EA Chi, C Chiam, T Chang, SK Lim, C Rastogi, A Iyabor, Y He, ...",
+   "venue": "Alexa Prize Proceedings",
+   "year": "2021"
+  },
+  {
+   "title": "Stanford MLab at SemEval-2021 task 8: 48 hours is all you need",
+   "authors": "P Liu, N Iyer, E Rozi, EA Chi",
+   "venue": "Proceedings of the 15th International Workshop on Semantic Evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "GLARE: Generative left-to-right AdversaRial examples",
+   "authors": "RA Chi, N Kim, P Liu, Z Lack, EA Chi",
+   "venue": "Proceedings of the 3rd Workshop on Evaluation and Comparison of NLP Systems …",
+   "year": "2022"
+  },
+  {
+   "title": "Stanford MLab at SemEval-2021 task 1: Tree-based modelling of lexical complexity using word embeddings",
+   "authors": "E Rozi, N Iyer, G Chi, E Choe, KJ Lee, K Liu, P Liu, Z Lack, J Tang, EA Chi",
+   "venue": "Proceedings of the 15th International Workshop on Semantic Evaluation …",
+   "year": "2021"
+  },
+  {
+   "title": "Multilingual BERT, ergativity, and grammatical subjecthood",
+   "authors": "I Papadimitriou, EA Chi, R Futrell, K Mahowald",
+   "venue": "Proceedings of the Society for Computation in Linguistics 2021, 425-426",
+   "year": "2021"
+  },
+  {
+   "title": "Sgvae: Sequential graph variational autoencoder",
+   "authors": "B Jing, EA Chi, J Tang",
+   "venue": "arXiv preprint arXiv:1912.07800",
+   "year": "2019"
+  },
+  {
+   "title": "ISD at SemEval-2022 Task 6: Sarcasm Detection Using Lightweight Models",
+   "authors": "S Huang, E Chi, NA Chi",
+   "venue": "Proceedings of the 16th International Workshop on Semantic Evaluation …",
+   "year": "2022"
+  },
+  {
+   "title": "RNRE-NLP at SemEval-2022 Task 4: Patronizing and Condescending Language Detection",
+   "authors": "R Yang, E Chi, NA Chi",
+   "venue": "Proceedings of the 16th International Workshop on Semantic Evaluation …",
+   "year": "2022"
+  },
+  {
+   "title": "Meta-Learning for Sample Reweighting using Sequence Models: A Natural Language Inference Case Study",
+   "authors": "S Karamcheti",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Ethan A. Chi",
+   "authors": "EA Chi",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Measuring Novel API Use in Program Synthesis",
+   "authors": "EA Chi12, A Lewkowycz, V Misra, A Andreassen, V Ramasesh, A Slone, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Automatic Quiz Generation from Textbooks",
+   "authors": "EA Chi, J Tang, E Wen",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

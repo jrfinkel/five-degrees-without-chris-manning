@@ -1,0 +1,953 @@
+{
+ "user": "8gfs8XIAAAAJ",
+ "pubs": [
+  {
+   "title": "Shapenet: An information-rich 3d model repository",
+   "authors": "AX Chang, T Funkhouser, L Guibas, P Hanrahan, Q Huang, Z Li, ...",
+   "venue": "arXiv preprint arXiv:1512.03012",
+   "year": "2015"
+  },
+  {
+   "title": "Scannet: Richly-annotated 3d reconstructions of indoor scenes",
+   "authors": "A Dai, AX Chang, M Savva, M Halber, T Funkhouser, M Nießner",
+   "venue": "2017 IEEE conference on computer vision and pattern recognition (CVPR), 2432 …",
+   "year": "2017"
+  },
+  {
+   "title": "Matterport3d: Learning from rgb-d data in indoor environments",
+   "authors": "A Chang, A Dai, T Funkhouser, M Halber, M Niessner, M Savva, S Song, ...",
+   "venue": "arXiv preprint arXiv:1709.06158",
+   "year": "2017"
+  },
+  {
+   "title": "Semantic scene completion from a single depth image",
+   "authors": "S Song, F Yu, A Zeng, AX Chang, M Savva, T Funkhouser",
+   "venue": "2017 IEEE conference on computer vision and pattern recognition (CVPR), 190-198",
+   "year": "2017"
+  },
+  {
+   "title": "On evaluation of embodied navigation agents",
+   "authors": "P Anderson, A Chang, DS Chaplot, A Dosovitskiy, S Gupta, V Koltun, ...",
+   "venue": "arXiv preprint arXiv:1807.06757",
+   "year": "2018"
+  },
+  {
+   "title": "Partnet: A large-scale benchmark for fine-grained and hierarchical part-level 3d object understanding",
+   "authors": "K Mo, S Zhu, AX Chang, L Yi, S Tripathi, LJ Guibas, H Su",
+   "venue": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2019"
+  },
+  {
+   "title": "Habitat-matterport 3d dataset (hm3d): 1000 large-scale 3d environments for embodied ai",
+   "authors": "SK Ramakrishnan, A Gokaslan, E Wijmans, O Maksymets, A Clegg, ...",
+   "venue": "arXiv preprint arXiv:2109.08238",
+   "year": "2021"
+  },
+  {
+   "title": "Habitat 2.0: Training home assistants to rearrange their habitat",
+   "authors": "A Szot, A Clegg, E Undersander, E Wijmans, Y Zhao, J Turner, N Maestre, ...",
+   "venue": "Advances in neural information processing systems 34, 251-266",
+   "year": "2021"
+  },
+  {
+   "title": "Sapien: A simulated part-based interactive environment",
+   "authors": "F Xiang, Y Qin, K Mo, Y Xia, H Zhu, F Liu, M Liu, H Jiang, Y Yuan, H Wang, ...",
+   "venue": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2020"
+  },
+  {
+   "title": "Scanrefer: 3d object localization in rgb-d scans using natural language",
+   "authors": "DZ Chen, AX Chang, M Nießner",
+   "venue": "European conference on computer vision, 202-221",
+   "year": "2020"
+  },
+  {
+   "title": "Stanford’s multi-pass sieve coreference resolution system at the conll-2011 shared task",
+   "authors": "H Lee, Y Peirsman, A Chang, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Proceedings of the fifteenth conference on computational natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Deterministic coreference resolution based on entity-centric, precision-ranked rules",
+   "authors": "H Lee, A Chang, Y Peirsman, N Chambers, M Surdeanu, D Jurafsky",
+   "venue": "Computational linguistics 39 (4), 885-916",
+   "year": "2013"
+  },
+  {
+   "title": "Sutime: A library for recognizing and normalizing time expressions.",
+   "authors": "AX Chang, CD Manning",
+   "venue": "Lrec 12, 3735-3740",
+   "year": "2012"
+  },
+  {
+   "title": "Generating semantically precise scene graphs from textual descriptions for improved image retrieval",
+   "authors": "S Schuster, R Krishna, A Chang, L Fei-Fei, CD Manning",
+   "venue": "Proceedings of the fourth workshop on vision and language, 70-80",
+   "year": "2015"
+  },
+  {
+   "title": "Eviza: A natural language interface for visual analysis",
+   "authors": "V Setlur, SE Battersby, M Tory, R Gossweiler, AX Chang",
+   "venue": "Proceedings of the 29th annual symposium on user interface software and …",
+   "year": "2016"
+  },
+  {
+   "title": "Scan2cad: Learning cad model alignment in rgb-d scans",
+   "authors": "A Avetisyan, M Dahnert, A Dai, M Savva, AX Chang, M Nießner",
+   "venue": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2019"
+  },
+  {
+   "title": "Text2shape: Generating shapes from natural language by learning joint embeddings",
+   "authors": "K Chen, CB Choy, M Savva, AX Chang, T Funkhouser, S Savarese",
+   "venue": "Asian conference on computer vision, 100-116",
+   "year": "2018"
+  },
+  {
+   "title": "Deep convolutional priors for indoor scene synthesis",
+   "authors": "K Wang, M Savva, AX Chang, D Ritchie",
+   "venue": "ACM Transactions on Graphics (TOG) 37 (4), 1-14",
+   "year": "2018"
+  },
+  {
+   "title": "Planit: Planning and instantiating indoor scenes with relation graph and spatial prior networks",
+   "authors": "K Wang, YA Lin, B Weissmann, M Savva, AX Chang, D Ritchie",
+   "venue": "ACM Transactions on Graphics (TOG) 38 (4), 1-15",
+   "year": "2019"
+  },
+  {
+   "title": "MINOS: Multimodal indoor simulator for navigation in complex environments",
+   "authors": "M Savva, AX Chang, A Dosovitskiy, T Funkhouser, V Koltun",
+   "venue": "arXiv preprint arXiv:1712.03931",
+   "year": "2017"
+  },
+  {
+   "title": "Scan2cap: Context-aware dense captioning in rgb-d scans",
+   "authors": "Z Chen, A Gholami, M Nießner, AX Chang",
+   "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern …",
+   "year": "2021"
+  },
+  {
+   "title": "Rearrangement: A challenge for embodied ai",
+   "authors": "D Batra, AX Chang, S Chernova, AJ Davison, J Deng, V Koltun, S Levine, ...",
+   "venue": "arXiv preprint arXiv:2011.01975",
+   "year": "2020"
+  },
+  {
+   "title": "Joint entity and event coreference resolution across documents",
+   "authors": "H Lee, M Recasens, A Chang, M Surdeanu, D Jurafsky",
+   "venue": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Learning spatial knowledge for text to 3D scene generation",
+   "authors": "A Chang, M Savva, CD Manning",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "A Cross-Lingual Dictionary for English Wikipedia Concepts.",
+   "authors": "VI Spitkovsky, AX Chang",
+   "venue": "LREC, 3168-3175",
+   "year": "2012"
+  },
+  {
+   "title": "Habitat-matterport 3d semantics dataset",
+   "authors": "K Yadav, R Ramrakhya, SK Ramakrishnan, T Gervet, J Turner, ...",
+   "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2023"
+  },
+  {
+   "title": "Multi3drefer: Grounding text description to multiple 3d objects",
+   "authors": "Y Zhang, ZM Gong, AX Chang",
+   "venue": "2023 IEEE/CVF International Conference on Computer Vision (ICCV), 15179-15179",
+   "year": "2023"
+  },
+  {
+   "title": "Homerobot: Open-vocabulary mobile manipulation",
+   "authors": "S Yenamandra, A Ramachandran, K Yadav, A Wang, M Khanna, T Gervet, ...",
+   "venue": "arXiv preprint arXiv:2306.11565",
+   "year": "2023"
+  },
+  {
+   "title": "Habitat synthetic scenes dataset (hssd-200): An analysis of 3d scene scale and realism tradeoffs for objectgoal navigation",
+   "authors": "M Khanna, Y Mao, H Jiang, S Haresh, B Shacklett, D Batra, A Clegg, ...",
+   "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2024"
+  },
+  {
+   "title": "Pigraphs: learning interaction snapshots from observations",
+   "authors": "M Savva, AX Chang, P Hanrahan, M Fisher, M Nießner",
+   "venue": "ACM Transactions On Graphics (TOG) 35 (4), 1-12",
+   "year": "2016"
+  },
+  {
+   "title": "Multion: Benchmarking semantic map memory using multi-object navigation",
+   "authors": "S Wani, S Patel, U Jain, A Chang, M Savva",
+   "venue": "Advances in Neural Information Processing Systems 33, 9700-9712",
+   "year": "2020"
+  },
+  {
+   "title": "Text to 3d scene generation with rich lexical grounding",
+   "authors": "A Chang, W Monroe, M Savva, C Potts, CD Manning",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Language-aligned waypoint (law) supervision for vision-and-language navigation in continuous environments",
+   "authors": "S Raychaudhuri, S Wani, S Patel, U Jain, A Chang",
+   "venue": "Proceedings of the 2021 conference on empirical methods in natural language …",
+   "year": "2021"
+  },
+  {
+   "title": "DNet: A Unified Speaker-Listener Architecture for 3D Dense Captioning and Visual Grounding",
+   "authors": "DZ Chen, Q Wu, M Nießner, AX Chang",
+   "venue": "European Conference on Computer Vision, 487-505",
+   "year": "2022"
+  },
+  {
+   "title": "Semantically-enriched 3D models for common-sense knowledge",
+   "authors": "M Savva, AX Chang, P Hanrahan",
+   "venue": "Proceedings of the IEEE Conference on Computer Vision and Pattern …",
+   "year": "2015"
+  },
+  {
+   "title": "Habitat challenge 2023",
+   "authors": "K Yadav, J Krantz, R Ramrakhya, SK Ramakrishnan, J Yang, A Wang, ...",
+   "venue": "AI Habitat",
+   "year": "2023"
+  },
+  {
+   "title": "SceneGrok: Inferring action maps in 3D environments",
+   "authors": "M Savva, AX Chang, P Hanrahan, M Fisher, M Nießner",
+   "venue": "ACM transactions on graphics (TOG) 33 (6), 1-10",
+   "year": "2014"
+  },
+  {
+   "title": "TokensRegex: Defining cascaded regular expressions over tokens",
+   "authors": "AX Chang, CD Manning",
+   "venue": "Technical Report CSTR 2014-02, Department of Computer Science, Stanford …",
+   "year": "2014"
+  },
+  {
+   "title": "Unit3d: A unified transformer for 3d dense captioning and visual grounding",
+   "authors": "Z Chen, R Hu, X Chen, M Nießner, AX Chang",
+   "venue": "Proceedings of the IEEE/CVF international conference on computer vision …",
+   "year": "2023"
+  },
+  {
+   "title": "SceneSeer: 3D scene design with natural language",
+   "authors": "AX Chang, M Eric, M Savva, CD Manning",
+   "venue": "arXiv preprint arXiv:1703.00050",
+   "year": "2017"
+  },
+  {
+   "title": "A two-stage sieve approach for quote attribution",
+   "authors": "G Muzny, M Fang, A Chang, D Jurafsky",
+   "venue": "Proceedings of the 15th Conference of the European Chapter of the …",
+   "year": "2017"
+  },
+  {
+   "title": "Multiscan: Scalable rgbd scanning for 3d environments with articulated objects",
+   "authors": "Y Mao, Y Zhang, H Jiang, A Chang, M Savva",
+   "venue": "Advances in neural information processing systems 35, 9058-9071",
+   "year": "2022"
+  },
+  {
+   "title": "A Simple Distant Supervision Approach for the TAC-KBP Slot Filling Task.",
+   "authors": "M Surdeanu, D McClosky, J Tibshirani, J Bauer, AX Chang, VI Spitkovsky, ...",
+   "venue": "TAC",
+   "year": "2010"
+  },
+  {
+   "title": "Retrospectives on the embodied ai workshop",
+   "authors": "M Deitke, D Batra, Y Bisk, T Campari, AX Chang, DS Chaplot, C Chen, ...",
+   "venue": "arXiv preprint arXiv:2210.06849",
+   "year": "2022"
+  },
+  {
+   "title": "Singapo: Single image controlled generation of articulated parts in objects",
+   "authors": "J Liu, D Iliash, A Chang, M Savva, A Mahdavi Amiri",
+   "venue": "International Conference on Learning Representations 2025, 97511-97532",
+   "year": "2025"
+  },
+  {
+   "title": "Im2pano3d: Extrapolating 360 structure and semantics beyond the field of view",
+   "authors": "S Song, A Zeng, AX Chang, M Savva, S Savarese, T Funkhouser",
+   "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 3847-3856",
+   "year": "2018"
+  },
+  {
+   "title": "Unsupervised dependency parsing without gold part-of-speech tags",
+   "authors": "VI Spitkovsky, H Alshawi, A Chang, D Jurafsky",
+   "venue": "Proceedings of the 2011 Conference on Empirical Methods in Natural Language …",
+   "year": "2011"
+  },
+  {
+   "title": "When llms step into the 3d world: A survey and meta-analysis of 3d tasks via multi-modal large language models",
+   "authors": "X Ma, B Smart, Y Bhalgat, S Chen, X Li, J Ding, J Gu, DZ Chen, S Peng, ...",
+   "venue": "arXiv preprint arXiv:2405.10255",
+   "year": "2024"
+  },
+  {
+   "title": "Systems and methods of using natural language processing for visual analysis of a data set",
+   "authors": "VR Setlur, SE Battersby, MK Tory, RC Gossweiler III, AX Chang, ...",
+   "venue": "US Patent 10,817,527",
+   "year": "2020"
+  },
+  {
+   "title": "Opd: Single-view 3d openable part detection",
+   "authors": "H Jiang, Y Mao, M Savva, AX Chang",
+   "venue": "European Conference on Computer Vision, 410-426",
+   "year": "2022"
+  },
+  {
+   "title": "Understanding pure clip guidance for voxel grid nerf models",
+   "authors": "HH Lee, AX Chang",
+   "venue": "arXiv preprint arXiv:2209.15172",
+   "year": "2022"
+  },
+  {
+   "title": "A step towards worldwide biodiversity assessment: The BIOSCAN-1M insect dataset",
+   "authors": "Z Gharaee, ZM Gong, N Pellegrino, I Zarubiieva, JB Haurum, S Lowe, ...",
+   "venue": "Advances in Neural Information Processing Systems 36, 43593-43619",
+   "year": "2023"
+  },
+  {
+   "title": "Systems and methods of using natural language processing for visual analysis of a data set",
+   "authors": "VR Setlur, SE Battersby, MK Tory, RC Gossweiler III, AX Chang, ...",
+   "venue": "US Patent 10,515,121",
+   "year": "2019"
+  },
+  {
+   "title": "Interpretation of emergent communication in heterogeneous collaborative embodied agents",
+   "authors": "S Patel, S Wani, U Jain, AG Schwing, S Lazebnik, M Savva, AX Chang",
+   "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision …",
+   "year": "2021"
+  },
+  {
+   "title": "Opdmulti: Openable part detection for multiple objects",
+   "authors": "X Sun, H Jiang, M Savva, A Chang",
+   "venue": "2024 International Conference on 3D Vision (3DV), 169-178",
+   "year": "2024"
+  },
+  {
+   "title": "Semantic parsing for text to 3d scene generation",
+   "authors": "A Chang, M Savva, CD Manning",
+   "venue": "Proceedings of the ACL 2014 workshop on semantic parsing, 17-21",
+   "year": "2014"
+  },
+  {
+   "title": "Plan2scene: Converting floorplans to 3d scenes",
+   "authors": "M Vidanapathirana, Q Wu, Y Furukawa, AX Chang, M Savva",
+   "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2021"
+  },
+  {
+   "title": "Interactive learning of spatial knowledge for text to 3D scene generation",
+   "authors": "A Chang, M Savva, CD Manning",
+   "venue": "Proceedings of the Workshop on Interactive Language Learning, Visualization …",
+   "year": "2014"
+  },
+  {
+   "title": "Semantic mapping in indoor embodied ai–a comprehensive survey and future directions",
+   "authors": "S Raychaudhuri, AX Chang",
+   "venue": "arXiv preprint arXiv:2501.05750 3",
+   "year": "2025"
+  },
+  {
+   "title": "Tricolo: Trimodal contrastive loss for text to shape retrieval",
+   "authors": "Y Ruan, HH Lee, Y Zhang, K Zhang, AX Chang",
+   "venue": "2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …",
+   "year": "2024"
+  },
+  {
+   "title": "BIOSCAN-5M: A multimodal dataset for insect biodiversity",
+   "authors": "Z Gharaee, SC Lowe, ZM Gong, PM Arias, N Pellegrino, AT Wang, ...",
+   "venue": "Advances in Neural Information Processing Systems 37, 36285-36313",
+   "year": "2024"
+  },
+  {
+   "title": "Stanford's Distantly-Supervised Slot-Filling System.",
+   "authors": "M Surdeanu, S Gupta, J Bauer, D McClosky, AX Chang, VI Spitkovsky, ...",
+   "venue": "TAC",
+   "year": "2011"
+  },
+  {
+   "title": "Text‐to‐3D Shape Generation",
+   "authors": "H Lee, M Savva, AX Chang",
+   "venue": "Computer Graphics Forum 43 (2), e15061",
+   "year": "2024"
+  },
+  {
+   "title": "Mirror3D: Depth refinement for mirror surfaces",
+   "authors": "J Tan, W Lin, AX Chang, M Savva",
+   "venue": "arXiv preprint arXiv:2106.06629",
+   "year": "2021"
+  },
+  {
+   "title": "Sutime: Evaluation in tempeval-3",
+   "authors": "A Chang, CD Manning",
+   "venue": "Second Joint Conference on Lexical and Computational Semantics (* SEM …",
+   "year": "2013"
+  },
+  {
+   "title": "Scenesuggest: Context-driven 3d scene design",
+   "authors": "M Savva, AX Chang, M Agrawala",
+   "venue": "arXiv preprint arXiv:1703.00061",
+   "year": "2017"
+  },
+  {
+   "title": "An object is worth 64× 64 pixels: Generating 3d object via image diffusion",
+   "authors": "X Yan, HH Lee, Z Wan, AX Chang",
+   "venue": "2025 International Conference on 3D Vision (3DV), 123-133",
+   "year": "2025"
+  },
+  {
+   "title": "Mopa: Modular object navigation with pointgoal agents",
+   "authors": "S Raychaudhuri, T Campari, U Jain, M Savva, AX Chang",
+   "venue": "2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …",
+   "year": "2024"
+  },
+  {
+   "title": "Sneak pique: Exploring autocompletion as a data discovery scaffold for supporting visual analysis",
+   "authors": "V Setlur, E Hoque, DH Kim, AX Chang",
+   "venue": "Proceedings of the 33rd Annual ACM Symposium on User Interface Software and …",
+   "year": "2020"
+  },
+  {
+   "title": "Hierarchy denoising recursive autoencoders for 3D scene layout prediction",
+   "authors": "Y Shi, AX Chang, Z Wu, M Savva, K Xu",
+   "venue": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2019"
+  },
+  {
+   "title": "A comparison of named-entity disambiguation and word sense disambiguation",
+   "authors": "A Chang, VI Spitkovsky, CD Manning, E Agirre",
+   "venue": "Proceedings of the Tenth International Conference on Language Resources and …",
+   "year": "2016"
+  },
+  {
+   "title": "CLIBD: Bridging vision and genomics for biodiversity monitoring at scale",
+   "authors": "ZM Gong, A Wang, X Huo, JB Haurum, SC Lowe, GW Taylor, A Chang",
+   "venue": "International Conference on Learning Representations 2025, 92306-92336",
+   "year": "2025"
+  },
+  {
+   "title": "Hsm: Hierarchical scene motifs for multi-scale indoor scene generation",
+   "authors": "HID Pun, HII Tam, AT Wang, X Huo, AX Chang, M Savva",
+   "venue": "2026 International Conference on 3D Vision (3DV), 1356-1367",
+   "year": "2026"
+  },
+  {
+   "title": "Exploiting proximity-aware tasks for embodied social navigation",
+   "authors": "E Cancelli, T Campari, L Serafini, AX Chang, L Ballan",
+   "venue": "2023 IEEE/CVF International Conference on Computer Vision (ICCV), 10923-10933",
+   "year": "2023"
+  },
+  {
+   "title": "S2o: Static to openable enhancement for articulated 3d objects",
+   "authors": "D Iliash, H Jiang, Y Zhang, M Savva, AX Chang",
+   "venue": "2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …",
+   "year": "2026"
+  },
+  {
+   "title": "Stanford-UBC Entity Linking at TAC-KBP.",
+   "authors": "AX Chang, VI Spitkovsky, E Yeh, CD Manning, E Agirre",
+   "venue": "TAC",
+   "year": "2010"
+  },
+  {
+   "title": "Stanford-UBC at TAC-KBP.",
+   "authors": "E Agirre, AX Chang, D Jurafsky, CD Manning, VI Spitkovsky, E Yeh",
+   "venue": "TAC",
+   "year": "2009"
+  },
+  {
+   "title": "SceneEval: Evaluating semantic coherence in text-conditioned 3D indoor scene synthesis",
+   "authors": "HII Tam, HID Pun, AT Wang, AX Chang, M Savva",
+   "venue": "2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …",
+   "year": "2026"
+  },
+  {
+   "title": "On being the right scale: Sizing large collections of 3D models",
+   "authors": "M Savva, AX Chang, G Bernstein, CD Manning, P Hanrahan",
+   "venue": "SIGGRAPH Asia 2014 Indoor Scene Understanding Where Graphics Meets Vision, 1-11",
+   "year": "2014"
+  },
+  {
+   "title": "Duoduo CLIP: Efficient 3D understanding with multi-view images",
+   "authors": "HH Lee, Y Zhang, A Chang",
+   "venue": "International Conference on Learning Representations 2025, 48070-48091",
+   "year": "2025"
+  },
+  {
+   "title": "Scenemotifcoder: Example-driven visual program learning for generating 3d object arrangements",
+   "authors": "HII Tam, HID Pun, AT Wang, AX Chang, M Savva",
+   "venue": "2025 International Conference on 3D Vision (3DV), 179-188",
+   "year": "2025"
+  },
+  {
+   "title": "Nuiscene: Exploring efficient generation of unbounded outdoor scenes",
+   "authors": "HH Lee, Q Han, AX Chang",
+   "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV), 26509-26518",
+   "year": "2025"
+  },
+  {
+   "title": "Transphoner: Automated mnemonic keyword generation",
+   "authors": "M Savva, AX Chang, CD Manning, P Hanrahan",
+   "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …",
+   "year": "2014"
+  },
+  {
+   "title": "Find your optimal teacher: Personalized data synthesis via router-guided multi-teacher distillation",
+   "authors": "H Zhang, S Yang, X Liang, C Shang, Y Jiang, C Tao, J Xiong, HKH So, ...",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "Learning where to look: Data-driven viewpoint set selection for 3d scenes",
+   "authors": "K Genova, M Savva, AX Chang, T Funkhouser",
+   "venue": "arXiv preprint arXiv:1704.02393",
+   "year": "2017"
+  },
+  {
+   "title": "Stanford's 2013 KBP System.",
+   "authors": "G Angeli, AT Chaganty, AX Chang, K Reschke, J Tibshirani, J Wu, ...",
+   "venue": "TAC",
+   "year": "2013"
+  },
+  {
+   "title": "Quantifying and Improving the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data",
+   "authors": "S Yang, J Wu, W Ding, N Wu, S Liang, M Gong, H Li, H Zhang, AX Chang, ...",
+   "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …",
+   "year": "2026"
+  },
+  {
+   "title": "BarcodeBERT: transformers for biodiversity analyses",
+   "authors": "P Millan Arias, N Sadjadi, M Safari, ZM Gong, AT Wang, JB Haurum, ...",
+   "venue": "Bioinformatics Advances 6 (1), vbag054",
+   "year": "2026"
+  },
+  {
+   "title": "Diorama: Unleashing zero-shot single-view 3d indoor scene modeling",
+   "authors": "Q Wu, D Iliash, D Ritchie, M Savva, AX Chang",
+   "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV), 8896-8907",
+   "year": "2025"
+  },
+  {
+   "title": "ViGiL3D: A linguistically diverse dataset for 3D visual grounding",
+   "authors": "A Wang, ZM Gong, AX Chang",
+   "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational …",
+   "year": "2025"
+  },
+  {
+   "title": "3dvqa: Visual question answering for 3d environments",
+   "authors": "Y Etesam, L Kochiev, AX Chang",
+   "venue": "2022 19th Conference on Robots and Vision (CRV), 233-240",
+   "year": "2022"
+  },
+  {
+   "title": "Articulated 3d human-object interactions from rgb videos: An empirical analysis of approaches and challenges",
+   "authors": "S Haresh, X Sun, H Jiang, AX Chang, M Savva",
+   "venue": "2022 International Conference on 3D Vision (3DV), 312-321",
+   "year": "2022"
+  },
+  {
+   "title": "Mimic and rephrase: Reflective listening in open-ended dialogue",
+   "authors": "J Dieter, T Wang, AT Chaganty, G Angeli, A Chang",
+   "venue": "Proceedings of the 23rd Conference on Computational Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Generalizing single-view 3D shape retrieval to occlusions and unseen objects",
+   "authors": "Q Wu, D Ritchie, M Savva, AX Chang",
+   "venue": "2024 International Conference on 3D Vision (3DV), 893-902",
+   "year": "2024"
+  },
+  {
+   "title": "The Fractal Geometry of the Boundary of Dragon Curves",
+   "authors": "A Chang, T Zhang",
+   "venue": "Journal of Recreational Mathematics 30 (1), 9-22",
+   "year": "2000"
+  },
+  {
+   "title": "Revsi: Rebuilding visual spatial intelligence evaluation for accurate assessment of vlm 3d reasoning",
+   "authors": "Y Zhang, J Chen, J Tan, Y Mao, W Chen, AX Chang",
+   "venue": "Forty-third International Conference on Machine Learning",
+   "year": "2026"
+  },
+  {
+   "title": "SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis",
+   "authors": "X Sun, D Goel, AX Chang",
+   "venue": "2026 International Conference on 3D Vision (3DV), 1545-1555",
+   "year": "2026"
+  },
+  {
+   "title": "Data visualization user interface using cohesion of sequential natural language commands",
+   "authors": "VR Setlur, SE Battersby, MK Tory, RC Gossweiler III, AX Chang, ...",
+   "venue": "US Patent 11,010,396",
+   "year": "2021"
+  },
+  {
+   "title": "Applying natural language pragmatics in a data visualization user interface",
+   "authors": "VR Setlur, SE Battersby, MK Tory, RC Gossweiler III, AX Chang, ...",
+   "venue": "US Patent 10,795,902",
+   "year": "2020"
+  },
+  {
+   "title": "Updating displayed data visualizations according to identified conversation centers in natural language commands",
+   "authors": "VR Setlur, SE Battersby, MK Tory, RC Gossweiler III, AX Chang, ...",
+   "venue": "US Patent 11,030,207",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluating the word-expert approach for named-entity disambiguation",
+   "authors": "AX Chang, VI Spitkovsky, CD Manning, E Agirre",
+   "venue": "arXiv preprint arXiv:1603.04767",
+   "year": "2016"
+  },
+  {
+   "title": "Stanford-UBC Entity Linking at TAC-KBP, Again.",
+   "authors": "AX Chang, VI Spitkovsky, CD Manning, E Agirre",
+   "venue": "TAC",
+   "year": "2011"
+  },
+  {
+   "title": "Enhancing DNA foundation models to address masking inefficiencies",
+   "authors": "M Safari, PM Arias, SC Lowe, L Kari, AX Chang, GW Taylor",
+   "venue": "arXiv preprint arXiv:2502.18405",
+   "year": "2025"
+  },
+  {
+   "title": "Applying natural language pragmatics in a data visualization user interface",
+   "authors": "VR Setlur, SE Battersby, MK Tory, RC Gossweiler III, AX Chang, ...",
+   "venue": "US Patent 11,934,461",
+   "year": "2024"
+  },
+  {
+   "title": "Do 3D Large Language Models Really Understand 3D Spatial Relationships?",
+   "authors": "X Ma, T Sun, S Chen, Y Bhalgat, J Gu, A Chang, I Armeni, I Laina, S Peng, ...",
+   "venue": "International Conference on Learning Representations 2026, 32591-32610",
+   "year": "2026"
+  },
+  {
+   "title": "Zero-shot object-centric instruction following: Integrating foundation models with traditional navigation",
+   "authors": "S Raychaudhuri, D Ta, K Ashton, AX Chang, J Wang, B Bucher",
+   "venue": "arXiv preprint arXiv:2411.07848",
+   "year": "2024"
+  },
+  {
+   "title": "Roominoes: Generating novel 3d floor plans from existing 3d rooms",
+   "authors": "K Wang, X Xu, L Lei, S Ling, N Lindsay, AX Chang, M Savva, D Ritchie",
+   "venue": "Computer Graphics Forum 40 (5), 57-69",
+   "year": "2021"
+  },
+  {
+   "title": "Text to 3D Scene Generation",
+   "authors": "AX Chang",
+   "venue": "Stanford University",
+   "year": "2015"
+  },
+  {
+   "title": "Strong Baselines for Cross-Lingual Entity Linking.",
+   "authors": "VI Spitkovsky, AX Chang",
+   "venue": "TAC",
+   "year": "2011"
+  },
+  {
+   "title": "Motion annotation programs: A scalable approach to annotating kinematic articulations in large 3d shape collections",
+   "authors": "X Xu, D Charatan, S Raychaudhuri, H Jiang, M Heitmann, V Kim, ...",
+   "venue": "2020 International Conference on 3D Vision (3DV), 613-622",
+   "year": "2020"
+  },
+  {
+   "title": "Connectivity in a peer network",
+   "authors": "R Lo, AX Chang, SJ Onorato",
+   "venue": "US Patent App. 12/202,179",
+   "year": "2009"
+  },
+  {
+   "title": "Cross-modal attribute transfer for rescaling 3D models",
+   "authors": "L Shao, AX Chang, H Su, M Savva, L Guibas",
+   "venue": "2017 International Conference on 3D Vision (3DV), 640-648",
+   "year": "2017"
+  },
+  {
+   "title": "Artiverse: A diverse and physically grounded dataset for articulated objects",
+   "authors": "D Iliash, J Liu, E Fokin, Q Wu, AM Amiri, M Savva, AX Chang",
+   "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …",
+   "year": "2026"
+  },
+  {
+   "title": "Hyperbolic multimodal representation learning for biological taxonomies",
+   "authors": "ZM Gong, C Tang, X Huo, N Pellegrino, AT Wang, GW Taylor, AX Chang, ...",
+   "venue": "arXiv preprint arXiv:2508.16744",
+   "year": "2025"
+  },
+  {
+   "title": "BarcodeMamba+: Advancing State-Space Models for Fungal Biodiversity Research",
+   "authors": "T Gao, SC Lowe, B Furneaux, AX Chang, GW Taylor",
+   "venue": "arXiv preprint arXiv:2512.15931",
+   "year": "2025"
+  },
+  {
+   "title": "Learning to Place Objects with Programs and Iterative Self Training",
+   "authors": "A Chang, K Wang, Y Li, M Savva, AX Chang, D Ritchie",
+   "venue": "arXiv preprint arXiv:2503.04496",
+   "year": "2025"
+  },
+  {
+   "title": "R3ds: Reality-linked 3d scenes for panoramic scene understanding",
+   "authors": "Q Wu, S Raychaudhuri, D Ritchie, M Savva, AX Chang",
+   "venue": "European Conference on Computer Vision, 452-468",
+   "year": "2024"
+  },
+  {
+   "title": "Using natural language processing for visual analysis of a data set",
+   "authors": "VR Setlur, SE Battersby, MK Tory, RC Gossweiler III, AX Chang, ...",
+   "venue": "US Patent 11,874,877",
+   "year": "2024"
+  },
+  {
+   "title": "Linking WordNet to 3D shapes",
+   "authors": "AX Chang, R Mago, P Krishna, M Savva, C Fellbaum",
+   "venue": "Proceedings of the 9th Global Wordnet Conference, 358-363",
+   "year": "2018"
+  },
+  {
+   "title": "Visor: Visual spatial object reasoning for language-driven object navigation",
+   "authors": "F Taioli, S Yang, S Raychaudhuri, M Cristani, U Jain, AX Chang",
+   "venue": "arXiv preprint arXiv:2602.07555",
+   "year": "2026"
+  },
+  {
+   "title": "MLFM: Multi-Layered Feature Maps for Richer Language Understanding in Zero-Shot Semantic Navigation",
+   "authors": "S Raychaudhuri, E Cancelli, T Campari, L Ballan, M Savva, AX Chang",
+   "venue": "arXiv preprint arXiv:2507.07299",
+   "year": "2025"
+  },
+  {
+   "title": "Using natural language processing for visual analysis of a data set",
+   "authors": "VR Setlur, SE Battersby, MK Tory, RC Gossweiler III, AX Chang, ...",
+   "venue": "US Patent 11,244,006",
+   "year": "2022"
+  },
+  {
+   "title": "Function2Scene: 3D Indoor Scene Layout from Functional Specifications",
+   "authors": "R Wang, Q Chen, D Ritchie, AX Chang, M Savva, K Wang, H Zhang",
+   "venue": "arXiv preprint arXiv:2605.30819 3",
+   "year": "2026"
+  },
+  {
+   "title": "JRM: Joint Reconstruction Model for Multiple Objects without Alignment",
+   "authors": "Q Wu, Y Siddiqui, D Frost, S Aroudj, A Avetisyan, R Newcombe, ...",
+   "venue": "arXiv preprint arXiv:2603.25985",
+   "year": "2026"
+  },
+  {
+   "title": "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance",
+   "authors": "SG Patil, AX Chang, M Savva",
+   "venue": "2023 20th Conference on Robots and Vision (CRV), 63-72",
+   "year": "2023"
+  },
+  {
+   "title": "BarcodeMAE+: Rethinking Masked Pretraining and Global Representations for DNA Barcode Foundation Models",
+   "authors": "M Safari, PM Arias, SC Lowe, L Kari, AX Chang, GW Taylor",
+   "venue": "arXiv preprint arXiv:2609.35877",
+   "year": "2026"
+  },
+  {
+   "title": "CrownFusion: 3D Dental Crown Generation Using Geometry Images and Latent Diffusion",
+   "authors": "JZ Ye, X Yan, S Hauberg, AX Chang, H Zhang, PL Søndergaard",
+   "venue": "International Conference on Medical Image Computing and Computer-Assisted …",
+   "year": "2026"
+  },
+  {
+   "title": "Survey on Compositional 3D Indoor Scene Generation",
+   "authors": "HII Tam, HID Pun, AT Wang, X Sun, Q Wu, H Lee, AX Chang, M Savva",
+   "venue": "Computer Graphics Forum, e70591",
+   "year": "2026"
+  },
+  {
+   "title": "Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator",
+   "authors": "S Yang, S Liang, W Liu, W Ding, L Shou, L Cheng, AX Chang",
+   "venue": "arXiv preprint arXiv:2607.07993",
+   "year": "2026"
+  },
+  {
+   "title": "RustMizan: A Compilable, Contamination-Aware Benchmarking Framework for Rust Vulnerabilities",
+   "authors": "T Elsayed, S Yang, E Koh, S Goyal, V Huang, P Ngo, N Young, ...",
+   "venue": "arXiv preprint arXiv:2607.04729",
+   "year": "2026"
+  },
+  {
+   "title": "Scaling Diverse Language Generation for 3D Visual Grounding",
+   "authors": "AT Wang, D Yang, AX Chang",
+   "venue": "arXiv preprint arXiv:2606.20946",
+   "year": "2026"
+  },
+  {
+   "title": "Functionalization via Structure Completion and Motion Rectification",
+   "authors": "M Zhao, SRK Perla, K Wang, S Nag, DA Nguyen, J Peng, R Wang, ...",
+   "venue": "arXiv preprint arXiv:2605.18010",
+   "year": "2026"
+  },
+  {
+   "title": "NuiWorld: Exploring a Scalable Framework for End-to-End Controllable World Generation",
+   "authors": "HH Lee, CY Yang, YL Liu, AX Chang",
+   "venue": "arXiv preprint arXiv:2601.19048",
+   "year": "2026"
+  },
+  {
+   "title": "NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields",
+   "authors": "N Wang, L Zhang, AX Chang",
+   "venue": "arXiv preprint arXiv:2405.05010",
+   "year": "2024"
+  },
+  {
+   "title": "Utilizing autocompletion as a data discovery scaffold for supporting visual analysis",
+   "authors": "VR Setlur, MEH Prince, DH Kim, AX Chang",
+   "venue": "US Patent 11,868,343",
+   "year": "2024"
+  },
+  {
+   "title": "Symposium on Geometry Processing 2021",
+   "authors": "A Chang, A Jacobson, K Crane",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Strong Baselines for Cross-Lingual Entity Linking",
+   "authors": "AX Chang, VI Spitkovsky",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Portability of a class-based backoff language model",
+   "authors": "AX Chang",
+   "venue": "Massachusetts Institute of Technology",
+   "year": "2000"
+  },
+  {
+   "title": "BIOSCAN-5M",
+   "authors": "Z Gharaee, SC Lowe, ZM Gong, PM Arias, N Pellegrino, AT Wang, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Bickel, Bernd 1082",
+   "authors": "L Agapito, S Agrawal, S Ainetter, E Aksan, F Ali, SS Ali, D Antić, L Antsfeld, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval Supplemental Materials",
+   "authors": "Y Ruan, HH Lee, Y Zhang, K Zhang, AX Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "MOPA: Modular Object Navigation with PointGoal Agents Supplemental Materials",
+   "authors": "S Raychaudhuri, T Campari, U Jain, M Savva, AX Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding Supplementary Material",
+   "authors": "DZ Chen, R Hu, X Chen, M Nießner, AX Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Multi3DRefer: Grounding Text Description to Multiple 3D Objects Supplemental Materials",
+   "authors": "Y Zhang, ZM Gong, AX Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Abhishek Sharma, Ecole Polytechnique, France Adam Harley, Carnegie Mellon University, USA Ahmed AA Osman, Max Planck Institute For Intelligent Systems, Germany Akihito Seki …",
+   "authors": "A Caliskan, A Bokhovkin, A Tonioni, AW Bergman, A Artemov, A Bourki, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for D3Net: A Unified Speaker-Listener Architecture for 3D Dense Captioning and Visual Grounding",
+   "authors": "DZ Chen, Q Wu, M Nießner, AX Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Sonia Delaunay",
+   "authors": "A Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Sport Shoes",
+   "authors": "A Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Mirror3D: Depth Refinement for Mirror Surfaces Supplemental Materials",
+   "authors": "J Tan, W Lin, AX Chang, M Savva, AMDD Statistics",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for Scan2Cap: Context-aware Dense Captioning in RGB-D Scans",
+   "authors": "DZ Chen, A Gholami, M Nießner, AX Chang",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "SAPIEN: a SimulAted Part-based Interactive ENvironment Supplementary Material",
+   "authors": "F Xiang, Y Qin, K Mo, Y Xia, H Zhu, F Liu, M Liu, H Jiang, Y Yuan, H Wang, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Jean-Sebastien Franco, INRIA, France Takuya Funatomi, Nara Institute of Science and Technology, Japan Yasutaka Furukawa, Simon Fraser University, Canada Mathias Gallardo …",
+   "authors": "H Ackermann, C Albl, T Alldieck, I Alzugaray, S Aroudj, F Arrigoni, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplemental Materials Hierarchy Denoising Recursive Autoencoders for 3D Scene Layout Prediction",
+   "authors": "Y Shi, AX Chang, Z Wu, M Savva, K Xu",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Im2Pano3D",
+   "authors": "S Song, A Zeng, AX Chang, M Savva, S Savarese, T Funkhouser",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Semantic Scene Completion",
+   "authors": "S Song, F Yu, A Zeng, AX Chang, M Savva, T Funkhouser",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Stanford-UBC Entity Linking at KBP TAC 2010",
+   "authors": "AX CHANG, VI SPITKOVSKY, E YEH, E AGIRRE, CD MANNING",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning Affordance Maps by Observing Interactions",
+   "authors": "M Savva, AX Chang, M Fisher, M Nießner, P Hanrahan",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Analysis of Email Ego Networks",
+   "authors": "AX Chang",
+   "venue": "",
+   "year": null
+  }
+ ]
+}

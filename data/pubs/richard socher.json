@@ -1,0 +1,2057 @@
+{
+ "user": "FaOcyfMAAAAJ",
+ "pubs": [
+  {
+   "title": "Imagenet: A large-scale hierarchical image database",
+   "authors": "J Deng, W Dong, R Socher, LJ Li, K Li, L Fei-Fei",
+   "venue": "2009 IEEE conference on computer vision and pattern recognition, 248-255",
+   "year": "2009"
+  },
+  {
+   "title": "Glove: Global vectors for word representation",
+   "authors": "J Pennington, R Socher, CD Manning",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+   "authors": "R Socher, A Perelygin, JY Wu, J Chuang, CD Manning, AY Ng, CP Potts",
+   "venue": "EMNLP",
+   "year": "2013"
+  },
+  {
+   "title": "Pointer sentinel mixture models",
+   "authors": "S Merity, C Xiong, J Bradbury, R Socher",
+   "venue": "arXiv preprint arXiv:1609.07843",
+   "year": "2016"
+  },
+  {
+   "title": "Improved semantic representations from tree-structured long short-term memory networks",
+   "authors": "KS Tai, R Socher, CD Manning",
+   "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational …",
+   "year": "2015"
+  },
+  {
+   "title": "Large language models: A survey",
+   "authors": "S Minaee, T Mikolov, N Nikzad, M Chenaghlu, R Socher, X Amatriain, ...",
+   "venue": "arXiv preprint arXiv:2402.06196",
+   "year": "2024"
+  },
+  {
+   "title": "Reasoning with neural tensor networks for knowledge base completion",
+   "authors": "R Socher, D Chen, CD Manning, A Ng",
+   "venue": "Advances in neural information processing systems 26",
+   "year": "2013"
+  },
+  {
+   "title": "A deep reinforced model for abstractive summarization",
+   "authors": "P Romain, X Caiming, S Richard",
+   "venue": "International Conference on Learning Representations",
+   "year": "2018"
+  },
+  {
+   "title": "Knowing when to look: Adaptive attention via a visual sentinel for image captioning",
+   "authors": "J Lu, C Xiong, D Parikh, R Socher",
+   "venue": "2017 IEEE conference on computer vision and pattern recognition (CVPR), 3242 …",
+   "year": "2017"
+  },
+  {
+   "title": "Zero-shot learning through cross-modal transfer",
+   "authors": "R Socher, M Ganjoo, CD Manning, A Ng",
+   "venue": "Advances in neural information processing systems 26",
+   "year": "2013"
+  },
+  {
+   "title": "Seq2sql: Generating structured queries from natural language using reinforcement learning",
+   "authors": "V Zhong, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1709.00103",
+   "year": "2017"
+  },
+  {
+   "title": "Parsing natural scenes and natural language with recursive neural networks",
+   "authors": "R Socher, CCY Lin, AY Ng, CD Manning",
+   "venue": "",
+   "year": "2011"
+  },
+  {
+   "title": "Dividemix: Learning with noisy labels as semi-supervised learning",
+   "authors": "J Li, R Socher, SCH Hoi",
+   "venue": "arXiv preprint arXiv:2002.07394",
+   "year": "2020"
+  },
+  {
+   "title": "Deep learning-enabled medical computer vision",
+   "authors": "A Esteva, K Chou, S Yeung, N Naik, A Madani, A Mottaghi, Y Liu, E Topol, ...",
+   "venue": "NPJ digital medicine 4 (1), 5",
+   "year": "2021"
+  },
+  {
+   "title": "Semantic compositionality through recursive matrix-vector spaces",
+   "authors": "R Socher, B Huval, CD Manning, AY Ng",
+   "venue": "Proceedings of the 2012 joint conference on empirical methods in natural …",
+   "year": "2012"
+  },
+  {
+   "title": "Ctrl: A conditional transformer language model for controllable generation",
+   "authors": "NS Keskar, B McCann, LR Varshney, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1909.05858",
+   "year": "2019"
+  },
+  {
+   "title": "Semi-supervised recursive autoencoders for predicting sentiment distributions",
+   "authors": "R Socher, J Pennington, EH Huang, AY Ng, CD Manning",
+   "venue": "Proceedings of the 2011 conference on empirical methods in natural language …",
+   "year": "2011"
+  },
+  {
+   "title": "Improving word representations via global context and multiple word prototypes",
+   "authors": "EH Huang, R Socher, CD Manning, AY Ng",
+   "venue": "Proceedings of the 50th annual meeting of the association for computational …",
+   "year": "2012"
+  },
+  {
+   "title": "Ask me anything: Dynamic memory networks for natural language processing",
+   "authors": "A Kumar, O Irsoy, P Ondruska, M Iyyer, J Bradbury, I Gulrajani, V Zhong, ...",
+   "venue": "arXiv preprint arXiv:1506.07285",
+   "year": "2015"
+  },
+  {
+   "title": "Large language models generate functional protein sequences across diverse families",
+   "authors": "A Madani, B Krause, ER Greene, S Subramanian, BP Mohr, JM Holton, ...",
+   "venue": "Nature biotechnology 41 (8), 1099-1106",
+   "year": "2023"
+  },
+  {
+   "title": "Regularizing and optimizing LSTM language models",
+   "authors": "S Merity, NS Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:1708.02182",
+   "year": "2017"
+  },
+  {
+   "title": "Kai Li, & Li Fei-Fei.(2009). ImageNet: A large-scale hierarchical image database",
+   "authors": "J Deng, W Dong, R Socher, LJ Li",
+   "venue": "2009 IEEE conference on computer vision and pattern recognition 248, 255",
+   "year": "2009"
+  },
+  {
+   "title": "Learned in translation: Contextualized word vectors",
+   "authors": "B McCann, J Bradbury, C Xiong, R Socher",
+   "venue": "Advances in neural information processing systems 30",
+   "year": "2017"
+  },
+  {
+   "title": "Summeval: Re-evaluating summarization evaluation",
+   "authors": "AR Fabbri, W Kryściński, B McCann, C Xiong, R Socher, D Radev",
+   "venue": "Transactions of the Association for Computational Linguistics 9, 391-409",
+   "year": "2021"
+  },
+  {
+   "title": "Evaluating the factual consistency of abstractive text summarization",
+   "authors": "W Kryściński, B McCann, C Xiong, R Socher",
+   "venue": "Proceedings of the 2020 conference on empirical methods in natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Parsing with compositional vector grammars",
+   "authors": "R Socher, J Bauer, CD Manning, AY Ng",
+   "venue": "Proceedings of the 51st Annual Meeting of the Association for Computational …",
+   "year": "2013"
+  },
+  {
+   "title": "ERASER: A benchmark to evaluate rationalized NLP models",
+   "authors": "J DeYoung, S Jain, NF Rajani, E Lehman, C Xiong, R Socher, ...",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Dynamic pooling and unfolding recursive autoencoders for paraphrase detection",
+   "authors": "R Socher, E Huang, J Pennin, CD Manning, A Ng",
+   "venue": "Advances in neural information processing systems 24",
+   "year": "2011"
+  },
+  {
+   "title": "Better Word Representations with Recursive Neural Networks for Morphology",
+   "authors": "MT Luong, R Socher, CD Manning",
+   "venue": "",
+   "year": "2013"
+  },
+  {
+   "title": "Non-autoregressive neural machine translation",
+   "authors": "J Gu, J Bradbury, C Xiong, VOK Li, R Socher",
+   "venue": "arXiv preprint arXiv:1711.02281",
+   "year": "2017"
+  },
+  {
+   "title": "Grounded Compositional Semantics for Finding and Describing Images with Sentences",
+   "authors": "R Socher, K Andrej, Q Le, C Manning, A Ng",
+   "venue": "Transactions of the Association for Computational Linguistics 2014",
+   "year": "2014"
+  },
+  {
+   "title": "Dynamic memory networks for visual and textual question answering",
+   "authors": "C Xiong, S Merity, R Socher",
+   "venue": "International conference on machine learning, 2397-2406",
+   "year": "2016"
+  },
+  {
+   "title": "Improving generalization performance by switching from adam to sgd",
+   "authors": "NS Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:1712.07628",
+   "year": "2017"
+  },
+  {
+   "title": "Convolutional-recursive deep learning for 3d object classification",
+   "authors": "R Socher, B Huval, B Bath, CD Manning, A Ng",
+   "venue": "Advances in neural information processing systems 25",
+   "year": "2012"
+  },
+  {
+   "title": "End-to-end dense video captioning with masked transformer",
+   "authors": "L Zhou, Y Zhou, JJ Corso, R Socher, C Xiong",
+   "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 8739-8748",
+   "year": "2018"
+  },
+  {
+   "title": "2009 IEEE conference on computer vision and pattern recognition",
+   "authors": "J Deng, W Dong, R Socher, LJ Li, K Li, L Fei-Fei",
+   "venue": "Ieee 2009, 248-255",
+   "year": "2009"
+  },
+  {
+   "title": "Explain yourself! leveraging language models for commonsense reasoning",
+   "authors": "NF Rajani, B McCann, C Xiong, R Socher",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Bilingual word embeddings for phrase-based machine translation",
+   "authors": "WY Zou, R Socher, D Cer, CD Manning",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "The natural language decathlon: Multitask learning as question answering",
+   "authors": "B McCann, NS Keskar, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1806.08730",
+   "year": "2018"
+  },
+  {
+   "title": "Dynamic coattention networks for question answering",
+   "authors": "C Xiong, V Zhong, R Socher",
+   "venue": "arXiv preprint arXiv:1611.01604",
+   "year": "2016"
+  },
+  {
+   "title": "Quasi-recurrent neural networks",
+   "authors": "J Bradbury, S Merity, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1611.01576",
+   "year": "2016"
+  },
+  {
+   "title": "A simple language model for task-oriented dialogue",
+   "authors": "E Hosseini-Asl, B McCann, CS Wu, S Yavuz, R Socher",
+   "venue": "Advances in neural information processing systems 33, 20179-20191",
+   "year": "2020"
+  },
+  {
+   "title": "A joint many-task model: Growing a neural network for multiple NLP tasks",
+   "authors": "K Hashimoto, C Xiong, Y Tsuruoka, R Socher",
+   "venue": "Proceedings of the 2017 conference on empirical methods in natural language …",
+   "year": "2017"
+  },
+  {
+   "title": "Learn to grow: A continual structure learning framework for overcoming catastrophic forgetting",
+   "authors": "X Li, Y Zhou, T Wu, R Socher, C Xiong",
+   "venue": "International conference on machine learning, 3925-3934",
+   "year": "2019"
+  },
+  {
+   "title": "Towards total scene understanding: Classification, annotation and segmentation in an automatic framework",
+   "authors": "LJ Li, R Socher, L Fei-Fei",
+   "venue": "2009 IEEE conference on computer vision and pattern recognition, 2036-2043",
+   "year": "2009"
+  },
+  {
+   "title": "Gedi: Generative discriminator guided sequence generation",
+   "authors": "B Krause, AD Gotmare, B McCann, NS Keskar, S Joty, R Socher, ...",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021, 4929-4952",
+   "year": "2021"
+  },
+  {
+   "title": "Multi-hop knowledge graph reasoning with reward shaping",
+   "authors": "XV Lin, R Socher, C Xiong",
+   "venue": "Proceedings of the 2018 conference on empirical methods in natural language …",
+   "year": "2018"
+  },
+  {
+   "title": "Transferable multi-domain state generator for task-oriented dialogue systems",
+   "authors": "CS Wu, A Madotto, E Hosseini-Asl, C Xiong, R Socher, P Fung",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Neural text summarization: A critical evaluation",
+   "authors": "W Kryściński, NS Keskar, B McCann, C Xiong, R Socher",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Tying word vectors and word classifiers: A loss framework for language modeling",
+   "authors": "H Inan, K Khosravi, R Socher",
+   "venue": "arXiv preprint arXiv:1611.01462",
+   "year": "2016"
+  },
+  {
+   "title": "Bertology meets biology: Interpreting attention in protein language models",
+   "authors": "J Vig, A Madani, LR Varshney, C Xiong, R Socher, NF Rajani",
+   "venue": "arXiv preprint arXiv:2006.15222",
+   "year": "2020"
+  },
+  {
+   "title": "A neural network for factoid question answering over paragraphs",
+   "authors": "M Iyyer, JL Boyd-Graber, L Claudino, R Socher, H Daumé III",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": "2014"
+  },
+  {
+   "title": "Learning continuous phrase representations and syntactic parsing with recursive neural networks",
+   "authors": "R Socher, CD Manning, AY Ng",
+   "venue": "",
+   "year": "2010"
+  },
+  {
+   "title": "Progen: Language modeling for protein generation",
+   "authors": "A Madani, B McCann, N Naik, NS Keskar, N Anand, RR Eguchi, ...",
+   "venue": "BioRxiv, 2020.03. 07.982272",
+   "year": "2020"
+  },
+  {
+   "title": "A closer look at deep learning heuristics: Learning rate restarts, warmup and distillation",
+   "authors": "A Gotmare, NS Keskar, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1810.13243",
+   "year": "2018"
+  },
+  {
+   "title": "TOD-BERT: Pre-trained natural language understanding for task-oriented dialogue",
+   "authors": "CS Wu, SCH Hoi, R Socher, C Xiong",
+   "venue": "Proceedings of the 2020 conference on empirical methods in natural language …",
+   "year": "2020"
+  },
+  {
+   "title": "Learning to retrieve reasoning paths over wikipedia graph for question answering",
+   "authors": "A Asai, K Hashimoto, H Hajishirzi, R Socher, C Xiong",
+   "venue": "arXiv preprint arXiv:1911.10470",
+   "year": "2019"
+  },
+  {
+   "title": "Self-monitoring navigation agent via auxiliary progress estimation",
+   "authors": "CY Ma, J Lu, Z Wu, G AlRegib, Z Kira, R Socher, C Xiong",
+   "venue": "arXiv preprint arXiv:1901.03035",
+   "year": "2019"
+  },
+  {
+   "title": "Dye-sensitized solar cells under ambient light powering machine learning: towards autonomous smart sensors for the internet of things",
+   "authors": "H Michaels, M Rinderle, R Freitag, I Benesperi, T Edvinsson, R Socher, ...",
+   "venue": "Chemical Science 11 (11), 2895-2906",
+   "year": "2020"
+  },
+  {
+   "title": "Adaframe: Adaptive frame selection for fast video recognition",
+   "authors": "Z Wu, C Xiong, CY Ma, R Socher, LS Davis",
+   "venue": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2019"
+  },
+  {
+   "title": "Deep learning-enabled breast cancer hormonal receptor status determination from base-level H&E stains",
+   "authors": "N Naik, A Madani, A Esteva, NS Keskar, MF Press, D Ruderman, DB Agus, ...",
+   "venue": "Nature communications 11 (1), 5727",
+   "year": "2020"
+  },
+  {
+   "title": "Connecting modalities: Semi-supervised segmentation and annotation of images using unaligned text corpora",
+   "authors": "R Socher, L Fei-Fei",
+   "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern …",
+   "year": "2010"
+  },
+  {
+   "title": "Bridging textual and tabular data for cross-domain text-to-SQL semantic parsing",
+   "authors": "XV Lin, R Socher, C Xiong",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 4870-4888",
+   "year": "2020"
+  },
+  {
+   "title": "The AI Economist: Taxation policy design via two-level deep multiagent reinforcement learning",
+   "authors": "S Zheng, A Trott, S Srinivasa, DC Parkes, R Socher",
+   "venue": "Science advances 8 (18), eabk2607",
+   "year": "2022"
+  },
+  {
+   "title": "Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)",
+   "authors": "J Pennington, R Socher, C Manning",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "ImageNet: A large-scale hierarchical image database. 248–255",
+   "authors": "J Deng, W Dong, R Socher, LJ Li, K Li, L Fei-Fei",
+   "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition in Miami …",
+   "year": "2009"
+  },
+  {
+   "title": "Deep learning for NLP (without magic)",
+   "authors": "R Socher, CD Manning",
+   "venue": "NAACL HLT 2013 Tutorial Abstracts, 1-3",
+   "year": "2013"
+  },
+  {
+   "title": "Prostate cancer therapy personalization via multi-modal deep learning on randomized phase III clinical trials",
+   "authors": "A Esteva, J Feng, D van der Wal, SC Huang, JP Simko, S DeVries, ...",
+   "venue": "NPJ digital medicine 5 (1), 71",
+   "year": "2022"
+  },
+  {
+   "title": "Dart: Open-domain structured data record to text generation",
+   "authors": "L Nan, D Radev, R Zhang, A Rau, A Sivaprasad, C Hsieh, X Tang, A Vyas, ...",
+   "venue": "Proceedings of the 2021 Conference of the North American Chapter of the …",
+   "year": "2021"
+  },
+  {
+   "title": "COVID-19 information retrieval with deep-learning based semantic search, question answering, and abstractive summarization",
+   "authors": "A Esteva, A Kale, R Paulus, K Hashimoto, W Yin, D Radev, R Socher",
+   "venue": "NPJ digital medicine 4 (1), 68",
+   "year": "2021"
+  },
+  {
+   "title": "Global-locally self-attentive encoder for dialogue state tracking",
+   "authors": "V Zhong, C Xiong, R Socher",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Global-to-local memory pointer networks for task-oriented dialogue",
+   "authors": "CS Wu, R Socher, C Xiong",
+   "venue": "arXiv preprint arXiv:1901.04713",
+   "year": "2019"
+  },
+  {
+   "title": "The ai economist: Improving equality and productivity with ai-driven tax policies",
+   "authors": "S Zheng, A Trott, S Srinivasa, N Naik, M Gruesbeck, DC Parkes, R Socher",
+   "venue": "arXiv preprint arXiv:2004.13332",
+   "year": "2020"
+  },
+  {
+   "title": "Improving abstraction in text summarization",
+   "authors": "W Kryściński, R Paulus, C Xiong, R Socher",
+   "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language …",
+   "year": "2018"
+  },
+  {
+   "title": "Explore, discover and learn: Unsupervised discovery of state-covering skills",
+   "authors": "V Campos, A Trott, C Xiong, R Socher, X Giró-i-Nieto, J Torres",
+   "venue": "International conference on machine learning, 1317-1327",
+   "year": "2020"
+  },
+  {
+   "title": "An analysis of neural language modeling at multiple scales",
+   "authors": "S Merity, NS Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:1803.08240",
+   "year": "2018"
+  },
+  {
+   "title": "Hierarchical and interpretable skill acquisition in multi-task reinforcement learning",
+   "authors": "T Shu, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1712.07294",
+   "year": "2017"
+  },
+  {
+   "title": "Find or classify? dual strategy for slot-value predictions on multi-domain dialog state tracking",
+   "authors": "J Zhang, K Hashimoto, CS Wu, Y Wang, PS Yu, R Socher, C Xiong",
+   "venue": "Proceedings of the ninth joint conference on lexical and computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Sparc: Cross-domain semantic parsing in context",
+   "authors": "T Yu, R Zhang, M Yasunaga, YC Tan, XV Lin, S Li, H Er, I Li, B Pang, ...",
+   "venue": "Proceedings of the 57th annual meeting of the association for computational …",
+   "year": "2019"
+  },
+  {
+   "title": "Cosql: A conversational text-to-sql challenge towards cross-domain natural language interfaces to databases",
+   "authors": "T Yu, R Zhang, H Er, S Li, E Xue, B Pang, XV Lin, YC Tan, T Shi, Z Li, ...",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Keeping your distance: Solving sparse reward tasks using self-balancing shaped rewards",
+   "authors": "A Trott, S Zheng, C Xiong, R Socher",
+   "venue": "Advances in neural information processing systems 32",
+   "year": "2019"
+  },
+  {
+   "title": "Efficient and robust question answering from minimal context over documents",
+   "authors": "S Min, V Zhong, R Socher, C Xiong",
+   "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational …",
+   "year": "2018"
+  },
+  {
+   "title": "Dynamic Memory Network",
+   "authors": "R Socher, A Kumar, O Irsoy, M Iyyer, C Xiong, S Merity, R Paulus",
+   "venue": "US Patent App. 15/221,532",
+   "year": "2017"
+  },
+  {
+   "title": "Weighted transformer network for machine translation",
+   "authors": "K Ahmed, NS Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:1711.02132",
+   "year": "2017"
+  },
+  {
+   "title": "Deep neural network-based decision network",
+   "authors": "AR Johansen, B McCann, J BRADBURY, R Socher",
+   "venue": "US Patent 11,250,311",
+   "year": "2022"
+  },
+  {
+   "title": "Large language models: a survey (2024)",
+   "authors": "S Minaee, T Mikolov, N Nikzad, M Chenaghlu, R Socher, X Amatriain, ...",
+   "venue": "URL https://arxiv. org/abs/2402.06196 4 (4)",
+   "year": "2025"
+  },
+  {
+   "title": "Recursive deep learning for natural language processing and computer vision",
+   "authors": "R Socher",
+   "venue": "Stanford University",
+   "year": "2014"
+  },
+  {
+   "title": "Grappa: Grammar-augmented pre-training for table semantic parsing",
+   "authors": "T Yu, CS Wu, XV Lin, B Wang, YC Tan, X Yang, D Radev, R Socher, ...",
+   "venue": "arXiv preprint arXiv:2009.13845",
+   "year": "2020"
+  },
+  {
+   "title": "Sentinel gate for modulating auxiliary information in a long short-term memory (lstm) neural network",
+   "authors": "LU Jiasen, C Xiong, R Socher",
+   "venue": "US Patent 10,565,306",
+   "year": "2020"
+  },
+  {
+   "title": "Training a joint many-task neural network model using successive regularization",
+   "authors": "K Hashimoto, C Xiong, R Socher",
+   "venue": "US Patent 11,042,796",
+   "year": "2021"
+  },
+  {
+   "title": "Large language models: A survey. arXiv",
+   "authors": "S Minaee, T Mikolov, N Nikzad, M Chenaghlu, R Socher, X Amatriain, ...",
+   "venue": "arXiv preprint arXiv:2402.06196",
+   "year": "2024"
+  },
+  {
+   "title": "Dynamic Memory Network",
+   "authors": "R Socher, A Kumar, O Irsoy, M Iyyer, C Xiong, S Merity, R Paulus",
+   "venue": "US Patent App. 15/170,884",
+   "year": "2016"
+  },
+  {
+   "title": "Dcn+: Mixed objective and deep residual coattention for question answering",
+   "authors": "C Xiong, V Zhong, R Socher",
+   "venue": "arXiv preprint arXiv:1711.00106",
+   "year": "2017"
+  },
+  {
+   "title": "It’s morphin’time! Combating linguistic discrimination with inflectional perturbations",
+   "authors": "S Tan, S Joty, MY Kan, R Socher",
+   "venue": "Proceedings of the 58th annual meeting of the association for computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Learning from noisy anchors for one-stage object detection",
+   "authors": "H Li, Z Wu, C Zhu, C Xiong, R Socher, LS Davis",
+   "venue": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …",
+   "year": "2020"
+  },
+  {
+   "title": "Spatial attention model for image captioning",
+   "authors": "LU Jiasen, C Xiong, R Socher",
+   "venue": "US Patent 10,558,750",
+   "year": "2020"
+  },
+  {
+   "title": "Neural network based translation of natural language queries to database queries",
+   "authors": "V ZHONG, C Xiong, R Socher",
+   "venue": "US Patent 10,747,761",
+   "year": "2020"
+  },
+  {
+   "title": "Generating dual sequence inferences using a neural network model",
+   "authors": "V ZHONG, C Xiong, R Socher",
+   "venue": "US Patent 11,170,287",
+   "year": "2021"
+  },
+  {
+   "title": "Pointer sentinel mixture architecture",
+   "authors": "SJ MERITY, C Xiong, J BRADBURY, R Socher",
+   "venue": "US Patent 10,565,493",
+   "year": "2020"
+  },
+  {
+   "title": "Adaptive attention model for image captioning",
+   "authors": "LU Jiasen, C Xiong, R Socher",
+   "venue": "US Patent 10,565,305",
+   "year": "2020"
+  },
+  {
+   "title": "Dynamic coattention network for question answering",
+   "authors": "C Xiong, V ZHONG, R Socher",
+   "venue": "US Patent App. 15/421,193",
+   "year": "2018"
+  },
+  {
+   "title": "Aspect specific sentiment analysis using hierarchical deep learning",
+   "authors": "H Lakkaraju, R Socher, C Manning",
+   "venue": "NIPS Workshop on deep learning and representation learning, 1-9",
+   "year": "2014"
+  },
+  {
+   "title": "ImageNet: A large-scale hierarchical image database",
+   "authors": "R Socher, J Deng, W Dong, R Socher, LJ Li, K Li, L Fei-Fei",
+   "venue": "2009 IEEE conference on computer vision and pattern recognition, 248-255",
+   "year": "2009"
+  },
+  {
+   "title": "Taming maml: Efficient unbiased meta-reinforcement learning",
+   "authors": "H Liu, R Socher, C Xiong",
+   "venue": "International conference on machine learning, 4061-4071",
+   "year": "2019"
+  },
+  {
+   "title": "Quasi-recurrent neural network",
+   "authors": "J BRADBURY, SJ MERITY, C Xiong, R Socher",
+   "venue": "US Patent App. 15/420,710",
+   "year": "2018"
+  },
+  {
+   "title": "Neural network combined image and text evaluator and classifier",
+   "authors": "R Socher",
+   "venue": "US Patent App. 15/421,209",
+   "year": "2017"
+  },
+  {
+   "title": "Domain specific language for generation of recurrent neural network architectures",
+   "authors": "SJ MERITY, R Socher, J BRADBURY, C Xiong",
+   "venue": "US Patent App. 15/953,265",
+   "year": "2018"
+  },
+  {
+   "title": "Deep neural network model for processing data through multiple linguistic task hierarchies",
+   "authors": "K Hashimoto, C Xiong, R Socher",
+   "venue": "US Patent 11,222,253",
+   "year": "2022"
+  },
+  {
+   "title": "Joint many-task neural network model for multiple natural language processing (NLP) tasks",
+   "authors": "K Hashimoto, C Xiong, R Socher",
+   "venue": "US Patent 10,839,284",
+   "year": "2020"
+  },
+  {
+   "title": "Wslln: Weakly supervised natural language localization networks",
+   "authors": "M Gao, L Davis, R Socher, C Xiong",
+   "venue": "Proceedings of the 2019 conference on empirical methods in natural language …",
+   "year": "2019"
+  },
+  {
+   "title": "Quasi-recurrent neural network based encoder-decoder model",
+   "authors": "J BRADBURY, SJ MERITY, C Xiong, R Socher",
+   "venue": "US Patent 11,080,595",
+   "year": "2021"
+  },
+  {
+   "title": "BERT is not an interlingua and the bias of tokenization",
+   "authors": "J Singh, B McCann, R Socher, C Xiong",
+   "venue": "Proceedings of the 2nd Workshop on Deep Learning Approaches for Low-Resource …",
+   "year": "2019"
+  },
+  {
+   "title": "Regularization techniques for end-to-end speech recognition",
+   "authors": "Y Zhou, C Xiong, R Socher",
+   "venue": "US Patent App. 15/851,579",
+   "year": "2019"
+  },
+  {
+   "title": "Engagement estimator",
+   "authors": "R Socher",
+   "venue": "US Patent App. 15/221,541",
+   "year": "2017"
+  },
+  {
+   "title": "Hierarchical and interpretable skill acquisition in multi-task reinforcement learning",
+   "authors": "C Xiong, SHU Tianmin, R Socher",
+   "venue": "US Patent App. 15/885,727",
+   "year": "2019"
+  },
+  {
+   "title": "Dense video captioning",
+   "authors": "Y Zhou, L Zhou, C Xiong, R Socher",
+   "venue": "US Patent 10,542,270",
+   "year": "2020"
+  },
+  {
+   "title": "Probability-Based Guider",
+   "authors": "AR Johansen, B McCann, J BRADBURY, R Socher",
+   "venue": "US Patent App. 15/853,530",
+   "year": "2018"
+  },
+  {
+   "title": "Discriminative nearest neighbor few-shot intent detection by transferring natural language inference",
+   "authors": "J Zhang, K Hashimoto, W Liu, CS Wu, Y Wan, PS Yu, R Socher, C Xiong",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Natural language processing using a neural network",
+   "authors": "B McCann, C Xiong, R Socher",
+   "venue": "US Patent 10,699,060",
+   "year": "2020"
+  },
+  {
+   "title": "Catastrophic fisher explosion: Early phase fisher matrix impacts generalization",
+   "authors": "S Jastrzebski, D Arpit, O Astrand, GB Kerg, H Wang, C Xiong, R Socher, ...",
+   "venue": "International Conference on Machine Learning, 4772-4784",
+   "year": "2021"
+  },
+  {
+   "title": "Neural network combined image and text evaluator and classifier",
+   "authors": "R Socher",
+   "venue": "US Patent App. 15/835,261",
+   "year": "2018"
+  },
+  {
+   "title": "Computer Vision and Pattern Recognition",
+   "authors": "J Deng, W Dong, R Socher, LJ Li, K Li, L Fei-Fei",
+   "venue": "2009, CVPR 2009, IEEE Conference on: dates: 20-25 June 2009",
+   "year": "2009"
+  },
+  {
+   "title": "Natural language processing using context specific word vectors",
+   "authors": "B McCann, C Xiong, R Socher",
+   "venue": "US Patent 10,817,650",
+   "year": "2020"
+  },
+  {
+   "title": "Interpretable counting in visual question answering",
+   "authors": "AR Trott, C Xiong, R Socher",
+   "venue": "US Patent 10,592,767",
+   "year": "2020"
+  },
+  {
+   "title": "Tree-structured attention with hierarchical accumulation",
+   "authors": "XP Nguyen, S Joty, SCH Hoi, R Socher",
+   "venue": "arXiv preprint arXiv:2002.08046",
+   "year": "2020"
+  },
+  {
+   "title": "Xlda: Cross-lingual data augmentation for natural language inference and question answering",
+   "authors": "J Singh, B McCann, NS Keskar, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1905.11471",
+   "year": "2019"
+  },
+  {
+   "title": "Multitask learning as question answering",
+   "authors": "NS Keskar, B McCann, C Xiong, R Socher",
+   "venue": "US Patent 11,501,076",
+   "year": "2022"
+  },
+  {
+   "title": "Question answering from minimal context over documents",
+   "authors": "MIN Sewon, V ZHONG, C Xiong, R Socher",
+   "venue": "US Patent 11,227,218",
+   "year": "2022"
+  },
+  {
+   "title": "Multitask learning as question answering",
+   "authors": "B McCann, NS Keskar, C Xiong, R Socher",
+   "venue": "US Patent 10,776,581",
+   "year": "2020"
+  },
+  {
+   "title": "Editing-based SQL query generation for cross-domain context-dependent questions",
+   "authors": "R Zhang, T Yu, H Er, S Shim, E Xue, XV Lin, T Shi, C Xiong, R Socher, ...",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "Seq2sql: Generating structured queries from natural language using reinforcement learning, 2017",
+   "authors": "V Zhong, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1709.00103",
+   "year": null
+  },
+  {
+   "title": "Learning new facts from knowledge bases with neural tensor networks and semantic word vectors",
+   "authors": "D Chen, R Socher, CD Manning, AY Ng",
+   "venue": "arXiv preprint arXiv:1301.3618",
+   "year": "2013"
+  },
+  {
+   "title": "Scaling Short-answer Grading by Combining Peer Assessment with Algorithmic Scoring",
+   "authors": "C Kulkarni, R Socher, MS Bernstein, SR Klemmer",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Hybrid training of deep networks",
+   "authors": "NS Keskar, R Socher",
+   "venue": "US Patent 11,276,002",
+   "year": "2022"
+  },
+  {
+   "title": "Interpretable counting for visual question answering",
+   "authors": "A Trott, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1712.08697",
+   "year": "2017"
+  },
+  {
+   "title": "Universal natural language processing with limited annotations: Try few-shot textual entailment as a start",
+   "authors": "W Yin, NF Rajani, D Radev, R Socher, C Xiong",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Competitive experience replay",
+   "authors": "H Liu, A Trott, R Socher, C Xiong",
+   "venue": "arXiv preprint arXiv:1902.00528",
+   "year": "2019"
+  },
+  {
+   "title": "Startnet: Online detection of action start in untrimmed videos",
+   "authors": "M Gao, M Xu, LS Davis, R Socher, C Xiong",
+   "venue": "Proceedings of the IEEE/CVF international conference on computer vision …",
+   "year": "2019"
+  },
+  {
+   "title": "Towards understanding hierarchical learning: Benefits of neural representations",
+   "authors": "M Chen, Y Bai, JD Lee, T Zhao, H Wang, C Xiong, R Socher",
+   "venue": "Advances in Neural Information Processing Systems 33, 22134-22145",
+   "year": "2020"
+  },
+  {
+   "title": "Theory-inspired path-regularized differential network architecture search",
+   "authors": "P Zhou, C Xiong, R Socher, SCH Hoi",
+   "venue": "Advances in Neural Information Processing Systems 33, 8296-8307",
+   "year": "2020"
+  },
+  {
+   "title": "Woad: Weakly supervised online action detection in untrimmed videos",
+   "authors": "M Gao, Y Zhou, R Xu, R Socher, C Xiong",
+   "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern …",
+   "year": "2021"
+  },
+  {
+   "title": "Coarse-grain fine-grain coattention network for multi-evidence question answering",
+   "authors": "V Zhong, C Xiong, NS Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:1901.00603",
+   "year": "2019"
+  },
+  {
+   "title": "Genie: A generator of natural language semantic parsers for virtual assistant commands",
+   "authors": "G Campagna, S Xu, M Moradshahi, R Socher, MS Lam",
+   "venue": "Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …",
+   "year": "2019"
+  },
+  {
+   "title": "January 20-25). Imagenet: A large-scale hierarchical image database. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Miami, FL, USA",
+   "authors": "J Deng, W Dong, R Socher, LJ Li, K Li, L Fei-Fei",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "Systems and methods for learning for domain adaptation",
+   "authors": "E Hosseini-Asl, C Xiong, Y Zhou, R Socher",
+   "venue": "US Patent 11,106,182",
+   "year": "2021"
+  },
+  {
+   "title": "Unsupervised non-parallel speech domain adaptation using a multi-discriminator adversarial network",
+   "authors": "E Hosseini-Asl, C Xiong, Y Zhou, R Socher",
+   "venue": "US Patent 10,783,875",
+   "year": "2020"
+  },
+  {
+   "title": "Global-locally self-attentive dialogue state tracker",
+   "authors": "V Zhong, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1805.09655",
+   "year": "2018"
+  },
+  {
+   "title": "Deep neural language modeling enables functional protein generation across families",
+   "authors": "A Madani, B Krause, ER Greene, S Subramanian, BP Mohr, JM Holton, ...",
+   "venue": "BioRxiv, 2021.07. 18.452833",
+   "year": "2021"
+  },
+  {
+   "title": "Global belief recursive neural networks",
+   "authors": "R Paulus, R Socher, CD Manning",
+   "venue": "Advances in Neural Information Processing Systems 27",
+   "year": "2014"
+  },
+  {
+   "title": "Systems and methods for unifying question answering and text classification via span extraction",
+   "authors": "NS Keskar, B McCann, R Socher, C Xiong",
+   "venue": "US Patent 11,281,863",
+   "year": "2022"
+  },
+  {
+   "title": "Augmented cyclic adversarial learning for low resource domain adaptation",
+   "authors": "E Hosseini-Asl, Y Zhou, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1807.00374",
+   "year": "2018"
+  },
+  {
+   "title": "A multi-discriminator cyclegan for unsupervised non-parallel speech domain adaptation",
+   "authors": "E Hosseini-Asl, Y Zhou, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1804.00522",
+   "year": "2018"
+  },
+  {
+   "title": "Non-autoregressive dialog state tracking",
+   "authors": "H Le, R Socher, SCH Hoi",
+   "venue": "arXiv preprint arXiv:2002.08024",
+   "year": "2020"
+  },
+  {
+   "title": "Improving generalization performance by switching from adam to sgd. arXiv 2017",
+   "authors": "NS Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:1712.07628",
+   "year": "2017"
+  },
+  {
+   "title": "On the generalization gap in reparameterizable reinforcement learning",
+   "authors": "H Wang, S Zheng, C Xiong, R Socher",
+   "venue": "International Conference on Machine Learning, 6648-6658",
+   "year": "2019"
+  },
+  {
+   "title": "Deep learning for NLP",
+   "authors": "R Socher, Y Bengio, C Manning",
+   "venue": "Tutorial at Association of Computational Logistics (ACL)",
+   "year": "2012"
+  },
+  {
+   "title": "COVID-19 growth rate decreases with social capital",
+   "authors": "LR Varshney, R Socher",
+   "venue": "MedRxiv, 2020.04. 23.20077321",
+   "year": "2020"
+  },
+  {
+   "title": "Revisiting activation regularization for language rnns",
+   "authors": "S Merity, B McCann, R Socher",
+   "venue": "arXiv preprint arXiv:1708.01009",
+   "year": "2017"
+  },
+  {
+   "title": "Spectral chinese restaurant processes: Nonparametric clustering based on similarities",
+   "authors": "R Socher, A Maas, C Manning",
+   "venue": "Proceedings of the fourteenth international conference on artificial …",
+   "year": "2011"
+  },
+  {
+   "title": "Photon: A robust cross-domain text-to-SQL system",
+   "authors": "J Zeng, XV Lin, SCH Hoi, R Socher, C Xiong, MR Lyu, I King",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Improving out-of-distribution generalization via multi-task self-supervised pretraining",
+   "authors": "I Albuquerque, N Naik, J Li, N Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:2003.13525",
+   "year": "2020"
+  },
+  {
+   "title": "Towards noise-resistant object detection with noisy annotations",
+   "authors": "J Li, C Xiong, R Socher, S Hoi",
+   "venue": "arXiv preprint arXiv:2003.01285",
+   "year": "2020"
+  },
+  {
+   "title": "Multitask Learning As Question Answering",
+   "authors": "B McCann, NS Keskar, C Xiong, R Socher",
+   "venue": "US Patent App. 16/006,691",
+   "year": "2019"
+  },
+  {
+   "title": "Identifying generalization properties in neural networks",
+   "authors": "H Wang, NS Keskar, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1809.07402",
+   "year": "2018"
+  },
+  {
+   "title": "Systems and methods for real-time search based generative artificial intelligence",
+   "authors": "R Socher, B McCann",
+   "venue": "US Patent App. 18/354,506",
+   "year": "2024"
+  },
+  {
+   "title": "The AI economist: Optimal economic policy design via two-level deep reinforcement learning",
+   "authors": "S Zheng, A Trott, S Srinivasa, DC Parkes, R Socher",
+   "venue": "arXiv preprint arXiv:2108.02755",
+   "year": "2021"
+  },
+  {
+   "title": "An investigation of phone-based subword units for end-to-end speech recognition",
+   "authors": "W Wang, G Wang, A Bhatnagar, Y Zhou, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:2004.04290",
+   "year": "2020"
+  },
+  {
+   "title": "Explaining and improving model behavior with k nearest neighbor representations",
+   "authors": "NF Rajani, B Krause, W Yin, T Niu, R Socher, C Xiong",
+   "venue": "arXiv preprint arXiv:2010.09030",
+   "year": "2020"
+  },
+  {
+   "title": "Using mode connectivity for loss landscape analysis",
+   "authors": "A Gotmare, NS Keskar, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1806.06977",
+   "year": "2018"
+  },
+  {
+   "title": "Improving end-to-end speech recognition with policy learning",
+   "authors": "Y Zhou, C Xiong, R Socher",
+   "venue": "2018 IEEE international conference on acoustics, speech and signal …",
+   "year": "2018"
+  },
+  {
+   "title": "A Bayesian analysis of dynamics in free recall",
+   "authors": "R Socher, S Gershman, P Sederberg, K Norman, A Perotte, D Blei",
+   "venue": "Advances in neural information processing systems 22",
+   "year": "2009"
+  },
+  {
+   "title": "Biological data annotation via a human-augmenting AI-based labeling system",
+   "authors": "D van der Wal, I Jhun, I Laklouk, J Nirschl, L Richer, R Rojansky, ...",
+   "venue": "NPJ digital medicine 4 (1), 145",
+   "year": "2021"
+  },
+  {
+   "title": "Systems and methods for unifying question answering and text classification via span extraction",
+   "authors": "NS Keskar, B McCann, R Socher, C Xiong",
+   "venue": "US Patent 11,657,233",
+   "year": "2023"
+  },
+  {
+   "title": "Online structured meta-learning",
+   "authors": "H Yao, Y Zhou, M Mahdavi, ZJ Li, R Socher, C Xiong",
+   "venue": "Advances in Neural Information Processing Systems 33, 6779-6790",
+   "year": "2020"
+  },
+  {
+   "title": "Unifying question answering, text classification, and regression via span extraction",
+   "authors": "NS Keskar, B McCann, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1904.09286",
+   "year": "2019"
+  },
+  {
+   "title": "Prediction-correction approach to zero shot learning",
+   "authors": "L Hu, C Xiong, R Socher",
+   "venue": "US Patent 11,087,177",
+   "year": "2021"
+  },
+  {
+   "title": "Spatial attention model for image captioning",
+   "authors": "LU Jiasen, C Xiong, R Socher",
+   "venue": "US Patent 10,846,478",
+   "year": "2020"
+  },
+  {
+   "title": "Composed variational natural language generation for few-shot intents",
+   "authors": "C Xia, C Xiong, SY Philip, R Socher",
+   "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020, 3379-3388",
+   "year": "2020"
+  },
+  {
+   "title": "Limits of detecting text generated by large-scale language models",
+   "authors": "LR Varshney, NS Keskar, R Socher",
+   "venue": "2020 Information Theory and Applications Workshop (ITA), 1-5",
+   "year": "2020"
+  },
+  {
+   "title": "Structured text translation",
+   "authors": "K Hashimoto, R BUSCHIAZZO, J BRADBURY, T MARSHALL, C Xiong, ...",
+   "venue": "US Patent 10,963,652",
+   "year": "2021"
+  },
+  {
+   "title": "ESPRIT: Explaining solutions to physical reasoning tasks",
+   "authors": "NF Rajani, R Zhang, YC Tan, S Zheng, J Weiss, A Vyas, A Gupta, C Xiong, ...",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "Methods and apparatus for virtual coronary mapping",
+   "authors": "W Zhang, Y Zhu, A Barbu, R Socher, S Böhm, P Durlak, D Comaniciu",
+   "venue": "US Patent 8,355,550",
+   "year": "2013"
+  },
+  {
+   "title": "A learning based hierarchical model for vessel segmentation",
+   "authors": "R Socher, A Barbu, D Comaniciu",
+   "venue": "2008 5th IEEE International Symposium on Biomedical Imaging: From Nano to …",
+   "year": "2008"
+  },
+  {
+   "title": "Two-stage online detection of action start in untrimmed videos",
+   "authors": "M Gao, R Socher, C Xiong",
+   "venue": "US Patent 10,902,289",
+   "year": "2021"
+  },
+  {
+   "title": "Regularizing and optimizing LSTM language models. arXiv 2017",
+   "authors": "S Merity, NS Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:1708.02182",
+   "year": "2017"
+  },
+  {
+   "title": "Method and system for vessel segmentation in fluoroscopic images",
+   "authors": "R Socher, A Barbu, B Georgescu, W Zhang, P Durlak, S Böhm, ...",
+   "venue": "US Patent 8,121,367",
+   "year": "2012"
+  },
+  {
+   "title": "Progen: Language modeling for protein generation. arXiv 2020",
+   "authors": "A Madani, B McCann, N Naik, NS Keskar, N Anand, RR Eguchi, ...",
+   "venue": "arXiv preprint arXiv:2004.03497",
+   "year": "2004"
+  },
+  {
+   "title": "Learning world graphs to accelerate hierarchical reinforcement learning",
+   "authors": "W Shang, A Trott, S Zheng, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1907.00664",
+   "year": "2019"
+  },
+  {
+   "title": "Computer Vision and Pattern Recognition, 2009. CVPR 2009",
+   "authors": "J Deng, W Dong, R Socher, LJ Li, K Li, L Fei-Fei",
+   "venue": "IEEE Conference on. IEEE, 248-255",
+   "year": "2009"
+  },
+  {
+   "title": "Dense video captioning",
+   "authors": "Y Zhou, L Zhou, C Xiong, R Socher",
+   "venue": "US Patent 10,958,925",
+   "year": "2021"
+  },
+  {
+   "title": "Cer, and Christopher D",
+   "authors": "WY Zou, R Socher, M Daniel",
+   "venue": "Manning",
+   "year": "2013"
+  },
+  {
+   "title": "Systems and Methods for Reading Comprehension for a Question Answering Task",
+   "authors": "A Akari, K Hashimoto, R Socher, C Xiong",
+   "venue": "US Patent App. 16/695,494",
+   "year": "2020"
+  },
+  {
+   "title": "Taylorized training: Towards better approximation of neural network training at finite width",
+   "authors": "Y Bai, B Krause, H Wang, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:2002.04010",
+   "year": "2020"
+  },
+  {
+   "title": "Agent persona grounded chit-chat generation framework",
+   "authors": "S ZHENG, W Kryscinski, R Socher, C Xiong",
+   "venue": "US Patent 11,087,092",
+   "year": "2021"
+  },
+  {
+   "title": "Mkd: a multi-task knowledge distillation approach for pretrained language models",
+   "authors": "L Liu, H Wang, J Lin, R Socher, C Xiong",
+   "venue": "arXiv preprint arXiv:1911.03588",
+   "year": "2019"
+  },
+  {
+   "title": "Manning.(2014) Glove: Global vectors for word representation",
+   "authors": "J Pennington, R Socher, D Christopher",
+   "venue": "Proceedings of the 2014 conference on empirical methods in natural language …",
+   "year": null
+  },
+  {
+   "title": "Unifying question answering and text classification via span extraction",
+   "authors": "NS Keskar, B McCann, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1904.09286",
+   "year": "2019"
+  },
+  {
+   "title": "Improved regularization techniques for end-to-end speech recognition",
+   "authors": "Y Zhou, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1712.07108",
+   "year": "2017"
+  },
+  {
+   "title": "System and methods for training task-oriented dialogue (tod) language models",
+   "authors": "CS Wu, CH Hoi, R Socher, C Xiong",
+   "venue": "US Patent App. 17/088,206",
+   "year": "2022"
+  },
+  {
+   "title": "Two-stage online detection of action start in untrimmed videos",
+   "authors": "M Gao, R Socher, C Xiong",
+   "venue": "US Patent 11,232,308",
+   "year": "2022"
+  },
+  {
+   "title": "Evaluating state-of-the-art classification models against bayes optimality",
+   "authors": "R Theisen, H Wang, LR Varshney, C Xiong, R Socher",
+   "venue": "Advances in Neural Information Processing Systems 34, 9367-9377",
+   "year": "2021"
+  },
+  {
+   "title": "Pretrained AI models: Performativity, mobility, and change",
+   "authors": "LR Varshney, NS Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:1909.03290",
+   "year": "2019"
+  },
+  {
+   "title": "Attentive student meets multi-task teacher: Improved knowledge distillation for pretrained models",
+   "authors": "L Liu, H Wang, J Lin, R Socher, C Xiong",
+   "venue": "arXiv preprint arXiv:1911.03588",
+   "year": "2019"
+  },
+  {
+   "title": "Efficient Off-Policy Credit Assignment",
+   "authors": "H Liu, R Socher, C Xiong",
+   "venue": "US Patent App. 16/653,890",
+   "year": "2020"
+  },
+  {
+   "title": "Explicit memory tracker with coarse-to-fine reasoning for conversational machine reading",
+   "authors": "Y Gao, CS Wu, S Joty, C Xiong, R Socher, I King, M Lyu, SCH Hoi",
+   "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational …",
+   "year": "2020"
+  },
+  {
+   "title": "A high-quality multilingual dataset for structured documentation translation",
+   "authors": "K Hashimoto, R Buschiazzo, J Bradbury, T Marshall, R Socher, C Xiong",
+   "venue": "Proceedings of the Fourth Conference on Machine Translation (Volume 1 …",
+   "year": "2019"
+  },
+  {
+   "title": "Weakly supervised natural language localization networks for video proposal prediction based on a text query",
+   "authors": "M Gao, R Socher, C Xiong",
+   "venue": "US Patent 11,687,588",
+   "year": "2023"
+  },
+  {
+   "title": "Block-diagonal hessian-free optimization for training neural networks",
+   "authors": "H Zhang, C Xiong, J Bradbury, R Socher",
+   "venue": "arXiv preprint arXiv:1712.07296",
+   "year": "2017"
+  },
+  {
+   "title": "A flexible approach to automated RNN architecture generation",
+   "authors": "M Schrimpf, S Merity, J Bradbury, R Socher",
+   "venue": "arXiv preprint arXiv:1712.07316",
+   "year": "2017"
+  },
+  {
+   "title": "Wu; jason chuang; christopher d",
+   "authors": "R Socher, A Perelygin, Y Jean",
+   "venue": "MANNING, Andrew Y. NG et Christopher POTTS.«Recursive deep models for …",
+   "year": "2013"
+  },
+  {
+   "title": "Neural network based translation of natural language queries to database queries",
+   "authors": "V ZHONG, C Xiong, R Socher",
+   "venue": "US Patent 11,526,507",
+   "year": "2022"
+  },
+  {
+   "title": "Multitask Learning As Question Answering",
+   "authors": "B McCann, NS Keskar, C Xiong, R Socher",
+   "venue": "US Patent App. 16/996,726",
+   "year": "2020"
+  },
+  {
+   "title": "Robustness Evaluation via Natural Typos",
+   "authors": "L Sun, K Hashimoto, J Li, R Socher, C Xiong",
+   "venue": "US Patent App. 16/559,196",
+   "year": "2020"
+  },
+  {
+   "title": "Scalable language modeling: Wikitext-103 on a single gpu in 12 hours",
+   "authors": "S Merity, NS Keskar, J Bradbury, R Socher",
+   "venue": "Proceedings of the SYSML 18",
+   "year": "2018"
+  },
+  {
+   "title": "Natural language processing with deep learning",
+   "authors": "C Manning, R Socher",
+   "venue": "Lecture Notes Stanford University School of Engineering",
+   "year": "2017"
+  },
+  {
+   "title": "CS224n: natural language processing with deep learning",
+   "authors": "C Manning, R Socher, GG Fang, R Mundra",
+   "venue": "Lecture note, 200",
+   "year": "2017"
+  },
+  {
+   "title": "MetaMind neural machine translation system for WMT 2016",
+   "authors": "J Bradbury, R Socher",
+   "venue": "Proceedings of the First Conference on Machine Translation: Volume 2, Shared …",
+   "year": "2016"
+  },
+  {
+   "title": "Towards neural machine translation with latent tree attention",
+   "authors": "J Bradbury, R Socher",
+   "venue": "Proceedings of the 2nd Workshop on Structured Prediction for Natural …",
+   "year": "2017"
+  },
+  {
+   "title": "Pointer sentinel mixture models. CoRR abs/1609.07843 (2016)",
+   "authors": "S Merity, C Xiong, J Bradbury, R Socher",
+   "venue": "arXiv preprint arXiv:1609.07843",
+   "year": "2016"
+  },
+  {
+   "title": "Richard Socher i Christopher Manning. 2014.„GloVe: Global Vectors for Word Representation “",
+   "authors": "J Pennington",
+   "venue": "U Proceedings of the 2014 Conference on Empirical Methods in Natural …",
+   "year": null
+  },
+  {
+   "title": "Converse: A tree-based modular task-oriented dialogue system",
+   "authors": "T Xie, X Yang, AS Lin, F Wu, K Hashimoto, J Qu, YM Kang, W Yin, ...",
+   "venue": "arXiv preprint arXiv:2203.12187",
+   "year": "2022"
+  },
+  {
+   "title": "Learning when to skim and when to read",
+   "authors": "A Johansen, R Socher",
+   "venue": "Proceedings of the 2nd Workshop on Representation Learning for NLP, 257-264",
+   "year": "2017"
+  },
+  {
+   "title": "Efficient determination of user intent for natural language expressions based on machine learning",
+   "authors": "J Zhang, K Hashimoto, CS Wu, W Liu, R Socher, C Xiong",
+   "venue": "US Patent 11,544,470",
+   "year": "2023"
+  },
+  {
+   "title": "DIME: An information-theoretic difficulty measure for AI datasets",
+   "authors": "P Zhang, H Wang, N Naik, C Xiong, R Socher",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Sketch-Fill-AR: A persona-grounded chit-chat generation framework",
+   "authors": "M Shum, S Zheng, W Kryściński, C Xiong, R Socher",
+   "venue": "Proceedings of the 2nd Workshop on Natural Language Processing for …",
+   "year": "2020"
+  },
+  {
+   "title": "Correction networks: Meta-learning for zero-shot learning",
+   "authors": "RL Hu, C Xiong, R Socher",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "others. 2013. Recursive deep models for semantic compositionality over a sentiment treebank",
+   "authors": "R Socher, A Perelygin, JY Wu, J Chuang, CD Manning, AY Ng, C Potts",
+   "venue": "Proceedings of the conference on empirical methods in natural language …",
+   "year": null
+  },
+  {
+   "title": "Manifold learning and dimensionality reduction with diffusion maps",
+   "authors": "R Socher, M Hein",
+   "venue": "Seminar report, Saarland University",
+   "year": "2008"
+  },
+  {
+   "title": "Natural language processing using context-specific word vectors",
+   "authors": "B McCann, C Xiong, R Socher",
+   "venue": "US Patent 11,409,945",
+   "year": "2022"
+  },
+  {
+   "title": "Artificial intelligence for streamlined immunofluorescence-based biomarker discovery in prostate cancer.",
+   "authors": "CM de la Calle, HG Nguyen, E Hosseini-Asl, C So, R Socher, C Xiong, ...",
+   "venue": "Journal of Clinical Oncology 38 (6_suppl), 279-279",
+   "year": "2020"
+  },
+  {
+   "title": "Stanford glove: Global vectors for word representation",
+   "authors": "J Pennington, R Socher, C Manning",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "A way out of the odyssey: Analyzing and combining recent insights for lstms",
+   "authors": "S Longpre, S Pradhan, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1611.05104",
+   "year": "2016"
+  },
+  {
+   "title": "Improved semantic representations from tree-structured long short-term memory networks. CoRR abs/1503.00075 (2015)",
+   "authors": "KS Tai, R Socher, CD Manning",
+   "venue": "arXiv preprint arXiv:1503.00075",
+   "year": "2015"
+  },
+  {
+   "title": "System and method for natural language processing using neural network",
+   "authors": "W Yin, N RAJANI, R Socher, C Xiong",
+   "venue": "US Patent App. 17/093,478",
+   "year": "2021"
+  },
+  {
+   "title": "Regularizing and optimizing LSTM language models",
+   "authors": "M Stephen, KN Shirish, S Richard",
+   "venue": "International Conference on Learning Representations",
+   "year": "2018"
+  },
+  {
+   "title": "Joint many-task neural network model for multiple natural language processing (NLP) tasks",
+   "authors": "K Hashimoto, C Xiong, R Socher",
+   "venue": "US Patent 11,783,164",
+   "year": "2023"
+  },
+  {
+   "title": "The natural language decathlon: Multitask learning as question answering. arXiv 2018",
+   "authors": "B McCann, NS Keskar, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1806.08730",
+   "year": "2018"
+  },
+  {
+   "title": "Glove: Global Vectors for Word Representation. EMNLP 14, 1532–1543",
+   "authors": "J Pennington, R Socher, C Manning",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "The thieves on sesame street are polyglots-extracting multilingual models from monolingual APIs",
+   "authors": "NS Keskar, B McCann, C Xiong, R Socher",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Predicting with high correlation features",
+   "authors": "D Arpit, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1910.00164",
+   "year": "2019"
+  },
+  {
+   "title": "Manning Christopher D, Ng Andrew, Potts Christopher. Recursive deep models for semantic compositionality over a sentiment treebank",
+   "authors": "S Richard, P Alex, W Jean, C Jason",
+   "venue": "Proceedings of the 2013 conference on empirical methods in natural language …",
+   "year": "2013"
+  },
+  {
+   "title": "Stanford’s system for parsing the English web",
+   "authors": "D McClosky, W Che, M Recasens, M Wang, R Socher, C Manning",
+   "venue": "Workshop on the Syntactic Analysis of Non-Canonical Language (SANCL 2012 …",
+   "year": "2012"
+  },
+  {
+   "title": "Quasi-recurrent neural networks (2016)",
+   "authors": "J Bradbury, S Merity, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1611.01576",
+   "year": null
+  },
+  {
+   "title": "Christopher Po s. 2013. Recursive deep models for semantic compositionality over a sentiment treebank",
+   "authors": "R Socher, A Perelygin, J Wu, J Chuang, CD Manning, AY Ng",
+   "venue": "Proceedings of the conference on empirical methods in natural language …",
+   "year": null
+  },
+  {
+   "title": "Editing-based SQL query generation for cross-domain context-dependent questions",
+   "authors": "Z Rui, T Yu, E Heyang, S Sungrok, X Eric, XV Lin, S Tianze, X Caiming, ...",
+   "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language …",
+   "year": "2019"
+  },
+  {
+   "title": "The natural language decathlon: Multitask learning as question answering. arXiv",
+   "authors": "B McCann, NS Keskar, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1806.08730",
+   "year": "2018"
+  },
+  {
+   "title": "Regularizing and optimizing LSTM language models. CoRR abs/1708.02182 (2017)",
+   "authors": "S Merity, NS Keskar, R Socher",
+   "venue": "URL: http://arxiv. org/abs/1708.02182",
+   "year": "2017"
+  },
+  {
+   "title": "Knowing when to look: Adaptive attention via A visual sentinel for image captioning. arXiv 2016",
+   "authors": "J Lu, C Xiong, D Parikh, R Socher",
+   "venue": "arXiv preprint arXiv:1612.01887",
+   "year": "2016"
+  },
+  {
+   "title": "Systems and methods for domain adaptation in dialog act tagging",
+   "authors": "S Yavuz, K Hashimoto, W Liu, NS Keskar, R Socher, C Xiong",
+   "venue": "US Patent App. 16/999,426",
+   "year": "2021"
+  },
+  {
+   "title": "Explore, discover and learn: unsupervised discovery of state-covering skills",
+   "authors": "V Campos Camúñez, A Trott, C Xiong, R Socher, X Giró Nieto, ...",
+   "venue": "ICML 2020, Thirty-seventh International Conference on Machine Learning …",
+   "year": "2020"
+  },
+  {
+   "title": "Deleter: Leveraging BERT to perform unsupervised successive text compression",
+   "authors": "T Niu, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1909.03223",
+   "year": "2019"
+  },
+  {
+   "title": "Deep learning for sentiment analysis-invited talk",
+   "authors": "R Socher",
+   "venue": "Proceedings of the 7th workshop on computational approaches to subjectivity …",
+   "year": "2016"
+  },
+  {
+   "title": "Quasi-recurrent neural networks",
+   "authors": "B James, M Stephen, X Caiming, S Richard",
+   "venue": "arXiv preprint arXiv:1611.01576",
+   "year": "2016"
+  },
+  {
+   "title": "Dynamic memory networks for visual and textual question answering. arXiv, 1603",
+   "authors": "C Xiong, S Merity, R Socher",
+   "venue": "",
+   "year": "2016"
+  },
+  {
+   "title": "Cer, and Christopher D Manning. 2013",
+   "authors": "WY Zou, R Socher, M Daniel",
+   "venue": "Bilingual word embeddings for phrase-based machine translation, 1393-1398",
+   "year": null
+  },
+  {
+   "title": "Simple data augmentation with the mask token improves domain adaptation for dialog act tagging",
+   "authors": "S Yavuz, K Hashimoto, W Liu, NS Keskar, R Socher, C Xiong",
+   "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …",
+   "year": "2020"
+  },
+  {
+   "title": "Explaining creative artifacts",
+   "authors": "LR Varshney, NF Rajani, R Socher",
+   "venue": "arXiv preprint arXiv:2010.07126",
+   "year": "2020"
+  },
+  {
+   "title": "Improving Generalization Performance by Switching from Adam to SGD. CoRR abs/1712.07628 (2017)",
+   "authors": "NS Keskar, R Socher",
+   "venue": "arXiv preprint arXiv:1712.07628",
+   "year": "2017"
+  },
+  {
+   "title": "Quasi-recurrent neural networks. CoRR abs/1611.01576 (2016)",
+   "authors": "J Bradbury, S Merity, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1611.01576",
+   "year": "2016"
+  },
+  {
+   "title": "GloVe: Global Vectors for Word Embeddings",
+   "authors": "J Pennington, R Socher, CD Manning",
+   "venue": "Proceedings of EMNLP",
+   "year": "2014"
+  },
+  {
+   "title": "Systems and methods for a search tool of code snippets",
+   "authors": "R Socher, B McCann",
+   "venue": "US Patent 11,966,446",
+   "year": "2024"
+  },
+  {
+   "title": "Training a joint many-task neural network model using successive regularization",
+   "authors": "K Hashimoto, C Xiong, R Socher",
+   "venue": "US Patent 11,797,825",
+   "year": "2023"
+  },
+  {
+   "title": "Author correction: prostate cancer therapy personalization via multi-modal deep learning on randomized phase III clinical trials",
+   "authors": "A Esteva, J Feng, D van der Wal, SC Huang, JP Simko, S DeVries, ...",
+   "venue": "npj Digital Medicine 6 (1), 27",
+   "year": "2023"
+  },
+  {
+   "title": "Ai’s next great challenge: Understanding the nuances of language",
+   "authors": "R Socher",
+   "venue": "Harvard Business Review 25",
+   "year": "2018"
+  },
+  {
+   "title": "Zero-shot image classification guided by natural language descriptions of classes: A meta-learning approach",
+   "authors": "RL Hu, C Xiong, R Socher",
+   "venue": "Advances in Neural Information Processing Systems 268, 4",
+   "year": "2018"
+  },
+  {
+   "title": "Glove: global vectors for word representation. Paper presented at: Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1532–1543 …",
+   "authors": "J Pennington, R Socher, CD Manning",
+   "venue": "",
+   "year": "2014"
+  },
+  {
+   "title": "Interactive visualizations for deep learning",
+   "authors": "J Chuang, R Socher",
+   "venue": "Proceedings of the IEEE VIS Workshop on Visualization for Predictive Analytics",
+   "year": "2014"
+  },
+  {
+   "title": "IEEE Conference on Computer Vision and Pattern Recognition, 2009. CVPR 2009",
+   "authors": "J Deng, W Dong, R Socher, LJ Li, K Li, L Fei-Fei",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "Systems and methods for safe policy improvement for task oriented dialogues",
+   "authors": "GS Ramachandran, K Hashimoto, C Xiong, R Socher",
+   "venue": "US Patent App. 17/105,262",
+   "year": "2021"
+  },
+  {
+   "title": "Dye-sensitized solar cells under ambient light powering machine learning: towards autonomous smart sensors for the internet of things. Chem Sci 11 (11): 2895–2906",
+   "authors": "H Michaels, M Rinderle, R Freitag, I Benesperi, T Edvinsson, R Socher, ...",
+   "venue": "",
+   "year": "2020"
+  },
+  {
+   "title": "Systems and methods for structured text translation with tag alignment",
+   "authors": "K Hashimoto, R BUSCHIAZZO, J BRADBURY, TA Marshall, C Xiong, ...",
+   "venue": "US Patent App. 17/463,227",
+   "year": "2021"
+  },
+  {
+   "title": "Central Yup'ik and Machine Translation of Low-Resource Polysynthetic Languages",
+   "authors": "C Liu, L Dominé, K Chavez, R Socher",
+   "venue": "arXiv preprint arXiv:2009.04087",
+   "year": "2020"
+  },
+  {
+   "title": "Assessing local generalization capability in deep models",
+   "authors": "H Wang, NS Keskar, C Xiong, R Socher",
+   "venue": "International Conference on Artificial Intelligence and Statistics, 2077-2087",
+   "year": "2020"
+  },
+  {
+   "title": "Co-search: Covid-19 information retrieval with semantic search, question answering, and abstractive summarization",
+   "authors": "E Andre, K Anuprit, P Romain, H Kazuma, Y Wenpeng, R Dragomir",
+   "venue": "Information Retrieval Repository 10",
+   "year": "2020"
+  },
+  {
+   "title": "Global capacity measures for deep relu networks via path sampling",
+   "authors": "R Theisen, JM Klusowski, H Wang, NS Keskar, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1910.10245",
+   "year": "2019"
+  },
+  {
+   "title": "Robust domain adaptation by augmented cyclic adversarial learning",
+   "authors": "E Hosseini-Asl, Y Zhou, C Xiong, R Socher",
+   "venue": "Proceedings of the 31st International Conference on Neural Information …",
+   "year": "2018"
+  },
+  {
+   "title": "Towards the imagenet-cnn of nlp: Pretraining sentence encoders with machine translation",
+   "authors": "B McCann, J Bradbury, C Xiong, R Socher",
+   "venue": "Proceedings of the Advances in Neural Information Processing Systems, Long …",
+   "year": "2017"
+  },
+  {
+   "title": "Combining contexts in lexicon learning for semantic parsing",
+   "authors": "R Socher, C Biemann, R Osswald",
+   "venue": "Proceedings of the 16th Nordic Conference of Computational Linguistics …",
+   "year": "2007"
+  },
+  {
+   "title": "Reference-Free Rating of LLM Responses via Latent Information",
+   "authors": "L Girrbach, CP Su, T Saanum, R Socher, E Schulz, Z Akata",
+   "venue": "arXiv preprint arXiv:2509.24678",
+   "year": "2025"
+  },
+  {
+   "title": "Deep neural network-based decision network",
+   "authors": "AR Johansen, B McCann, J BRADBURY, R Socher",
+   "venue": "US Patent 12,235,790",
+   "year": "2025"
+  },
+  {
+   "title": "Neural Bayes: A Generic Parameterization Method for Unsupervised Representation Learning",
+   "authors": "D Arpit, H Wang, C Xiong, R Socher, Y Bengio",
+   "venue": "arXiv preprint arXiv:2002.09046",
+   "year": "2020"
+  },
+  {
+   "title": "A large-scale hierarchical image database. computer vision and pattern recognition",
+   "authors": "J Deng, W Dong, R Socher, L Li, K Li, LIN Fei-Fei",
+   "venue": "IEEE Conference on Computer Vision and Pattern Recognition",
+   "year": "2019"
+  },
+  {
+   "title": "Tying word vectors and word classifiers: a loss framework for language modeling. CoRR, vol. abs/1611.01462 (2016)",
+   "authors": "H Inan, K Khosravi, R Socher",
+   "venue": "arXiv preprint arxiv:1611.01462",
+   "year": "2016"
+  },
+  {
+   "title": "ImageNet: a large-scale hierarchical image database. Paper presented at: 2009 IEEE Conference on Computer Vision and Pattern Recognition; 20-25 June. Miami, FL, USA; 2014: 248-255",
+   "authors": "J Deng, W Dong, R Socher, LJ Li, L Kai, FF Li",
+   "venue": "",
+   "year": "2009"
+  },
+  {
+   "title": "ImageNet: a large-scale hierarchical image database Proceedings of IEEE Conference on Computer Vision and Pattern Recognition; 2009 Jun 20-25",
+   "authors": "J Deng, W Dong, R Socher, LJ Li, K Li, FF Li",
+   "venue": "Miami, FL, 248-255",
+   "year": "2009"
+  },
+  {
+   "title": "Generating word embeddings with a word embedder and a character embedder neural network models",
+   "authors": "K Hashimoto, C Xiong, R Socher",
+   "venue": "US Patent App. 17/534,298",
+   "year": "2022"
+  },
+  {
+   "title": "Deep neural network model for processing data through multiple linguistic task hierarchies",
+   "authors": "K Hashimoto, C Xiong, R Socher",
+   "venue": "",
+   "year": "2018"
+  },
+  {
+   "title": "Cs224d deep learning for natural language processing Lecture 2: Word vectors",
+   "authors": "R Socher",
+   "venue": "URl: https://cs224d. stanford. edu/lectures/CS224d-Lecture2. pdf",
+   "year": null
+  },
+  {
+   "title": "Systems and methods for real-time search based generative artificial intelligence",
+   "authors": "R Socher, B McCann",
+   "venue": "US Patent App. 19/028,662",
+   "year": "2025"
+  },
+  {
+   "title": "System and method for unsupervised density based table structure identification",
+   "authors": "A Chadha, C Zeyuan, C Xiong, R Xu, R Socher",
+   "venue": "US Patent 11,347,708",
+   "year": "2022"
+  },
+  {
+   "title": "Prediction-correction approach to zero shot learning",
+   "authors": "L Hu, C Xiong, R Socher",
+   "venue": "US Patent App. 17/397,677",
+   "year": "2021"
+  },
+  {
+   "title": "Explain yourself! leveraging language models for commonsense reasoning",
+   "authors": "N Fatema Rajani, B McCann, C Xiong, R Socher",
+   "venue": "arXiv e-prints, arXiv: 1906.02361",
+   "year": "2019"
+  },
+  {
+   "title": "MP28-01 artificial intelligence (AI) accurately automate and speed immunofluorescence (If)-Based discovery and validation of novel prognostic and predictive biomarkers in …",
+   "authors": "HG Nguyen, E Hosseini-Asl, C So, R Socher, C Xiong, L Xue, PR Carroll, ...",
+   "venue": "Journal of Urology 201, e402-e403",
+   "year": "2019"
+  },
+  {
+   "title": "Natural Language Processing with Deep Learning CS224N/Ling284",
+   "authors": "C Manning, R Socher",
+   "venue": "Lecture",
+   "year": "2019"
+  },
+  {
+   "title": "Entropy Penalty: Towards Generalization Beyond the IID Assumption",
+   "authors": "D Arpit, C Xiong, R Socher",
+   "venue": "",
+   "year": "2019"
+  },
+  {
+   "title": "Proceedings of the 3rd Workshop on Continuous Vector Space Models and their Compositionality",
+   "authors": "A Allauzen, E Grefenstette, KM Hermann, H Larochelle, W Yih",
+   "venue": "Proceedings of the 3rd Workshop on Continuous Vector Space Models and their …",
+   "year": "2015"
+  },
+  {
+   "title": "Systems and methods for a language model-based customized search platform",
+   "authors": "B McCann, R Socher",
+   "venue": "US Patent 12,619,667",
+   "year": "2026"
+  },
+  {
+   "title": "Systems and methods for a search tool of code snippets",
+   "authors": "R Socher, B McCann",
+   "venue": "US Patent 12,282,518",
+   "year": "2025"
+  },
+  {
+   "title": "Generating dual sequence inferences using a neural network model",
+   "authors": "V ZHONG, C Xiong, R Socher",
+   "venue": "US Patent 12,217,146",
+   "year": "2025"
+  },
+  {
+   "title": "Quasi-recurrent neural network based encoder-decoder model",
+   "authors": "J BRADBURY, SJ MERITY, C Xiong, R Socher",
+   "venue": "US Patent 12,198,047",
+   "year": "2025"
+  },
+  {
+   "title": "Systems and methods for reading comprehension for a question answering task",
+   "authors": "A Akari, K Hashimoto, R Socher, C Xiong",
+   "venue": "US Patent 12,169,698",
+   "year": "2024"
+  },
+  {
+   "title": "Systems and methods for a customized search platform",
+   "authors": "B McCann, S Mandava, N Roth, R Socher",
+   "venue": "US Patent 12,079,290",
+   "year": "2024"
+  },
+  {
+   "title": "Systems and methods for search application development",
+   "authors": "B McCann, R Socher",
+   "venue": "US Patent App. 18/623,765",
+   "year": "2024"
+  },
+  {
+   "title": "Systems and methods for a customized search platform",
+   "authors": "B McCann, S Mandava, N Roth, R Socher",
+   "venue": "US Patent 12,013,907",
+   "year": "2024"
+  },
+  {
+   "title": "Multi-hop knowledge graph reasoning with reward shaping",
+   "authors": "XV Lin, C Xiong, R Socher",
+   "venue": "US Patent 11,631,009",
+   "year": "2023"
+  },
+  {
+   "title": "Prostate cancer therapy personalization via multi-modal deep learning on randomized phase III clinical trials (vol 5, 71, 2022)",
+   "authors": "AJ Esteva, J Feng, D van der Wal, SC Huang, J Simko, SE DeVries, ...",
+   "venue": "NPJ DIGITAL MEDICINE 6 (1)",
+   "year": "2023"
+  },
+  {
+   "title": "Track: Machine Learning in Protein Science Deep neural language modeling enables functional protein generation across families",
+   "authors": "A Madani, B Krause, S Subramanian, B Mohr, J Holton, J Olmos, C Xiong, ...",
+   "venue": "PROTEIN SCIENCE 32",
+   "year": "2023"
+  },
+  {
+   "title": "Structured text translation",
+   "authors": "K Hashimoto, R BUSCHIAZZO, J BRADBURY, T MARSHALL, C Xiong, ...",
+   "venue": "US Patent 11,537,801",
+   "year": "2022"
+  },
+  {
+   "title": "Systems and methods for unsupervised autoregressive text compression",
+   "authors": "T Niu, C Xiong, R Socher",
+   "venue": "US Patent 11,487,939",
+   "year": "2022"
+  },
+  {
+   "title": "Three-dimensional (3D) convolution with 3D batch normalization",
+   "authors": "R Socher, C Xiong, KS Tai",
+   "venue": "US Patent 11,416,747",
+   "year": "2022"
+  },
+  {
+   "title": "Interpretable counting in visual question answering",
+   "authors": "AR Trott, C Xiong, R Socher",
+   "venue": "US Patent 11,270,145",
+   "year": "2022"
+  },
+  {
+   "title": "Intelligent Training Set Augmentation for Natural Language Processing Tasks",
+   "authors": "SK Pentyala, M Gupta, A Chadha, I Iyer, R Socher",
+   "venue": "US Patent App. 17/002,562",
+   "year": "2022"
+  },
+  {
+   "title": "Systems and methods for safe policy improvement for task oriented dialogues",
+   "authors": "GS Ramachandran, K Hashimoto, C Xiong, R Socher",
+   "venue": "US Patent App. 17/500,855",
+   "year": "2022"
+  },
+  {
+   "title": "Systems and methods for learning for domain adaptation",
+   "authors": "E Hosseini-Asl, C Xiong, Y Zhou, R Socher",
+   "venue": "US Patent App. 17/460,691",
+   "year": "2021"
+  },
+  {
+   "title": "Diversity and Explainability Parameters for Recommendation Accuracy in Machine Learning Recommendation Systems",
+   "authors": "W Yang, J Li, C Li, L Barnett, M Anderle, S Arajarvi, H Utharavalli, C Xiong, ...",
+   "venue": "US Patent App. 17/093,885",
+   "year": "2021"
+  },
+  {
+   "title": "Biological data annotation via a human-augmenting AI-based labeling interface",
+   "authors": "A Esteva, D van der Wal, I Jhun, I Laklouk, J Nirschl, L Richer, R Rojansky, ...",
+   "venue": "",
+   "year": "2021"
+  },
+  {
+   "title": "Explaining and Improving Model Behavior with k Nearest Neighbor Representations",
+   "authors": "N Fatema Rajani, B Krause, W Yin, T Niu, R Socher, C Xiong",
+   "venue": "arXiv e-prints, arXiv: 2010.09030",
+   "year": "2020"
+  },
+  {
+   "title": "Data privacy protected machine learning systems",
+   "authors": "L Sun, C Xiong, J Li, R Socher",
+   "venue": "US Patent App. 16/398,757",
+   "year": "2020"
+  },
+  {
+   "title": "Theory-Inspired Path-Regularized Differential Network Architecture Search",
+   "authors": "PZCXR Socher, SCH Hoi",
+   "venue": "arXiv preprint arXiv:2006.16537",
+   "year": "2020"
+  },
+  {
+   "title": "ESPRIT: Explaining Solutions to Physical Reasoning Tasks",
+   "authors": "N Fatema Rajani, R Zhang, Y Chern Tan, S Zheng, J Weiss, A Vyas, ...",
+   "venue": "arXiv e-prints, arXiv: 2005.00730",
+   "year": "2020"
+  },
+  {
+   "title": "Pointer sentinel mixture architecture",
+   "authors": "SJ MERITY, C Xiong, J BRADBURY, R Socher",
+   "venue": "US Patent App. 16/664,508",
+   "year": "2020"
+  },
+  {
+   "title": "ProGen: language modeling for protein generation. arXiv",
+   "authors": "A Madani, B McCann, N Naik, NS Keskar, N Anand, RR Eguchi, ...",
+   "venue": "arXiv preprint arXiv:2004.03497",
+   "year": "2020"
+  },
+  {
+   "title": "Sequence-to-sequence prediction using a neural network model",
+   "authors": "NS Keskar, K Ahmed, R Socher",
+   "venue": "US Patent App. 15/884,125",
+   "year": "2019"
+  },
+  {
+   "title": "Unifying Question Answering, Text Classification, and Regression via Span Extraction",
+   "authors": "N Shirish Keskar, B McCann, C Xiong, R Socher",
+   "venue": "arXiv e-prints, arXiv: 1904.09286",
+   "year": "2019"
+  },
+  {
+   "title": "Improving Abstraction in Text Summarization",
+   "authors": "R Paulus, C Xiong, R Socher",
+   "venue": "arXiv preprint arXiv:1808.07913",
+   "year": "2018"
+  },
+  {
+   "title": "Contextual Salience for Fast and Accurate Sentence Vectors",
+   "authors": "E Zelikman, R Socher",
+   "venue": "arXiv preprint arXiv:1803.08493",
+   "year": "2018"
+  },
+  {
+   "title": "Learning when to skim and when to read",
+   "authors": "A Rosenberg Johansen, R Socher",
+   "venue": "arXiv e-prints, arXiv: 1712.05483",
+   "year": "2017"
+  },
+  {
+   "title": "CS224n: Natural Language Processing with Deep Learning1",
+   "authors": "C Manning, R Socher, GG Fang, R Mundra",
+   "venue": "",
+   "year": "2017"
+  },
+  {
+   "title": "Glove: Global vectors forword representation",
+   "authors": "J Pennington, R Socher, CD Manning",
+   "venue": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language …",
+   "year": "2014"
+  },
+  {
+   "title": "Proceedings of the 2013 NAACL HLT Student Research Workshop",
+   "authors": "A Louis, R Socher, J Hockenmaier, E Ringger",
+   "venue": "Proceedings of the 2013 NAACL HLT Student Research Workshop",
+   "year": "2013"
+  },
+  {
+   "title": "Synthia-A Parser for French",
+   "authors": "R Socher",
+   "venue": "",
+   "year": "2006"
+  },
+  {
+   "title": "SummEval: Re-evaluating Summarization Evaluation",
+   "authors": "B McCann, C Xiong, R Socher, D Radev",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Biological data annotation via a human-augmenting AI-based labeling interface",
+   "authors": "D van der Wal, I Jhun, I Laklouk, J Nirschl, L Richer, R Rojansky, ...",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "A Gibbs Sampler for Spatial Clustering with the Distance-dependent Chinese Restaurant Process",
+   "authors": "R Socher, CD Manning",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Slides by",
+   "authors": "R Socher",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+   "authors": "R Socher, A Perelygin, JY Wu, J Chuang, CD Manning, AY Ng, C Potts",
+   "venue": "Tit: The Stanford Sentiment Treebank",
+   "year": null
+  },
+  {
+   "title": "Guided Adaptive Credit Assignment for Sample Efficient Policy Optimization",
+   "authors": "H Liu, R Socher, C Xiong",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Learning World Graph Decompositions To Accelerate Reinforcement Learning",
+   "authors": "W Shang, A Trott, S Zheng, C Xiong, R Socher",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Tackling the Limits of Deep Learning for NLP",
+   "authors": "R Socher, C Xiong, R Paulus, S Merity, J Bradbury, V Zhong",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Continual Learning via Explicit Structure Learning",
+   "authors": "X Li, Y Zhou, T Wu, R Socher, C Xiong",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Supplementary Material for Submission “End-to-End Dense Video Captioning with Masked Transformer”",
+   "authors": "L Zhou, Y Zhou, JJ Corso, R Socher, C Xiong",
+   "venue": "",
+   "year": null
+  },
+  {
+   "title": "Models for Learning Spatial Interactions in Natural Images for Context-Based Classification",
+   "authors": "R Socher",
+   "venue": "",
+   "year": null
+  }
+ ]
+}
