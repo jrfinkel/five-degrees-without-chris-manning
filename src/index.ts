@@ -19,12 +19,12 @@ app.get("/", (c) => {
   <div class="pill">scan me</div>
 </div>
 
-<div class="topband">
-<div class="center brand">
+<div class="center">
   <pre class="banner">${esc(BANNER)}</pre>
   <div class="subtitle">without <s>chris manning</s></div>
 </div>
 
+<div class="cols">
 <div class="card">
   <p class="muted small" style="margin-top:0">
     Pick two people from the extended Stanford NLP universe. We find the
@@ -58,9 +58,9 @@ app.get("/", (c) => {
     <span class="pill" id="status">loading graph<span class="blink"></span></span>
   </div>
 </div>
-</div>
 
 <div id="out"></div>
+</div>
 
 <footer>
   Data: Google Scholar profiles of <span id="npeople">?</span> Stanford-NLP-adjacent humans ·

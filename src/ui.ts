@@ -122,12 +122,14 @@ body::before {
   .facestars img:nth-child(3n+1), .facestars img:nth-child(3n) { display: none; }
 }
 main { max-width: 860px; margin: 0 auto; padding: 24px 16px 60px; position: relative; z-index: 1; }
-/* ---- landscape / projector layout ---------------------------------- */
+/* ---- landscape / projector layout: controls left, results right ----- */
 @media (min-width: 1100px) {
-  main { max-width: 1560px; padding-top: 14px; }
-  .topband { display: flex; gap: 34px; align-items: center; justify-content: center; }
-  .topband .brand { flex: 0 0 auto; }
-  .topband .card { flex: 1 1 auto; max-width: 820px; margin: 0; }
+  main { max-width: 1500px; padding-top: 14px; }
+  .cols { display: flex; gap: 22px; align-items: flex-start; }
+  .cols > .card { flex: 0 0 450px; position: sticky; top: 14px; margin: 0; }
+  .cols > #out { flex: 1 1 auto; min-width: 0; }
+  .cols .pickers { display: block; }
+  #out > .verdict:first-child { margin-top: 0; }
 }
 @media (min-width: 1400px) {
   body { font-size: 17px; }
@@ -213,19 +215,6 @@ input:focus { outline: none; border-color: var(--honey); }
 .chain .paper .t { font-weight: 700; }
 .chain .paper .t::before { content: "■ "; color: var(--honey); }
 .chain .paper .meta { color: var(--muted); font-size: 0.85em; }
-/* landscape: the chain reads left-to-right like an actual graph path */
-@media (min-width: 1100px) {
-  .chain { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 0; margin: 22px 0; }
-  .chain .person { align-self: center; flex: 0 0 auto; }
-  .chain .paper, .chain .hop {
-    border-left: none; margin-left: 0; padding: 8px 14px 8px 34px; position: relative;
-    flex: 0 1 340px; min-width: 240px;
-    border: 1px dashed var(--muted); background: rgba(0,0,0,0.55); margin-right: 14px; margin-left: 14px;
-  }
-  .chain .paper::before { content: "▶"; position: absolute; left: 10px; top: 50%;
-    transform: translateY(-50%); color: var(--honey); }
-  .chain .paper .meta { display: block; margin-top: 2px; }
-}
 .statgrid { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 8px; }
 .stat { background: #000; border: 1px solid var(--muted); border-radius: 0; padding: 10px 18px; text-align: center; }
 .stat .n { font-size: 1.6em; font-weight: 800; color: var(--honey); }
