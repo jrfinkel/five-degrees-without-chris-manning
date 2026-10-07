@@ -1,0 +1,57 @@
+{
+ "christopher manning": {
+  "user": "1zmDOdwAAAAJ",
+  "scholar_name": "Christopher D Manning",
+  "how": "seed"
+ },
+ "galen andrew": {
+  "user": "TNWwJ-UAAAAJ",
+  "scholar_name": "Galen Andrew",
+  "how": "homepage-is-scholar-link"
+ },
+ "martijn bartelds": {
+  "user": "6acanlUAAAAJ",
+  "scholar_name": "Martijn Bartelds",
+  "how": "homepage:https://martijnbartelds.nl/"
+ },
+ "steven bethard": {
+  "user": "sXM8J5EAAAAJ",
+  "scholar_name": "Steven Bethard",
+  "how": "homepage:http://bethard.faculty.arizona.edu/"
+ },
+ "pushpak bhattacharyya": {
+  "user": "vvg-pAkAAAAJ",
+  "scholar_name": "Pushpak Bhattacharyya",
+  "how": "homepage:http://www.cse.iitb.ac.in/~pb/"
+ },
+ "federico bianchi": {
+  "user": "1okGjb8AAAAJ",
+  "scholar_name": "Federico Bianchi",
+  "how": "homepage:https://federicobianchi.io/"
+ },
+ "rishi bommasani": {
+  "user": "WMBXw1EAAAAJ",
+  "scholar_name": "Rishi Bommasani",
+  "how": "homepage:https://rishibommasani.github.io/"
+ },
+ "antoine bosselut": {
+  "user": "XD9hkJwAAAAJ",
+  "scholar_name": "Antoine Bosselut",
+  "how": "homepage:https://atcbosselut.github.io/"
+ },
+ "giovanni campagna": {
+  "user": "fOioY3wAAAAJ",
+  "scholar_name": "Giovanni Campagna",
+  "how": "homepage:https://gcampax.com"
+ },
+ "hancheng cao": {
+  "user": "w0UNVG0AAAAJ",
+  "scholar_name": "Hancheng Cao",
+  "how": "homepage:http://hanchengcao.me/"
+ },
+ "dallas card": {
+  "user": "qH-rJV8AAAAJ",
+  "scholar_name": "Dallas Card",
+  "how": "homepage:https://dallascard.github.io/"
+ }
+}

@@ -1,0 +1,11 @@
+# 5 Degrees Without Chris Manning — co-authorship pathfinder.
+# Same account/setup pattern as hive-mind: Hono worker on Cloudflare.
+# No D1, no AI — the graph is a static JSON asset, pathfinding runs client-side.
+name = "five-degrees-without-chris-manning"
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+workers_dev = true
+
+# --- Static assets: the co-authorship graph + client script ---
+[assets]
+directory = "./public"

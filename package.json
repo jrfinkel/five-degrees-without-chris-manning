@@ -1,0 +1,20 @@
+{
+  "name": "five-degrees-without-chris-manning",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit",
+    "data": "python3 scripts/parse_people.py && python3 scripts/resolve_ids.py && python3 scripts/fetch_pubs.py && python3 scripts/build_graph.py"
+  },
+  "dependencies": {
+    "hono": "^4"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5",
+    "typescript": "^5",
+    "wrangler": "^4.100.0"
+  }
+}

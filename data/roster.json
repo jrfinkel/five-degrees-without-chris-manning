@@ -1,0 +1,2762 @@
+[
+ {
+  "name": "Virginia Adams",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://github.com/vadam5",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ananth Agarwal",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/ananthagarwal/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Eneko Agirre",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://ixa2.si.ehu.es/eneko/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Galen Andrew",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://scholar.google.com/citations?user=TNWwJ-UAAAAJ&amp;hl=en",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Gabor Angeli",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~angeli/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ruth-Ann Armstrong",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://ruth-ann.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Michelle Bao",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Martijn Bartelds",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://martijnbartelds.nl/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "John Bauer",
+  "source": "list"
+ },
+ {
+  "name": "Jonathan Berant",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www-nlp.stanford.edu/joberant/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Steven Bethard",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://bethard.faculty.arizona.edu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Pushpak Bhattacharyya",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.cse.iitb.ac.in/~pb/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Federico Bianchi",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://federicobianchi.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Steven Bills",
+  "source": "site",
+  "dept": "Symbolic Systems and Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/steven-bills/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jason Bolton",
+  "source": "both",
+  "dept": "Research Programmer",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Rishi Bommasani",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://rishibommasani.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Antoine Bosselut",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://atcbosselut.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Samuel Bowman",
+  "source": "both",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://www.nyu.edu/projects/bowman/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "James Bradbury",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://x.com/jekbradbury",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jason Brenier",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Emrah Budur",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Hung Bui",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Paula Buttery",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.cl.cam.ac.uk/~pjb48/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Bryan Cai",
+  "source": "list"
+ },
+ {
+  "name": "Giovanni Campagna",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://gcampax.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Hancheng Cao",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://hanchengcao.me/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Dallas Card",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://dallascard.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Riley Carlson",
+  "source": "both",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "https://www.linkedin.com/in/riley-carlson",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Sarah H. Cen",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://shcen.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Daniel Cer",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://dmcer.net/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Arun Tejasvi Chaganty",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://arun.chagantys.org/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Arun Chaganty",
+  "source": "list"
+ },
+ {
+  "name": "Nate Chambers",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.usna.edu/Users/cs/nchamber/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Angel Chang",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://angelxuanchang.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Pi-Chuan Chang",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://research.google/people/pi-chuan-chang/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Niladri Chatterji",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://niladri-chatterji.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Wanxiang Che",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://ir.hit.edu.cn/~car/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Danqi Chen",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.cs.princeton.edu/~danqic/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Paul Chen",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Pei-Chun (Heather) Chen",
+  "source": "site",
+  "dept": "Electrical Engineering",
+  "role": null,
+  "url": "https://www.linkedin.com/in/heather-pei-chun-chen-58a31a50/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jiaao Chen",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ryan Chi",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://ryanachi.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ethan A. Chi",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.ethanachi.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ed Chi",
+  "source": "list"
+ },
+ {
+  "name": "Bryan Chia",
+  "source": "site",
+  "dept": "Statistics",
+  "role": null,
+  "url": "https://www.linkedin.com/in/bryan-chia/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yejin Choi",
+  "source": "both",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Derek Chong",
+  "source": "list"
+ },
+ {
+  "name": "Sahil Chopra",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/schopra8/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jason Chuang",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/jcchuang/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "YoungJoo Chung",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kevin Clark",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/~kevclark",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "David Clausen",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.linkedin.com/in/david-clausen-04992b28/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Miriam Connor",
+  "source": "site",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "https://www.linkedin.com/in/miriam-connor-719b6b63/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ian Covert",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://iancovert.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Chris(topher) Cox",
+  "source": "site",
+  "dept": "Symbolic Systems. 2004-2005",
+  "role": null,
+  "url": "https://www.facebook.com/chris.cox",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Chris Cox",
+  "source": "list"
+ },
+ {
+  "name": "Róbert Csordás",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://robertcsordas.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Meg Cychsoz",
+  "source": "site",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Karel D&#39;Oosterlinck",
+  "source": "site",
+  "dept": "Linguistics and CSLI",
+  "role": null,
+  "url": "https://kareldo.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Cristian Danescu-Niculescu-Mizil",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.cs.cornell.edu/~cristian/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Nathan Dass",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/nathandass/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Rohan Davidi",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/rohan-davidi/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Dora Demszky",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.dorademszky.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Mona Diab",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.linkedin.com/in/mona-diab-55946614/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Pedro Domingos",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.cs.washington.edu/homes/pedrod/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Chris Donahue",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://chrisdonahue.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kefan Dong",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://kfdong.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Moussa Doumbouya",
+  "source": "list"
+ },
+ {
+  "name": "Timothy Dozat",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.linkedin.com/in/timothy-dozat-982770198",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Tim Dozat",
+  "source": "list"
+ },
+ {
+  "name": "Yann Dubois",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://yanndubs.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Esin Durmus",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://esdurmus.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Naomi Eigbe",
+  "source": "site",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "https://www.linkedin.com/in/naomieigbe/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Mihail Eric",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.mihaileric.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kawin Ethayarajh",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://kawine.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Chaofei Fan",
+  "source": "list"
+ },
+ {
+  "name": "Anjalie Field",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://anjalief.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jenny Finkel",
+  "source": "list"
+ },
+ {
+  "name": "Roy Frostig",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/~rfrostig/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jan-Philipp Fränken",
+  "source": "site",
+  "dept": "Psychology",
+  "role": null,
+  "url": "https://janphilippfranken.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Michel Galley",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www-nlp.stanford.edu/~mgalley",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Milind Ganjoo",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/mganjoo/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Irene Gao",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://i-gao.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Abhinav Garg",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.abhinavgarg.net/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jon Gauthier",
+  "source": "both",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "http://www.foldl.me",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jing Ge",
+  "source": "site",
+  "dept": "Computer Science. 2019-2020",
+  "role": null,
+  "url": "https://candicegjing.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Atticus Geiger",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://atticusg.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Matthias Gerstgrasser",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://matthias.gerstgrasser.net/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Sam Ginn",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kristina Gligoric",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://kristinagligoric.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Anna Goldie",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.annagoldie.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Sharon Goldwater",
+  "source": "both",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://homepages.inf.ed.ac.uk/sgwater/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Noah Goodman",
+  "source": "site",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Spence Green",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.spencegreen.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Teg Grenager",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/grenager",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Chenchen Gu",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/chenchen-gu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Demi Guo",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://demiguo.org/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Sonal Gupta",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.cs.stanford.edu/people/sonal/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Raghav Gupta",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/raghav-gupta-59777b59/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Surabhi Gupta",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/surbs/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Andrey Gusev",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/~agusev",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kelvin Guu",
+  "source": "site",
+  "dept": "Statistics",
+  "role": null,
+  "url": "http://kelvinguu.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Laura Gwilliams",
+  "source": "site",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Aria Haghighi",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.aria42.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Michael Hahn",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://www.mhahn.info/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "John Hale",
+  "source": "site",
+  "dept": "Linguistics and Computer Science",
+  "role": null,
+  "url": "https://ling.franklin.uga.edu/directory/people/john-hale",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "David Hall",
+  "source": "site",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "https://www.linkedin.com/in/dlwhall",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "David LW Hall",
+  "source": "list"
+ },
+ {
+  "name": "Will Hamilton",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://williamleif.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Braden Hancock",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.bradenhancock.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Hans Hanley",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.hanshanley.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Mike Hardy",
+  "source": "site",
+  "dept": "Graduate School of Education",
+  "role": null,
+  "url": "https://www.linkedin.com/in/michael-hardy-education/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Amelia Hardy",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Tatsunori Hashimoto",
+  "source": "both",
+  "dept": "Computer Science and Statistics",
+  "role": null,
+  "url": "https://thashim.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Robert Hawkins",
+  "source": "site",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "He He",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://hhexiy.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kenneth Heafield",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://kheafield.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Peter Henderson",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.peterhenderson.co/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "John Hewitt",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://nlp.stanford.edu/~johnhew",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Valentin Hofmann",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://valentinhofmann.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jenny Hong",
+  "source": "both",
+  "dept": "Management Science and Engineering",
+  "role": null,
+  "url": "https://jennyhong.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Raine Hoover",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ethan Hsu",
+  "source": "list"
+ },
+ {
+  "name": "Eric H. Huang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://ai.stanford.edu/~ehhuang",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kaili Huang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://kailihuang.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ruihong Huang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://faculty.cse.tamu.edu/huangrh/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jing Huang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://drjinghuang.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Drew Arad Hudson",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/people/dorarad",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Thad Hughes",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/thad-hughes/?originalSubdomain=ca",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Dan Iter",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/daniter/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Alexander Iyabor",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Pranav Jain",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/contactpranavjain/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Robin Jia",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://stanford.edu/~robinjia/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jasper Jian",
+  "source": "list"
+ },
+ {
+  "name": "Hang Jiang",
+  "source": "site",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "https://hjian42.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yucheng Jiang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~yuchengj/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Melvin Johnson",
+  "source": "list"
+ },
+ {
+  "name": "Nikhil Johri",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Dan Jurafsky",
+  "source": "both",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "David Jurgens",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://jurgens.people.si.umich.edu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Preethi Jyothi",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.cse.iitb.ac.in/~pjyothi/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Pratyusha (Ria) Kalluri",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://riakalluri.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Amita Kamath",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://nlp.stanford.edu/~kamatha/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Sepandar Kamvar",
+  "source": "site",
+  "dept": "SCCM",
+  "role": null,
+  "url": "https://www.linkedin.com/in/sdk12345/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jussi Karlgren",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://www.lingvi.st/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Mike Kayser",
+  "source": "site",
+  "dept": "ICME",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kathleen Kenealy",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Adam Keppler",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.akeppler.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Samin Khan",
+  "source": "site",
+  "dept": "Education Data Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/samin-khan/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Urvashi Khandelwal",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://urvashik.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Fereshte Khani",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://fereshte-khani.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Omar Khattab",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://omarkhattab.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Chloe Kiddon",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.cs.washington.edu/homes/chloe/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Douwe Kiela",
+  "source": "site",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Nathan Kim",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Dan Klein",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://people.eecs.berkeley.edu/~klein/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Pang Wei Koh",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://koh.pw",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yuta Koreeda",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Stefan Krawczyk",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/people/stefank/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Elisa Kreiss",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.coalas-lab.com/elisakreiss",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Vijay Krishnan",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/vijay0/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jonas Kuhn",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://www.ims.uni-stuttgart.de/institut/mitarbeiter/jonas/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Vivek Kulkarni",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://viveksck.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ananya Kumar",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://ananyakumar.wordpress.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Monica Lam",
+  "source": "both",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Matthew Lamm",
+  "source": "both",
+  "dept": "Linguistics",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Heeyoung Lee",
+  "source": "site",
+  "dept": "Electrical Engineering",
+  "role": null,
+  "url": "https://www.linkedin.com/in/heeyoung-lee-7a2ab723/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Mina Lee",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://minalee-research.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Andrew Lee",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/andrew-lee-b43259167/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Haejun Lee",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Michael Levin",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://risujin.org/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yoav Levine",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://yoavlevine.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Roger Levy",
+  "source": "both",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.mit.edu/~rplevy/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jiwei Li",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://nlp.stanford.edu/~bdlijiwei/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Xiang (Lisa) Li",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://xiangli1999.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Xuechen Li",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.lxuechen.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Lucy Li",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://lucy3.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Siyan Li",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://siyan-sylvia-li.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Katherine Li",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/katherine-li-1a8606237/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jiayi Li",
+  "source": "site",
+  "dept": "Mathematics",
+  "role": null,
+  "url": "https://www.linkedin.com/in/jiayi-li-54307617b",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Juncen Li",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Percy Liang",
+  "source": "both",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Madeline Liao",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://madelineliao.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ting Lin",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://github.com/tinglinn",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Nelson Liu",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~nfliu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Hong Liu",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://liuhong99.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Chih-Ying Liu",
+  "source": "site",
+  "dept": "Electrical Engineering",
+  "role": null,
+  "url": "https://www.linkedin.com/in/chih-ying-liu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Houjun Liu",
+  "source": "list"
+ },
+ {
+  "name": "Karen Livescu",
+  "source": "site",
+  "dept": "Computer Science and Linguistics",
+  "role": null,
+  "url": "http://ttic.edu/livescu",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Konstantin Lopyrev",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.linkedin.com/in/klopyrev",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Hanson Lu",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://linkedin.com/in/hansonhxlu",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yiwei Luo",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://yiweiluo.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Minh-Thang Luong",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://nlp.stanford.edu/~lmthang/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Tengyu Ma",
+  "source": "site",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Bill MacCartney",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://nlp.stanford.edu/~wcmac/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kyle Mahowald",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://mahowak.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Christopher Manning",
+  "source": "both",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Casey Manning",
+  "source": "list"
+ },
+ {
+  "name": "Jane Manning",
+  "source": "list"
+ },
+ {
+  "name": "Joel Manning",
+  "source": "list"
+ },
+ {
+  "name": "Marie-Catherine de Marneffe",
+  "source": "both",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://www.ling.ohio-state.edu/~mcdm/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Juan Ignacio Cases Martin",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.linkedin.com/in/ignacio-cases/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jenny Rose Finkel Mason",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://nlp.stanford.edu/jrfinkel/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "David McClosky",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://nlp.stanford.edu/~mcclosky/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Praneeth Medepalli",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/praneeth-medepalli/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Julia Mendelsohn",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Paula Merlo",
+  "source": "site",
+  "dept": "Linguistics and Computer Science",
+  "role": null,
+  "url": "http://clcl.unige.ch",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jeff Michels",
+  "source": "list"
+ },
+ {
+  "name": "Mike Mintz",
+  "source": "site",
+  "dept": "Symbolic Systems, Computer Science",
+  "role": null,
+  "url": "http://www.mikemintz.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Azalia Mirhoseini",
+  "source": "site",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Eric Mitchell",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://eric-mitchell.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yasuhide Miura",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Rob Monarch",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://www.robertmunro.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Robert Monarch",
+  "source": "list"
+ },
+ {
+  "name": "Will Monroe",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://wmonroeiv.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Mehrad Moradshahi",
+  "source": "site",
+  "dept": "Electrical Engineering",
+  "role": null,
+  "url": "https://www.linkedin.com/in/mehradmoradshahi/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Candice (Penelton) Morgan",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "William Morgan",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.cs.stanford.edu/~wmorgan/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jesse Mu",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~muj/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Anwesha Mukherjee",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Shikhar Murty",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.shikharmurty.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Felix Muzny",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://muzny.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ramesh Nallapati",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.cs.stanford.edu/~nmramesh/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ananjan Nandi",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/ananjan-nandi-968386201/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Neha Nayak",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Julia (Neidert) Neizonek",
+  "source": "site",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "https://www.linkedin.com/in/julia-neidert/overlay/about-this-profile/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Julia Neizonek",
+  "source": "list"
+ },
+ {
+  "name": "Ani Nenkova",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.linkedin.com/in/ani-nenkova-6223b9212/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Benjamin Newman",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://blnewman.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jamie Nicolson",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.jamienicolson.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Krista Opsahl-Ong",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Satoshi Oyama",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://sites.google.com/site/oyamasatoshi/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Sebastian Padó",
+  "source": "both",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://www.nlpado.de/~sebastian",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Isabel Papadimitriou",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://nlp.stanford.edu/~isabelvp/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ashwin Paranjape",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://ashwinparanjape.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kristen Parton",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www1.cs.columbia.edu/~kristen/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Panupong Pasupat",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/~ppasupat/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yves Peirsman",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://perswww.kuleuven.be/~u0042527/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jeffrey Pennington",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://nlp.stanford.edu/~jpennin/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Alex Perelygin",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/alex-perelygin-59091040/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Hieu Pham",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/~hyhieu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Gabriel Poesia",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://gpoesia.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Eva Portelance",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://evaportelance.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Christopher Potts",
+  "source": "both",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Vinodkumar Prabhakaran",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.cs.stanford.edu/~vinod/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Melvin Johnson Premkumar",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Uriel Cohen Priva",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://blogs.brown.edu/ucohenpr/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Reid Pryzant",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/rpryzant/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Eli Pugh",
+  "source": "site",
+  "dept": "Mathematics",
+  "role": null,
+  "url": "http://elipugh.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Peng Qi",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://qipeng.me/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Anna Rafferty",
+  "source": "both",
+  "dept": "Computer Science. 2006-2008",
+  "role": null,
+  "url": "https://sites.google.com/site/annanrafferty/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Karthik Raghunathan",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://nlp.stanford.edu/~rkarthik",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Anjali Ragupathi",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/anjali-ragupathi-a70306154/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Daniel Ramage",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.linkedin.com/profile/view?id=13798079",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Chetanya Rastogi",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/chetanyarastogi",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Abhinav Rastogi",
+  "source": "site",
+  "dept": "Electrical Engineering",
+  "role": null,
+  "url": "https://www.linkedin.com/in/abhi-rast/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Marta Recasens",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://clic.ub.edu/en/users/marta-recasens",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Siva Reddy",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://sivareddy.in",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Xiang Ren",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.seanre.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kevin Reschke",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/kevin-reschke-0497a111/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Eugenia H. Rho",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://eugeniarho.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Michael Ryan",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.michryan.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kaushik Ram Sadagopan",
+  "source": "site",
+  "dept": "Mechanical Engineering",
+  "role": null,
+  "url": "https://www.linkedin.com/in/kaushik95",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Shiori Sagawa",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~ssagawa/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kamyar Salahi",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://kamyar.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Prady Saligram",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/prady-saligram/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Nay San",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.resunay.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Shibani Santurkar",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://shibanisanturkar.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Parth Sarthi",
+  "source": "list"
+ },
+ {
+  "name": "Conal Sathi",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/conalsathi/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ludwig Schmidt",
+  "source": "site",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Sebastian Schuster",
+  "source": "both",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://sebschu.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Abi See",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/people/abisee/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Daniel Selsam",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Cory Shain",
+  "source": "site",
+  "dept": null,
+  "role": "Faculty",
+  "url": null,
+  "section": "Faculty"
+ },
+ {
+  "name": "Kendrick Shen",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://kendrickshen.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Weiyan Shi",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://wyshi.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Xiaolin Shi",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://sites.google.com/site/shixiaolin/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Harry Shin",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Avash Shrestha",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Vaish Shrivastava",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://vshrivas.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "TG Sido",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.tgsido.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Natalia Silveira",
+  "source": "both",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "http://web.stanford.edu/~natalias/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Abhay Singhal",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://abhaysinghal.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Joseph Smarr",
+  "source": "both",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "https://www.linkedin.com/in/jsmarr/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Rion Snow",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://ai.stanford.edu/~rion/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Richard Socher",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.socher.org",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Dan Sosa",
+  "source": "site",
+  "dept": "Biomedical Informatics",
+  "role": null,
+  "url": "https://dansosa.me/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Valentin Spitkovsky",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/~valentin/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Vivek Srikumar",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://svivek.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Megha Srivastava",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://web.stanford.edu/~meghas/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jacob Steinhardt",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://jsteinhardt.stat.berkeley.edu",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Raghu Subramanian",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Moritz Sudhof",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/sudhof/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yun-Hsuan Sung",
+  "source": "site",
+  "dept": "Electrical Engineering",
+  "role": null,
+  "url": "http://research.google.com/pubs/author37810.html",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Mihai Surdeanu",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.surdeanu.info/mihai/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kai Sheng Tai",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://kaishengtai.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Alex Tamkin",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://alextamkin.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jillian Tang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://jilliantang.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Rohan Taori",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.rohantaori.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Hoang Ngoc Vy Thai",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "John Thickstun",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://homes.cs.washington.edu/~thickstn/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Cindi Thompson",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.usfca.edu/Faculty/Cindi_Thompson/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Julie Tibshirani",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/julie-tibshirani/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Graham Todd",
+  "source": "site",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Mitsunori Toma",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Connor Toups",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/connortoups",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kristina Toutanova",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://nlp.stanford.edu/kristina/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Danny Tse",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/danny-tse/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Huihsin Tseng",
+  "source": "site",
+  "dept": "Linguistics (CU Boulder)",
+  "role": null,
+  "url": "https://www.linkedin.com/in/huihsintseng",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Dimitris Tsipras",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://people.csail.mit.edu/tsipras/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yulia Tsvetkov",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://homes.cs.washington.edu/~yuliats/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Adam Vogel",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/adamvogel/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Rob Voigt",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://robvoigt.faculty.ucdavis.edu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Catalin Voss",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/catalinvoss",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Rose E. Wang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://rosewang2008.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Mengqiu Wang",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/people/mengqiu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Sida Wang",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.sidaw.xyz",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ji Hun Wang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/ji-hun-wang/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Zijian Wang",
+  "source": "site",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "https://nlp.stanford.edu/~zijwang",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Keenon Werling",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/keenon-werling-aa068bb0",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Peter West",
+  "source": "site",
+  "dept": "HAI",
+  "role": null,
+  "url": "https://peterwestai.notion.site",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Julia White",
+  "source": "site",
+  "dept": "Electrical Engineering",
+  "role": null,
+  "url": "https://www.linkedin.com/in/julia-isabel-white",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Pawan Wirawarn",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/pawan-wirawarn",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jean Wu",
+  "source": "both",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "https://www.linkedin.com/in/jeanwu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Zhengxuan Wu",
+  "source": "both",
+  "dept": "Symbolic Systems",
+  "role": null,
+  "url": "http://zen-wu.social/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yuhuai (Tony) Wu",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://yuhuaiwu.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Sang Michael Xie",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~eix/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Ziang Xie",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~zxie/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Lora Xie",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/loraxie/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Silei Xu",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://web.stanford.edu/~silei/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Diyi Yang",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~diyiy/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Violet Yao",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://violetyao.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Michihiro Yasunaga",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://cs.stanford.edu/~myasu",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Eric Yeh",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.ai.sri.com/~yeh/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Akhila Yerukola",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/akhilayerukola/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Steven Woonyeon Yoo",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.stevenyoo.com/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jiahong Yuan",
+  "source": "site",
+  "dept": "Linguistics",
+  "role": null,
+  "url": "https://www.linkedin.com/in/jiahong-yuan-79046715/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Erik Zelikman",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://zelikman.me/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Tianyi Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://tiiiger.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yuhao Zhang",
+  "source": "both",
+  "dept": "Biomedical Informatics",
+  "role": null,
+  "url": "http://yuhao.im/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Andy Zhang",
+  "source": "site",
+  "dept": "Law School",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Hugh Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "William Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/williamxz/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Xikun Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://xikunzhang.github.io",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yian Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://yianzhang.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Yuhui Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~yuhuiz/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Heidi Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/chenyu-heidi-zhang-jhu/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Justine Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://tisjune.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Jason Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/jason-zhang-6860361b8/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Marilyn Zhang",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://www.linkedin.com/in/marilynmzhang/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Xinran Zhao",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://colinzhaoust.github.io/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Lucia Zheng",
+  "source": "list"
+ },
+ {
+  "name": "Victor Zhong",
+  "source": "both",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "http://www.victorzhong.com",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Kaitlyn Zhou",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": "https://cs.stanford.edu/~katezhou/",
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Amir Zur",
+  "source": "site",
+  "dept": "Computer Science",
+  "role": null,
+  "url": null,
+  "section": "Yifan Mai"
+ },
+ {
+  "name": "Tolúlọpẹ́ Ògúnrẹ̀mí",
+  "source": "list"
+ }
+]

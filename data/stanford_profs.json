@@ -1,0 +1,23 @@
+{
+  "_comment": "Curated: people in the roster who hold/held Stanford professorships, with the year their Stanford faculty appointment began (end year null = still there). Years are best-effort from public CVs/bios; 'approx' marks educated guesses. Edit freely and rerun scripts/build_graph.py.",
+  "profs": [
+    {"name": "Christopher Manning", "start": 1999, "end": null},
+    {"name": "Dan Jurafsky", "start": 2003, "end": null, "approx": true},
+    {"name": "Percy Liang", "start": 2012, "end": null},
+    {"name": "Christopher Potts", "start": 2009, "end": null},
+    {"name": "Tatsunori Hashimoto", "start": 2020, "end": null},
+    {"name": "Monica Lam", "start": 1988, "end": null},
+    {"name": "Diyi Yang", "start": 2022, "end": null},
+    {"name": "Yejin Choi", "start": 2024, "end": null, "approx": true},
+    {"name": "Noah Goodman", "start": 2010, "end": null},
+    {"name": "Douwe Kiela", "start": 2023, "end": null, "approx": true},
+    {"name": "Dora Demszky", "start": 2023, "end": null, "approx": true},
+    {"name": "Tengyu Ma", "start": 2019, "end": null},
+    {"name": "Azalia Mirhoseini", "start": 2023, "end": null, "approx": true},
+    {"name": "Laura Gwilliams", "start": 2023, "end": null, "approx": true},
+    {"name": "Cory Shain", "start": 2024, "end": null, "approx": true},
+    {"name": "Robert Hawkins", "start": 2024, "end": null, "approx": true},
+    {"name": "Ludwig Schmidt", "start": 2024, "end": null, "approx": true},
+    {"name": "Meg Cychosz", "start": 2024, "end": null, "approx": true}
+  ]
+}

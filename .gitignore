@@ -1,0 +1,5 @@
+node_modules/
+.wrangler/
+.DS_Store
+# raw crawl artifacts (big, reproducible); parsed data stays in git
+data/raw/
