@@ -16,6 +16,60 @@ export const BANNER = String.raw`
 |____/  |____/|_____|\____|_| \_\_____|_____|____/
 `.replace(/^\n/, "");
 
+/**
+ * Fixed background layer of star-cropped Chris Manning faces (the man you
+ * must route around, watching your every path) — same scatter as hive-mind:
+ * jittered 7x4 grid, shuffled per page load, mostly peeking out around the
+ * opaque content cards.
+ */
+const FACE_SPOTS: Array<[pos: string, top: string, w: number]> = [
+  ["left:-2%", "top:2%", 185],
+  ["left:12%", "top:7%", 140],
+  ["left:27%", "top:1%", 160],
+  ["left:42%", "top:6%", 125],
+  ["left:56%", "top:2%", 155],
+  ["left:71%", "top:8%", 135],
+  ["left:86%", "top:3%", 180],
+  ["left:4%", "top:28%", 155],
+  ["left:18%", "top:33%", 170],
+  ["left:33%", "top:27%", 130],
+  ["left:48%", "top:32%", 150],
+  ["left:62%", "top:26%", 165],
+  ["left:77%", "top:31%", 135],
+  ["left:91%", "top:27%", 155],
+  ["left:-1%", "top:54%", 165],
+  ["left:14%", "top:58%", 130],
+  ["left:29%", "top:52%", 155],
+  ["left:44%", "top:57%", 140],
+  ["left:58%", "top:53%", 170],
+  ["left:73%", "top:58%", 125],
+  ["left:88%", "top:52%", 160],
+  ["left:7%", "top:80%", 140],
+  ["left:22%", "top:84%", 160],
+  ["left:37%", "top:79%", 135],
+  ["left:52%", "top:84%", 155],
+  ["left:66%", "top:78%", 180],
+  ["left:81%", "top:83%", 130],
+  ["left:94%", "top:79%", 150],
+];
+const FACES = Array.from({ length: 37 }, (_, i) => `/faces/star${i}.png`);
+
+function faceLayer(): string {
+  const imgs = [...FACES];
+  for (let i = imgs.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [imgs[i], imgs[j]] = [imgs[j], imgs[i]];
+  }
+  return (
+    `<div class="facestars" aria-hidden="true">` +
+    FACE_SPOTS.map(
+      ([pos, top, w], i) =>
+        `<img src="${imgs[i % imgs.length]}" alt="" style="${pos};${top};width:${w}px">`
+    ).join("") +
+    `</div>`
+  );
+}
+
 export function layout(o: { title: string; body: string }): string {
   return `<!doctype html>
 <html lang="en">
@@ -26,6 +80,7 @@ export function layout(o: { title: string; body: string }): string {
 <style>${CSS}</style>
 </head>
 <body>
+${faceLayer()}
 <main id="content">${o.body}</main>
 <script type="module" src="/app.js"></script>
 </body>
@@ -56,6 +111,15 @@ body {
 body::before {
   content: ""; position: fixed; inset: 0; z-index: 9999; pointer-events: none;
   background: repeating-linear-gradient(0deg, rgba(0,0,0,0) 0 2px, rgba(0,0,0,0.22) 2px 4px);
+}
+/* Chris-in-stars scatter behind everything */
+.facestars { position: fixed; inset: 0; z-index: 0; pointer-events: none; overflow: hidden; }
+.facestars img { position: absolute; opacity: 0.18; }
+/* Phones: the desktop scatter overlaps badly at ~400px wide — keep every
+   third star and shrink them. */
+@media (max-width: 700px) {
+  .facestars img { width: 100px !important; }
+  .facestars img:nth-child(3n+1), .facestars img:nth-child(3n) { display: none; }
 }
 main { max-width: 860px; margin: 0 auto; padding: 24px 16px 60px; position: relative; z-index: 1; }
 a { color: var(--ink); }
