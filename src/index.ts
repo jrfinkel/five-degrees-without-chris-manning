@@ -2,12 +2,15 @@
 // Hono worker (same setup as hive-mind); the heavy lifting — BFS over the
 // co-authorship graph — happens client-side in /app.js against /graph.json.
 import { Hono } from "hono";
+import { renderSVG } from "uqr";
 import { BANNER, esc, layout } from "./ui";
 
 const app = new Hono();
 
-app.get("/", (c) =>
-  c.html(
+app.get("/", (c) => {
+  // QR for whatever host we're serving on (workers.dev or a future domain)
+  const qrSvg = renderSVG(new URL(c.req.url).origin + "/", { ecc: "M", border: 2 });
+  return c.html(
     layout({
       title: "5 Degrees Without Chris Manning",
       body: `
@@ -52,6 +55,11 @@ app.get("/", (c) =>
 
 <div id="out"></div>
 
+<div class="qrblock">
+  <div class="qr">${qrSvg}</div>
+  <div class="pill">scan to summon on your phone</div>
+</div>
+
 <footer>
   Data: Google Scholar profiles of <span id="npeople">?</span> Stanford-NLP-adjacent humans ·
   co-authorship only counts when the paper appears on both people's own
@@ -59,7 +67,7 @@ app.get("/", (c) =>
   curated approximations. No Mannings were harmed.
 </footer>`,
     })
-  )
-);
+  );
+});
 
 export default app;
