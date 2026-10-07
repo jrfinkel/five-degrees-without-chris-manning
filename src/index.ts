@@ -19,7 +19,8 @@ app.get("/", (c) => {
   <div class="pill">scan me</div>
 </div>
 
-<div class="center">
+<div class="topband">
+<div class="center brand">
   <pre class="banner">${esc(BANNER)}</pre>
   <div class="subtitle">without <s>chris manning</s></div>
 </div>
@@ -56,6 +57,7 @@ app.get("/", (c) => {
     <button class="btn secondary" id="lucky">I'm feeling disconnected</button>
     <span class="pill" id="status">loading graph<span class="blink"></span></span>
   </div>
+</div>
 </div>
 
 <div id="out"></div>
